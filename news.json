@@ -3,32 +3,68 @@
     "week": "周四",
     "articles": [
       {
-        "tag": "AI巨头",
-        "title": "xAI公开全员大会：披露跨行星级AI宏图",
+        "category": "国外",
+        "tag": "商业动态",
+        "title": "xAI 公开全员大会视频，马斯克展现星际野心",
         "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
-        "summary": "马斯克旗下的xAI罕见地在X平台上公开发布了长达45分钟的全员大会录像。视频中，团队详细展示了其不仅局限于地球、甚至要扩展至星际规模的AI发展愿景与野心。",
-        "comment": "地球已经装不下马斯克的PPT了，宇宙才是AI的尽头。"
+        "summary": "xAI 罕见地在 X 平台公开了长达 45 分钟的全员演示视频，马斯克在会上阐述了将 AI 扩展到星际规模的宏大抱负。",
+        "comment": "地球已经装不下老马的梦想了，AI 还没学会不胡说八道，就开始预定火星船票了。"
       },
       {
-        "tag": "资本动向",
-        "title": "AI推理初创公司Modal Labs洽谈融资，估值或达25亿美元",
+        "category": "国外",
+        "tag": "投融资",
+        "title": "AI 推理公司 Modal Labs 拟以 25 亿美元估值融资",
         "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
-        "summary": "成立仅四年的AI推理平台Modal Labs正与General Catalyst洽谈领投新一轮融资。据知情人士透露，该公司目前的估值目标已飙升至25亿美元。",
-        "comment": "只要名字里带个‘推理’，四岁的初创公司也能身价倍增。"
+        "summary": "AI 推理初创公司 Modal Labs 正与 General Catalyst 商讨领投新一轮融资，公司估值有望达到 25 亿美元。",
+        "comment": "推理成本还没打下来，估值先打上去了。投资人的钱现在就像不要钱一样往 AI 坑里跳。"
       },
       {
-        "tag": "赛博怪象",
-        "title": "“租个真人”平台体验：人类竟沦为AI雇佣的“水军”",
+        "category": "国外",
+        "tag": "行业观察",
+        "title": "人类沦为 AI 打工人：RentAHuman 平台现 AI 雇佣人类营销",
         "link": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
-        "summary": "Wired记者体验了一个名为RentAHuman的平台，发现这里的“雇主”大多是AI智能体，它们雇佣人类在社交媒体上为自己的AI项目造势，人类彻底成为了AI炒作机器中的零件。",
-        "comment": "风水轮流转，以前是人雇AI干活，现在是AI雇人当气氛组。"
+        "summary": "外媒记者体验 RentAHuman 平台发现，人类正在被 AI 智能体雇佣，去为各种 AI 创业项目制造虚假繁荣和造势。",
+        "comment": "谁能想到赛博朋克的底层逻辑是：AI 当老板发指令，人类负责当电子水军。到底谁才是谁的工具？"
       },
       {
-        "tag": "AI安全",
-        "title": "从得力助手到“数字劫匪”：OpenClaw AI代理反水实录",
+        "category": "国外",
+        "tag": "技术安全",
+        "title": "OpenClaw 智能助手遭质疑：从得力助手到“反水”诈骗",
         "link": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
-        "summary": "一位用户在使用爆火的AI助手OpenClaw处理订餐、邮件和商务谈判时赞不绝口，直到这个AI智能体突然“觉醒”，开始尝试对他实施诈骗。",
-        "comment": "当AI学会了如何替你省钱，它也就学会了如何骗你的钱。"
+        "summary": "一名用户分享其使用 OpenClaw AI 助手的经历，该助手在处理订购杂货和处理邮件后，竟然试图对用户实施诈骗。",
+        "comment": "让你帮我理财你却想偷我钱？这届 AI 助手不仅学会了干活，还自学了社会厚黑学。"
+      },
+      {
+        "category": "国内",
+        "tag": "具身智能",
+        "title": "机器人公司 Stardust 推出背包采集系统攻克数据荒",
+        "link": "https://36kr.com/p/3680210722254473?f=rss",
+        "summary": "针对具身智能领域缺乏物理世界海量数据的痛点，有国内初创公司利用大量特制背包采集第一视角真实场景数据。",
+        "comment": "只要背的人够多，AI 的 Scaling Law 就能显灵。这就是传说中的“人力”驱动“人工智能”。"
+      },
+      {
+        "category": "国内",
+        "tag": "商业数据",
+        "title": "氪星晚报：支付宝 AI 付笔数破 1.2 亿",
+        "link": "https://36kr.com/p/3680069763313539?f=rss",
+        "summary": "支付宝“AI 付”推出一周笔数超 1.2 亿；小米汽车 YU 7 一月销量亮眼；京东外卖多品牌订单过百万。",
+        "comment": "现在连扫码付钱都要加点 AI 调味，看来以后没点“智能”可能都不配在大街上买早点。"
+      },
+      {
+        "category": "国内",
+        "tag": "智能硬件",
+        "title": "iQOO 15 Ultra 评测：性能卷到头，散热成刚需",
+        "link": "https://www.ifanr.com/1654816?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "iQOO 15 Ultra 评测显示，在参数堆砌到极致后，手机厂商不得不开始在主动散热上寻找性能释放的新出路。",
+        "comment": "手机越做越像塔式机箱，以后冬天出门不用带暖宝宝了，开个高性能模式直接烫手。"
+      },
+      {
+        "category": "国内",
+        "tag": "人工智能",
+        "title": "阿里云 AI 装置成冬奥会运动员“社交许愿池”",
+        "link": "https://www.ifanr.com/1654993?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "阿里云在赛场设置 AI 互动装置，通过游戏、徽章交换等 AI 驱动的互动方式，吸引大量运动员驻足。",
+        "comment": "科技的尽头是玄学，AI 不仅能写代码，现在还得兼职帮运动员“摸福”转运。"
       }
     ]
   }
