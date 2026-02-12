@@ -4,37 +4,70 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI 每日观察室</title>
-    
-    <script src="https://cdn.tailwindcss.com"></script>
-    
+    <script src="[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com)"></script>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; margin: 0; padding: 20px; background-color: #f8fafc; }
-        /* 强制限制图标大小，绝对防止变大 */
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; -webkit-font-smoothing: antialiased; }
+        
+        /* 图标大小锁死 */
         svg { width: 1.25rem; height: 1.25rem; } 
-        .icon-huge-fix { width: 20px; height: 20px; }
         
         /* 隐藏滚动条 */
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
         
-        /* 简单的卡片动效 */
-        .news-card { transition: transform 0.2s; }
-        .news-card:hover { transform: translateY(-2px); }
+        /* 卡片动效 */
+        .news-card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+        .news-card:hover { transform: translateY(-3px); box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.1); }
         
         /* 标签选中态 */
-        .tab-btn.active { background-color: #1e293b; color: white; border-color: #1e293b; }
-        .tab-btn.inactive { background-color: white; color: #64748b; border: 1px solid #e2e8f0; }
+        .date-btn.active { background-color: #1e293b; color: white; border-color: #1e293b; }
+        .date-btn.inactive { background-color: white; color: #64748b; border: 1px solid #e2e8f0; }
+
+        /* 滑动开关筛选器 */
+        .filter-bg {
+            background-color: #f1f5f9;
+            border-radius: 9999px;
+            position: relative;
+            padding: 4px;
+            display: inline-flex;
+        }
+        .filter-item {
+            position: relative;
+            z-index: 10;
+            padding: 6px 16px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #64748b;
+            cursor: pointer;
+            transition: color 0.2s;
+            user-select: none;
+        }
+        .filter-item.active {
+            color: #0f172a;
+        }
+        /* 滑块 */
+        .filter-slider {
+            position: absolute;
+            top: 4px;
+            left: 4px;
+            height: calc(100% - 8px);
+            background-color: white;
+            border-radius: 9999px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), width 0.2s;
+            z-index: 1;
+        }
     </style>
 </head>
-<body class="bg-slate-50 font-sans min-h-screen pb-10">
+<body class="bg-slate-50 font-sans min-h-screen pb-12">
     
-    <div class="max-w-3xl mx-auto px-2 sm:px-6 py-4">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 py-6">
         <header class="mb-6 flex flex-col sm:flex-row justify-between items-start sm:items-end gap-4">
             <div>
                 <h1 class="text-3xl font-black text-slate-900 tracking-tight flex items-center gap-2">
                     AI Daily <span class="bg-blue-600 text-white text-[10px] px-2 py-0.5 rounded-full uppercase tracking-wider font-bold">Pro</span>
                 </h1>
-                <p class="text-slate-500 text-sm mt-1">Gemini 驱动的 7 日科技内参</p>
+                <p class="text-slate-500 text-sm mt-1">Gemini 驱动的全球科技内参</p>
             </div>
             
             <div id="status-indicator" class="flex items-center gap-2 text-xs text-slate-400 bg-white px-3 py-1.5 rounded-full border border-slate-100 shadow-sm">
@@ -46,12 +79,20 @@
             </div>
         </header>
 
-        <nav class="mb-6">
-            <div id="date-tabs" class="flex gap-2 overflow-x-auto pb-2 no-scrollbar touch-pan-x">
+        <div class="space-y-4 mb-8">
+            <nav id="date-tabs" class="flex gap-2 overflow-x-auto pb-1 no-scrollbar touch-pan-x">
                 <div class="h-9 w-20 bg-slate-200 rounded-full shrink-0 animate-pulse"></div>
-                <div class="h-9 w-20 bg-slate-200 rounded-full shrink-0 animate-pulse"></div>
+            </nav>
+
+            <div class="flex justify-center sm:justify-start">
+                <div class="filter-bg">
+                    <div id="slider" class="filter-slider" style="width: 33%; transform: translateX(0px);"></div>
+                    <div class="filter-item active" onclick="setFilter('global', this, 0)">全球</div>
+                    <div class="filter-item" onclick="setFilter('国外', this, 1)">国外</div>
+                    <div class="filter-item" onclick="setFilter('国内', this, 2)">国内</div>
+                </div>
             </div>
-        </nav>
+        </div>
 
         <main id="news-container" class="space-y-5">
             <div class="bg-white p-6 rounded-2xl border border-slate-100 shadow-sm">
@@ -71,59 +112,97 @@
 
     <script>
         let archiveData = {};
+        let currentFilter = 'global'; // 默认全选
+        let currentDate = '';         // 当前选中的日期
+
+        // 切换筛选器逻辑
+        function setFilter(type, el, index) {
+            currentFilter = type;
+            
+            // 1. UI 状态更新
+            document.querySelectorAll('.filter-item').forEach(item => item.classList.remove('active'));
+            el.classList.add('active');
+            
+            // 2. 滑块动画
+            const slider = document.getElementById('slider');
+            // 假设每个 item 宽度近似相等，直接按索引移动 100%
+            slider.style.transform = `translateX(${index * 100}%)`;
+
+            // 3. 重新渲染数据
+            renderNews(currentDate);
+        }
 
         function renderNews(date) {
+            currentDate = date; // 记录当前日期供筛选器使用
             const container = document.getElementById('news-container');
             const data = archiveData[date];
-            container.style.opacity = '0.5';
+
+            container.style.opacity = '0.4';
             
             setTimeout(() => {
                 container.innerHTML = '';
                 
                 if (!data || !data.articles || data.articles.length === 0) {
-                    container.innerHTML = `
-                        <div class="text-center py-12 bg-white rounded-2xl border border-dashed border-slate-200">
-                            <p class="text-2xl mb-2">📭</p>
-                            <p class="text-slate-400 text-sm">暂无数据</p>
-                        </div>`;
+                    container.innerHTML = `<div class="text-center py-12 text-slate-400">📭 暂无数据</div>`;
                 } else {
-                    data.articles.forEach(item => {
-                        // 🔥 核心修复：给 SVG 加了 width/height 和 style，锁死大小
-                        const card = `
-                            <article class="news-card bg-white p-5 sm:p-6 rounded-2xl border border-slate-100 shadow-sm flex flex-col relative overflow-hidden group mb-4">
-                                <div class="flex justify-between items-start mb-3">
-                                    <span class="bg-blue-50 text-blue-700 text-[10px] font-bold px-2 py-1 rounded-md border border-blue-100 tracking-wide">
-                                        ${item.tag || '科技'}
-                                    </span>
-                                    <a href="${item.link}" target="_blank" class="text-slate-300 hover:text-blue-600 transition-colors" title="查看原文">
-                                        <svg width="20" height="20" style="width:20px;height:20px;" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                                    </a>
-                                </div>
-                                
-                                <h2 class="text-lg sm:text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-blue-600 transition-colors">
-                                    <a href="${item.link}" target="_blank" class="hover:underline decoration-2 underline-offset-4">${item.title}</a>
-                                </h2>
-                                
-                                <p class="text-slate-600 text-sm leading-relaxed mb-5 text-justify">
-                                    ${item.summary}
-                                </p>
-                                
-                                <div class="mt-auto pt-4 border-t border-slate-50 flex items-center justify-between gap-4">
-                                    <div class="flex-1 bg-slate-50 rounded-lg p-2.5 text-xs text-slate-500 border border-slate-100 italic">
-                                        <span class="not-italic mr-1">🤖</span>${item.comment || '暂无辣评'}
-                                    </div>
-                                    <a href="${item.link}" target="_blank" class="shrink-0 text-sm font-bold text-blue-600 hover:text-blue-800 bg-blue-50 hover:bg-blue-100 px-3 py-2 rounded-lg transition-colors flex items-center gap-1">
-                                        阅读
-                                        <svg width="16" height="16" style="width:16px;height:16px;" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd" /></svg>
-                                    </a>
-                                </div>
-                            </article>
-                        `;
-                        container.innerHTML += card;
+                    // 🔥 核心筛选逻辑
+                    const filteredArticles = data.articles.filter(item => {
+                        if (currentFilter === 'global') return true;
+                        // 兼容旧数据（没有category字段的默认算国外）
+                        const itemCat = item.category || '国外'; 
+                        return itemCat === currentFilter;
                     });
+
+                    if (filteredArticles.length === 0) {
+                        container.innerHTML = `<div class="text-center py-12 bg-white rounded-2xl border border-dashed border-slate-200 text-slate-400">该分类下暂无新闻</div>`;
+                    } else {
+                        filteredArticles.forEach(item => {
+                            // 动态判断标签颜色：国内用红色系，国外用蓝色系
+                            const isDomestic = item.category === '国内';
+                            const tagClass = isDomestic 
+                                ? "bg-red-50 text-red-600 border-red-100" 
+                                : "bg-blue-50 text-blue-600 border-blue-100";
+
+                            const card = `
+                                <article class="news-card bg-white p-5 sm:p-6 rounded-2xl border border-slate-100 shadow-sm flex flex-col relative overflow-hidden group">
+                                    <div class="flex justify-between items-start mb-3">
+                                        <div class="flex gap-2">
+                                            <span class="text-[10px] font-bold px-2 py-1 rounded-md border tracking-wide ${tagClass}">
+                                                ${item.category || '国外'}
+                                            </span>
+                                            <span class="bg-slate-50 text-slate-500 text-[10px] font-bold px-2 py-1 rounded-md border border-slate-100">
+                                                ${item.tag || 'AI'}
+                                            </span>
+                                        </div>
+                                        <a href="${item.link}" target="_blank" class="text-slate-300 hover:text-blue-600 transition-colors">
+                                            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                                        </a>
+                                    </div>
+                                    
+                                    <h2 class="text-lg sm:text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-blue-600 transition-colors">
+                                        <a href="${item.link}" target="_blank">${item.title}</a>
+                                    </h2>
+                                    
+                                    <p class="text-slate-600 text-sm leading-relaxed mb-5 text-justify">
+                                        ${item.summary}
+                                    </p>
+                                    
+                                    <div class="mt-auto pt-4 border-t border-slate-50 flex items-center justify-between gap-4">
+                                        <div class="flex-1 bg-slate-50 rounded-lg p-2.5 text-xs text-slate-500 border border-slate-100 italic">
+                                            <span class="not-italic mr-1">🤖</span>${item.comment || '暂无辣评'}
+                                        </div>
+                                        <a href="${item.link}" target="_blank" class="shrink-0 text-sm font-bold text-blue-600 hover:text-blue-800 bg-blue-50 hover:bg-blue-100 px-3 py-2 rounded-lg transition-colors flex items-center gap-1">
+                                            阅读 <span class="text-xs">→</span>
+                                        </a>
+                                    </div>
+                                </article>
+                            `;
+                            container.innerHTML += card;
+                        });
+                    }
                 }
                 container.style.opacity = '1';
-            }, 100);
+            }, 150);
         }
 
         function initTabs(dates) {
@@ -137,7 +216,7 @@
                 const btn = document.createElement('button');
                 const isToday = index === 0;
                 
-                btn.className = `tab-btn shrink-0 px-4 py-2 rounded-full border text-sm font-medium flex flex-col items-center justify-center min-w-[70px] ${isToday ? 'active' : 'inactive'}`;
+                btn.className = `date-btn shrink-0 px-4 py-2 rounded-full border text-sm font-medium flex flex-col items-center justify-center min-w-[70px] ${isToday ? 'active' : 'inactive'}`;
                 
                 btn.innerHTML = `
                     <span class="text-xs opacity-80 font-normal scale-90">${displayDate}</span>
@@ -145,13 +224,13 @@
                 `;
 
                 btn.onclick = () => {
-                    document.querySelectorAll('.tab-btn').forEach(b => {
+                    document.querySelectorAll('.date-btn').forEach(b => {
                         b.classList.remove('active');
                         b.classList.add('inactive');
                     });
                     btn.classList.remove('inactive');
                     btn.classList.add('active');
-                    renderNews(date);
+                    renderNews(date); // 切换日期时，自动应用当前的 Filter
                 };
 
                 tabContainer.appendChild(btn);
@@ -169,7 +248,7 @@
                 document.getElementById('status-indicator').classList.add('text-green-600', 'bg-green-50');
                 
                 initTabs(sortedDates);
-                renderNews(sortedDates[0]);
+                renderNews(sortedDates[0]); // 默认渲染最新日期 + Global 筛选
             })
             .catch(err => {
                 console.error(err);
