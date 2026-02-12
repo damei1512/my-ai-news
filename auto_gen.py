@@ -12,8 +12,7 @@ if not GEMINI_API_KEY:
 
 genai.configure(api_key=GEMINI_API_KEY)
 
-# 🔥 核心修正：使用你诊断列表里亲眼看见的那个名字
-# 这是一个指向 Gemini 1.5 Flash 的官方别名，免费额度充足
+# 使用你已验证可用的模型
 MODEL_NAME = 'gemini-flash-latest'
 
 def get_latest_news():
@@ -30,12 +29,13 @@ def get_latest_news():
             feed = feedparser.parse(url)
             print(f"   - 连接 {url} 成功，发现 {len(feed.entries)} 条")
             for entry in feed.entries[:2]:
-                articles.append(f"标题: {entry.title}\n简介: {entry.summary[:150]}")
+                # 🔥 核心修改：把链接 (entry.link) 也拼接到文本里，喂给 AI
+                articles.append(f"标题: {entry.title}\n链接: {entry.link}\n简介: {entry.summary[:150]}")
         except Exception as e:
             print(f"   ❌ 连接 {url} 失败: {e}")
 
     if not articles:
-        return "Title: AI News.\nSummary: No new updates found today, but the system is working."
+        return "Title: AI News\nLink: https://google.com\nSummary: No updates found."
     
     return "\n\n---\n\n".join(articles)
 
@@ -49,13 +49,15 @@ def summarize_with_gemini(text_content):
         
         要求：
         1. 必须是标准的 JSON 列表格式。
-        2. 绝对不要使用 Markdown 代码块标记（不要写 ```json）。
+        2. 绝对不要使用 Markdown 代码块标记。
+        3. 【重要】必须保留原文的 "链接" 字段，不要修改它。
         
         JSON 格式示例：
         [
             {{
                 "tag": "AI前沿",
                 "title": "中文标题",
+                "link": "原文链接(直接复制输入文本中的链接)",
                 "summary": "中文摘要",
                 "comment": "一句话点评"
             }}
@@ -65,9 +67,7 @@ def summarize_with_gemini(text_content):
         {text_content}
         """
         
-        # 避免触发频率限制
         time.sleep(2)
-        
         response = model.generate_content(prompt)
         text = response.text.strip()
         
@@ -79,12 +79,12 @@ def summarize_with_gemini(text_content):
         
     except Exception as e:
         print(f"❌ Gemini API 报错: {e}")
-        # 如果这个模型还不行，我们再考虑付费，但大概率是行的
         return [{
             "tag": "系统提示",
             "title": "更新中断",
-            "summary": f"模型 {MODEL_NAME} 调用失败",
-            "comment": str(e)
+            "link": "#", 
+            "summary": f"模型调用失败: {str(e)}",
+            "comment": "请检查日志"
         }]
 
 if __name__ == "__main__":
