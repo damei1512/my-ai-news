@@ -2,10 +2,9 @@ name: Daily AI News Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天 UTC 0 点运行
+    - cron: '0 0 * * *' # 每天 UTC 0 点 (北京时间 8 点) 运行
   workflow_dispatch:      # 允许手动运行
 
-# 🔥 核心修复：直接在这里声明“我要写权限”
 permissions:
   contents: write
 
@@ -17,16 +16,18 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0 # 获取完整的历史记录，防止推送到错误的节点
+        fetch-depth: 0
       
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.11' # 升级到 3.11，消除警告
         
     - name: Install dependencies
       run: |
-        pip install feedparser google-generativeai
+        python -m pip install --upgrade pip
+        # 🔥 核心修复：这里加了 pytz
+        pip install feedparser google-generativeai pytz
         
     - name: Run script
       env:
@@ -38,7 +39,7 @@ jobs:
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         
-        # 检查有没有生成 news.json，如果没有就不用提交了
+        # 检查有没有生成 news.json
         if [ -f "news.json" ]; then
             git add news.json
             
@@ -47,9 +48,10 @@ jobs:
                 echo "没有新新闻，跳过提交"
             else
                 git commit -m "Auto update news: $(date +'%Y-%m-%d')"
-                git push
+                # 使用 Token 权限推送
+                git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
             fi
         else
-            echo "错误：news.json 没有生成！这才是可能是 API 的问题。"
+            echo "错误：news.json 没有生成！请检查 Run script 步骤的日志。"
             exit 1
         fi
