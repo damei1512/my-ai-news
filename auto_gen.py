@@ -1,100 +1,60 @@
 import os
 import json
 import datetime
-import feedparser
 import google.generativeai as genai
 
-# 1. 验证 Key
+# 1. 获取 Key
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
-    raise ValueError("❌ API Key 未配置")
+    print("❌ 错误：根本没读到 Key")
+    exit(1)
+
+# 2. 显示 Key 的前 8 位（帮你确认是否真的换成新的了）
+# 如果网页上显示的和你新申请的不一样，说明 GitHub 没更新成功
+key_mask = f"{GEMINI_API_KEY[:8]}...******"
+print(f"正在使用的 Key: {key_mask}")
 
 genai.configure(api_key=GEMINI_API_KEY)
 
-# 2. 核心配置：使用目前最主流、最便宜的 Flash 模型
-# 如果这个还报错，说明 Google 账号本身有限制
-MODEL_NAME = 'gemini-1.5-flash' 
-
-def get_latest_news():
-    print("📡 正在抓取 RSS...")
-    rss_urls = [
-        "https://techcrunch.com/category/artificial-intelligence/feed/",
-        "https://www.wired.com/feed/tag/ai/latest/rss"
-    ]
+def diagnose_system():
+    report_lines = []
+    report_lines.append(f"🔐 当前使用的 Key 前缀: {GEMINI_API_KEY[:8]} (请核对)")
     
-    articles = []
-    for url in rss_urls:
-        try:
-            feed = feedparser.parse(url)
-            print(f"   - 连接 {url} 成功，发现 {len(feed.entries)} 条")
-            for entry in feed.entries[:2]:
-                articles.append(f"标题: {entry.title}\n简介: {entry.summary[:150]}")
-        except Exception as e:
-            print(f"   ❌ 连接 {url} 失败: {e}")
-
-    # 如果抓不到（比如网络问题），用一条备用新闻测试 API 是否通畅
-    if not articles:
-        print("⚠️ 警告：RSS 抓取为空，使用测试数据验证 API...")
-        return "Title: AI is advancing rapidly.\nSummary: New models are released every day."
+    # 3. 询问 Google：这个 Key 能用哪些模型？
+    report_lines.append("📋 Google 返回的可用模型列表:")
+    available_models = []
     
-    return "\n\n---\n\n".join(articles)
-
-def summarize_with_gemini(text_content):
-    print(f"🤖 正在呼叫 {MODEL_NAME}...")
     try:
-        model = genai.GenerativeModel(MODEL_NAME)
+        # 列出所有模型
+        for m in genai.list_models():
+            if 'generateContent' in m.supported_generation_methods:
+                clean_name = m.name.replace('models/', '')
+                available_models.append(clean_name)
+                report_lines.append(f"   ✅ {clean_name}")
         
-        prompt = f"""
-        你是一个科技新闻编辑。请将以下英文新闻生成为中文日报摘要（JSON格式）。
-        
-        要求：
-        1. 必须是合法的 JSON 列表。
-        2. 不要包含 Markdown 标记（不要写 ```json）。
-        
-        JSON 格式示例：
-        [
-            {{
-                "tag": "AI新闻",
-                "title": "中文标题",
-                "summary": "中文摘要",
-                "comment": "一句话点评"
-            }}
-        ]
+        if not available_models:
+             report_lines.append("   ⚠️ 空！Google 说这个 Key 没有任何模型权限。")
+             report_lines.append("   原因猜测：可能没有在【新项目】中创建 Key，或者需要等待几分钟生效。")
 
-        新闻内容：
-        {text_content}
-        """
-        
-        response = model.generate_content(prompt)
-        text = response.text.strip()
-        
-        # 清洗可能存在的格式符号
-        if text.startswith("```json"): text = text[7:]
-        if text.startswith("```"): text = text[3:]
-        if text.endswith("```"): text = text[:-3]
-        
-        return json.loads(text)
-        
     except Exception as e:
-        print(f"❌ Gemini API 报错: {e}")
-        # 返回一个报错卡片，让你知道哪里出了问题
-        return [{
-            "tag": "系统提示",
-            "title": "API 调用异常",
-            "summary": f"错误详情: {str(e)}",
-            "comment": "请检查 API Key 权限或模型名称"
-        }]
+        report_lines.append(f"   ❌ 连接 Google 失败: {str(e)}")
+        report_lines.append("   原因猜测：网络问题或 Key 无效。")
+
+    return "\n".join(report_lines)
 
 if __name__ == "__main__":
-    raw_news = get_latest_news()
-    news_data = summarize_with_gemini(raw_news)
+    diagnosis = diagnose_system()
     
-    # 写入文件
+    # 生成报告到网页
     output = {
         "date": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
-        "news": news_data
+        "news": [{
+            "tag": "系统体检",
+            "title": "API 诊断报告",
+            "summary": "请查看下方的详细检测结果 👇",
+            "comment": diagnosis 
+        }]
     }
     
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print("✅ 任务完成，news.json 已生成")
