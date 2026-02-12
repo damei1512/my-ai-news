@@ -11,6 +11,8 @@ if not GEMINI_API_KEY:
     raise ValueError("❌ API Key 未配置")
 
 genai.configure(api_key=GEMINI_API_KEY)
+
+# 使用你已验证可用的模型
 MODEL_NAME = 'gemini-flash-latest'
 
 def get_latest_news():
@@ -20,61 +22,80 @@ def get_latest_news():
         "https://www.wired.com/feed/tag/ai/latest/rss",
         "https://openai.com/index/rss.xml"
     ]
+    
     articles = []
     for url in rss_urls:
         try:
             feed = feedparser.parse(url)
+            print(f"   - 连接 {url} 成功，发现 {len(feed.entries)} 条")
             for entry in feed.entries[:2]:
+                # 🔥 核心修改：把链接 (entry.link) 也拼接到文本里，喂给 AI
                 articles.append(f"标题: {entry.title}\n链接: {entry.link}\n简介: {entry.summary[:150]}")
-        except: continue
-    return "\n\n---\n\n".join(articles) if articles else "Title: AI update.\nLink: #\nSummary: Daily update active."
+        except Exception as e:
+            print(f"   ❌ 连接 {url} 失败: {e}")
+
+    if not articles:
+        return "Title: AI News\nLink: https://google.com\nSummary: No updates found."
+    
+    return "\n\n---\n\n".join(articles)
 
 def summarize_with_gemini(text_content):
     print(f"🤖 正在呼叫 {MODEL_NAME}...")
     try:
         model = genai.GenerativeModel(MODEL_NAME)
-        prompt = f"请将以下英文新闻生成为中文日报摘要（JSON格式列表）。要求：保留link字段，不要Markdown标记。格式：[ {{ 'tag': '', 'title': '', 'link': '', 'summary': '', 'comment': '' }} ]\n内容：{text_content}"
+        
+        prompt = f"""
+        你是一个科技新闻主编。请将以下英文新闻生成为中文日报摘要（JSON格式）。
+        
+        要求：
+        1. 必须是标准的 JSON 列表格式。
+        2. 绝对不要使用 Markdown 代码块标记。
+        3. 【重要】必须保留原文的 "链接" 字段，不要修改它。
+        
+        JSON 格式示例：
+        [
+            {{
+                "tag": "AI前沿",
+                "title": "中文标题",
+                "link": "原文链接(直接复制输入文本中的链接)",
+                "summary": "中文摘要",
+                "comment": "一句话点评"
+            }}
+        ]
+
+        新闻内容：
+        {text_content}
+        """
+        
+        time.sleep(2)
         response = model.generate_content(prompt)
         text = response.text.strip()
+        
         if text.startswith("```json"): text = text[7:]
         if text.startswith("```"): text = text[3:]
         if text.endswith("```"): text = text[:-3]
+        
         return json.loads(text)
-    except: return []
+        
+    except Exception as e:
+        print(f"❌ Gemini API 报错: {e}")
+        return [{
+            "tag": "系统提示",
+            "title": "更新中断",
+            "link": "#", 
+            "summary": f"模型调用失败: {str(e)}",
+            "comment": "请检查日志"
+        }]
 
 if __name__ == "__main__":
-    # 1. 获取今天日期和星期
-    now = datetime.datetime.now()
-    date_str = now.strftime("%Y-%m-%d")
-    week_map = {0: "周一", 1: "周二", 2: "周三", 3: "周四", 4: "周五", 5: "周六", 6: "周日"}
-    day_info = week_map[now.weekday()]
-
-    # 2. 读取现有数据
-    history_file = 'news.json'
-    if os.path.exists(history_file):
-        with open(history_file, 'r', encoding='utf-8') as f:
-            try:
-                all_data = json.load(f)
-                # 兼容旧版本格式
-                if isinstance(all_data, dict) and "news" in all_data: all_data = {}
-            except: all_data = {}
-    else:
-        all_data = {}
-
-    # 3. 抓取并生成今天的新闻
-    today_articles = summarize_with_gemini(get_latest_news())
+    raw_news = get_latest_news()
+    news_data = summarize_with_gemini(raw_news)
     
-    if today_articles:
-        all_data[date_str] = {
-            "day_info": day_info,
-            "articles": today_articles
-        }
-
-    # 4. 只保留最近 7 天
-    sorted_dates = sorted(all_data.keys(), reverse=True)
-    final_data = {d: all_data[d] for d in sorted_dates[:7]}
-
-    # 5. 保存
-    with open(history_file, 'w', encoding='utf-8') as f:
-        json.dump(final_data, f, ensure_ascii=False, indent=2)
-    print(f"✅ 更新成功：{date_str}")
+    output = {
+        "date": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "news": news_data
+    }
+    
+    with open('news.json', 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    print("✅ 任务完成")
