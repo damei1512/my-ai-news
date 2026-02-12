@@ -1,11 +1,11 @@
 {
-  "date": "2026-02-12 08:35",
+  "date": "2026-02-12 08:48",
   "news": [
     {
-      "tag": "报错",
-      "title": "API 调用失败",
-      "summary": "请检查模型名称或网络。错误信息: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
-      "comment": "调试模式"
+      "tag": "系统提示",
+      "title": "API 调用异常",
+      "summary": "错误详情: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "comment": "请检查 API Key 权限或模型名称"
     }
   ]
 }
