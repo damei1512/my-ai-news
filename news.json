@@ -1,0 +1,11 @@
+{
+  "date": "2026-02-12 08:32",
+  "news": [
+    {
+      "tag": "报错",
+      "title": "自动更新出错",
+      "summary": "错误详情: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "comment": "请检查 GitHub Actions 日志"
+    }
+  ]
+}
