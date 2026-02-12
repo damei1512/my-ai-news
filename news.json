@@ -1,11 +1,11 @@
 {
-  "date": "2026-02-12 08:54",
+  "date": "2026-02-12 08:58",
   "news": [
     {
-      "tag": "系统提示",
-      "title": "API 调用异常",
-      "summary": "错误详情: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
-      "comment": "请检查 API Key 权限或模型名称"
+      "tag": "系统体检",
+      "title": "API 诊断报告",
+      "summary": "请查看下方的详细检测结果 👇",
+      "comment": "🔐 当前使用的 Key 前缀: AIzaSyB5 (请核对)\n📋 Google 返回的可用模型列表:\n   ✅ gemini-2.5-flash\n   ✅ gemini-2.5-pro\n   ✅ gemini-2.0-flash\n   ✅ gemini-2.0-flash-001\n   ✅ gemini-2.0-flash-exp-image-generation\n   ✅ gemini-2.0-flash-lite-001\n   ✅ gemini-2.0-flash-lite\n   ✅ gemini-exp-1206\n   ✅ gemini-2.5-flash-preview-tts\n   ✅ gemini-2.5-pro-preview-tts\n   ✅ gemma-3-1b-it\n   ✅ gemma-3-4b-it\n   ✅ gemma-3-12b-it\n   ✅ gemma-3-27b-it\n   ✅ gemma-3n-e4b-it\n   ✅ gemma-3n-e2b-it\n   ✅ gemini-flash-latest\n   ✅ gemini-flash-lite-latest\n   ✅ gemini-pro-latest\n   ✅ gemini-2.5-flash-lite\n   ✅ gemini-2.5-flash-image\n   ✅ gemini-2.5-flash-preview-09-2025\n   ✅ gemini-2.5-flash-lite-preview-09-2025\n   ✅ gemini-3-pro-preview\n   ✅ gemini-3-flash-preview\n   ✅ gemini-3-pro-image-preview\n   ✅ nano-banana-pro-preview\n   ✅ gemini-robotics-er-1.5-preview\n   ✅ gemini-2.5-computer-use-preview-10-2025\n   ✅ deep-research-pro-preview-12-2025"
     }
   ]
 }
