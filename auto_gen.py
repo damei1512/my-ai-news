@@ -46,9 +46,9 @@ def get_latest_news():
     return "\n\n---\n\n".join(articles)
 
 def summarize_with_gemini(text_content):
-    print("🤖 正在呼叫 Gemini 1.5 Flash...")
-    # 尝试使用更稳定的模型名称
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    print("🤖 正在呼叫 Gemini Pro...")
+    # 🔥 修改点：换回最稳定的 gemini-pro 模型
+    model = genai.GenerativeModel('gemini-pro')
     
     prompt = f"""
     请将以下新闻生成为 JSON 格式的中文摘要。
@@ -58,8 +58,8 @@ def summarize_with_gemini(text_content):
     [
         {{
             "tag": "科技",
-            "title": "标题",
-            "summary": "摘要",
+            "title": "中文标题",
+            "summary": "中文摘要",
             "comment": "你的点评"
         }}
     ]
@@ -74,25 +74,25 @@ def summarize_with_gemini(text_content):
         
         # 清洗数据
         text = response.text.strip()
+        # 去掉 markdown 标记
         if text.startswith("```json"): text = text[7:]
+        if text.startswith("```"): text = text[3:]
         if text.endswith("```"): text = text[:-3]
         
         return json.loads(text)
     except Exception as e:
-        print(f"❌ Gemini API 致命错误: {e}")
-        # 如果出错，生成一条报错新闻，保证流程不红灯
+        print(f"❌ Gemini API 错误: {e}")
         return [{
             "tag": "报错",
-            "title": "自动更新出错",
-            "summary": f"错误详情: {str(e)}",
-            "comment": "请检查 GitHub Actions 日志"
+            "title": "API 调用失败",
+            "summary": f"请检查模型名称或网络。错误信息: {str(e)}",
+            "comment": "调试模式"
         }]
 
 if __name__ == "__main__":
     raw_news = get_latest_news()
     news_data = summarize_with_gemini(raw_news)
     
-    # 强制写入文件，不管有没有数据
     output = {
         "date": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
         "news": news_data
