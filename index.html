@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 每日早报</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 font-sans min-h-screen">
+    <div class="max-w-3xl mx-auto p-6">
+        <header class="mb-8 border-b pb-4 flex justify-between items-end">
+            <div>
+                <h1 class="text-3xl font-black text-gray-900">AI Daily <span class="text-blue-600 text-sm align-middle bg-blue-50 px-2 py-1 rounded">Beta</span></h1>
+                <p class="text-gray-500 text-sm mt-1">由 Gemini 每日 08:00 自动整理</p>
+            </div>
+            <p id="update-time" class="text-xs text-gray-400 font-mono"></p>
+        </header>
+
+        <div id="news-container" class="space-y-6">
+            <div class="animate-pulse flex space-x-4">
+                <div class="flex-1 space-y-4 py-1">
+                    <div class="h-4 bg-gray-200 rounded w-3/4"></div>
+                    <div class="space-y-2">
+                        <div class="h-4 bg-gray-200 rounded"></div>
+                        <div class="h-4 bg-gray-200 rounded w-5/6"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 为了防止缓存，加个时间戳
+        fetch('news.json?t=' + new Date().getTime())
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('update-time').textContent = '更新于: ' + data.date;
+                const container = document.getElementById('news-container');
+                container.innerHTML = '';
+                
+                data.news.forEach(item => {
+                    const card = `
+                        <article class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition duration-300">
+                            <div class="flex items-center gap-2 mb-3">
+                                <span class="bg-blue-100 text-blue-800 text-xs font-bold px-2.5 py-0.5 rounded">${item.tag}</span>
+                            </div>
+                            <h2 class="text-xl font-bold text-gray-800 mb-3">${item.title}</h2>
+                            <p class="text-gray-600 text-sm leading-relaxed mb-4">${item.summary}</p>
+                            <div class="bg-slate-50 border-l-4 border-blue-500 p-3 rounded-r text-sm text-gray-600">
+                                <span class="font-bold text-gray-800">🤖 Gemini 辣评：</span> ${item.comment}
+                            </div>
+                        </article>
+                    `;
+                    container.innerHTML += card;
+                });
+            })
+            .catch(err => {
+                console.error(err);
+                document.getElementById('news-container').innerHTML = 
+                    '<div class="text-center py-10 text-gray-500">⏳ 正在等待初次更新...<br>请稍后刷新页面</div>';
+            });
+    </script>
+</body>
+</html>
