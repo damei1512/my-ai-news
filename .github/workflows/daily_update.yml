@@ -2,12 +2,12 @@ name: Daily AI News Update
 
 on:
   schedule:
-    # 每天北京时间早上 08:00 运行 (UTC时间 00:00)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # 允许手动点按钮测试
+    - cron: '0 0 * * *' # 每天 UTC 0 点运行
+  workflow_dispatch:      # 允许手动运行
 
+# 🔥 核心修复：直接在这里声明“我要写权限”
 permissions:
-  contents: write # 给机器人写入权限
+  contents: write
 
 jobs:
   build:
@@ -16,6 +16,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # 获取完整的历史记录，防止推送到错误的节点
       
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -35,11 +37,19 @@ jobs:
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
-        git add news.json
-        # 下面这行是核心修改：强制带上令牌推送到 main 分支
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
+        
+        # 检查有没有生成 news.json，如果没有就不用提交了
+        if [ -f "news.json" ]; then
+            git add news.json
+            
+            # 检查文件是否有变化
+            if git diff --staged --quiet; then
+                echo "没有新新闻，跳过提交"
+            else
+                git commit -m "Auto update news: $(date +'%Y-%m-%d')"
+                git push
+            fi
         else
-          git commit -m "Auto update news"
-          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
+            echo "错误：news.json 没有生成！这才是可能是 API 的问题。"
+            exit 1
         fi
