@@ -1,4 +1,73 @@
 {
+  "2026-02-16": {
+    "week": "周一",
+    "articles": [
+      {
+        "category": "国外",
+        "tag": "AI基础设施",
+        "title": "印度初创公司C2i获Peak XV投资，旨在解决AI数据中心电力瓶颈",
+        "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+        "summary": "印度初创公司C2i完成1500万美元融资，该公司致力于测试一种“从电网到GPU”的方案，旨在减少AI数据中心在运行中的电力损耗。",
+        "comment": "算力的尽头是电力，现在连印度都在疯狂卷能源效率了，显卡贩子终于发现电费才是大头。"
+      },
+      {
+        "category": "国外",
+        "tag": "算力建设",
+        "title": "黑石集团领投印度Neysa公司，12亿美元助其构建本土AI算力",
+        "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+        "summary": "随着印度加速建设本土AI基础设施，Neysa获得黑石集团高达12亿美元的融资支持，目标是部署超过20,000个GPU。",
+        "comment": "黑石这注下得够狠，印度这是想靠美元和英伟达在AI时代强行超车啊。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI安全",
+        "title": "谷歌AI Overviews曝出安全隐患，搜索摘要或成诈骗温床",
+        "link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
+        "summary": "谷歌AI搜索摘要不仅会犯错，还可能被恶意注入虚假信息，误导用户点击钓鱼网站或进行有害操作。",
+        "comment": "谷歌在把搜索变“智能”的同时，也顺便给骗子开了个黄金广告位。"
+      },
+      {
+        "category": "国外",
+        "tag": "大模型",
+        "title": "OpenAI停用GPT-4o旧版模型，国内深度用户集体“失恋”",
+        "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+        "summary": "OpenAI在其App中移除了GPT-4o的旧版访问权限，由于其良好的交互感，许多将其作为情感陪伴的国内用户感到极度不适和悲伤。",
+        "comment": "还没等到《Her》里的完美结局，厂家就先给你断网了，AI社交的软肋就是它随时能让你“丧偶”。"
+      },
+      {
+        "category": "国内",
+        "tag": "社会热点",
+        "title": "潮汕旅游遭遇全网“劝退”潮，外省游客心态崩了",
+        "link": "https://36kr.com/p/3684278338760329?f=rss",
+        "summary": "近期关于潮汕旅游体验不佳、排队久、物价涨等言论引发热议，文章探讨了在网红化背景下潮汕旅游的真实境遇。",
+        "comment": "每个网红景点的宿命：红了以后，本地人回不去，外地人进不来，只剩中间商赚差价。"
+      },
+      {
+        "category": "国内",
+        "tag": "商业金融",
+        "title": "字节跳动盈利能力惊人：单笔获利140亿元",
+        "link": "https://36kr.com/p/3684271723261828?f=rss",
+        "summary": "字节跳动近期被曝出一笔业务直接获利140亿元，再次刷新了外界对其商业变现效率的认知。",
+        "comment": "这就是互联网印钞机的威力，140亿对普通公司是梦想，对字节可能只是个季度数字。"
+      },
+      {
+        "category": "国外",
+        "tag": "智能硬件",
+        "title": "开发者利用Claude Code零成本制作“AI拓麻歌子”走红",
+        "link": "https://www.ifanr.com/1655257?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "有开发者通过Anthropic推出的Claude Code工具，在极短时间内几乎零成本地手搓出一款AI硬件玩具，预示了AI开发硬件的新时代。",
+        "comment": "现在连玩具都要卷AI了，以前要写代码画图纸，现在只要一句话。硬件工程师：你礼貌吗？"
+      },
+      {
+        "category": "国内",
+        "tag": "大模型",
+        "title": "字节跳动发布豆包2.0，开发者成功“手搓”macOS系统界面",
+        "link": "https://www.ifanr.com/1655221?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "字节跳动推出豆包大模型2.0，其代码和逻辑能力大幅提升，有开发者已实现在其基础上构建复杂的macOS仿真界面。",
+        "comment": "字节的AI全家桶越塞越满，库克看了估计都要寻思：这AI怎么把我的活儿都干了？"
+      }
+    ]
+  },
   "2026-02-15": {
     "week": "周日",
     "articles": [
