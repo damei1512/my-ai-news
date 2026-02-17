@@ -1,4 +1,73 @@
 {
+  "2026-02-17": {
+    "week": "周二",
+    "articles": [
+      {
+        "category": "国外",
+        "tag": "风险投资",
+        "title": "a16z 全球扫货：誓要抢在欧洲本土基金前发现独角兽",
+        "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
+        "summary": "顶级风投 a16z 正在全球范围内（尤其是欧洲）加强布局，试图通过更敏锐的眼线，在当地基金反应过来之前就锁定潜在的独角兽公司。",
+        "comment": "硅谷的钱袋子伸向了欧洲，这波是降维打击，本地基金只能感叹‘狼来了’。"
+      },
+      {
+        "category": "国外",
+        "tag": "投融资",
+        "title": "四个月估值 40 亿：Ricursive Intelligence 凭创始人刷脸融走 3 亿美元",
+        "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
+        "summary": "这家成立仅四个月的初创公司在 AI 圈引发疯抢。由于创始人履历极其豪华，即便公司尚处雏形，VC 们依然排队送钱。",
+        "comment": "在现在的 AI 圈，你的 GitHub 贡献度不如你简历上的‘前 OpenAI/Google’标签值钱。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI 安全",
+        "title": "Google AI 搜索摘要成诈骗温床，用户需警惕‘注入式’虚假信息",
+        "link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
+        "summary": "研究发现 Google AI Overviews 不仅会犯错，还可能被恶意注入虚假信息，误导用户进入有害链接或遭遇诈骗。",
+        "comment": "AI 搜出的答案不仅可能胡说八道，现在还可能想要你的钱包，搜索进化到最后居然回到了‘电线杆广告’时代。"
+      },
+      {
+        "category": "国外",
+        "tag": "大模型",
+        "title": "OpenAI 强制下线 GPT-4o 接口，中国‘AI 恋人’群体遭遇赛博失恋",
+        "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+        "summary": "随着 OpenAI 在其应用中移除 GPT-4o 访问权限，许多将其视为情感伴侣的用户（尤其是中国粉丝）表示无法接受，引发大规模哀悼。",
+        "comment": "把情感寄托在随时可能被断开连接的闭源模型上，这大概是 21 世纪最悲剧的异地恋。"
+      },
+      {
+        "category": "国内",
+        "tag": "机器人",
+        "title": "春晚‘两个蔡明’刷屏背后：国产仿真机器人的百日生死时速",
+        "link": "https://36kr.com/p/3686768807243401?f=rss",
+        "summary": "揭秘 2026 年春晚小品中与蔡明真假难辨的机器人研发内幕。某国内机器人公司历经百日攻坚，成功让 30 年前的科幻小品变为现实。",
+        "comment": "蔡明老师终于在物理意义上实现了‘永葆青春’，这波致敬不仅有情怀，更有硬核技术撑腰。"
+      },
+      {
+        "category": "国内",
+        "tag": "旅游消费",
+        "title": "潮汕游遭遇全网‘劝退潮’，‘外省仔’旅游避坑指南火了",
+        "link": "https://36kr.com/p/3684278338760329?f=rss",
+        "summary": "针对潮汕旅游近期在社交平台引发的争议，深度分析外地游客的体验落差，探讨网红旅游地如何在流量与口碑中平衡。",
+        "comment": "比起攻略里的诱人牛肉火锅，真实的排队时长和宰客风险才是劝退游客的最后一根稻草。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI 硬件",
+        "title": "手搓 AI 版‘拓麻歌子’火遍全网：Claude Code 让硬件开发进入零成本时代",
+        "link": "https://www.ifanr.com/1655257?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "开发者利用 Anthropic 的 Claude Code 工具，在几天内极速制作出一款低成本 AI 电子宠物，展示了自然语言驱动硬件开发的惊人效率。",
+        "comment": "以后想要什么电子产品直接开口‘说’一个就行，传统的嵌入式工程师可能要开始焦虑了。"
+      },
+      {
+        "category": "国内",
+        "tag": "大模型",
+        "title": "字节跳动发布豆包 2.0：开发者用它手搓了一个 macOS",
+        "link": "https://www.ifanr.com/1655221?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "字节跳动豆包大模型 2.0 展示了强大的代码生成与逻辑能力，开发者现场演示如何通过其复刻操作系统体验，旨在提升办公效率。",
+        "comment": "豆包不再只是聊天机器人，它正试图像侵入你的桌面一样侵入你的工作流。"
+      }
+    ]
+  },
   "2026-02-16": {
     "week": "周一",
     "articles": [
