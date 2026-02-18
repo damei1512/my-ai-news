@@ -1,4 +1,73 @@
 {
+  "2026-02-18": {
+    "week": "周三",
+    "articles": [
+      {
+        "category": "国外",
+        "tag": "智能硬件",
+        "title": "苹果秘密研发三款 AI 穿戴设备",
+        "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+        "summary": "随着 AI 硬件市场持续升温，苹果据报正在同步开发三款 AI 驱动的穿戴式产品，试图在 iPhone 之外构建新的 AI 交互生态。",
+        "comment": "库克：既然屏幕卷不动了，那就把 AI 贴到用户的眼睛和耳朵上。"
+      },
+      {
+        "category": "国外",
+        "tag": "大模型",
+        "title": "Anthropic 发布 Sonnet 4.6 模型",
+        "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+        "summary": "Anthropic 推出了其中型模型 Sonnet 的 4.6 版本，继续维持其约四个月一次的高频迭代节奏，旨在平衡性能与推理成本。",
+        "comment": "Anthropic 这种雷打不动的“季度考”节奏，让友商的发布会压力倍增。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI安全",
+        "title": "Meta 等巨头出于安全忧虑限制使用 OpenClaw",
+        "link": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
+        "summary": "由于担心病毒式传播的 AI Agent 工具 OpenClaw 存在不可预测的安全风险，Meta 等多家科技大厂已对其下达禁令。",
+        "comment": "Agent 越是能“自主工作”，大厂法务和安全专家的头发就掉得越快。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI医疗",
+        "title": "AI 数字孪生技术助力管理糖尿病与肥胖",
+        "link": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
+        "summary": "硅谷初创公司 Twin Health 利用 AI 与穿戴式传感器为患者构建数字孪生模型，提供精准的健康建议，成为昂贵减肥药的替代方案。",
+        "comment": "当你的数字孪生在模拟器里跑出健康曲线时，现实中的你可能才刚刚放下鸡腿。"
+      },
+      {
+        "category": "国内",
+        "tag": "大模型/融资",
+        "title": "国产大模型“烧钱”大战：大厂撒红包，月之暗面拿融资",
+        "link": "https://36kr.com/p/3688162369908611?f=rss",
+        "summary": "春节期间中国大模型赛道热度不减，字节豆包与阿里千问通过撒红包大肆拉新，而月之暗面则传出完成由阿里、腾讯领投的超 7 亿美元融资。",
+        "comment": "大厂负责‘撒币’买流量，独角兽负责‘吸金’续命，国产大模型的排位赛还没到终局。"
+      },
+      {
+        "category": "国内",
+        "tag": "智能家居",
+        "title": "追觅扫地机器人登上 2026 春晚舞台",
+        "link": "https://36kr.com/p/3687358225739396?f=rss",
+        "summary": "在 2026 年春晚节目《智造未来》中，追觅扫地机器人作为新质生产力标杆亮相，创下该类产品登上春晚舞台的历史首例。",
+        "comment": "扫地机都上春晚了，看来未来的‘家庭成员’里必有 AI 硬件的一席之地。"
+      },
+      {
+        "category": "国外",
+        "tag": "智能硬件",
+        "title": "苹果 AI 硬件三件套曝光，iPhone 生态将迎加强",
+        "link": "https://www.ifanr.com/1655325?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "详细情报显示苹果的产品思路正向 AI 倾斜，正在研发的 AI 穿戴三件套将显著增强 iPhone 的生态协同能力。",
+        "comment": "说是‘加强 iPhone’，其实是想让你全身上下再多买三件 Apple 设备。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI编程",
+        "title": "开发者用 Claude Code 零成本手搓 AI 硬件",
+        "link": "https://www.ifanr.com/1655257?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "一款基于 Claude Code 自动生成的‘AI 拓麻歌子’在社区走红，展示了 AI 工具如何将复杂的硬件开发门槛降至近乎零成本。",
+        "comment": "以前做硬件是‘磨洋工’，现在是‘对 AI 说句话’。人人都是产品经理的时代真来了。"
+      }
+    ]
+  },
   "2026-02-17": {
     "week": "周二",
     "articles": [
