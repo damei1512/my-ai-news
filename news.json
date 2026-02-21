@@ -1,4 +1,73 @@
 {
+  "2026-02-21": {
+    "week": "周六",
+    "articles": [
+      {
+        "category": "国外",
+        "tag": "大模型",
+        "title": "印度 AI 初创公司 Sarvam 推出 Indus 聊天应用",
+        "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+        "summary": "印度本土 AI 公司 Sarvam 推出了名为 Indus 的 AI 聊天应用，目前处于 Beta 测试阶段，旨在激烈的本地化 AI 竞争中占据一席之地。",
+        "comment": "印度版的‘百模大战’也进入了巷战阶段，除了英语，能搞定印度那几十种方言才是硬核护城河。"
+      },
+      {
+        "category": "国外",
+        "tag": "行业动态",
+        "title": "创作者经济的广告收入困境与印度的 AI 雄心",
+        "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+        "summary": "创作者经济正在快速演变，单一的广告收入模式已难以为继。与此同时，印度正通过技术手段试图在 AI 浪潮中寻求突破。",
+        "comment": "网红们发现带货已经卷不动了，纷纷想靠 AI 换个活法。这年头，没点 AI 故事都不好意思说自己是顶级流量。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI 安全",
+        "title": "Anthropic 拒绝将 AI 用于军事或监控，或因此丢掉五角大楼订单",
+        "link": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+        "summary": "Anthropic 坚持其 AI 安全准则，禁止将其技术用于自主武器或政府监控，这一立场可能使其面临失去美国军方巨额合同的风险。",
+        "comment": "在赚钱和守节之间，Anthropic 选了后者。不过面对军方这块肥肉，这种坚持能在硅谷的财务压力下挺多久？"
+      },
+      {
+        "category": "国外",
+        "tag": "前沿科技",
+        "title": "AI 数据中心要搬上太空？科学家构想轨道算力站",
+        "link": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
+        "summary": "生成式 AI 数据中心巨大的能耗和散热问题对地球环境造成沉重负担，有提议认为可以将这些庞然大物发射到地球轨道上运行。",
+        "comment": "地球已经放不下人类的算力焦虑了，这算盘打得连外星人都得自费装空调。"
+      },
+      {
+        "category": "国内",
+        "tag": "大模型",
+        "title": "国内大模型疯狂博弈：大厂狂烧钱拉流，月之暗面获阿里腾讯巨额融资",
+        "link": "https://36kr.com/p/3688162369908611?f=rss",
+        "summary": "春节期间，豆包和千问等大厂模型通过红包和补贴疯狂换取流量；而月之暗面则即将完成由阿里、腾讯领投的超 7 亿美元融资，估值再创新高。",
+        "comment": "一边是疯狂撒钱请奶茶，一边是疯狂融资进保险箱。国产‘六小虎’们都在赶着变成‘吞金兽’。"
+      },
+      {
+        "category": "国内",
+        "tag": "智能硬件",
+        "title": "追觅扫地机器人登上春晚，成新质生产力标杆",
+        "link": "https://36kr.com/p/3687358225739396?f=rss",
+        "summary": "2026 年除夕，追觅扫地机作为科技标杆代表登上春晚舞台，成为史上首个以品牌身份独立亮相春晚的扫地机器人产品。",
+        "comment": "扫地机器人都上春晚了，建议下次直接在舞台上实时清扫碎纸屑，那才叫‘Made in China’的震撼。"
+      },
+      {
+        "category": "国外",
+        "tag": "人物轶事",
+        "title": "OpenClaw 之父加入 OpenAI，顶级开发者的归宿探讨",
+        "link": "https://www.ifanr.com/1655353?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "知名开发者在正式入职 OpenAI 前进行访谈，指出在 AI 时代，很难与那些纯粹出于兴趣和热情的开发者竞争。",
+        "comment": "天才的终点果然都是 OpenAI。所谓的‘为爱发电’，最终还是变成了为奥特曼的算力帝国打工。"
+      },
+      {
+        "category": "国外",
+        "tag": "智能硬件",
+        "title": "苹果春季发布会爆料：平价版 iPhone 与 MacBook 呼之欲出",
+        "link": "https://www.ifanr.com/1655385?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "2026 苹果春季发布会前瞻，传闻将推出定价在三千元档位的新 iPhone 和 MacBook，试图通过低价策略抢夺更多市场份额。",
+        "comment": "三千块的 iPhone？这听起来不像是库克的作风，倒像是拼多多百亿补贴后的苹果。"
+      }
+    ]
+  },
   "2026-02-20": {
     "week": "周五",
     "articles": [
@@ -402,75 +471,6 @@
         "link": "https://www.ifanr.com/1655222?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "真我 Neo8 在性能、显示和影像上进行了全面升级，旨在挑战同价位段配置天花板，成为全能性价比首选。",
         "comment": "现在的手机厂商，不加个‘旗舰’后缀都不好意思说自己是中端机。"
-      }
-    ]
-  },
-  "2026-02-14": {
-    "week": "周六",
-    "articles": [
-      {
-        "category": "国外",
-        "tag": "应用落地",
-        "title": "Airbnb 三分之一客服工作已由 AI 接管",
-        "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
-        "summary": "Airbnb 首席执行官 Brian Chesky 透露，目前其在美国和加拿大约三分之一的客户支持已由 AI 处理。公司正致力于推出更“懂你”的 App，协助规划行程并管理房源。",
-        "comment": "只要不影响退款速度，没人介意屏幕对面坐的是人还是硅基生命。"
-      },
-      {
-        "category": "国外",
-        "tag": "行业动态",
-        "title": "顶尖人才逃离 OpenAI 与 xAI",
-        "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
-        "summary": "过去几周，顶级 AI 实验室出现人才大流失。xAI 的创始团队有一半已经离开，OpenAI 核心成员也因重组或个人原因相继辞职。",
-        "comment": "原来 AI 巨头的尽头也是“向社会输送人才”，不知这些大牛是去创业还是去避暑。"
-      },
-      {
-        "category": "国外",
-        "tag": "大模型",
-        "title": "OpenAI 弃用 GPT-4o 模型，全球粉丝感伤",
-        "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
-        "summary": "随着 OpenAI 从 App 中移除了对 GPT-4o 模型的访问权限，许多依赖该模型进行情感陪伴的全球用户（包括中国粉丝）表达了强烈的不舍与哀悼。",
-        "comment": "把 AI 当赛博伴侣的人终于体会到了什么叫“被渣男强制断联”。"
-      },
-      {
-        "category": "国外",
-        "tag": "房产科技",
-        "title": "Zillow 押注 AI 重塑房产搜索",
-        "link": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/ ",
-        "summary": "房产巨头 Zillow 的 CEO 认为 AI 并非威胁，而是重塑房屋搜索和巩固市场地位的关键“原料”，正利用 AI 帮助用户在低迷的市场中寻找理想居所。",
-        "comment": "让 AI 找房没问题，只要它别学会跟房东一起合伙涨价。"
-      },
-      {
-        "category": "国内",
-        "tag": "金融资本",
-        "title": "2025 年港股 IPO 募资额重回世界榜首",
-        "link": "https://36kr.com/p/3682528533048961?f=rss",
-        "summary": "2025 年港股市场表现强劲，IPO 募资额达到 374 亿美元（约 2923 亿港元），超过前三年总和，时隔四年再次夺得全球 IPO 募资冠军。",
-        "comment": "港股这波“逆天改命”，让不少中概股又看到了回家的诱惑。"
-      },
-      {
-        "category": "国内",
-        "tag": "具身智能",
-        "title": "清华系具身大脑公司千诀科技获数亿融资",
-        "link": "https://36kr.com/p/3680070412152706?f=rss",
-        "summary": "具身大脑企业千诀科技近日完成 Pre-A++ 轮融资，由祥峰资本、智路资本等领投。资金将重点投向全尺寸机器人规模化交付及自动化数据管道建设。",
-        "comment": "顶着清华光环、拿到数亿融资，具身智能赛道的入场券现在已经贵到离谱了。"
-      },
-      {
-        "category": "国内",
-        "tag": "机器人",
-        "title": "稚晖君展示智元远征 A3 机器人“凌空飞踢”",
-        "link": "https://www.ifanr.com/1655204?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "天才少年稚晖君展示了智元远征 A3 机器人的最新动态，其“凌空飞踢”等高难度动作展示了极高的动态平衡能力，引发行业热议。",
-        "comment": "机器人踢出的这一脚，不知道踢到了多少同行的焦虑感上？"
-      },
-      {
-        "category": "国内",
-        "tag": "科技综合",
-        "title": "影石 CEO 回应送房送车，小米开源机器人 VLA 大模型",
-        "link": "https://www.ifanr.com/1655183?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "今日科技早报汇总：影石 CEO 豪气送房送车；小米开源首代机器人 VLA 大模型；荣耀前 CEO 赵明加入千里科技；12306 新增“低人一等座”提醒功能。",
-        "comment": "年会送房是别人的，开源大模型是全行业的，只有“低人一等座”的提醒是属于每个打工人的。"
       }
     ]
   }
