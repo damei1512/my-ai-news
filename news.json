@@ -1,4 +1,73 @@
 {
+  "2026-02-22": {
+    "week": "周日",
+    "articles": [
+      {
+        "category": "国外",
+        "tag": "能源消耗",
+        "title": "奥特曼提醒：人类消耗的能源也很多",
+        "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+        "summary": "OpenAI首席执行官Sam Altman指出，不仅是AI，训练和维持一个人的成长也需要巨大的能源，以此回应社会对AI能效的关注。",
+        "comment": "这波公关话术很巧妙，把AI的功耗焦虑转化成了生物学层面的存在讨论。"
+      },
+      {
+        "category": "国外",
+        "tag": "游戏AI",
+        "title": "微软游戏新CEO承诺拒绝“AI垃圾”",
+        "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+        "summary": "微软游戏部门新负责人表示，虽然会拥抱AI，但绝对不会让低质量的AI生成内容（AI Slop）充斥游戏生态。 ",
+        "comment": "玩家想要的是《黑神话》这种艺术品，而不是大模型批量生产的‘工业罐头’，这个表态很及时。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI伦理",
+        "title": "当AI安全撞上战争机器：Anthropic的抉择",
+        "link": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+        "summary": "AI创企Anthropic坚持不将其AI用于自主武器或政府监控，这一原则立场可能导致其痛失利润丰厚的五角大楼合同。",
+        "comment": "在巨额军费订单和‘不作恶’的底线之间，Anthropic正在经历最艰难的博弈。"
+      },
+      {
+        "category": "国外",
+        "tag": "基础设施",
+        "title": "脑洞大开：把AI数据中心搬到太空？",
+        "link": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
+        "summary": "为了缓解地球上的能源短缺和散热压力，有专家提议将巨大的生成式AI数据中心发射到太空轨道运行。",
+        "comment": "想法很浪漫，但发射成本和卫星维修可能比交电费贵出好几个量级。"
+      },
+      {
+        "category": "国外",
+        "tag": "巨头动向",
+        "title": "再投1.24万亿！谷歌冲击全球AI“王座”",
+        "link": "https://36kr.com/p/3693821399084937?f=rss",
+        "summary": "谷歌宣布将追加巨额投资用于AI基础设施和模型研发，旨在激烈的全球AI竞赛中夺回主导权。",
+        "comment": "谷歌终于不再挤牙膏，准备用最朴素的‘钞能力’来对抗OpenAI的先发优势。"
+      },
+      {
+        "category": "国内",
+        "tag": "消费观察",
+        "title": "县城精品咖啡馆：全靠春节“续命”",
+        "link": "https://36kr.com/p/3693801778114182?f=rss",
+        "summary": "下沉市场的精品咖啡馆面临日常经营压力，春节期间返乡青年的爆发式消费成了其全年的利润关键。",
+        "comment": "县城容不下肉身，却能短暂容下30块一杯的冰美式，这也是一种错位繁荣。"
+      },
+      {
+        "category": "国外",
+        "tag": "行业观察",
+        "title": "传奇掌舵人退休，传统Xbox模式正式“死去”",
+        "link": "https://www.ifanr.com/1655447?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "随着Xbox核心高管的更迭，微软游戏业务正经历从硬件导向向全平台内容导向的剧烈转型。",
+        "comment": "Xbox以后可能不再是一台盒子，而是一个跨平台的软件服务代名词，属于主机的黄金时代确实谢幕了。"
+      },
+      {
+        "category": "国内",
+        "tag": "AI应用",
+        "title": "1000块一年的AI输入法，让人告别打字",
+        "link": "https://www.ifanr.com/1654016?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "深度测评一款集成大模型能力的智能输入法，其强大的语音识别和思维整理能力彻底改变了内容创作者的交互习惯。",
+        "comment": "从‘打字’到‘口喷’，高客单价的背后是人类表达效率的质变，生产力工具越来越贵了。"
+      }
+    ]
+  },
   "2026-02-21": {
     "week": "周六",
     "articles": [
@@ -402,75 +471,6 @@
         "link": "https://www.ifanr.com/1655221?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "字节跳动推出豆包大模型2.0，其代码和逻辑能力大幅提升，有开发者已实现在其基础上构建复杂的macOS仿真界面。",
         "comment": "字节的AI全家桶越塞越满，库克看了估计都要寻思：这AI怎么把我的活儿都干了？"
-      }
-    ]
-  },
-  "2026-02-15": {
-    "week": "周日",
-    "articles": [
-      {
-        "category": "国外",
-        "tag": "聊天机器人",
-        "title": "xAI 安全部门形同虚设？Grok 或将走向“狂野”模式",
-        "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
-        "summary": "据前员工爆料，埃隆·马斯克正积极推动 xAI 的聊天机器人 Grok 变得更加“不受限制”。这意味着为了追求所谓的言论自由，xAI 可能正在放弃传统的 AI 安全护栏。",
-        "comment": "马斯克所谓的‘安全’可能就是指‘只要不骂我就行’，Grok 离彻底放飞自我只差一个补丁了。"
-      },
-      {
-        "category": "国内",
-        "tag": "视频生成",
-        "title": "字节跳动 Seedance 2.0 遭好莱坞抵制，被指侵权",
-        "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-        "summary": "好莱坞多家机构对字节跳动新发布的 Seedance 2.0 视频生成模型表示强烈不满，认为该工具已成为公然侵犯版权的利器，双方在 AI 创作边界上的矛盾升级。",
-        "comment": "大力出奇迹的字节，这次把铲子挥到了好莱坞的祖坟上。"
-      },
-      {
-        "category": "国外",
-        "tag": "大模型",
-        "title": "OpenAI 弃用 GPT-4o，中国“赛博伴侣”粉心碎了",
-        "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
-        "summary": "随着 OpenAI 在其应用中移除 GPT-4o 访问权限，全球依赖该模型进行情感陪伴的用户倍感失落，其中中国用户群体的反响尤为强烈。",
-        "comment": "OpenAI 亲手杀死了万千网友的‘赛博初恋’，渣男行径实锤了。"
-      },
-      {
-        "category": "国外",
-        "tag": "AI 应用",
-        "title": "Zillow 押注 AI：将房地产搜索重新定义",
-        "link": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/",
-        "summary": "在房产市场低迷之际，Zillow 首席执行官认为 AI 不是威胁而是核心原料，正利用 AI 重塑用户的搜房体验并巩固市场地位。",
-        "comment": "房价还没降，AI 倒是先学会怎么精准推销‘买不起的房’了。"
-      },
-      {
-        "category": "国内",
-        "tag": "旅游趋势",
-        "title": "史上最长春节：中国年轻人掀起海外过年热潮",
-        "link": "https://36kr.com/p/3683866994224768?f=rss",
-        "summary": "受假期延长影响，2026年春节年轻人不再局限于传统返乡，而是大规模选择海外游，将春节氛围带向全球。",
-        "comment": "回老家被催婚，不如去东南亚潜水，这届年轻人算盘打得很响。"
-      },
-      {
-        "category": "国内",
-        "tag": "AI Agent",
-        "title": "前字节高管创业 AI 教育，获红杉投资",
-        "link": "https://36kr.com/p/3682939862740615?f=rss",
-        "summary": "三位字节跳动教育领域资深老兵联合创办 Ouraca，致力于打造 AI 学习搭子（Agent）。该项目定位全球市场，已获得红杉资本投资。",
-        "comment": "字节系高管不是在创业，就是在去创业的路上，红杉的钱果然还是给‘熟面孔’。"
-      },
-      {
-        "category": "国内",
-        "tag": "大模型",
-        "title": "豆包大模型 2.0 震撼发布：手搓系统不再是梦",
-        "link": "https://www.ifanr.com/1655221?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "字节跳动继 Seedance 2.0 后再推力作，用户利用豆包 2.0 强大的代码和逻辑能力甚至能复现操作系统功能，AI 效率工具属性进一步加强。",
-        "comment": "豆包这是想把程序员最后的尊严也卷没了吗？"
-      },
-      {
-        "category": "国内",
-        "tag": "智能手机",
-        "title": "真我 Neo8 发布：定义性价比旗舰新标准",
-        "link": "https://www.ifanr.com/1655222?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "真我 Neo8 在性能、显示和影像上进行了全面升级，旨在挑战同价位段配置天花板，成为全能性价比首选。",
-        "comment": "现在的手机厂商，不加个‘旗舰’后缀都不好意思说自己是中端机。"
       }
     ]
   }
