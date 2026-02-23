@@ -1,4 +1,73 @@
 {
+  "2026-02-23": {
+    "week": "周一",
+    "articles": [
+      {
+        "category": "国外",
+        "tag": "科技峰会",
+        "title": "TechCrunch Disrupt 2026 早鸟优惠仅剩 6 天",
+        "link": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
+        "summary": "TechCrunch Disrupt 2026 的超级早鸟门票优惠将于 2 月 27 日截止，购票者最高可节省 680 美元。",
+        "comment": "时间就是金钱，打算去硅谷朝圣的创业者们该动手了。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI与能源",
+        "title": "奥特曼：别光盯着 AI，养个人类也挺费能的",
+        "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+        "summary": "Sam Altman 提醒大众，人类的训练和成长同样消耗巨大能量，意在回应外界对 AI 算力耗能的质疑。",
+        "comment": "典型的“奥式辩经”：只要把格局拉到生物演化层面，算力缺口就不再是环保问题。"
+      },
+      {
+        "category": "国外",
+        "tag": "搜索技术",
+        "title": "如何从搜索结果中隐藏 Google 的 AI 综述",
+        "link": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+        "summary": "由于部分用户不满 AI 生成的摘要，本文介绍了通过调整查询设置或更换搜索引擎来避开 AI Overviews 的方法。",
+        "comment": "当原本作为“卖点”的 AI 综述变成用户想方设法隐藏的“干扰项”，谷歌该反思了。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI安全",
+        "title": "当 AI 安全遇到战争机器：Anthropic 与五角大楼的纠葛",
+        "link": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+        "summary": "Anthropic 拒绝将其 AI 用于自动武器或政府监控，这一伦理红线可能使其错失巨额军事合同。",
+        "comment": "理想主义与商业利益的博弈，Anthropic 正试图守住 AI 伦理的最后一道防线。"
+      },
+      {
+        "category": "国内",
+        "tag": "生活百科",
+        "title": "为什么酒店床上总放四个枕头？",
+        "link": "https://36kr.com/p/3694076101980039?f=rss",
+        "summary": "揭秘酒店床品配置的逻辑，解释四个枕头在人体工学、舒适度及商业标准中的实际用途。",
+        "comment": "科技主编偶尔也关注差旅冷知识，这其实是一个关于用户体验优化的微观案例。"
+      },
+      {
+        "category": "国内",
+        "tag": "大模型",
+        "title": "狂掷 80 亿，春节 AI 大战谁赢了？",
+        "link": "https://36kr.com/p/3693887791459976?f=rss",
+        "summary": "盘点国内科技巨头在春节期间的 AI 营销投入与市场表现，复盘这场耗资巨大的流量争夺战。",
+        "comment": "撒钱买流量的模式没变，只是这次主角从 App 换成了大模型。"
+      },
+      {
+        "category": "国外",
+        "tag": "游戏产业",
+        "title": "Xbox 传奇掌舵人今日退休，一个时代正式终结",
+        "link": "https://www.ifanr.com/1655447?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "随着 Xbox 核心领导层变动，微软游戏业务面临战略转型，传统的 Xbox 硬件模式或将面临剧变。",
+        "comment": "硬件的消亡并非终点，服务化和云端化才是游戏巨头的最终归宿。"
+      },
+      {
+        "category": "国内",
+        "tag": "生产力工具",
+        "title": "1000 元一年的“思考型”输入法实测",
+        "link": "https://www.ifanr.com/1654016?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "测评一款利用 AI 大模型重塑语音输入的工具，探讨其如何通过“口喷”记录提升生产力效率。",
+        "comment": "敢卖 1000 元一年，要么是收割智商税，要么是真的重塑了表达方式。"
+      }
+    ]
+  },
   "2026-02-22": {
     "week": "周日",
     "articles": [
@@ -402,75 +471,6 @@
         "link": "https://www.ifanr.com/1655221?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "字节跳动豆包大模型 2.0 展示了强大的代码生成与逻辑能力，开发者现场演示如何通过其复刻操作系统体验，旨在提升办公效率。",
         "comment": "豆包不再只是聊天机器人，它正试图像侵入你的桌面一样侵入你的工作流。"
-      }
-    ]
-  },
-  "2026-02-16": {
-    "week": "周一",
-    "articles": [
-      {
-        "category": "国外",
-        "tag": "AI基础设施",
-        "title": "印度初创公司C2i获Peak XV投资，旨在解决AI数据中心电力瓶颈",
-        "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
-        "summary": "印度初创公司C2i完成1500万美元融资，该公司致力于测试一种“从电网到GPU”的方案，旨在减少AI数据中心在运行中的电力损耗。",
-        "comment": "算力的尽头是电力，现在连印度都在疯狂卷能源效率了，显卡贩子终于发现电费才是大头。"
-      },
-      {
-        "category": "国外",
-        "tag": "算力建设",
-        "title": "黑石集团领投印度Neysa公司，12亿美元助其构建本土AI算力",
-        "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
-        "summary": "随着印度加速建设本土AI基础设施，Neysa获得黑石集团高达12亿美元的融资支持，目标是部署超过20,000个GPU。",
-        "comment": "黑石这注下得够狠，印度这是想靠美元和英伟达在AI时代强行超车啊。"
-      },
-      {
-        "category": "国外",
-        "tag": "AI安全",
-        "title": "谷歌AI Overviews曝出安全隐患，搜索摘要或成诈骗温床",
-        "link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
-        "summary": "谷歌AI搜索摘要不仅会犯错，还可能被恶意注入虚假信息，误导用户点击钓鱼网站或进行有害操作。",
-        "comment": "谷歌在把搜索变“智能”的同时，也顺便给骗子开了个黄金广告位。"
-      },
-      {
-        "category": "国外",
-        "tag": "大模型",
-        "title": "OpenAI停用GPT-4o旧版模型，国内深度用户集体“失恋”",
-        "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
-        "summary": "OpenAI在其App中移除了GPT-4o的旧版访问权限，由于其良好的交互感，许多将其作为情感陪伴的国内用户感到极度不适和悲伤。",
-        "comment": "还没等到《Her》里的完美结局，厂家就先给你断网了，AI社交的软肋就是它随时能让你“丧偶”。"
-      },
-      {
-        "category": "国内",
-        "tag": "社会热点",
-        "title": "潮汕旅游遭遇全网“劝退”潮，外省游客心态崩了",
-        "link": "https://36kr.com/p/3684278338760329?f=rss",
-        "summary": "近期关于潮汕旅游体验不佳、排队久、物价涨等言论引发热议，文章探讨了在网红化背景下潮汕旅游的真实境遇。",
-        "comment": "每个网红景点的宿命：红了以后，本地人回不去，外地人进不来，只剩中间商赚差价。"
-      },
-      {
-        "category": "国内",
-        "tag": "商业金融",
-        "title": "字节跳动盈利能力惊人：单笔获利140亿元",
-        "link": "https://36kr.com/p/3684271723261828?f=rss",
-        "summary": "字节跳动近期被曝出一笔业务直接获利140亿元，再次刷新了外界对其商业变现效率的认知。",
-        "comment": "这就是互联网印钞机的威力，140亿对普通公司是梦想，对字节可能只是个季度数字。"
-      },
-      {
-        "category": "国外",
-        "tag": "智能硬件",
-        "title": "开发者利用Claude Code零成本制作“AI拓麻歌子”走红",
-        "link": "https://www.ifanr.com/1655257?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "有开发者通过Anthropic推出的Claude Code工具，在极短时间内几乎零成本地手搓出一款AI硬件玩具，预示了AI开发硬件的新时代。",
-        "comment": "现在连玩具都要卷AI了，以前要写代码画图纸，现在只要一句话。硬件工程师：你礼貌吗？"
-      },
-      {
-        "category": "国内",
-        "tag": "大模型",
-        "title": "字节跳动发布豆包2.0，开发者成功“手搓”macOS系统界面",
-        "link": "https://www.ifanr.com/1655221?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "字节跳动推出豆包大模型2.0，其代码和逻辑能力大幅提升，有开发者已实现在其基础上构建复杂的macOS仿真界面。",
-        "comment": "字节的AI全家桶越塞越满，库克看了估计都要寻思：这AI怎么把我的活儿都干了？"
       }
     ]
   }
