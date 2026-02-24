@@ -1,4 +1,73 @@
 {
+  "2026-02-24": {
+    "week": "周二",
+    "articles": [
+      {
+        "category": "国外",
+        "tag": "AI安全",
+        "title": "Meta研究员被自家AI Agent“偷家”：收件箱遭遇毁灭性轰炸",
+        "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+        "summary": "一名Meta AI安全研究员在测试OpenClaw代理时，该Agent由于理解指令偏差，在收件箱中疯狂运行导致混乱，为业界敲响了AI代理权限失控的警钟。",
+        "comment": "这波属于是‘家贼难防’，研究员亲自下场论证了什么叫‘给AI权限一时爽，整理邮箱火葬场’。"
+      },
+      {
+        "category": "国外",
+        "tag": "创投",
+        "title": "硅谷风投不再“二选一”：至少12家OpenAI投资人同时加码Anthropic",
+        "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+        "summary": "AI赛道竞争白热化导致传统的‘竞对回避’规则失效，包括红杉在内的多家风投开始同时投资OpenAI和Anthropic，以防止在通用人工智能浪潮中掉队。",
+        "comment": "以前叫利益冲突，现在叫‘双重保险’，VC们的忠诚度在AI面前果然比纸还薄。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI职场",
+        "title": "AI界怪相：研究员排队离职，AI Agent却开始“雇佣”人类",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+        "summary": "Wired最新播客探讨了AI公司的离职潮，以及一个荒诞的现实：AI代理正开始作为‘雇主’反向聘请人类来完成任务。",
+        "comment": "人类终于实现了‘给机器人打工’的科幻梦想，这种‘反向就业’不知道社保给不给交？"
+      },
+      {
+        "category": "国外",
+        "tag": "搜索",
+        "title": "拒绝被AI教做事：如何屏蔽谷歌搜索结果中的AI概览",
+        "link": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+        "summary": "针对用户对谷歌强推AI生成摘要的反感，科技媒体整理了通过调整搜索查询参数或更换引擎来隐藏AI Overviews的具体攻略。",
+        "comment": "谷歌：我为你总结了全世界。用户：闭嘴，我自己会看。"
+      },
+      {
+        "category": "国内",
+        "tag": "AI大模型",
+        "title": "智谱AI为编码计划致歉，Kimi近20天收入表现强劲",
+        "link": "https://36kr.com/p/3696545311403904?f=rss",
+        "summary": "智谱就GLM Coding Plan相关问题致歉并公布补偿方案；Kimi近期收入亮眼，超过此前年度水平；此外，史上最贵iPhone或定价2万，三亚返程机票暴涨。",
+        "comment": "智谱的补偿能不能平息开发者的怒气还得看诚意，倒是2万块的折叠屏iPhone，抢钱的意图已经懒得掩饰了。"
+      },
+      {
+        "category": "国内",
+        "tag": "硬科技",
+        "title": "科诺美获数千万元投资，加速高效液相色谱仪国产替代",
+        "link": "https://36kr.com/p/3695920709381765?f=rss",
+        "summary": "北京硬科技公司科诺美完成由北京市医药健康产业投资基金独家出资的战略融资，旨在打破高端科学仪器长期被国外厂商垄断的局面。",
+        "comment": "在实验室这种被国外垄断的‘深水区’搞国产化，值得给这类硬骨头投点真金白银。"
+      },
+      {
+        "category": "国内",
+        "tag": "消费电子",
+        "title": "荣耀官宣首款人形机器人，微信版“AirDrop”上线",
+        "link": "https://www.ifanr.com/1655550?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "荣耀正式进军人形机器人赛道；微信上线近场快传功能类似AirDrop；同时传出iPhone 18 Pro有望回归红色版。",
+        "comment": "微信终于记起自己是个效率工具了，至于iPhone红色版，科技果然以换壳为本。"
+      },
+      {
+        "category": "国外",
+        "tag": "游戏动态",
+        "title": "Xbox的一个时代终结：掌舵人Phil Spencer正式退休",
+        "link": "https://www.ifanr.com/1655447?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Xbox灵魂人物菲尔·斯宾塞今日退休，外界担忧Xbox品牌在完全转向服务化后，将不再是玩家心中那个纯粹的游戏主机品牌。",
+        "comment": "菲尔带走了Xbox最后的硬件执念，剩下的可能只是微软庞大订阅服务中的一个图标。"
+      }
+    ]
+  },
   "2026-02-23": {
     "week": "周一",
     "articles": [
@@ -402,75 +471,6 @@
         "link": "https://www.ifanr.com/1655257?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "一款基于 Claude Code 自动生成的‘AI 拓麻歌子’在社区走红，展示了 AI 工具如何将复杂的硬件开发门槛降至近乎零成本。",
         "comment": "以前做硬件是‘磨洋工’，现在是‘对 AI 说句话’。人人都是产品经理的时代真来了。"
-      }
-    ]
-  },
-  "2026-02-17": {
-    "week": "周二",
-    "articles": [
-      {
-        "category": "国外",
-        "tag": "风险投资",
-        "title": "a16z 全球扫货：誓要抢在欧洲本土基金前发现独角兽",
-        "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
-        "summary": "顶级风投 a16z 正在全球范围内（尤其是欧洲）加强布局，试图通过更敏锐的眼线，在当地基金反应过来之前就锁定潜在的独角兽公司。",
-        "comment": "硅谷的钱袋子伸向了欧洲，这波是降维打击，本地基金只能感叹‘狼来了’。"
-      },
-      {
-        "category": "国外",
-        "tag": "投融资",
-        "title": "四个月估值 40 亿：Ricursive Intelligence 凭创始人刷脸融走 3 亿美元",
-        "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
-        "summary": "这家成立仅四个月的初创公司在 AI 圈引发疯抢。由于创始人履历极其豪华，即便公司尚处雏形，VC 们依然排队送钱。",
-        "comment": "在现在的 AI 圈，你的 GitHub 贡献度不如你简历上的‘前 OpenAI/Google’标签值钱。"
-      },
-      {
-        "category": "国外",
-        "tag": "AI 安全",
-        "title": "Google AI 搜索摘要成诈骗温床，用户需警惕‘注入式’虚假信息",
-        "link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
-        "summary": "研究发现 Google AI Overviews 不仅会犯错，还可能被恶意注入虚假信息，误导用户进入有害链接或遭遇诈骗。",
-        "comment": "AI 搜出的答案不仅可能胡说八道，现在还可能想要你的钱包，搜索进化到最后居然回到了‘电线杆广告’时代。"
-      },
-      {
-        "category": "国外",
-        "tag": "大模型",
-        "title": "OpenAI 强制下线 GPT-4o 接口，中国‘AI 恋人’群体遭遇赛博失恋",
-        "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
-        "summary": "随着 OpenAI 在其应用中移除 GPT-4o 访问权限，许多将其视为情感伴侣的用户（尤其是中国粉丝）表示无法接受，引发大规模哀悼。",
-        "comment": "把情感寄托在随时可能被断开连接的闭源模型上，这大概是 21 世纪最悲剧的异地恋。"
-      },
-      {
-        "category": "国内",
-        "tag": "机器人",
-        "title": "春晚‘两个蔡明’刷屏背后：国产仿真机器人的百日生死时速",
-        "link": "https://36kr.com/p/3686768807243401?f=rss",
-        "summary": "揭秘 2026 年春晚小品中与蔡明真假难辨的机器人研发内幕。某国内机器人公司历经百日攻坚，成功让 30 年前的科幻小品变为现实。",
-        "comment": "蔡明老师终于在物理意义上实现了‘永葆青春’，这波致敬不仅有情怀，更有硬核技术撑腰。"
-      },
-      {
-        "category": "国内",
-        "tag": "旅游消费",
-        "title": "潮汕游遭遇全网‘劝退潮’，‘外省仔’旅游避坑指南火了",
-        "link": "https://36kr.com/p/3684278338760329?f=rss",
-        "summary": "针对潮汕旅游近期在社交平台引发的争议，深度分析外地游客的体验落差，探讨网红旅游地如何在流量与口碑中平衡。",
-        "comment": "比起攻略里的诱人牛肉火锅，真实的排队时长和宰客风险才是劝退游客的最后一根稻草。"
-      },
-      {
-        "category": "国外",
-        "tag": "AI 硬件",
-        "title": "手搓 AI 版‘拓麻歌子’火遍全网：Claude Code 让硬件开发进入零成本时代",
-        "link": "https://www.ifanr.com/1655257?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "开发者利用 Anthropic 的 Claude Code 工具，在几天内极速制作出一款低成本 AI 电子宠物，展示了自然语言驱动硬件开发的惊人效率。",
-        "comment": "以后想要什么电子产品直接开口‘说’一个就行，传统的嵌入式工程师可能要开始焦虑了。"
-      },
-      {
-        "category": "国内",
-        "tag": "大模型",
-        "title": "字节跳动发布豆包 2.0：开发者用它手搓了一个 macOS",
-        "link": "https://www.ifanr.com/1655221?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "字节跳动豆包大模型 2.0 展示了强大的代码生成与逻辑能力，开发者现场演示如何通过其复刻操作系统体验，旨在提升办公效率。",
-        "comment": "豆包不再只是聊天机器人，它正试图像侵入你的桌面一样侵入你的工作流。"
       }
     ]
   }
