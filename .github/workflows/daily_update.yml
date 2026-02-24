@@ -2,7 +2,7 @@ name: Daily AI News Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天 UTC 0 点 (北京时间 8 点) 运行
+    - cron: '13 0 * * *' # 每天 UTC 0 点 (北京时间 8 点) 运行
   workflow_dispatch:      # 允许手动运行
 
 permissions:
