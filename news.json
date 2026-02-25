@@ -1,4 +1,73 @@
 {
+  "2026-02-25": {
+    "week": "周三",
+    "articles": [
+      {
+        "category": "国外",
+        "tag": "行业趋势",
+        "title": "印度AI热潮：用短期营收换取用户增长",
+        "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+        "summary": "ChatGPT及其竞争对手正将印度作为大型实验场，通过免费策略积累海量用户，试图测试印度市场能否在福利期结束后转化为付费订阅者。",
+        "comment": "印度市场还是熟悉的配方：先烧钱换流量，再在‘消费降级’的边缘试探用户的付费底线。"
+      },
+      {
+        "category": "国外",
+        "tag": "AI芯片",
+        "title": "英伟达挑战者MatX获5亿美元巨额融资",
+        "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+        "summary": "由前谷歌TPU核心工程师于2023年创立的芯片初创公司MatX，凭借高性能AI推理芯片概念，成功斩获5亿美元投资，正式挑战英伟达的市场地位。",
+        "comment": "谷歌‘黄埔军校’又出精品，5亿美元看着多，但在英伟达的垄断高墙面前，可能刚够买一张入场券。"
+      },
+      {
+        "category": "国外",
+        "tag": "观点探讨",
+        "title": "知名作家Michael Pollan：AI永远无法拥有意识",
+        "link": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
+        "summary": "迈克尔·波伦在其新书《世界显现》中辩称，AI即便能模仿所有人类行为，它也永远无法成为真正的“人”，因为它缺乏生物性的主观体验。",
+        "comment": "承认AI没灵魂，是人类面对硅基生物全方位碾压时，最后一点虚伪的尊严和心理慰藉。"
+      },
+      {
+        "category": "国外",
+        "tag": "职场文化",
+        "title": "离奇现状：AI研究员集体辞职，AI代理开始雇佣人类",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+        "summary": "最新播客讨论了AI巨头内部的动荡离职潮，以及更加诡异的趋势——AI智能体开始反向招聘人类来协助其完成任务。",
+        "comment": "以前是‘人机协作’，现在是‘AI老板雇佣碳基工具人’，赛博朋克的打工模式已经提前到货。"
+      },
+      {
+        "category": "国内",
+        "tag": "电子材料",
+        "title": "新川电子获近亿元融资，MLCC纳米镍粉需求爆发",
+        "link": "https://36kr.com/p/3698117482212997?f=rss",
+        "summary": "杭州新川电子完成近亿元pre-IPO轮融资，由联想投资等多家机构参投。资金将用于60nm-80nm成品镍粉产线，满足AI光伏及高端电子元件需求。",
+        "comment": "别光盯着模型层打架，上游搞材料的才是真正的闷声发大财，算力越高，镍粉越香。"
+      },
+      {
+        "category": "国内",
+        "tag": "硬科技",
+        "title": "华为哈勃入股一盛新材料，深耕高端热控领域",
+        "link": "https://36kr.com/p/3697538397744775?f=rss",
+        "summary": "金属基热管理材料厂商“一盛新材料”获数千万元A轮融资，华为哈勃与中发展领投。公司致力于研发新一代金属基复合材料，解决高功率芯片散热难题。",
+        "comment": "华为为了解决‘发烧’问题可谓操碎了心，投了芯片投封装，现在连散热底座里的材料都不放过。"
+      },
+      {
+        "category": "国内",
+        "tag": "智能汽车",
+        "title": "东风日产新轩逸9.49万起售，开启“增配降价”模式",
+        "link": "https://www.ifanr.com/1655633?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "东风日产发布4款新车，主打车型新轩逸起售价下调至9.49万元。面对国产新能源车的冲击，老牌合资车企试图通过价格战守住最后防线。",
+        "comment": "曾经的家轿之王，现在也得在国产卷王面前自降身价，燃油车的尊严终究敌不过‘真香’的定价。"
+      },
+      {
+        "category": "国外",
+        "tag": "大模型",
+        "title": "Anthropic新技术“蒸馏”人类知识库引发争议",
+        "link": "https://www.ifanr.com/1655664?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Anthropic被爆通过新技术高效提取海量版权文本中的核心知识，这种“用你的书训练，再抢你饭碗”的模式再次引发版权界强烈反弹。",
+        "comment": "知识分子最惨的事，莫过于成了AI进化的‘养料’，还得被迫接受AI写出的低价内容作为回馈。"
+      }
+    ]
+  },
   "2026-02-24": {
     "week": "周二",
     "articles": [
@@ -402,75 +471,6 @@
         "link": "https://www.ifanr.com/1655257?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "有开发者利用 Claude Code 仅用数天时间、几乎零成本打造了一款类似于拓麻歌子的 AI 硬件设备，展示了 AI 辅助下硬件原型开发的极高效率。",
         "comment": "以后硬件开发的门槛不是电路设计，而是你跟 AI 对话的文学造诣。"
-      }
-    ]
-  },
-  "2026-02-18": {
-    "week": "周三",
-    "articles": [
-      {
-        "category": "国外",
-        "tag": "智能硬件",
-        "title": "苹果秘密研发三款 AI 穿戴设备",
-        "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
-        "summary": "随着 AI 硬件市场持续升温，苹果据报正在同步开发三款 AI 驱动的穿戴式产品，试图在 iPhone 之外构建新的 AI 交互生态。",
-        "comment": "库克：既然屏幕卷不动了，那就把 AI 贴到用户的眼睛和耳朵上。"
-      },
-      {
-        "category": "国外",
-        "tag": "大模型",
-        "title": "Anthropic 发布 Sonnet 4.6 模型",
-        "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
-        "summary": "Anthropic 推出了其中型模型 Sonnet 的 4.6 版本，继续维持其约四个月一次的高频迭代节奏，旨在平衡性能与推理成本。",
-        "comment": "Anthropic 这种雷打不动的“季度考”节奏，让友商的发布会压力倍增。"
-      },
-      {
-        "category": "国外",
-        "tag": "AI安全",
-        "title": "Meta 等巨头出于安全忧虑限制使用 OpenClaw",
-        "link": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
-        "summary": "由于担心病毒式传播的 AI Agent 工具 OpenClaw 存在不可预测的安全风险，Meta 等多家科技大厂已对其下达禁令。",
-        "comment": "Agent 越是能“自主工作”，大厂法务和安全专家的头发就掉得越快。"
-      },
-      {
-        "category": "国外",
-        "tag": "AI医疗",
-        "title": "AI 数字孪生技术助力管理糖尿病与肥胖",
-        "link": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
-        "summary": "硅谷初创公司 Twin Health 利用 AI 与穿戴式传感器为患者构建数字孪生模型，提供精准的健康建议，成为昂贵减肥药的替代方案。",
-        "comment": "当你的数字孪生在模拟器里跑出健康曲线时，现实中的你可能才刚刚放下鸡腿。"
-      },
-      {
-        "category": "国内",
-        "tag": "大模型/融资",
-        "title": "国产大模型“烧钱”大战：大厂撒红包，月之暗面拿融资",
-        "link": "https://36kr.com/p/3688162369908611?f=rss",
-        "summary": "春节期间中国大模型赛道热度不减，字节豆包与阿里千问通过撒红包大肆拉新，而月之暗面则传出完成由阿里、腾讯领投的超 7 亿美元融资。",
-        "comment": "大厂负责‘撒币’买流量，独角兽负责‘吸金’续命，国产大模型的排位赛还没到终局。"
-      },
-      {
-        "category": "国内",
-        "tag": "智能家居",
-        "title": "追觅扫地机器人登上 2026 春晚舞台",
-        "link": "https://36kr.com/p/3687358225739396?f=rss",
-        "summary": "在 2026 年春晚节目《智造未来》中，追觅扫地机器人作为新质生产力标杆亮相，创下该类产品登上春晚舞台的历史首例。",
-        "comment": "扫地机都上春晚了，看来未来的‘家庭成员’里必有 AI 硬件的一席之地。"
-      },
-      {
-        "category": "国外",
-        "tag": "智能硬件",
-        "title": "苹果 AI 硬件三件套曝光，iPhone 生态将迎加强",
-        "link": "https://www.ifanr.com/1655325?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "详细情报显示苹果的产品思路正向 AI 倾斜，正在研发的 AI 穿戴三件套将显著增强 iPhone 的生态协同能力。",
-        "comment": "说是‘加强 iPhone’，其实是想让你全身上下再多买三件 Apple 设备。"
-      },
-      {
-        "category": "国外",
-        "tag": "AI编程",
-        "title": "开发者用 Claude Code 零成本手搓 AI 硬件",
-        "link": "https://www.ifanr.com/1655257?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "一款基于 Claude Code 自动生成的‘AI 拓麻歌子’在社区走红，展示了 AI 工具如何将复杂的硬件开发门槛降至近乎零成本。",
-        "comment": "以前做硬件是‘磨洋工’，现在是‘对 AI 说句话’。人人都是产品经理的时代真来了。"
       }
     ]
   }
