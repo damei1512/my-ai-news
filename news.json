@@ -1,4 +1,73 @@
 {
+  "2026-02-26": {
+    "week": "周四",
+    "articles": [
+      {
+        "category": "国外",
+        "tag": "政策",
+        "title": "白宫要求 AI 巨头承担电费上涨额度",
+        "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+        "summary": "美国政府希望超大规模云服务商自行吸收因 AI 业务需求导致的电力成本增加，目前多数科技巨头已公开承诺响应。",
+        "comment": "白宫这波‘共同富裕’玩得很溜，让 AI 巨头自掏腰包，别让平民为算力狂飙买单。"
+      },
+      {
+        "category": "国外",
+        "tag": "机器人",
+        "title": "Alphabet 旗下机器人公司 Intrinsic 重新并入 Google",
+        "link": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+        "summary": "在作为独立公司运作五年后，机器人软件初创公司 Intrinsic 再次回归 Google 麾下，以强化 AI 机器人技术的整合。",
+        "comment": "独立梦碎，大厂的尽头终究是‘回归母体’以寻求资源输血。"
+      },
+      {
+        "category": "国外",
+        "tag": "大模型",
+        "title": "硅谷“整活王” Riley Walz 加入 OpenAI",
+        "link": "https://www.wired.com/story/openai-hires-riley-walz/",
+        "summary": "以各种线上恶作剧闻名的软件工程师 Riley Walz 已入职 OpenAI，旨在探索人类使用 AI 系统的新交互方式。",
+        "comment": "招了个职业捣蛋鬼，OpenAI 这是打算在实现 AGI 之前先把‘整活’技能点满？"
+      },
+      {
+        "category": "国外",
+        "tag": "网络安全",
+        "title": "开源项目 Scrapling 助力 AI 绕过反爬系统",
+        "link": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
+        "summary": "越来越多的 AI Agent 用户利用 Scrapling 等开源工具绕过 Cloudflare 的防御，在未经许可下强行抓取数据。",
+        "comment": "矛与盾的较量升级，AI 时代的‘数据劫匪’正在让传统的防火墙形同虚设。"
+      },
+      {
+        "category": "国内",
+        "tag": "商业洞察",
+        "title": "36氪特稿：户外产业的繁华与反思",
+        "link": "https://36kr.com/p/3698569046667142?f=rss",
+        "summary": "通过米兰奥运村建设的视角，探讨户外运动产业在经历狂热增长后的现状，以及行业内部对过度商业化的怀疑。",
+        "comment": "当户外变成了一种纯粹的生意，那股子旷野的灵魂也就渐渐走样了。"
+      },
+      {
+        "category": "国内",
+        "tag": "公司快讯",
+        "title": "氪星晚报：宗馥莉任娃哈哈管理咨询董事",
+        "link": "https://36kr.com/p/3698580039085698?f=rss",
+        "summary": "晚报汇总了宗馥莉新职任命、英特尔与 SambaNova 达成战略合作、以及特斯拉在法国的商标纠纷等多项动态。",
+        "comment": "娃哈哈的接班进程稳步推进，老牌国货在权力交替中依然是舆论的风向标。"
+      },
+      {
+        "category": "国外",
+        "tag": "智能硬件",
+        "title": "三星 Galaxy S26 系列发布：6999 元起步",
+        "link": "https://www.ifanr.com/1655822?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "三星正式发布年度旗舰 S26 系列，主打更聪明的本地 AI 应用与防窥保护功能，起售价维持在高位。",
+        "comment": "安卓机皇硬件上依旧稳健，但在中国手机市场的 AI 混战中，这块‘好饭’怕是有点赶不上趟。"
+      },
+      {
+        "category": "国外",
+        "tag": "人物",
+        "title": "乔布斯诞辰 71 周年：30 位好友联名致信",
+        "link": "https://www.ifanr.com/1655756?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "在乔布斯诞辰 71 周年之际，其生前密友共同撰写感言，缅怀这位改变世界的先驱及其对问题的哲学思考。",
+        "comment": "活在问题中，而非盲目追逐答案，或许这就是乔布斯留给这个 AI 时代最好的遗产。"
+      }
+    ]
+  },
   "2026-02-25": {
     "week": "周三",
     "articles": [
@@ -410,67 +479,6 @@
         "link": "https://www.ifanr.com/1655367?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "2026年春晚融入了大量 220V 电力技术、新质生产力设备等硬核元素，让观众感叹整台节目就像一场大型科技产品发布会。",
         "comment": "以前春晚是‘难忘今宵’，现在春晚是‘新品路演’。看着满屏的硬核设备，总觉得那是科技编辑连夜写的通稿。"
-      }
-    ]
-  },
-  "2026-02-19": {
-    "week": "周四",
-    "articles": [
-      {
-        "category": "国外",
-        "tag": "云服务",
-        "title": "Google Cloud 副总裁为初创公司开出“体检单”",
-        "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
-        "summary": "Google Cloud 初创业务副总裁分享了创始人如何在 AI 浪潮中识别企业的“故障信号”，涵盖了面对高昂算力成本、融资收紧及快速迭代压力下的生存策略。",
-        "comment": "云厂商的关怀往往伴随着额度推销：在你的“发动机”报警前，先看看是不是欠了谷歌的云费。"
-      },
-      {
-        "category": "国外",
-        "tag": "AI军事",
-        "title": "防务公司 Scout AI 研发具杀伤力的 AI 特工",
-        "link": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
-        "summary": "初创公司 Scout AI 借鉴了大模型行业的 Agent 技术，将其应用于致命武器系统，并展示了通过 AI 驱动无人机进行精确爆破的潜力。",
-        "comment": "当硅谷还在争论 AI 是否有意识时，军工企业已经教 AI 怎么高效地定向清除了。"
-      },
-      {
-        "category": "国外",
-        "tag": "计算芯片",
-        "title": "英伟达与 Meta 交易标志算力从“单品”转向“集群”",
-        "link": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
-        "summary": "科技巨头采购零散芯片的时代已结束。英伟达与 Meta 的最新合作表明，AI 公司现在需要的是整合了 GPU、CPU 及高速互连技术的完整系统级方案。",
-        "comment": "老黄的生意经升级了：既然你买不到散件，那就必须吞下整套“全家桶”。"
-      },
-      {
-        "category": "国内",
-        "tag": "大模型",
-        "title": "大模型开年混战：月之暗面获阿里腾讯 7 亿美元融资",
-        "link": "https://36kr.com/p/3688162369908611?f=rss",
-        "summary": "国内大模型赛道在春节期间热度不减。阿里、腾讯领投月之暗面新一轮超 7 亿美元融资，而字节跳动、阿里等大厂则通过红包和巨额补贴疯狂为自家 AI 应用拉流。",
-        "comment": "一边是“六小虎”疯狂补血续命，一边是大厂把 AI 当成当年的打车大战在打，真金白银才是硬道理。"
-      },
-      {
-        "category": "国内",
-        "tag": "智能家居",
-        "title": "追觅扫地机以“新质生产力”身份首登春晚",
-        "link": "https://36kr.com/p/3687358225739396?f=rss",
-        "summary": "2026 年春晚中，追觅扫地机作为中国制造和新质生产力的标杆出现在《智造未来》节目中，创下扫地机器人品类在春晚舞台的首秀记录。",
-        "comment": "扫地机上春晚，证明了在这个时代，能帮人类逃避家务的机器就是最伟大的科技成果。"
-      },
-      {
-        "category": "国外",
-        "tag": "消费电子",
-        "title": "苹果 AI 硬件“三件套”曝光，iPhone 将迎史诗级增强",
-        "link": "https://www.ifanr.com/1655325?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果内部正在调整产品思路，围绕 iPhone 及相关生态打造深度集成 AI 的硬件体系，通过算力升级和感知能力提升，试图重塑其在智能硬件领域的护城河。",
-        "comment": "库克很清楚：如果软件 AI 追得慢，就得靠卖更贵的 AI 专用硬件把面子找回来。"
-      },
-      {
-        "category": "国外",
-        "tag": "开发者工具",
-        "title": "极客手搓 Claude Code“电子宠物”，一句话做硬件成真",
-        "link": "https://www.ifanr.com/1655257?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "有开发者利用 Claude Code 仅用数天时间、几乎零成本打造了一款类似于拓麻歌子的 AI 硬件设备，展示了 AI 辅助下硬件原型开发的极高效率。",
-        "comment": "以后硬件开发的门槛不是电路设计，而是你跟 AI 对话的文学造诣。"
       }
     ]
   }
