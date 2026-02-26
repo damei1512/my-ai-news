@@ -21,6 +21,8 @@ RSS_SOURCES = {
         "https://36kr.com/feed",
         "https://www.ifanr.com/feed",
         "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://www.pingwest.com/feed",  # 品玩
+        "https://www.jiqizhixin.com/rss", # 机器之心
     ],
     "数码": [
         "https://www.engadget.com/rss.xml",
@@ -29,6 +31,7 @@ RSS_SOURCES = {
     "游戏": [
         "https://www.ign.com/rss/articles/feed",
         "https://www.gamespot.com/feeds/news/",
+        "https://www.gcores.com/rss",  # 机核
     ],
     "时事": [
         "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -41,6 +44,34 @@ RSS_SOURCES = {
         "https://techcrunch.com/category/artificial-intelligence/feed/",
     ]
 }
+
+# ================= 关键词白名单 =================
+# 只有标题/摘要包含这些关键词的文章才会保留
+KEYWORD_WHITELIST = {
+    "科技": ["芯片", "半导体", "融资", "IPO", "收购", "上市", "苹果", "谷歌", "微软", "英伟达", "华为", "小米", "特斯拉", "SpaceX", "OpenAI", "Anthropic", "AI", "人工智能", "大模型"],
+    "数码": ["手机", "相机", "笔记本", "平板", "手表", "耳机", "评测", "体验", "发布", "iPhone", "Android", "摄影"],
+    "游戏": ["Switch", "PlayStation", "Xbox", "Steam", "手游", "网游", "DLC", "任天堂", "索尼", "微软", "销量", "发售"],
+    "时事": ["经济", "政策", "贸易", "关税", "制裁", "选举", "战争", "冲突", "疫情", "气候变化"],
+    "AI": ["ChatGPT", "Claude", "Gemini", "Llama", "大模型", "LLM", "生成式AI", "AIGC", "算力", "GPU", "Agent", "多模态", "AGI", "Prompt", "微调", "训练"]
+}
+
+def filter_by_keywords(articles, category):
+    """按关键词过滤文章"""
+    keywords = KEYWORD_WHITELIST.get(category, [])
+    if not keywords:
+        return articles
+    
+    filtered = []
+    for article in articles:
+        text = (article.get('title', '') + ' ' + article.get('summary', '')).lower()
+        if any(kw.lower() in text for kw in keywords):
+            filtered.append(article)
+    
+    # 记录过滤信息
+    if len(filtered) < len(articles):
+        print(f"   📝 关键词过滤: {len(articles)} → {len(filtered)} 篇")
+    
+    return filtered
 
 # ================= 核心逻辑 =================
 
@@ -69,6 +100,9 @@ def fetch_news_by_category(category, urls):
                 })
         except Exception as e:
             print(f"   ❌ {url} - {e}")
+    
+    # 关键词过滤
+    articles = filter_by_keywords(articles, category)
     return articles
 
 def summarize_with_gemini(category, articles):
