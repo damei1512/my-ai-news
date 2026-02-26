@@ -3,100 +3,68 @@
     "week": "周四",
     "articles": [
       {
-        "category": "AI",
-        "tag": "大模型",
-        "title": "Google Gemini 2.0 Pro 正式发布，多模态能力大幅提升",
-        "link": "https://blog.google/technology/ai/gemini-2-pro/",
-        "summary": "Google 发布 Gemini 2.0 Pro 模型，支持更长的上下文窗口（200万token），图像理解和代码生成能力显著增强，对标 GPT-4o。",
-        "comment": "谷歌终于拿出真家伙了，200万上下文窗口这是要卷死 OpenAI 啊。"
+        "category": "科技",
+        "tag": "消费电子",
+        "title": "魅族手机或将退市，英伟达年内计划开展资本运作",
+        "link": "https://36kr.com/p/3699924181134984?f=rss",
+        "summary": "魅族业务传出实质性停摆消息，或于3月正式退市。英伟达黄仁勋在财报会上表示，公司将持续回购股票和分红，并计划在年内寻找合适时机进行资本运作和战略投资。同时，三星电子拟停产2DNAND闪存以转产DRAM。",
+        "comment": "魅族终究还是活成了时代的眼泪，而老黄兜里的钱已经多到要在全球范围寻找下一个‘猎物’了。"
       },
       {
         "category": "科技",
-        "tag": "芯片",
-        "title": "英伟达 RTX 5090  specs 曝光：功耗高达 600W",
-        "link": "https://techcrunch.com/2026/02/26/nvidia-rtx-5090-specs-leaked/",
-        "summary": "RTX 5090 规格曝光，基于 Blackwell 架构，CUDA 核心数增加 50%，但 TDP 高达 600W，需要更强散热方案。",
-        "comment": "600W？这哪是显卡，这是电磁炉吧。电费账单要爆表了。"
+        "tag": "人工智能",
+        "title": "硅谷最贵华人庞若鸣放弃14亿年薪加盟OpenAI",
+        "link": "https://www.ifanr.com/1655867?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "上交大校友庞若鸣放弃了价值14亿人民币的天价入职包，离开原有平台投奔OpenAI。作为硅谷顶级技术专家，他的这一选择再次印证了OpenAI对顶尖人才无可匹敌的磁吸效应。",
+        "comment": "在14亿和通往AGI的门票面前，大神选择了后者，毕竟改变世界比单纯数钱更有诱惑力。"
       },
       {
-        "category": "数码",
-        "tag": "手机",
-        "title": "小米 16 Pro 提前曝光：首发骁龙 8 Elite 2",
-        "link": "https://www.ifanr.com/1656000",
-        "summary": "小米 16 Pro 工程机曝光，首发高通骁龙 8 Elite 2 芯片，安兔兔跑分突破 350 万，2K 屏下摄像头方案。",
-        "comment": "雷总这是要憋大招啊，屏下摄像头成熟了？我咋不太信。"
+        "category": "科技",
+        "tag": "AI Agent",
+        "title": "解决企业AI落地痛点，Trace获300万美元种子轮融资",
+        "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
+        "summary": "初创公司Trace宣布获得300万美元种子轮融资，由Y Combinator、Zeno Ventures等参投。公司旨在解决企业在采用AI智能体过程中的阻碍，帮助企业更顺畅地部署和应用AI Agent。",
+        "comment": "当所有人都在造智能体时，专门卖‘落地指南’的人已经先拿到了投资人的过路费。"
       },
       {
         "category": "游戏",
-        "tag": "主机",
-        "title": "任天堂 Switch 2 发布会定档 3 月 17 日",
-        "link": "https://www.ign.com/articles/nintendo-switch-2-direct-march-17",
-        "summary": "任天堂官宣 Switch 2 专场发布会，届时将公布售价、发售日期和首发游戏阵容，传闻定价 399 美元。",
-        "comment": "终于来了！再拖下去我都要买 Steam Deck 了。"
-      },
-      {
-        "category": "AI",
-        "tag": "Agent",
-        "title": "OpenAI 推出 Operator：能自动订机票的 AI Agent",
-        "link": "https://openai.com/index/operator/",
-        "summary": "OpenAI 发布 Operator，一个能自主操作浏览器完成任务的 AI Agent，可自动填写表单、预订服务、在线购物。",
-        "comment": "这是要取代人类上网冲浪啊，以后我只需要躺着花钱了？"
-      },
-      {
-        "category": "科技",
-        "tag": "融资",
-        "title": "月之暗面完成 10 亿美元融资，估值超 30 亿美元",
-        "link": "https://36kr.com/p/3700000001",
-        "summary": "杨植麟创办的月之暗面（Kimi）完成新一轮 10 亿美元融资，阿里领投，公司估值突破 30 亿美元。",
-        "comment": "国产大模型卷疯了，Kimi 这是要当独角兽之王啊。"
-      },
-      {
-        "category": "数码",
-        "tag": "评测",
-        "title": "Vision Pro 2 上手体验：轻了 30%，但还是沉",
-        "link": "https://www.theverge.com/vision-pro-2-review",
-        "summary": "苹果 Vision Pro 2 评测解禁，重量减轻 30%，续航提升，新增空间视频拍摄功能，但 3499 美元定价依然劝退。",
-        "comment": "轻了 30% 还是像戴了个头盔，库克你倒是把价格打下来啊。"
+        "tag": "行业动态",
+        "title": "前Xbox高管Peter Moore谈微软游戏新任CEO Asha Sharma",
+        "link": "https://www.gamespot.com/articles/former-xbox-exec-peter-moore-weighs-in-on-new-ceo-asha-sharma/1100-6538443/?ftag=CAD-01-10abi2f",
+        "summary": "前Xbox高管Peter Moore近日对微软游戏新任CEO Asha Sharma的任命发表看法。他指出Sharma当前的核心任务应当是“倾听”，以此在复杂的管理架构和多变的行业环境中找准定位。",
+        "comment": "菲尔·斯宾塞头顶又多了个CEO，这层级叠得比Buff还多。所谓“倾听”，大概是听听裁员的哀号吧。"
       },
       {
         "category": "游戏",
-        "tag": "手游",
-        "title": "《黑神话：悟空》DLC 预告片泄露，新增 3 个章节",
-        "link": "https://www.gcores.com/articles/180000",
-        "summary": "《黑神话：悟空》DLC 预告片被泄露，确认新增「狮驼岭」「女儿国」「天庭」三个章节，预计 Q3 发售。",
-        "comment": "泄露得好！快端上来吧，我已经等不及再打一遍二郎神了。"
+        "tag": "周边联名",
+        "title": "汉米尔顿将推出《生化危机：安魂曲》联名限量腕表",
+        "link": "https://www.gcores.com/articles/211114",
+        "summary": "汉米尔顿与《生化危机：安魂曲》联名限量腕表将于2026年2月27日随游戏同步发售。该表款由机核商店在中国大陆地区限量首发，将游戏标志性元素融入专业腕表设计，面向生化系列死忠玩家。",
+        "comment": "表走得准不准不要紧，关键是戴上它能不能在浣熊市多活两秒？情怀这口“冷饭”，卡普空是懂包装的。"
       },
       {
         "category": "AI",
-        "tag": "多模态",
-        "title": "Claude 4  preview：能看懂梗图了",
-        "link": "https://www.anthropic.com/claude-4-preview",
-        "summary": "Anthropic 开放 Claude 4 预览，多模态理解能力大幅提升，可以准确描述和解释网络梗图、表情包含义。",
-        "comment": "终于能看懂我的表情包了？Claude 你是懂互联网的。"
+        "tag": "人才动态",
+        "title": "硅谷“整活大师” Riley Walz 加入 OpenAI",
+        "link": "https://www.wired.com/story/openai-hires-riley-walz/",
+        "summary": "以网络恶作剧和创意项目闻名的软件工程师 Riley Walz 宣布加入 OpenAI。他将利用其独特的“非典型”视角，致力于开发人类与 AI 系统交互的新方式，探索 ChatGPT 的更多可能性。",
+        "comment": "以前是整活给网友看，现在是整活给全人类看。OpenAI 这是想通了，打算给 AI 注入点有趣的灵魂？"
       },
       {
-        "category": "科技",
-        "tag": "汽车",
-        "title": "理想汽车发布 L6 青春版：19.98 万起售",
-        "link": "https://www.lixiang.com/news/2026-l6-youth",
-        "summary": "理想 L6 青春版上市，售价 19.98 万元，比标准版便宜 3 万，续航 1200km，定位年轻家庭用户。",
-        "comment": "李想这是要跟小米 SU7 硬刚了，20 万区间要血流成河啊。"
+        "category": "AI",
+        "tag": "AI 智能体",
+        "title": "OpenClaw 用户被曝利用 Scrapling 绕过反爬虫系统",
+        "link": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
+        "summary": "开源项目 Scrapling 近期在 AI 智能体开发者中走红，该工具能帮助机器人有效绕过 Cloudflare 等反爬虫系统，进行未经许可的数据抓取。这标志着 AI 数据采集与反爬技术之间的博弈进一步升级。",
+        "comment": "防君子不防 AI。只要算力够强，所谓的“防爬盾”在急需数据的 AI 面前就像层窗户纸，一戳就破。"
       },
       {
-        "category": "数码",
-        "tag": "相机",
-        "title": "索尼 A7V 发布：6100 万像素，8K 视频",
-        "link": "https://www.sony.com/a7v",
-        "summary": "索尼正式发布 A7V 全画幅微单，6100 万像素传感器，支持 8K 30p 视频录制，AI 对焦系统升级，售价 23999 元。",
-        "comment": "钱包在颤抖... 6100 万像素这是要让我的硬盘当场去世。"
-      },
-      {
-        "category": "时事",
-        "tag": "政策",
-        "title": "欧盟通过 AI 法案最终版本，全球最严监管落地",
-        "link": "https://www.bbc.com/news/eu-ai-act-final",
-        "summary": "欧盟 AI 法案正式通过，对生成式 AI 实施分级监管，最高罚款可达全球年营收 7%，预计 2026 年 8 月生效。",
-        "comment": "欧盟这是要把 AI 公司往死里管啊，创新还是扼杀创新？"
+        "category": "AI",
+        "tag": "投融资",
+        "title": "Trace 获 300 万美元融资，助力企业级 AI 智能体落地",
+        "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
+        "summary": "初创公司 Trace 宣布完成 300 万美元种子轮融资，由 YC 等机构投资。公司致力于解决 AI 智能体在企业环境中部署难、采用率低的问题，旨在将实验室里的 AI 转化为实际可用的企业生产力。",
+        "comment": "300 万美元也就够买几张 H100，但在“智能体落地难”这个天坑里，这点钱能填平一寸是一寸吧。"
       }
     ]
   }
