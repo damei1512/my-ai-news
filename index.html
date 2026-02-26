@@ -3,228 +3,350 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI 每日观察室</title>
+    <title>AI 资讯聚合 - 科技/数码/游戏/时事</title>
     <style>
-        /* ==================== 核心样式区 (本地防弹版) ==================== */
-        /* 这些样式直接写在文件里，不需要下载，绝对不会崩 */
-        
+        /* ==================== CSS 变量定义 ==================== */
         :root {
-            --primary: #2563eb;       /* 主题蓝 */
-            --bg-page: #f8fafc;       /* 页面背景 */
-            --bg-card: #ffffff;       /* 卡片背景 */
-            --text-main: #0f172a;     /* 主文字 */
-            --text-sub: #64748b;      /* 次要文字 */
-            --border: #e2e8f0;        /* 边框色 */
+            --primary: #2563eb;
+            --bg-page: #f8fafc;
+            --bg-card: #ffffff;
+            --text-main: #0f172a;
+            --text-sub: #64748b;
+            --border: #e2e8f0;
+            --shadow: rgba(0,0,0,0.08);
         }
 
-        * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+        [data-theme="dark"] {
+            --bg-page: #0f172a;
+            --bg-card: #1e293b;
+            --text-main: #f1f5f9;
+            --text-sub: #94a3b8;
+            --border: #334155;
+            --shadow: rgba(0,0,0,0.3);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             background-color: var(--bg-page);
             color: var(--text-main);
-            margin: 0;
-            padding: 20px 16px;
             line-height: 1.6;
+            transition: background-color 0.3s, color 0.3s;
         }
 
-        /* 布局容器 */
-        .container { max-width: 720px; margin: 0 auto; }
+        .container { max-width: 900px; margin: 0 auto; padding: 20px 16px; }
 
-        /* 头部样式 */
-        header { margin-bottom: 24px; display: flex; flex-direction: column; gap: 8px; }
-        @media (min-width: 640px) {
-            header { flex-direction: row; justify-content: space-between; align-items: flex-end; }
+        /* ==================== 头部 ==================== */
+        header { 
+            display: flex; justify-content: space-between; align-items: center;
+            margin-bottom: 24px; flex-wrap: wrap; gap: 12px;
         }
         
-        h1 { margin: 0; font-size: 28px; font-weight: 900; letter-spacing: -0.5px; display: flex; align-items: center; gap: 8px; }
-        .pro-badge { background: var(--primary); color: white; font-size: 11px; padding: 2px 6px; border-radius: 99px; text-transform: uppercase; vertical-align: middle; }
-        .subtitle { margin: 4px 0 0; color: var(--text-sub); font-size: 14px; }
-        
+        .brand h1 { 
+            font-size: 28px; font-weight: 800; 
+            background: linear-gradient(135deg, #2563eb, #7c3aed);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+        }
+        .brand p { color: var(--text-sub); font-size: 14px; margin-top: 4px; }
+
+        .header-controls {
+            display: flex; align-items: center; gap: 12px;
+        }
+
+        .theme-toggle {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 50%;
+            width: 40px; height: 40px;
+            cursor: pointer;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 18px;
+            transition: transform 0.2s;
+        }
+        .theme-toggle:hover { transform: scale(1.1); }
+
         .status-pill {
             display: inline-flex; align-items: center; gap: 6px;
-            background: white; border: 1px solid var(--border);
-            padding: 4px 10px; border-radius: 99px;
+            background: var(--bg-card); border: 1px solid var(--border);
+            padding: 6px 12px; border-radius: 99px;
             font-size: 12px; color: var(--text-sub);
         }
-        .dot { width: 8px; height: 8px; background: #22c55e; border-radius: 50%; display: inline-block; }
+        .dot { width: 8px; height: 8px; background: #22c55e; border-radius: 50%; }
 
-        /* 控件区：日期和筛选 */
-        .controls { margin-bottom: 32px; display: flex; flex-direction: column; gap: 16px; }
-
-        /* 日期时间轴 */
-        .date-scroll { 
-            display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; 
-            scrollbar-width: none; /* Firefox */
+        /* ==================== 搜索框 ==================== */
+        .search-box {
+            position: relative;
+            margin-bottom: 20px;
         }
-        .date-scroll::-webkit-scrollbar { display: none; } /* Chrome/Safari */
+        .search-box input {
+            width: 100%;
+            padding: 12px 16px 12px 44px;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            background: var(--bg-card);
+            color: var(--text-main);
+            font-size: 15px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .search-box input:focus { border-color: var(--primary); }
+        .search-box::before {
+            content: "🔍";
+            position: absolute;
+            left: 16px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 16px;
+        }
+
+        /* ==================== 日期选择 ==================== */
+        .date-scroll { 
+            display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px;
+            margin-bottom: 20px;
+        }
+        .date-scroll::-webkit-scrollbar { display: none; }
         
         .date-btn {
             flex-shrink: 0; min-width: 70px;
-            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            display: flex; flex-direction: column; align-items: center;
             padding: 8px 12px; border-radius: 99px;
-            border: 1px solid var(--border); background: white;
+            border: 1px solid var(--border); 
+            background: var(--bg-card);
             color: var(--text-sub); cursor: pointer; transition: all 0.2s;
         }
-        .date-btn.active { background: #1e293b; color: white; border-color: #1e293b; }
+        .date-btn.active { 
+            background: var(--primary); color: white; border-color: var(--primary);
+        }
         .date-date { font-size: 12px; opacity: 0.8; }
-        .date-week { font-size: 14px; font-weight: bold; line-height: 1.2; }
+        .date-week { font-size: 14px; font-weight: bold; }
 
-        /* 筛选器开关 */
-        .filter-container { display: flex; justify-content: center; }
-        @media (min-width: 640px) { .filter-container { justify-content: flex-start; } }
-        
-        .filter-wrapper {
-            background: #e2e8f0; padding: 4px; border-radius: 99px;
-            display: inline-flex; position: relative;
+        /* ==================== 分类筛选 ==================== */
+        .category-filter {
+            display: flex; flex-wrap: wrap; gap: 8px;
+            margin-bottom: 24px;
+            padding: 4px;
         }
-        .filter-item {
-            position: relative; z-index: 2;
-            padding: 6px 18px; font-size: 14px; font-weight: 600;
-            color: #64748b; cursor: pointer; user-select: none;
-            transition: color 0.2s;
+        .category-btn {
+            padding: 8px 16px;
+            border-radius: 99px;
+            border: 1px solid var(--border);
+            background: var(--bg-card);
+            color: var(--text-sub);
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
         }
-        .filter-item.active { color: #0f172a; }
-        
-        /* 滑块动画 */
-        .filter-slider {
-            position: absolute; top: 4px; left: 4px; bottom: 4px;
-            width: calc(33.33% - 5px); /* 近似三分之一 */
-            background: white; border-radius: 99px;
-            box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-            transition: transform 0.2s ease; z-index: 1;
+        .category-btn:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+        .category-btn.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
         }
 
-        /* 新闻卡片 */
-        .news-list { display: grid; gap: 20px; }
+        /* 分类颜色 */
+        .category-btn[data-cat="科技"].active { background: #3b82f6; }
+        .category-btn[data-cat="数码"].active { background: #8b5cf6; }
+        .category-btn[data-cat="游戏"].active { background: #ec4899; }
+        .category-btn[data-cat="时事"].active { background: #f59e0b; }
+        .category-btn[data-cat="AI"].active { background: #10b981; }
+
+        /* ==================== 新闻卡片 ==================== */
+        .news-list { display: grid; gap: 16px; }
         
         .card {
-            background: var(--bg-card); border-radius: 16px;
+            background: var(--bg-card);
+            border-radius: 16px;
             border: 1px solid var(--border);
             padding: 20px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+            box-shadow: 0 2px 8px var(--shadow);
             transition: transform 0.2s, box-shadow 0.2s;
-            text-decoration: none; display: block; /* 让卡片本身作为块级 */
         }
-        .card:hover { transform: translateY(-3px); box-shadow: 0 10px 20px rgba(0,0,0,0.08); }
+        .card:hover { 
+            transform: translateY(-2px); 
+            box-shadow: 0 8px 24px var(--shadow);
+        }
 
-        .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; }
-        .tags { display: flex; gap: 8px; }
+        .card-header {
+            display: flex; justify-content: space-between; align-items: flex-start;
+            margin-bottom: 12px; flex-wrap: wrap; gap: 8px;
+        }
+        .tags { display: flex; gap: 8px; flex-wrap: wrap; }
         .tag { 
-            font-size: 11px; font-weight: bold; padding: 3px 6px; border-radius: 4px; 
-            border: 1px solid transparent;
+            font-size: 12px; font-weight: 600; 
+            padding: 4px 10px; border-radius: 99px;
         }
-        /* 标签颜色 */
-        .tag.blue { background: #eff6ff; color: #2563eb; border-color: #dbeafe; }
-        .tag.red { background: #fef2f2; color: #dc2626; border-color: #fee2e2; }
-        .tag.gray { background: #f8fafc; color: #64748b; border-color: #e2e8f0; }
-
-        .icon-link { color: #cbd5e1; transition: color 0.2s; }
-        .card:hover .icon-link { color: var(--primary); }
-        .icon-link svg { width: 20px; height: 20px; display: block; } /* 锁死图标大小 */
+        /* 分类标签颜色 */
+        .tag.tech { background: #dbeafe; color: #1e40af; }
+        .tag.digital { background: #ede9fe; color: #5b21b6; }
+        .tag.game { background: #fce7f3; color: #9d174d; }
+        .tag.news { background: #fef3c7; color: #92400e; }
+        .tag.ai { background: #d1fae5; color: #065f46; }
 
         .card-title {
-            font-size: 18px; font-weight: 700; color: #1e293b;
-            margin: 0 0 10px 0; line-height: 1.4;
+            font-size: 18px; font-weight: 700;
+            margin-bottom: 10px; line-height: 1.4;
         }
-        .card-title:hover { color: var(--primary); }
+        .card-title a {
+            color: var(--text-main);
+            text-decoration: none;
+        }
+        .card-title a:hover { color: var(--primary); }
 
         .card-summary {
-            font-size: 14px; color: #475569; margin-bottom: 16px;
-            text-align: justify;
+            font-size: 14px; color: var(--text-sub);
+            margin-bottom: 14px;
+            line-height: 1.6;
         }
 
         .card-footer {
-            padding-top: 12px; border-top: 1px solid #f1f5f9;
-            display: flex; justify-content: space-between; align-items: center; gap: 12px;
+            display: flex; justify-content: space-between; align-items: center;
+            gap: 12px; padding-top: 14px;
+            border-top: 1px solid var(--border);
         }
         
         .comment-box {
-            background: #f8fafc; padding: 8px 12px; border-radius: 8px;
-            font-size: 12px; color: #64748b; font-style: italic; flex: 1;
-            border: 1px solid #e2e8f0;
+            flex: 1;
+            font-size: 13px; color: var(--text-sub); font-style: italic;
         }
         
         .btn-read {
             font-size: 13px; font-weight: 600; color: var(--primary);
-            background: #eff6ff; padding: 6px 12px; border-radius: 8px;
-            text-decoration: none; white-space: nowrap;
-            display: inline-flex; align-items: center; gap: 4px;
+            background: transparent;
+            padding: 6px 12px;
+            border: 1px solid var(--primary);
+            border-radius: 8px;
+            text-decoration: none;
+            white-space: nowrap;
+            transition: all 0.2s;
         }
-        .btn-read:hover { background: #dbeafe; }
-        .btn-read svg { width: 14px; height: 14px; }
+        .btn-read:hover { 
+            background: var(--primary); color: white;
+        }
 
-        /* 骨架屏加载态 */
-        .skeleton { background: #f1f5f9; border-radius: 8px; animation: pulse 1.5s infinite; }
-        @keyframes pulse { 0% { opacity: 0.6; } 50% { opacity: 1; } 100% { opacity: 0.6; } }
+        /* ==================== 骨架屏 ==================== */
+        .skeleton { 
+            background: var(--border); 
+            border-radius: 8px; 
+            animation: pulse 1.5s infinite; 
+        }
+        @keyframes pulse { 
+            0%, 100% { opacity: 0.6; } 
+            50% { opacity: 1; } 
+        }
 
-        /* 底部 */
-        footer { margin-top: 40px; text-align: center; font-size: 12px; color: #94a3b8; padding-bottom: 20px; }
+        /* ==================== 空状态 ==================== */
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-sub);
+        }
+        .empty-state .icon { font-size: 48px; margin-bottom: 16px; }
+
+        /* ==================== 响应式 ==================== */
+        @media (max-width: 640px) {
+            header { flex-direction: column; align-items: flex-start; }
+            .brand h1 { font-size: 24px; }
+            .card { padding: 16px; }
+        }
     </style>
 </head>
 <body>
-    
     <div class="container">
         <header>
-            <div>
-                <h1>AI Daily <span class="pro-badge">Pro</span></h1>
-                <p class="subtitle">Gemini 驱动的全球科技内参</p>
+            <div class="brand">
+                <h1>📰 资讯聚合</h1>
+                <p>科技 · 数码 · 游戏 · 时事 · AI</p>
             </div>
-            <div class="status-pill">
-                <span class="dot"></span>
-                <span id="update-text">正在连接...</span>
+            <div class="header-controls">
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌙</button>
+                <div class="status-pill">
+                    <span class="dot"></span>
+                    <span id="update-text">正在连接...</span>
+                </div>
             </div>
         </header>
 
-        <div class="controls">
-            <nav id="date-tabs" class="date-scroll">
-                <div class="skeleton" style="width: 70px; height: 50px; border-radius: 25px; flex-shrink: 0;"></div>
-                <div class="skeleton" style="width: 70px; height: 50px; border-radius: 25px; flex-shrink: 0;"></div>
-            </nav>
-
-            <div class="filter-container">
-                <div class="filter-wrapper">
-                    <div id="slider" class="filter-slider" style="transform: translateX(0px);"></div>
-                    <div class="filter-item active" onclick="setFilter('global', this, 0)">全球</div>
-                    <div class="filter-item" onclick="setFilter('国外', this, 1)">国外</div>
-                    <div class="filter-item" onclick="setFilter('国内', this, 2)">国内</div>
-                </div>
-            </div>
+        <!-- 搜索框 -->
+        <div class="search-box">
+            <input type="text" id="search-input" placeholder="搜索标题或摘要..." oninput="handleSearch()">
         </div>
 
+        <!-- 日期选择 -->
+        <nav id="date-tabs" class="date-scroll">
+            <div class="skeleton" style="width: 70px; height: 50px; border-radius: 25px; flex-shrink: 0;"></div>
+            <div class="skeleton" style="width: 70px; height: 50px; border-radius: 25px; flex-shrink: 0;"></div>
+        </nav>
+
+        <!-- 分类筛选 -->
+        <div class="category-filter" id="category-filter">
+            <button class="category-btn active" data-cat="all" onclick="setCategory('all', this)">全部</button>
+            <button class="category-btn" data-cat="科技" onclick="setCategory('科技', this)">💻 科技</button>
+            <button class="category-btn" data-cat="数码" onclick="setCategory('数码', this)">📱 数码</button>
+            <button class="category-btn" data-cat="游戏" onclick="setCategory('游戏', this)">🎮 游戏</button>
+            <button class="category-btn" data-cat="时事" onclick="setCategory('时事', this)">🌍 时事</button>
+            <button class="category-btn" data-cat="AI" onclick="setCategory('AI', this)">🤖 AI</button>
+        </div>
+
+        <!-- 新闻列表 -->
         <main id="news-container" class="news-list">
             <div class="card" style="height: 200px;">
                 <div class="skeleton" style="width: 30%; height: 20px; margin-bottom: 15px;"></div>
                 <div class="skeleton" style="width: 80%; height: 24px; margin-bottom: 15px;"></div>
-                <div class="skeleton" style="width: 100%; height: 16px; margin-bottom: 8px;"></div>
-                <div class="skeleton" style="width: 90%; height: 16px;"></div>
+                <div class="skeleton" style="width: 100%; height: 60px;"></div>
             </div>
         </main>
-
-        <footer>© 2026 AI Daily Monitor · Designed by Gemini</footer>
     </div>
 
     <script>
         let archiveData = {};
-        let currentFilter = 'global';
+        let currentCategory = 'all';
         let currentDate = '';
+        let searchQuery = '';
 
-        // 筛选逻辑
-        function setFilter(type, el, index) {
-            currentFilter = type;
-            
-            // UI 更新
-            document.querySelectorAll('.filter-item').forEach(item => item.classList.remove('active'));
-            el.classList.add('active');
-            
-            // 滑块移动
-            const slider = document.getElementById('slider');
-            slider.style.transform = `translateX(${index * 100}%)`;
+        // 分类到样式类的映射
+        const categoryClasses = {
+            '科技': 'tech',
+            '数码': 'digital',
+            '游戏': 'game',
+            '时事': 'news',
+            'AI': 'ai'
+        };
 
+        // 主题切换
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+            document.querySelector('.theme-toggle').textContent = next === 'dark' ? '☀️' : '🌙';
+        }
+
+        // 初始化主题
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        document.querySelector('.theme-toggle').textContent = savedTheme === 'dark' ? '☀️' : '🌙';
+
+        // 搜索处理
+        function handleSearch() {
+            searchQuery = document.getElementById('search-input').value.toLowerCase();
             renderNews(currentDate);
         }
 
-        // 渲染新闻卡片
+        // 分类筛选
+        function setCategory(cat, el) {
+            currentCategory = cat;
+            document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'));
+            el.classList.add('active');
+            renderNews(currentDate);
+        }
+
+        // 渲染新闻
         function renderNews(date) {
             currentDate = date;
             const container = document.getElementById('news-container');
@@ -236,57 +358,69 @@
                 container.innerHTML = '';
                 
                 if (!data || !data.articles || data.articles.length === 0) {
-                    container.innerHTML = `<div style="text-align:center; padding: 40px; color: #94a3b8;">📭 暂无数据</div>`;
-                } else {
-                    const filtered = data.articles.filter(item => {
-                        if (currentFilter === 'global') return true;
-                        // 兼容旧数据
-                        const itemCat = item.category || '国外'; 
-                        return itemCat === currentFilter;
-                    });
-
-                    if (filtered.length === 0) {
-                        container.innerHTML = `<div style="text-align:center; padding: 40px; color: #94a3b8;">该分类下暂无新闻</div>`;
-                    } else {
-                        filtered.forEach(item => {
-                            // 样式逻辑
-                            const isDomestic = item.category === '国内';
-                            const tagClass = isDomestic ? 'red' : 'blue';
-                            const tagName = item.category || '国外';
-
-                            const html = `
-                                <div class="card">
-                                    <div class="card-header">
-                                        <div class="tags">
-                                            <span class="tag ${tagClass}">${tagName}</span>
-                                            <span class="tag gray">${item.tag || 'AI'}</span>
-                                        </div>
-                                        <a href="${item.link}" target="_blank" class="icon-link">
-                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-                                        </a>
-                                    </div>
-                                    
-                                    <h2 class="card-title">
-                                        <a href="${item.link}" target="_blank" style="text-decoration:none; color:inherit;">${item.title}</a>
-                                    </h2>
-                                    
-                                    <p class="card-summary">${item.summary}</p>
-                                    
-                                    <div class="card-footer">
-                                        <div class="comment-box">
-                                            🤖 ${item.comment || '暂无辣评'}
-                                        </div>
-                                        <a href="${item.link}" target="_blank" class="btn-read">
-                                            阅读
-                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-                                        </a>
-                                    </div>
-                                </div>
-                            `;
-                            container.innerHTML += html;
-                        });
-                    }
+                    container.innerHTML = `
+                        <div class="empty-state">
+                            <div class="icon">📭</div>
+                            <p>暂无数据</p>
+                        </div>`;
+                    container.style.opacity = '1';
+                    return;
                 }
+
+                // 先按分类筛选
+                let filtered = data.articles;
+                if (currentCategory !== 'all') {
+                    filtered = filtered.filter(item => item.category === currentCategory);
+                }
+
+                // 再按搜索筛选
+                if (searchQuery) {
+                    filtered = filtered.filter(item => 
+                        item.title.toLowerCase().includes(searchQuery) ||
+                        item.summary.toLowerCase().includes(searchQuery) ||
+                        (item.comment && item.comment.toLowerCase().includes(searchQuery))
+                    );
+                }
+
+                if (filtered.length === 0) {
+                    container.innerHTML = `
+                        <div class="empty-state">
+                            <div class="icon">🔍</div>
+                            <p>没有找到匹配的新闻</p>
+                        </div>`;
+                    container.style.opacity = '1';
+                    return;
+                }
+
+                filtered.forEach(item => {
+                    const tagClass = categoryClasses[item.category] || 'tech';
+                    
+                    const html = `
+                        <article class="card">
+                            <div class="card-header">
+                                <div class="tags">
+                                    <span class="tag ${tagClass}">${item.category}</span>
+                                    <span class="tag" style="background: var(--border); color: var(--text-sub);">${item.tag || '资讯'}</span>
+                                </div>
+                            </div>
+                            
+                            <h2 class="card-title">
+                                <a href="${item.link}" target="_blank">${item.title}</a>
+                            </h2>
+                            
+                            <p class="card-summary">${item.summary}</p>
+                            
+                            <div class="card-footer">
+                                <div class="comment-box">
+                                    💬 ${item.comment || '暂无点评'}
+                                </div>
+                                <a href="${item.link}" target="_blank" class="btn-read">阅读全文 →</a>
+                            </div>
+                        </article>
+                    `;
+                    container.innerHTML += html;
+                });
+                
                 container.style.opacity = '1';
             }, 100);
         }
@@ -294,24 +428,21 @@
         // 初始化日期栏
         function initTabs(dates) {
             const tabContainer = document.getElementById('date-tabs');
-            tabContainer.innerHTML = ''; 
+            tabContainer.innerHTML = '';
 
             dates.forEach((date, index) => {
                 const dayInfo = archiveData[date].week || 'News';
-                const displayDate = date.substring(5).replace('-', '.'); // 02.12
-                
-                const btn = document.createElement('div');
+                const displayDate = date.substring(5).replace('-', '.');
                 const isToday = index === 0;
                 
+                const btn = document.createElement('div');
                 btn.className = `date-btn ${isToday ? 'active' : ''}`;
                 btn.innerHTML = `<span class="date-date">${displayDate}</span><span class="date-week">${dayInfo}</span>`;
-
                 btn.onclick = () => {
                     document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
                     btn.classList.add('active');
                     renderNews(date);
                 };
-
                 tabContainer.appendChild(btn);
             });
         }
@@ -332,7 +463,11 @@
             })
             .catch(err => {
                 console.error(err);
-                document.getElementById('news-container').innerHTML = `<div style="text-align:center; padding:40px; color:#ef4444;">❌ 数据加载失败，请检查网络或稍后刷新</div>`;
+                document.getElementById('news-container').innerHTML = `
+                    <div class="empty-state">
+                        <div class="icon">❌</div>
+                        <p>数据加载失败，请检查网络或稍后刷新</p>
+                    </div>`;
             });
     </script>
 </body>
