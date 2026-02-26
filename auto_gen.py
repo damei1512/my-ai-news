@@ -172,22 +172,56 @@ if __name__ == "__main__":
         except:
             pass
 
-    # 按分类抓取和生成
     all_articles = []
+    
+    # ========== 1. 抓取 RSS 源 ==========
+    print("=" * 50)
+    print("📡 阶段1: 抓取 RSS 源")
+    print("=" * 50)
+    
     for category, urls in RSS_SOURCES.items():
         raw_news = fetch_news_by_category(category, urls)
         if raw_news:
             summarized = summarize_with_gemini(category, raw_news)
             all_articles.extend(summarized)
-        time.sleep(1)  # 避免 API 限流
+        time.sleep(1)
     
-    # 保存今日数据
+    # ========== 2. 抓取微博大V ==========
+    print("\n" + "=" * 50)
+    print("📱 阶段2: 抓取微博大V")
+    print("=" * 50)
+    
+    try:
+        from weibo_fetcher import fetch_all_weibo
+        weibo_articles = fetch_all_weibo()
+        if weibo_articles:
+            # 对微博内容也做AI总结
+            print("\n🤖 正在总结微博内容...")
+            for article in weibo_articles:
+                # 简化处理：直接用原文，加AI点评
+                article['comment'] = f"【{article['source_name']}微博】大佬发话"
+            all_articles.extend(weibo_articles)
+    except Exception as e:
+        print(f"⚠️ 微博抓取失败: {e}")
+    
+    # ========== 3. 保存数据 ==========
+    print("\n" + "=" * 50)
+    print("💾 阶段3: 保存数据")
+    print("=" * 50)
+    
     if all_articles:
         archive_data[today_date] = {
             "week": today_week,
             "articles": all_articles
         }
-        print(f"✅ 已生成 {len(all_articles)} 条新闻")
+        print(f"✅ 今日共 {len(all_articles)} 条新闻")
+        
+        # 分类统计
+        from collections import Counter
+        cat_stats = Counter([a.get('category', '未知') for a in all_articles])
+        print("📊 分类统计:")
+        for cat, count in cat_stats.most_common():
+            print(f"   {cat}: {count}条")
     
     # 7天滚动清洗
     sorted_dates = sorted(archive_data.keys(), reverse=True)
@@ -196,4 +230,4 @@ if __name__ == "__main__":
     with open(history_file, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
         
-    print(f"✅ 完成！已保存到 {history_file}")
+    print(f"\n✅ 完成！已保存到 {history_file}")

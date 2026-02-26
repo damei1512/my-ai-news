@@ -1,0 +1,46 @@
+# 微博大V RSS源配置
+# 通过 RSSHub 获取微博 RSS
+# RSSHub地址: http://localhost:1200
+
+weibo_sources:
+  - name: "雷军"
+    uid: "1749127163"
+    category: "数码"
+    tags: ["小米", "手机", "汽车"]
+    enabled: true
+    
+  - name: "闫俊杰"
+    uid: "1722568544"
+    category: "AI"
+    tags: ["MiniMax", "大模型", "AI"]
+    enabled: true
+    
+  - name: "杨植麟"
+    uid: "2649334664"
+    category: "AI"
+    tags: ["月之暗面", "Kimi", "大模型"]
+    enabled: true
+    
+  - name: "罗永浩"
+    uid: "1640296591"
+    category: "科技"
+    tags: ["锤子", "直播", "创业"]
+    enabled: true
+    
+  - name: "李想"
+    uid: "1647574422"
+    category: "科技"
+    tags: ["理想汽车", "新能源", "汽车"]
+    enabled: true
+
+# RSSHub 微博 RSS 格式：
+# http://localhost:1200/weibo/user/{uid}
+
+# 其他可能的大V（预留）
+# - name: "来去之间"
+#   uid: "1111681197"
+#   category: "互联网"
+#   
+# - name: "阑夕"
+#   uid: "1560905980"
+#   category: "科技评论"
