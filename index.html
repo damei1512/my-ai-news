@@ -308,13 +308,19 @@
         let currentDate = '';
         let searchQuery = '';
 
-        // 分类到样式类的映射
+        // 分类到样式类的映射（兼容旧数据）
         const categoryClasses = {
-            '科技': 'tech',
+            '科技': 'tech', '国内': 'tech', '国外': 'tech',
             '数码': 'digital',
             '游戏': 'game',
             '时事': 'news',
             'AI': 'ai'
+        };
+        
+        // 分类显示名称映射
+        const categoryDisplayNames = {
+            '国内': '科技',
+            '国外': 'AI'
         };
 
         // 主题切换
@@ -367,10 +373,13 @@
                     return;
                 }
 
-                // 先按分类筛选
+                // 先按分类筛选（兼容旧数据映射）
                 let filtered = data.articles;
                 if (currentCategory !== 'all') {
-                    filtered = filtered.filter(item => item.category === currentCategory);
+                    filtered = filtered.filter(item => {
+                        const cat = categoryDisplayNames[item.category] || item.category;
+                        return cat === currentCategory;
+                    });
                 }
 
                 // 再按搜索筛选
@@ -393,13 +402,15 @@
                 }
 
                 filtered.forEach(item => {
-                    const tagClass = categoryClasses[item.category] || 'tech';
+                    // 兼容旧数据分类
+                    const cat = categoryDisplayNames[item.category] || item.category;
+                    const tagClass = categoryClasses[cat] || 'tech';
                     
                     const html = `
                         <article class="card">
                             <div class="card-header">
                                 <div class="tags">
-                                    <span class="tag ${tagClass}">${item.category}</span>
+                                    <span class="tag ${tagClass}">${cat}</span>
                                     <span class="tag" style="background: var(--border); color: var(--text-sub);">${item.tag || '资讯'}</span>
                                 </div>
                             </div>
