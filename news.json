@@ -3,68 +3,244 @@
     "week": "周四",
     "articles": [
       {
-        "category": "国外",
-        "tag": "政策",
-        "title": "白宫要求 AI 巨头承担电费上涨额度",
-        "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-        "summary": "美国政府希望超大规模云服务商自行吸收因 AI 业务需求导致的电力成本增加，目前多数科技巨头已公开承诺响应。",
-        "comment": "白宫这波‘共同富裕’玩得很溜，让 AI 巨头自掏腰包，别让平民为算力狂飙买单。"
+        "category": "科技",
+        "tag": "品牌营销",
+        "title": "2026亿邦新竞争力品牌大会定档4月",
+        "link": "https://36kr.com/p/3699776528854664?f=rss",
+        "summary": "2026亿邦新竞争力品牌大会以“科技与美学”为主题，定于4月24日在上海举办。大会邀请漫画家蔡志忠、分众传媒江南春等嘉宾，探讨在科技驱动下品牌如何重塑美学竞争力。",
+        "comment": "科技混搭美学，到底是品牌升级还是玄学营销？反正PPT是越来越好看了。"
       },
       {
-        "category": "国外",
-        "tag": "机器人",
-        "title": "Alphabet 旗下机器人公司 Intrinsic 重新并入 Google",
-        "link": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
-        "summary": "在作为独立公司运作五年后，机器人软件初创公司 Intrinsic 再次回归 Google 麾下，以强化 AI 机器人技术的整合。",
-        "comment": "独立梦碎，大厂的尽头终究是‘回归母体’以寻求资源输血。"
+        "category": "科技",
+        "tag": "智能家居",
+        "title": "AWE2026将开展多场促消费活动",
+        "link": "https://36kr.com/p/3699754370854786?f=rss",
+        "summary": "2026年中国家电及消费电子博览会（AWE）定于3月在上海举行。展会将以“AI科技、慧享未来”为主题，联合京东、天猫等主流电商平台开展“以旧换新”等活动，激发家电消费需求。",
+        "comment": "趁着“以旧换新”的东风，家电厂们又要努力教用户怎么用AI煮饭扫地了。"
       },
       {
-        "category": "国外",
+        "category": "科技",
+        "tag": "游戏",
+        "title": "前腾讯员工欲打造改写历史的三国游戏",
+        "link": "https://36kr.com/p/3698585488764553?f=rss",
+        "summary": "前腾讯开发者推出《我的三国》，主打通过高自由度互动改变历史。玩家能以“穿越者”视角干预陈寿等历史人物的命运。游戏试图在传统三国题材中加入更多策略与剧本化的变数。",
+        "comment": "腾讯出来的都想圆个梦，但在三国游戏红海里，光有“穿越”创意恐怕还不够打。"
+      },
+      {
+        "category": "科技",
+        "tag": "人工智能",
+        "title": "硅谷顶级华人庞若鸣加盟OpenAI",
+        "link": "https://www.ifanr.com/1655867?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "上海交大校友、硅谷顶尖技术专家庞若鸣被曝放弃价值14亿的天价Offer，正式加盟OpenAI。此举再次彰显了AI巨头对顶尖技术人才的极端吸引力，以及人才流动的加速。",
+        "comment": "14亿买不到忠诚，但OpenAI能买到梦想，或者说是更丰厚的期权愿景。"
+      },
+      {
+        "category": "科技",
+        "tag": "手机",
+        "title": "三星Galaxy S26首搭原生防窥屏",
+        "link": "https://www.ifanr.com/1655869?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "三星Galaxy S26上手体验显示其配备了全球首块原生“防窥屏”。该技术让用户在无需贴防窥膜的情况下，从侧面无法看清屏幕内容，解决了传统防窥膜降低亮度与画质的问题。",
+        "comment": "以后在地铁里看片不怕围观了，三星这一招简直是对贴膜产业链的“降维打击”。"
+      },
+      {
+        "category": "科技",
+        "tag": "手机/半导体",
+        "title": "早报：魅族或3月退市，英伟达营收创新高",
+        "link": "https://www.ifanr.com/1655859?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "今日科技早报：传魅族手机将于3月退市；英伟达季度营收再创历史新高；微信正式回应文件占用内存问题；腾讯元宝就AI辱骂用户道歉；OPPO新机或用自修复玻璃。",
+        "comment": "魅族老兵只是凋零，英伟达则是只要AI这把火不灭，赚钱就真的没个够。"
+      },
+      {
+        "category": "科技",
+        "tag": "云计算",
+        "title": "Salesforce CEO回应SaaS末日论",
+        "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+        "summary": "Salesforce发布表现稳健的年终财报，CEO Marc Benioff积极回应AI将摧毁SaaS行业的质疑。他称这并非公司首遇“末日论”，Salesforce将全力转型应对AI冲击。",
+        "comment": "嘴上说着“见怪不怪”，内心还是怕AI Agent把自家的CRM饭碗给砸个稀碎。"
+      },
+      {
+        "category": "科技",
+        "tag": "人工智能",
+        "title": "AI搜索获客初创公司Gushwork获种子轮融资",
+        "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+        "summary": "Gushwork宣布获得900万美元种子轮融资，由SIG和光速领投。该公司利用ChatGPT等AI搜索工具帮助企业自动化寻找潜在客户，早期测试已在获客效率上显示出成效。",
+        "comment": "用AI去“薅”全网潜在客户的羊毛，这门生意听起来很有硅谷“数字中介”的味道。"
+      },
+      {
+        "category": "科技",
+        "tag": "人工智能",
+        "title": "Anthropic收购Agent初创公司Vercept",
+        "link": "https://techcrunch.com/2026/02/25/anthropic-acquire-vercept-ai-startup-agents-computer-use-founders-investors/",
+        "summary": "AI巨头Anthropic宣布收购致力于开发“操作电脑”型智能体的公司Vercept。此前Meta曾挖走该公司核心创始人，Anthropic此举被视为对Agent领域核心技术与人才的补充。",
+        "comment": "Meta挖人，Anthropic干脆把公司端走，Agent赛道的“抢人大战”已经进入刺刀见红阶段。"
+      },
+      {
+        "category": "数码",
+        "tag": "航天科技",
+        "title": "韦伯望远镜捕捉到“露脑星云”壮丽新照",
+        "link": "https://www.engadget.com/science/space/new-webb-telescope-photos-show-off-the-exposed-cranium-nebula-235609619.html?src=rss",
+        "summary": "NASA 詹姆斯·韦伯太空望远镜近日分享了 NGC 2467（露脑星云）的新照片。这些清晰的影像展示了恒星诞生区域的复杂结构，因其形状酷似大脑而得名，为天文爱好者提供了极佳的视觉盛宴。",
+        "comment": "宇宙级的“脑回路”展示，这画质真是每一张都能直接拿来当 8K 壁纸。"
+      },
+      {
+        "category": "数码",
+        "tag": "社交媒体",
+        "title": "Snap 宣布举办自家创作者颁奖礼",
+        "link": "https://www.engadget.com/social-media/snap-is-hosting-its-own-creator-awards-show-221859681.html?src=rss",
+        "summary": "Snap 计划举办专属创作者颁奖典礼，旨在表彰平台上的优秀内容创作者。此举反映了社交媒体行业通过举办线下活动来增强社区粘性及拓展商业合作的趋势。",
+        "comment": "这年头，没个自己的“奥斯卡”颁奖礼，都不好意思说自己是主流社交平台。"
+      },
+      {
+        "category": "数码",
+        "tag": "游戏动态",
+        "title": "《滑板》开发商在游戏测试期宣布裁员",
+        "link": "https://www.engadget.com/gaming/skates-developer-is-laying-off-staff-before-the-game-leaves-early-access-220916797.html?src=rss",
+        "summary": "EA 旗下负责开发新版《滑板》（Skate）的工作室 Full Circle 宣布重组并裁员。尽管游戏目前仍处于抢先体验阶段，但内部调整已开始，具体受影响人数尚未明确。",
+        "comment": "还没正式发布就先“减员增效”，游戏行业的寒冬似乎还没到头。"
+      },
+      {
+        "category": "数码",
         "tag": "大模型",
-        "title": "硅谷“整活王” Riley Walz 加入 OpenAI",
+        "title": "硅谷最贵华人庞若鸣放弃 14 亿 Offer 加盟 OpenAI",
+        "link": "https://www.ifanr.com/1655867?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "上交校友、被誉为“硅谷最贵华人”的庞若鸣近日被曝放弃了价值约 14 亿元人民币的天价股权激励，选择投奔 OpenAI。此前他在分布式系统和大规模机器学习领域有深厚积累。",
+        "comment": "对顶尖大神来说，改变世界的参与感确实比 14 亿更有吸引力。"
+      },
+      {
+        "category": "数码",
+        "tag": "智能手机",
+        "title": "三星 S26 上手：首发全球“防窥屏”技术",
+        "link": "https://www.ifanr.com/1655869?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "三星 Galaxy S26 系列被曝光将搭载全球首块硬件级“防窥屏”。该技术通过控制像素发光角度，实现无需贴膜即可在侧面无法看清屏幕内容，彻底告别传统防窥膜。",
+        "comment": "社恐星人的福音，只是不知道侧着看时会不会觉得屏幕坏了。"
+      },
+      {
+        "category": "数码",
+        "tag": "行业早报",
+        "title": "魅族手机或成历史，英伟达营收再创新高",
+        "link": "https://www.ifanr.com/1655859?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "今日科技早报：传魅族品牌或于 3 月退市；英伟达最新季度财报营收刷新历史纪录；微信官方回应文件重复占用内存问题；OPPO Find N6 或采用自修复记忆玻璃。",
+        "comment": "魅族成了时代的眼泪，而英伟达还在 AI 的浪潮里疯狂印钞。"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏硬件",
+        "title": "罗技 G29 赛车方向盘套装限时 5.5 折，创历史新低",
+        "link": "https://www.ign.com/articles/logitech-g29-racing-wheel-deal-on-amazon",
+        "summary": "罗技最受欢迎的 G29 赛车方向盘及踏板套装在亚马逊开启大促，支持 PS5 和 PC 平台，折扣力度达 45%，售价降至历史最低水平。",
+        "comment": "模拟赛车入门首选，这价格还要什么自行车？买个“盘子”圆赛车梦。"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏发行",
+        "title": "亚马逊取消代理前《地平线》开发商的开放世界赛车新作",
+        "link": "https://www.ign.com/articles/amazon-backs-out-of-publishing-open-world-driving-game-from-ex-forza-horizon-developers",
+        "summary": "亚马逊宣布退出由前《极限竞速：地平线》成员组成的 Maverick Games 竞速游戏的发行，该工作室正寻求在今年晚些时候独立发布信息。",
+        "comment": "亚马逊的发行之路又双叒叕翻车了，看来钞能力也不是万能的。"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏周边",
+        "title": "Iniu Qi2 三合一无线充电座仅售 18 美元",
+        "link": "https://www.ign.com/articles/iniu-qi2-wireless-charging-station-deal-for-iphone-apple-watch-and-airpods",
+        "summary": "Iniu 推出支持 Qi2 协议的无线充电站，可同时为 iPhone、Apple Watch 和 AirPods 充电，折叠后仅扑克牌大小，极便携。",
+        "comment": "虽然是数码配件，但这价格确实香，果粉玩家的桌面理线器有了。"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏优惠",
+        "title": "Fanatical 2026 捆绑包节开幕：一次性购入 21 款 PC 游戏",
+        "link": "https://www.gamespot.com/articles/fanatical-bundlefest-february-2026/1100-6538403/?ftag=CAD-01-10abi2f",
+        "summary": "Fanatical 开启 2026 年首场捆绑包大促，玩家可以通过定制捆绑包以极低价格将多达 21 款 PC 游戏加入 Steam 库。",
+        "comment": "游戏不一定玩，但“喜加一”绝对不能少，电子仓鼠们请集合。"
+      },
+      {
+        "category": "游戏",
+        "tag": "动漫周边",
+        "title": "Crunchyroll 仓库大促：动漫周边与手办低价清仓",
+        "link": "https://www.gamespot.com/articles/crunchyroll-warehouse-sale/1100-6538303/?ftag=CAD-01-10abi2f",
+        "summary": "动漫巨头 Crunchyroll 开启仓库清理促销，涵盖热门动漫光盘、漫画书及精美手办周边，提供大幅折扣。",
+        "comment": "游戏宅也是动漫宅，这波清仓甩卖怕是要直接掏空大家的钱包。"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏政策",
+        "title": "Valve 因“非法赌博”指控遭纽约总检察长起诉",
+        "link": "https://www.gamespot.com/articles/valve-sued-for-promoting-illegal-gambling-by-new-york-attorney-general/1100-6538435/?ftag=CAD-01-10abi2f",
+        "summary": "纽约州总检察长起诉 Valve，指控其游戏中的“开箱”机制涉及向未成年人推广非法赌博，相关诉讼已正式提交。",
+        "comment": "G 胖的开箱法宝终于踢到铁板了，盲盒还是赌博，法庭上见分晓。"
+      },
+      {
+        "category": "时事",
+        "tag": "人权执法",
+        "title": "BBC披露尼泊尔示威惨案：警方指令导致19名学生及青年被射杀",
+        "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
+        "summary": "去年9月加德满都爆发抗议，BBC调查揭示了19人被杀的真相。证据显示，警方在接到指令后开火，受害者中甚至包括身着校服的Z世代年轻人，暴力执法内幕令人震惊。",
+        "comment": "当国家机器的枪口对准穿着校服的孩子，法律已成一纸空谈，这是对文明的公开挑衅。"
+      },
+      {
+        "category": "时事",
+        "tag": "治安冲突",
+        "title": "墨西哥库利亚坎沦为“战区”：贩毒集团内斗引发全城恐慌",
+        "link": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
+        "summary": "墨西哥锡那罗亚贩毒集团内部派系爆发激战，库利亚坎市深陷暴力泥潭。街道沦为战场，市民生活在极度恐惧中，贩毒集团的权力更迭正在撕裂这座城市的秩序。",
+        "comment": "毒枭打架，百姓受难。在被硝烟笼罩的城市里，和平与法治都成了奢侈品。"
+      },
+      {
+        "category": "时事",
+        "tag": "国际冲突",
+        "title": "残忍一幕：以色列士兵射伤巴勒斯坦少年后阻拦救助致其身亡",
+        "link": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
+        "summary": "视频录像曝光，以色列军队在射伤一名14岁巴勒斯坦少年后，不仅未施救，还阻拦救护车长达45分钟，导致该少年在众人围观下流血致死。此举引发国际舆论强烈谴责。",
+        "comment": "如果说开火是冲突，那么阻拦救助就是纯粹的冷血。人性的底线在枪口下荡然无存。"
+      },
+      {
+        "category": "AI",
+        "tag": "人才/招聘",
+        "title": "硅谷“整活大师”Riley Walz加入OpenAI，助力探索AI人机交互新方式",
         "link": "https://www.wired.com/story/openai-hires-riley-walz/",
-        "summary": "以各种线上恶作剧闻名的软件工程师 Riley Walz 已入职 OpenAI，旨在探索人类使用 AI 系统的新交互方式。",
-        "comment": "招了个职业捣蛋鬼，OpenAI 这是打算在实现 AGI 之前先把‘整活’技能点满？"
+        "summary": "知名软件工程师Riley Walz宣布加入OpenAI。他曾以一系列创意恶搞项目在硅谷成名，此次入职将参与开发新型AI系统，探索人类与ChatGPT这类AI交互的全新模式。",
+        "comment": "从搞怪专家到正规军，OpenAI是想通了？让最懂“整活”的人去教AI怎么跟人类打交道。"
       },
       {
-        "category": "国外",
-        "tag": "网络安全",
-        "title": "开源项目 Scrapling 助力 AI 绕过反爬系统",
+        "category": "AI",
+        "tag": "AI安全/爬虫",
+        "title": "开源项目Scrapling走红：助力AI智能体绕过反爬虫系统",
         "link": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
-        "summary": "越来越多的 AI Agent 用户利用 Scrapling 等开源工具绕过 Cloudflare 的防御，在未经许可下强行抓取数据。",
-        "comment": "矛与盾的较量升级，AI 时代的‘数据劫匪’正在让传统的防火墙形同虚设。"
+        "summary": "开源项目Scrapling近期受到AI开发者追捧。该工具能有效绕过Cloudflare等主流反机器人防御系统，使AI智能体能够在未经许可的情况下大规模抓取网页数据，引发合规争议。",
+        "comment": "猫鼠游戏升级。当AI学会了“隐身术”，互联网防御墙在这些贪婪的数据搬运工面前正变得形同虚设。"
       },
       {
-        "category": "国内",
-        "tag": "商业洞察",
-        "title": "36氪特稿：户外产业的繁华与反思",
-        "link": "https://36kr.com/p/3698569046667142?f=rss",
-        "summary": "通过米兰奥运村建设的视角，探讨户外运动产业在经历狂热增长后的现状，以及行业内部对过度商业化的怀疑。",
-        "comment": "当户外变成了一种纯粹的生意，那股子旷野的灵魂也就渐渐走样了。"
+        "category": "AI",
+        "tag": "智能助手/应用自动化",
+        "title": "谷歌Gemini实现跨应用自动化：可直接在手机上代订Uber与外卖",
+        "link": "https://www.wired.com/story/google-gemini-task-automation-galaxy-s26-uber-doordash/",
+        "summary": "谷歌展示了Gemini的新功能，将率先搭载于三星Galaxy S26。它能代表用户在第三方应用中自动完成复杂任务，如订餐和叫车。这标志着AI助手正式从“只会聊天”迈向“替你干活”。",
+        "comment": "AI终于不再只是陪聊，开始接管手机操作。以后下单外卖，可能连APP都不用亲自打开了。"
       },
       {
-        "category": "国内",
-        "tag": "公司快讯",
-        "title": "氪星晚报：宗馥莉任娃哈哈管理咨询董事",
-        "link": "https://36kr.com/p/3698580039085698?f=rss",
-        "summary": "晚报汇总了宗馥莉新职任命、英特尔与 SambaNova 达成战略合作、以及特斯拉在法国的商标纠纷等多项动态。",
-        "comment": "娃哈哈的接班进程稳步推进，老牌国货在权力交替中依然是舆论的风向标。"
+        "category": "AI",
+        "tag": "商业/SaaS",
+        "title": "Salesforce首席执行官回应“SaaS末日论”：这并非我们首次面临危机",
+        "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+        "summary": "面对AI可能颠覆传统SaaS模式的言论，Salesforce CEO贝尼奥夫在亮眼财报发布后予以回击。他强调公司已做好转型准备，试图通过AI代理策略化解外界对其业务被AI取代的担忧。",
+        "comment": "软件即服务的时代要谢幕？贝尼奥夫可不答应。他正试图把Salesforce这头大象塞进AI的冰箱里。"
       },
       {
-        "category": "国外",
-        "tag": "智能硬件",
-        "title": "三星 Galaxy S26 系列发布：6999 元起步",
-        "link": "https://www.ifanr.com/1655822?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星正式发布年度旗舰 S26 系列，主打更聪明的本地 AI 应用与防窥保护功能，起售价维持在高位。",
-        "comment": "安卓机皇硬件上依旧稳健，但在中国手机市场的 AI 混战中，这块‘好饭’怕是有点赶不上趟。"
+        "category": "AI",
+        "tag": "投融资/搜索",
+        "title": "押注AI搜索线索挖掘，初创公司Gushwork获得900万美元种子轮融资",
+        "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+        "summary": "初创公司Gushwork完成900万美元种子轮融资，由SIG和光速领投。该公司利用AI搜索工具帮助企业从海量信息中挖掘潜在客户线索，通过自动化流程显著提升销售转化效率。",
+        "comment": "AI搜索正成为精准营销的新猎枪。只要能转化成订单，资本永远对这类“效率神器”慷慨解囊。"
       },
       {
-        "category": "国外",
-        "tag": "人物",
-        "title": "乔布斯诞辰 71 周年：30 位好友联名致信",
-        "link": "https://www.ifanr.com/1655756?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "在乔布斯诞辰 71 周年之际，其生前密友共同撰写感言，缅怀这位改变世界的先驱及其对问题的哲学思考。",
-        "comment": "活在问题中，而非盲目追逐答案，或许这就是乔布斯留给这个 AI 时代最好的遗产。"
+        "category": "AI",
+        "tag": "收购/AI智能体",
+        "title": "Anthropic收购AI初创公司Vercept，强化其“电脑使用”智能体能力",
+        "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+        "summary": "在Meta挖走Vercept联合创始人后，Anthropic果断整体收购了该公司。Vercept专注于开发能像人类一样操作电脑软件的智能体工具，此举将加强Anthropic在自动化办公领域的竞争力。",
+        "comment": "抢不到人就直接买公司。Anthropic在“模拟人类操作电脑”这条赛道上，显然不想输给任何大厂。"
       }
     ]
   },
