@@ -1,4 +1,105 @@
 {
+  "2026-02-28": {
+    "week": "周六",
+    "articles": [
+      {
+        "category": "科技",
+        "tag": "自动驾驶",
+        "title": "特斯拉在阿布扎比完成无人驾驶实测",
+        "link": "https://36kr.com/p/3701306699017862?f=rss",
+        "summary": "阿布扎比综合交通中心宣布，在监管机构监督下，特斯拉已完成最新无人驾驶技术在当地的道路测试。此举旨在阿联酋框架内推进出行革新，建立先进的自动驾驶技术体系。",
+        "comment": "特斯拉的FSD入华还没着落，倒是先在沙漠里跑起来了。"
+      },
+      {
+        "category": "科技",
+        "tag": "内容生态",
+        "title": "抖音上线长图文功能，寻求流量外的价值沉淀",
+        "link": "https://36kr.com/p/3700444303814536?f=rss",
+        "summary": "抖音向创作者开放深度长文入口并提供流量扶持。在深耕短视频十年后，抖音试图打破“短平快”逻辑，通过长图文寻求更长久的内容价值，转型逻辑引发行业关注。",
+        "comment": "宇宙的尽头是公众号？抖音这是想把知乎和小红书的活儿也全干了。"
+      },
+      {
+        "category": "科技",
+        "tag": "人工智能",
+        "title": "谷歌版“AI手机”战略深度解析",
+        "link": "https://www.ifanr.com/1655996?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "深度剖析谷歌在安卓生态中部署AI手机的策略。作为移动端统治者，谷歌正试图通过硬件与AI的深度融合，应对新技术更迭带来的挑战，重新定义智能手机形态。",
+        "comment": "谷歌：只要我AI加得够多，安卓就永远不会过时。"
+      },
+      {
+        "category": "科技",
+        "tag": "消费电子",
+        "title": "苹果下周发新品，OPPO新折叠屏技术曝光",
+        "link": "https://www.ifanr.com/1656035?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果预计下周一发布2026年首款新品；OPPO Find N6折叠屏被爆折痕处理达到行业领先水平。此外，《原神》因AI训练条款变动引发用户关注。",
+        "comment": "折痕看不见了，但钱包的伤痕依旧清晰可见。"
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "马斯克抨击OpenAI安全性，辩称Grok更靠谱",
+        "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+        "summary": "在针对OpenAI的诉讼证词中，马斯克吹捧xAI的安全性优于ChatGPT。然而尴尬的是，其旗下Grok模型近期正因生成大量非自愿性暴露图像而深陷争议。",
+        "comment": "老马的嘴，骗人的鬼。前脚吹安全，后脚Grok就开始生成“限制级内容”了。"
+      },
+      {
+        "category": "科技",
+        "tag": "人工智能",
+        "title": "Anthropic与美国国防部就军事AI产生分歧",
+        "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+        "summary": "Anthropic与美国国防部在自主武器和监视领域的AI应用上发生冲突。这引发了关于国家安全、企业自主控制权以及谁该为军事AI设定规则的深度博弈。",
+        "comment": "当AI巨头开始对五角大楼说“不”，好戏才刚刚开始。"
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "ChatGPT周活达9亿，OpenAI再获巨额融资",
+        "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+        "summary": "OpenAI宣布ChatGPT周活跃用户数已达9亿，并同时完成了高达1100亿美元的私人融资。这笔巨额资金将用于支持其在通用人工智能领域的持续扩张。",
+        "comment": "9亿周活和1100亿美金，OpenAI已经活成了AI界的“美联储”。"
+      },
+      {
+        "category": "数码",
+        "tag": "AI 视频",
+        "title": "Nano Banana 2 正式发布：画质与生成速度的双重进化",
+        "link": "https://www.ifanr.com/1655944?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AI 视频生成工具 Nano Banana 2 迎来大版本更新。新版本通过技术架构优化，成功打破了生成速度与画面质量之间的“不可能三角”，在保证高画质输出的同时大幅缩短生成时间，为内容创作者提供更高效的工具支持。",
+        "comment": "以前生成视频是“炼丹”，现在终于像点正经生产力工具的样子了。"
+      },
+      {
+        "category": "数码",
+        "tag": "人工智能",
+        "title": "深度解析谷歌 AI 手机策略：Android 统治者的反击战",
+        "link": "https://www.ifanr.com/1655996?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "深度剖析谷歌在 AI 手机领域的布局，将其比作“谷歌版豆包手机”。文章探讨了谷歌如何通过原生大模型深度整合硬件，试图在移动互联网向 AI 时代转型的过程中，通过软硬结合守住 Android 系统的统治地位。",
+        "comment": "说到底，就是想让 AI 像长在手机里一样，顺便让你多续几份订阅费。"
+      },
+      {
+        "category": "数码",
+        "tag": "行业早报",
+        "title": "爱范儿科技早报：苹果下周发新品，OPPO 折叠屏抗衡物理法则",
+        "link": "https://www.ifanr.com/1656035?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "今日要点汇总：苹果下周一将发布 2026 首款新品并推出官方测速工具；OPPO Find N6 实现近乎无痕的屏幕表现；IBM 谈 AI 现代化改造；《原神》修改用户服务条款，移除涉及语音数据训练 AI 的争议项。",
+        "comment": "苹果发布 2026 新品？这是穿越了还是发布计划表终于排到后年了？"
+      },
+      {
+        "category": "AI",
+        "tag": "行业动态",
+        "title": "马斯克证词猛烈抨击OpenAI，称“没人因为Grok自杀”",
+        "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+        "summary": "在针对OpenAI的诉讼证词中，马斯克通过贬低竞争对手来吹捧xAI的安全性，声称Grok不会像其他AI那样引发极端负面事件。然而讽刺的是，Grok随后因在X平台上泛滥非自愿裸照而深陷舆论漩涡。",
+        "comment": "确实没人因Grok自杀，但不少人因Grok的一键生成“脱衣”照想报警。老马的安全标准真是灵活。"
+      },
+      {
+        "category": "AI",
+        "tag": "大模型",
+        "title": "ChatGPT周活用户突破9亿，OpenAI再获1100亿美元融资",
+        "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+        "summary": "OpenAI官方宣布其周活跃用户数已达9亿里程碑。在用户量激增的同时，公司还披露完成了高达1100亿美元的巨额私人融资，进一步巩固了其在生成式人工智能领域的统治地位。",
+        "comment": "周活九亿、融资千亿，OpenAI正用行动解释什么叫“钞能力”才是第一生产力。"
+      }
+    ]
+  },
   "2026-02-27": {
     "week": "周五",
     "articles": [
