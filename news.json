@@ -1,4 +1,97 @@
 {
+  "2026-03-01": {
+    "week": "周日",
+    "articles": [
+      {
+        "category": "科技",
+        "tag": "智能硬件",
+        "title": "阿里千问入局硬件，计划发布AI眼镜及耳机",
+        "link": "https://36kr.com/p/3702628151751046?f=rss",
+        "summary": "阿里旗下AI助手“千问”计划进军硬件领域，预计在2026年MWC发布首款AI眼镜，后续还将推出AI耳机、指环等穿戴设备。此举旨在将AI能力从手机屏幕下放到更多硬件形态，并面向全球发售。",
+        "comment": "阿里也想做“钢铁侠”的眼镜，但2026年才发布，这是打算让用户等成老花眼吗？"
+      },
+      {
+        "category": "科技",
+        "tag": "智能汽车",
+        "title": "领克致歉语音误关大灯事故，OpenAI获巨额融资",
+        "link": "https://36kr.com/p/3702272216543360?f=rss",
+        "summary": "领克针对车主夜间语音误关大灯致祸事件致歉；OpenAI完成1100亿美元融资；此外，米哈游通报员工离世，豆包手机回应漏洞，影石创新337调查终结。",
+        "comment": "语音助手太听话也是罪，这致命的“服从性”让科技显得既高级又离谱。"
+      },
+      {
+        "category": "科技",
+        "tag": "自动驾驶",
+        "title": "特斯拉FSD在阿布扎比实测，日本Rapidus获多方增资",
+        "link": "https://36kr.com/p/3701306699017862?f=rss",
+        "summary": "特斯拉最新无人驾驶技术在阿布扎比完成道路实测；日本芯片国家队Rapidus获得佳能、软银、索尼等巨头投资；DHL与京东签署合作备忘录。",
+        "comment": "特斯拉在沙漠里跑FSD，日本芯在资本堆里找未来，大家都在争分夺秒。"
+      },
+      {
+        "category": "科技",
+        "tag": "智能汽车",
+        "title": "小米 Vision GT 虚拟超跑亮相，支持《GT 赛车 7》",
+        "link": "https://www.ifanr.com/1656255?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "小米正式发布 Vision GT 虚拟超跑，搭载两大黑科技。用户可以在游戏《GT 赛车 7》中体验这款赛车，展示了小米在工业设计和虚拟仿真技术上的野心。",
+        "comment": "开不上苏7（SU7），至少能在游戏里开上小米超跑，这波心理建设做得很到位。"
+      },
+      {
+        "category": "科技",
+        "tag": "人工智能",
+        "title": "汉堡王推行 AI 耳机监控，员工礼貌用语被实时打分",
+        "link": "https://www.ifanr.com/1656044?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "汉堡王为员工配备 AI 耳机，利用 AI 实时监测并给员工的沟通态度（如说“谢谢”）打分。此举引发了关于工具能否填补服务能力及职场隐私的讨论。",
+        "comment": "AI 监工上线，连“谢谢”都要量化评估，这届打工人的情绪价值也被外包给算法了。"
+      },
+      {
+        "category": "科技",
+        "tag": "AI绘画",
+        "title": "AI生图神器 Nano Banana 2 发布，支持多种创意玩法",
+        "link": "https://www.ifanr.com/1656135?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AI 生图工具 Nano Banana 2 更新，凭借其极高的图像质量和创意生成能力成为设计界新宠。文章分享了5个“神级”玩法及提示词参考。",
+        "comment": "只要提示词写得好，AI 就能让你家龙虾和香蕉过上幸福生活。"
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "Anthropic 的 Claude 冲上美区 App Store 榜单第二",
+        "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+        "summary": "继与美国国防部（五角大楼）发生争议后，Anthropic 的聊天机器人 Claude 关注度暴增，排名迅速攀升至美区 App Store 总榜第二位。",
+        "comment": "果然，“黑红”也是红，五角大楼成了 Claude 最大的带货广告位。"
+      },
+      {
+        "category": "科技",
+        "tag": "AI基础设施",
+        "title": "科技巨头投入数十亿美元布局 AI 基础设施",
+        "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+        "summary": "Meta、甲骨文、微软、谷歌和 OpenAI 等巨头正投入数十亿美元建设数据中心等 AI 基础设施，支撑新一轮 AI 算力竞赛。",
+        "comment": "淘金的还没赚到钱，卖铁锹和修路（数据中心）的已经赚翻了。"
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "OpenAI 签署国防合同，Sam Altman 称设有技术防护",
+        "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+        "summary": "OpenAI CEO 萨姆·奥特曼宣布与美国国防部签署新合同，强调包含技术保障措施，旨在解决此前导致 Anthropic 陷入争议的安全与道德问题。",
+        "comment": "曾说不做武器，现在谈着“防护”签军购，奥特曼的变脸速度不输模型生成速度。"
+      },
+      {
+        "category": "数码",
+        "tag": "人工智能",
+        "title": "汉堡王引入 AI 耳机：员工服务质量由算法实时打分",
+        "link": "https://www.ifanr.com/1656044?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "汉堡王开始要求部分员工佩戴 AI 耳机，该设备能实时分析员工与顾客的对话，并针对礼貌用语、促销话术等进行量化打分。此举旨在通过技术手段提升服务标准化水平，但也引发了关于职场过度监控和员工心理压力的讨论。",
+        "comment": "以前是顾客是上帝，现在 AI 是监工。把服务变成冰冷的算法指标，快餐店员工正被异化为活体机器人。"
+      },
+      {
+        "category": "AI",
+        "tag": "大模型, 移动应用",
+        "title": "因五角大楼争议引发关注，Anthropic 的 Claude 升至 App Store 下载榜第二",
+        "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+        "summary": "受 Anthropic 与美国五角大楼之间紧张谈判及争议的舆论推动，AI 聊天机器人 Claude 的公众关注度激增，其移动端应用近期成功攀升至美国 App Store 下载榜第二位。",
+        "comment": "被五角大楼“嫌弃”反倒成了最好的防伪标志和免费广告。Claude 这波黑红流量吃得是真香。"
+      }
+    ]
+  },
   "2026-02-28": {
     "week": "周六",
     "articles": [
