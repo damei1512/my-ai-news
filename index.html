@@ -35,7 +35,7 @@
             transition: background-color 0.3s, color 0.3s;
         }
 
-        .container { max-width: 900px; margin: 0 auto; padding: 20px 16px; }
+        .container { max-width: 1000px; margin: 0 auto; padding: 20px 16px; }
 
         /* ==================== 头部 ==================== */
         header { 
@@ -94,8 +94,7 @@
         .search-box::before {
             content: "🔍";
             position: absolute;
-            left: 16px;
-            top: 50%;
+            left: 16px; top: 50%;
             transform: translateY(-50%);
             font-size: 16px;
         }
@@ -155,14 +154,14 @@
         .category-btn[data-cat="时事"].active { background: #f59e0b; }
         .category-btn[data-cat="AI"].active { background: #10b981; }
 
-        /* ==================== 新闻卡片 ==================== */
-        .news-list { display: grid; gap: 16px; }
+        /* ==================== 新闻卡片（带图片）==================== */
+        .news-list { display: grid; gap: 20px; }
         
         .card {
             background: var(--bg-card);
             border-radius: 16px;
             border: 1px solid var(--border);
-            padding: 20px;
+            overflow: hidden;
             box-shadow: 0 2px 8px var(--shadow);
             transition: transform 0.2s, box-shadow 0.2s;
         }
@@ -171,14 +170,52 @@
             box-shadow: 0 8px 24px var(--shadow);
         }
 
-        .card-header {
-            display: flex; justify-content: space-between; align-items: flex-start;
-            margin-bottom: 12px; flex-wrap: wrap; gap: 8px;
+        /* 卡片布局：左侧图片 + 右侧内容 */
+        .card-body {
+            display: flex;
+            gap: 16px;
+            padding: 16px;
         }
-        .tags { display: flex; gap: 8px; flex-wrap: wrap; }
+
+        /* 图片区域 */
+        .card-image {
+            flex-shrink: 0;
+            width: 180px;
+            height: 120px;
+            border-radius: 12px;
+            overflow: hidden;
+            background: var(--bg-page);
+        }
+        .card-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s;
+        }
+        .card:hover .card-image img {
+            transform: scale(1.05);
+        }
+
+        /* 内容区域 */
+        .card-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 8px;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .tags { display: flex; gap: 6px; flex-wrap: wrap; }
         .tag { 
-            font-size: 12px; font-weight: 600; 
-            padding: 4px 10px; border-radius: 99px;
+            font-size: 11px; font-weight: 600; 
+            padding: 3px 8px; border-radius: 99px;
         }
         /* 分类标签颜色 */
         .tag.tech { background: #dbeafe; color: #1e40af; }
@@ -188,8 +225,13 @@
         .tag.ai { background: #d1fae5; color: #065f46; }
 
         .card-title {
-            font-size: 18px; font-weight: 700;
-            margin-bottom: 10px; line-height: 1.4;
+            font-size: 17px; font-weight: 700;
+            margin-bottom: 8px;
+            line-height: 1.4;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
         }
         .card-title a {
             color: var(--text-main);
@@ -198,34 +240,75 @@
         .card-title a:hover { color: var(--primary); }
 
         .card-summary {
-            font-size: 14px; color: var(--text-sub);
-            margin-bottom: 14px;
-            line-height: 1.6;
+            font-size: 13px;
+            color: var(--text-sub);
+            line-height: 1.5;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            margin-bottom: 10px;
         }
 
+        /* 底部区域 */
         .card-footer {
-            display: flex; justify-content: space-between; align-items: center;
-            gap: 12px; padding-top: 14px;
+            margin-top: auto;
+            padding-top: 10px;
             border-top: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
         }
         
         .comment-box {
             flex: 1;
-            font-size: 13px; color: var(--text-sub); font-style: italic;
+            font-size: 12px;
+            color: var(--text-sub);
+            font-style: italic;
+            display: -webkit-box;
+            -webkit-line-clamp: 1;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
         }
         
         .btn-read {
-            font-size: 13px; font-weight: 600; color: var(--primary);
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--primary);
             background: transparent;
-            padding: 6px 12px;
+            padding: 5px 10px;
             border: 1px solid var(--primary);
-            border-radius: 8px;
+            border-radius: 6px;
             text-decoration: none;
             white-space: nowrap;
             transition: all 0.2s;
         }
         .btn-read:hover { 
-            background: var(--primary); color: white;
+            background: var(--primary);
+            color: white;
+        }
+
+        /* ==================== 移动端适配 ==================== */
+        @media (max-width: 640px) {
+            header { flex-direction: column; align-items: flex-start; }
+            .brand h1 { font-size: 24px; }
+            
+            .card-body {
+                flex-direction: column;
+                padding: 12px;
+            }
+            .card-image {
+                width: 100%;
+                height: 160px;
+            }
+            .card-title {
+                font-size: 16px;
+                -webkit-line-clamp: 3;
+            }
+            .card-summary {
+                -webkit-line-clamp: 3;
+            }
         }
 
         /* ==================== 骨架屏 ==================== */
@@ -246,13 +329,6 @@
             color: var(--text-sub);
         }
         .empty-state .icon { font-size: 48px; margin-bottom: 16px; }
-
-        /* ==================== 响应式 ==================== */
-        @media (max-width: 640px) {
-            header { flex-direction: column; align-items: flex-start; }
-            .brand h1 { font-size: 24px; }
-            .card { padding: 16px; }
-        }
     </style>
 </head>
 <body>
@@ -294,10 +370,8 @@
 
         <!-- 新闻列表 -->
         <main id="news-container" class="news-list">
-            <div class="card" style="height: 200px;">
-                <div class="skeleton" style="width: 30%; height: 20px; margin-bottom: 15px;"></div>
-                <div class="skeleton" style="width: 80%; height: 24px; margin-bottom: 15px;"></div>
-                <div class="skeleton" style="width: 100%; height: 60px;"></div>
+            <div class="card">
+                <div class="skeleton" style="width: 100%; height: 120px;"></div>
             </div>
         </main>
     </div>
@@ -308,7 +382,6 @@
         let currentDate = '';
         let searchQuery = '';
 
-        // 分类到样式类的映射（兼容旧数据）
         const categoryClasses = {
             '科技': 'tech', '国内': 'tech', '国外': 'tech',
             '数码': 'digital',
@@ -317,10 +390,18 @@
             'AI': 'ai'
         };
         
-        // 分类显示名称映射
         const categoryDisplayNames = {
             '国内': '科技',
             '国外': 'AI'
+        };
+
+        // 默认配图（按分类）
+        const defaultImages = {
+            '科技': 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400',
+            '数码': 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400',
+            '游戏': 'https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400',
+            'AI': 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400',
+            '时事': 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400'
         };
 
         // 主题切换
@@ -352,6 +433,17 @@
             renderNews(currentDate);
         }
 
+        // 获取配图URL
+        function getImageUrl(item) {
+            // 优先使用文章自带的配图
+            if (item.image && item.image.startsWith('http')) {
+                return item.image;
+            }
+            // 否则按分类使用默认图
+            const cat = categoryDisplayNames[item.category] || item.category;
+            return defaultImages[cat] || defaultImages['科技'];
+        }
+
         // 渲染新闻
         function renderNews(date) {
             currentDate = date;
@@ -373,7 +465,7 @@
                     return;
                 }
 
-                // 先按分类筛选（兼容旧数据映射）
+                // 先按分类筛选
                 let filtered = data.articles;
                 if (currentCategory !== 'all') {
                     filtered = filtered.filter(item => {
@@ -402,30 +494,40 @@
                 }
 
                 filtered.forEach(item => {
-                    // 兼容旧数据分类
                     const cat = categoryDisplayNames[item.category] || item.category;
                     const tagClass = categoryClasses[cat] || 'tech';
+                    const imageUrl = getImageUrl(item);
                     
                     const html = `
                         <article class="card">
-                            <div class="card-header">
-                                <div class="tags">
-                                    <span class="tag ${tagClass}">${cat}</span>
-                                    <span class="tag" style="background: var(--border); color: var(--text-sub);">${item.tag || '资讯'}</span>
+                            <div class="card-body">
+                                <div class="card-image">
+                                    <img src="${imageUrl}" 
+                                         alt="${item.title}" 
+                                         loading="lazy"
+                                         onerror="this.src='${defaultImages['科技']}'">
                                 </div>
-                            </div>
-                            
-                            <h2 class="card-title">
-                                <a href="${item.link}" target="_blank">${item.title}</a>
-                            </h2>
-                            
-                            <p class="card-summary">${item.summary}</p>
-                            
-                            <div class="card-footer">
-                                <div class="comment-box">
-                                    💬 ${item.comment || '暂无点评'}
+                                <div class="card-content">
+                                    <div class="card-header">
+                                        <div class="tags">
+                                            <span class="tag ${tagClass}">${cat}</span>
+                                            <span class="tag" style="background: var(--border); color: var(--text-sub);">${item.tag || '资讯'}</span>
+                                        </div>
+                                    </div>
+                                    
+                                    <h2 class="card-title">
+                                        <a href="${item.link}" target="_blank">${item.title}</a>
+                                    </h2>
+                                    
+                                    <p class="card-summary">${item.summary}</p>
+                                    
+                                    <div class="card-footer">
+                                        <div class="comment-box">
+                                            💬 ${item.comment || '暂无点评'}
+                                        </div>
+                                        <a href="${item.link}" target="_blank" class="btn-read">阅读全文 →</a>
+                                    </div>
                                 </div>
-                                <a href="${item.link}" target="_blank" class="btn-read">阅读全文 →</a>
                             </div>
                         </article>
                     `;
