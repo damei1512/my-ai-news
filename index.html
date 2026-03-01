@@ -198,7 +198,7 @@
             flex-wrap: wrap;
             gap: 8px;
         }
-        .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+        .tags { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
         .tag { 
             font-size: 11px; font-weight: 600; 
             padding: 3px 8px; border-radius: 99px;
@@ -510,8 +510,9 @@
                                             <span class="tag ${tagClass}">${cat}</span>
                                             <span class="tag" style="background: var(--border); color: var(--text-sub);">${item.tag || '资讯'}</span>
                                         </div>
+                                        <span class="date-tag" style="margin-left: auto;">${dateLabel}</span>
                                     </div>
-                                    
+
                                     <h2 class="card-title">
                                         <a href="${item.link}" target="_blank">${item.title}</a>
                                     </h2>
@@ -522,7 +523,6 @@
                                         <div class="comment-box">
                                             💬 ${item.comment || '暂无点评'}
                                         </div>
-                                        <span class="date-tag">${dateLabel}</span>
                                         <a href="${item.link}" target="_blank" class="btn-read">阅读全文 →</a>
                                     </div>
                                 </div>
