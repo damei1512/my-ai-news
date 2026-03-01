@@ -497,12 +497,11 @@
                     const cat = categoryDisplayNames[item.category] || item.category;
                     const tagClass = categoryClasses[cat] || 'tech';
                     const imageUrl = getImageUrl(item);
-                    const icon = categoryIcons[cat] || '📰';
                     
-                    // 有图显示图，无图显示占位
+                    // 有图时左图右文，无图时纯文字
                     const imageHtml = imageUrl 
                         ? `<div class="card-image"><img src="${imageUrl}" alt="${item.title}" loading="lazy"></div>`
-                        : `<div class="card-image"><span class="card-image-placeholder">${icon}</span></div>`;
+                        : '';
                     
                     const html = `
                         <article class="card">
