@@ -107,18 +107,18 @@
         .date-scroll::-webkit-scrollbar { display: none; }
         
         .date-btn {
-            flex-shrink: 0; min-width: 70px;
-            display: flex; flex-direction: column; align-items: center;
-            padding: 8px 12px; border-radius: 99px;
+            flex-shrink: 0; min-width: 60px;
+            display: flex; align-items: center; justify-content: center;
+            padding: 8px 14px; border-radius: 99px;
             border: 1px solid var(--border); 
             background: var(--bg-card);
             color: var(--text-sub); cursor: pointer; transition: all 0.2s;
+            font-size: 13px; font-weight: 500;
         }
         .date-btn.active { 
             background: var(--primary); color: white; border-color: var(--primary);
         }
-        .date-date { font-size: 12px; opacity: 0.8; }
-        .date-week { font-size: 14px; font-weight: bold; }
+        .date-date { font-size: 13px; }
 
         /* ==================== 分类筛选 ==================== */
         .category-filter {
@@ -277,6 +277,15 @@
             -webkit-line-clamp: 1;
             -webkit-box-orient: vertical;
             overflow: hidden;
+        }
+        
+        .date-tag {
+            font-size: 11px;
+            color: var(--text-sub);
+            background: var(--bg-page);
+            padding: 2px 8px;
+            border-radius: 99px;
+            white-space: nowrap;
         }
         
         .btn-read {
@@ -497,6 +506,7 @@
                     const cat = categoryDisplayNames[item.category] || item.category;
                     const tagClass = categoryClasses[cat] || 'tech';
                     const imageUrl = getImageUrl(item);
+                    const dateLabel = date.substring(5).replace('-', '/');
                     
                     // 有图时左图右文，无图时纯文字
                     const imageHtml = imageUrl 
@@ -525,6 +535,7 @@
                                         <div class="comment-box">
                                             💬 ${item.comment || '暂无点评'}
                                         </div>
+                                        <span class="date-tag">${dateLabel}</span>
                                         <a href="${item.link}" target="_blank" class="btn-read">阅读全文 →</a>
                                     </div>
                                 </div>
@@ -544,13 +555,12 @@
             tabContainer.innerHTML = '';
 
             dates.forEach((date, index) => {
-                const dayInfo = archiveData[date].week || 'News';
                 const displayDate = date.substring(5).replace('-', '.');
                 const isToday = index === 0;
                 
                 const btn = document.createElement('div');
                 btn.className = `date-btn ${isToday ? 'active' : ''}`;
-                btn.innerHTML = `<span class="date-date">${displayDate}</span><span class="date-week">${dayInfo}</span>`;
+                btn.innerHTML = `<span class="date-date">${displayDate}</span>`;
                 btn.onclick = () => {
                     document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
                     btn.classList.add('active');
