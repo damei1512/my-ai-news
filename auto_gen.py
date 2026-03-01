@@ -142,35 +142,7 @@ class ArticleDeduplicator:
 
 # ================= 图片提取器 =================
 class ImageExtractor:
-    """从RSS提取或生成配图"""
-    
-    # 各分类的默认配图（当文章无图时使用）
-    DEFAULT_IMAGES = {
-        "科技": [
-            "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
-            "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800",
-            "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-        ],
-        "数码": [
-            "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
-            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
-            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
-        ],
-        "游戏": [
-            "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
-            "https://images.unsplash.com/photo-1493711662062-fa541f7f3d24?w=800",
-            "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800",
-        ],
-        "AI": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-            "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
-            "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
-        ],
-        "时事": [
-            "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800",
-            "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800",
-        ],
-    }
+    """从RSS提取配图（原文有图才用，无图不硬配）"""
     
     @staticmethod
     def extract_from_entry(entry):
@@ -198,17 +170,6 @@ class ImageExtractor:
                     return enc.get('href')
         
         return None
-    
-    @classmethod
-    def get_default_image(cls, category, title=""):
-        """获取默认配图"""
-        import random
-        images = cls.DEFAULT_IMAGES.get(category, cls.DEFAULT_IMAGES["科技"])
-        # 使用标题长度作为随机种子，确保同一文章总是得到相同图片
-        if title:
-            idx = len(title) % len(images)
-            return images[idx]
-        return random.choice(images)
 
 # ================= 核心函数 =================
 
@@ -345,15 +306,6 @@ JSON 格式示例：
         print(f"❌ [{category}] API 错误: {e}")
         return []
 
-def assign_default_images(articles):
-    """为没有配图的文章分配默认图片"""
-    for article in articles:
-        if not article.get('image'):
-            category = article.get('category', '科技')
-            title = article.get('title', '')
-            article['image'] = ImageExtractor.get_default_image(category, title)
-    return articles
-
 if __name__ == "__main__":
     today_date, today_week = get_current_date_info()
     history_file = 'news.json'
@@ -390,19 +342,13 @@ if __name__ == "__main__":
     final_deduplicator = ArticleDeduplicator()
     all_articles = final_deduplicator.deduplicate_list(all_articles)
     
-    # ========== 3. 配图处理 ==========
+    # ========== 3. 配图统计 ==========
     print("\n" + "=" * 50)
-    print("🖼️ 阶段3: 配图处理")
+    print("🖼️ 阶段3: 配图统计")
     print("=" * 50)
     
-    # 统计配图情况
     with_image = sum(1 for a in all_articles if a.get('image'))
-    without_image = len(all_articles) - with_image
-    print(f"   原始配图: {with_image}/{len(all_articles)} 条")
-    
-    # 为无图文章分配默认图
-    all_articles = assign_default_images(all_articles)
-    print(f"   已分配默认图: {without_image} 条")
+    print(f"   原文配图: {with_image}/{len(all_articles)} 条")
     
     # ========== 4. 抓取 X (Twitter) 大V ==========
     print("\n" + "=" * 50)
@@ -416,9 +362,6 @@ if __name__ == "__main__":
             print(f"\n🤖 正在处理 {len(x_articles)} 条 X 推文...")
             for article in x_articles:
                 article['comment'] = f"【{article.get('source_name', 'X')} 最新动态】"
-                # X推文配图处理
-                if not article.get('image'):
-                    article['image'] = ImageExtractor.get_default_image("AI", article.get('title', ''))
             all_articles.extend(x_articles)
     except Exception as e:
         print(f"⚠️ X 抓取失败: {e}")

@@ -184,7 +184,10 @@
             height: 120px;
             border-radius: 12px;
             overflow: hidden;
-            background: var(--bg-page);
+            background: linear-gradient(135deg, var(--bg-page), var(--border));
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
         .card-image img {
             width: 100%;
@@ -194,6 +197,10 @@
         }
         .card:hover .card-image img {
             transform: scale(1.05);
+        }
+        .card-image-placeholder {
+            font-size: 32px;
+            opacity: 0.3;
         }
 
         /* 内容区域 */
@@ -395,13 +402,9 @@
             '国外': 'AI'
         };
 
-        // 默认配图（按分类）
-        const defaultImages = {
-            '科技': 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400',
-            '数码': 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400',
-            '游戏': 'https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400',
-            'AI': 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400',
-            '时事': 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400'
+        // 分类图标
+        const categoryIcons = {
+            '科技': '💻', '数码': '📱', '游戏': '🎮', 'AI': '🤖', '时事': '🌍'
         };
 
         // 主题切换
@@ -433,15 +436,12 @@
             renderNews(currentDate);
         }
 
-        // 获取配图URL
+        // 获取配图URL（仅返回原文有的图，无图返回null）
         function getImageUrl(item) {
-            // 优先使用文章自带的配图
             if (item.image && item.image.startsWith('http')) {
                 return item.image;
             }
-            // 否则按分类使用默认图
-            const cat = categoryDisplayNames[item.category] || item.category;
-            return defaultImages[cat] || defaultImages['科技'];
+            return null;
         }
 
         // 渲染新闻
@@ -497,16 +497,17 @@
                     const cat = categoryDisplayNames[item.category] || item.category;
                     const tagClass = categoryClasses[cat] || 'tech';
                     const imageUrl = getImageUrl(item);
+                    const icon = categoryIcons[cat] || '📰';
+                    
+                    // 有图显示图，无图显示占位
+                    const imageHtml = imageUrl 
+                        ? `<div class="card-image"><img src="${imageUrl}" alt="${item.title}" loading="lazy"></div>`
+                        : `<div class="card-image"><span class="card-image-placeholder">${icon}</span></div>`;
                     
                     const html = `
                         <article class="card">
                             <div class="card-body">
-                                <div class="card-image">
-                                    <img src="${imageUrl}" 
-                                         alt="${item.title}" 
-                                         loading="lazy"
-                                         onerror="this.src='${defaultImages['科技']}'">
-                                </div>
+                                ${imageHtml}
                                 <div class="card-content">
                                     <div class="card-header">
                                         <div class="tags">
