@@ -331,7 +331,7 @@
         <header>
             <div class="brand">
                 <h1>📰 资讯聚合</h1>
-                <p>科技 · 数码 · 游戏 · 时事 · AI</p>
+                <p>科技 · 数码 · 游戏 · 时事</p>
             </div>
             <div class="header-controls">
                 <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌙</button>
@@ -354,7 +354,7 @@
             <button class="category-btn" data-cat="数码" onclick="setCategory('数码', this)">📱 数码</button>
             <button class="category-btn" data-cat="游戏" onclick="setCategory('游戏', this)">🎮 游戏</button>
             <button class="category-btn" data-cat="时事" onclick="setCategory('时事', this)">🌍 时事</button>
-            <button class="category-btn" data-cat="AI" onclick="setCategory('AI', this)">🤖 AI</button>
+
         </div>
 
         <!-- 新闻列表 -->
@@ -371,16 +371,16 @@
         let searchQuery = '';
 
         const categoryClasses = {
-            '科技': 'tech', '国内': 'tech', '国外': 'tech',
+            '科技': 'tech', '国内': 'tech', '国外': 'tech', 'AI': 'tech',
             '数码': 'digital',
             '游戏': 'game',
-            '时事': 'news',
-            'AI': 'ai'
+            '时事': 'news'
         };
         
         const categoryDisplayNames = {
             '国内': '科技',
-            '国外': 'AI'
+            '国外': '科技',
+            'AI': '科技'
         };
 
         // 分类图标
