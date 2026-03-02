@@ -333,7 +333,7 @@
         <header>
             <div class="brand">
                 <h1>📰 资讯聚合</h1>
-                <p>科技 · 数码 · 游戏 · 时事 · 热榜</p>
+                <p>科技 · 数码 · 游戏 + 热榜</p>
             </div>
             <div class="header-controls">
                 <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌙</button>
@@ -355,7 +355,6 @@
             <button class="category-btn" data-cat="科技" onclick="setCategory('科技', this)">💻 科技</button>
             <button class="category-btn" data-cat="数码" onclick="setCategory('数码', this)">📱 数码</button>
             <button class="category-btn" data-cat="游戏" onclick="setCategory('游戏', this)">🎮 游戏</button>
-            <button class="category-btn" data-cat="时事" onclick="setCategory('时事', this)">🌍 时事</button>
             <button class="category-btn" data-cat="热榜" onclick="setCategory('热榜', this)">🔥 热榜</button>
 
         </div>
@@ -377,7 +376,7 @@
             '科技': 'tech', '国内': 'tech', '国外': 'tech', 'AI': 'tech',
             '数码': 'digital',
             '游戏': 'game',
-            '时事': 'news',
+            '时事': 'hot',  // 时事合并到热榜
             '热榜': 'hot'
         };
         
@@ -385,12 +384,13 @@
             '国内': '科技',
             '国外': '科技',
             'AI': '科技',
+            '时事': '热榜',  // 时事显示为热榜
             '热榜': '热榜'
         };
 
         // 分类图标
         const categoryIcons = {
-            '科技': '💻', '数码': '📱', '游戏': '🎮', 'AI': '🤖', '时事': '🌍', '热榜': '🔥'
+            '科技': '💻', '数码': '📱', '游戏': '🎮', 'AI': '🤖', '时事': '🔥', '热榜': '🔥'
         };
 
         // 主题切换
@@ -468,7 +468,20 @@
 
                 // 按分类筛选
                 let filtered = allArticles;
-                if (currentCategory !== 'all') {
+                if (currentCategory === 'all') {
+                    // 全部：排除热榜（热榜独立于科技/数码/游戏）
+                    filtered = filtered.filter(item => {
+                        const cat = categoryDisplayNames[item.category] || item.category;
+                        return cat !== '热榜';
+                    });
+                } else if (currentCategory === '热榜') {
+                    // 热榜：只显示今天的内容
+                    const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+                    filtered = filtered.filter(item => {
+                        const cat = categoryDisplayNames[item.category] || item.category;
+                        return cat === '热榜' && item._date === today;
+                    });
+                } else {
                     filtered = filtered.filter(item => {
                         const cat = categoryDisplayNames[item.category] || item.category;
                         return cat === currentCategory;
