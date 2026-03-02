@@ -183,7 +183,11 @@ def get_current_date_info():
     return date_str, week_str
 
 def filter_by_keywords(articles, category):
-    """按关键词过滤文章"""
+    """按关键词过滤文章（时事分类不过滤，让Gemini处理所有内容）"""
+    # 时事分类使用英文源，跳过关键词过滤
+    if category == "时事":
+        return articles
+    
     keywords = KEYWORD_WHITELIST.get(category, [])
     if not keywords:
         return articles
