@@ -35,6 +35,10 @@ RSS_SOURCES = {
         "https://www.gamespot.com/feeds/news/",
         "https://www.gcores.com/rss",
     ],
+    "热榜": [
+        "https://rsshub.app/jike/topic/hot",  # 即刻热门
+        "https://rsshub.app/zhihu/hotlist",   # 知乎热榜
+    ],
     "时事": [
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://www.reutersagency.com/feed/?taxonomy=markets&post_type=reuters-best",
@@ -184,8 +188,8 @@ def get_current_date_info():
 
 def filter_by_keywords(articles, category):
     """按关键词过滤文章（时事、游戏分类不过滤，让Gemini处理所有内容）"""
-    # 时事、游戏分类使用英文源，跳过关键词过滤
-    if category in ["时事", "游戏"]:
+    # 时事、游戏、热榜分类跳过关键词过滤（英文源或混合内容）
+    if category in ["时事", "游戏", "热榜"]:
         return articles
     
     keywords = KEYWORD_WHITELIST.get(category, [])
