@@ -132,6 +132,7 @@
         .category-btn[data-cat="游戏"].active { background: #ec4899; }
         .category-btn[data-cat="时事"].active { background: #f59e0b; }
         .category-btn[data-cat="AI"].active { background: #10b981; }
+        .category-btn[data-cat="热榜"].active { background: #ef4444; }
 
         /* ==================== 新闻卡片（带图片）==================== */
         .news-list { display: grid; gap: 20px; }
@@ -209,6 +210,7 @@
         .tag.game { background: #fce7f3; color: #9d174d; }
         .tag.news { background: #fef3c7; color: #92400e; }
         .tag.ai { background: #d1fae5; color: #065f46; }
+        .tag.hot { background: #fee2e2; color: #991b1b; }
 
         .card-title {
             font-size: 17px; font-weight: 700;
@@ -331,7 +333,7 @@
         <header>
             <div class="brand">
                 <h1>📰 资讯聚合</h1>
-                <p>科技 · 数码 · 游戏 · 时事</p>
+                <p>科技 · 数码 · 游戏 · 时事 · 热榜</p>
             </div>
             <div class="header-controls">
                 <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌙</button>
@@ -354,6 +356,7 @@
             <button class="category-btn" data-cat="数码" onclick="setCategory('数码', this)">📱 数码</button>
             <button class="category-btn" data-cat="游戏" onclick="setCategory('游戏', this)">🎮 游戏</button>
             <button class="category-btn" data-cat="时事" onclick="setCategory('时事', this)">🌍 时事</button>
+            <button class="category-btn" data-cat="热榜" onclick="setCategory('热榜', this)">🔥 热榜</button>
 
         </div>
 
@@ -374,18 +377,20 @@
             '科技': 'tech', '国内': 'tech', '国外': 'tech', 'AI': 'tech',
             '数码': 'digital',
             '游戏': 'game',
-            '时事': 'news'
+            '时事': 'news',
+            '热榜': 'hot'
         };
         
         const categoryDisplayNames = {
             '国内': '科技',
             '国外': '科技',
-            'AI': '科技'
+            'AI': '科技',
+            '热榜': '热榜'
         };
 
         // 分类图标
         const categoryIcons = {
-            '科技': '💻', '数码': '📱', '游戏': '🎮', 'AI': '🤖', '时事': '🌍'
+            '科技': '💻', '数码': '📱', '游戏': '🎮', 'AI': '🤖', '时事': '🌍', '热榜': '🔥'
         };
 
         // 主题切换
