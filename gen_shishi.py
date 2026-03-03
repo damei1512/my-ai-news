@@ -7,7 +7,9 @@ import feedparser
 import google.generativeai as genai
 import pytz
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") or "AIzaSyB5ErIx7qVOlje4Xk5QW8N5Eizu-8hYMtM"
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    raise ValueError("❌ GEMINI_API_KEY 未设置，请在 .env 文件中配置")
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-flash-latest')
 
