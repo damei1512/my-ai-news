@@ -1,0 +1,46 @@
+name: AI资讯日报更新
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # 08:00 CST
+    - cron: '0 5 * * *'    # 13:00 CST  
+    - cron: '0 10 * * *'   # 18:00 CST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - run: pip install feedparser google-generativeai python-dotenv pytz
+    
+    - name: 早间完整版
+      if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: python auto_gen.py
+      
+    - name: 午间热榜版
+      if: github.event.schedule == '0 5 * * *'
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: python gen_rebang.py
+      
+    - name: 晚间热榜版
+      if: github.event.schedule == '0 10 * * *'
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: python gen_rebang.py
+      
+    - run: |
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git add news.json
+        git commit -m "auto: 更新AI资讯 $(date '+%m-%d %H:%M')" || true
+        git push
