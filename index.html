@@ -302,6 +302,7 @@
             padding: 2px 8px;
             border-radius: 99px;
             white-space: nowrap;
+            flex-shrink: 0;
         }
         
         .btn-read {
@@ -430,6 +431,33 @@
         const categoryIcons = {
             '科技': '💻', '数码': '📱', '游戏': '🎮', 'AI': '🤖', '时事': '🔥', '热榜': '🔥'
         };
+
+        // 农历数据（简化版，2024-2026年）
+        const lunarData = {
+            '2026-03-03': '正月十五', '2026-03-04': '正月十六', '2026-03-05': '正月十七',
+            '2026-03-06': '正月十八', '2026-03-07': '正月十九', '2026-03-08': '正月二十',
+            '2026-03-09': '正月廿一', '2026-03-10': '正月廿二', '2026-03-11': '正月廿三',
+            '2026-03-12': '正月廿四', '2026-03-13': '正月廿五', '2026-03-14': '正月廿六',
+            '2026-03-15': '正月廿七', '2026-03-16': '正月廿八', '2026-03-17': '正月廿九',
+            '2026-03-18': '正月三十', '2026-03-19': '二月初一', '2026-03-20': '二月初二',
+            // 可以继续添加更多日期
+        };
+        
+        const weekDays = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+        
+        // 格式化日期显示
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            const month = date.getMonth() + 1;
+            const day = date.getDate();
+            const weekDay = weekDays[date.getDay()];
+            const lunar = lunarData[dateStr] || '';
+            
+            if (lunar) {
+                return `${weekDay} ${month}月${day}日（${lunar}）`;
+            }
+            return `${weekDay} ${month}月${day}日`;
+        }
 
         // 搜索框切换
         function toggleSearch() {
@@ -563,7 +591,7 @@
                     const cat = categoryDisplayNames[item.category] || item.category;
                     const tagClass = categoryClasses[cat] || 'tech';
                     const imageUrl = getImageUrl(item);
-                    const dateLabel = item._date.substring(5).replace('-', '/');
+                    const dateLabel = formatDate(item._date);
                     
                     // 有图时左图右文，无图时纯文字
                     const imageHtml = imageUrl 
