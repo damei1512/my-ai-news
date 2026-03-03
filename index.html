@@ -484,12 +484,7 @@
             const month = date.getMonth() + 1;
             const day = date.getDate();
             const weekDay = weekDays[date.getDay()];
-            const lunar = lunarData[dateStr] || '';
-            
-            if (lunar) {
-                return `${weekDay} ${month}月${day}日（${lunar}）`;
-            }
-            return `${weekDay} ${month}月${day}日`;
+            return `${month}月${day}日 ${weekDay}`;
         }
 
         // 搜索框切换
