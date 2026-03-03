@@ -50,6 +50,31 @@
         }
         .brand p { color: var(--text-sub); font-size: 14px; margin-top: 4px; }
 
+        .brand-with-search {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+        }
+
+        .search-toggle-btn {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 50%;
+            width: 36px;
+            height: 36px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            transition: all 0.2s;
+            margin-top: 4px;
+        }
+        .search-toggle-btn:hover {
+            transform: scale(1.1);
+            border-color: var(--primary);
+        }
+
         .header-controls {
             display: flex; align-items: center; gap: 12px;
         }
@@ -78,6 +103,16 @@
         .search-box {
             position: relative;
             margin-bottom: 20px;
+            max-height: 0;
+            overflow: hidden;
+            opacity: 0;
+            transform: translateY(-10px);
+            transition: all 0.3s ease;
+        }
+        .search-box.active {
+            max-height: 100px;
+            opacity: 1;
+            transform: translateY(0);
         }
         .search-box input {
             width: 100%;
@@ -331,9 +366,12 @@
 <body>
     <div class="container">
         <header>
-            <div class="brand">
-                <h1>📰 资讯聚合</h1>
-                <p>科技 · 数码 · 游戏 + 热榜</p>
+            <div class="brand-with-search">
+                <div class="brand">
+                    <h1>📰 资讯聚合</h1>
+                    <p>科技 · 数码 · 游戏 + 热榜</p>
+                </div>
+                <button class="search-toggle-btn" onclick="toggleSearch()" title="搜索">🔍</button>
             </div>
             <div class="header-controls">
                 <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌙</button>
@@ -345,7 +383,7 @@
         </header>
 
         <!-- 搜索框 -->
-        <div class="search-box">
+        <div class="search-box" id="search-box">
             <input type="text" id="search-input" placeholder="搜索标题或摘要..." oninput="handleSearch()">
         </div>
 
@@ -392,6 +430,20 @@
         const categoryIcons = {
             '科技': '💻', '数码': '📱', '游戏': '🎮', 'AI': '🤖', '时事': '🔥', '热榜': '🔥'
         };
+
+        // 搜索框切换
+        function toggleSearch() {
+            const searchBox = document.getElementById('search-box');
+            const searchInput = document.getElementById('search-input');
+            searchBox.classList.toggle('active');
+            if (searchBox.classList.contains('active')) {
+                setTimeout(() => searchInput.focus(), 100);
+            } else {
+                searchInput.value = '';
+                searchQuery = '';
+                renderNews();
+            }
+        }
 
         // 主题切换
         function toggleTheme() {
