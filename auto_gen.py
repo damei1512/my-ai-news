@@ -40,8 +40,8 @@ RSS_SOURCES = {
         "https://www.gcores.com/rss",
     ],
     "热榜": [
-        "https://rsshub.app/jike/topic/hot",  # 即刻热门
-        "https://rsshub.app/zhihu/hotlist",   # 知乎热榜
+        "https://rsshub.rssforever.com/jike/topic/hot",  # 即刻热门
+        "https://rsshub.pseudoyu.com/jike/topic/hot",    # 即刻热门 镜像2
     ],
     "时事": [
         "https://feeds.bbci.co.uk/news/world/rss.xml",
