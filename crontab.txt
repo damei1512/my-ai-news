@@ -1,0 +1,15 @@
+SHELL=/bin/bash
+GEMINI_API_KEY=AIzaSyDnqCukgp0-UezQXdq_OHlDneIG6chtedc
+
+# AI资讯更新时间表（每天3次）
+# 早间版：8:00 - 完整生成
+0 8 * * * cd ~/my-ai-news && python3 auto_gen.py >> ~/my-ai-news/cron.log 2>&1
+
+# 午间版：13:00 - 增量更新（只更新热榜+时事）
+0 13 * * * cd ~/my-ai-news && python3 gen_rebang.py >> ~/my-ai-news/cron.log 2>&1
+
+# 晚间版：18:00 - 增量更新
+0 18 * * * cd ~/my-ai-news && python3 gen_rebang.py >> ~/my-ai-news/cron.log 2>&1
+
+# 可选：深夜备份到Git（可选，如果需要更频繁同步）
+# 0 23 * * * cd ~/my-ai-news && git add . && git commit -m "auto: daily backup $(date)" && git push
