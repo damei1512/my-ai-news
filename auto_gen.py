@@ -8,6 +8,10 @@ import pytz
 import re
 import hashlib
 from urllib.parse import urlparse
+from dotenv import load_dotenv
+
+# 加载 .env 文件
+load_dotenv()
 
 # ================= 配置区 =================
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
