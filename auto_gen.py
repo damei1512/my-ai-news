@@ -311,7 +311,12 @@ JSON 格式示例：
         return result
         
     except Exception as e:
-        print(f"❌ [{category}] API 错误: {e}")
+        error_msg = str(e)
+        # 过滤掉可能包含API key的错误信息
+        if "API key" in error_msg.lower() or "key" in error_msg.lower():
+            print(f"❌ [{category}] API 错误: 认证失败，请检查API Key是否有效")
+        else:
+            print(f"❌ [{category}] API 错误: {error_msg[:100]}")
         return []
 
 if __name__ == "__main__":
