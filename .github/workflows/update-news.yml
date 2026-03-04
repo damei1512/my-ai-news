@@ -18,24 +18,24 @@ jobs:
     - uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    - run: pip install feedparser google-generativeai python-dotenv pytz
+    - run: pip install feedparser python-dotenv openai pytz
     
     - name: 早间完整版
       if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
       env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       run: python auto_gen.py
       
     - name: 午间热榜版
       if: github.event.schedule == '0 5 * * *'
       env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       run: python gen_rebang.py
       
     - name: 晚间热榜版
       if: github.event.schedule == '0 10 * * *'
       env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       run: python gen_rebang.py
       
     - run: |
