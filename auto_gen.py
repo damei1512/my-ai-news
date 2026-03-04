@@ -2,7 +2,7 @@ import os
 import json
 import datetime
 import feedparser
-import google.generativeai as genai
+from openai import OpenAI
 import time
 import pytz
 import re
@@ -14,12 +14,16 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ================= 配置区 =================
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-if not GEMINI_API_KEY:
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY")
+if not DEEPSEEK_API_KEY:
     raise ValueError("❌ API Key 未配置")
 
-genai.configure(api_key=GEMINI_API_KEY)
-MODEL_NAME = 'gemini-flash-latest'
+# DeepSeek 客户端
+client = OpenAI(
+    api_key=DEEPSEEK_API_KEY,
+    base_url="https://api.deepseek.com"
+)
+MODEL_NAME = 'deepseek-chat'
 
 # ================= RSS 源配置 =================
 RSS_SOURCES = {
@@ -245,15 +249,13 @@ def fetch_news_by_category(category, urls, deduplicator):
     
     return articles
 
-def summarize_with_gemini(category, articles):
-    """使用 Gemini 对新闻进行分类总结（含图片信息）"""
+def summarize_with_deepseek(category, articles):
+    """使用 DeepSeek 对新闻进行分类总结（含图片信息）"""
     if not articles:
         return []
     
     print(f"🤖 [{category}] 正在生成摘要...")
     try:
-        model = genai.GenerativeModel(MODEL_NAME)
-        
         # 构建带图片信息的内容
         content_parts = []
         for i, a in enumerate(articles, 1):
@@ -297,8 +299,15 @@ JSON 格式示例：
 """
         
         time.sleep(1)
-        response = model.generate_content(prompt)
-        text = response.text.strip()
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[
+                {"role": "system", "content": "你是一个专业的科技新闻主编，擅长用犀利的点评总结新闻。"},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.7
+        )
+        text = response.choices[0].message.content.strip()
         
         # 清理 Markdown 代码块
         if text.startswith("```json"): text = text[7:]
@@ -347,7 +356,7 @@ if __name__ == "__main__":
     for category, urls in RSS_SOURCES.items():
         raw_news = fetch_news_by_category(category, urls, deduplicator)
         if raw_news:
-            summarized = summarize_with_gemini(category, raw_news)
+            summarized = summarize_with_deepseek(category, raw_news)
             all_articles.extend(summarized)
         time.sleep(1)
     

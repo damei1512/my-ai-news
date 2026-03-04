@@ -614,12 +614,21 @@
                         return cat !== '热榜';
                     });
                 } else if (currentCategory === '热榜') {
-                    // 热榜：只显示今天的内容
-                    const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+                    // 热榜：显示最近7天的内容
+                    const today = new Date();
+                    const sevenDaysAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+                    
                     filtered = filtered.filter(item => {
                         const cat = categoryDisplayNames[item.category] || item.category;
-                        return cat === '热榜' && item._date === today;
+                        if (cat !== '热榜') return false;
+                        // 解析日期 YYYY-MM-DD
+                        const parts = item._date.split('-');
+                        const itemDate = new Date(parts[0], parts[1] - 1, parts[2]);
+                        return itemDate >= sevenDaysAgo;
                     });
+                    
+                    // 热榜按日期倒序排列（最新的在前面）
+                    filtered.sort((a, b) => b._date.localeCompare(a._date));
                 } else {
                     filtered = filtered.filter(item => {
                         const cat = categoryDisplayNames[item.category] || item.category;

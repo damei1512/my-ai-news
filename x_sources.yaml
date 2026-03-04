@@ -1,0 +1,41 @@
+# X (Twitter) 大V RSS 源配置
+# 通过 RSSHub 抓取 X 账号动态
+
+X_SOURCES:
+  AI:
+    - username: elonmusk
+      name: 马斯克
+      category: 科技
+    - username: sama
+      name: Sam Altman
+      category: AI
+    - username: karpathy
+      name: Andrej Karpathy
+      category: AI
+    - username: drfeili
+      name: 李飞飞
+      category: AI
+  科技:
+    - username: satyanadella
+      name: Satya Nadella
+      category: 科技
+    - username: sundarpichai
+      name: Sundar Pichai
+      category: 科技
+    - username: tim_cook
+      name: Tim Cook
+      category: 数码
+  数码:
+    - username: MKBHD
+      name: MKBHD
+      category: 数码
+    - username: UnboxTherapy
+      name: Unbox Therapy
+      category: 数码
+
+# RSSHub 镜像节点（按优先级排序）
+RSS_HUB_NODES:
+  - https://rsshub.app
+  - https://rsshub.rssforever.com
+  - https://rsshub.pseudoyu.com
+  - http://localhost:1200

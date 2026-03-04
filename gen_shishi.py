@@ -4,14 +4,17 @@ import os
 import json
 import datetime
 import feedparser
-import google.generativeai as genai
+from openai import OpenAI
 import pytz
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-if not GEMINI_API_KEY:
-    raise ValueError("❌ GEMINI_API_KEY 未设置，请在 .env 文件中配置")
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-flash-latest')
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY")
+if not DEEPSEEK_API_KEY:
+    raise ValueError("❌ DEEPSEEK_API_KEY 未设置，请在 .env 文件中配置")
+
+client = OpenAI(
+    api_key=DEEPSEEK_API_KEY,
+    base_url="https://api.deepseek.com"
+)
 
 # 抓取BBC新闻
 print("📡 抓取BBC世界新闻...")
@@ -53,8 +56,16 @@ JSON格式：
 {content}
 """
 
-response = model.generate_content(prompt)
-text = response.text.strip()
+response = client.chat.completions.create(
+    model="deepseek-chat",
+    messages=[
+        {"role": "system", "content": "你是一个专业的国际新闻主编，擅长将英文新闻翻译成中文并给出犀利点评。"},
+        {"role": "user", "content": prompt}
+    ],
+    temperature=0.7
+)
+text = response.choices[0].message.content.strip()
+
 if text.startswith("```json"): text = text[7:]
 if text.startswith("```"): text = text[3:]
 if text.endswith("```"): text = text[:-3]
