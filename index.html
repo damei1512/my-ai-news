@@ -167,20 +167,28 @@
 
         /* ==================== 分类筛选 ==================== */
         .category-filter {
-            display: flex; flex-wrap: wrap; gap: 8px;
+            display: flex; flex-wrap: nowrap; gap: 6px;
             margin-bottom: 24px;
             padding: 4px;
+            overflow-x: auto;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+        .category-filter::-webkit-scrollbar {
+            display: none;
         }
         .category-btn {
-            padding: 8px 16px;
+            padding: 6px 12px;
             border-radius: 99px;
             border: 1px solid var(--border);
             background: var(--bg-card);
             color: var(--text-sub);
             cursor: pointer;
-            font-size: 14px;
+            font-size: 13px;
             font-weight: 500;
             transition: all 0.2s;
+            white-space: nowrap;
+            flex-shrink: 0;
         }
         .category-btn:hover {
             border-color: var(--primary);
@@ -614,12 +622,21 @@
                         return cat !== '热榜';
                     });
                 } else if (currentCategory === '热榜') {
-                    // 热榜：只显示今天的内容
-                    const today = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+                    // 热榜：显示最近7天的内容
+                    const today = new Date();
+                    const sevenDaysAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+                    
                     filtered = filtered.filter(item => {
                         const cat = categoryDisplayNames[item.category] || item.category;
-                        return cat === '热榜' && item._date === today;
+                        if (cat !== '热榜') return false;
+                        // 解析日期 YYYY-MM-DD
+                        const parts = item._date.split('-');
+                        const itemDate = new Date(parts[0], parts[1] - 1, parts[2]);
+                        return itemDate >= sevenDaysAgo;
                     });
+                    
+                    // 热榜按日期倒序排列（最新的在前面）
+                    filtered.sort((a, b) => b._date.localeCompare(a._date));
                 } else {
                     filtered = filtered.filter(item => {
                         const cat = categoryDisplayNames[item.category] || item.category;
