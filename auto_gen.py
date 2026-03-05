@@ -276,10 +276,13 @@ def summarize_with_deepseek(category, articles):
 1. category 字段必须填 "{category}"
 2. tag 字段填写新闻的子标签（如大模型、芯片、游戏等，3-4个字）
 3. 保留原文 link
-4. summary 字段：100字以内，突出核心信息
-5. comment 字段：毒舌点评，50字以内，要有态度
-6. image 字段：保留原文中的配图URL，如果没有则留空字符串
-7. 输出纯 JSON 列表，无 Markdown
+4. title 字段：**必须翻译成中文标题**，保持原标题含义，50字以内
+5. summary 字段：100字以内中文摘要，突出核心信息
+6. comment 字段：中文毒舌点评，50字以内，要有态度
+7. image 字段：保留原文中的配图URL，如果没有则留空字符串
+8. 输出纯 JSON 列表，无 Markdown
+
+【重要】如果原文是英文，title、summary、comment 必须全部翻译成中文！
 
 JSON 格式示例：
 [
