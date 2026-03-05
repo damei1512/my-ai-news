@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI 资讯聚合 - 科技/数码/游戏/时事</title>
+    <title>美时美刻 - 科技/数码/游戏/时事</title>
     <style>
         /* ==================== CSS 变量定义 ==================== */
         :root {
@@ -119,8 +119,8 @@
         }
 
         .search-toggle-btn {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
+            background: rgba(255, 255, 255, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.3);
             border-radius: 50%;
             width: 36px;
             height: 36px;
@@ -131,10 +131,36 @@
             font-size: 16px;
             transition: all 0.2s;
             margin-top: 4px;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
         }
         .search-toggle-btn:hover {
-            transform: scale(1.1);
-            border-color: var(--primary);
+            background: rgba(255, 255, 255, 0.25);
+            border-color: rgba(255, 255, 255, 0.5);
+        }
+        .search-toggle-btn:active {
+            transform: scale(0.95);
+        }
+        
+        /* 放大镜图标 */
+        .magnifier-icon {
+            width: 20px;
+            height: 20px;
+            color: rgba(255, 255, 255, 0.9);
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-origin: center;
+        }
+        .search-toggle-btn:hover .magnifier-icon {
+            color: #fff;
+        }
+        .search-toggle-btn.active .magnifier-icon {
+            transform: scale(1.6);
+        }
+        .search-toggle-btn.active .magnifier-icon line {
+            opacity: 0;
+        }
+        .search-toggle-btn.active .magnifier-icon circle {
+            stroke-width: 1.5;
         }
 
         .header-controls {
@@ -513,11 +539,16 @@
     <div class="container">
         <header>
             <div class="brand-with-search">
+                <button class="search-toggle-btn" onclick="toggleSearch()" title="搜索">
+                    <svg class="magnifier-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                </button>
                 <div class="brand">
-                    <h1>📰 资讯聚合</h1>
+                    <h1>美时美刻</h1>
                     <p>科技 · 数码 · 游戏 + 热榜</p>
                 </div>
-                <button class="search-toggle-btn" onclick="toggleSearch()" title="搜索">🔍</button>
             </div>
             <div class="header-controls">
                 <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌙</button>
@@ -607,7 +638,9 @@
         function toggleSearch() {
             const searchBox = document.getElementById('search-box');
             const searchInput = document.getElementById('search-input');
+            const searchBtn = document.querySelector('.search-toggle-btn');
             searchBox.classList.toggle('active');
+            searchBtn.classList.toggle('active');
             if (searchBox.classList.contains('active')) {
                 setTimeout(() => searchInput.focus(), 100);
             } else {
