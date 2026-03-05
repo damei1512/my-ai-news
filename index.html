@@ -59,6 +59,17 @@
             background: linear-gradient(to bottom, transparent 0%, #1a2744 100%);
         }
 
+        /* 移动端背景图优化 */
+        @media (max-width: 768px) {
+            .parallax-bg {
+                background-size: cover;
+                background-position: center top;
+            }
+            .parallax-bg::after {
+                height: 200px;
+            }
+        }
+
         .container { max-width: 1000px; margin: 0 auto; padding: 20px 16px; }
 
         /* ==================== 头部（完全透明）==================== */
