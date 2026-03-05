@@ -46,14 +46,14 @@
             border-radius: 0 0 24px 24px;
             background: 
                 linear-gradient(to bottom, rgba(15, 23, 42, 0.3) 0%, rgba(15, 23, 42, 0.7) 100%),
-                url('miyabi-bg.jpg');
+                url('bg-new.png');
             background-size: cover;
-            background-position: center top;
+            background-position: center center;
             background-attachment: scroll;
             border-bottom: 1px solid var(--border);
             position: relative;
             overflow: hidden;
-            min-height: 140px;
+            min-height: 200px;
         }
         
         /* 确保内容在遮罩之上 */
@@ -167,20 +167,28 @@
 
         /* ==================== 分类筛选 ==================== */
         .category-filter {
-            display: flex; flex-wrap: wrap; gap: 8px;
+            display: flex; flex-wrap: nowrap; gap: 6px;
             margin-bottom: 24px;
             padding: 4px;
+            overflow-x: auto;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+        .category-filter::-webkit-scrollbar {
+            display: none;
         }
         .category-btn {
-            padding: 8px 16px;
+            padding: 10px 18px;
             border-radius: 99px;
             border: 1px solid var(--border);
             background: var(--bg-card);
             color: var(--text-sub);
             cursor: pointer;
-            font-size: 14px;
+            font-size: 16px;
             font-weight: 500;
             transition: all 0.2s;
+            white-space: nowrap;
+            flex-shrink: 0;
         }
         .category-btn:hover {
             border-color: var(--primary);
@@ -451,10 +459,10 @@
         <!-- 分类筛选 -->
         <div class="category-filter" id="category-filter">
             <button class="category-btn active" data-cat="all" onclick="setCategory('all', this)">全部</button>
-            <button class="category-btn" data-cat="科技" onclick="setCategory('科技', this)"><svg class="btn-icon" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="14" rx="2"/><rect x="8" y="18" width="8" height="3" rx="1"/></svg>科技</button>
-            <button class="category-btn" data-cat="数码" onclick="setCategory('数码', this)"><svg class="btn-icon" viewBox="0 0 24 24"><rect x="6" y="2" width="12" height="20" rx="2"/><circle cx="12" cy="18" r="1.5"/></svg>数码</button>
-            <button class="category-btn" data-cat="游戏" onclick="setCategory('游戏', this)"><svg class="btn-icon" viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="10" rx="5"/><rect x="6" y="11" width="4" height="2" rx="1" fill="var(--bg-page)"/><circle cx="15" cy="12" r="1" fill="var(--bg-page)"/><circle cx="18" cy="12" r="1" fill="var(--bg-page)"/></svg>游戏</button>
-            <button class="category-btn" data-cat="热榜" onclick="setCategory('热榜', this)"><svg class="btn-icon" viewBox="0 0 24 24"><path d="M12 2c0 0-2 4-2 7s2 5 2 5 2-2 2-5-2-7-2-7z"/><path d="M7 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S7 7 7 7z" opacity="0.7"/><path d="M17 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S17 7 17 7z" opacity="0.7"/></svg>热榜</button>
+            <button class="category-btn" data-cat="科技" onclick="setCategory('科技', this)">科技</button>
+            <button class="category-btn" data-cat="数码" onclick="setCategory('数码', this)">数码</button>
+            <button class="category-btn" data-cat="游戏" onclick="setCategory('游戏', this)">游戏</button>
+            <button class="category-btn" data-cat="热榜" onclick="setCategory('热榜', this)">热榜</button>
         </div>
 
         <!-- 新闻列表 -->
@@ -710,7 +718,9 @@
                 if (!data || Object.keys(data).length === 0) throw new Error("Empty Data");
                 archiveData = data;
                 
-                document.getElementById('update-text').textContent = '已同步';
+                const now = new Date();
+                const timeStr = now.toLocaleString('zh-CN', {month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'});
+                document.getElementById('update-text').textContent = '已同步 ' + timeStr;
                 document.querySelector('.dot').style.background = '#22c55e';
                 
                 renderNews();
