@@ -36,14 +36,17 @@
             min-height: 100vh;
         }
         
-        /* 视差背景层 */
+        /* 视差背景层 - 宽度100%，高度自适应 */
         .parallax-bg {
             position: fixed;
             top: 0;
             left: 0;
             width: 100%;
-            height: 120vh;
-            background: url('bg-new.png') center top / cover no-repeat;
+            /* 高度按原图比例自适应，最小保证一屏能看完 */
+            height: auto;
+            min-height: 100vh;
+            aspect-ratio: 16 / 9; /* 根据你的图比例调整，如果是横图用 16/9，竖图用 9/16 */
+            background: url('bg-new.png') center top / 100% auto no-repeat;
             z-index: -1;
             will-change: transform;
         }
@@ -59,10 +62,11 @@
             background: linear-gradient(to bottom, transparent 0%, #1a2744 100%);
         }
 
-        /* 移动端背景图优化 */
+        /* 移动端适配 - 保持宽度100%，高度按9:16比例 */
         @media (max-width: 768px) {
             .parallax-bg {
-                background-size: cover;
+                aspect-ratio: 9 / 16;
+                background-size: 100% auto;
                 background-position: center top;
             }
             .parallax-bg::after {
