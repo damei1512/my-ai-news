@@ -1,4 +1,243 @@
 {
+  "2026-03-07": {
+    "week": "周六",
+    "articles": [
+      {
+        "category": "科技",
+        "tag": "行业动态",
+        "title": "字节启动最大规模实习生招聘，OpenClaw获黄仁勋盛赞",
+        "link": "https://36kr.com/p/3712170172264838?f=rss",
+        "summary": "字节跳动计划招聘超7000名转正实习生，创下其最大规模。英伟达CEO黄仁勋高度评价OpenClaw，称其为当代最重要的软件发布。",
+        "comment": "实习生转正成主力军，字节这算盘打得响。OpenClaw火到让老黄亲自站台，程序员上门装软件都成新产业了。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "投融资",
+        "title": "资情留言板：求购强脑科技、清微智能等公司老股份额",
+        "link": "https://36kr.com/p/3711367816556675?f=rss",
+        "summary": "本期资情留言板显示市场对强脑科技、清微智能等科技公司老股份额及基金LP份额的求购需求，反映一级市场特定资产的交易动向。",
+        "comment": "老股交易市场暗流涌动，有人急着套现离场，有人想抄底捡漏，信息差里都是生意。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "大公司",
+        "title": "蜜雪冰城布局咖啡专利，千问AI加速生活服务落地",
+        "link": "https://36kr.com/p/3711355370615169?f=rss",
+        "summary": "蜜雪冰城公布多项咖啡相关专利，其现磨咖啡业务处于试点阶段。同时，阿里千问大模型正持续推进在生活服务场景的落地应用。",
+        "comment": "雪王不仅要称霸奶茶界，连咖啡的专利墙都开始砌了。千问AI落地，但愿别只是给生活添堵。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "人工智能",
+        "title": "2026年AI最佳场景渗透案例征集进入倒计时",
+        "link": "https://36kr.com/p/3711294378930306?f=rss",
+        "summary": "2026年AI领域热度高涨，国内外应用加速。案例征集活动旨在寻找AI技术在实际场景中成功渗透与落地的优秀范例。",
+        "comment": "案例征集年年有，真能落地有几个？别又是PPT上的最佳场景，现实里的最佳亏损。",
+        "image": "https://img.36krcdn.com/hsossms/20260122/v2_37a1f2ff60b941f29e9eef6d1447fd07@5889148_oswg6453oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1"
+      },
+      {
+        "category": "科技",
+        "tag": "行业动态",
+        "title": "早报：小米新机跑分曝光，发改委设定AI产业规模目标",
+        "link": "https://www.ifanr.com/1657228?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "小米新手机跑分或登顶性能榜；发改委数据显示去年AI核心产业规模超1.2万亿元，并设定“十五五”末突破10万亿目标。",
+        "comment": "跑分没输过，体验没赢过，这套路看腻了。AI产业目标宏大，但愿别又是新一轮的泡沫狂欢。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "微软、谷歌、亚马逊称Claude仍向非国防客户开放",
+        "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+        "summary": "尽管Anthropic与美国国防部的合作破裂，但微软、谷歌和亚马逊表示，通过其平台提供的Claude模型仍对非国防客户保持可用。",
+        "comment": "军方不要的，民用市场抢着要。这算不算另一种形式的“军转民”成功案例？",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "Anthropic的Claude两周内在火狐浏览器中发现22个漏洞",
+        "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+        "summary": "在与Mozilla的安全合作中，Anthropic的Claude模型在两周内发现了火狐浏览器的22个安全漏洞，其中14个为高危级别。",
+        "comment": "AI找漏洞比人快，程序员饭碗危矣。不过，用AI找的漏洞，会不会也只有AI才能利用？",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "Anthropic五角大楼合约破裂，为追逐政府合同的初创公司敲响警钟",
+        "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+        "summary": "因在AI模型控制权上无法达成一致，五角大楼将Anthropic列为供应链风险，其2亿美元合同告吹。此事为初创公司追逐政府合同提供了警示。",
+        "comment": "想赚政府的钱，就得听政府的话。既要技术自主，又要拿军方订单，AI公司的道德困境现实上演。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "Anthropic与五角大楼的对决，SaaS寒冬与竞争的价值",
+        "link": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+        "summary": "探讨Anthropic与五角大楼合同破裂的警示、当前SaaS行业面临的寒冬，以及市场竞争对行业发展的积极意义。",
+        "comment": "跟军方谈崩是警示，SaaS遇冷是现实。竞争是好事？那得先活下来才有资格谈。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "Claude消费者增长势头强劲，未受五角大楼合约失败影响",
+        "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+        "summary": "在与五角大楼的交易失败后，Claude应用的消费者增长势头依然强劲，其新增安装量和日活跃用户数已超过ChatGPT。",
+        "comment": "丢了军方订单，却赢了民心市场。看来“不作恶”的人设，在C端比在B端更值钱。",
+        "image": ""
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏资讯",
+        "title": "IGN评选皮克斯最佳电影排名",
+        "link": "https://www.ign.com/articles/best-ranking-pixar-movies",
+        "summary": "随着新片上映，IGN重新对皮克斯电影进行了排名盘点。",
+        "comment": "影评和游戏新闻放一起，IGN是找不到选题了吗？",
+        "image": "https://assets-prd.ignimgs.com/2022/03/28/36190303pixar-blogrolledit2-1648234304315-1648499015772.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏资讯",
+        "title": "《荆棘与玫瑰的庭院》第六、七部已开启预购",
+        "link": "https://www.ign.com/articles/a-court-of-thorns-and-roses-book-six-and-seven-preorders",
+        "summary": "该系列小说新作已在亚马逊开启预购，并享有折扣。",
+        "comment": "奇幻小说新闻也来凑数，游戏编辑今天在摸鱼？",
+        "image": "https://assets-prd.ignimgs.com/2026/03/06/acotar-preorders-1772838387429.png"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏评测",
+        "title": "《杀戮尖塔2》抢先体验版初步评测",
+        "link": "https://www.ign.com/articles/slay-the-spire-2-review-early-access",
+        "summary": "评测认为其无愧续作之名，尽管开局阶段与初代极为相似。",
+        "comment": "经典配方，熟悉的味道，粉丝的钱包准备好了吗？",
+        "image": "https://assets-prd.ignimgs.com/2026/03/06/slaythespire2-earlyaccessreview-blogroll-1772836878749.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "硬件",
+        "title": "V社坚称Steam Machine将于2026年推出，但内存与存储短缺仍是挑战",
+        "link": "https://www.ign.com/articles/valve-stands-firm-the-steam-machine-will-launch-in-2026-memory-and-storage-shortages-still-challenging-updated",
+        "summary": "V社澄清其新硬件（Steam Machine等）目标仍是2026年上市，但承认供应链问题可能导致进一步延期。",
+        "comment": "“目标2026”，这话术听着就像“下次一定”。",
+        "image": "https://assets-prd.ignimgs.com/2025/11/11/steammachine-handson-blogroll-1762902417350.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "硬件",
+        "title": "45英寸LG UltraGear 5K2K OLED电竞显示器直降600美元",
+        "link": "https://www.ign.com/articles/lg-ultragear-45gx950a-5k2k-oled-gaming-monitor-deal-lg-outlet",
+        "summary": "全球首款5K2K OLED电竞显示器现正大幅优惠。",
+        "comment": "价格降了，但你的钱包和桌面空间准备好了吗？",
+        "image": "https://assets-prd.ignimgs.com/2026/03/06/lg4552k2k-1772828890494.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏促销",
+        "title": "Green Man Gaming推出高折扣本地合作游戏捆绑包",
+        "link": "https://www.gamespot.com/articles/green-man-gaming-better-together-bundle/1100-6538618/?ftag=CAD-01-10abi2f",
+        "summary": "该捆绑包包含多款本地合作游戏，以大幅折扣致敬“沙发合作”游戏体验。",
+        "comment": "捆绑包是好，但首先，你得有个愿意陪你打游戏的朋友。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1871/18710961/4662622-cq2_title.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏攻略",
+        "title": "《马拉松》游戏“数据重建”任务指南",
+        "link": "https://www.gamespot.com/articles/data-reconstruction-quest-guide-in-marathon/1100-6538653/?ftag=CAD-01-10abi2f",
+        "summary": "指南介绍了游戏初期来自CyberAcme的“数据重建”等跑腿任务的完成方法。",
+        "comment": "经典“快递模拟器”环节，每个网游都逃不过。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4662898-ss_2c6cd7296eea42d71cf6ca061adf3.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "硬件",
+        "title": "V社称Steam Machine仍确定于2026年发布",
+        "link": "https://www.gamespot.com/articles/steam-machines-2026-release-doesnt-sound-very-certain-anymore/1100-6538651/?ftag=CAD-01-10abi2f",
+        "summary": "尽管存在供应链挑战，Valve再次确认其Steam Machine硬件仍计划在2026年推出。",
+        "comment": "同样的新闻，两家媒体报，V社这饼画得人尽皆知了。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4662894-steammachine.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏前瞻",
+        "title": "《最终幻想7：重制版》第三部将飞向天空并造访五台",
+        "link": "https://www.gamespot.com/articles/final-fantasy-7-remake-part-3-will-take-to-the-skies-visit-wutai/1100-6538648/?ftag=CAD-01-10abi2f",
+        "summary": "导演透露，终结重制版三部曲的第三部作品将包含飞天场景和五台地区。",
+        "comment": "第三部？先把第二部玩通再说吧，这工程跨度堪比现实造楼。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4662888-finalfantasyviirebirthaerith.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "游戏攻略",
+        "title": "《马拉松》游戏中如何解锁各派系",
+        "link": "https://www.gamespot.com/articles/how-to-unlock-each-marathon-faction/1100-6538607/?ftag=CAD-01-10abi2f",
+        "summary": "攻略详解了游戏中六个提供独特升级和合约的派系的具体解锁方法。",
+        "comment": "“选择你的阵营”——游戏永恒的主题，也是纠结的开始。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4662274-4cb1b7eddb051a59d11adc23806d5436.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "国际冲突",
+        "title": "伊朗冲突致空域关闭，全球航班路线被迫压缩",
+        "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
+        "summary": "阿塞拜疆遭无人机袭击，叠加海湾地区局势动荡，导致航空公司可选择的飞行路线进一步收窄。",
+        "comment": "天空也成了战场，航空公司绕飞成本又要涨了。",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e387/live/766dbec0-195e-11f1-9a35-7db562c1d2fd.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "军事科技",
+        "title": "乌克兰战场部署武装机器人对抗俄军",
+        "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
+        "summary": "乌克兰已启动一项计划，在战场上部署武装机器人以对抗俄罗斯军队。",
+        "comment": "科幻片照进现实，只是代价是血淋淋的。",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3c/live/5890fa10-18a6-11f1-801d-ed3cff6bf876.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "中东局势",
+        "title": "以色列空袭贝鲁特，撤离警告引发恐慌性大堵车",
+        "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
+        "summary": "以色列加强对黎巴嫩的空袭，前所未有的撤离警告导致真主党据点出现大规模交通拥堵。",
+        "comment": "警告比导弹先到，是仁慈还是更精准的打击前奏？",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a57e/live/46bb1f70-18bd-11f1-b048-c9424b2cf5fd.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "地区冲突",
+        "title": "尼日利亚再遭袭击，议员称“大规模”人员被杀",
+        "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
+        "summary": "疑似伊斯兰武装分子控制村庄两天后，被军队和空袭驱逐，据称造成大量人员伤亡。",
+        "comment": "悲剧已成常态，国际新闻版面都快挤不下了。",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2a/live/65fc4b90-1974-11f1-801d-ed3cff6bf876.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "国际关系",
+        "title": "美国与委内瑞拉同意在马杜罗被捕后恢复外交关系",
+        "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国宣布在扣押马杜罗及其妻子后，双方将共同努力促进稳定，并恢复外交关系。",
+        "comment": "抓了人再谈合作，这外交手腕够硬核。",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3937/live/9ac9d510-192c-11f1-b048-c9424b2cf5fd.jpg"
+      },
+      {
+        "category": "AI",
+        "tag": "大模型",
+        "title": "OpenAI曾禁止军事用途，五角大楼仍通过微软测试其模型",
+        "link": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+        "summary": "消息称，在OpenAI解除军事应用禁令前，美国国防部已通过微软版本测试其技术，暴露了AI伦理准则与商业现实间的巨大鸿沟。",
+        "comment": "嘴上都是主义，心里全是生意。AI公司的道德护栏，在五角大楼的支票面前不堪一击。",
+        "image": "https://media.wired.com/photos/69a887d2900eb391be83a12d/master/pass/Model-Behavior-AI-Companies-Cant-Negotiate-With-Pentagon-Business.jpg"
+      }
+    ]
+  },
   "2026-03-06": {
     "week": "周五",
     "articles": [
@@ -1337,107 +1576,6 @@
         "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
         "summary": "受 Anthropic 与美国五角大楼之间紧张谈判及争议的舆论推动，AI 聊天机器人 Claude 的公众关注度激增，其移动端应用近期成功攀升至美国 App Store 下载榜第二位。",
         "comment": "被五角大楼“嫌弃”反倒成了最好的防伪标志和免费广告。Claude 这波黑红流量吃得是真香。"
-      }
-    ]
-  },
-  "2026-02-28": {
-    "week": "周六",
-    "articles": [
-      {
-        "category": "科技",
-        "tag": "自动驾驶",
-        "title": "特斯拉在阿布扎比完成无人驾驶实测",
-        "link": "https://36kr.com/p/3701306699017862?f=rss",
-        "summary": "阿布扎比综合交通中心宣布，在监管机构监督下，特斯拉已完成最新无人驾驶技术在当地的道路测试。此举旨在阿联酋框架内推进出行革新，建立先进的自动驾驶技术体系。",
-        "comment": "特斯拉的FSD入华还没着落，倒是先在沙漠里跑起来了。"
-      },
-      {
-        "category": "科技",
-        "tag": "内容生态",
-        "title": "抖音上线长图文功能，寻求流量外的价值沉淀",
-        "link": "https://36kr.com/p/3700444303814536?f=rss",
-        "summary": "抖音向创作者开放深度长文入口并提供流量扶持。在深耕短视频十年后，抖音试图打破“短平快”逻辑，通过长图文寻求更长久的内容价值，转型逻辑引发行业关注。",
-        "comment": "宇宙的尽头是公众号？抖音这是想把知乎和小红书的活儿也全干了。"
-      },
-      {
-        "category": "科技",
-        "tag": "人工智能",
-        "title": "谷歌版“AI手机”战略深度解析",
-        "link": "https://www.ifanr.com/1655996?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "深度剖析谷歌在安卓生态中部署AI手机的策略。作为移动端统治者，谷歌正试图通过硬件与AI的深度融合，应对新技术更迭带来的挑战，重新定义智能手机形态。",
-        "comment": "谷歌：只要我AI加得够多，安卓就永远不会过时。"
-      },
-      {
-        "category": "科技",
-        "tag": "消费电子",
-        "title": "苹果下周发新品，OPPO新折叠屏技术曝光",
-        "link": "https://www.ifanr.com/1656035?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果预计下周一发布2026年首款新品；OPPO Find N6折叠屏被爆折痕处理达到行业领先水平。此外，《原神》因AI训练条款变动引发用户关注。",
-        "comment": "折痕看不见了，但钱包的伤痕依旧清晰可见。"
-      },
-      {
-        "category": "科技",
-        "tag": "大模型",
-        "title": "马斯克抨击OpenAI安全性，辩称Grok更靠谱",
-        "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
-        "summary": "在针对OpenAI的诉讼证词中，马斯克吹捧xAI的安全性优于ChatGPT。然而尴尬的是，其旗下Grok模型近期正因生成大量非自愿性暴露图像而深陷争议。",
-        "comment": "老马的嘴，骗人的鬼。前脚吹安全，后脚Grok就开始生成“限制级内容”了。"
-      },
-      {
-        "category": "科技",
-        "tag": "人工智能",
-        "title": "Anthropic与美国国防部就军事AI产生分歧",
-        "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
-        "summary": "Anthropic与美国国防部在自主武器和监视领域的AI应用上发生冲突。这引发了关于国家安全、企业自主控制权以及谁该为军事AI设定规则的深度博弈。",
-        "comment": "当AI巨头开始对五角大楼说“不”，好戏才刚刚开始。"
-      },
-      {
-        "category": "科技",
-        "tag": "大模型",
-        "title": "ChatGPT周活达9亿，OpenAI再获巨额融资",
-        "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-        "summary": "OpenAI宣布ChatGPT周活跃用户数已达9亿，并同时完成了高达1100亿美元的私人融资。这笔巨额资金将用于支持其在通用人工智能领域的持续扩张。",
-        "comment": "9亿周活和1100亿美金，OpenAI已经活成了AI界的“美联储”。"
-      },
-      {
-        "category": "数码",
-        "tag": "AI 视频",
-        "title": "Nano Banana 2 正式发布：画质与生成速度的双重进化",
-        "link": "https://www.ifanr.com/1655944?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI 视频生成工具 Nano Banana 2 迎来大版本更新。新版本通过技术架构优化，成功打破了生成速度与画面质量之间的“不可能三角”，在保证高画质输出的同时大幅缩短生成时间，为内容创作者提供更高效的工具支持。",
-        "comment": "以前生成视频是“炼丹”，现在终于像点正经生产力工具的样子了。"
-      },
-      {
-        "category": "数码",
-        "tag": "人工智能",
-        "title": "深度解析谷歌 AI 手机策略：Android 统治者的反击战",
-        "link": "https://www.ifanr.com/1655996?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "深度剖析谷歌在 AI 手机领域的布局，将其比作“谷歌版豆包手机”。文章探讨了谷歌如何通过原生大模型深度整合硬件，试图在移动互联网向 AI 时代转型的过程中，通过软硬结合守住 Android 系统的统治地位。",
-        "comment": "说到底，就是想让 AI 像长在手机里一样，顺便让你多续几份订阅费。"
-      },
-      {
-        "category": "数码",
-        "tag": "行业早报",
-        "title": "爱范儿科技早报：苹果下周发新品，OPPO 折叠屏抗衡物理法则",
-        "link": "https://www.ifanr.com/1656035?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "今日要点汇总：苹果下周一将发布 2026 首款新品并推出官方测速工具；OPPO Find N6 实现近乎无痕的屏幕表现；IBM 谈 AI 现代化改造；《原神》修改用户服务条款，移除涉及语音数据训练 AI 的争议项。",
-        "comment": "苹果发布 2026 新品？这是穿越了还是发布计划表终于排到后年了？"
-      },
-      {
-        "category": "AI",
-        "tag": "行业动态",
-        "title": "马斯克证词猛烈抨击OpenAI，称“没人因为Grok自杀”",
-        "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
-        "summary": "在针对OpenAI的诉讼证词中，马斯克通过贬低竞争对手来吹捧xAI的安全性，声称Grok不会像其他AI那样引发极端负面事件。然而讽刺的是，Grok随后因在X平台上泛滥非自愿裸照而深陷舆论漩涡。",
-        "comment": "确实没人因Grok自杀，但不少人因Grok的一键生成“脱衣”照想报警。老马的安全标准真是灵活。"
-      },
-      {
-        "category": "AI",
-        "tag": "大模型",
-        "title": "ChatGPT周活用户突破9亿，OpenAI再获1100亿美元融资",
-        "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-        "summary": "OpenAI官方宣布其周活跃用户数已达9亿里程碑。在用户量激增的同时，公司还披露完成了高达1100亿美元的巨额私人融资，进一步巩固了其在生成式人工智能领域的统治地位。",
-        "comment": "周活九亿、融资千亿，OpenAI正用行动解释什么叫“钞能力”才是第一生产力。"
       }
     ]
   }
