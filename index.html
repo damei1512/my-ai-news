@@ -101,6 +101,7 @@
             text-shadow: 0 2px 10px rgba(0,0,0,0.5);
             -webkit-text-fill-color: #fff;
             background: none;
+            flex-shrink: 0;
         }
         
         .brand p {
@@ -123,8 +124,8 @@
         .brand-title-row {
             display: flex;
             align-items: center;
-            gap: 16px;
-            flex-wrap: wrap;
+            gap: 12px;
+            flex-wrap: nowrap;
         }
 
         .mini-player {
@@ -333,11 +334,13 @@
 
         @media (max-width: 640px) {
             .brand-title-row {
-                flex-wrap: wrap;
+                flex-wrap: nowrap;
                 gap: 8px;
             }
             .mini-player {
                 gap: 2px;
+                flex-shrink: 1;
+                min-width: 0;
             }
             .vinyl-icon {
                 width: 28px;
@@ -352,7 +355,11 @@
                 height: 16px;
             }
             .track-lyric-line {
-                width: 100%;
+                max-width: 80px;
+                flex-shrink: 0;
+            }
+            .lyric-text {
+                font-size: 12px;
             }
             .expanded-player {
                 width: calc(100vw - 32px);
@@ -1299,6 +1306,18 @@
 
             // 音频事件监听
             audioPlayer.addEventListener('ended', handleTrackEnd);
+            
+            // 尝试自动播放
+            setTimeout(() => {
+                audioPlayer.play().then(() => {
+                    isPlaying = true;
+                    document.getElementById('vinyl-icon').classList.add('playing');
+                    updateLyricDisplay();
+                }).catch(err => {
+                    // 浏览器阻止自动播放，等待用户交互
+                    console.log('自动播放被阻止，等待用户点击');
+                });
+            }, 500);
         }
 
         // 加载指定曲目
