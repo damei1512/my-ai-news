@@ -1307,17 +1307,30 @@
             // 音频事件监听
             audioPlayer.addEventListener('ended', handleTrackEnd);
             
-            // 尝试自动播放
+            // 尝试自动播放 - 0.5秒后第一次尝试
             setTimeout(() => {
-                audioPlayer.play().then(() => {
-                    isPlaying = true;
-                    document.getElementById('vinyl-icon').classList.add('playing');
-                    updateLyricDisplay();
-                }).catch(err => {
-                    // 浏览器阻止自动播放，等待用户交互
-                    console.log('自动播放被阻止，等待用户点击');
-                });
+                tryAutoPlay();
             }, 500);
+            
+            // 5秒后再次检查，如果还是暂停状态则再试一次
+            setTimeout(() => {
+                if (!isPlaying && audioPlayer.paused) {
+                    console.log('5秒后检测到未播放，再次尝试');
+                    tryAutoPlay();
+                }
+            }, 5000);
+        }
+        
+        // 尝试播放的封装函数
+        function tryAutoPlay() {
+            audioPlayer.play().then(() => {
+                isPlaying = true;
+                document.getElementById('vinyl-icon').classList.add('playing');
+                updateLyricDisplay();
+                console.log('自动播放成功');
+            }).catch(err => {
+                console.log('自动播放被阻止:', err.message);
+            });
         }
 
         // 加载指定曲目
