@@ -1307,29 +1307,56 @@
             // 音频事件监听
             audioPlayer.addEventListener('ended', handleTrackEnd);
             
-            // 尝试自动播放 - 0.5秒后第一次尝试
-            setTimeout(() => {
-                tryAutoPlay();
-            }, 500);
-            
-            // 5秒后再次检查，如果还是暂停状态则再试一次
-            setTimeout(() => {
-                if (!isPlaying && audioPlayer.paused) {
-                    console.log('5秒后检测到未播放，再次尝试');
-                    tryAutoPlay();
-                }
-            }, 5000);
+            // 尝试自动播放策略
+            attemptAutoPlay();
         }
         
-        // 尝试播放的封装函数
-        function tryAutoPlay() {
+        // 自动播放尝试策略
+        function attemptAutoPlay() {
+            // 策略1: 直接尝试播放
             audioPlayer.play().then(() => {
                 isPlaying = true;
                 document.getElementById('vinyl-icon').classList.add('playing');
                 updateLyricDisplay();
-                console.log('自动播放成功');
-            }).catch(err => {
-                console.log('自动播放被阻止:', err.message);
+                console.log('✅ 自动播放成功');
+            }).catch(() => {
+                console.log('⚠️ 直接播放被阻止，尝试静音播放');
+                
+                // 策略2: 尝试静音播放（某些浏览器允许）
+                audioPlayer.muted = true;
+                audioPlayer.play().then(() => {
+                    console.log('✅ 静音播放成功，3秒后恢复音量');
+                    setTimeout(() => {
+                        audioPlayer.muted = false;
+                        isPlaying = true;
+                        document.getElementById('vinyl-icon').classList.add('playing');
+                        updateLyricDisplay();
+                    }, 3000);
+                }).catch(() => {
+                    console.log('⚠️ 静音播放也被阻止，等待用户交互');
+                    audioPlayer.muted = false;
+                    
+                    // 策略3: 监听用户首次交互
+                    const userInteractionEvents = ['click', 'touchstart', 'keydown', 'scroll'];
+                    const startOnInteraction = () => {
+                        if (!isPlaying) {
+                            audioPlayer.play().then(() => {
+                                isPlaying = true;
+                                document.getElementById('vinyl-icon').classList.add('playing');
+                                updateLyricDisplay();
+                                console.log('✅ 用户交互后播放成功');
+                            }).catch(err => console.log('播放失败:', err));
+                        }
+                        // 移除所有监听器
+                        userInteractionEvents.forEach(event => {
+                            document.removeEventListener(event, startOnInteraction);
+                        });
+                    };
+                    
+                    userInteractionEvents.forEach(event => {
+                        document.addEventListener(event, startOnInteraction, { once: true });
+                    });
+                });
             });
         }
 
