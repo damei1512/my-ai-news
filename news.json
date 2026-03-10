@@ -1,4 +1,252 @@
 {
+  "2026-03-10": {
+    "week": "周二",
+    "articles": [
+      {
+        "category": "科技",
+        "tag": "行业动态",
+        "title": "氪星晚报：超算服务接入办公软件，WPS发布iPad原生Office，AI妇产科模型亮相",
+        "link": "https://36kr.com/p/3715472798527617?f=rss",
+        "summary": "国家超算互联网OpenClaw服务接入飞书、企业微信；WPS发布iPadOS首款原生桌面级Office应用；同时，一款名为“红房子・启元”的AI妇产科垂直大模型发布。",
+        "comment": "科技圈也开始搞“一条龙”服务了，从算力到办公再到垂直应用，卷得飞起。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "AI卫星",
+        "title": "AI卫星情报公司觅熵科技获千万元融资，曾提前披露中东美军动向",
+        "link": "https://36kr.com/p/3715205580058756?f=rss",
+        "summary": "地理空间情报分析公司觅熵科技完成超千万元pre-A轮融资。该公司专注于商业卫星遥感与AI融合，提供实时地理情报，曾提前披露中东美军动向。",
+        "comment": "天上的眼睛越来越“聪明”了，以后军事行动得先问问AI同不同意。",
+        "image": "https://img.36krcdn.com/hsossms/20260309/v2_eadc185058d148fc98cd2ee38dc7623b@5920579_oswg298772oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1"
+      },
+      {
+        "category": "科技",
+        "tag": "AI应用",
+        "title": "AI公司两周极限转型小龙虾业务，并获近亿元融资",
+        "link": "https://36kr.com/p/3714634245009800?f=rss",
+        "summary": "Nodesk AI团队在OpenClaw爆火后，仅用两周时间开发出新产品DeskClaw，从内部工具转向服务电商Agent业务，并在此过程中获得近亿元融资。",
+        "comment": "两周从AI到小龙虾，这转型速度比小龙虾上桌还快，资本是真饿了。",
+        "image": "https://img.36krcdn.com/hsossms/20260309/v2_3da0dae1b1dc40afab76cf96881d84fc@2057308263_oswg84347oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1"
+      },
+      {
+        "category": "科技",
+        "tag": "AI硬件",
+        "title": "前vivo产品经理宋紫薇创「薇光点亮」，获超亿元融资进军AI硬件",
+        "link": "https://36kr.com/p/3714480200085633?f=rss",
+        "summary": "前vivo明星产品经理宋紫薇创办的AI智能硬件公司「薇光点亮」，获红杉、蓝驰等机构超亿元融资，将打造以时尚AI Agent为核心的智能硬件产品矩阵。",
+        "comment": "手机圈大佬集体“下海”做AI硬件，是行业新蓝海，还是内卷新赛道？",
+        "image": "https://img.36krcdn.com/hsossms/20260309/v2_1ef5f927ec874c7d8cabbf84d27bda87@1199336245_oswg295495oswg1620oswg1080_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      },
+      {
+        "category": "科技",
+        "tag": "自动驾驶",
+        "title": "李泽湘、阿里押注的智能无人艇获最大笔融资，估值近20亿",
+        "link": "https://36kr.com/p/3711190979867011?f=rss",
+        "summary": "一家获李泽湘、阿里投资的智能无人艇公司拿下水面自动驾驶领域最大单笔融资，估值近20亿元。该领域因人力缺口和智能化程度低而潜力巨大。",
+        "comment": "陆上自动驾驶还没跑通，资本已经急着“下海”了，这波风口有点湿。",
+        "image": "https://img.36krcdn.com/hsossms/20260306/v2_a9234c54a5404ebfb8b73e38220b2fa7@6022551_oswg5103506oswg2730oswg1535_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1"
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "OpenAI和谷歌员工联名声援Anthropic，反对美国防部将其列为供应链风险",
+        "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+        "summary": "超过30名OpenAI和Google DeepMind员工签署声明，支持Anthropic起诉美国国防部，因后者将这家AI公司列为供应链风险。",
+        "comment": "AI巨头们开始抱团对抗监管了，这出戏比宫斗剧还精彩。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "AI编程",
+        "title": "Anthropic推出代码审查工具，应对AI生成代码洪流",
+        "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+        "summary": "Anthropic在Claude Code中推出Code Review工具，这是一个多智能体系统，可自动分析AI生成的代码、标记逻辑错误，帮助企业开发者管理激增的AI代码。",
+        "comment": "AI写的bug，还得靠另一个AI来抓，真是“我查我自己”。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "OpenAI收购Promptfoo以增强其AI智能体安全性",
+        "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+        "summary": "OpenAI收购Promptfoo，此举凸显了前沿AI实验室正急于证明其技术能在关键业务操作中安全使用。",
+        "comment": "一边疯狂进化，一边到处买“保险”，AI巨头的安全感也很匮乏嘛。",
+        "image": ""
+      },
+      {
+        "category": "科技",
+        "tag": "大模型",
+        "title": "Anthropic起诉美国国防部，反对其供应链风险认定",
+        "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+        "summary": "Anthropic本周一起诉美国国防部，因该机构将其列为供应链风险。诉状称国防部的行为是“前所未有且非法的”。",
+        "comment": "被政府贴上“风险”标签，Anthropic这波反击堪称AI界的“民告官”。",
+        "image": ""
+      },
+      {
+        "category": "游戏",
+        "tag": "硬件周边",
+        "title": "任天堂Switch专用512GB存储卡仅售39.99美元",
+        "link": "https://www.ign.com/articles/sandisk-micro-sdxc-memory-card-deal-for-nintendo-switch",
+        "summary": "闪迪512GB Micro SDXC存储卡特价促销，兼容Switch，但不兼容Switch 2。",
+        "comment": "Switch 2还没影，先清一波库存，这算盘打得真响。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/09/sandiskimagemate-1773088826623.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "硬件周边",
+        "title": "安克300W超大容量移动电源降价至125美元",
+        "link": "https://www.ign.com/articles/anker-prime-power-bank-deal-for-xbox-ally-x-from-woot",
+        "summary": "安克推出其最大、最强大且符合TSA规定的旅行尺寸移动电源，最大输出功率300W。",
+        "comment": "这电量，给掌机充电是杀鸡用牛刀，给笔记本续命才是正经事。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/09/ankerprimea110a-1773087782911.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "硬件周边",
+        "title": "LG防水便携音箱降价43%，现售79.99美元",
+        "link": "https://www.ign.com/articles/lg-xboom-grab-core-waterproof-portable-speaker-deal",
+        "summary": "LG xboom Grab Core防水便携音箱特价促销，音效由will.i.am调校。",
+        "comment": "明星调音？是噱头还是真本事，耳朵收货前先打个问号。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/09/lgxboomgrabcore-1773080916126.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "硬件周边",
+        "title": "闪铸AD5X：300美元内最佳多色3D打印机之一",
+        "link": "https://www.ign.com/articles/flashforge-ad5x-corexy-multi-color-3d-printer-deal-from-aliexpress",
+        "summary": "闪铸AD5X是一款高性价比多色3D打印机，采用集成多材料打印和稳定的CoreXY结构。",
+        "comment": "价格屠夫入场，但“最佳”之名，还得看打印质量和稳定性。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/02/flashforgead5x-1772481132349.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "行业动态",
+        "title": "Humble推出新慈善包，支持ESA基金会",
+        "link": "https://www.ign.com/articles/humble-launches-new-bundle-to-support-esa-foundation",
+        "summary": "Humble Bundle推出新慈善包，支持游戏行业多元化和包容性发展，IGN为独家媒体合作伙伴。",
+        "comment": "慈善是好事，但希望别成了厂商清库存的遮羞布。",
+        "image": "https://assets-prd.ignimgs.com/2025/08/08/mafiathumb-1754671935604.png"
+      },
+      {
+        "category": "游戏",
+        "tag": "影视联动",
+        "title": "《超级马里奥银河》电影终极预告片，耀西配音演员引热议",
+        "link": "https://www.gamespot.com/articles/final-direct-for-the-super-mario-galaxy-movie-has-a-shocking-reveal-of-yoshis-voice-actor/1100-6538677/?ftag=CAD-01-10abi2f",
+        "summary": "《超级马里奥银河》电影发布终极预告片及配音阵容，耀西的配音演员成为焦点。影片将于4月1日上映。",
+        "comment": "耀西终于要开口了？希望不是“Yoshi！”一声就完事。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4664149-thesupermariogalaxymovie%E2%80%93yoshifirstlook-0-1-38.jpeg"
+      },
+      {
+        "category": "游戏",
+        "tag": "新作公布",
+        "title": "哈林篮球队时隔二十年将再推篮球游戏",
+        "link": "https://www.gamespot.com/articles/harlem-globetrotters-are-getting-their-first-basketball-video-game-in-two-decades/1100-6538654/?ftag=CAD-01-10abi2f",
+        "summary": "标志性的哈林篮球队将推出近二十年来的首款篮球视频游戏，上一款游戏于2006年发行。",
+        "comment": "花式篮球游戏？希望别只是《NBA 2K》的换皮MOD。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4662915-superbasketballclassicsharlemglobetrotters.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "经典复刻",
+        "title": "《辛普森一家：横冲直撞》有望复活？制作人称“永不说永不”",
+        "link": "https://www.gamespot.com/articles/simpsons-hit-run-revival-never-say-never-producer-says/1100-6538676/?ftag=CAD-01-10abi2f",
+        "summary": "深受粉丝喜爱的2003年动作游戏《辛普森一家：横冲直撞》可能迎来重制或再版，制作人表示“永不说永不”。",
+        "comment": "经典IP的“永不说永不”，通常等于“等我们缺钱了再说”。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4664054-screenshot2026-03-09at2.29.14%E2%80%AFpm.png"
+      },
+      {
+        "category": "游戏",
+        "tag": "行业动态",
+        "title": "《战地6》大获成功后，EA仍裁减开发团队人员",
+        "link": "https://www.gamespot.com/articles/ea-reportedly-cuts-staff-at-battlefield-6-dev-after-games-massive-initial-success/1100-6538673/?ftag=CAD-01-10abi2f",
+        "summary": "尽管《战地6》打破了系列记录并成为2025年美国最畅销游戏，其开发团队仍未能避免EA的裁员潮。",
+        "comment": "EA传统艺能：游戏卖得好，员工被裁掉。资本永不眠。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4663896-battlefield6season2.jpg"
+      },
+      {
+        "category": "游戏",
+        "tag": "新作发售",
+        "title": "《怪物猎人 Stories 3》全球解锁时间表公布",
+        "link": "https://www.gamespot.com/articles/monster-hunter-stories-3-launch-schedule-reveals-exactly-when-it-unlocks-across-the-globe/1100-6538672/?ftag=CAD-01-10abi2f",
+        "summary": "《怪物猎人 Stories 3：扭曲的倒影》公布全球解锁时间，被视作今年缺乏宝可梦正统作时的最佳替代选择。",
+        "comment": "宝可梦代餐？这评价可太高了，小心捧杀。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4663894-mh-stories.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "国际政治",
+        "title": "伊朗新最高领袖莫杰塔巴·哈梅内伊是谁？",
+        "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
+        "summary": "56岁的莫杰塔巴·哈梅内伊长期保持低调，外界普遍预期他将延续其父亲的强硬路线政策。",
+        "comment": "子承父业，剧本早已写好，只是换个演员上台念稿。",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae4/live/262c84f0-1878-11f1-8f1d-d7bdb1ea156f.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "社会事件",
+        "title": "美国教师因卫生纸恶作剧引发致命车祸身亡",
+        "link": "https://www.bbc.com/news/articles/cdr24g1p3vpo?at_medium=RSS&at_campaign=rss",
+        "summary": "教师杰森·休斯在一场恶作剧中不幸身亡，其家人表示不希望涉事学生被起诉。",
+        "comment": "恶作剧的代价是生命，宽容的代价是纵容，这账怎么算都亏。",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8d5/live/5b5827f0-1be9-11f1-b830-cb1fa32e1d18.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "能源经济",
+        "title": "G7将采取“必要措施”支持能源供应",
+        "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+        "summary": "七国集团财长与国际能源署讨论稳定油价方案，此前油价已突破每桶100美元。",
+        "comment": "油价一涨就开会，口号喊得震天响，钱包该瘪还是瘪。",
+        "image": "https://ichef.bbci.co.uk/notes/standard/240/cpsprodpb/1fe2/live/7745ab60-1bd3-11f1-9120-a910fc22c6ac.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "军事政策",
+        "title": "克罗地亚恢复征兵，数百名青少年报到",
+        "link": "https://www.bbc.com/news/articles/c93j2l32lzgo?at_medium=RSS&at_campaign=rss",
+        "summary": "新兵训练内容涵盖传统军事技能到无人机操控、网络战攻防技术等现代科目。",
+        "comment": "从刺刀到键盘，战争形式在变，年轻人被送上战场的本质没变。",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbf/live/5b15c460-1bc0-11f1-801d-ed3cff6bf876.jpg"
+      },
+      {
+        "category": "时事",
+        "tag": "司法案件",
+        "title": "邦迪枪击案嫌犯申请禁制令，要求隐瞒家人身份",
+        "link": "https://www.bbc.com/news/articles/cy8lwnyj40eo?at_medium=RSS&at_campaign=rss",
+        "summary": "纳维德·阿克拉姆试图阻止媒体公布其母亲、姐姐和弟弟的详细信息。",
+        "comment": "自己作恶时不怕曝光，现在倒想起保护家人隐私了，双标玩得挺溜。",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/bb3200a0-1b86-11f1-9819-7b03ffb2517c.jpg"
+      },
+      {
+        "category": "AI",
+        "tag": "行业动态",
+        "title": "Anthropic警告：被列为供应链风险或致数十亿美元损失",
+        "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+        "summary": "AI初创公司Anthropic高管称，因被特朗普政府列为供应链风险，多家公司暂停了合作谈判，此举可能对其收入造成重大打击。",
+        "comment": "还没赚到钱，先被政策绊倒，AI独角兽的合规之路不好走。",
+        "image": "https://media.wired.com/photos/69af1b724c895b3ad54af4cd/master/pass/Anthropic-Claims-Business-Is-in-Peril-Business-2235057484.jpg"
+      },
+      {
+        "category": "AI",
+        "tag": "行业动态",
+        "title": "OpenAI与谷歌员工提交法庭之友简报，声援Anthropic",
+        "link": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+        "summary": "包括谷歌DeepMind首席科学家Jeff Dean在内的多位AI研究人员与工程师提交法庭之友简报，支持Anthropic对抗美国政府。",
+        "comment": "同行抱团取暖，科技巨头员工也怕城门失火殃及池鱼。",
+        "image": "https://media.wired.com/photos/69af06ccc120eecf3f401e44/master/pass/OpenAI-Google-Employees-Support-Anthropic-Business-2185274983.jpg"
+      },
+      {
+        "category": "AI",
+        "tag": "行业动态",
+        "title": "Anthropic起诉美国国防部，反对供应链风险定性",
+        "link": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
+        "summary": "Claude聊天机器人开发商Anthropic起诉美国国防部，指控特朗普政府将合同纠纷升级为联邦技术禁令是越权行为。",
+        "comment": "直接对簿公堂，这波操作很硬核，但官司成本恐怕也不低。",
+        "image": "https://media.wired.com/photos/69a77e0879e62d2329a1659f/master/pass/Anthropic-Sues-DOD-Business-2261514586.jpg"
+      }
+    ]
+  },
   "2026-03-09": {
     "week": "周一",
     "articles": [
@@ -1734,245 +1982,6 @@
         "link": "",
         "summary": "多家国内AI公司宣布大幅下调API调用价格，行业陷入激烈价格竞争，引发对技术价值与商业可持续性的思考。",
         "comment": "AI大模型开始“白菜价”，技术内卷还是普惠前奏？",
-        "image": ""
-      }
-    ]
-  },
-  "2026-03-03": {
-    "week": "周二",
-    "articles": [
-      {
-        "category": "科技",
-        "tag": "智能制造",
-        "title": "小米机器人进入汽车工厂实习，计划5年内大规模应用",
-        "link": "https://36kr.com/p/3706462657245318?f=rss",
-        "summary": "雷军表示小米人形机器人已在汽车工厂“实习”，未来5年将有大批机器人进厂。此外，亚马逊阿联酋数据中心遭撞击起火，中欧航线票价因国际局势出现暴涨。",
-        "comment": "机器人都要进厂打工了，打工人还没危机感？只希望它们别像小米手机早期那样容易发烫。",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "卫星网络",
-        "title": "马斯克称二代星链将供5G网速，智元机器人成立新公司",
-        "link": "https://36kr.com/p/3705604996952453?f=rss",
-        "summary": "马斯克预告第二代星链卫星将提供5G速太空互联网。智元机器人在安徽成立新公司，卢伟冰透露小米今年将发布全新机器人产品，AI基建与硬件竞赛持续升温。",
-        "comment": "马斯克要把5G搬到天上，国内运营商还在钻研套餐，这波属于降维打击了。",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "智能手机",
-        "title": "苹果发布iPhone 17e，vivo X300 Ultra首秀双2亿镜头",
-        "link": "https://www.ifanr.com/1656500?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果发布iPhone 17e，4499元起售并支持eSIM；vivo X300 Ultra展示双2亿像素三摄系统。大模型厂商MiniMax公布财报，营收增长但亏损扩大。",
-        "comment": "17e这价格是卖给情怀还是eSIM？至于MiniMax，亏损扩大似乎成了大模型的标配姿势。",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "人工智能",
-        "title": "OpenAI转型国家安防基建，各方对AI军事化合作存疑",
-        "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-        "summary": "随着OpenAI从消费级应用转向国家安全基础设施，其应对复杂政务的能力受质疑。目前AI巨头与美国政府在军事、国防层面的合作尚缺乏明确成熟的计划。",
-        "comment": "从聊骚机器人到战争工具，这转型路子够野，只是不知道写代码的愿不愿背这口锅。",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "大模型",
-        "title": "ChatGPT深陷争议风波，大量用户正迁往Claude",
-        "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
-        "summary": "受近期争议影响，不少ChatGPT忠实用户转投Anthropic旗下的Claude。相关指南详述了如何迁移工作流，Claude在理解力和安全性上正赢得口碑。",
-        "comment": "奥特曼再折腾下去，OpenAI就真成“友商搬运工”了。Claude：感谢同行衬托。",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "网络安全",
-        "title": "科技从业者请愿国防部，要求撤销对Anthropic的风险定性",
-        "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
-        "summary": "多名科技员工签署公开信，敦促美国国防部撤回将Anthropic列为“供应链风险”的决定。信中认为此类定性缺乏透明度，会损害AI行业的信任与协作。",
-        "comment": "官方认证“风险”，员工在线求情。这戏码告诉我们：在绝对安全面前，AI情怀不值钱。",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "创业公司",
-        "title": "夫妻档初创公司14.ai，旨在用AI全面取代人工客服",
-        "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-        "summary": "由夫妻共同创立的14.ai已开始为初创公司提供AI客服替代方案。该公司还通过自创消费品牌进行实测，试图探索AI在处理复杂客服任务时的上限。",
-        "comment": "客服岗位的终结者来了。夫妻同心，其利断金，主要是断了普通客服人员的生计。",
-        "image": ""
-      },
-      {
-        "category": "游戏",
-        "tag": "硬件周边",
-        "title": "两根2米长USB-C线缆仅售5.99美元",
-        "link": "https://www.ign.com/articles/best-iniu-usb-cable-deals-2026",
-        "summary": "IGN推荐了一款极具性价比的INIU线缆套装，包含两根6.6英尺长的USB Type-C数据线。该线缆适配Switch 2、Steam Deck、三星及iPhone等多种移动设备。",
-        "comment": "这种白菜价的耗材，买来也就是给我的Switch 2吃灰用的备件吧。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/02/iniuusbcables-1772495258605.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "游戏整机",
-        "title": "搭载RX 9070 XT的高性能整机限时促销",
-        "link": "https://www.ign.com/articles/cyberpowerpc-rx-9070-xt-gaming-pc-deal-at-best-buy-expiring-soon",
-        "summary": "Best Buy推出Cyberpowerpc游戏整机限时折扣，配置包含AMD Ryzen 7 7800X3D和Radeon RX 9070 XT显卡，售价降至1750美元。",
-        "comment": "1750刀买个9070 XT整机？未来的“空气卡”降价速度总是赶不上你的钱包缩水速度。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/02/cyberpowerpcphanteks-1772493228144.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "3D打印",
-        "title": "入门级3D打印机Adventure 5M仅售163美元",
-        "link": "https://www.ign.com/articles/flashforge-adventure-5m-3d-printer-deal-at-aliexpress",
-        "summary": "FlashForge Adventure 5M CoreXY 3D打印机在速卖通降至163美元且免运费。该设备被认为是目前最适合初学者上手的3D打印工具。",
-        "comment": "入门一时爽，调机火葬场，100多刀买个“大玩具”回家落灰的概率极高。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/02/flashforgeadventurer5m-1772490536955.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "惊悚影视",
-        "title": "《惊声尖叫 7》主创现身IGN粉丝盛典",
-        "link": "https://www.ign.com/articles/scream-7s-cast-explains-why-you-cant-fake-it-ign-fan-fest-2026",
-        "summary": "在IGN Fan Fest 2026上，《惊声尖叫 7》卡司谈论了在大银幕上呈现真实恐惧感的挑战，以及作为恐怖电影女主角在拍摄过程中的技术复杂性。",
-        "comment": "都拍到第七部了，唯一不假的大概只有这系列想继续圈钱的诚意了。",
-        "image": "https://assets-prd.ignimgs.com/2026/02/24/scream7-fanfest26-blogroll-1771975624272.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "经典美剧",
-        "title": "《实习医生风云》卡司讨论第10季重启",
-        "link": "https://www.ign.com/articles/scrubs-cast-talk-recapturing-the-magic-for-season-10-fan-fest-2026",
-        "summary": "该剧在2010年被取消，主演Zach Braff等人在IGN盛典上聚首，探讨如何为即将到来的第10季回归重塑当年的“魔法”。",
-        "comment": "别消费情怀了，第九季就已经把招牌砸了一半，见好就收才是美德。",
-        "image": "https://assets-prd.ignimgs.com/2026/02/24/scrubs-fanfest26-blogroll-1771975449867.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "经典电影",
-        "title": "《壮志凌云》40周年纪念4K蓝光版发布",
-        "link": "https://www.gamespot.com/articles/top-gun-40th-anniversary-limited-edition-4k-steelbook-blu-ray-buying-guide/1100-6538367/?ftag=CAD-01-10abi2f",
-        "summary": "为庆祝80年代动作大片《壮志凌云》上映40周年，官方将发布限量版4K Steelbook蓝光套装，包含精美金属包装盒及电影内外高清图集。",
-        "comment": "阿汤哥的不老秘诀：每过十年，就给影迷的钱包来一次精准轰炸。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4660360-topgun4oth.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "游戏折扣",
-        "title": "Humble推出精品CRPG游戏捆绑包",
-        "link": "https://www.gamespot.com/articles/new-pc-rpg-bundle-includes-rogue-trader-planescape-torment-and-more/1100-6538518/?ftag=CAD-01-10abi2f",
-        "summary": "Humble联合Owlcat等工作室推出CRPG礼包，涵盖《异域镇魂曲》、《博德之门2》及《行商浪人》等12款经典与新作。",
-        "comment": "建议改名“买了一辈子也玩不完”包，这些游戏能占满你三个退休后的假期。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4660267-crpgs.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "移动游戏",
-        "title": "《宝可梦Go》3月活动预告：庆祝30周年",
-        "link": "https://www.gamespot.com/articles/pokemon-go-events-raid-bosses-spotlight-hours-community-day/1100-6533384/?ftag=CAD-01-10abi2f",
-        "summary": "《宝可梦Go》开启新赛季，3月将举办一系列活动庆祝《宝可梦》系列诞生30周年，包括新的团队战头目、社群日及跨界联动。",
-        "comment": "既然都30周年了，任天堂什么时候能给全人类发个真宝可梦？",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15787979/4659936-4421419434-maxre.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "前沿科技",
-        "title": "科学家让实验室培育的脑细胞玩上电子游戏",
-        "link": "https://www.gamespot.com/articles/scientists-make-breakthrough-that-allows-lab-grown-brain-cells-to-play-a-sort-of-video-game/1100-6538517/?ftag=CAD-01-10abi2f",
-        "summary": "科学家取得重大突破，一组实验室培育的人类脑细胞在无感官输入的情况下，成功运行了一款基础视频游戏。这标志着神经科学研究的重要进步。",
-        "comment": "连培养皿里的细胞都在努力上分，而你还在为了过不去的关卡摔手柄。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4659928-metroidbrain.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "独立游戏",
-        "title": "18款高分平台跳跃游戏加入特惠包",
-        "link": "https://www.gamespot.com/articles/new-build-your-own-bundle-spotlights-18-critically-acclaimed-platformers/1100-6538516/?ftag=CAD-01-10abi2f",
-        "summary": "Gamespot推荐了最新的自选捆绑包，聚焦18款广受好评的平台跳跃类游戏，旨在帮助玩家通过各种精密操作充实其Steam库存。",
-        "comment": "键盘/手柄粉碎者自选集，买之前请先备好足够的速效救心丸。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1871/18710961/4659813-3dplatformerbundleheader.jpg"
-      },
-      {
-        "category": "AI",
-        "tag": "智能语音",
-        "title": "德意志电信联合ElevenLabs推出原生通话AI助手",
-        "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
-        "summary": "德意志电信与ElevenLabs合作，在德国电信网络中直接集成AI助手。用户无需安装任何APP，即可在通话中通过语音实时调用AI功能，标志着电信网络与大模型语音能力的深度融合。",
-        "comment": "以后接电话的可能不是骗子就是AI，反正都不是真人，这下连挂电话的心理负担都没了。",
-        "image": "https://media.wired.com/photos/69a60357f5e4bf87e63fb28e/master/pass/sec-telecom-2259493480.jpg"
-      },
-      {
-        "category": "AI",
-        "tag": "军事安全",
-        "title": "Anthropic反击美军方：将其列为供应链风险缺乏法律依据",
-        "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-        "summary": "在军事用途谈判破裂后，Anthropic被五角大楼贴上“供应链风险”标签。对此公司回击称该封杀令缺乏法律依据，此举在硅谷引发了对政府强制干预AI伦理约束的巨大担忧。",
-        "comment": "没谈拢就掀桌子，这剧情五角大楼演得真熟。在某些人眼里，不听话的AI就是风险。",
-        "image": "https://media.wired.com/photos/69a23b028618f79c55732aa9/master/pass/Anthropic-Supply-Chain-Risk-Business-2261589216.jpg"
-      },
-      {
-        "category": "AI",
-        "tag": "行业政策",
-        "title": "特朗普宣布禁止美国政府部门使用Anthropic产品",
-        "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-        "summary": "因Anthropic拒绝按照国防部要求取消其模型在军事用途上的限制，特朗普下达指令全面禁止政府使用该公司技术。这对主打安全伦理的AI独角兽造成了沉重打击。",
-        "comment": "不想当杀人工具就滚出白宫，在绝对力量面前，所谓的“安全宪章”脆弱得像张废纸。",
-        "image": "https://media.wired.com/photos/69a0a09c6c9d7076f06f28c6/master/pass/Pentagon-Goes-Nuclear-on-Anthropic-Business-2261852583.jpg"
-      },
-      {
-        "category": "AI",
-        "tag": "职场动态",
-        "title": "OpenAI开除一名利用内幕信息进行预测市场交易的员工",
-        "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-        "summary": "OpenAI开除了一名在预测市场进行内幕交易的员工。该员工利用掌握的未公开项目进展在Polymarket等平台下注获利，暴露了硅谷大厂员工利用信息差进行博彩的新趋势。",
-        "comment": "最准的发布预测果然都在内部群里。员工忙着下注，这下不仅输了职位，还赢了官司风险。",
-        "image": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/master/pass/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg"
-      },
-      {
-        "category": "热榜",
-        "tag": "数码",
-        "title": "iPhone 17e发布：国补后3999元起支持eSIM",
-        "link": "",
-        "summary": "苹果正式发布新款iPhone 17e，凭借国家补贴价格直接下探至3999元。该机型在国内推广eSIM技术引发热议，低价策略与新通讯方式的结合成为讨论焦点。",
-        "comment": "3999的果子确实香，但eSIM这只“螃蟹”，国内用户真的能吃顺口吗？",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "科技",
-        "title": "MWC 2026：vivo X300 Ultra亮相AI视频新赛场",
-        "link": "",
-        "summary": "在MWC 2026上，vivo发布了年度旗舰X300 Ultra。该机型主打深度AI视频录制能力，标志着手机影像竞争已从静态样张全面进化到AI动态视频时代。",
-        "comment": "蓝厂在影像上一路狂奔，这是打算把手机做成能打电话的专业电影机啊！",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "AI硬件",
-        "title": "AI眼镜大战：阿里通义千问跨界入局",
-        "link": "",
-        "summary": "阿里宣布通义千问进军智能眼镜硬件领域，通过大模型赋能可穿戴设备。互联网巨头集体下场，预示着AI眼镜将成为手机之后的下一个流量入口。",
-        "comment": "大厂纷纷开始“遮脸”，AI眼镜这块饼，看来以后大家都要人手一副了。",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "游戏",
-        "title": "GTA6定档：2026年5月正式开启预售",
-        "link": "",
-        "summary": "R星终于官宣《GTA6》的预售时间表。作为全球最具影响力的游戏续作，该消息瞬间点燃了游戏圈，社交平台被“有生之年”和“年度神作预定”刷屏。",
-        "comment": "只要活得够久，总能等到R星交卷。建议各位从现在开始攒钱，顺便保重身体。",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "AI大模型",
-        "title": "国产AI大模型降价潮：价格战进入白热化",
-        "link": "",
-        "summary": "国内主流AI大模型厂商近期纷纷大幅下调API调用价格，甚至开启免费模式。激烈的价格战折射出行业竞争已从算力比拼转向市场份额的存量争夺。",
-        "comment": "卷完参数卷价格，大模型快被卷成“大白菜”了，这波羊毛开发者不薅白不薅！",
         "image": ""
       }
     ]
