@@ -1178,7 +1178,7 @@
 
     <script>
         let archiveData = {};
-        let currentCategory = 'all';
+        let currentCategory = '科技&数码';
         let searchQuery = '';
 
         const categoryClasses = {
@@ -1188,16 +1188,34 @@
         };
         
         const categoryDisplayNames = {
+            // 新分类
             '科技&数码': '科技&数码',
             '游戏+影视': '游戏+影视',
-            '时事&热点': '时事&热点'
+            '时事&热点': '时事&热点',
+            // 旧分类映射（兼容历史数据）
+            '科技': '科技&数码',
+            '数码': '科技&数码',
+            'AI': '科技&数码',
+            'AI Agent': '科技&数码',
+            '游戏': '游戏+影视',
+            '影视': '游戏+影视',
+            '时事': '时事&热点',
+            '热榜': '时事&热点'
         };
 
-        // 分类图标 (3大分类)
+        // 分类图标 (3大分类 + 兼容旧分类)
         const categoryIcons = {
             '科技&数码': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="14" rx="2" fill="currentColor" opacity="0.9"/><rect x="8" y="18" width="8" height="3" rx="1" fill="currentColor"/></svg>',
             '游戏+影视': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="10" rx="5" fill="currentColor" opacity="0.9"/><rect x="6" y="11" width="4" height="2" rx="1" fill="var(--bg-card)"/><circle cx="15" cy="12" r="1" fill="var(--bg-card)"/><circle cx="18" cy="12" r="1" fill="var(--bg-card)"/></svg>',
-            '时事&热点': '<svg class="tag-icon" viewBox="0 0 24 24"><path d="M12 2c0 0-2 4-2 7s2 5 2 5 2-2 2-5-2-7-2-7z" fill="currentColor"/><path d="M7 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S7 7 7 7z" fill="currentColor" opacity="0.7"/><path d="M17 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S17 7 17 7z" fill="currentColor" opacity="0.7"/></svg>'
+            '时事&热点': '<svg class="tag-icon" viewBox="0 0 24 24"><path d="M12 2c0 0-2 4-2 7s2 5 2 5 2-2 2-5-2-7-2-7z" fill="currentColor"/><path d="M7 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S7 7 7 7z" fill="currentColor" opacity="0.7"/><path d="M17 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S17 7 17 7z" fill="currentColor" opacity="0.7"/></svg>',
+            // 兼容旧分类
+            '科技': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="14" rx="2" fill="currentColor" opacity="0.9"/><rect x="8" y="18" width="8" height="3" rx="1" fill="currentColor"/></svg>',
+            '数码': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="6" y="2" width="12" height="20" rx="2" fill="currentColor" opacity="0.9"/><circle cx="12" cy="18" r="1.5" fill="var(--bg-card)"/></svg>',
+            'AI': '<svg class="tag-icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor" opacity="0.9"/><circle cx="12" cy="12" r="3" fill="var(--bg-card)"/></svg>',
+            'AI Agent': '<svg class="tag-icon" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4" fill="currentColor"/><path d="M12 14c-4 0-7 2-7 4v2h14v-2c0-2-3-4-7-4z" fill="currentColor"/></svg>',
+            '游戏': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="10" rx="5" fill="currentColor" opacity="0.9"/><rect x="6" y="11" width="4" height="2" rx="1" fill="var(--bg-card)"/><circle cx="15" cy="12" r="1" fill="var(--bg-card)"/><circle cx="18" cy="12" r="1" fill="var(--bg-card)"/></svg>',
+            '时事': '<svg class="tag-icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="currentColor" opacity="0.9"/><path d="M12 6v6l4 3" stroke="var(--bg-card)" stroke-width="2" stroke-linecap="round" fill="none"/></svg>',
+            '热榜': '<svg class="tag-icon" viewBox="0 0 24 24"><path d="M12 2c0 0-2 4-2 7s2 5 2 5 2-2 2-5-2-7-2-7z" fill="currentColor"/><path d="M7 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S7 7 7 7z" fill="currentColor" opacity="0.7"/><path d="M17 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S17 7 17 7z" fill="currentColor" opacity="0.7"/></svg>'
         };
 
         // 农历数据（简化版，2024-2026年）
@@ -1610,36 +1628,11 @@
                 // 按日期排序（最新的在前）
                 allArticles.sort((a, b) => b._date.localeCompare(a._date));
 
-                // 按分类筛选
-                let filtered = allArticles;
-                if (currentCategory === 'all') {
-                    // 全部：排除热榜（热榜独立于科技/数码/游戏）
-                    filtered = filtered.filter(item => {
-                        const cat = categoryDisplayNames[item.category] || item.category;
-                        return cat !== '热榜';
-                    });
-                } else if (currentCategory === '热榜') {
-                    // 热榜：显示最近7天的内容
-                    const today = new Date();
-                    const sevenDaysAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
-                    
-                    filtered = filtered.filter(item => {
-                        const cat = categoryDisplayNames[item.category] || item.category;
-                        if (cat !== '热榜') return false;
-                        // 解析日期 YYYY-MM-DD
-                        const parts = item._date.split('-');
-                        const itemDate = new Date(parts[0], parts[1] - 1, parts[2]);
-                        return itemDate >= sevenDaysAgo;
-                    });
-                    
-                    // 热榜按日期倒序排列（最新的在前面）
-                    filtered.sort((a, b) => b._date.localeCompare(a._date));
-                } else {
-                    filtered = filtered.filter(item => {
-                        const cat = categoryDisplayNames[item.category] || item.category;
-                        return cat === currentCategory;
-                    });
-                }
+                // 按分类筛选（3大分类）
+                let filtered = allArticles.filter(item => {
+                    const cat = categoryDisplayNames[item.category] || item.category;
+                    return cat === currentCategory;
+                });
 
                 // 再按搜索筛选
                 if (searchQuery) {
