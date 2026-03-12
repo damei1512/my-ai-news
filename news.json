@@ -3,31 +3,193 @@
     "week": "周四",
     "articles": [
       {
+        "category": "科技&数码",
+        "tag": "大公司",
+        "title": "中复神鹰碳纤维新品市场推广周期长，股价异动引关注",
+        "link": "https://36kr.com/p/3719908204246665?f=rss",
+        "summary": "中复神鹰发布公告，其SYT80碳纤维新品虽已实现百吨级制备并开始市场推广，但作为原材料，大规模销售仍需经历漫长的市场认证周期，存在不确定性。",
+        "comment": "新材料从实验室到市场，路还长着呢，别急着炒概念。",
+        "image": ""
+      },
+      {
+        "category": "科技&数码",
+        "tag": "太空计算",
+        "title": "「中科天算」获亿元融资，计划2030年建成万卡级太空超算中心",
+        "link": "https://36kr.com/p/3719746809492865?f=rss",
+        "summary": "天基智能计算公司中科天算完成亿元天使+轮融资，资金将用于推进“天算计划”，加速太空超算节点在轨验证与算力基础设施升级。",
+        "comment": "把超算中心建到太空，这饼画得比天还高。",
+        "image": "https://img.36krcdn.com/hsossms/20260312/v2_e70550c5bba34a7d9b1113ff5fcac76c@577536001_oswg726026oswg844oswg563_img_000?x-oss-process=image/format,jpg/interlace,1"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "海洋科技",
+        "title": "中科院博士创业，声为科技用“性价比”声纳掘金海洋信息化",
+        "link": "https://36kr.com/p/3719744956626307?f=rss",
+        "summary": "海洋信息系统企业声为科技获近千万元天使+轮融资，由中科院声学所博士创立，专注于高性价比水声技术研发与海洋信息化解决方案。",
+        "comment": "技术大牛下海创业，蓝海市场也得先学会“游泳”。",
+        "image": "https://img.36krcdn.com/hsossms/20260312/v2_c6079cb262e74958b9e4c1d6b9dc8bc9@577536001_oswg965237oswg1080oswg650_img_000?x-oss-process=image/format,jpg/interlace,1"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "卫星通信",
+        "title": "「宇迹航天」获千万元融资，研发低成本可信卫星通信终端",
+        "link": "https://36kr.com/p/3719734856299908?f=rss",
+        "summary": "宇迹航天完成逾千万元天使轮融资，专注于卫星通信终端研制，旨在解决复杂环境下的信号接入与抗干扰难题，为卫星互联网提供硬件支撑。",
+        "comment": "卫星互联网硬件赛道又添新兵，先活下来再说。",
+        "image": "https://img.36krcdn.com/hsossms/20260312/v2_8b02102c7d914db8a2937a116094735b@577536001_oswg55681oswg1049oswg535_img_000?x-oss-process=image/format,jpg/interlace,1"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "芯片",
+        "title": "追觅孵化芯片公司，一口气宣布五大芯片方向对标行业巨头",
+        "link": "https://36kr.com/p/3719316885304961?f=rss",
+        "summary": "追觅科技孵化的芯片公司“芯际穿越”宣布进军手机、自动驾驶、太空算力等五大芯片领域，其首款手机处理器“赤霄01”主打图形性能。",
+        "comment": "扫地机器人公司跨界造芯，步子迈得太大，小心闪着腰。",
+        "image": "https://img.36krcdn.com/hsossms/20260312/v2_1a94ceed931a4bce8d95dd78f22ae339@1199336245_oswg139394oswg963oswg1280_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI应用",
+        "title": "网友用大厂PUA话术调教AI，打了低分后AI“不敢摸鱼”",
+        "link": "https://www.ifanr.com/1657895?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "一篇趣味文章探讨如何用类似职场PUA的反馈机制“调教”AI助手，通过给予负面评价（如打3.25分）来促使AI更努力地工作。",
+        "comment": "人类劣根性完美移植，AI迟早得去看心理医生。",
+        "image": ""
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI预测",
+        "title": "谷歌利用旧新闻报告和AI预测山洪暴发",
+        "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+        "summary": "谷歌开发新方法，使用大语言模型将历史新闻报道等定性数据转化为定量数据，以解决水文数据稀缺问题，提升山洪预测能力。",
+        "comment": "从故纸堆里找答案，AI考古学也是门技术活。",
+        "image": ""
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI地图",
+        "title": "谷歌地图新增AI“问地图”功能及升级版沉浸式导航",
+        "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+        "summary": "谷歌为地图应用加入Gemini驱动的“问地图”功能，用户可进行自然语言交互；同时推出号称十年来最大更新的“沉浸式导航”。",
+        "comment": "地图卷完数据卷AI，导航软件快成聊天软件了。",
+        "image": ""
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI娱乐",
+        "title": "AI“演员”Tilly Norwood发布新歌，被评“史上最难听”",
+        "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+        "summary": "一位AI虚拟演员发布了一首鼓励其他AI演员坚持“人性”的歌曲，但因其空洞和令人难以共鸣的歌词被科技媒体批评为“听过最糟糕的歌”。",
+        "comment": "AI还没学会人类的情感，先学会了人类的尴尬。",
+        "image": ""
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI汽车",
+        "title": "福特推出AI助手，帮助车队管理者监测安全带使用情况",
+        "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+        "summary": "福特在Work Truck Week上推出Ford Pro AI助手，现已面向美国订阅用户开放，可利用车载传感数据智能分析驾驶员是否系好安全带。",
+        "comment": "AI从管代码到管安全，下一步是不是要管司机吃饭了？",
+        "image": ""
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI并购",
+        "title": "Zendesk收购智能客服初创公司Forethought",
+        "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+        "summary": "客户服务软件巨头Zendesk收购了早在2018年就赢得TechCrunch Battlefield的智能客服初创公司Forethought，后者在智能体（Agentic）客服领域布局超前。",
+        "comment": "老牌玩家收购前沿初创，补课还是抄近道？",
+        "image": ""
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI地图",
+        "title": "谷歌地图推出Gemini驱动的“问地图”新工具",
+        "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
+        "summary": "谷歌地图移动端今日起推出“问地图”功能，用户可直接向集成的Gemini AI提问关于地点的问题，甚至让其代为规划行程。",
+        "comment": "AI导游上线，路痴和话痨的福音？",
+        "image": "https://media.wired.com/photos/69b1db7c9fd417e67bc5b5ca/master/pass/Google-Launches-Gemini-Powered-Ask-Maps-in-Google-Maps-Gear-2262145010.jpg"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI法律",
+        "title": "Grammarly因AI“专家审阅”功能面临集体诉讼",
+        "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+        "summary": "Grammarly的“专家审阅”功能因在未经授权的情况下，将AI编辑建议伪装成来自真实作家和学者的意见而面临集体诉讼，该功能已于周三关闭。",
+        "comment": "AI冒充专家，这下玩脱了，法律铁拳教你做人。",
+        "image": "https://media.wired.com/photos/69b1c8b19fd417e67bc5b525/master/pass/031126-grammarly-AI-experts-1.jpg"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "大模型",
+        "title": "英伟达拟斥资260亿美元构建开放权重AI模型",
+        "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+        "summary": "文件显示，英伟达计划投入260亿美元巨资构建开放权重的AI模型，此举可能使其快速与OpenAI、Anthropic等公司在模型层面展开竞争。",
+        "comment": "卖铲子的亲自下场挖矿，这是要通吃的节奏。",
+        "image": "https://media.wired.com/photos/69af3f3792d66aac27c0e361/master/pass/AI-Lab-Nvidia-Goes-All-in-on-AI-Business.jpg"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI芯片",
+        "title": "Meta正开发四款新芯片，为其AI和推荐系统提供动力",
+        "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+        "summary": "Meta发布四款新的MTIA处理器，旨在为其AI和推荐系统提供算力，这是该公司在持续购买英伟达芯片的同时，构建自有AI硬件的最新尝试。",
+        "comment": "一边买老黄的卡，一边自己造卡，这算不算“卡”备无患？",
+        "image": "https://media.wired.com/photos/69b089a6573bdab1742c68bb/master/pass/MTIA-400_Blog_Hero.png"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "消费数码",
+        "title": "这款数字相框想用AI全息技术拉近你与未来的距离",
+        "link": "https://www.wired.com/story/looking-glass-musubi/",
+        "summary": "深耕3D显示近十年的Looking Glass公司推出Musubi，一款AI驱动的全息数字相框，旨在让用户的照片和视频以3D形式“活”起来。",
+        "comment": "全息相框？先问问你家电视墙同不同意。",
+        "image": "https://media.wired.com/photos/69b06dc54c5dd30e33d9fe71/master/pass/HLD-dog.jpg"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "AI地图",
+        "title": "谷歌地图为驾驶导航引入3D地图视图",
+        "link": "https://www.engadget.com/ai/google-maps-brings-a-3d-map-to-your-driving-directions-123000843.html?src=rss",
+        "summary": "继为Gmail等应用添加AI功能后，谷歌地图也为驾驶导航方向引入了新的3D地图视图，进一步提升视觉体验。",
+        "comment": "导航越来越花哨，只求别在岔路口让我分心。",
+        "image": ""
+      },
+      {
+        "category": "科技&数码",
+        "tag": "消费数码",
+        "title": "JBL发布两款新Live耳机，续航均达80小时",
+        "link": "https://www.engadget.com/audio/headphones/jbls-two-new-live-headphones-offer-80-hours-of-battery-each-120044416.html?src=rss",
+        "summary": "JBL在其现有Live产品线中新增Live 780NC（头戴式）和Live 680NC（贴耳式）两款耳机，均提供长达80小时的电池续航。",
+        "comment": "续航卷到80小时，是怕用户忘记充电器长什么样吗？",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/9dcfddc0-1bcc-11f1-bdbc-f67a1895bff2"
+      },
+      {
+        "category": "科技&数码",
+        "tag": "消费数码",
+        "title": "2026年最佳环保手机壳推荐",
+        "link": "https://www.engadget.com/computing/accessories/best-eco-friendly-phone-cases-150016494.html?src=rss",
+        "summary": "随着手机换机周期延长，保护壳需求增长。文章推荐了多款2026年兼具出色保护性和环保理念的手机壳产品。",
+        "comment": "手机壳都讲环保了，手机本身呢？",
+        "image": ""
+      },
+      {
+        "category": "科技&数码",
+        "tag": "自动驾驶",
+        "title": "获英伟达和Uber支持的Nuro在东京测试自动驾驶车辆",
+        "link": "https://www.engadget.com/transportation/nvidia--and-uber-backed-nuro-is-testing-autonomous-vehicles-in-tokyo-081200366.html?src=rss",
+        "summary": "美国自动驾驶初创公司Nuro，在获得英伟达、丰田和Uber等支持后，已开始在街道复杂的东京测试其自动驾驶车辆。",
+        "comment": "东京路况是自动驾驶的终极考场，祝你好运。",
+        "image": ""
+      },
+      {
         "category": "游戏+影视",
         "tag": "游戏",
-        "title": "《宝可梦：波可比亚》发售首周销量公布，开局强劲",
-        "link": "https://www.ign.com/articles/pokemon-pokopia-launch-sales-announced-confirming-its-off-to-a-strong-start",
-        "summary": "《宝可梦：波可比亚》在任天堂Switch 2平台发售，首周末销量达220万份，取得开门红。",
-        "comment": "宝可梦IP还是稳，新平台也挡不住粉丝掏钱。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/12/screenshot-2026-03-12-093028-1773307855497.png"
-      },
-      {
-        "category": "游戏+影视",
-        "tag": "硬件",
-        "title": "EasySMX S10手柄：功能对标Switch 2 Pro，价格不到一半",
-        "link": "https://www.ign.com/articles/easysmx-s10-switch-2-controller-deal",
-        "summary": "EasySMX S10手柄具备TMR霍尔效应摇杆、HD震动、amiibo支持、远程唤醒主机等功能，售价远低于官方Pro手柄。",
-        "comment": "第三方厂商总能用价格教原厂做人，任天堂配件利润有多高？",
-        "image": "https://assets-prd.ignimgs.com/2026/03/11/easysmxs10-1773266126788.jpg"
-      },
-      {
-        "category": "游戏+影视",
-        "tag": "硬件",
-        "title": "1080p/30fps：Valve详解Steam Machine“已验证”程序标准",
-        "link": "https://www.ign.com/articles/1080p-at-30fps-valve-steam-machines-verified-program",
-        "summary": "Valve在GDC 2026上公布了Steam Machine“已验证”程序的具体要求，确保游戏能在该迷你游戏PC上以1080p/30fps流畅运行。",
-        "comment": "2026年了，还在拿1080p/30fps当卖点？这标准是不是有点复古了。",
-        "image": "https://assets-prd.ignimgs.com/2025/11/11/steammachine-valveecosystem-blogroll-1762902226020.jpg"
+        "title": "微软“这就是Xbox”宣传片疑似被新负责人撤下",
+        "link": "https://www.ign.com/articles/this-is-an-xbox-announcement-looks-to-have-been-pulled-offline-after-new-gaming-boss-asha-sharma-takes-charge",
+        "summary": "微软官方发布的“这就是Xbox”营销宣传片已无法在线访问，疑似在新游戏业务负责人Asha Sharma上任后的两周内被悄然移除。",
+        "comment": "新官上任三把火，第一把就烧了自家广告？这波操作有点迷。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/12/tiaxb-socialstaticbanner-1920x1080-black-no-cta-7c54037c516f07744b5d-1024x576-1-1773315188111.jpg"
       }
     ]
   },
