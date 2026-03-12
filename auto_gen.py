@@ -25,24 +25,18 @@ client = OpenAI(
 )
 MODEL_NAME = 'deepseek-chat'
 
-# ================= RSS 源配置（3大分类）====================
+# ================= RSS 源配置（4大分类）====================
 RSS_SOURCES = {
-    "科技&数码": [
-        # 国内科技媒体
-        "https://36kr.com/feed",
-        "https://www.ifanr.com/feed",
-        "https://www.pingwest.com/feed",
-        "https://www.jiqizhixin.com/rss",
-        # 国际科技媒体
-        "https://techcrunch.com/category/artificial-intelligence/feed/",
-        "https://www.wired.com/feed/tag/ai/latest/rss",
-        "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
-        "https://www.engadget.com/rss.xml",
+    "人工智能": [
         # AI公司官方
         "https://openai.com/index/rss.xml",
         "https://www.anthropic.com/rss.xml",
-        # AI开发者社区
+        # AI技术博客
         "https://blog.langchain.dev/rss/",
+        "https://www.wired.com/feed/tag/ai/latest/rss",
+        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+        # AI开发者社区
         "https://news.ycombinator.com/rss",
         "https://www.lesswrong.com/rss",
         "https://www.reddit.com/r/LocalLLaMA/.rss",
@@ -51,14 +45,25 @@ RSS_SOURCES = {
         "https://github.com/Significant-Gravitas/AutoGPT/releases.atom",
         "https://github.com/joaomdmoura/crewAI/releases.atom",
         "https://blog.coze.com/rss",
+        # 国内AI媒体
+        "https://www.jiqizhixin.com/rss",
     ],
-    "游戏+影视": [
+    "数码科技": [
+        # 国内科技媒体
+        "https://36kr.com/feed",
+        "https://www.ifanr.com/feed",
+        "https://www.pingwest.com/feed",
+        # 国际科技媒体
+        "https://www.engadget.com/rss.xml",
+        # 硬科技/数码产品
+        "https://www.engadget.com/rss.xml",
+    ],
+    "游戏影视": [
         "https://www.ign.com/rss/articles/feed",
         "https://www.gamespot.com/feeds/news/",
         "https://www.gcores.com/rss",
-        "https://www.engadget.com/rss.xml",  # 含游戏数码
     ],
-    "时事&热点": [
+    "时事热点": [
         # 国际时事
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://www.reutersagency.com/feed/?taxonomy=markets&post_type=reuters-best",
@@ -68,41 +73,78 @@ RSS_SOURCES = {
     ]
 }
 
-# ================= 关键词白名单（3大分类）====================
+# ================= 关键词白名单（4大分类）====================
 KEYWORD_WHITELIST = {
-    "科技&数码": [
-        # 科技大公司
-        "苹果", "谷歌", "微软", "英伟达", "华为", "小米", "特斯拉", "SpaceX", "OpenAI", "Anthropic", "Meta", "Google", "DeepSeek",
-        # AI/大模型
-        "AI", "人工智能", "大模型", "LLM", "ChatGPT", "Claude", "Gemini", "Llama", "生成式AI", "AIGC", "AGI", "多模态",
+    "人工智能": [
+        # AI公司
+        "OpenAI", "Anthropic", "Google", "Meta", "DeepSeek", "百度", "阿里", "腾讯", "字节",
+        # 大模型
+        "AI", "人工智能", "大模型", "LLM", "ChatGPT", "Claude", "Gemini", "Llama", "GPT", "生成式AI", "AIGC", "AGI",
+        # 多模态
+        "多模态", "Sora", "AI视频", "AI图片", "AI音乐", "AI语音", "TTS",
         # AI Agent
-        "Agent", "智能体", "AutoGPT", "LangChain", "AutoGen", "CrewAI", "Dify", "Coze", "Manus", "Operator", "RAG", "MCP",
+        "Agent", "智能体", "AI Agent", "AutoGPT", "LangChain", "LangGraph", "AutoGen", "CrewAI", "Dify", "Coze", "扣子",
+        "Manus", "Operator", "Computer Use", "Function Calling", "工具调用", "工作流", "Workflow", "多智能体", "Multi-Agent",
+        # 技术栈
+        "RAG", "MCP", "向量数据库", "知识库", "Prompt", "微调", "训练", "推理", "RPA", "Copilot", "插件", "Plugin",
+        # 算力
+        "算力", "GPU", "TPU", "芯片", "CUDA", "推理成本",
+        # 开发者
+        "代码生成", "GitHub", "开源", "HuggingFace", "论文", "arXiv",
+    ],
+    "数码科技": [
+        # 科技公司
+        "苹果", "Apple", "谷歌", "微软", "英伟达", "华为", "小米", "特斯拉", "SpaceX", "大疆", "比亚迪", "蔚来", "理想", "小鹏",
         # 硬科技
-        "芯片", "半导体", "算力", "GPU", "机器人", "具身智能", "自动驾驶", "无人机",
+        "芯片", "半导体", "光刻机", "制程", "纳米", "CPU", "GPU", "NPU", "存储", "内存", "闪存",
+        # 机器人
+        "机器人", "具身智能", "人形机器人", "机械臂", "传感器", "激光雷达",
+        # 自动驾驶
+        "自动驾驶", "无人驾驶", "激光雷达", "高精地图", "FSD", "NOA", "智能座舱",
         # 数码产品
-        "手机", "iPhone", "Android", "相机", "笔记本", "平板", "手表", "耳机", "显示器", "屏幕", "充电", "配件",
+        "手机", "iPhone", "Android", "相机", "单反", "微单", "镜头", "笔记本", "平板", "iPad", "手表", "手环", "耳机", "音响",
+        "显示器", "屏幕", "OLED", "Mini LED", "4K", "8K", "刷新率", "充电", "快充", "无线充", "配件", "键盘", "鼠标",
+        # 评测体验
+        "评测", "体验", "开箱", "上手", "测评", "对比", "性能", "续航", "拍照", "摄影",
         # 行业动态
-        "融资", "IPO", "收购", "上市", "发布会", "新品", "评测", "体验",
+        "发布会", "新品", "预售", "上市", "降价", "促销", "融资", "IPO", "收购", "并购",
     ],
-    "游戏+影视": [
+    "游戏影视": [
         # 游戏平台
-        "Switch", "PlayStation", "Xbox", "Steam", "手游", "网游", "单机",
-        # 游戏公司/作品
-        "任天堂", "索尼", "微软", "原神", "王者荣耀", "黑神话", "GTA", "塞尔达", "马里奥", "宝可梦", "LOL", "Dota", "CS",
+        "Switch", "PlayStation", "Xbox", "Steam", "Epic", "手游", "网游", "单机", "独立游戏", "云游戏",
+        # 游戏公司
+        "任天堂", "索尼", "微软", "腾讯游戏", "网易游戏", "米哈游", "游科", "暴雪", "育碧", "EA", "Valve",
+        # 热门游戏
+        "原神", "王者荣耀", "黑神话", "GTA", "塞尔达", "马里奥", "宝可梦", "LOL", "英雄联盟", "Dota", "CS", "CSGO", "吃鸡", "PUBG",
+        "我的世界", "Minecraft", "艾尔登法环", "只狼", "最终幻想", "生化危机", "使命召唤", "战地",
         # 游戏动态
-        "发售", "销量", "更新", "DLC", "预告", "演示", "电竞", "比赛", "版本",
+        "发售", "销量", "登顶", "霸榜", "更新", "DLC", "资料片", "赛季", "版本", "维护", "停服",
+        "预告", "演示", "实机", "PV", "CG", "预告片", "泄露", "爆料", "官宣", "定档",
+        # 电竞
+        "电竞", "比赛", "赛事", "锦标赛", "世界赛", "S赛", "TI", "Major", "LPL", "LCK", "战队", "选手", "主播",
         # 影视
-        "电影", "剧集", "Netflix", "流媒体", "预告片", "票房", "导演", "演员",
+        "电影", "剧集", "电视剧", "网剧", "综艺", "纪录片", "动画", "动漫", "Netflix", "HBO", "Disney+", "流媒体",
+        "票房", "首映", "上映", "定档", "撤档", "导演", "演员", "主演", "配角", "杀青", "开机", "预告片", "海报", "剧照",
+        # 影音设备
+        "电视", "投影仪", "音响", "耳机", "VR", "AR", "头显", "Vision Pro",
     ],
-    "时事&热点": [
-        # 国际
-        "中美", "欧盟", "俄罗斯", "乌克兰", "美国", "中国", "日本", "韩国",
+    "时事热点": [
+        # 国家/地区
+        "中美", "中国", "美国", "欧盟", "欧洲", "俄罗斯", "乌克兰", "日本", "韩国", "印度", "中东", "以色列", "伊朗",
         # 经济
-        "经济", "股市", "贸易", "关税", "制裁", "通胀", "GDP", "就业", "央行", "降息", "加息",
+        "经济", "金融", "股市", "A股", "港股", "美股", "纳指", "标普", "道指", "上证指数",
+        "贸易", "关税", "制裁", "反制", "脱钩", "通胀", "通缩", "CPI", "PPI", "GDP", "增长", "衰退",
+        "就业", "失业", "裁员", "招聘", "工资", "收入", "消费", "投资", "理财", "基金", "黄金", "比特币", "加密货币",
+        "央行", "美联储", "加息", "降息", "利率", "汇率", "人民币", "美元", "贬值", "升值",
         # 政治
-        "政策", "选举", "拜登", "特朗普", "马克龙", "德国", "英国",
-        # 社会/热点
-        "战争", "冲突", "疫情", "气候变化", "灾难", "事故", "热点", "热议", "热搜",
+        "政策", "法规", "法律", "草案", "修订", "人大", "两会", "政府工作报告",
+        "选举", "投票", "竞选", "拜登", "特朗普", "哈里斯", "马斯克", "马克龙", "德国", "英国", "首相", "总统",
+        # 社会
+        "战争", "冲突", "停火", "和谈", "入侵", "袭击", "轰炸", "导弹", "核武",
+        "疫情", "病毒", "流感", "公共卫生", "疫苗", "气候变化", "全球变暖", "碳中和",
+        "灾难", "地震", "洪水", "火灾", "事故", "空难", "车祸", "爆炸",
+        # 热点
+        "热点", "热议", "热搜", "爆款", "刷屏", " viral", "破圈", "出圈", "塌房", "辟谣", "反转",
     ]
 }
 
