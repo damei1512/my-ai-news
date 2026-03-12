@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>美时美刻 - 科技/数码/游戏/时事</title>
+    <title>美时美刻 - 科技&数码 | 游戏+影视 | 时事&热点</title>
     <style>
         /* ==================== CSS 变量定义 ==================== */
         :root {
@@ -512,13 +512,9 @@
         }
 
         /* 分类颜色 */
-        .category-btn[data-cat="科技"].active { background: #3b82f6; }
-        .category-btn[data-cat="AI Agent"].active { background: #06b6d4; }
-        .category-btn[data-cat="数码"].active { background: #8b5cf6; }
-        .category-btn[data-cat="游戏"].active { background: #ec4899; }
-        .category-btn[data-cat="时事"].active { background: #f59e0b; }
-        .category-btn[data-cat="AI"].active { background: #10b981; }
-        .category-btn[data-cat="热榜"].active { background: #ef4444; }
+        .category-btn[data-cat="科技&数码"].active { background: #3b82f6; }
+        .category-btn[data-cat="游戏+影视"].active { background: #ec4899; }
+        .category-btn[data-cat="时事&热点"].active { background: #ef4444; }
 
         /* 暗色模式下的分类按钮 */
         [data-theme="dark"] .category-btn {
@@ -1136,7 +1132,7 @@
                             </div>
                         </div>
                     </div>
-                    <p>科技 · 数码 · 游戏 + 热榜</p>
+                    <p>科技&数码 · 游戏+影视 · 时事&热点</p>
                 </div>
             </div>
             <div class="header-controls">
@@ -1165,14 +1161,11 @@
             <input type="text" id="search-input" placeholder="搜索标题或摘要..." oninput="handleSearch()">
         </div>
 
-        <!-- 分类筛选 -->
+        <!-- 分类筛选（3大分类） -->
         <div class="category-filter" id="category-filter">
-            <button class="category-btn active" data-cat="all" onclick="setCategory('all', this)">全部</button>
-            <button class="category-btn" data-cat="科技" onclick="setCategory('科技', this)">科技</button>
-            <button class="category-btn" data-cat="AI Agent" onclick="setCategory('AI Agent', this)">AI Agent</button>
-            <button class="category-btn" data-cat="数码" onclick="setCategory('数码', this)">数码</button>
-            <button class="category-btn" data-cat="游戏" onclick="setCategory('游戏', this)">游戏</button>
-            <button class="category-btn" data-cat="热榜" onclick="setCategory('热榜', this)">热榜</button>
+            <button class="category-btn active" data-cat="科技&数码" onclick="setCategory('科技&数码', this)">科技&数码</button>
+            <button class="category-btn" data-cat="游戏+影视" onclick="setCategory('游戏+影视', this)">游戏+影视</button>
+            <button class="category-btn" data-cat="时事&热点" onclick="setCategory('时事&热点', this)">时事&热点</button>
         </div>
 
         <!-- 新闻列表 -->
@@ -1189,32 +1182,22 @@
         let searchQuery = '';
 
         const categoryClasses = {
-            '科技': 'tech', '国内': 'tech', '国外': 'tech', 'AI': 'tech',
-            'AI Agent': 'agent',
-            '数码': 'digital',
-            '游戏': 'game',
-            '时事': 'hot',  // 时事合并到热榜
-            '热榜': 'hot'
+            '科技&数码': 'tech',
+            '游戏+影视': 'game',
+            '时事&热点': 'hot'
         };
         
         const categoryDisplayNames = {
-            '国内': '科技',
-            '国外': '科技',
-            'AI': '科技',
-            'AI Agent': 'AI Agent',
-            '时事': '热榜',  // 时事显示为热榜
-            '热榜': '热榜'
+            '科技&数码': '科技&数码',
+            '游戏+影视': '游戏+影视',
+            '时事&热点': '时事&热点'
         };
 
-        // 分类图标 (面性/填充风格)
+        // 分类图标 (3大分类)
         const categoryIcons = {
-            '科技': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="14" rx="2" fill="currentColor" opacity="0.9"/><rect x="8" y="18" width="8" height="3" rx="1" fill="currentColor"/></svg>',
-            'AI Agent': '<svg class="tag-icon" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4" fill="currentColor"/><path d="M12 14c-4 0-7 2-7 4v2h14v-2c0-2-3-4-7-4z" fill="currentColor"/></svg>',
-            '数码': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="6" y="2" width="12" height="20" rx="2" fill="currentColor" opacity="0.9"/><circle cx="12" cy="18" r="1.5" fill="var(--bg-card)"/></svg>',
-            '游戏': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="10" rx="5" fill="currentColor" opacity="0.9"/><rect x="6" y="11" width="4" height="2" rx="1" fill="var(--bg-card)"/><circle cx="15" cy="12" r="1" fill="var(--bg-card)"/><circle cx="18" cy="12" r="1" fill="var(--bg-card)"/></svg>',
-            'AI': '<svg class="tag-icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor" opacity="0.9"/><circle cx="12" cy="12" r="3" fill="var(--bg-card)"/><circle cx="12" cy="5" r="1.5" fill="var(--bg-card)"/><circle cx="12" cy="19" r="1.5" fill="var(--bg-card)"/><circle cx="5" cy="12" r="1.5" fill="var(--bg-card)"/><circle cx="19" cy="12" r="1.5" fill="var(--bg-card)"/></svg>',
-            '时事': '<svg class="tag-icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="currentColor" opacity="0.9"/><path d="M12 6v6l4 3" stroke="var(--bg-card)" stroke-width="2" stroke-linecap="round" fill="none"/></svg>',
-            '热榜': '<svg class="tag-icon" viewBox="0 0 24 24"><path d="M12 2c0 0-2 4-2 7s2 5 2 5 2-2 2-5-2-7-2-7z" fill="currentColor"/><path d="M7 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S7 7 7 7z" fill="currentColor" opacity="0.7"/><path d="M17 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S17 7 17 7z" fill="currentColor" opacity="0.7"/></svg>'
+            '科技&数码': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="14" rx="2" fill="currentColor" opacity="0.9"/><rect x="8" y="18" width="8" height="3" rx="1" fill="currentColor"/></svg>',
+            '游戏+影视': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="10" rx="5" fill="currentColor" opacity="0.9"/><rect x="6" y="11" width="4" height="2" rx="1" fill="var(--bg-card)"/><circle cx="15" cy="12" r="1" fill="var(--bg-card)"/><circle cx="18" cy="12" r="1" fill="var(--bg-card)"/></svg>',
+            '时事&热点': '<svg class="tag-icon" viewBox="0 0 24 24"><path d="M12 2c0 0-2 4-2 7s2 5 2 5 2-2 2-5-2-7-2-7z" fill="currentColor"/><path d="M7 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S7 7 7 7z" fill="currentColor" opacity="0.7"/><path d="M17 7c0 0-1.5 3-1.5 5s1.5 4 1.5 4 1.5-1.5 1.5-4S17 7 17 7z" fill="currentColor" opacity="0.7"/></svg>'
         };
 
         // 农历数据（简化版，2024-2026年）

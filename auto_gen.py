@@ -25,60 +25,85 @@ client = OpenAI(
 )
 MODEL_NAME = 'deepseek-chat'
 
-# ================= RSS 源配置 =================
+# ================= RSS 源配置（3大分类）====================
 RSS_SOURCES = {
-    "科技": [
+    "科技&数码": [
+        # 国内科技媒体
         "https://36kr.com/feed",
         "https://www.ifanr.com/feed",
-        "https://techcrunch.com/category/artificial-intelligence/feed/",
         "https://www.pingwest.com/feed",
         "https://www.jiqizhixin.com/rss",
-    ],
-    "数码": [
+        # 国际科技媒体
+        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://www.wired.com/feed/tag/ai/latest/rss",
+        "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
         "https://www.engadget.com/rss.xml",
-        "https://www.ifanr.com/feed",
-    ],
-    "游戏": [
-        "https://www.ign.com/rss/articles/feed",
-        "https://www.gamespot.com/feeds/news/",
-        "https://www.gcores.com/rss",
-    ],
-    "热榜": [
-        "https://rsshub.rssforever.com/jike/topic/hot",  # 即刻热门
-        "https://rsshub.pseudoyu.com/jike/topic/hot",    # 即刻热门 镜像2
-    ],
-    "时事": [
-        "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "https://www.reutersagency.com/feed/?taxonomy=markets&post_type=reuters-best",
-    ],
-    "AI": [
+        # AI公司官方
         "https://openai.com/index/rss.xml",
         "https://www.anthropic.com/rss.xml",
-        "https://www.wired.com/feed/tag/ai/latest/rss",
-        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        # AI开发者社区
         "https://blog.langchain.dev/rss/",
         "https://news.ycombinator.com/rss",
         "https://www.lesswrong.com/rss",
         "https://www.reddit.com/r/LocalLLaMA/.rss",
-    ],
-    "AI Agent": [
-        "https://blog.langchain.dev/rss/",
+        # AI Agent框架
         "https://github.com/microsoft/autogen/releases.atom",
         "https://github.com/Significant-Gravitas/AutoGPT/releases.atom",
         "https://github.com/joaomdmoura/crewAI/releases.atom",
         "https://blog.coze.com/rss",
-        "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    ],
+    "游戏+影视": [
+        "https://www.ign.com/rss/articles/feed",
+        "https://www.gamespot.com/feeds/news/",
+        "https://www.gcores.com/rss",
+        "https://www.engadget.com/rss.xml",  # 含游戏数码
+    ],
+    "时事&热点": [
+        # 国际时事
+        "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "https://www.reutersagency.com/feed/?taxonomy=markets&post_type=reuters-best",
+        # 国内热榜
+        "https://rsshub.rssforever.com/jike/topic/hot",
+        "https://rsshub.pseudoyu.com/jike/topic/hot",
     ]
 }
 
-# ================= 关键词白名单 =================
+# ================= 关键词白名单（3大分类）====================
 KEYWORD_WHITELIST = {
-    "科技": ["芯片", "半导体", "融资", "IPO", "收购", "上市", "苹果", "谷歌", "微软", "英伟达", "华为", "小米", "特斯拉", "SpaceX", "OpenAI", "Anthropic", "AI", "人工智能", "大模型", "具身智能", "机器人", "自动驾驶", "电动车", "新能源", "算力", "云服务", "大疆", "比亚迪", "蔚来", "理想", "小鹏"],
-    "数码": ["手机", "相机", "笔记本", "平板", "手表", "耳机", "评测", "体验", "发布", "iPhone", "Android", "摄影", "小米", "华为", "OPPO", "vivo", "三星", "索尼", "佳能", "尼康", "GoPro", "无人机", "配件", "充电", "屏幕", "显示器", "键盘", "鼠标"],
-    "游戏": ["Switch", "PlayStation", "Xbox", "Steam", "手游", "网游", "DLC", "任天堂", "索尼", "微软", "销量", "发售", "原神", "王者荣耀", "黑神话", "GTA", "塞尔达", "马里奥", "宝可梦", "电竞", "CS", "LOL", "Dota", "更新", "预告", "演示"],
-    "时事": ["经济", "政策", "贸易", "关税", "制裁", "选举", "战争", "冲突", "疫情", "气候变化", "中美", "欧盟", "俄罗斯", "乌克兰", "股市", "央行", "通胀", "就业", "GDP", "科技战", "拜登", "特朗普", "马克龙", "德国"],
-    "AI": ["ChatGPT", "Claude", "Gemini", "Llama", "大模型", "LLM", "生成式AI", "AIGC", "算力", "GPU", "多模态", "AGI", "Prompt", "微调", "训练", "推理", "OpenAI", "Anthropic", "Google", "Meta", "DeepSeek", "Perplexity", "Midjourney", "Sora", "AI视频", "AI图片", "AI音乐", "代码生成"],
-    "AI Agent": ["Agent", "智能体", "AI Agent", "AutoGPT", "LangChain", "LangGraph", "AutoGen", "CrewAI", "Dify", "Coze", "扣子", "Manus", "Operator", "Computer Use", "Function Calling", "工具调用", "工作流", "Workflow", "多智能体", "Multi-Agent", "RPA", "AI助手", "Copilot", "插件", "Plugin", "MCP", "向量数据库", "RAG", "知识库"]
+    "科技&数码": [
+        # 科技大公司
+        "苹果", "谷歌", "微软", "英伟达", "华为", "小米", "特斯拉", "SpaceX", "OpenAI", "Anthropic", "Meta", "Google", "DeepSeek",
+        # AI/大模型
+        "AI", "人工智能", "大模型", "LLM", "ChatGPT", "Claude", "Gemini", "Llama", "生成式AI", "AIGC", "AGI", "多模态",
+        # AI Agent
+        "Agent", "智能体", "AutoGPT", "LangChain", "AutoGen", "CrewAI", "Dify", "Coze", "Manus", "Operator", "RAG", "MCP",
+        # 硬科技
+        "芯片", "半导体", "算力", "GPU", "机器人", "具身智能", "自动驾驶", "无人机",
+        # 数码产品
+        "手机", "iPhone", "Android", "相机", "笔记本", "平板", "手表", "耳机", "显示器", "屏幕", "充电", "配件",
+        # 行业动态
+        "融资", "IPO", "收购", "上市", "发布会", "新品", "评测", "体验",
+    ],
+    "游戏+影视": [
+        # 游戏平台
+        "Switch", "PlayStation", "Xbox", "Steam", "手游", "网游", "单机",
+        # 游戏公司/作品
+        "任天堂", "索尼", "微软", "原神", "王者荣耀", "黑神话", "GTA", "塞尔达", "马里奥", "宝可梦", "LOL", "Dota", "CS",
+        # 游戏动态
+        "发售", "销量", "更新", "DLC", "预告", "演示", "电竞", "比赛", "版本",
+        # 影视
+        "电影", "剧集", "Netflix", "流媒体", "预告片", "票房", "导演", "演员",
+    ],
+    "时事&热点": [
+        # 国际
+        "中美", "欧盟", "俄罗斯", "乌克兰", "美国", "中国", "日本", "韩国",
+        # 经济
+        "经济", "股市", "贸易", "关税", "制裁", "通胀", "GDP", "就业", "央行", "降息", "加息",
+        # 政治
+        "政策", "选举", "拜登", "特朗普", "马克龙", "德国", "英国",
+        # 社会/热点
+        "战争", "冲突", "疫情", "气候变化", "灾难", "事故", "热点", "热议", "热搜",
+    ]
 }
 
 # ================= 去重管理器 =================

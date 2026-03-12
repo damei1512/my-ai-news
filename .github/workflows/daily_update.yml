@@ -2,7 +2,8 @@ name: Daily AI News Update
 
 on:
   schedule:
-    - cron: '0 21 * * *' # UTC时间21点 (即北京时间早上5点) 准时去排队
+    # 北京时间 8/10/12/14/16/18/20点 (UTC 0/2/4/6/8/10/12点)
+    - cron: '0 0,2,4,6,8,10,12 * * *'
   workflow_dispatch:      # 允许手动运行
 
 permissions:
