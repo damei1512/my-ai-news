@@ -27,7 +27,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         # 🔥 核心修复：这里加了 pytz
-        pip install feedparser openai pytz
+        pip install feedparser openai pytz python-dotenv
         
     - name: Run script
       env:
