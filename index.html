@@ -513,6 +513,7 @@
 
         /* 分类颜色 */
         .category-btn[data-cat="科技"].active { background: #3b82f6; }
+        .category-btn[data-cat="AI Agent"].active { background: #06b6d4; }
         .category-btn[data-cat="数码"].active { background: #8b5cf6; }
         .category-btn[data-cat="游戏"].active { background: #ec4899; }
         .category-btn[data-cat="时事"].active { background: #f59e0b; }
@@ -1168,6 +1169,7 @@
         <div class="category-filter" id="category-filter">
             <button class="category-btn active" data-cat="all" onclick="setCategory('all', this)">全部</button>
             <button class="category-btn" data-cat="科技" onclick="setCategory('科技', this)">科技</button>
+            <button class="category-btn" data-cat="AI Agent" onclick="setCategory('AI Agent', this)">AI Agent</button>
             <button class="category-btn" data-cat="数码" onclick="setCategory('数码', this)">数码</button>
             <button class="category-btn" data-cat="游戏" onclick="setCategory('游戏', this)">游戏</button>
             <button class="category-btn" data-cat="热榜" onclick="setCategory('热榜', this)">热榜</button>
@@ -1188,6 +1190,7 @@
 
         const categoryClasses = {
             '科技': 'tech', '国内': 'tech', '国外': 'tech', 'AI': 'tech',
+            'AI Agent': 'agent',
             '数码': 'digital',
             '游戏': 'game',
             '时事': 'hot',  // 时事合并到热榜
@@ -1198,6 +1201,7 @@
             '国内': '科技',
             '国外': '科技',
             'AI': '科技',
+            'AI Agent': 'AI Agent',
             '时事': '热榜',  // 时事显示为热榜
             '热榜': '热榜'
         };
@@ -1205,6 +1209,7 @@
         // 分类图标 (面性/填充风格)
         const categoryIcons = {
             '科技': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="14" rx="2" fill="currentColor" opacity="0.9"/><rect x="8" y="18" width="8" height="3" rx="1" fill="currentColor"/></svg>',
+            'AI Agent': '<svg class="tag-icon" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4" fill="currentColor"/><path d="M12 14c-4 0-7 2-7 4v2h14v-2c0-2-3-4-7-4z" fill="currentColor"/></svg>',
             '数码': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="6" y="2" width="12" height="20" rx="2" fill="currentColor" opacity="0.9"/><circle cx="12" cy="18" r="1.5" fill="var(--bg-card)"/></svg>',
             '游戏': '<svg class="tag-icon" viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="10" rx="5" fill="currentColor" opacity="0.9"/><rect x="6" y="11" width="4" height="2" rx="1" fill="var(--bg-card)"/><circle cx="15" cy="12" r="1" fill="var(--bg-card)"/><circle cx="18" cy="12" r="1" fill="var(--bg-card)"/></svg>',
             'AI': '<svg class="tag-icon" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="currentColor" opacity="0.9"/><circle cx="12" cy="12" r="3" fill="var(--bg-card)"/><circle cx="12" cy="5" r="1.5" fill="var(--bg-card)"/><circle cx="12" cy="19" r="1.5" fill="var(--bg-card)"/><circle cx="5" cy="12" r="1.5" fill="var(--bg-card)"/><circle cx="19" cy="12" r="1.5" fill="var(--bg-card)"/></svg>',
