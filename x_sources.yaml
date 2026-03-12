@@ -15,6 +15,25 @@ X_SOURCES:
     - username: drfeili
       name: 李飞飞
       category: AI
+    - username: hardmaru
+      name: David Ha (Agent方向)
+      category: AI
+    - username: bindu_reddy
+      name: Bindu Reddy (Abacus AI)
+      category: AI
+    - username: rowancheung
+      name: Rowan Cheung (AI新闻)
+      category: AI
+  AI_Agent:
+    - username: langchain
+      name: LangChain官方
+      category: AI Agent
+    - username: crewai_inc
+      name: CrewAI官方
+      category: AI Agent
+    - username: joaomdmoura
+      name: CrewAI CEO
+      category: AI Agent
   科技:
     - username: satyanadella
       name: Satya Nadella

@@ -56,6 +56,18 @@ RSS_SOURCES = {
         "https://www.anthropic.com/rss.xml",
         "https://www.wired.com/feed/tag/ai/latest/rss",
         "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://blog.langchain.dev/rss/",
+        "https://news.ycombinator.com/rss",
+        "https://www.lesswrong.com/rss",
+        "https://www.reddit.com/r/LocalLLaMA/.rss",
+    ],
+    "AI Agent": [
+        "https://blog.langchain.dev/rss/",
+        "https://github.com/microsoft/autogen/releases.atom",
+        "https://github.com/Significant-Gravitas/AutoGPT/releases.atom",
+        "https://github.com/joaomdmoura/crewAI/releases.atom",
+        "https://blog.coze.com/rss",
+        "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
     ]
 }
 
@@ -65,7 +77,8 @@ KEYWORD_WHITELIST = {
     "数码": ["手机", "相机", "笔记本", "平板", "手表", "耳机", "评测", "体验", "发布", "iPhone", "Android", "摄影", "小米", "华为", "OPPO", "vivo", "三星", "索尼", "佳能", "尼康", "GoPro", "无人机", "配件", "充电", "屏幕", "显示器", "键盘", "鼠标"],
     "游戏": ["Switch", "PlayStation", "Xbox", "Steam", "手游", "网游", "DLC", "任天堂", "索尼", "微软", "销量", "发售", "原神", "王者荣耀", "黑神话", "GTA", "塞尔达", "马里奥", "宝可梦", "电竞", "CS", "LOL", "Dota", "更新", "预告", "演示"],
     "时事": ["经济", "政策", "贸易", "关税", "制裁", "选举", "战争", "冲突", "疫情", "气候变化", "中美", "欧盟", "俄罗斯", "乌克兰", "股市", "央行", "通胀", "就业", "GDP", "科技战", "拜登", "特朗普", "马克龙", "德国"],
-    "AI": ["ChatGPT", "Claude", "Gemini", "Llama", "大模型", "LLM", "生成式AI", "AIGC", "算力", "GPU", "Agent", "多模态", "AGI", "Prompt", "微调", "训练", "推理", "OpenAI", "Anthropic", "Google", "Meta", "DeepSeek", "Perplexity", "Midjourney", "Sora", "AI视频", "AI图片", "AI音乐", "代码生成"]
+    "AI": ["ChatGPT", "Claude", "Gemini", "Llama", "大模型", "LLM", "生成式AI", "AIGC", "算力", "GPU", "多模态", "AGI", "Prompt", "微调", "训练", "推理", "OpenAI", "Anthropic", "Google", "Meta", "DeepSeek", "Perplexity", "Midjourney", "Sora", "AI视频", "AI图片", "AI音乐", "代码生成"],
+    "AI Agent": ["Agent", "智能体", "AI Agent", "AutoGPT", "LangChain", "LangGraph", "AutoGen", "CrewAI", "Dify", "Coze", "扣子", "Manus", "Operator", "Computer Use", "Function Calling", "工具调用", "工作流", "Workflow", "多智能体", "Multi-Agent", "RPA", "AI助手", "Copilot", "插件", "Plugin", "MCP", "向量数据库", "RAG", "知识库"]
 }
 
 # ================= 去重管理器 =================

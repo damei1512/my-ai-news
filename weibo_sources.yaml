@@ -8,29 +8,41 @@ weibo_sources:
     category: "数码"
     tags: ["小米", "手机", "汽车"]
     enabled: true
-    
+
   - name: "闫俊杰"
     uid: "1722568544"
     category: "AI"
     tags: ["MiniMax", "大模型", "AI"]
     enabled: true
-    
+
   - name: "杨植麟"
     uid: "2649334664"
     category: "AI"
     tags: ["月之暗面", "Kimi", "大模型"]
     enabled: true
-    
+
   - name: "罗永浩"
     uid: "1640296591"
     category: "科技"
     tags: ["锤子", "直播", "创业"]
     enabled: true
-    
+
   - name: "李想"
     uid: "1647574422"
     category: "科技"
     tags: ["理想汽车", "新能源", "汽车"]
+    enabled: true
+
+  - name: "李志飞"
+    uid: "1401527553"
+    category: "AI"
+    tags: ["出门问问", "序列猴子", "AI Agent"]
+    enabled: true
+
+  - name: "王小川"
+    uid: "1490395904"
+    category: "AI"
+    tags: ["百川智能", "大模型", "AI"]
     enabled: true
 
 # RSSHub 微博 RSS 格式：
