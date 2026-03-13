@@ -3,175 +3,94 @@
     "week": "周五",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "行业动态",
-        "title": "‘恐怖谷’播客：Anthropic与国防部诉讼、战争梗与AI抢VC饭碗",
-        "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-        "summary": "本期播客讨论Anthropic与美国国防部的法律纠纷远未结束，并探讨AI对风险投资行业就业的潜在冲击。",
-        "comment": "AI抢VC饭碗？先看看自己能不能看懂财报吧。",
-        "image": "https://media.wired.com/photos/69b1c94d9fd417e67bc5b52b/master/pass/Uncanny-Valley-Anthropic-vs-DoD-Business-2256654494.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "大模型",
-        "title": "谷歌未排除在Gemini中投放广告的可能性",
-        "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-        "summary": "谷歌知识信息高级副总裁表示，AI正在改变公司的广告业务，暗示Gemini等AI产品未来可能引入广告。",
-        "comment": "嘴上都是主义，心里全是生意，AI也逃不过广告的宿命。",
-        "image": "https://media.wired.com/photos/69af5d1bac57452caf2d27d4/master/pass/Model-Behavior-How-AI-Is-Changing-Googles-Advertising-Business.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "应用落地",
-        "title": "谷歌地图变话痨：推出Gemini驱动的‘问地图’新界面",
-        "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
-        "summary": "谷歌地图移动端推出“问地图”功能，用户可通过Gemini AI询问地点信息并规划行程。",
-        "comment": "路痴福音？希望AI指路别像某些人类一样不靠谱。",
-        "image": "https://media.wired.com/photos/69b1db7c9fd417e67bc5b5ca/master/pass/Google-Launches-Gemini-Powered-Ask-Maps-in-Google-Maps-Gear-2262145010.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "法律纠纷",
-        "title": "Grammarly因AI‘专家评审’功能面临集体诉讼",
-        "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
-        "summary": "Grammarly的AI功能在未经授权的情况下，将编辑建议伪装成知名作家或学者的意见，现已关闭该功能并面临诉讼。",
-        "comment": "AI“碰瓷”真人专家，这波操作真是“ Grammarly ”了。",
-        "image": "https://media.wired.com/photos/69b1c8b19fd417e67bc5b525/master/pass/031126-grammarly-AI-experts-1.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "芯片巨头",
-        "title": "文件显示英伟达将斥资260亿美元构建开源AI模型",
-        "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-        "summary": "英伟达计划投入巨资开发开源AI模型，此举可能使其迅速与OpenAI、Anthropic等公司展开竞争。",
-        "comment": "卖铲子的亲自下场挖金子，矿工们要紧张了。",
-        "image": "https://media.wired.com/photos/69af3f3792d66aac27c0e361/master/pass/AI-Lab-Nvidia-Goes-All-in-on-AI-Business.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "应用落地",
-        "title": "Facebook Marketplace现允许Meta AI回复买家消息",
-        "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
-        "summary": "卖家可使用Meta AI，根据商品描述等信息自动起草回复，以应对买家关于商品状态的询问。",
-        "comment": "AI砍价指日可待，人类的套路终究输给了算法。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "应用落地",
-        "title": "Tinder用线下活动和虚拟速配吸引用户回归在线约会",
-        "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
-        "summary": "Tinder进行重大改版，通过线下活动、AI增强和虚拟速配等方式，试图重新吸引用户并吸引年轻群体。",
-        "comment": "从线上到线下再到虚拟，人类为了找对象真是操碎了心。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "行业动态",
-        "title": "Atlassian效仿Block，以AI之名裁员10%",
-        "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
-        "summary": "Atlassian裁员约1600人（占员工总数10%），旨在将更多资金投入AI领域。",
-        "comment": "AI成了裁员最佳借口，这波成本优化真是“智能”。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "应用落地",
-        "title": "Bumble将推出AI约会助手‘Bee’",
-        "link": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
-        "summary": "Bumble的新AI助手“Bee”将超越滑动匹配，根据兼容性和目标为用户进行智能匹配。",
-        "comment": "AI当红娘，希望它比七大姑八大姨更懂你。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "法律纠纷",
-        "title": "作家起诉Grammarly未经同意将其变为‘AI编辑’",
-        "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
-        "summary": "记者Julia Angwin牵头对Grammarly提起集体诉讼，指控其侵犯隐私权和公开权。",
-        "comment": "AI“白嫖”人类智慧还惹上官司，这学费交得值。",
-        "image": ""
+        "category": "游戏影视",
+        "tag": "剧集",
+        "title": "《皮特镇》第二季第十集“下午四点”评测：系列巅峰之作",
+        "link": "https://www.ign.com/articles/the-pitt-season-2-episode-10-400-pm-review-recap",
+        "summary": "《皮特镇》第二季第十集“下午四点”将剧集推向新高度，被评价为扣人心弦、情感充沛的系列最佳单集。",
+        "comment": "情感榨干机，编剧刀法精准，观众纸巾备好。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/12/the-pitt-season-2-episode-10-blogroll-1773344251898.jpg"
       },
       {
         "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "联想拯救者RTX 5070 Ti游戏主机大促，现仅售1899美元",
-        "link": "https://www.ign.com/articles/lenovo-legion-tower-5-rtx-5070-ti-gaming-pc-deal-for-1899-at-bh-photo",
-        "summary": "B&H Photo推出联想拯救者主机优惠，搭载RTX 5070 Ti显卡，价格降至1899美元。这是今年少数低于2000美元却能流畅运行4K游戏的PC之一。",
-        "comment": "价格跳水？先看看是不是清库存的“未来战士”。",
-        "image": "https://assets-prd.ignimgs.com/2026/02/06/lenovolegiontower5lc-1770407409464.jpg"
+        "tag": "硬件",
+        "title": "Verizon旗下Total Wireless推出“免费iPhone 17e”合约计划详解",
+        "link": "https://www.ign.com/articles/the-total-wireless-by-verizon-apple-iphone-17e-on-us-deal-explained-new-release",
+        "summary": "该合约计划仅需承诺一年预付费服务，无需携号转网或旧机折抵，即可免费获得新款iPhone 17e。",
+        "comment": "运营商的“免费午餐”，吃之前先看清合约小字。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/11/iphone17e-1773246156905.jpg"
       },
       {
         "category": "游戏影视",
-        "tag": "生活周边",
-        "title": "不到10美元，为你的车载应急包添置无线轮胎充气泵",
-        "link": "https://www.ign.com/articles/add-a-cordless-tire-inflator-and-air-compressor-to-your-car-emergency-kit-for-less-than-10",
-        "summary": "一款无线轮胎充气泵/空压机正在促销，价格低于10美元，适合日常补气或应急充气，可加入车载应急工具包。",
-        "comment": "科技媒体也开始卖五金了？下次是不是该推荐扳手了？",
-        "image": "https://assets-prd.ignimgs.com/2026/03/12/airsure-1773344445768.jpg"
+        "tag": "游戏",
+        "title": "《灾厄：生存》凭150万Steam愿望单与病毒式预告片回归，展示新玩法",
+        "link": "https://www.ign.com/articles/blight-survival-remerges-after-15-million-steam-wishlists-and-a-viral-trailer-with-a-new-look-at-gameplay",
+        "summary": "《灾厄：生存》发布全新玩法预告片，在收获150万Steam愿望单后宣布将于2026年公布重大消息。",
+        "comment": "饼画得够大，就看2026年端上桌的是不是真材实料。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/12/blight-main-1773325702778.png"
       },
       {
         "category": "游戏影视",
-        "tag": "游戏运营",
-        "title": "《堡垒之夜》回应玩家对V币改动的愤怒，玩家威胁跳过新赛季",
-        "link": "https://www.ign.com/articles/fortnite-responds-to-fan-uproar-over-v-bucks-changes-as-players-say-theyll-skip-the-next-battle-pass-and-cancel-subscriptions",
-        "summary": "Epic Games调整《堡垒之夜》V币定价和获取方式引发玩家强烈不满，大量玩家表示将跳过下个战斗通行证并取消订阅。官方已出面回应负面反馈。",
-        "comment": "Epic：我们听到了，但改不改另说。玩家的钱包才是最终投票器。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/12/fortnite-v-bucks-1-1773340665257.jpg"
+        "tag": "硬件",
+        "title": "搭载RTX 50系显卡的Alienware Area-51 16游戏本在戴尔官方翻新店补货",
+        "link": "https://www.ign.com/articles/alienware-area-51-16-gaming-laptop-deals-at-dell-outlet",
+        "summary": "戴尔官方翻新店补货Alienware旗舰游戏本Area-51 16，搭载RTX 50系显卡，享受与新机相同的保修服务。",
+        "comment": "官方翻新，价格翻新，钱包压力依旧不新。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/10/alienwarearea5116-1773167392679.jpg"
       },
       {
         "category": "游戏影视",
-        "tag": "游戏解析",
-        "title": "爆款游戏《Peak》中那些难以言喻的特色，官方为你解读",
+        "tag": "硬件",
+        "title": "Alienware旗舰Area-51 Ryzen X3D版RTX 5090游戏主机降价至4650美元",
+        "link": "https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-down-to-4650",
+        "summary": "Alienware 2026年最强性能游戏主机Area-51 Ryzen X3D版（搭载RTX 5090）价格下调至4650美元。",
+        "comment": "性能天花板，价格也是天花板，土豪请上座。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/10/alienwarearea51ryzen-1770751108036.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "Fanatical春季大促开启，海量PC游戏折扣来袭",
+        "link": "https://www.gamespot.com/articles/save-big-on-tons-of-pc-games-with-fanaticals-spring-sale/1100-6538721/?ftag=CAD-01-10abi2f",
+        "summary": "Fanatical平台春季促销活动现已开始，涵盖大量PC游戏，为玩家提供大幅折扣。",
+        "comment": "钱包的春天没来，游戏库的春天先到了。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4665564-c0b23c0c-a0c0-4eb1-a625-704db564ae44.jpeg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "解谜游戏《Peak》那些难以言喻的特色，究竟是怎么回事？",
         "link": "https://www.gamespot.com/articles/the-inexplicable-features-of-peak-explained/1100-6538762/?ftag=CAD-01-10abi2f",
-        "summary": "独立游戏《Peak》成为现象级爆款，其开发商Aggro Crab在GDC的演讲座无虚席。工作室负责人解释了游戏中那些独特而难以言喻的设计特色。",
-        "comment": "火了之后，连“难以言喻”都能开个讲座专门言喻了。",
+        "summary": "独立游戏《Peak》成为爆款，其开发商在GDC的演讲座无虚席，本文试图解析其独特魅力。",
+        "comment": "成功难以复制，但分析总能头头是道。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4665515-ss_bac7b90dffb456afecc4517a3e1d69362b95d15b.1920x1080.jpg"
       },
       {
         "category": "游戏影视",
-        "tag": "游戏促销",
-        "title": "本周最佳任天堂Switch及Switch 2游戏优惠汇总（2026年3月12日）",
+        "tag": "游戏",
+        "title": "本周最佳任天堂Switch及Switch 2游戏与配件优惠汇总（3月12日）",
         "link": "https://www.gamespot.com/articles/nintendo-physical-digital-game-deals/1100-6538446/?ftag=CAD-01-10abi2f",
-        "summary": "马力欧日虽过，余热犹存。本文汇总了Switch和Switch 2平台游戏、热门配件等的最佳优惠信息，Switch 2游戏促销数量也比往常更多。",
-        "comment": "老任的“促销”就像挤牙膏，挤一点算一点，别指望大出血。",
+        "summary": "马里奥日虽过，余热仍在。汇总本周Switch及Switch 2游戏、热门配件等最佳优惠信息。",
+        "comment": "老任的折扣，就像马里奥的蘑菇，有，但不多。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4665513-switchdealsmarch12.png"
       },
       {
         "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "从塞尔达式攀爬到多世界设定：《对马岛之魂》续作被砍掉的内容",
+        "tag": "游戏",
+        "title": "从塞尔达式攀爬到多世界设定：《对马岛之魂》续作被删减内容曝光",
         "link": "https://www.gamespot.com/articles/from-zelda-like-climbing-to-multiple-worlds-the-cut-content-of-ghost-of-yotei/1100-6538760/?ftag=CAD-01-10abi2f",
-        "summary": "Sucker Punch的《对马岛之魂》续作《Ghost of Yotei》已是雄心勃勃的开放世界游戏，但开发团队曾有过更多未能进入最终版本的想法，包括类似《塞尔达》的攀爬系统和多世界设定。",
-        "comment": "删掉的都是宝，放出来的都是好。游戏界的“薛定谔的创意”。",
+        "summary": "《对马岛之魂》开发团队曾构思如塞尔达式攀爬、多世界等更宏大的创意，但最终未能加入游戏。",
+        "comment": "删掉的都是野心，留下的才是现实。DLC预定？",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4665446-img_9398.jpg"
       },
       {
         "category": "游戏影视",
-        "tag": "影视趣闻",
-        "title": "高司令旧事重提：抱怨《愤怒的小鸟》电影扼杀其喜剧片续集",
+        "tag": "影视",
+        "title": "瑞恩·高斯林旧事重提：抱怨《愤怒的小鸟》电影扼杀其2016年喜剧片续集",
         "link": "https://www.gamespot.com/articles/ryan-gosling-is-still-going-on-about-angry-birds-movie-killing-chances-for-sequel-to-his-2016-comedy/1100-6538758/?ftag=CAD-01-10abi2f",
-        "summary": "瑞恩·高斯林近日再次提及，2016年其主演的喜剧片《耐撕侦探》虽口碑不错，但续集计划因同期《愤怒的小鸟》大电影表现不佳而受影响，尽管前者最终实现盈利。",
-        "comment": "高司令：这锅甩给一只不会飞的鸟，合理吗？好莱坞逻辑，懂的都懂。",
+        "summary": "瑞恩·高斯林再次提及，其2016年主演的喜剧片《耐撕侦探》因与《愤怒的小鸟》电影同期上映，导致票房不佳，续集无望。",
+        "comment": "甩锅给一只鸟？这借口比电影剧本还离谱。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4665394-screenshot2026-03-12at2.44.27%E2%80%AFpm.png"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏发售",
-        "title": "《勇气默示录：飞舞的妖精》HD重制版突袭登陆PC并享折扣",
-        "link": "https://www.gamespot.com/articles/bravely-default-flying-fairy-hd-remaster-gets-surprise-launch-and-discount/1100-6538759/?ftag=CAD-01-10abi2f",
-        "summary": "经典3DS游戏《勇气默示录：飞舞的妖精》的HD重制版在发售13年后，突然登陆PC平台（Steam和GOG），并且首发即享折扣优惠。",
-        "comment": "“突袭发售”已成炒冷饭标配，惊喜变惊吓还是真香，全看价格。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4665470-bdffhd.png"
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际军事",
-        "title": "以色列军方撤销对涉嫌虐待巴勒斯坦被拘留者士兵的指控",
-        "link": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列军方最高检察官以“特殊情况”为由，撤销了涉及一名在Sde Teiman军事监狱被关押的巴勒斯坦男子的案件，相关士兵的指控被撤销。",
-        "comment": "特殊情况？这理由真是万能，看来军事法庭的“正义”也分三六九等。",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec60/live/ce9fc140-1e4c-11f1-a2e6-b3517c784faa.png"
       }
     ]
   },
