@@ -2,9 +2,15 @@ name: AI资讯日报更新
 
 on:
   schedule:
+    # 每2小时更新一次（北京时间 08:00, 10:00, 12:00, 14:00, 16:00, 18:00, 20:00, 22:00）
     - cron: '0 0 * * *'    # 08:00 CST
-    - cron: '0 5 * * *'    # 13:00 CST  
+    - cron: '0 2 * * *'    # 10:00 CST
+    - cron: '0 4 * * *'    # 12:00 CST
+    - cron: '0 6 * * *'    # 14:00 CST
+    - cron: '0 8 * * *'    # 16:00 CST
     - cron: '0 10 * * *'   # 18:00 CST
+    - cron: '0 12 * * *'   # 20:00 CST
+    - cron: '0 14 * * *'   # 22:00 CST
   workflow_dispatch:
 
 permissions:
@@ -20,23 +26,10 @@ jobs:
         python-version: '3.11'
     - run: pip install feedparser openai python-dotenv pytz
     
-    - name: 早间完整版
-      if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
+    - name: 更新AI资讯
       env:
         DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
       run: python auto_gen.py
-      
-    - name: 午间热榜版
-      if: github.event.schedule == '0 5 * * *'
-      env:
-        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-      run: python gen_rebang.py
-      
-    - name: 晚间热榜版
-      if: github.event.schedule == '0 10 * * *'
-      env:
-        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-      run: python gen_rebang.py
       
     - run: |
         git config user.email "github-actions[bot]@users.noreply.github.com"
