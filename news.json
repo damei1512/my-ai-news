@@ -1,4 +1,180 @@
 {
+  "2026-03-13": {
+    "week": "周五",
+    "articles": [
+      {
+        "category": "人工智能",
+        "tag": "行业动态",
+        "title": "‘恐怖谷’播客：Anthropic与国防部诉讼、战争梗与AI抢VC饭碗",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+        "summary": "本期播客讨论Anthropic与美国国防部的法律纠纷远未结束，并探讨AI对风险投资行业就业的潜在冲击。",
+        "comment": "AI抢VC饭碗？先看看自己能不能看懂财报吧。",
+        "image": "https://media.wired.com/photos/69b1c94d9fd417e67bc5b52b/master/pass/Uncanny-Valley-Anthropic-vs-DoD-Business-2256654494.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "大模型",
+        "title": "谷歌未排除在Gemini中投放广告的可能性",
+        "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+        "summary": "谷歌知识信息高级副总裁表示，AI正在改变公司的广告业务，暗示Gemini等AI产品未来可能引入广告。",
+        "comment": "嘴上都是主义，心里全是生意，AI也逃不过广告的宿命。",
+        "image": "https://media.wired.com/photos/69af5d1bac57452caf2d27d4/master/pass/Model-Behavior-How-AI-Is-Changing-Googles-Advertising-Business.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "应用落地",
+        "title": "谷歌地图变话痨：推出Gemini驱动的‘问地图’新界面",
+        "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
+        "summary": "谷歌地图移动端推出“问地图”功能，用户可通过Gemini AI询问地点信息并规划行程。",
+        "comment": "路痴福音？希望AI指路别像某些人类一样不靠谱。",
+        "image": "https://media.wired.com/photos/69b1db7c9fd417e67bc5b5ca/master/pass/Google-Launches-Gemini-Powered-Ask-Maps-in-Google-Maps-Gear-2262145010.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "法律纠纷",
+        "title": "Grammarly因AI‘专家评审’功能面临集体诉讼",
+        "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+        "summary": "Grammarly的AI功能在未经授权的情况下，将编辑建议伪装成知名作家或学者的意见，现已关闭该功能并面临诉讼。",
+        "comment": "AI“碰瓷”真人专家，这波操作真是“ Grammarly ”了。",
+        "image": "https://media.wired.com/photos/69b1c8b19fd417e67bc5b525/master/pass/031126-grammarly-AI-experts-1.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "芯片巨头",
+        "title": "文件显示英伟达将斥资260亿美元构建开源AI模型",
+        "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+        "summary": "英伟达计划投入巨资开发开源AI模型，此举可能使其迅速与OpenAI、Anthropic等公司展开竞争。",
+        "comment": "卖铲子的亲自下场挖金子，矿工们要紧张了。",
+        "image": "https://media.wired.com/photos/69af3f3792d66aac27c0e361/master/pass/AI-Lab-Nvidia-Goes-All-in-on-AI-Business.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "应用落地",
+        "title": "Facebook Marketplace现允许Meta AI回复买家消息",
+        "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+        "summary": "卖家可使用Meta AI，根据商品描述等信息自动起草回复，以应对买家关于商品状态的询问。",
+        "comment": "AI砍价指日可待，人类的套路终究输给了算法。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "应用落地",
+        "title": "Tinder用线下活动和虚拟速配吸引用户回归在线约会",
+        "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+        "summary": "Tinder进行重大改版，通过线下活动、AI增强和虚拟速配等方式，试图重新吸引用户并吸引年轻群体。",
+        "comment": "从线上到线下再到虚拟，人类为了找对象真是操碎了心。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "行业动态",
+        "title": "Atlassian效仿Block，以AI之名裁员10%",
+        "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+        "summary": "Atlassian裁员约1600人（占员工总数10%），旨在将更多资金投入AI领域。",
+        "comment": "AI成了裁员最佳借口，这波成本优化真是“智能”。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "应用落地",
+        "title": "Bumble将推出AI约会助手‘Bee’",
+        "link": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+        "summary": "Bumble的新AI助手“Bee”将超越滑动匹配，根据兼容性和目标为用户进行智能匹配。",
+        "comment": "AI当红娘，希望它比七大姑八大姨更懂你。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "法律纠纷",
+        "title": "作家起诉Grammarly未经同意将其变为‘AI编辑’",
+        "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+        "summary": "记者Julia Angwin牵头对Grammarly提起集体诉讼，指控其侵犯隐私权和公开权。",
+        "comment": "AI“白嫖”人类智慧还惹上官司，这学费交得值。",
+        "image": ""
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏硬件",
+        "title": "联想拯救者RTX 5070 Ti游戏主机大促，现仅售1899美元",
+        "link": "https://www.ign.com/articles/lenovo-legion-tower-5-rtx-5070-ti-gaming-pc-deal-for-1899-at-bh-photo",
+        "summary": "B&H Photo推出联想拯救者主机优惠，搭载RTX 5070 Ti显卡，价格降至1899美元。这是今年少数低于2000美元却能流畅运行4K游戏的PC之一。",
+        "comment": "价格跳水？先看看是不是清库存的“未来战士”。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/06/lenovolegiontower5lc-1770407409464.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "生活周边",
+        "title": "不到10美元，为你的车载应急包添置无线轮胎充气泵",
+        "link": "https://www.ign.com/articles/add-a-cordless-tire-inflator-and-air-compressor-to-your-car-emergency-kit-for-less-than-10",
+        "summary": "一款无线轮胎充气泵/空压机正在促销，价格低于10美元，适合日常补气或应急充气，可加入车载应急工具包。",
+        "comment": "科技媒体也开始卖五金了？下次是不是该推荐扳手了？",
+        "image": "https://assets-prd.ignimgs.com/2026/03/12/airsure-1773344445768.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏运营",
+        "title": "《堡垒之夜》回应玩家对V币改动的愤怒，玩家威胁跳过新赛季",
+        "link": "https://www.ign.com/articles/fortnite-responds-to-fan-uproar-over-v-bucks-changes-as-players-say-theyll-skip-the-next-battle-pass-and-cancel-subscriptions",
+        "summary": "Epic Games调整《堡垒之夜》V币定价和获取方式引发玩家强烈不满，大量玩家表示将跳过下个战斗通行证并取消订阅。官方已出面回应负面反馈。",
+        "comment": "Epic：我们听到了，但改不改另说。玩家的钱包才是最终投票器。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/12/fortnite-v-bucks-1-1773340665257.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏解析",
+        "title": "爆款游戏《Peak》中那些难以言喻的特色，官方为你解读",
+        "link": "https://www.gamespot.com/articles/the-inexplicable-features-of-peak-explained/1100-6538762/?ftag=CAD-01-10abi2f",
+        "summary": "独立游戏《Peak》成为现象级爆款，其开发商Aggro Crab在GDC的演讲座无虚席。工作室负责人解释了游戏中那些独特而难以言喻的设计特色。",
+        "comment": "火了之后，连“难以言喻”都能开个讲座专门言喻了。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4665515-ss_bac7b90dffb456afecc4517a3e1d69362b95d15b.1920x1080.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏促销",
+        "title": "本周最佳任天堂Switch及Switch 2游戏优惠汇总（2026年3月12日）",
+        "link": "https://www.gamespot.com/articles/nintendo-physical-digital-game-deals/1100-6538446/?ftag=CAD-01-10abi2f",
+        "summary": "马力欧日虽过，余热犹存。本文汇总了Switch和Switch 2平台游戏、热门配件等的最佳优惠信息，Switch 2游戏促销数量也比往常更多。",
+        "comment": "老任的“促销”就像挤牙膏，挤一点算一点，别指望大出血。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4665513-switchdealsmarch12.png"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏开发",
+        "title": "从塞尔达式攀爬到多世界设定：《对马岛之魂》续作被砍掉的内容",
+        "link": "https://www.gamespot.com/articles/from-zelda-like-climbing-to-multiple-worlds-the-cut-content-of-ghost-of-yotei/1100-6538760/?ftag=CAD-01-10abi2f",
+        "summary": "Sucker Punch的《对马岛之魂》续作《Ghost of Yotei》已是雄心勃勃的开放世界游戏，但开发团队曾有过更多未能进入最终版本的想法，包括类似《塞尔达》的攀爬系统和多世界设定。",
+        "comment": "删掉的都是宝，放出来的都是好。游戏界的“薛定谔的创意”。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4665446-img_9398.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影视趣闻",
+        "title": "高司令旧事重提：抱怨《愤怒的小鸟》电影扼杀其喜剧片续集",
+        "link": "https://www.gamespot.com/articles/ryan-gosling-is-still-going-on-about-angry-birds-movie-killing-chances-for-sequel-to-his-2016-comedy/1100-6538758/?ftag=CAD-01-10abi2f",
+        "summary": "瑞恩·高斯林近日再次提及，2016年其主演的喜剧片《耐撕侦探》虽口碑不错，但续集计划因同期《愤怒的小鸟》大电影表现不佳而受影响，尽管前者最终实现盈利。",
+        "comment": "高司令：这锅甩给一只不会飞的鸟，合理吗？好莱坞逻辑，懂的都懂。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4665394-screenshot2026-03-12at2.44.27%E2%80%AFpm.png"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏发售",
+        "title": "《勇气默示录：飞舞的妖精》HD重制版突袭登陆PC并享折扣",
+        "link": "https://www.gamespot.com/articles/bravely-default-flying-fairy-hd-remaster-gets-surprise-launch-and-discount/1100-6538759/?ftag=CAD-01-10abi2f",
+        "summary": "经典3DS游戏《勇气默示录：飞舞的妖精》的HD重制版在发售13年后，突然登陆PC平台（Steam和GOG），并且首发即享折扣优惠。",
+        "comment": "“突袭发售”已成炒冷饭标配，惊喜变惊吓还是真香，全看价格。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4665470-bdffhd.png"
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际军事",
+        "title": "以色列军方撤销对涉嫌虐待巴勒斯坦被拘留者士兵的指控",
+        "link": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss",
+        "summary": "以色列军方最高检察官以“特殊情况”为由，撤销了涉及一名在Sde Teiman军事监狱被关押的巴勒斯坦男子的案件，相关士兵的指控被撤销。",
+        "comment": "特殊情况？这理由真是万能，看来军事法庭的“正义”也分三六九等。",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec60/live/ce9fc140-1e4c-11f1-a2e6-b3517c784faa.png"
+      }
+    ]
+  },
   "2026-03-12": {
     "week": "周四",
     "articles": [
@@ -1816,317 +1992,6 @@
         "link": "",
         "summary": "多家国内AI公司宣布大幅下调大模型API调用价格，行业陷入激烈价格战，引发对技术价值和商业模式的深度讨论。",
         "comment": "从拼技术到拼价格，AI的“白菜价”时代来得太快。",
-        "image": ""
-      }
-    ]
-  },
-  "2026-03-06": {
-    "week": "周五",
-    "articles": [
-      {
-        "category": "科技",
-        "tag": "大模型",
-        "title": "谷歌DeepMind高管公开邀请阿里千问团队入职",
-        "link": "https://36kr.com/p/3710693707166083?f=rss",
-        "summary": "谷歌DeepMind高管公开向阿里巴巴的千问AI团队抛出橄榄枝，引发人才争夺关注。",
-        "comment": "挖墙脚都这么高调，是自信还是焦虑？",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "AI家电",
-        "title": "海信发布世界杯定制AI家电，电视可当“观赛搭子”",
-        "link": "https://36kr.com/p/3710171805806976?f=rss",
-        "summary": "海信推出全品类AI家电，主打世界杯场景。电视支持AI识别球员、同屏观赛；空调实现人感智控，风随人动。",
-        "comment": "万物皆可AI，但看球时真需要电视帮你复盘战术吗？",
-        "image": "https://img.36krcdn.com/hsossms/20260305/v2_ca524100dbb64655b184fbec41b8992d@6227116_oswg94097oswg828oswg466_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
-      },
-      {
-        "category": "科技",
-        "tag": "汽车",
-        "title": "透视“速成车”：行业不可承受之快",
-        "link": "https://36kr.com/p/3616382576084225?f=rss",
-        "summary": "报道揭示汽车行业为追求速度，大幅压缩研发测试周期，如新架构适配从两年缩至10个月，引发安全隐忧。",
-        "comment": "把造车当快消品，最后买单的只能是消费者和品牌口碑。",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "汽车",
-        "title": "奔驰新车平台首落中国，将采用吉利电子电气架构",
-        "link": "https://36kr.com/p/3709965457240197?f=rss",
-        "summary": "奔驰与吉利达成合作，将基于吉利的GEEA电子电气架构开发全新电动车平台，这是奔驰首次将核心平台落在中国。",
-        "comment": "曾经的老师傅开始用徒弟的“灵魂”，时代真的变了。",
-        "image": "https://img.36krcdn.com/hsossms/20260305/v2_4659e134d0b94d95bad7026bd4a3cccd@6215398_oswg41870oswg1080oswg335_img_000?x-oss-process=image/format,jpg/interlace,1"
-      },
-      {
-        "category": "科技",
-        "tag": "大模型",
-        "title": "Anthropic将就美国防部供应链风险标签提起诉讼",
-        "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-        "summary": "AI公司Anthropic CEO表示，将挑战美国国防部将其列为供应链风险的决定，称该标签对大多数客户无影响。",
-        "comment": "一边被官方贴风险标签，一边还被用着，这关系真拧巴。",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "AI应用",
-        "title": "DiligenceSquared用AI语音代理降低并购调研成本",
-        "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-        "summary": "初创公司DiligenceSquared利用AI语音代理访谈目标公司客户，为私募股权公司提供低成本并购尽职调查服务。",
-        "comment": "咨询顾问们，感受到来自AI的“亲切问候”了吗？",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "AI医疗",
-        "title": "AWS推出专为医疗保健设计的AI智能体平台",
-        "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
-        "summary": "AWS发布Amazon Connect Health AI智能体平台，旨在协助医疗机构处理患者预约、文档记录和身份验证等工作。",
-        "comment": "云巨头卷向垂直行业，医院的管理流程要迎来AI护士了？",
-        "image": ""
-      },
-      {
-        "category": "科技",
-        "tag": "大模型",
-        "title": "五角大楼正式将Anthropic列为供应链风险",
-        "link": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
-        "summary": "美国国防部正式将AI公司Anthropic标记为供应链风险，这是首家获此标签的美国公司。与此同时，国防部仍在伊朗使用其AI。",
-        "comment": "又用又防，这精分操作凸显了AI技术的战略纠结。",
-        "image": ""
-      },
-      {
-        "category": "游戏",
-        "tag": "硬件",
-        "title": "外星人RTX 5080整机价格仍处低位",
-        "link": "https://www.ign.com/articles/alienware-aurora-geforce-rtx-5080-gaming-pc-deal-in-march",
-        "summary": "外星人搭载RTX 5080显卡的预装游戏整机目前价格优势明显，宣称已为4K游戏做好准备。",
-        "comment": "外星人终于舍得放下身段，但“低价”二字从它嘴里说出来，总觉得哪里不对。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/03/alienwareaurorar16-1772573136885.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "硬件",
-        "title": "FlashForge 5M 3D打印机降至161美元",
-        "link": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-at-aliexpress",
-        "summary": "FlashForge Adventure 5M CoreXY 3D打印机在速卖通平台降价至161美元，并包邮，被誉为新手最佳选择。",
-        "comment": "价格是真香，但“新手最佳”这种话，听听就好，别太当真。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/02/flashforgeadventurer5m-1772490536955.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "潮玩",
-        "title": "哪里能买到高性价比的Mould King积木？",
-        "link": "https://www.ign.com/articles/mould-king-lego-alternative-deals-at-aliexpress-march-2026",
-        "summary": "速卖通平台提供高性价比的Mould King积木套装，作为乐高热门平替，价格远低于亚马逊。",
-        "comment": "乐高平替？省了钱，但可能也省了拼搭的乐趣和砖块的质量。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/05/mouldking-1772751674372.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "收藏",
-        "title": "国家电子游戏博物馆获藏稀世任天堂PlayStation原型机",
-        "link": "https://www.ign.com/articles/the-national-videogame-museum-obtains-one-of-a-kind-nintendo-playstation",
-        "summary": "美国国家电子游戏博物馆宣布获得一件极其稀有且奇特的游戏历史文物：任天堂与索尼合作开发的“任天堂PlayStation”原型机。",
-        "comment": "一段失败联姻的“遗孤”，如今成了博物馆的镇馆之宝，历史真会开玩笑。",
-        "image": "https://assets1.ignimgs.com/2020/02/14/nintendo-playstation-1581639866298.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "新游",
-        "title": "《艾恩葛朗特回响》前瞻：动漫风单机动作RPG的惊喜",
-        "link": "https://www.ign.com/articles/echoes-of-aincrad-preview-already-an-anime-styled-single-player-action-rpg-delight",
-        "summary": "基于《刀剑神域》世界观改编的单机动作RPG《艾恩葛朗特回响》试玩表现惊艳，有望让系列老粉和新玩家都能沉浸其中。",
-        "comment": "刀剑神域IP的单机化？希望别又是“情怀收割机”，拿出点真东西来。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/04/echoes-of-aincrad-sword-art-online-preview-blogroll-1772666145553.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "网游",
-        "title": "《马拉松》玩家报告：服务器压力测试战利品被带入正式版",
-        "link": "https://www.gamespot.com/articles/marathon-players-report-keeping-server-slam-loot-in-full-game/1100-6538620/?ftag=CAD-01-10abi2f",
-        "summary": "Bungie新作《马拉松》开服，部分幸运玩家意外地将服务器压力测试期间获得的稀有战利品带入了正式游戏，这与官方“全新开始”的承诺相悖。",
-        "comment": "说好的公平起跑呢？这波“欧皇”BUG，让其他玩家情何以堪。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4662628-marathon3.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "潮玩",
-        "title": "乐高超级马里奥食人花限时7折",
-        "link": "https://www.gamespot.com/articles/lego-super-mario-piranha-plant-buying-guide/1100-6526845/?ftag=CAD-01-10abi2f",
-        "summary": "乐高超级马里奥系列的食人花盆栽套装正以限时7折的优惠价格出售。",
-        "comment": "乐高打折？快冲！虽然打完折可能还是觉得贵。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15950357/4505637-legopiranhaplant.png"
-      },
-      {
-        "category": "游戏",
-        "tag": "联动",
-        "title": "《一拳超人》本月联动《冒险岛》",
-        "link": "https://www.gamespot.com/articles/one-punch-man-is-punching-his-way-into-maplestory-this-month/1100-6538619/?ftag=CAD-01-10abi2f",
-        "comment": "埼玉老师一拳下去，怕不是要把《冒险岛》的服务器都打穿？",
-        "summary": "《一拳超人》主角埼玉将于本月末以限时联动活动形式加入Nexon旗下经典2D横版MMO《冒险岛》。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4662626-maplestoryopm.jpg"
-      },
-      {
-        "category": "游戏",
-        "tag": "桌游",
-        "title": "一款备受喜爱的TTRPG正在Kickstarter上众筹火爆",
-        "link": "https://www.gamespot.com/articles/one-of-my-favorite-ttrpgs-is-kicking-butt-on-kickstarter/1100-6538616/?ftag=CAD-01-10abi2f",
-        "summary": "在《龙与地下城》主导的桌游市场，一款作者个人钟爱的TTRPG（桌面角色扮演游戏）正在Kickstarter上取得巨大成功，为玩家提供了不同选择。",
-        "comment": "DND一家独大太久，是时候来点新花样，让骰子滚向不同的方向了。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1587/15875866/4662595-feature.png"
-      },
-      {
-        "category": "游戏",
-        "tag": "IP",
-        "title": "宝可梦公司回击特朗普团队滥用宝可梦梗图",
-        "link": "https://www.gamespot.com/articles/the-pokemon-company-pushes-back-against-trump-administrations-latest-pokemon-meme/1100-6538615/?ftag=CAD-01-10abi2f",
-        "summary": "针对特朗普团队在社交平台再次使用宝可梦相关梗图进行宣传，宝可梦公司国际部发表声明，明确表示反对并划清界限。",
-        "comment": "宝可梦不是政治皮球，请某些人停止“捕捉”它们用于奇怪的对战。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4662541-4662200-pokemon_pokopia_screenshot_7.jpg"
-      },
-      {
-        "category": "时事",
-        "tag": "中东局势",
-        "title": "伊朗战争波及中国，其雄心计划受干扰",
-        "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC报道称，中东战争虽未直接冲击中国，但其产生的涟漪效应已开始干扰中国的全球战略布局与雄心。",
-        "comment": "想当全球话事人，就得有处理全球麻烦的觉悟。",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c4/live/d67046d0-1887-11f1-aff7-a32b6621d3cc.jpg"
-      },
-      {
-        "category": "时事",
-        "tag": "中东局势",
-        "title": "库尔德武装或成伊朗地面战关键力量",
-        "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
-        "summary": "流亡伊拉克北部的伊朗库尔德反对派向BBC表示，他们有计划越境进入伊朗，但否认已经行动。",
-        "comment": "代理人战争的老剧本，这次换谁来演？",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/902e/live/22cb9620-18b9-11f1-97ba-493bedc7637b.jpg"
-      },
-      {
-        "category": "时事",
-        "tag": "俄乌冲突",
-        "title": "泽连斯基：美国请求乌克兰协助对抗伊朗无人机",
-        "link": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰总统泽连斯基表示，基辅愿意提供帮助，但前提是不能削弱其自身的防空能力。",
-        "comment": "地主家也没余粮了，帮你可以，但不能动我的保命家伙。",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2844/live/c16d4e80-18a6-11f1-8a24-35cedd1a21de.jpg"
-      },
-      {
-        "category": "时事",
-        "tag": "中东局势",
-        "title": "阿塞拜疆称遭伊朗越境打击，战争外溢风险加剧",
-        "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
-        "summary": "阿塞拜疆总统阿利耶夫指责伊朗无人机袭击其领土是“恐怖行为”，并命令武装部队进入高度戒备状态。",
-        "comment": "战火蔓延，又一个火药桶被点着了引线。",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/195f/live/85482130-18da-11f1-ac88-a3dfa1fd20ed.png"
-      },
-      {
-        "category": "时事",
-        "tag": "娱乐",
-        "title": "布兰妮·斯皮尔斯在加州因涉嫌酒驾被捕",
-        "link": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
-        "summary": "美国歌手布兰妮·斯皮尔斯于当地时间周三晚在加州因涉嫌酒后驾驶被公路巡警逮捕。",
-        "comment": "昔日小甜甜，今日法制咖，一手好牌打得稀烂。",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff5/live/655ba630-18ad-11f1-9ffc-d96e94017842.jpg"
-      },
-      {
-        "category": "AI",
-        "tag": "大模型",
-        "title": "OpenAI曾禁止军事用途，五角大楼却通过微软测试其模型",
-        "link": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
-        "summary": "消息称，在OpenAI解除军事应用禁令前，美国国防部已通过微软测试了其技术版本。",
-        "comment": "禁令？不过是公关说辞，真金白银面前，规则都是浮云。",
-        "image": "https://media.wired.com/photos/69a887d2900eb391be83a12d/master/pass/Model-Behavior-AI-Companies-Cant-Negotiate-With-Pentagon-Business.jpg"
-      },
-      {
-        "category": "热榜",
-        "tag": "数码",
-        "title": "iPhone 17e发布：国补后3999元起支持eSIM",
-        "link": "",
-        "summary": "苹果推出平价版iPhone，配合国家补贴政策，以极具竞争力的价格和eSIM功能冲击中端市场，引发抢购潮。",
-        "comment": "库克终于想通了，价格才是硬道理。",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "数码",
-        "title": "MWC 2026：vivo X300 Ultra亮相，AI视频成新战场",
-        "link": "",
-        "summary": "vivo在MWC上发布旗舰新机，将AI能力全面融入视频创作，标志着手机厂商竞争焦点从拍照转向AI视频。",
-        "comment": "卷完拍照卷视频，AI是下一个内卷高地。",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "AI",
-        "title": "AI眼镜大战：阿里千问进军智能硬件",
-        "summary": "阿里旗下千问大模型正式推出AI眼镜，加入与Meta、雷鸟等巨头的智能穿戴设备战局，争夺下一代交互入口。",
-        "link": "",
-        "comment": "巨头们都在赌，眼镜才是AI的终极形态。",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "游戏",
-        "title": "GTA6发布日期确定：2026年5月开启预售",
-        "link": "",
-        "summary": "玩家苦等多年的《GTA6》终于官宣预售日期，消息瞬间引爆全球游戏社区，相关话题阅读量破亿。",
-        "comment": "十年磨一剑，玩家的钱包已经准备好了。",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "科技",
-        "title": "国产AI大模型降价潮：价格战愈演愈烈",
-        "link": "",
-        "summary": "多家国内AI公司宣布大模型API调用价格大幅下调，行业进入激烈价格竞争阶段，试图以价换量抢占市场。",
-        "comment": "技术还没完全突破，价格先打下来了，卷！",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "数码",
-        "title": "iPhone 17e发布：国补后3999元起支持eSIM",
-        "link": "",
-        "summary": "苹果推出平价版iPhone，享受国家补贴后价格下探至3999元，并支持eSIM，引发市场对苹果抢占中端市场的讨论。",
-        "comment": "苹果也卷价格了？中端机市场要变天了。",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "数码",
-        "title": "MWC 2026：vivo X300 Ultra亮相，AI视频成新战场",
-        "link": "",
-        "summary": "vivo在MWC上发布旗舰新机，主打AI视频生成与编辑功能，标志着手机厂商的竞争焦点从拍照转向AI视频。",
-        "comment": "卷完拍照卷视频，手机厂商的AI军备竞赛。",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "AI",
-        "title": "AI眼镜大战：阿里千问进军智能硬件",
-        "link": "",
-        "summary": "阿里旗下通义千问大模型宣布推出AI智能眼镜，正式加入AI硬件战局，与各大科技巨头争夺下一代交互入口。",
-        "comment": "大模型不满足于软件，开始“戴”上硬件抢地盘。",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "游戏",
-        "title": "GTA6发布日期确定：2026年5月开启预售",
-        "link": "",
-        "summary": "备受全球玩家期待的《GTA6》终于公布确切发售日期，将于2026年5月开启预售，相关话题迅速引爆游戏圈。",
-        "comment": "有生之年系列！玩家的钱包和硬盘都准备好了吗？",
-        "image": ""
-      },
-      {
-        "category": "热榜",
-        "tag": "AI",
-        "title": "国产AI大模型降价潮：价格战愈演愈烈",
-        "link": "",
-        "summary": "多家国内AI公司宣布大幅下调大模型API调用价格，行业进入激烈价格竞争阶段，试图以低价抢占市场份额。",
-        "comment": "AI大模型也开始“白菜价”，卷应用还是卷生存？",
         "image": ""
       }
     ]
