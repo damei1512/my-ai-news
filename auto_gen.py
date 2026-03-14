@@ -10,12 +10,21 @@ import hashlib
 from urllib.parse import urlparse
 from dotenv import load_dotenv
 
-# 检查是否在cron环境运行（通过检查PPID或环境变量）
-ppid = os.getppid()
-ppid_cmd = os.popen(f'ps -p {ppid} -o comm=').read().strip() if os.name != 'nt' else ''
-if 'cron' in ppid_cmd.lower():
-    print("检测到cron环境运行，已禁用本地cron。请使用GitHub Actions更新。")
-    exit(0)
+# 检查是否在本地 macOS cron 环境运行（排除 GitHub Actions）
+# GitHub Actions 有独特的环境变量，利用这个来区分
+is_github_actions = os.environ.get('GITHUB_ACTIONS') == 'true'
+is_ci = os.environ.get('CI') == 'true'
+
+if not is_github_actions and not is_ci:
+    # 只在非 CI 环境检查是否是本地 cron
+    ppid = os.getppid()
+    try:
+        ppid_cmd = os.popen(f'ps -p {ppid} -o comm=').read().strip() if os.name != 'nt' else ''
+        if 'cron' in ppid_cmd.lower():
+            print("检测到本地cron环境运行，已禁用。请使用GitHub Actions更新。")
+            exit(0)
+    except:
+        pass
 
 # 加载 .env 文件
 load_dotenv()
