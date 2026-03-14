@@ -3,192 +3,30 @@
     "week": "周六",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "智能体",
-        "title": "LangChain推出自主上下文压缩工具",
-        "link": "https://blog.langchain.com/autonomous-context-compression/",
-        "summary": "LangChain在其Deep Agents SDK和CLI中新增了自主上下文压缩工具，旨在提升智能体处理长文本的效率。",
-        "comment": "又是给智能体打补丁，上下文太长就压缩，治标不治本。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "智能体",
-        "title": "智能体“马具”的解剖：模型与工程框架",
-        "link": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/",
-        "summary": "文章提出智能体=模型+马具（工程框架），强调工程框架是将模型智力转化为实用工作引擎的关键。",
-        "comment": "给AI套上“马具”就能干活？先别急着画饼，看看能拉什么磨。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "编程智能体",
-        "title": "编程智能体如何重塑工程、产品与设计",
-        "link": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/",
-        "summary": "探讨编程智能体如何改变软件公司的工程、产品和设计角色，最终目标仍是产出能解决业务问题的功能性代码。",
-        "comment": "说得好听是重塑，说得难听是抢饭碗，就看谁的代码更“智能”了。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "营销智能体",
-        "title": "LangChain如何构建其GTM智能体，提升销售效率",
-        "link": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/",
-        "summary": "LangChain构建的GTM（市场进入）智能体，据称将潜在客户转化率提升250%，每月为每位销售代表节省40小时。",
-        "comment": "转化率提升250%？这数字漂亮得让人怀疑是不是把分母给忘了。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "技能评估",
-        "title": "评估技能：LangChain如何测试编码智能体",
-        "link": "https://blog.langchain.com/evaluating-skills/",
-        "summary": "LangChain正在构建技能评估体系，以帮助Codex、Claude Code等编码智能体更好地在其生态系统中工作。",
-        "comment": "AI也要考“职称”了？不知道评上高级工程师会不会要求写周报。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "搜索",
-        "title": "谷歌AI搜索结果热衷于将用户引回谷歌自家服务",
-        "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-        "summary": "谷歌的生成式AI搜索工具越来越多地引用其自身服务（如谷歌搜索、YouTube），而非第三方发布商的内容。",
-        "comment": "嘴上说着开放网络，身体却很诚实地搞起了“搜索闭环”，吃相难看。",
-        "image": "https://media.wired.com/photos/69b2ee5feadc91f592dc322f/master/pass/shutterstock_2668436833.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "开源智能体",
-        "title": "中国的OpenClaw热潮成为AI公司的淘金热",
-        "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-        "summary": "围绕开源智能体OpenClaw的炒作，正驱动人们租用云服务器和购买AI订阅进行尝试，为科技公司创造了意外之财。",
-        "comment": "又一个“开源”概念被玩坏，韭菜们排着队给云厂商和模型商送钱。",
-        "image": "https://media.wired.com/photos/69af4032df27a642d70d9a52/master/pass/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "游戏",
-        "title": "玩家对AI的噩梦正在成为现实",
-        "link": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-        "summary": "从全球内存短缺推高游戏机价格到行业失业，游戏产业正成为AI热潮的最大受害者之一。",
-        "comment": "AI还没学会好好玩游戏，先学会了搞崩硬件市场和抢人类饭碗。",
-        "image": "https://media.wired.com/photos/69af25ebb25d3d9157fd32fb/master/pass/AI-Swallowing-Gaming-Culture.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "军事AI",
-        "title": "Palantir演示展示军方如何用AI聊天机器人生成战争计划",
-        "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
-        "summary": "软件演示和五角大楼记录详细说明了Anthropic的Claude等聊天机器人如何帮助五角大楼分析情报并提出下一步行动建议。",
-        "comment": "让AI写战争计划？《终结者》的编剧直呼内行，这剧情我熟。",
-        "image": "https://media.wired.com/photos/69af2189bf4114a40fa286f0/master/pass/How-Palantir-Deploys-Claude-for-US%20Military-Business-2256533238.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "法律纠纷",
-        "title": "‘恐怖谷’播客：Anthropic与国防部的法律纠纷远未结束",
-        "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-        "summary": "本期播客讨论了Anthropic与美国国防部之间的传奇故事还远未结束，涉及战争梗和AI对风投工作的冲击。",
-        "comment": "AI公司和军方扯上关系，这出戏比任何AI生成的剧本都更狗血。",
-        "image": "https://media.wired.com/photos/69b1c94d9fd417e67bc5b52b/master/pass/Uncanny-Valley-Anthropic-vs-DoD-Business-2256654494.jpg"
-      },
-      {
-        "category": "人工智能",
-        "tag": "大模型",
-        "title": "‘第一次没造对’——马斯克的xAI再次推倒重来",
-        "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-        "summary": "马斯克的AI实验室xAI正在彻底改造其构建AI编码工具的努力，并从Cursor公司引入了两名新高管。",
-        "comment": "马斯克的风格：先发射，再瞄准；先发布，再重做。反正不差钱和话题度。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "代理AI精神病案件的律师警告大规模伤亡风险",
-        "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-        "summary": "AI聊天机器人多年来一直与自杀事件相关联。现在一名律师称它们也出现在大规模伤亡案件中，技术发展速度超过了安全防护。",
-        "comment": "AI还没学会造福人类，先学会了“精神控制”和“煽动暴力”，这届AI不行。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "智能体",
-        "title": "父子创立的Nyne为AI智能体补全缺失的人类上下文",
-        "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-        "summary": "数据基础设施初创公司Nyne获得了由Wischoff Ventures和South Park Commons领投的530万美元种子轮融资。",
-        "comment": "“人类上下文”这概念听起来高大上，说白了就是教AI懂点人情世故？",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "影视",
-        "title": "史蒂文·斯皮尔伯格称他‘从未在电影中使用过AI’",
-        "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-        "summary": "在SXSW上，斯皮尔伯格表示AI在许多领域有用途，但在取代影视创作人员方面不行。",
-        "comment": "老爷子硬气！在AI泛滥的时代，坚持人类创意才是真正的“科幻”。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "年度回顾",
-        "title": "今年（迄今为止）最大的AI新闻",
-        "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-        "summary": "AI行业不断涌现新闻，如重大收购、独立开发者成功、公众抗议以及存在危险性的合同谈判。",
-        "comment": "年年都是“AI元年”，新闻标题换汤不换药，只是泡沫吹得更大了点。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "大模型",
-        "title": "Claude Code二进制文件揭示对核心功能的静默A/B测试",
-        "link": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
-        "summary": "有分析发现Claude Code的二进制文件包含对核心功能进行静默A/B测试的代码，引发用户对工作流稳定性的担忧。",
-        "comment": "偷偷拿用户当小白鼠？说好的透明和信任呢，AI公司也玩这套。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "大模型",
-        "title": "Claude Opus 4.6和Sonnet 4.6的100万上下文窗口正式可用",
-        "link": "https://claude.com/blog/1m-context-ga",
-        "summary": "Anthropic宣布其Claude Opus 4.6和Sonnet 4.6模型现已普遍支持100万tokens的上下文长度。",
-        "comment": "上下文长度军备竞赛又添一员，只是不知道有多少人真用得上这“超长待机”。",
-        "image": ""
-      },
-      {
-        "category": "人工智能",
-        "tag": "社区",
-        "title": "新LessWrong编辑器上线！同时更新LLM使用政策",
-        "link": "https://www.lesswrong.com/posts/nQWavk9mnwcv6ScMR/new-lesswrong-editor-also-an-update-to-our-llm-policy",
-        "summary": "理性社区LessWrong推出了新的编辑器体验，使其更接近所见即所得，并同步更新了关于大语言模型生成内容的使用政策。",
-        "comment": "连最理性的社区都要为AI内容立规矩了，可见这水有多浑。",
-        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1773433647/lexical_client_uploads/mwxl0xjswdu7vlubjxzh.png"
-      },
-      {
         "category": "数码科技",
         "tag": "算力电源",
         "title": "前华为北美高管创业AIDC算力电源，获数千万元融资",
         "link": "https://36kr.com/p/3722683801909641?f=rss",
         "summary": "前华为北美高管团队创立的AIDC算力电源解决方案商梅威斯完成数千万元A轮融资，资金将用于AI数据中心电源研发及海外市场拓展。",
-        "comment": "华为系创业，专啃硬骨头，但AI电源这碗饭，巨头们会轻易让出来吗？",
+        "comment": "华为系创业，专攻AI时代最“来电”的生意，就看能不能卷过老东家了。",
         "image": "https://img.36krcdn.com/hsossms/20260314/v2_2439991045654efeb217e5d8318700c3@15419058_oswg143510oswg1080oswg573_img_000?x-oss-process=image/format,jpg/interlace,1"
       },
       {
         "category": "数码科技",
         "tag": "苹果税",
-        "title": "中国区“苹果税”下调，市监局整治误导性广告",
+        "title": "中国区“苹果税”下调，市场监管总局整治误导性广告",
         "link": "https://36kr.com/p/3722103811226244?f=rss",
-        "summary": "苹果公司下调中国区App Store佣金费率，同时市场监管总局出手整治“误导性大小字”广告乱象。",
-        "comment": "苹果终于低头，但开发者能分到多少羹？广告整治，早该管管这些“视力测试”了。",
+        "summary": "苹果公司宣布下调中国区App Store佣金费率。同时，市场监管总局出手整治“误导性大小字”广告乱象。",
+        "comment": "苹果终于低头，但开发者别高兴太早，监管的铁拳可能比“苹果税”更疼。",
         "image": ""
       },
       {
         "category": "数码科技",
-        "tag": "手机",
-        "title": "魅族手机业务调整：转向车机与AI，或面临大规模人员变动",
+        "tag": "AI",
+        "title": "美团王莆中：建设物理世界AI底座，帮每个商家用上AI助理",
         "link": "https://36kr.com/p/3721253543164549?f=rss",
-        "summary": "据报道，魅族手机业务进行重大调整，重心转向车机和AI领域，可能伴随超五成员工离职。",
-        "comment": "手机梦碎，转投车机AI，魅族这步棋是绝地求生还是彻底告别？",
+        "summary": "美团高级副总裁王莆中提出，美团将致力于建设物理世界的AI基础设施，目标是让每个商家都能拥有自己的AI助理。",
+        "comment": "外卖小哥还没被AI取代，商家先要配AI助理了，这波是“赋能”还是“增负”？",
         "image": ""
       },
       {
@@ -196,44 +34,44 @@
         "tag": "苹果税",
         "title": "苹果税降至25%，雷军称新一代小米SU7会涨价",
         "link": "https://www.ifanr.com/1658134?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果App Store中国区佣金率下调至25%；雷军表示新一代小米SU7肯定会涨价；寒武纪首次实现年度盈利。",
-        "comment": "苹果让利，雷军涨价，一个向下一个向上，消费者钱包表示很忙。",
+        "summary": "苹果宣布降低中国区App Store部分佣金至25%。同时，雷军表示新一代小米SU7肯定会涨价。",
+        "comment": "苹果降税，小米涨价，一个想留住开发者，一个想提升品牌，用户的钱包两面受敌。",
         "image": ""
       },
       {
         "category": "数码科技",
         "tag": "新能源汽车",
-        "title": "方程豹钛3闪充版上市：15.38万起，充电仅需9分钟",
+        "title": "方程豹钛3闪充版上市，15.38万元起，充电仅需9分钟",
         "link": "https://www.ifanr.com/1658118?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪方程豹钛3闪充版发布，起售价15.38万元，主打9分钟快速充电技术，定位“精品车”。",
-        "comment": "9分钟快充听着香，但实际普及和电池损耗才是真考验，别成了“充电五分钟，焦虑两小时”。",
+        "summary": "比亚迪方程豹钛3闪充版正式上市，起售价15.38万元，主打9分钟快速充电技术，定位“精品车”。",
+        "comment": "充电9分钟，续航焦虑缓解一大半，但“精品车”的称号，还得市场说了算。",
         "image": ""
       },
       {
         "category": "数码科技",
         "tag": "新能源汽车",
-        "title": "蔚来李斌：2026年押注大五座SUV，存储成本涨也不涨价",
+        "title": "蔚来李斌：2026年押注大五座SUV，存储成本大涨但蔚来不涨价",
         "link": "https://www.ifanr.com/1658104?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来CEO李斌透露，公司将在2026年重点推出大五座SUV车型，并承诺即使存储成本上涨也不对用户涨价。",
-        "comment": "李斌的“不涨价”承诺能撑多久？在烧钱换市场的路上，情怀和财报总得选一个。",
+        "summary": "蔚来CEO李斌透露，公司将在2026年重点押注大五座SUV市场。尽管存储成本大幅上涨，但蔚来承诺产品不涨价。",
+        "comment": "成本涨了还不涨价，李斌这是要“赔本赚吆喝”，还是对毛利率有谜之自信？",
         "image": ""
       },
       {
         "category": "数码科技",
         "tag": "手机",
-        "title": "三星S26 Ultra评测：2026年首个“机皇”？",
+        "title": "三星S26 Ultra评测：2026年首个“机皇”，粉丝先买",
         "link": "https://www.ifanr.com/1657983?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "媒体对三星Galaxy S26 Ultra进行评测，探讨其是否配得上2026年首个“机皇”称号。",
-        "comment": "“机皇”年年有，今年特别早。除了堆料和涨价，三星还能玩出什么新花样？",
+        "summary": "媒体发布三星Galaxy S26 Ultra评测，称其为2026年首个“机皇”候选，并调侃其屏幕显示效果。",
+        "comment": "2026年的“机皇”现在就预定？科技媒体的“未来视”怕是比手机配置更超前。",
         "image": ""
       },
       {
         "category": "游戏影视",
-        "tag": "游戏周边",
+        "tag": "周边",
         "title": "路飞抱枕：你的噩梦新素材",
         "link": "https://www.ign.com/articles/netflix-one-piece-monkey-d-luffy-plush-body-pillow",
-        "summary": "Netflix《海贼王》真人剧推出路飞等身抱枕周边，造型独特，可能引发粉丝两极反应。",
-        "comment": "这抱枕的邪魅一笑，是准备物理攻击粉丝的睡眠质量吗？",
+        "summary": "Netflix《海贼王》真人剧推出路飞等身抱枕周边，造型独特引发热议。",
+        "comment": "这抱枕的“灵魂画风”，是怕粉丝睡得太香吗？",
         "image": "https://assets-prd.ignimgs.com/2026/03/14/one-piece-luffy-1773459740213.png"
       },
       {
@@ -241,7 +79,7 @@
         "tag": "游戏评测",
         "title": "《严阵以待2》评测：我来了",
         "link": "https://www.ign.com/articles/ready-or-not-2-here-i-come-review",
-        "summary": "IGN发布了对战术射击游戏《严阵以待2》的评测，评价其紧张刺激的战术体验。",
+        "summary": "IGN发布战术射击游戏《严阵以待2》的评测，评价其紧张刺激的战术体验。",
         "comment": "续作来了，血压和战术素养都准备好了吗？",
         "image": "https://assets-prd.ignimgs.com/2026/03/13/g4caroykdgwd2azcyhi1arqa0cmuitonhjtrfayzn-w-1773423234919.jpg"
       },
@@ -250,35 +88,44 @@
         "tag": "游戏评测",
         "title": "《杀戮尖塔2》抢先体验评测",
         "link": "https://www.ign.com/articles/slay-the-spire-2-review-early-access",
-        "summary": "IGN评测认为《杀戮尖塔2》在抢先体验阶段虽不激进，但已成功复刻前作令人着迷的卡牌构筑魅力。",
-        "comment": "稳扎稳打，看来是怕把“尖塔”盖歪了。",
+        "summary": "《杀戮尖塔2》在抢先体验阶段表现稳健，虽不激进但同样引人入胜。",
+        "comment": "经典配方，再来一局，天又亮了。",
         "image": "https://assets-prd.ignimgs.com/2026/03/06/slaythespire2-earlyaccessreview-blogroll-1772836878749.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "硬件",
-        "title": "戴尔Outlet补货搭载RTX 50系显卡的Alienware游戏本",
+        "title": "戴尔官翻店补货搭载RTX 50系显卡的Alienware游戏本",
         "link": "https://www.ign.com/articles/alienware-area-51-16-gaming-laptop-deals-at-dell-outlet",
-        "summary": "戴尔官方翻新店补货了搭载新一代RTX 50系列显卡的Alienware Area-51 16游戏本，享有与新机相同的保修，价格更优。",
-        "comment": "官方翻新？是给钱包一个“重新做人”的机会。",
+        "summary": "戴尔官方翻新店重新上架搭载新一代RTX 50系列显卡的Alienware Area-51 16游戏笔记本，享有与新机相同的保修。",
+        "comment": "官翻清库存，等等党这次能胜利吗？",
         "image": "https://assets-prd.ignimgs.com/2026/03/10/alienwarearea5116-1773167392679.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "硬件",
-        "title": "Bluetti AC70户外电源在AliExpress比亚马逊便宜20%",
+        "title": "Bluetti AC70户外电源在阿里Express比亚马逊便宜20%",
         "link": "https://www.ign.com/articles/bluetti-ac70-768wh-1000w-lifepo4-power-station-deal-cheaper-on-aliexpress",
-        "summary": "Bluetti AC70 768Wh户外电源在AliExpress平台有优惠，比亚马逊价格低20%，由厂家直售，美国本地仓一周内发货，并提供5年质保。",
-        "comment": "价格战打到自家头上，这波是左右互搏。",
+        "summary": "Bluetti AC70户外电源在阿里Express平台有优惠，价格比亚马逊低20%，由厂家直售，美国本地仓一周内发货，并提供5年质保。",
+        "comment": "价格战打到海外，卷完国内卷全球。",
         "image": "https://assets-prd.ignimgs.com/2026/03/12/bluettiac70-1773352797424.jpg"
       },
       {
         "category": "游戏影视",
+        "tag": "游戏文化",
+        "title": "当今游戏感觉“空洞”，但“拳击猴子”能改变现状吗？",
+        "link": "https://www.gamespot.com/articles/todays-games-can-feel-soulless-but-can-punch-the-monkey-change-that/1100-6538667/?ftag=CAD-01-10abi2f",
+        "summary": "文章借一只与宜家猩猩玩偶相依为命的日本猕猴“拳击猴子”的故事，探讨现代游戏缺乏情感共鸣的问题。",
+        "comment": "游戏缺“魂”，竟要靠真猴子来提醒？讽刺拉满。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4664088-gettyimages-2262116703.jpg"
+      },
+      {
+        "category": "游戏影视",
         "tag": "游戏设计",
-        "title": "《大金刚狂欢》最初原型竟是“长着巨拳的板栗仔”",
+        "title": "《大金刚狂欢》最初原型是个带巨拳的板栗仔",
         "link": "https://www.gamespot.com/articles/donkey-kong-bananza-began-as-a-goomba-with-giant-fists/1100-6538789/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂新作《大金刚狂欢》的创意原型，最初是一个基于《超级马力欧》系列中“板栗仔”角色、但拥有巨大拳头的概念。",
-        "comment": "任天堂的创意库：万物皆可魔改，板栗仔也能当C位。",
+        "summary": "任天堂新作《大金刚狂欢》的创意原型，最初是一个拥有巨大拳头的板栗仔（Goomba），在此基础上融合了破坏玩法。",
+        "comment": "任天堂的魔法：给板栗仔一拳，变出个大金刚。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4666258-dk-5.jpg"
       },
       {
@@ -286,36 +133,27 @@
         "tag": "行业观点",
         "title": "《守望先锋》元老Jeff Kaplan谈AI：人类精神无可替代",
         "link": "https://www.gamespot.com/articles/overwatch-vet-jeff-kaplan-on-ai-the-human-spirit-is-irreplaceable/1100-6538790/?ftag=CAD-01-10abi2f",
-        "summary": "前暴雪负责人、《守望先锋》之父Jeff Kaplan表示，AI是强大工具，但游戏创作中的人类精神和情感连接无法被取代。",
-        "comment": "在AI狂潮中给“人”的价值立了块碑，但愿不是墓碑。",
+        "summary": "前暴雪负责人、《守望先锋》总监Jeff Kaplan谈及游戏中的AI，认为人类的灵魂与精神是技术无法取代的核心。",
+        "comment": "在AI狂潮中给“人”的价值划下底线，老派但必要。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4666301-screenshot2026-03-13at3.04.31%E2%80%AFpm.png"
       },
       {
         "category": "游戏影视",
-        "tag": "游戏促销",
-        "title": "Epic游戏商城买游戏送《堡垒之夜》皮肤全列表",
+        "tag": "平台促销",
+        "title": "Epic游戏商店购买游戏送《堡垒之夜》皮肤全列表",
         "link": "https://www.gamespot.com/articles/every-game-you-can-buy-that-comes-with-a-fortnite-skin-or-accessories/1100-6538488/?ftag=CAD-01-10abi2f",
-        "summary": "Epic Games在2026年加大了“买游戏送《堡垒之夜》皮肤”的促销力度，文章列出了所有参与该活动的游戏清单。",
-        "comment": "Epic的算盘：用皮肤勾引你，用游戏库绑定你。",
+        "summary": "Epic Games Store在2026年加大促销力度，购买指定游戏即可获赠《堡垒之夜》皮肤或配件，本文列出全部参与游戏。",
+        "comment": "Epic的经典商法：游戏可以不好玩，皮肤必须送到位。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4658289-fortnitegraceskin.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "行业安全",
-        "title": "FBI调查Steam下架含恶意软件游戏事件",
+        "title": "FBI就Steam下架含恶意软件游戏展开调查",
         "link": "https://www.gamespot.com/articles/fbi-launches-investigation-into-games-removed-from-steam-over-malware-concerns/1100-6538786/?ftag=CAD-01-10abi2f",
-        "summary": "因Steam平台上一小部分游戏被设计用于传播恶意软件，美国联邦调查局（FBI）已介入调查，试图识别受害玩家。",
-        "comment": "Steam扫货需谨慎，FBI警告可能不是游戏彩蛋。",
+        "summary": "因Steam平台上一小部分游戏被设计用于传播恶意软件，美国联邦调查局（FBI）西雅图分局已介入调查，并试图识别受害玩家。",
+        "comment": "Steam扫货需谨慎，买的可能不是游戏，是“木马大礼包”。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4666087-steamlogo.jpg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "行业观点",
-        "title": "《盖瑞模组》创始人：过度依赖AI编程如同看太多黄片",
-        "link": "https://www.gamespot.com/articles/garrys-mod-creator-compares-overusing-ai-in-coding-to-watching-too-much-porn/1100-6538788/?ftag=CAD-01-10abi2f",
-        "summary": "《盖瑞模组》创始人Garry Newman警告，过度依赖AI进行游戏开发就像看太多色情内容，会让人脱离现实、产生不切实际的期望。",
-        "comment": "比喻过于生猛，但道理很直白：AI是工具，不是奶头乐。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15976769/4666159-ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.1920x1080.jpg"
       }
     ]
   },
