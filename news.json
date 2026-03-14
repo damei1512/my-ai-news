@@ -3,175 +3,238 @@
     "week": "周六",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "搜索",
+        "title": "谷歌AI搜索结果热衷于将用户引回自家服务",
+        "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+        "summary": "谷歌的生成式AI搜索工具在提供结果时，越来越倾向于引用自家的Google搜索和YouTube等服务，而非第三方出版商。",
+        "comment": "裁判亲自下场踢球，这比赛还怎么玩？",
+        "image": "https://media.wired.com/photos/69b2ee5feadc91f592dc322f/master/pass/shutterstock_2668436833.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "开源",
+        "title": "中国OpenClaw热潮成AI公司淘金热",
+        "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+        "summary": "围绕开源智能体OpenClaw的炒作，正驱动人们租用云服务器和购买AI订阅来尝鲜，为科技公司创造了意外之财。",
+        "comment": "风口上的猪又换了一批，这次是AI智能体。",
+        "image": "https://media.wired.com/photos/69af4032df27a642d70d9a52/master/pass/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "游戏",
+        "title": "玩家对AI的噩梦正在成为现实",
+        "link": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
+        "summary": "从全球内存短缺推高游戏机价格到行业失业，游戏产业正成为AI热潮最大的受害者之一。",
+        "comment": "AI还没学会写诗，先学会了砸饭碗。",
+        "image": "https://media.wired.com/photos/69af25ebb25d3d9157fd32fb/master/pass/AI-Swallowing-Gaming-Culture.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "军事",
+        "title": "Palantir演示AI聊天机器人如何为军方生成作战计划",
+        "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+        "summary": "软件演示和五角大楼记录显示，Anthropic的Claude等聊天机器人可帮助军方分析情报并提出下一步行动建议。",
+        "comment": "硅谷的代码，五角大楼的枪，这组合有点吓人。",
+        "image": "https://media.wired.com/photos/69af2189bf4114a40fa286f0/master/pass/How-Palantir-Deploys-Claude-for-US%20Military-Business-2256533238.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "法律",
+        "title": "‘恐怖谷’播客：Anthropic与国防部诉讼、战争梗及AI取代风投工作",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+        "summary": "本期播客讨论了Anthropic与美国国防部之间的纠葛远未结束，并涉及战争梗和AI对风投工作的冲击。",
+        "comment": "AI抢饭碗，从码农到风投，一个都别想跑。",
+        "image": "https://media.wired.com/photos/69b1c94d9fd417e67bc5b52b/master/pass/Uncanny-Valley-Anthropic-vs-DoD-Business-2256654494.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "创业",
+        "title": "父子创立的Nyne为AI智能体补足缺失的人类上下文",
+        "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+        "summary": "数据基础设施初创公司Nyne获得由Wischoff Ventures和South Park Commons领投的530万美元种子轮融资。",
+        "comment": "AI缺的不是算力，是“人味儿”，这赛道有点意思。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "影视",
+        "title": "斯皮尔伯格称从未在其电影中使用过AI",
+        "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+        "summary": "在SXSW上，斯皮尔伯格表示AI在许多领域有用，但不能用来取代影视创作中的创意人员。",
+        "comment": "大师的底气：AI可以辅助，但不能替代灵魂。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "综述",
+        "title": "今年迄今最大的AI新闻",
+        "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+        "summary": "AI行业新闻不断，包括重大收购、独立开发者成功、公众抗议以及存在危险性的合同谈判等。",
+        "comment": "AI圈的热闹，一半是泡沫，一半是火药。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "开源",
+        "title": "NanoClaw创作者狂野六周，终与Docker达成合作",
+        "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
+        "summary": "Gavriel Cohen正在经历开源开发者的梦想，他的项目在几周内就获得了赞誉并与Docker达成合作。",
+        "comment": "又一个一夜成名的故事，只是不知道能火多久。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "工具",
+        "title": "我能在本地运行AI吗？",
+        "link": "https://www.canirun.ai/",
+        "summary": "一个评估本地设备能否运行AI模型的工具网站。",
+        "comment": "灵魂拷问：你的显卡，配得上AI吗？",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "芯片",
+        "title": "卡塔尔氦气停产，芯片供应链进入两周倒计时",
+        "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+        "summary": "卡塔尔氦气供应中断，可能对依赖氦气进行芯片冷却和制造的供应链造成严重冲击。",
+        "comment": "蝴蝶效应：中东的氦气，掐住了全球AI的脖子。",
+        "image": ""
+      },
+      {
         "category": "数码科技",
         "tag": "行业动态",
-        "title": "36氪早报：苹果税下调，滴滴辟谣，微软市值蒸发",
-        "link": "https://36kr.com/p/3722103811226244?f=rss",
-        "summary": "早报涵盖多项热点：中国区苹果税下调；滴滴辟谣超龄车延期运营传闻；微软市值在5个月内蒸发1万亿美元；金融监管总局约谈平台机构。",
-        "comment": "早报大杂烩，除了苹果税，其他都是旧闻翻炒，微软的万亿蒸发听着吓人罢了。",
-        "image": ""
-      },
-      {
-        "category": "数码科技",
-        "tag": "公司动态",
-        "title": "氪星晚报：魅族手机业务调整，美团谈AI助理",
+        "title": "魅族手机业务大调整：转向车机与AI，超半数员工将离开",
         "link": "https://36kr.com/p/3721253543164549?f=rss",
-        "summary": "晚报聚焦公司动态：魅族手机业务面临调整，员工或转岗车机、AI或离职；美团高管提出建设物理世界AI底座，赋能商家。",
-        "comment": "魅族手机业务名存实亡，转向车机和AI是无奈还是远见？且看疗效。",
+        "summary": "魅族近期进行重大调整，超50%员工（约400人）将离开。部分员工获得“N+2”赔偿，业务重心转向车机与AI领域。",
+        "comment": "手机业务不行就换赛道，这波“解体”更像是战略撤退，就看AI和车机能救活几分了。",
         "image": ""
       },
       {
         "category": "数码科技",
-        "tag": "公司动态",
-        "title": "魅族手机业务大调整：超五成员工离职，转向车机与AI",
+        "tag": "行业动态",
+        "title": "魅族手机业务调整内幕：潮牌团队保留，核心转向车机与AI",
         "link": "https://36kr.com/p/3721227876039047?f=rss",
-        "summary": "魅族手机业务进行大规模组织架构调整，超50%员工（约400人）将离职，部分获“N+2”赔偿，业务重心转向车机和AI领域。",
-        "comment": "手机梦碎，魅族终于认清现实。车机和AI赛道更卷，祝好运。",
+        "summary": "魅族内部调整方案曝光，PANDAER潮牌团队得以保留，但手机业务核心已转向车机与AI，标志着其手机时代的落幕。",
+        "comment": "潮牌还在，手机已死。这转型够决绝，但新战场对手更多，祝好运。",
         "image": "https://img.36krcdn.com/hsossms/20260313/v2_7a198c03c55e4b8e8a6e38c0336615c2@1199336245_oswg44288oswg900oswg335_img_000?x-oss-process=image/format,jpg/interlace,1"
       },
       {
         "category": "数码科技",
-        "tag": "AI",
-        "title": "36氪与OpenClaw合作，为AI Agent提供行业信息入口",
+        "tag": "大模型",
+        "title": "36氪开放OpenClaw“龙虾”入口，助力AI Agent获取行业信息",
         "link": "https://36kr.com/p/3720817143396993?f=rss",
-        "summary": "36氪开放OpenClaw“龙虾”专属对话入口，旨在让AI智能体能够获取实时行业资讯与资源，突破信息壁垒。",
-        "comment": "给AI喂新闻，想法不错。但AI真需要看这么多公关稿和软文吗？",
+        "summary": "36氪开放OpenClaw“龙虾”专属对话入口，旨在让AI Agent能直接获取其平台上的实时行业资讯与资源，突破信息壁垒。",
+        "comment": "给AI喂行业资讯，想法不错，但AI真能看懂并“抢占先机”吗？先打个问号。",
         "image": ""
       },
       {
         "category": "数码科技",
-        "tag": "行业动态",
-        "title": "爱范儿早报：苹果税降至25%，小米SU7将涨价，严查小字广告",
-        "link": "https://www.ifanr.com/1658134?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "早报摘要：中国区苹果税降至25%；雷军称新一代小米SU7会涨价；监管部门严查小字免责广告；寒武纪首次实现年度盈利。",
-        "comment": "苹果终于低头，但开发者能多分多少？小米涨价预告，这营销玩得溜。",
-        "image": ""
-      },
-      {
-        "category": "数码科技",
-        "tag": "汽车",
-        "title": "方程豹钛3闪充版发布：充电9分钟，售价15.38万元起",
+        "tag": "新能源汽车",
+        "title": "充电9分钟！方程豹钛3闪充版上市，起售价15.38万元",
         "link": "https://www.ifanr.com/1658118?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪方程豹钛3闪充版上市，主打9分钟快速充电能力，起售价15.38万元，定位“精品车”，拒绝盲目追求尺寸。",
-        "comment": "充电快是硬道理，但“精品车”的自我定位，市场认不认还得看销量。",
+        "summary": "比亚迪方程豹钛3闪充版发布，主打9分钟快速充电技术，定位“精品车”，起售价为15.38万元。",
+        "comment": "充电快是亮点，但“精品车”的名头，还得看市场买不买账。",
         "image": ""
       },
       {
         "category": "数码科技",
-        "tag": "汽车",
-        "title": "蔚来李斌：2026年押注大五座SUV，存储成本涨但不涨价",
-        "link": "https://www.ifanr.com/1658104?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来CEO李斌表示，公司将在2026年重点推出大五座SUV车型；尽管存储成本上涨，但蔚来车型暂不涨价。",
-        "comment": "斌哥又在画饼，2026年的车现在就说。不涨价是良心，还是卖不动？",
-        "image": ""
-      },
-      {
-        "category": "数码科技",
-        "tag": "手机",
-        "title": "三星S26 Ultra评测：2026年首个“机皇”预定？",
-        "link": "https://www.ifanr.com/1657983?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "评测称三星Galaxy S26 Ultra凭借其屏幕等特性，有望成为2026年早期的旗舰手机标杆，即“机皇”。",
-        "comment": "2026年的手机现在评测？这预言家刀了。三星的“机皇”帽子年年发，不腻吗？",
-        "image": ""
-      },
-      {
-        "category": "数码科技",
-        "tag": "电脑",
-        "title": "MacBook Neo成为苹果史上最易维修的笔记本电脑",
+        "tag": "消费电子",
+        "title": "MacBook Neo获评苹果史上最易维修笔记本",
         "link": "https://www.engadget.com/computing/laptops/the-macbook-neo-is-apples-most-repairable-laptop-200923202.html?src=rss",
-        "summary": "苹果新款MacBook Neo获得iFixit维修评分6/10，成为苹果迄今为止最容易维修的笔记本电脑型号。",
-        "comment": "苹果的“最易维修”才刚及格，果粉就感恩戴德了？行业标准真被拉低了。",
+        "summary": "苹果新款MacBook Neo获得iFixit 6/10的可维修性评分，成为苹果有史以来最容易维修的笔记本电脑。",
+        "comment": "苹果终于肯在维修性上迈出一小步了，虽然只是从“极难”变成了“比较难”。",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/macbook_neo_9_0456.jpg"
       },
       {
         "category": "游戏影视",
-        "tag": "游戏评测",
-        "title": "《严阵以待2：我来了》评测",
-        "link": "https://www.ign.com/articles/ready-or-not-2-here-i-come-review",
-        "summary": "IGN对战术射击游戏《严阵以待》的续作《严阵以待2：我来了》进行了评测。",
-        "comment": "续作压力山大，希望别只是换皮，得拿出真本事。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/13/g4caroykdgwd2azcyhi1arqa0cmuitonhjtrfayzn-w-1773423234919.jpg"
+        "tag": "AI配音",
+        "title": "《Arc Raiders》CEO承认：部分AI配音已由真人演员重录",
+        "link": "https://www.ign.com/articles/embark-ceo-says-some-arc-raiders-ai-voice-lines-were-re-recorded-by-humans-post-launch-there-is-a-quality-difference",
+        "summary": "Embark工作室CEO表示，游戏发售后已用真人演员重录了部分AI配音，并承认两者存在质量差异。",
+        "comment": "早知今日，何必当初？AI配音的“塑料感”终究骗不过玩家的耳朵。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/13/arc-raiders-duck-ai-1773429933594.png"
       },
       {
         "category": "游戏影视",
-        "tag": "游戏评测",
-        "title": "《杀戮尖塔2》抢先体验版评测",
-        "link": "https://www.ign.com/articles/slay-the-spire-2-review-early-access",
-        "summary": "IGN评测《杀戮尖塔2》抢先体验版，认为其虽不激进，但和初代一样引人入胜。",
-        "comment": "稳扎稳打是好事，但别让玩家觉得只是大型DLC。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/06/slaythespire2-earlyaccessreview-blogroll-1772836878749.jpg"
+        "tag": "硬件促销",
+        "title": "SteelSeries Arctis Nova Pro无线游戏耳机限时跌破250美元",
+        "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-wireless-gaming-headset-deal-spring-sale-coupon-code",
+        "summary": "IGN最爱的游戏耳机迎来限时特惠，价格首次低于250美元，其特色是可更换充电电池。",
+        "comment": "钱包的哭泣声，终于盖过了“等等党”的欢呼。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/13/steelseriesnova7prowirelessps5-1773434688991.jpg"
       },
       {
         "category": "游戏影视",
-        "tag": "硬件",
-        "title": "戴尔Outlet补货搭载RTX 50系显卡的Alienware Area-51 16游戏本",
-        "link": "https://www.ign.com/articles/alienware-area-51-16-gaming-laptop-deals-at-dell-outlet",
-        "summary": "戴尔官方翻新渠道补货Alienware旗舰游戏本，搭载RTX 50系显卡，享有与新机相同的保修，价格优惠。",
-        "comment": "官方翻新香不香，关键看价格和保修，别是清库存的套路。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/10/alienwarearea5116-1773167392679.jpg"
+        "tag": "硬件促销",
+        "title": "官方Xbox无线手柄在联想和亚马逊降至38.99美元",
+        "link": "https://www.ign.com/articles/xbox-wireless-controller-deal-lenovo-spring-sale",
+        "summary": "Xbox官方无线手柄迎来黑色星期五以来的最低价，仅售38.99美元。",
+        "comment": "手柄比游戏还便宜的时代，是不是该反思点什么？",
+        "image": "https://assets-prd.ignimgs.com/2026/03/13/xboxcontrollers-1773423672508.jpg"
       },
       {
         "category": "游戏影视",
-        "tag": "硬件",
-        "title": "Bluetti AC70户外电源在AliExpress上比亚马逊便宜20%",
-        "link": "https://www.ign.com/articles/bluetti-ac70-768wh-1000w-lifepo4-power-station-deal-cheaper-on-aliexpress",
-        "summary": "Bluetti AC70 768Wh户外电源在AliExpress平台有优惠，价格比亚马逊低20%，由厂家直售，美国本地仓发货，提供5年质保。",
-        "comment": "价格战打到海外了？消费者得利，但小心物流和售后暗坑。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/12/bluettiac70-1773352797424.jpg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "硬件",
-        "title": "HP推出“全包计划”：月付7.99美元起获打印机和墨水",
-        "link": "https://www.ign.com/articles/hp-all-in-plan-free-printer-ink-with-low-monthly-subscription",
-        "summary": "惠普推出订阅服务，用户每月支付固定费用即可获得打印机、墨水、24/7技术支持及保修服务。",
-        "comment": "打印机厂商终于想通了？从卖硬件到卖服务，但小心变成“墨水永续债”。",
-        "image": "https://assets-prd.ignimgs.com/2026/01/07/hpallinone-1767827779301.jpg"
+        "tag": "硬件促销",
+        "title": "戴尔RTX 5070 Ti整机预购价仅1720美元",
+        "link": "https://www.ign.com/articles/dell-tower-plus-geforce-rtx-5070-ti-prebuilt-gaming-pc-deal",
+        "summary": "目前市场上最便宜的RTX 5070 Ti预装游戏整机，戴尔Tower Plus型号售价1720美元。",
+        "comment": "这价格，是显卡送电脑，还是电脑送显卡？",
+        "image": "https://assets-prd.ignimgs.com/2026/03/10/delltowerplus-1773182805806.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "游戏开发",
-        "title": "《大金刚狂欢》最初原型竟是一个“长着巨拳的栗子头”",
+        "title": "《大金刚狂欢》制作人：我们已放弃阻止玩家“乱跑”",
+        "link": "https://www.ign.com/articles/it-is-getting-very-hard-to-keep-players-from-going-all-over-the-place-yes-the-donkey-kong-bananza-devs-are-watching-your-speedruns",
+        "summary": "制作人在GDC坦言，面对玩家利用创意技巧探索各种路径，开发团队已学会接受并观察速通玩法。",
+        "comment": "设计师的精心规划，永远赶不上玩家拆家的速度。",
+        "image": "https://assets-prd.ignimgs.com/2025/07/15/837-donkey-kong-bananza-direct-6-18-2025-00-16-29-1752591632772.png"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏开发",
+        "title": "《大金刚狂欢》最初原型竟是一个“拳头巨大”的栗子小子",
         "link": "https://www.gamespot.com/articles/donkey-kong-bananza-began-as-a-goomba-with-giant-fists/1100-6538789/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂新作《大金刚狂欢》的创意原型，最初是一个基于《超级马力欧》系列中“栗子头”角色、但长着巨大拳头的概念。",
-        "comment": "任天堂的脑洞，果然都是从一些奇怪的点子开始发酵的。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4666258-dk-5.jpg"
+        "summary": "任天堂透露，本作灵感源于《超级马力欧：奥德赛》原型和体素技术，最终演变为拥有巨大可破坏世界的游戏。",
+        "comment": "从沙包到金刚，这进化路线比游戏本身还离谱。",
+        "image": ""
       },
       {
         "category": "游戏影视",
-        "tag": "行业观点",
-        "title": "《守望先锋》元老Jeff Kaplan谈AI：“人类精神无可替代”",
+        "tag": "AI观点",
+        "title": "《守望先锋》元老Jeff Kaplan谈AI：人类精神无可替代",
         "link": "https://www.gamespot.com/articles/overwatch-vet-jeff-kaplan-on-ai-the-human-spirit-is-irreplaceable/1100-6538790/?ftag=CAD-01-10abi2f",
-        "summary": "前暴雪负责人、《守望先锋》总监Jeff Kaplan谈及游戏中的AI应用，强调人类创造力和精神的核心价值。",
-        "comment": "大佬发话给AI狂热降降温，但资本和市场听不听是另一回事。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4666301-screenshot2026-03-13at3.04.31%E2%80%AFpm.png"
+        "summary": "Jeff Kaplan认为AI无法取代人类精神，但坦言目前将AI系统整合进开发管线“基本是一团糟”。",
+        "comment": "大佬发话：AI是工具，不是灵魂。但工具不好用，也是真的。",
+        "image": ""
       },
       {
         "category": "游戏影视",
-        "tag": "游戏促销",
-        "title": "Epic游戏商城购买游戏送《堡垒之夜》皮肤全列表",
+        "tag": "游戏联动",
+        "title": "Epic游戏商城2026年力推购买游戏送《堡垒之夜》皮肤",
         "link": "https://www.gamespot.com/articles/every-game-you-can-buy-that-comes-with-a-fortnite-skin-or-accessories/1100-6538488/?ftag=CAD-01-10abi2f",
-        "summary": "Epic Games在2026年加大了“买游戏送《堡垒之夜》皮肤”的促销力度，本文列出了所有参与该活动的游戏。",
-        "comment": "Epic的经典操作：游戏可以不好玩，但联动皮肤必须香。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4658289-fortnitegraceskin.jpg"
+        "summary": "Epic Games Store正大力推行游戏与《堡垒之夜》的皮肤联动，购买特定游戏即可获赠虚拟物品。",
+        "comment": "Epic的算盘：卖游戏是假，给《堡垒之夜》拉客是真。",
+        "image": ""
       },
       {
         "category": "游戏影视",
-        "tag": "行业安全",
+        "tag": "行业事件",
         "title": "FBI就Steam下架含恶意软件游戏展开调查",
         "link": "https://www.gamespot.com/articles/fbi-launches-investigation-into-games-removed-from-steam-over-malware-concerns/1100-6538786/?ftag=CAD-01-10abi2f",
-        "summary": "因Steam平台上有少量游戏被设计用于传播恶意软件，美国联邦调查局（FBI）已介入调查，试图识别受害玩家。",
-        "comment": "Steam审核的漏网之鱼终于惊动FBI，G胖的“不管部”该紧张了。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4666087-steamlogo.jpg"
+        "summary": "FBI已对Steam上因恶意软件问题被下架的游戏展开调查，并公开征集受害者信息。",
+        "comment": "喜加一的风险从“吃灰”升级到了“被黑”，Steam审核的脸疼不疼？",
+        "image": ""
       },
       {
         "category": "游戏影视",
-        "tag": "行业观点",
-        "title": "《盖瑞模组》创始人将过度使用AI编程比作“看太多小电影”",
+        "tag": "AI观点",
+        "title": "《盖瑞模组》创始人警告：过度依赖AI编程如同看太多小电影",
         "link": "https://www.gamespot.com/articles/garrys-mod-creator-compares-overusing-ai-in-coding-to-watching-too-much-porn/1100-6538788/?ftag=CAD-01-10abi2f",
-        "summary": "《盖瑞模组》创始人Garry Newman谈及AI在游戏开发中的应用，警告过度依赖AI工具可能带来的危害。",
-        "comment": "话糙理不糙，工具用得好是神器，用不好就是精神鸦片。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15976769/4666159-ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.1920x1080.jpg"
+        "summary": "Facepunch创始人认为AI能提升效率，但过度依赖会削弱批判性思维，并以此比喻发出警告。",
+        "comment": "话糙理不糙：用AI一时爽，脑子变浆糊。",
+        "image": ""
       }
     ]
   },
@@ -179,157 +242,94 @@
     "week": "周五",
     "articles": [
       {
-        "category": "数码科技",
-        "tag": "企业动态",
-        "title": "魅族手机业务大调整：转向车机与AI，超半数员工将离开",
-        "link": "https://36kr.com/p/3721253543164549?f=rss",
-        "summary": "魅族近期宣布重大调整，手机业务停摆，超50%员工（约400人）将离开。部分员工获“N+2”赔偿，公司战略重心转向车机系统和AI领域。",
-        "comment": "手机做不动了就换赛道，这波“解体”是壮士断腕还是仓皇逃窜？",
-        "image": ""
-      },
-      {
-        "category": "数码科技",
-        "tag": "企业动态",
-        "title": "独家：魅族裁员风波落定，PANDAER潮牌团队或独立运营",
-        "link": "https://36kr.com/p/3721227876039047?f=rss",
-        "summary": "魅族内部调整方案确定，大规模裁员本周内完成。除赔偿外，部分员工转岗至车机或AI业务，旗下潮牌“PANDAER”团队可能独立运营。",
-        "comment": "潮牌能救主？手机厂商的尽头是潮玩店？这转型步子迈得有点迷。",
-        "image": "https://img.36krcdn.com/hsossms/20260313/v2_7a198c03c55e4b8e8a6e38c0336615c2@1199336245_oswg44288oswg900oswg335_img_000?x-oss-process=image/format,jpg/interlace,1"
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI应用",
-        "title": "36氪开放OpenClaw“龙虾”入口，助力AI Agent获取行业信息",
-        "link": "https://36kr.com/p/3720817143396993?f=rss",
-        "summary": "36氪开放其OpenClaw“龙虾”平台的专属对话入口，旨在让AI智能体能够直接接入其资源网络，获取实时行业资讯与核心资源。",
-        "comment": "给AI喂行业“饲料”，是赋能还是制造新的信息茧房？",
-        "image": ""
-      },
-      {
-        "category": "数码科技",
-        "tag": "汽车",
-        "title": "李斌谈蔚来规划：2026年押注大五座SUV，存储成本上涨但不涨价",
-        "link": "https://www.ifanr.com/1658104?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来汽车CEO李斌透露，公司将于2026年重点推出大五座SUV车型。尽管面临存储成本上涨压力，蔚来表示不会因此提高产品售价。",
-        "comment": "成本涨了还不涨价，是良心发现还是销量压力下的无奈之举？",
-        "image": ""
-      },
-      {
-        "category": "数码科技",
-        "tag": "硬件评测",
-        "title": "晨报：Engadget评测苹果600美元MacBook Neo，表现超预期",
-        "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-120553713.html?src=rss",
-        "summary": "尽管命名被吐槽，但评测显示，搭载A系列芯片的苹果新款MacBook Neo笔记本电脑，其性能表现让同价位Windows PC相形见绌。",
-        "comment": "名字尬不重要，能打才是硬道理。苹果又来教友商做入门本了？",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/f393c830-1ed2-11f1-a3fb-b4ed6eaff1fb"
-      },
-      {
-        "category": "数码科技",
-        "tag": "硬件评测",
-        "title": "MacBook Air M5评测：外观不变，性能更快",
-        "link": "https://www.engadget.com/computing/laptops/macbook-air-m5-review-same-but-faster-120000685.html?src=rss",
-        "summary": "新款MacBook Air M5在外观设计上与2022款M2机型保持一致，主要升级在于搭载了更强大的M5芯片，带来了显著的性能提升。",
-        "comment": "经典“挤牙膏”式更新，苹果的“换芯不换壳”哲学玩得越来越溜了。",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dscf9377.jpg"
-      },
-      {
-        "category": "数码科技",
-        "tag": "流媒体",
-        "title": "苹果称F1赛事流媒体播放量远超预期",
-        "link": "https://www.engadget.com/entertainment/streaming/apple-says-f1-streaming-already-exceeds-everyones-expectations-111028328.html?src=rss",
-        "summary": "苹果获得F1美国独家转播权后，首场赛事通过流媒体平台的播放数据表现优异，已超出公司内部所有人的预期。",
-        "comment": "烧钱买版权初见成效，但体育流媒体这碗饭，光靠开局红可不够。",
-        "image": ""
-      },
-      {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《命运2》更新敷衍引玩家不满，Bungie重心转向《马拉松》",
-        "link": "https://www.ign.com/articles/this-weeks-meager-destiny-2-update-leaves-fans-feeling-like-the-franchise-is-at-its-lowest-ebb-yet-while-bungie-focuses-on-trying-to-make-marathon-a-success",
-        "summary": "《命运2》本周更新内容贫乏，玩家哀叹系列前景黯淡，而开发商Bungie正将主要精力投入新作《马拉松》的开发。",
-        "comment": "老IP被当弃子，新作就能成？Bungie这算盘打得真响。",
-        "image": "https://assets-prd.ignimgs.com/2025/12/01/destinyrenegadesthumb-1764605307412.png"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "CD Projekt确认《赛博朋克2077》无新DLC计划，传闻《巫师3》或有秘密内容",
-        "link": "https://www.ign.com/articles/amid-reports-of-a-secret-dlc-for-the-witcher-3-cd-projekt-rules-out-further-content-for-cyberpunk-2077",
-        "summary": "CD Projekt明确表示《赛博朋克2077》暂无后续DLC或扩展计划，同时有传闻称开发商正在为《巫师3》准备秘密DLC。",
-        "comment": "亲儿子《巫师》才是心头肉，《2077》？修修补补就算仁至义尽了。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/13/ss-284ba40590de8f604ae693631c751a0aefdc452e-1920x1080-1773401005545.jpg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "影视",
-        "title": "罗莎曼德·派克直言2005版《毁灭战士》电影“烂到可能终结其职业生涯”",
-        "link": "https://www.ign.com/articles/rosamund-pike-says-her-doom-movie-with-the-rock-was-probably-one-of-the-worst-films-ever-made-and-could-have-ended-my-career",
-        "summary": "演员罗莎曼德·派克回顾2005年与巨石强森合作的《毁灭战士》电影，称其为“绝对的票房哑弹”，差点毁掉她的演艺事业。",
-        "comment": "游戏改编烂片又多一铁证，强森也带不动。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/13/doom-main-1773397359731.png"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《宝可梦 Pokopia》更新将至，带来多项改进与Bug修复",
-        "link": "https://www.ign.com/articles/pokemon-pokopia-update-coming-bringing-improvements-and-bug-fixes",
-        "summary": "任天堂确认《宝可梦 Pokopia》即将迎来更新，将解决一系列问题并进行多项改进。",
-        "comment": "GF社的日常：发个半成品，再慢慢打补丁。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/13/c15db050-16f4-11f1-a694-e5c2b699acf9-1773395460074.jpg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "影视",
-        "title": "《The Pitt》第二季第十集“下午4点”评测：系列巅峰，情感冲击强烈",
+        "tag": "剧集",
+        "title": "《皮特镇》第二季第十集“下午四点”评测：系列巅峰之作",
         "link": "https://www.ign.com/articles/the-pitt-season-2-episode-10-400-pm-review-recap",
-        "summary": "《The Pitt》第二季第十集“下午4点”将剧集推向新高度，被评价为扣人心弦、情感消耗巨大，展现了该系列的最佳水准。",
-        "comment": "能让人“情感耗尽”的剧集，不是神作就是矫情。",
+        "summary": "《皮特镇》第二季第十集“下午四点”将剧集推向新高度，被评价为扣人心弦、情感充沛的系列最佳单集。",
+        "comment": "情感榨干机，编剧刀法精准，观众纸巾备好。",
         "image": "https://assets-prd.ignimgs.com/2026/03/12/the-pitt-season-2-episode-10-blogroll-1773344251898.jpg"
       },
       {
         "category": "游戏影视",
+        "tag": "硬件",
+        "title": "Verizon旗下Total Wireless推出“免费iPhone 17e”合约计划详解",
+        "link": "https://www.ign.com/articles/the-total-wireless-by-verizon-apple-iphone-17e-on-us-deal-explained-new-release",
+        "summary": "该合约计划仅需承诺一年预付费服务，无需携号转网或旧机折抵，即可免费获得新款iPhone 17e。",
+        "comment": "运营商的“免费午餐”，吃之前先看清合约小字。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/11/iphone17e-1773246156905.jpg"
+      },
+      {
+        "category": "游戏影视",
         "tag": "游戏",
-        "title": "《原神》后续版本前瞻：关于6.4与6.5版本的一切已知信息",
-        "link": "https://www.gamespot.com/articles/genshin-impact-next-update-and-banners/1100-6538678/?ftag=CAD-01-10abi2f",
-        "summary": "本文汇总了关于《原神》未来6.4与6.5版本更新及角色卡池的所有已知信息，包括可能的发布时间和内容前瞻。",
-        "comment": "版本号追得挺快，内容挤牙膏的节奏倒是很稳定。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1871/18716585/4664271-genshinimpactnextupdateandbannersversion6.4header.jpg"
+        "title": "《灾厄：生存》凭150万Steam愿望单与病毒式预告片回归，展示新玩法",
+        "link": "https://www.ign.com/articles/blight-survival-remerges-after-15-million-steam-wishlists-and-a-viral-trailer-with-a-new-look-at-gameplay",
+        "summary": "《灾厄：生存》发布全新玩法预告片，在收获150万Steam愿望单后宣布将于2026年公布重大消息。",
+        "comment": "饼画得够大，就看2026年端上桌的是不是真材实料。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/12/blight-main-1773325702778.png"
       },
       {
         "category": "游戏影视",
         "tag": "硬件",
-        "title": "下一代Xbox主机“Project Helix”传闻汇总：发售日、价格与规格猜测",
-        "link": "https://www.gamespot.com/articles/project-helix-everything-we-know/1100-6538763/?ftag=CAD-01-10abi2f",
-        "summary": "随着Xbox近年表现挣扎，其下一代主机“Project Helix”的未来引发关注。本文汇集了关于其发售日期、潜在价格和规格的所有传闻与猜测。",
-        "comment": "主机还没影，传闻满天飞。微软的保密工作一如既往地“出色”。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1603/16030002/4665536-project-helix.jpg"
+        "title": "搭载RTX 50系显卡的Alienware Area-51 16游戏本在戴尔官方翻新店补货",
+        "link": "https://www.ign.com/articles/alienware-area-51-16-gaming-laptop-deals-at-dell-outlet",
+        "summary": "戴尔官方翻新店补货Alienware旗舰游戏本Area-51 16，搭载RTX 50系显卡，享受与新机相同的保修服务。",
+        "comment": "官方翻新，价格翻新，钱包压力依旧不新。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/10/alienwarearea5116-1773167392679.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "硬件",
+        "title": "Alienware旗舰Area-51 Ryzen X3D版RTX 5090游戏主机降价至4650美元",
+        "link": "https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-down-to-4650",
+        "summary": "Alienware 2026年最强性能游戏主机Area-51 Ryzen X3D版（搭载RTX 5090）价格下调至4650美元。",
+        "comment": "性能天花板，价格也是天花板，土豪请上座。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/10/alienwarearea51ryzen-1770751108036.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《使命召唤：黑色行动7》僵尸模式：如何在“悖论枢纽”地图打造升级Blundergat神器武器",
-        "link": "https://www.gamespot.com/articles/cod-black-ops-7-zombies-how-to-build-and-upgrade-the-blundergat-wonder-weapon-in-paradox-junction/1100-6538734/?ftag=CAD-01-10abi2f",
-        "summary": "《黑色行动7》第二赛季重装上阵更新带来全新僵尸地图“悖论枢纽”。本指南详解如何在该地图中制作并升级Blundergat神奇武器。",
-        "comment": "年货COD的僵尸模式，攻略比游戏本体更新还勤快。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4665092-paradoxjunctions2reloadedpromo.jpeg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《杀戮尖塔2》“摄政者”最强构筑指南：角色解析与技巧",
-        "link": "https://www.gamespot.com/articles/best-slay-the-spire-2-regent-build-character-guide-tips-and-more/1100-6538766/?ftag=CAD-01-10abi2f",
-        "summary": "“摄政者”是《杀戮尖塔2》两位新角色之一，虽然强大但机制复杂。本指南提供该角色的最强构筑思路、玩法技巧与详细解析。",
-        "comment": "新角色强但难上手？看来玩家的头发又要保不住了。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4665631-wekvsj5xxstt7agamvjzsm-2560-80.jpg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "促销",
-        "title": "Fanatical春季特卖开启，海量PC游戏迎来大幅折扣",
+        "title": "Fanatical春季大促开启，海量PC游戏折扣来袭",
         "link": "https://www.gamespot.com/articles/save-big-on-tons-of-pc-games-with-fanaticals-spring-sale/1100-6538721/?ftag=CAD-01-10abi2f",
-        "summary": "Fanatical平台春季特卖现已开始，涵盖大量PC游戏，为玩家提供大幅折扣优惠。",
-        "comment": "你的钱包在哭泣，你的游戏库在吃灰，但你还是会买。",
+        "summary": "Fanatical平台春季促销活动现已开始，涵盖大量PC游戏，为玩家提供大幅折扣。",
+        "comment": "钱包的春天没来，游戏库的春天先到了。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4665564-c0b23c0c-a0c0-4eb1-a625-704db564ae44.jpeg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "解谜游戏《Peak》那些难以言喻的特色，究竟是怎么回事？",
+        "link": "https://www.gamespot.com/articles/the-inexplicable-features-of-peak-explained/1100-6538762/?ftag=CAD-01-10abi2f",
+        "summary": "独立游戏《Peak》成为爆款，其开发商在GDC的演讲座无虚席，本文试图解析其独特魅力。",
+        "comment": "成功难以复制，但分析总能头头是道。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4665515-ss_bac7b90dffb456afecc4517a3e1d69362b95d15b.1920x1080.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "本周最佳任天堂Switch及Switch 2游戏与配件优惠汇总（3月12日）",
+        "link": "https://www.gamespot.com/articles/nintendo-physical-digital-game-deals/1100-6538446/?ftag=CAD-01-10abi2f",
+        "summary": "马里奥日虽过，余热仍在。汇总本周Switch及Switch 2游戏、热门配件等最佳优惠信息。",
+        "comment": "老任的折扣，就像马里奥的蘑菇，有，但不多。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4665513-switchdealsmarch12.png"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "从塞尔达式攀爬到多世界设定：《对马岛之魂》续作被删减内容曝光",
+        "link": "https://www.gamespot.com/articles/from-zelda-like-climbing-to-multiple-worlds-the-cut-content-of-ghost-of-yotei/1100-6538760/?ftag=CAD-01-10abi2f",
+        "summary": "《对马岛之魂》开发团队曾构思如塞尔达式攀爬、多世界等更宏大的创意，但最终未能加入游戏。",
+        "comment": "删掉的都是野心，留下的才是现实。DLC预定？",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4665446-img_9398.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影视",
+        "title": "瑞恩·高斯林旧事重提：抱怨《愤怒的小鸟》电影扼杀其2016年喜剧片续集",
+        "link": "https://www.gamespot.com/articles/ryan-gosling-is-still-going-on-about-angry-birds-movie-killing-chances-for-sequel-to-his-2016-comedy/1100-6538758/?ftag=CAD-01-10abi2f",
+        "summary": "瑞恩·高斯林再次提及，其2016年主演的喜剧片《耐撕侦探》因与《愤怒的小鸟》电影同期上映，导致票房不佳，续集无望。",
+        "comment": "甩锅给一只鸟？这借口比电影剧本还离谱。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4665394-screenshot2026-03-12at2.44.27%E2%80%AFpm.png"
       }
     ]
   },
