@@ -10,6 +10,13 @@ import hashlib
 from urllib.parse import urlparse
 from dotenv import load_dotenv
 
+# 检查是否在cron环境运行（通过检查PPID或环境变量）
+ppid = os.getppid()
+ppid_cmd = os.popen(f'ps -p {ppid} -o comm=').read().strip() if os.name != 'nt' else ''
+if 'cron' in ppid_cmd.lower():
+    print("检测到cron环境运行，已禁用本地cron。请使用GitHub Actions更新。")
+    exit(0)
+
 # 加载 .env 文件
 load_dotenv()
 
