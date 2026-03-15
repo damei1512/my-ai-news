@@ -3,30 +3,102 @@
     "week": "周日",
     "articles": [
       {
+        "category": "数码科技",
+        "tag": "AI视频",
+        "title": "工业级AI视频平台达瓦科技获近亿元融资，营收破亿",
+        "link": "https://36kr.com/p/3723669408987782?f=rss",
+        "summary": "达瓦科技完成近亿元新一轮融资，其作为专业级AI内容创作平台，2025年营收突破亿元，三年复合增长率近300%，并拥有120TB独家影视数据作为核心壁垒。",
+        "comment": "数据壁垒听着唬人，但AI视频赛道卷成这样，光有数据就能稳赢？",
+        "image": ""
+      },
+      {
+        "category": "数码科技",
+        "tag": "智能家居",
+        "title": "AWE 2026：慕思展示“全域协同”智能家居方案，科技大佬现场体验",
+        "link": "https://36kr.com/p/3722669939931524?f=rss",
+        "summary": "在AWE 2026上，慕思展示了旨在解决智能家居“单品孤立”问题的方案，强调“全域协同”与“主动服务”，吸引众多科技界人士关注。",
+        "comment": "让大佬“躺平”容易，让普通用户家里的智能设备不“智障”才难。",
+        "image": "https://img.36krcdn.com/hsossms/20260314/v2_7ea69929f49e47e7aa9ff0ab3606168a@6208419_oswg1830662oswg3200oswg2133_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      },
+      {
+        "category": "数码科技",
+        "tag": "机器人",
+        "title": "AWE 2026：家电巨头集体进军家庭服务机器人赛道",
+        "link": "https://36kr.com/p/3722882943334789?f=rss",
+        "summary": "今年AWE展会上，家电企业成为具身智能机器人主力，推出家庭巡逻、老人看护、简单家务等功能的机器人，但整体功能仍处早期阶段。",
+        "comment": "从扫地到炒菜，机器人啥都会，就是不会让你觉得它真有用。",
+        "image": "https://img.36krcdn.com/hsossms/20260314/v2_87917742031745368d8388f4a46448ad@1199336245_oswg238921oswg1080oswg1441_img_000?x-oss-process=image/format,jpg/interlace,1"
+      },
+      {
+        "category": "数码科技",
+        "tag": "算力电源",
+        "title": "前华为北美高管创业，梅威斯获数千万元融资深耕AIDC算力电源",
+        "link": "https://36kr.com/p/3722683801909641?f=rss",
+        "summary": "AIDC算力电源解决方案商梅威斯完成数千万元A轮融资，由星星充电投资。公司由前华为北美高管创立，正推进与国际大厂合作。",
+        "comment": "算力大战背后，给“电老虎”喂饭的生意，看来比想象中更香。",
+        "image": "https://img.36krcdn.com/hsossms/20260314/v2_2439991045654efeb217e5d8318700c3@15419058_oswg143510oswg1080oswg573_img_000?x-oss-process=image/format,jpg/interlace,1"
+      },
+      {
+        "category": "数码科技",
+        "tag": "行业动态",
+        "title": "早报：苹果税降至25%；雷军称小米SU7将涨价；寒武纪首次年度盈利",
+        "link": "https://www.ifanr.com/1658134?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果App Store佣金降至25%；雷军确认新一代小米SU7会涨价；寒武纪2025年首次实现年度盈利，净利润20.59亿元。",
+        "comment": "苹果终于松口，开发者能多分点；寒武纪盈利了，但故事还能讲多久？",
+        "image": ""
+      },
+      {
+        "category": "数码科技",
+        "tag": "新能源汽车",
+        "title": "方程豹钛3闪充版上市：15.38万元起，9分钟快速充电",
+        "link": "https://www.ifanr.com/1658118?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "比亚迪方程豹钛3闪充版正式上市，起售价15.38万元，主打9分钟快速充电技术，定位“精品车”而非一味追求尺寸。",
+        "comment": "充电9分钟，续航能有多久？别又是“实验室工况”下的神话。",
+        "image": ""
+      },
+      {
+        "category": "数码科技",
+        "tag": "新能源汽车",
+        "title": "蔚来李斌：2026年押注大五座SUV，存储成本涨但车价不涨",
+        "link": "https://www.ifanr.com/1658104?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "蔚来CEO李斌表示，公司2026年将重点押注大五座SUV市场，尽管汽车存储成本大幅上涨，但蔚来车型不会因此涨价。",
+        "comment": "李斌的“不涨价”承诺，是良心发现，还是销量压力下的无奈之举？",
+        "image": ""
+      },
+      {
+        "category": "数码科技",
+        "tag": "智能手机",
+        "title": "三星S26 Ultra评测：2026年首个“机皇”候选",
+        "link": "https://www.ifanr.com/1657983?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "三星Galaxy S26 Ultra被评测为2026年首个“机皇”有力竞争者，评测重点提及了其出色的屏幕显示效果。",
+        "comment": "年复一年的“机皇”，除了参数堆料，还能不能有点新意？",
+        "image": ""
+      },
+      {
         "category": "游戏影视",
-        "tag": "影视",
-        "title": "《吸血鬼猎人巴菲》新续集项目被砍，莎拉·米歇尔·盖拉确认",
+        "tag": "剧集",
+        "title": "《吸血鬼猎人巴菲》新续集项目被Hulu取消",
         "link": "https://www.ign.com/articles/buffy-new-sunnydale-continuation-series-scrapped-sarah-michelle-gellar-confirms",
-        "summary": "Hulu已决定取消《吸血鬼猎人巴菲：新阳光谷》续集项目，该剧原计划让莎拉·米歇尔·盖拉回归饰演初代吸血鬼猎人。",
-        "comment": "经典IP炒冷饭失败，流媒体也终于知道情怀不是万能的。",
+        "summary": "Hulu已决定取消《吸血鬼猎人巴菲：新阳光谷》续集项目，该剧原计划由莎拉·米歇尔·盖拉回归主演。",
+        "comment": "经典IP重启又黄一个，流媒体画饼成瘾，观众早已免疫。",
         "image": "https://assets-prd.ignimgs.com/2026/03/14/gettyimages-2266350923-1773513068443.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "今日最佳游戏及硬件优惠汇总",
+        "title": "IGN今日最佳游戏及硬件优惠汇总",
         "link": "https://www.ign.com/articles/best-deals-for-march-14-2026",
-        "summary": "IGN汇总了今日最佳优惠，包括《马里奥赛车世界》、《宇宙机器人无线控制器使用指南》游戏及NZXT水冷等硬件产品。",
-        "comment": "钱包警告！每次看到这种汇总，都感觉是商家精心策划的“剁手”陷阱。",
+        "summary": "IGN汇总了今日最佳优惠，包括《马里奥赛车世界》、《宇宙机器人无线控制器使用指南》等游戏及NZXT水冷等硬件。",
+        "comment": "促销信息大杂烩，钱包又要遭殃，但谁又能拒绝打折呢？",
         "image": "https://assets-prd.ignimgs.com/2026/03/14/dailydeals-1773469183515.png"
       },
       {
         "category": "游戏影视",
         "tag": "周边",
-        "title": "Netflix《海贼王》路飞等身抱枕，或将“入侵”你的梦境",
+        "title": "Netflix《海贼王》路飞等身抱枕，恐成噩梦素材",
         "link": "https://www.ign.com/articles/netflix-one-piece-monkey-d-luffy-plush-body-pillow",
-        "summary": "Netflix《海贼王》真人剧集推出了一款路飞等身毛绒抱枕，其独特的造型引发了网友热议。",
-        "comment": "这造型，与其说陪伴入睡，不如说更适合用来进行橡胶果实能力训练（物理）。",
+        "summary": "Netflix推出《海贼王》真人版路飞的等身抱枕，其造型独特，被网友戏称“会萦绕在梦境中”。",
+        "comment": "周边设计过于“写实”，粉丝看了沉默，路人看了流泪。",
         "image": "https://assets-prd.ignimgs.com/2026/03/14/one-piece-luffy-1773459740213.png"
       },
       {
@@ -35,16 +107,16 @@
         "title": "《严阵以待2：我来了》评测",
         "link": "https://www.ign.com/articles/ready-or-not-2-here-i-come-review",
         "summary": "IGN发布了战术射击游戏《严阵以待2：我来了》的评测。",
-        "comment": "名字起得挺嚣张，希望游戏内容对得起这份自信，别又是“我来了，我倒了”。",
+        "comment": "续作来袭，是更硬核的战术体验，还是换汤不换药？",
         "image": "https://assets-prd.ignimgs.com/2026/03/13/g4caroykdgwd2azcyhi1arqa0cmuitonhjtrfayzn-w-1773423234919.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《杀戮尖塔2》抢先体验版评测：稳扎稳打的迷人续作",
+        "title": "《杀戮尖塔2》抢先体验版评测：野心不大，魅力依旧",
         "link": "https://www.ign.com/articles/slay-the-spire-2-review-early-access",
-        "summary": "IGN评测认为，《杀戮尖塔2》抢先体验版虽未过于激进，但已展现出与原作同样迷人的魅力。",
-        "comment": "经典公式微调，粉丝狂喜，创新者摇头。卡牌肉鸽的“年货”之路开始了？",
+        "summary": "IGN评测认为，《杀戮尖塔2》抢先体验版虽未展现巨大野心，但其卡牌构筑的迷人魅力与初代一脉相承。",
+        "comment": "经典配方，微调剂量，老粉狂喜，新客入坑正当时。",
         "image": "https://assets-prd.ignimgs.com/2026/03/06/slaythespire2-earlyaccessreview-blogroll-1772836878749.jpg"
       },
       {
@@ -52,17 +124,17 @@
         "tag": "行业",
         "title": "当今游戏感觉“空洞”？一只猴子能改变现状吗？",
         "link": "https://www.gamespot.com/articles/todays-games-can-feel-soulless-but-can-punch-the-monkey-change-that/1100-6538667/?ftag=CAD-01-10abi2f",
-        "summary": "文章借一只依恋宜家猩猩玩偶的日本猕猴“拳击猴”的故事，探讨游戏行业是否缺乏能触动人心的人性化设计。",
-        "comment": "游戏缺“灵魂”怪猴子？这逻辑比某些游戏的剧情还跳跃。先解决公式化开放世界吧！",
+        "summary": "文章借一只依恋宜家玩偶的日本猕猴“拳击猴”的故事，探讨当今游戏缺乏灵魂的问题，以及能否从中获得启发。",
+        "comment": "游戏缺灵魂，竟要猴子来教？这反思角度清奇得让人无言以对。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4664088-gettyimages-2262116703.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《大金刚狂欢》最初原型竟是一个“长着巨拳的板栗仔”",
+        "title": "《大金刚狂欢》最初原型竟是一个“拳头巨大的板栗仔”",
         "link": "https://www.gamespot.com/articles/donkey-kong-bananza-began-as-a-goomba-with-giant-fists/1100-6538789/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂新作《大金刚狂欢》的初始原型是一个拥有巨大拳头、进行自由破坏的“板栗仔”，后逐渐演变为现在的金刚主题。",
-        "comment": "任天堂的创意过程：把马里奥世界的杂兵放大，然后问“如果它发狂了会怎样？” 结果就是新IP。",
+        "summary": "任天堂新作《大金刚狂欢》的创意原型，最初是一个拥有巨大拳头的“板栗仔”（Goomba），后经演化成为现在的作品。",
+        "comment": "任天堂的脑洞，从蘑菇兵开始，最终砸出个金刚狂欢。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4666258-dk-5.jpg"
       },
       {
@@ -70,26 +142,26 @@
         "tag": "AI",
         "title": "《守望先锋》元老Jeff Kaplan谈AI：人类精神无可替代",
         "link": "https://www.gamespot.com/articles/overwatch-vet-jeff-kaplan-on-ai-the-human-spirit-is-irreplaceable/1100-6538790/?ftag=CAD-01-10abi2f",
-        "summary": "前暴雪负责人、《守望先锋》总监Jeff Kaplan表示，AI无法替代游戏开发中的人类精神和情感连接。",
-        "comment": "这话从暴雪前高管嘴里说出来，在当下裁员潮和AI工具泛滥的背景下，显得格外珍贵又略带讽刺。",
+        "summary": "前暴雪负责人、《守望先锋》总监Jeff Kaplan表示，在游戏创作中，人工智能无法取代人类的灵魂与精神。",
+        "comment": "AI再强，也编不出玩家在漓江塔互蹲的“精神”。老派制作人的倔强。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4666301-screenshot2026-03-13at3.04.31%E2%80%AFpm.png"
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Epic游戏商店购买游戏送《堡垒之夜》皮肤全列表",
+        "tag": "促销",
+        "title": "Epic游戏商城购买游戏送《堡垒之夜》皮肤全列表",
         "link": "https://www.gamespot.com/articles/every-game-you-can-buy-that-comes-with-a-fortnite-skin-or-accessories/1100-6538488/?ftag=CAD-01-10abi2f",
-        "summary": "Epic Games在2026年加大了“买游戏送《堡垒之夜》皮肤”的促销力度，本文列出了所有参与该活动的游戏。",
-        "comment": "Epic的经典商法：用皮肤“贿赂”玩家买游戏。这算不算另一种形式的“Pay to Win”？赢在衣柜。",
+        "summary": "Epic Games在2026年加大了“买游戏送《堡垒之夜》皮肤”的促销力度，文章列出了所有参与该活动的游戏清单。",
+        "comment": "Epic的经典商法：游戏可以不好玩，但联动皮肤必须炫。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4658289-fortnitegraceskin.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "安全",
-        "title": "FBI对Steam下架涉恶意软件游戏展开调查",
+        "title": "FBI就Steam下架含恶意软件游戏展开调查",
         "link": "https://www.gamespot.com/articles/fbi-launches-investigation-into-games-removed-from-steam-over-malware-concerns/1100-6538786/?ftag=CAD-01-10abi2f",
-        "summary": "因有少量游戏被设计用于传播恶意软件，美国联邦调查局（FBI）已介入调查，并试图识别受害玩家。",
-        "comment": "Steam“屎里淘金”的风险升级了，现在淘到的可能不是垃圾游戏，而是木马大礼包。",
+        "summary": "因Steam平台上有少量游戏被设计用于传播恶意软件，美国联邦调查局（FBI）已介入调查，并试图识别受害玩家。",
+        "comment": "Steam商店也非净土，FBI出手，喜加一前请先擦亮眼。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4666087-steamlogo.jpg"
       }
     ]
