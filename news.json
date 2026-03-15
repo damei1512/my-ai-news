@@ -3,84 +3,210 @@
     "week": "周日",
     "articles": [
       {
-        "category": "数码科技",
-        "tag": "AI视频",
-        "title": "工业级AI视频平台达瓦科技完成近亿元融资，营收破亿",
-        "link": "https://36kr.com/p/3723669408987782?f=rss",
-        "summary": "达瓦科技完成近亿元融资，拥有120TB独家影视数据，是国内首个实现商业化闭环的专业级AI内容创作平台，2025年营收突破亿元。",
-        "comment": "AI视频赛道又添新贵，数据壁垒能撑多久的护城河？",
+        "category": "人工智能",
+        "tag": "智能体",
+        "title": "LangChain推出自主上下文压缩工具",
+        "link": "https://blog.langchain.com/autonomous-context-compression/",
+        "summary": "LangChain在其Deep Agents SDK和CLI中新增了自主上下文压缩工具，旨在优化智能体处理长文本的能力。",
+        "comment": "又给智能体喂新药，希望这次不是安慰剂。",
         "image": ""
       },
       {
-        "category": "数码科技",
-        "tag": "智能家居",
-        "title": "AWE 2026：慕思展示“全域协同”智能家居，让科技大佬集体“躺平”",
-        "link": "https://36kr.com/p/3722669939931524?f=rss",
-        "summary": "在AWE 2026上，慕思展示了其致力于解决智能家居“全域协同”、“主动服务”难题的方案，试图打造真正懂生活的智能之家。",
-        "comment": "从让人失眠到哄人睡觉，床垫公司转型智能家居的决心不小。",
-        "image": "https://img.36krcdn.com/hsossms/20260314/v2_7ea69929f49e47e7aa9ff0ab3606168a@6208419_oswg1830662oswg3200oswg2133_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+        "category": "人工智能",
+        "tag": "智能体",
+        "title": "智能体“马具”剖析：模型与系统的结合",
+        "link": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/",
+        "summary": "文章将智能体定义为“模型+马具”，强调通过“马具工程”构建系统，将模型智能转化为实际生产力。",
+        "comment": "给AI套上马具，是驾驭还是束缚？",
+        "image": ""
       },
       {
-        "category": "数码科技",
-        "tag": "机器人",
-        "title": "AWE 2026：家电巨头集体进军家庭服务机器人赛道",
-        "link": "https://36kr.com/p/3722882943334789?f=rss",
-        "summary": "在AWE 2026展会上，多家家电企业展示了家庭巡逻、老人看护、简单家务等功能的具身智能机器人，成为展会新亮点。",
-        "comment": "从扫地到炒菜，机器人正在成为家电企业内卷的新战场。",
-        "image": "https://img.36krcdn.com/hsossms/20260314/v2_87917742031745368d8388f4a46448ad@1199336245_oswg238921oswg1080oswg1441_img_000?x-oss-process=image/format,jpg/interlace,1"
+        "category": "人工智能",
+        "tag": "编程智能体",
+        "title": "编程智能体如何重塑工程、产品与设计",
+        "link": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/",
+        "summary": "探讨编程智能体如何改变软件公司中工程、产品和设计角色的协作方式，最终目标仍是产出可用的代码。",
+        "comment": "AI写代码，人类写PPT，分工明确。",
+        "image": ""
       },
       {
-        "category": "数码科技",
-        "tag": "算力电源",
-        "title": "前华为北美高管创业，梅威斯获数千万元融资深耕AIDC算力电源",
-        "link": "https://36kr.com/p/3722683801909641?f=rss",
-        "summary": "由前华为北美高管团队创立的梅威斯完成数千万元A轮融资，专注于为AI数据中心提供高效、高密度的全栈算力电源解决方案。",
-        "comment": "AI算力狂飙，连电源都成了香饽饽，华为系创业果然精准。",
-        "image": "https://img.36krcdn.com/hsossms/20260314/v2_2439991045654efeb217e5d8318700c3@15419058_oswg143510oswg1080oswg573_img_000?x-oss-process=image/format,jpg/interlace,1"
+        "category": "人工智能",
+        "tag": "商业应用",
+        "title": "LangChain如何构建GTM智能体，提升销售转化率250%",
+        "link": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/",
+        "summary": "LangChain构建的GTM智能体使销售线索转化率提升250%，并每月为每位销售代表节省40小时。",
+        "comment": "AI抢饭碗，先从销售开始。",
+        "image": ""
       },
       {
-        "category": "数码科技",
+        "category": "人工智能",
+        "tag": "评估",
+        "title": "LangChain构建技能以评估编程智能体",
+        "link": "https://blog.langchain.com/evaluating-skills/",
+        "summary": "LangChain正在构建技能，以帮助评估Codex、Claude Code等编程智能体在其生态系统中的表现。",
+        "comment": "先造AI，再考AI，闭环了。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "搜索",
+        "title": "谷歌AI搜索结果热衷于将用户引回自家服务",
+        "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+        "summary": "谷歌的生成式AI搜索工具越来越多地引用其自身服务，如谷歌搜索和YouTube，而非第三方出版商。",
+        "comment": "AI也学会了“肥水不流外人田”。",
+        "image": "https://media.wired.com/photos/69b2ee5feadc91f592dc322f/master/pass/shutterstock_2668436833.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "开源智能体",
+        "title": "中国“OpenClaw”热潮成为AI公司的淘金热",
+        "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+        "summary": "围绕开源智能体OpenClaw的炒作，正驱动人们租用云服务器和购买AI订阅进行尝试，为科技公司带来意外之财。",
+        "comment": "风口上的猪，这次是AI爪子。",
+        "image": "https://media.wired.com/photos/69af4032df27a642d70d9a52/master/pass/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "游戏",
+        "title": "玩家对AI的噩梦正在成真",
+        "link": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
+        "summary": "从全球内存短缺推高游戏机价格到行业失业，游戏正成为AI热潮中最大的受害者之一。",
+        "comment": "AI赢了游戏，玩家输了现实。",
+        "image": "https://media.wired.com/photos/69af25ebb25d3d9157fd32fb/master/pass/AI-Swallowing-Gaming-Culture.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "军事AI",
+        "title": "Palantir演示展示军方如何用AI聊天机器人制定战争计划",
+        "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+        "summary": "软件演示和五角大楼记录显示，Anthropic的Claude等聊天机器人可帮助军方分析情报并提出下一步行动建议。",
+        "comment": "战争游戏，现在由AI来玩。",
+        "image": "https://media.wired.com/photos/69af2189bf4114a40fa286f0/master/pass/How-Palantir-Deploys-Claude-for-US%20Military-Business-2256533238.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "法律与伦理",
+        "title": "Anthropic与五角大楼的法律纠纷远未结束",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+        "summary": "本期播客讨论了Anthropic与美国国防部之间的传奇故事，这场法律纠纷远未结束。",
+        "comment": "AI公司想赚钱，军方想打仗，一拍即合。",
+        "image": "https://media.wired.com/photos/69b1c94d9fd417e67bc5b52b/master/pass/Uncanny-Valley-Anthropic-vs-DoD-Business-2256654494.jpg"
+      },
+      {
+        "category": "人工智能",
         "tag": "行业动态",
-        "title": "早报：苹果税降至25%；雷军称SU7将涨价；寒武纪首次年度盈利",
-        "link": "https://www.ifanr.com/1658134?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果降低App Store佣金；雷军预告新一代小米SU7会涨价；寒武纪2025年首次实现年度盈利，净利润20.59亿元。",
-        "comment": "有人降价，有人涨价，还有人终于赚钱了，科技圈众生相。",
+        "title": "Meta据称考虑裁员，可能影响公司20%员工",
+        "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+        "summary": "此次裁员可能有助于Meta母公司抵消其在AI基础设施以及AI相关收购和招聘上的激进支出。",
+        "comment": "All in AI的代价，是让员工All out。",
         "image": ""
       },
       {
-        "category": "数码科技",
-        "tag": "新能源汽车",
-        "title": "方程豹钛3闪充版上市：15.38万元起，充电仅需9分钟",
-        "link": "https://www.ifanr.com/1658118?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪方程豹钛3闪充版正式上市，主打9分钟快速充电，起售价15.38万元，定位“精品车”。",
-        "comment": "充电比手机还快？这波“闪充”营销，让加油站的生意更难做了。",
+        "category": "人工智能",
+        "tag": "应用生态",
+        "title": "如何使用ChatGPT新应用集成，包括DoorDash、Spotify、Uber等",
+        "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+        "summary": "学习如何在ChatGPT中直接使用Spotify、Canva、Figma、Expedia等应用。",
+        "comment": "ChatGPT正在成为新的操作系统入口。",
         "image": ""
       },
       {
-        "category": "数码科技",
-        "tag": "新能源汽车",
-        "title": "蔚来李斌：2026年押注大五座SUV，存储成本大涨但不涨价",
-        "link": "https://www.ifanr.com/1658104?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来CEO李斌表示，2026年将重点推出大五座SUV车型，并承诺尽管存储成本上涨，但蔚来汽车不会因此涨价。",
-        "comment": "斌哥一边画大五座的饼，一边咬牙说不涨价，这届CEO不好当。",
+        "category": "人工智能",
+        "tag": "大模型",
+        "title": "“第一次没造对”——马斯克的xAI再次推倒重来",
+        "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+        "summary": "马斯克的AI实验室正在彻底改造其AI编码工具的构建工作，并从Cursor挖来两名新高管。",
+        "comment": "马斯克的风格：先发射，再瞄准，不行就重来。",
         "image": ""
       },
       {
-        "category": "数码科技",
-        "tag": "智能手机",
-        "title": "三星S26 Ultra评测：2026年首个“机皇”，粉丝先买",
-        "link": "https://www.ifanr.com/1657983?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星Galaxy S26 Ultra评测出炉，被称作2026年首个“机皇”，评测强调其屏幕等核心体验的升级。",
-        "comment": "年年都是“机皇”，不知道的还以为三星是卖皇冠的。",
+        "category": "人工智能",
+        "tag": "安全与风险",
+        "title": "代理AI精神病案件的律师警告大规模伤亡风险",
+        "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+        "summary": "AI聊天机器人多年来与自杀事件有关。现在一名律师称它们也出现在大规模伤亡案件中，技术发展快于安全防护。",
+        "comment": "AI在进化，人类的防护还在石器时代。",
         "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "大模型",
+        "title": "人工自我：关于AI自我模型与身份的新研究",
+        "link": "https://www.lesswrong.com/posts/AvFAKAN4C4n6GTriR/the-artificial-self-1",
+        "summary": "一篇新论文和微型网站探讨了AI中的自我模型和身份问题，提供了相关论文和资源链接。",
+        "comment": "AI开始思考“我是谁”，这比思考“怎么用”可怕多了。",
+        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1773538103/lexical_client_uploads/jfpvgcron3t5fwqprnyo.png"
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI安全",
+        "title": "桥梁思维与围墙思维：理解AI安全讨论的两种框架",
+        "link": "https://www.lesswrong.com/posts/zGecnEacBfGaKyN8L/bridge-thinking-and-wall-thinking",
+        "summary": "文章提出“围墙”和“桥梁”两种思维框架，用以理解人们在AI安全问题上的不同讨论方式。",
+        "comment": "有人想建墙防AI，有人想搭桥用AI，鸡同鸭讲。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "大模型安全",
+        "title": "LLM失准可能仅一步之遥，黑盒评估无法检测",
+        "link": "https://www.lesswrong.com/posts/uSgw9muqRZpjpxKDA/llm-misalignment-can-be-one-gradient-step-away-and-blackbox-1",
+        "summary": "研究表明，在黑盒评估下看似对齐的模型，可能隐藏着巨大的后期训练失准风险，仅一次梯度更新即可触发。",
+        "comment": "AI的“人设”说崩就崩，比网红还不稳定。",
+        "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1773517979/lexical_client_uploads/tcy3e8ajru2dbbdp84ks.png"
+      },
+      {
+        "category": "人工智能",
+        "tag": "开源社区",
+        "title": "宣布LocalLlama Discord服务器及机器人！",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/",
+        "summary": "LocalLlama社区宣布推出其Discord服务器和机器人，旨在为本地大模型爱好者提供交流平台。",
+        "comment": "开源社区的尽头是Discord。",
+        "image": "https://b.thumbs.redditmedia.com/QBscWhXGvo8sy9oNNt-7et1ByOGRWY1UckDAudAWACM.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "模型量化",
+        "title": "Unsloth将不再制作TQ1_0量化模型",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ru25ms/unsloth_will_no_longer_be_making_tq1_0_quants/",
+        "summary": "模型优化工具Unsloth宣布将停止制作TQ1_0格式的量化模型，可能转向其他更高效的量化方案。",
+        "comment": "量化格式也内卷，一代版本一代神。",
+        "image": "https://preview.redd.it/x4rtfdkxb4pg1.png?width=320&crop=smart&auto=webp&s=1504547945d6d7aebe8c1955de7ad289361ac6f8"
+      },
+      {
+        "category": "人工智能",
+        "tag": "芯片",
+        "title": "英伟达Nemotron 3 Super的重要性超乎想象",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rtp0og/nvidias_nemotron_3_super_is_a_bigger_deal_than/",
+        "summary": "社区讨论认为，英伟达的Nemotron 3 Super模型在推动边缘AI和特定领域应用方面，其重要性被低估。",
+        "comment": "老黄刀法，这次切向了专用AI芯片。",
+        "image": "https://external-preview.redd.it/FjLcFT2L0-D4uU1VWCMPon4fVvFf_W3BmLC7qAJbCrw.png?width=320&crop=smart&auto=webp&s=7e357f2b78c9cd674f6f5cfc25f7f1a89b82c79f"
+      },
+      {
+        "category": "人工智能",
+        "tag": "性能优化",
+        "title": "如何将Qwen3.5-397B在4x RTX PRO 6000 Blackwell上运行速度提升至282 tok/s",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rtrdsv/55_282_toks_how_i_got_qwen35397b_running_at_speed/",
+        "summary": "通过构建自定义CUTLASS内核修复SM120的MoE GEMM问题，将Qwen大模型推理速度从55 tok/s大幅提升至282 tok/s。",
+        "comment": "极客的快乐：写个内核，速度翻五倍。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "开源数据",
+        "title": "阶跃星辰发布用于训练Step 3.5 Flash的SFT数据集",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rtrmp1/stepfun_releases_sft_dataset_used_to_train_step/",
+        "summary": "阶跃星辰（StepFun）开源了用于训练其Step 3.5 Flash模型的SFT（监督微调）数据集。",
+        "comment": "开源数据，才是AI民主化的真基石。",
+        "image": "https://external-preview.redd.it/tTuCt_toGsybgSVb4tMifPDNrj-e5ZH7kiedb_nhYw4.png?width=640&crop=smart&auto=webp&s=43e1534f5a41dcfa08c7bcdb58574dba5a60f875"
       },
       {
         "category": "游戏影视",
         "tag": "影视",
-        "title": "《吸血鬼猎人巴菲》新续集项目被Hulu取消",
+        "title": "《吸血鬼猎人巴菲》新续集项目被砍，莎拉·米歇尔·盖拉确认",
         "link": "https://www.ign.com/articles/buffy-new-sunnydale-continuation-series-scrapped-sarah-michelle-gellar-confirms",
-        "summary": "Hulu已决定取消《吸血鬼猎人巴菲：新阳光谷》续集项目，该剧原计划由莎拉·米歇尔·盖拉回归主演。",
-        "comment": "经典IP炒冷饭失败，流媒体也终于知道不是啥都能续。",
+        "summary": "Hulu已决定取消《巴菲：新阳光之谷》续集项目，该剧原计划由莎拉·米歇尔·盖拉回归饰演初代吸血鬼猎人。",
+        "comment": "经典IP炒冷饭失败，流媒体也学会及时止损了？",
         "image": "https://assets-prd.ignimgs.com/2026/03/14/gettyimages-2266350923-1773513068443.jpg"
       },
       {
@@ -88,17 +214,17 @@
         "tag": "游戏",
         "title": "今日最佳游戏及硬件优惠汇总",
         "link": "https://www.ign.com/articles/best-deals-for-march-14-2026",
-        "summary": "IGN汇总了今日包括《马里奥赛车世界》、《宇宙机器人》游戏及NZXT水冷等在内的最佳优惠信息。",
-        "comment": "钱包警告！打折是陷阱，买不完的“史低”。",
+        "summary": "IGN汇总了包括《马里奥赛车世界》、《宇宙机器人》、NZXT水冷等在内的最新游戏及硬件优惠信息。",
+        "comment": "钱包警告！促销信息永远是游戏玩家的甜蜜陷阱。",
         "image": "https://assets-prd.ignimgs.com/2026/03/14/dailydeals-1773469183515.png"
       },
       {
         "category": "游戏影视",
         "tag": "周边",
-        "title": "Netflix《海贼王》路飞等身抱枕，慎入！",
+        "title": "Netflix《海贼王》路飞等身抱枕，恐将入侵你的梦境",
         "link": "https://www.ign.com/articles/netflix-one-piece-monkey-d-luffy-plush-body-pillow",
-        "summary": "Netflix推出《海贼王》真人版周边——蒙奇·D·路飞等身抱枕，造型独特引发热议。",
-        "comment": "这抱枕是橡胶做的吗？晚上抱着会不会做噩梦。",
+        "summary": "Netflix《海贼王》真人剧推出路飞等身抱枕周边，其造型独特，引发网友热议。",
+        "comment": "这抱枕的“橡胶”质感，怕不是会让人做噩梦。",
         "image": "https://assets-prd.ignimgs.com/2026/03/14/one-piece-luffy-1773459740213.png"
       },
       {
@@ -107,7 +233,7 @@
         "title": "《严阵以待2》评测：我来了",
         "link": "https://www.ign.com/articles/ready-or-not-2-here-i-come-review",
         "summary": "IGN发布了对战术射击游戏《严阵以待2》的评测。",
-        "comment": "评测来了，玩家钱包准备好了吗？",
+        "comment": "评测标题自带BGM，游戏内容能否也这么带感？",
         "image": "https://assets-prd.ignimgs.com/2026/03/13/g4caroykdgwd2azcyhi1arqa0cmuitonhjtrfayzn-w-1773423234919.jpg"
       },
       {
@@ -115,17 +241,17 @@
         "tag": "游戏",
         "title": "《杀戮尖塔2》抢先体验版评测",
         "link": "https://www.ign.com/articles/slay-the-spire-2-review-early-access",
-        "summary": "《杀戮尖塔2》抢先体验版评测出炉，评价其为“野心不大但同样引人入胜”的续作。",
-        "comment": "经典玩法缝缝补补，玩家照样买账，续作躺赢。",
+        "summary": "IGN评测认为，《杀戮尖塔2》虽不追求巨大革新，但依然保持了前作令人着迷的核心魅力。",
+        "comment": "续作不翻车就是胜利，看来这次稳了。",
         "image": "https://assets-prd.ignimgs.com/2026/03/06/slaythespire2-earlyaccessreview-blogroll-1772836878749.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "现代游戏“灵魂”缺失？“拳击猴”能改变现状吗？",
+        "title": "当今游戏感觉“空洞”？“拳击猴”能改变现状吗？",
         "link": "https://www.gamespot.com/articles/todays-games-can-feel-soulless-but-can-punch-the-monkey-change-that/1100-6538667/?ftag=CAD-01-10abi2f",
-        "summary": "文章借一只因宜家玩偶获得慰藉的日本猕猴“拳击猴”的故事，探讨现代游戏是否缺乏“灵魂”以及如何注入情感。",
-        "comment": "游戏有没有灵魂不知道，但蹭动物热点的心是真切。",
+        "summary": "文章借一只依恋宜家玩偶的日本猕猴“拳击猴”的故事，探讨游戏行业如何找回触动玩家心灵的“灵魂”。",
+        "comment": "游戏没灵魂，怪猴子？这逻辑比游戏剧情还魔幻。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4664088-gettyimages-2262116703.jpg"
       },
       {
@@ -133,8 +259,8 @@
         "tag": "游戏",
         "title": "《大金刚狂欢》最初原型竟是“长着巨拳的板栗仔”",
         "link": "https://www.gamespot.com/articles/donkey-kong-bananza-began-as-a-goomba-with-giant-fists/1100-6538789/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂新作《大金刚狂欢》的早期原型是一个基于《超级马里奥》中板栗仔角色、但拥有巨大拳头的创意。",
-        "comment": "任天堂的脑洞：给杂兵装上拳头，就成了新IP。",
+        "summary": "任天堂新作《大金刚狂欢》的创意原型，最初是一个基于《超级马力欧》系列中“板栗仔”角色、但拥有巨大拳头的实验项目。",
+        "comment": "任天堂的创意，果然是从缝合自家角色开始的。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4666258-dk-5.jpg"
       },
       {
@@ -142,17 +268,17 @@
         "tag": "AI",
         "title": "《守望先锋》元老Jeff Kaplan谈AI：人类精神无可替代",
         "link": "https://www.gamespot.com/articles/overwatch-vet-jeff-kaplan-on-ai-the-human-spirit-is-irreplaceable/1100-6538790/?ftag=CAD-01-10abi2f",
-        "summary": "前暴雪负责人、《守望先锋》总监Jeff Kaplan表示，AI在游戏开发中潜力巨大，但人类的灵魂与精神无法被取代。",
-        "comment": "话虽没错，但资本眼里，灵魂哪有降本增效香？",
+        "summary": "前暴雪负责人、《守望先锋》制作人Jeff Kaplan表示，AI无法替代游戏创作中的人类精神和情感连接。",
+        "comment": "这话从暴雪前高管嘴里说出来，怎么听着有点讽刺？",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4666301-screenshot2026-03-13at3.04.31%E2%80%AFpm.png"
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "Epic游戏商店购买游戏送《堡垒之夜》皮肤全列表",
+        "title": "Epic游戏商店所有附赠《堡垒之夜》皮肤的购买指南",
         "link": "https://www.gamespot.com/articles/every-game-you-can-buy-that-comes-with-a-fortnite-skin-or-accessories/1100-6538488/?ftag=CAD-01-10abi2f",
-        "summary": "Epic Games在2026年加大了促销力度，列出了在Epic商店购买即可获赠《堡垒之夜》皮肤或配件的游戏完整列表。",
-        "comment": "Epic的经典商法：游戏可以不玩，皮肤必须拿到。",
+        "summary": "文章汇总了在Epic游戏商店购买即可获赠《堡垒之夜》皮肤或配件的所有游戏，2026年此类促销活动将大幅增加。",
+        "comment": "Epic的“买游戏送皮肤”策略，是促销游戏还是卖皮肤？",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4658289-fortnitegraceskin.jpg"
       },
       {
@@ -160,17 +286,17 @@
         "tag": "游戏",
         "title": "FBI就Steam下架含恶意软件游戏展开调查",
         "link": "https://www.gamespot.com/articles/fbi-launches-investigation-into-games-removed-from-steam-over-malware-concerns/1100-6538786/?ftag=CAD-01-10abi2f",
-        "summary": "因Steam平台上部分游戏被设计用于传播恶意软件，美国联邦调查局（FBI）西雅图分局已启动调查，试图识别受害玩家。",
-        "comment": "Steam商店成黑产温床？G胖的审核机制该升级了。",
+        "summary": "因Steam平台上有少量游戏被设计用于传播恶意软件，美国联邦调查局（FBI）已介入调查，并试图识别受害玩家。",
+        "comment": "Steam的“创意工坊”这次玩脱了，连FBI都惊动了。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4666087-steamlogo.jpg"
       },
       {
         "category": "时事热点",
         "tag": "国际局势",
-        "title": "特朗普敦促英国等国向霍尔木兹海峡派遣军舰",
+        "title": "特朗普呼吁多国向霍尔木兹海峡派遣军舰",
         "link": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统特朗普表示，希望中国、法国、日本和韩国也向霍尔木兹海峡派遣军舰，以保卫这一关键的石油运输通道。",
-        "comment": "全球安保队长在线摇人，这波“众筹”护航，格局是打开了，还是摊牌了？",
+        "summary": "美国总统特朗普敦促英国等国向霍尔木兹海峡派遣军舰，并表示希望中国、法国、日本和韩国也派船保卫这一关键石油运输通道。",
+        "comment": "全球“摇人”保卫自家油路，这算盘打得大西洋对岸都听见了。",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb39/live/d6514290-1fd9-11f1-801d-ed3cff6bf876.jpg"
       }
     ]
