@@ -82,10 +82,10 @@ RSS_SOURCES = {
     "时事热点": [
         # 国际时事
         "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "https://www.reutersagency.com/feed/?taxonomy=markets&post_type=reuters-best",
-        # 国内热榜
-        "https://rsshub.rssforever.com/jike/topic/hot",
-        "https://rsshub.pseudoyu.com/jike/topic/hot",
+        "https://www.reuters.com/arc/outboundfeeds/feed/?outputType=xml",
+        # 国内热榜/新闻（更稳定）
+        "https://rsshub.app/jike/topic/hot",
+        "https://rsshub.app/zhihu/hotlist"
     ]
 }
 
@@ -283,6 +283,7 @@ class ImageExtractor:
 
 def get_current_date_info():
     """获取北京时间日期和星期"""
+    # 强制指定 Asia/Shanghai 时区
     beijing_tz = pytz.timezone('Asia/Shanghai')
     now = datetime.datetime.now(beijing_tz)
     date_str = now.strftime("%Y-%m-%d")
@@ -420,6 +421,11 @@ JSON 格式示例：
             if 'image' not in item:
                 item['image'] = ""
         
+        # 强制分类兜底逻辑
+        for item in result:
+            if not item.get('category'):
+                item['category'] = category
+            
         return result
         
     except Exception as e:

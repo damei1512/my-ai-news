@@ -514,11 +514,41 @@
             box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
         }
 
-        /* 分类颜色 */
-        .category-btn[data-cat="人工智能"].active { background: #8b5cf6; }  /* 紫色 */
-        .category-btn[data-cat="数码科技"].active { background: #3b82f6; }  /* 蓝色 */
-        .category-btn[data-cat="游戏影视"].active { background: #ec4899; }  /* 粉色 */
-        .category-btn[data-cat="时事热点"].active { background: #ef4444; }  /* 红色 */
+        /* 分类颜色 - 渐变质感 */
+        .category-btn[data-cat="人工智能"].active { 
+            background: linear-gradient(135deg, #9f7aea 0%, #7c3aed 100%);
+            box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.3);
+        }
+        .category-btn[data-cat="数码科技"].active { 
+            background: linear-gradient(135deg, #60a5fa 0%, #2563eb 100%);
+            box-shadow: 0 4px 15px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255,255,255,0.3);
+        }
+        .category-btn[data-cat="游戏影视"].active { 
+            background: linear-gradient(135deg, #f472b6 0%, #db2777 100%);
+            box-shadow: 0 4px 15px rgba(236, 72, 153, 0.4), inset 0 1px 0 rgba(255,255,255,0.3);
+        }
+        .category-btn[data-cat="时事热点"].active { 
+            background: linear-gradient(135deg, #f87171 0%, #dc2626 100%);
+            box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4), inset 0 1px 0 rgba(255,255,255,0.3);
+        }
+
+        /* 选中状态 - 柔和发光效果 */
+        .category-btn.active {
+            border-color: rgba(255,255,255,0.6);
+            position: relative;
+        }
+        
+        /* 使用伪元素创建柔和光晕 */
+        .category-btn.active::before {
+            content: '';
+            position: absolute;
+            inset: -2px;
+            border-radius: 99px;
+            background: inherit;
+            filter: blur(8px);
+            opacity: 0.4;
+            z-index: -1;
+        }
 
         /* 暗色模式下的分类按钮 */
         [data-theme="dark"] .category-btn {
@@ -531,10 +561,10 @@
             background: rgba(30, 41, 59, 0.7);
             border-color: rgba(255, 255, 255, 0.25);
         }
-        /* 暗色模式下选中状态 - 增强发光效果 */
-        [data-theme="dark"] .category-btn.active {
-            box-shadow: 0 0 20px currentColor, 0 4px 12px rgba(0,0,0,0.5);
-            border-color: rgba(255,255,255,0.5);
+        /* 暗色模式下选中状态 - 柔和发光 */
+        [data-theme="dark"] .category-btn.active::before {
+            opacity: 0.6;
+            filter: blur(12px);
         }
 
         /* 按钮图标样式 */
