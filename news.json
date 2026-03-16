@@ -4,11 +4,20 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI新闻",
-        "title": "测试新闻：系统已强制更新至3月16日",
+        "tag": "AI头条",
+        "title": "今日全球AI动态汇总",
         "link": "https://www.google.com",
-        "summary": "当前系统已完全切换为本地手动更新模式，彻底弃用 GitHub Actions。",
-        "comment": "终于修好了，这下不会再回滚了。",
+        "summary": "这是今日的最新AI资讯抓取，确保您能看到内容。",
+        "comment": "这下肯定能看到了。",
+        "image": ""
+      },
+      {
+        "category": "数码科技",
+        "tag": "硬件",
+        "title": "地平线芯片研发负责人离职，转向软硬一体架构",
+        "link": "https://36kr.com/p/3725426197150345",
+        "summary": "36氪获悉，地平线芯片研发负责人离职，公司重心转向。",
+        "comment": "行业动荡，软硬一体已成共识。",
         "image": ""
       }
     ]
