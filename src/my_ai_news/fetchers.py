@@ -3,6 +3,8 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from urllib.parse import urlparse
 
 import feedparser
@@ -38,6 +40,24 @@ def extract_image(entry: object) -> str:
     return ""
 
 
+def extract_published_values(entry: object) -> tuple[str, str]:
+    raw_value = getattr(entry, "published", "") or getattr(entry, "updated", "") or ""
+
+    parsed_struct = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
+    if parsed_struct:
+        dt = datetime(*parsed_struct[:6], tzinfo=timezone.utc)
+        return raw_value, dt.strftime("%Y-%m-%d")
+
+    if raw_value:
+        try:
+            dt = parsedate_to_datetime(raw_value)
+            return raw_value, dt.date().isoformat()
+        except (TypeError, ValueError, IndexError):
+            pass
+
+    return raw_value, ""
+
+
 def fetch_source(source: dict) -> list[RawItem]:
     feed = feedparser.parse(source["url"])
     fetched_at = utc_now_iso()
@@ -50,7 +70,7 @@ def fetch_source(source: dict) -> list[RawItem]:
         canonical_url = canonicalize_url(url) if url else ""
         fingerprint = fingerprint_text(title, summary)
         payload = json.dumps(dict(entry), ensure_ascii=False)
-        published_at = getattr(entry, "published", "") or getattr(entry, "updated", "")
+        published_at, published_date = extract_published_values(entry)
 
         if not title or not url:
             continue
@@ -66,6 +86,7 @@ def fetch_source(source: dict) -> list[RawItem]:
                 summary=summary,
                 image_url=extract_image(entry),
                 published_at=published_at,
+                published_date=published_date,
                 fetched_at=fetched_at,
                 fingerprint=fingerprint,
                 payload_json=payload,

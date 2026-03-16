@@ -10,6 +10,15 @@
       "priority": 90
     },
     {
+      "id": "techcrunch_ai",
+      "name": "TechCrunch AI",
+      "category": "ai",
+      "type": "rss",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "enabled": true,
+      "priority": 88
+    },
+    {
       "id": "openai_blog",
       "name": "OpenAI",
       "category": "ai",
@@ -44,6 +53,24 @@
       "url": "https://www.gcores.com/rss",
       "enabled": true,
       "priority": 80
+    },
+    {
+      "id": "ign",
+      "name": "IGN",
+      "category": "games",
+      "type": "rss",
+      "url": "https://www.ign.com/rss/articles/feed",
+      "enabled": true,
+      "priority": 78
+    },
+    {
+      "id": "gamespot",
+      "name": "GameSpot",
+      "category": "games",
+      "type": "rss",
+      "url": "https://www.gamespot.com/feeds/news/",
+      "enabled": true,
+      "priority": 76
     },
     {
       "id": "bbc_world",

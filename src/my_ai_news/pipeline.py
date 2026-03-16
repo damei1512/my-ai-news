@@ -49,10 +49,10 @@ def store_raw_items(connection: sqlite3.Connection, items: list) -> None:
         """
         INSERT OR IGNORE INTO raw_items (
             source_id, source_name, category, title, url, canonical_url, summary,
-            image_url, published_at, fetched_at, fingerprint, payload_json
+            image_url, published_at, published_date, fetched_at, fingerprint, payload_json
         ) VALUES (
             :source_id, :source_name, :category, :title, :url, :canonical_url, :summary,
-            :image_url, :published_at, :fetched_at, :fingerprint, :payload_json
+            :image_url, :published_at, :published_date, :fetched_at, :fingerprint, :payload_json
         )
         """,
         [item.to_dict() for item in items],
@@ -120,7 +120,7 @@ def run_pipeline(project_root: Path) -> dict:
                 source_status = {
                     "source_id": source["id"],
                     "source_name": source["name"],
-                    "status": "success",
+                    "status": "success" if source_items else "empty",
                     "items_fetched": len(source_items),
                     "error_message": None,
                 }

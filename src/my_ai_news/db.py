@@ -27,6 +27,7 @@ CREATE TABLE IF NOT EXISTS raw_items (
     summary TEXT,
     image_url TEXT,
     published_at TEXT,
+    published_date TEXT,
     fetched_at TEXT NOT NULL,
     fingerprint TEXT NOT NULL,
     payload_json TEXT NOT NULL,

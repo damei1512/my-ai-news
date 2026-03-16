@@ -15,6 +15,7 @@ class RawItem:
     summary: str
     image_url: str
     published_at: str
+    published_date: str
     fetched_at: str
     fingerprint: str
     payload_json: str

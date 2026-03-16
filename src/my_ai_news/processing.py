@@ -49,8 +49,8 @@ def score_item(item: RawItem, source_priority: int) -> int:
 
 
 def story_date_from_item(item: RawItem) -> str:
-    if item.published_at:
-        return item.published_at[:10]
+    if item.published_date:
+        return item.published_date
     return datetime.utcnow().strftime("%Y-%m-%d")
 
 
