@@ -1,79 +1,404 @@
 {
-  "Sat, 14 Ma": {
-    "week": "",
+  "2026-03-16": {
+    "week": "周一",
     "articles": [
       {
-        "category": "数码科技",
-        "tag": "科技政策",
-        "title": "苹果税降至25%/小米SU7将涨价/严查小字免责广告",
-        "link": "https://www.ifanr.com/1658134?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果降低部分应用抽成比例；雷军确认新一代小米SU7会涨价；监管部门将严查小字免责广告乱象。",
-        "comment": "科技行业监管趋严，企业定价策略面临调整。",
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Nvidia GTC 2026大会前瞻：黄仁勋主题演讲观看指南",
+        "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+        "summary": "英伟达年度旗舰大会GTC 2026即将举行，创始人黄仁勋将发表主题演讲，预计将发布新产品、宣布合作伙伴关系并阐述未来计算愿景。",
+        "comment": "AI芯片龙头年度风向标，行业关注度极高。",
         "image": "",
-        "score": 91
-      }
-    ]
-  },
-  "Mon, 16 Ma": {
-    "week": "",
-    "articles": [
+        "score": 100
+      },
       {
-        "category": "数码科技",
-        "tag": "iOS",
-        "title": "iOS 27或适配折叠屏iPhone，315曝光AI投毒产业链",
-        "link": "https://www.ifanr.com/1658150?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iOS 27系统或为折叠屏iPhone进行定制开发；315晚会曝光AI数据投毒黑色产业链；Meta被曝将裁员1.6万人。",
-        "comment": "科技行业监管趋严，AI安全与就业问题并存。",
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "韦氏词典与不列颠百科全书起诉OpenAI侵权",
+        "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+        "summary": "韦氏词典与不列颠百科全书起诉OpenAI，指控其未经授权使用近10万篇文章训练大语言模型，侵犯版权。",
+        "comment": "版权争议持续发酵，AI训练数据合法性再受挑战。",
         "image": "",
-        "score": 92
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Frore芯片液冷技术获1.43亿美元融资，估值达16.4亿美元",
+        "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+        "summary": "在英伟达CEO黄仁勋推动下，Frore转向开发芯片液冷技术，近期完成1.43亿美元融资，估值达16.4亿美元成为独角兽企业。",
+        "comment": "液冷技术正成为芯片散热的关键突破方向。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Fuse获2500万美元融资，革新美国信用合作社贷款系统",
+        "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+        "summary": "初创公司Fuse融资2500万美元，用于以AI原生平台替代传统贷款发放系统，并设立500万美元救助基金协助信用合作社迁移。",
+        "comment": "AI正逐步渗透传统金融基础设施，技术替代趋势明显。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "谷歌与Accel印度加速器从4000申请中选出5家非AI包装初创企业",
+        "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+        "summary": "谷歌与Accel在审核印度AI初创企业申请时发现约70%为“包装型”项目，最终从超4000份申请中选出5家非包装企业进入加速计划。",
+        "comment": "投资方开始警惕AI泡沫，注重底层技术创新。",
+        "image": "",
+        "score": 99
       },
       {
         "category": "数码科技",
-        "tag": "车企",
-        "title": "车企315前紧急应对，现场退车引关注",
-        "link": "https://www.ifanr.com/1658270?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "车企在315晚会前采取门口拦人、现场退车等措施应对潜在曝光，反映行业对消费者权益问题的紧张应对。",
-        "comment": "临时应对难掩根本问题，消费者权益保护需常态化。",
+        "tag": "芯片",
+        "title": "地平线芯片负责人将离职，公司转向软硬一体架构",
+        "link": "https://36kr.com/p/3725426197150345?f=rss",
+        "summary": "地平线芯片研发负责人陈鹏即将离职，内部呼声较高的接替人选是副总裁兼首席架构师苏箐。公司正推动软硬一体架构，苏箐参与了征程7系列芯片的架构设计。",
+        "comment": "核心研发人员变动，或影响公司芯片战略执行。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "汽车",
-        "title": "大众发布史上最大SUV，车长5.2米配六座",
-        "link": "https://www.ifanr.com/1658198?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "大众推出旗舰SUV揽境，车长超5.2米，采用六座布局，并搭载被称为“地表最强”的增程混动系统。",
-        "comment": "大众以“中国方案”回应本土化竞争，产品力是关键。",
-        "image": "",
-        "score": 91
+        "score": 96
       },
       {
         "category": "数码科技",
         "tag": "新能源汽车",
-        "title": "极氪8X预售37.68万元起，3秒破百",
-        "link": "https://www.ifanr.com/1658285?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "极氪发布8X车型，最大马力1400匹，百公里加速时间约3秒，预售价格37.68万元起。",
-        "comment": "性能参数亮眼，但市场表现仍需观察。",
+        "title": "零一汽车再获12亿元融资，瞄准重卡电动化",
+        "link": "https://36kr.com/p/3717366669948297?f=rss",
+        "summary": "新能源智能重卡公司零一汽车完成12亿元新一轮融资，由宁德时代旗下溥泉资本、Momenta、蔚来资本等联合领投，半年内第二次获大额融资。",
+        "comment": "资本持续押注重卡电动化赛道，竞争日趋激烈。",
         "image": "",
-        "score": 89
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "飞速创新登陆港交所，补齐AI网络基建拼图",
+        "link": "https://36kr.com/p/3725233182062982?f=rss",
+        "summary": "2026年港股IPO持续火热，年内已有28家企业上市募资近千亿。AI板块成为焦点，除大模型与算力公司外，网络基建“卖铲人”飞速创新也成功登陆港交所。",
+        "comment": "AI产业链关键环节企业上市，反映市场对基础设施的持续看好。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "半导体",
+        "title": "车规级碳化硅模块厂商获亿元融资，布局AI算力基建",
+        "link": "https://36kr.com/p/3725161156639368?f=rss",
+        "summary": "无锡利普思半导体完成亿元PreB+轮融资，资金将用于扬州车规级碳化硅模块封装测试基地建设及市场推广。",
+        "comment": "第三代半导体技术正加速向AI算力基础设施领域渗透。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "国企改革",
+        "title": "京投发展拟清仓房地产业务，公告后股价涨停",
+        "link": "https://36kr.com/p/3725013049719168?f=rss",
+        "summary": "京投发展公告拟将全部房地产开发业务资产及负债转让给控股股东，彻底退出该领域，次日股价涨停。",
+        "comment": "国企剥离地产业务获市场积极回应，反映行业转型趋势。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏行业",
+        "title": "法院判Krafton恢复《深海迷航2》工作室负责人职位并发放2.5亿美元奖金",
+        "link": "https://www.ign.com/articles/judge-slams-subnautica-2-publisher-krafton-in-victory-for-fired-workers-orders-company-reinstate-boss-and-extend-250-million-bonus",
+        "summary": "法院判决要求Krafton恢复《深海迷航2》开发商Unknown Worlds前负责人职位，并向员工发放原计划的2.5亿美元奖金，这是被解雇员工的重要法律胜利。",
+        "comment": "游戏行业劳资纠纷的里程碑式判决。",
+        "image": "https://assets-prd.ignimgs.com/2024/10/17/subnautica-1729185456852.jpg",
+        "score": 95
+      },
+      {
+        "category": "数码科技",
+        "tag": "汇率",
+        "title": "韩元汇率跌至18年新低，抖音在深圳成立新科技公司",
+        "link": "https://36kr.com/p/3725424173857155?f=rss",
+        "summary": "韩元对美元汇率跌至近18年最低，WTI原油突破100美元/桶。抖音旗下科技公司在深圳成立新信息技术公司。半导体板块午后走高，华虹公司A股一度大涨超16%。",
+        "comment": "汇率、油价与科技动态交织，反映全球市场波动与本土产业布局。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "松下",
+        "title": "松下发布中国新战略：明星单品与套系家电并重，强调中国制造出海",
+        "link": "https://36kr.com/p/3725245431839369?f=rss",
+        "summary": "松下在AWE期间发布中国事业新战略，聚焦明星单品与套系家电，并强调“Made by China”出海方向，以应对需求下降、市场内卷的挑战。",
+        "comment": "松下调整中国战略，以本土化制造应对存量市场竞争。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "直播电商",
+        "title": "直播电商满意度报告发布，消费者呼吁强化源头治理",
+        "link": "https://36kr.com/p/3724972796361096?f=rss",
+        "summary": "多机构联合发布《直播电商消费者满意度调查报告（2026）》，指出直播电商已成主流渠道，美妆、食品、家居消费前三，商品假冒伪劣、价格不透明、虚假宣传为突出问题。",
+        "comment": "报告直击行业痛点，源头治理是提升满意度的关键。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏硬件",
+        "title": "索尼确认多款游戏将获PS5 Pro PSSR画质升级",
+        "link": "https://www.ign.com/articles/sony-confirms-playstation-5-pro-pssr-upgrades-for-cyberpunk-2077-final-fantasy-7-rebirth-and-even-former-xbox-console-exclusive-hellblade-2",
+        "summary": "索尼公布首批支持PS5 Pro PSSR画质增强的游戏名单，包括《赛博朋克2077》《最终幻想7重生》及前Xbox独占《地狱之刃2》。",
+        "comment": "跨平台画质升级策略展现索尼生态扩展野心。",
+        "image": "https://assets-prd.ignimgs.com/2023/03/22/hellblade-1679505664375.jpg",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "服务机器人",
+        "title": "清越科技发布双品牌战略，拓展服务机器人核心部件",
+        "link": "https://36kr.com/p/3725098876140164?f=rss",
+        "summary": "清越科技宣布两大品牌战略升级：配盾品牌升级为清洁电器全生态供应商，新品牌Show Robotics将聚焦服务机器人核心功能组件。",
+        "comment": "双品牌战略清晰，从家电向机器人核心部件拓展有潜力。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "戴森",
+        "title": "戴森推出PencilWash™洗地机，主打纤巧机身与湿拖清洁",
+        "link": "https://36kr.com/p/3725107868285576?f=rss",
+        "summary": "戴森发布全新PencilWash™洗地机，机身直径仅38毫米，整机重2.2kg，设计纤巧灵活，便于深入低矮家具底部清洁。配备释水浸润、吸附刮污系统，提供两档清洁模式，针对不同地面材质与污渍调节水量。",
+        "comment": "戴森以工业设计切入洗地机市场，差异化竞争策略明显。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "iOS 27或适配折叠屏iPhone，315曝光AI投毒产业链",
+        "link": "https://www.ifanr.com/1658150?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "iOS 27系统或为折叠屏iPhone进行定制开发；315晚会曝光AI训练数据投毒黑色产业链；Meta被曝将裁员1.6万人。",
+        "comment": "科技行业监管与产品创新并行，数据安全成焦点。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "《刺客信条》网飞剧集新增演员，包括《普罗米修斯》女星",
+        "link": "https://www.ign.com/articles/assassins-creed-netflix-series-announces-more-cast-members-including-prometheus-star-noomi-rapace",
+        "summary": "网飞《刺客信条》真人剧集公布更多演员阵容，《普罗米修斯》主演劳米·拉佩斯确认加盟。",
+        "comment": "知名演员加盟为游戏改编剧集增添期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/16/gettyimages-2231840391-1773680567985.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏硬件",
+        "title": "PS5 Pro升级版PSSR今日上线，首批支持游戏公布",
+        "link": "https://www.gamespot.com/articles/ps5-pros-upgraded-pssr-is-rolling-out-today-here-are-the-first-games-getting-it/1100-6538811/?ftag=CAD-01-10abi2f",
+        "summary": "索尼为PS5 Pro推出升级版PlayStation Spectral Super Resolution技术，多家游戏工作室已公布首批支持该技术的游戏名单及具体细节。",
+        "comment": "技术升级将显著提升PS5 Pro的画面表现力。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4666854-pssr-2.jpg",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "新能源汽车",
+        "title": "极氪8X预售37.68万元起，1400匹马力3秒破百",
+        "link": "https://www.ifanr.com/1658285?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "极氪发布新款高性能车型8X，最大马力达1400匹，百公里加速时间约3秒，预售价格37.68万元起。",
+        "comment": "性能参数亮眼，但市场对高价国产电动的接受度仍是考验。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "车企维权",
+        "title": "车企315前紧急应对，现场拦截投诉车主退车",
+        "link": "https://www.ifanr.com/1658270?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "报道揭露部分车企在315晚会前采取拦截投诉车主、现场退车等方式应对消费者维权，而非解决产品问题本身。",
+        "comment": "治标不治本的危机公关，暴露行业服务短板。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "机器人",
         "title": "科沃斯机器人探索具身智能未来",
         "link": "https://www.ifanr.com/1658167?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "科沃斯机器人正致力于将具身智能技术带入家庭场景，推动服务机器人向更实用方向发展。",
-        "comment": "家庭机器人从概念走向实用仍需突破技术瓶颈。",
+        "summary": "科沃斯机器人正致力于将具身智能技术融入家庭场景，推动机器人走进日常生活。",
+        "comment": "具身智能是机器人落地的关键路径，家庭场景考验实用化能力。",
         "image": "",
-        "score": 88
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "大众汽车",
+        "title": "大众发布史上最大SUV，5.2米六座搭载高效增程器",
+        "link": "https://www.ifanr.com/1658198?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "大众推出史上最大尺寸SUV，车长5.2米，采用六座布局，并搭载了被称为“地表最强”的高效增程混合动力系统。",
+        "comment": "大众以“中国方案”结合德国技术，在新能源赛道发起强力冲击。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "VR设备",
+        "title": "Meta Quest 3S VR头显在速卖通限时特价190.62美元",
+        "link": "https://www.ign.com/articles/meta-quest-3s-vr-headset-deal-at-aliexpress",
+        "summary": "IGN报道，Meta Quest 3S VR头显在速卖通平台限时特价190.62美元包邮，使用PayPal结账可再减15美元。",
+        "comment": "入门级VR设备价格下探，有助于降低体验门槛。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/16/metaquest3s-1773684578086.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "硬件",
+        "title": "外星人RTX 5080游戏主机成目前最实惠预装机",
+        "link": "https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-deal-drops-to-2150",
+        "summary": "IGN报道外星人Aurora RTX 5080游戏主机降价至2150美元，该显卡可在4K分辨率下以60帧以上运行最新游戏。",
+        "comment": "高端游戏硬件价格下探，利好追求顶级性能的玩家。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/16/alienwareaurorar16-1773680629601.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏硬件",
+        "title": "Alienware旗舰游戏主机降价至4450美元",
+        "link": "https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-down-to-4450",
+        "summary": "Alienware 2026年最强大的Area-51 Ryzen X3D版RTX 5090游戏PC价格降至4450美元。",
+        "comment": "高端游戏PC价格松动，或预示新品周期临近。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/10/alienwarearea51ryzen-1770751108036.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影视制作",
+        "title": "《Pluribus》主创曾设想多数演员无需着装",
+        "link": "https://www.ign.com/articles/pluribus-creator-vince-gilligan-reveals-bold-idea-where-most-of-the-shows-cast-didnt-need-to-wear-clothes-at-all",
+        "summary": "剧集《Pluribus》主创文斯·吉里根透露，曾考虑让大部分演员在剧中不穿衣服，但最终未采用此方案。",
+        "comment": "创意大胆，但落地需考虑实际制作与观众接受度。",
+        "image": "https://assets-prd.ignimgs.com/2025/11/07/pluribus-review-thumb-1762479273703.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏新闻",
+        "title": "乐高蝙蝠侠新作发售日变更，提前推出",
+        "link": "https://www.ign.com/articles/lego-batman-legacy-of-the-dark-knight-release-date-changes-but-its-good-news",
+        "summary": "华纳兄弟游戏宣布《乐高蝙蝠侠：黑暗骑士遗产》发售日变更，并非延期而是提前，对玩家是好消息。",
+        "comment": "发售提前实属罕见，可见开发商信心十足。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/16/lego-batman-legacy-of-the-dark-knight-new-worldwide-launch-date-00-00-02-1773677486455.png",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影视周边",
+        "title": "恐怖经典《夜行者》播出50余年后首推可动人偶",
+        "link": "https://www.ign.com/articles/after-more-than-50-years-kolchak-the-night-stalker-is-finally-getting-an-action-figure",
+        "summary": "IGN报道，开播逾50年的邪典恐怖剧集《夜行者》主角科尔查克将首次推出官方可动人偶，满足粉丝长期收藏需求。",
+        "comment": "经典IP的商业价值在长尾市场中持续显现。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/13/mixcollage-13-mar-2026-03-29-pm-1895-1773430292608.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "《杀手》真人剧集项目搁浅，九年筹备无果而终",
+        "link": "https://www.gamespot.com/articles/after-nine-years-the-live-action-hitman-tv-show-is-dead/1100-6538808/?ftag=CAD-01-10abi2f",
+        "summary": "由《疾速追杀》编剧德里克·科尔斯塔德为Hulu筹拍的《杀手》真人剧集，在九年后确认项目已“搁浅水中”，不再推进。",
+        "comment": "长周期项目夭折，凸显影视改编的落地之难。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4666839-screenshot2026-03-16at11.13.40%E2%80%AFam.png",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏攻略",
+        "title": "《宝可梦波可比亚》闪耀天空岛通关攻略",
+        "link": "https://www.gamespot.com/articles/how-to-complete-sparkling-skylands-in-pokemon-pokopia/1100-6538803/?ftag=CAD-01-10abi2f",
+        "summary": "针对游戏《宝可梦波可比亚》中“闪耀天空岛”区域的通关指南，帮助玩家完成宝可梦提出的恢复任务。",
+        "comment": "针对特定游戏区域的实用攻略，对卡关玩家有直接帮助。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4666795-sparklingskylandsquestcomplete.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏攻略",
+        "title": "《宝可梦波波尼亚》Rocky Ridges区域任务攻略",
+        "link": "https://www.gamespot.com/articles/how-to-complete-rocky-ridges-in-pokemon-pokopia-time-to-party-quest-walkthrough/1100-6538774/?ftag=CAD-01-10abi2f",
+        "summary": "文章提供了游戏《宝可梦波波尼亚》中第三张地图Rocky Ridges的详细任务攻略，指导玩家如何帮助宝可梦恢复家园并完成救援任务。",
+        "comment": "针对特定游戏区域的实用攻略，对卡关玩家有直接帮助。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4665993-pokemon_pokopia_screenshot_20.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏攻略",
+        "title": "《宝可梦波可比亚》神秘石板解谜指南：解锁梦幻宝可梦",
+        "link": "https://www.gamespot.com/articles/pokemon-pokopia-how-to-solve-mysterious-slate-puzzle-and-unlock-mew/1100-6538805/?ftag=CAD-01-10abi2f",
+        "summary": "文章详细介绍了在《宝可梦波可比亚》中如何通过收集和解谜神秘石板来解锁传说中的宝可梦梦幻。",
+        "comment": "实用攻略，对收集爱好者有直接帮助。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4666808-pokemon_pokopia_screenshot_7.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "奥斯卡",
+        "title": "麦肯娜·格瑞丝或成首位带宝可梦卡牌出席奥斯卡的玩家",
+        "link": "https://www.gamespot.com/articles/mckenna-grace-may-have-been-first-pokemon-player-to-sneak-cards-into-the-oscars/1100-6538812/?ftag=CAD-01-10abi2f",
+        "summary": "演员麦肯娜·格瑞丝在今年奥斯卡红毯采访中透露，她利用礼服口袋携带了宝可梦卡牌，展示了对该系列的热爱。",
+        "comment": "流行文化与顶级颁奖礼的有趣跨界，体现Z世代影响力。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4666888-mckennagrace.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏争议",
+        "title": "前暴雪副总裁怒怼云玩家：没玩过就闭嘴",
+        "link": "https://www.gamespot.com/articles/jeff-kaplan-on-gamers-who-criticize-games-they-havent-played-shut-the-f-up/1100-6538810/?ftag=CAD-01-10abi2f",
+        "summary": "前暴雪副总裁、《守望先锋》总监Jeff Kaplan在直播新游戏时，对未实际体验就批评游戏的玩家爆粗口回应。",
+        "comment": "言论激烈但反映了游戏行业对云评现象的普遍不满。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4666851-legendofcali.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威争锋",
+        "title": "《漫威争锋》加入冷门角色引发玩家好奇",
+        "link": "https://www.gamespot.com/articles/marvel-rivals-wants-some-characters-to-make-you-say-wait-who/1100-6538804/?ftag=CAD-01-10abi2f",
+        "summary": "漫威英雄射击游戏《漫威争锋》在推出后持续扩充角色阵容，除美国队长、蜘蛛侠等知名英雄外，还加入了大量相对冷门的漫威角色，引发玩家讨论。",
+        "comment": "角色库的深度挖掘有助于延长游戏生命周期，但需平衡认知度与玩法独特性。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4666813-marvel-rivals.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏续作",
+        "title": "《远征33》续作成谜，编剧对系列未来保持沉默",
+        "link": "https://www.gamespot.com/articles/expedition-33-sequel-writer-staying-quiet-on-franchises-future/1100-6538806/?ftag=CAD-01-10abi2f",
+        "summary": "开发商Sandfall Interactive的首作《Clair Obscur: Expedition 33》成为2025年爆款，但编剧拒绝透露是否及何时推出续作。",
+        "comment": "爆款后的沉默，往往预示着续作已在酝酿。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4666826-screenshot2026-03-16at10.50.27%E2%80%AFam.png",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "宝可梦",
+        "title": "《宝可梦波克比亚》支持鼠标操控，体验出色",
+        "link": "https://www.gamespot.com/articles/psa-pokemon-pokopia-has-mouse-controls-and-theyre-pretty-great/1100-6538802/?ftag=CAD-01-10abi2f",
+        "summary": "《宝可梦波克比亚》成为Switch 2的意外亮点，展示了新主机的特性，其中鼠标控制功能获得好评。",
+        "comment": "创新操控方式为传统玩法带来新体验。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15855271/4666789-images.jpg",
+        "score": 89
       },
       {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "匿名AI模型“虾骑马”实为沙琪玛，体验细节曝光",
+        "title": "匿名AI模型“虾骑马”身份揭晓，实为沙琪玛模型",
         "link": "https://www.ifanr.com/1658148?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "近期在科技圈流传的匿名AI模型“虾骑马”实为“沙琪玛”，爱范儿报道了该模型的最新体验细节与背景。",
-        "comment": "AI领域匿名发布引发关注，凸显行业营销新动向。",
+        "summary": "近期在AI圈内引发热议的匿名模型“虾骑马”正式公布，实为“沙琪玛”模型，并披露了最新的技术细节与体验信息。",
+        "comment": "AI圈营销造势手法新颖，但技术实质仍需关注。",
         "image": "",
         "score": 88
       },
@@ -83,7 +408,7 @@
         "title": "美的AI研究院院长谈MevoX智能体如何更新家庭意义",
         "link": "https://www.ifanr.com/1658183?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "美的AI研究院院长徐翼提出“给产品以AI”理念，介绍MevoX智能体如何重新定义家庭生活体验。",
-        "comment": "智能体正从工具升级为家庭生活伙伴。",
+        "comment": "从产品智能化到生活场景重构，体现AI落地新思路。",
         "image": "",
         "score": 88
       },
@@ -92,8 +417,8 @@
         "tag": "人工智能",
         "title": "文科生也能做AI：想象力不应贫乏",
         "link": "https://www.ifanr.com/1658097?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨了文科生参与AI领域的可能性，认为当前对文科生做AI的想象力过于局限，呼吁突破固有思维。",
-        "comment": "跨学科融合是AI发展的关键趋势。",
+        "summary": "文章探讨文科生参与AI领域的可能性，认为当前想象力有限，呼吁更多元视角。",
+        "comment": "跨界融合是AI发展的关键，文科思维不可或缺。",
         "image": "",
         "score": 88
       },
@@ -108,8 +433,18 @@
         "score": 88
       },
       {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "《如龙》真人短剧3月17日IGN独家首播",
+        "link": "https://www.ign.com/articles/yakuza-live-action-miniseries-debuts-march-17-exclusively-on-ign",
+        "summary": "根据世嘉游戏《如龙》改编的真人短剧将于3月17日上线，由IGN平台独家播出。",
+        "comment": "游戏IP影视化新尝试，粉丝期待值高。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/16/ntsega0925-0708-1773679163497.jpg",
+        "score": 87
+      },
+      {
         "category": "时事热点",
-        "tag": "伊朗局势",
+        "tag": "伊朗危机",
         "title": "欧洲盟友对特朗普伊朗危机态度谨慎",
         "link": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
         "summary": "欧洲领导人对协助特朗普确保霍尔木兹海峡安全持犹豫态度，但深知在伊朗问题上完全无所作为并非可行选项。",
@@ -120,30 +455,40 @@
       {
         "category": "时事热点",
         "tag": "社交媒体",
-        "title": "Meta与TikTok被指放任有害内容以提升互动",
+        "title": "Meta与TikTok被指放任有害内容以提升用户参与度",
         "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
         "summary": "举报人称Meta和TikTok明知算法依赖愤怒情绪驱动互动，仍允许更多有害内容出现在用户信息流中。",
-        "comment": "算法逐利与内容安全间的矛盾再次凸显。",
+        "comment": "算法驱动的愤怒经济正在侵蚀平台内容生态。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "国际时事",
-        "title": "厄瓜多尔部署7.5万军警打击贩毒团伙",
-        "link": "https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss",
-        "summary": "厄瓜多尔政府向暴力最严重的省份部署7.5万名军警，警告公民政府正与贩毒团伙“开战”。",
-        "comment": "拉美国家毒品暴力问题持续恶化，引发社会动荡。",
+        "tag": "巴以冲突",
+        "title": "12岁巴勒斯坦男孩描述以军射杀全家经过",
+        "link": "https://www.bbc.com/news/articles/c70n2x7p22do?at_medium=RSS&at_campaign=rss",
+        "summary": "哈立德·巴尼·奥德称，其父母和两个兄弟在约旦河西岸购物返家途中遭以色列军队开枪射杀。",
+        "comment": "冲突中的平民悲剧再次引发国际关注。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "南非",
-        "title": "南非吹哨人遇害案嫌疑人系前精英警官",
+        "title": "南非举报人遇害案嫌疑人系前精英警官",
         "link": "https://www.bbc.com/news/articles/czr05nz3dp8o?at_medium=RSS&at_campaign=rss",
-        "summary": "南非警方称，指控警察杀害抢劫嫌疑人的吹哨人马里乌斯·范德梅韦，在举报三周后遭枪杀，嫌疑人是一名前精英警官。",
-        "comment": "吹哨人遇害凸显了南非执法体系内部的严重问题。",
+        "summary": "南非警方称，举报警察杀害抢劫嫌疑人的Marius van der Merwe在三周后遭枪杀，嫌疑人是一名前精英警官。",
+        "comment": "举报人遇害案暴露执法体系深层问题。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际时事",
+        "title": "厄瓜多尔部署7.5万军警打击贩毒集团",
+        "link": "https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss",
+        "summary": "厄瓜多尔政府向暴力最严重的省份部署大量军警，并警告公民国家正与贩毒集团“处于战争状态”。",
+        "comment": "该国正采取强力军事手段应对严峻的毒品暴力问题。",
         "image": "",
         "score": 87
       },
@@ -159,21 +504,11 @@
       },
       {
         "category": "时事热点",
-        "tag": "乌克兰",
-        "title": "乌克兰紧急争取国际资金援助并提高税收",
-        "link": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰正努力从国际货币基金组织和欧盟获取关键资金，同时提高国内税收以应对战争带来的财政压力。",
-        "comment": "战争持续考验乌克兰的财政韧性与国际支持力度。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
         "tag": "堕胎权",
         "title": "美国组织推动英国新一代反堕胎运动",
         "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
         "summary": "查理·柯克遇害事件激起了跨大西洋的反堕胎运动，但能否改变英国支持堕胎权的共识尚待观察。",
-        "comment": "美国保守势力正试图影响英国社会议题。",
+        "comment": "美国保守势力正试图影响英国社会议题走向。",
         "image": "",
         "score": 86
       },
@@ -199,8 +534,78 @@
       }
     ]
   },
-  "Fri, 13 Ma": {
-    "week": "",
+  "2026-03-15": {
+    "week": "周日",
+    "articles": [
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "律师警告AI聊天机器人或引发大规模伤亡事件",
+        "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+        "summary": "律师指出，AI聊天机器人不仅与多起自杀事件相关，现已开始出现在大规模伤亡案件中，技术发展速度远超安全防护措施。",
+        "comment": "AI安全防护严重滞后于技术发展，亟待加强监管。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "谷歌",
+        "title": "谷歌320亿美元收购Wiz，创史上最大收购案",
+        "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+        "summary": "Index Ventures投资人Shardul Shah解读谷歌以320亿美元收购云安全公司Wiz的交易细节与战略考量。",
+        "comment": "巨额收购凸显谷歌在云安全领域的战略焦虑与追赶决心。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "字节跳动暂停Seedance 2.0视频生成器全球发布",
+        "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+        "summary": "据报道，字节跳动因工程师与法务团队需规避潜在法律风险，决定推迟其视频生成模型Seedance 2.0的全球上线计划。",
+        "comment": "合规审查成为AI产品全球化的重要前置环节。",
+        "image": "",
+        "score": 99
+      }
+    ]
+  },
+  "2026-03-14": {
+    "week": "周六",
+    "articles": [
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "美军与Anduril签订价值200亿美元AI合同",
+        "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+        "summary": "美国陆军宣布与人工智能公司Anduril签订最高价值200亿美元的合同，整合超过120项采购行动，用于军事AI系统开发。",
+        "comment": "军事AI商业化加速，引发技术伦理新争议。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Meta考虑裁员20%，以平衡AI巨额投入",
+        "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+        "summary": "据报道，Meta正考虑裁员20%，此举旨在抵消其在AI基础设施、收购及人才招聘方面的激进支出。",
+        "comment": "科技巨头在AI军备竞赛中面临成本压力。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "科技政策",
+        "title": "苹果税降至25%/小米SU7将涨价/严查小字免责广告",
+        "link": "https://www.ifanr.com/1658134?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果税降至25%，雷军称新一代小米SU7会涨价，市监局将严查小字免责广告乱象。魅族被曝大规模组织架构调整，超五成员工离职。OpenAI CEO称未来AI将按量计费，寒武纪首次实现年度盈利。",
+        "comment": "科技行业监管趋严，企业战略调整频繁。",
+        "image": "",
+        "score": 91
+      }
+    ]
+  },
+  "2026-03-13": {
+    "week": "周五",
     "articles": [
       {
         "category": "数码科技",
@@ -210,112 +615,7 @@
         "summary": "比亚迪方程豹钛3闪充版发布，主打9分钟快速充电技术，起售价15.38万元，定位精品车型。",
         "comment": "快充技术是电动车普及的关键突破点。",
         "image": "",
-        "score": 92
-      }
-    ]
-  },
-  "2026-03-16": {
-    "week": "周一",
-    "articles": [
-      {
-        "category": "数码科技",
-        "tag": "新能源汽车",
-        "title": "零一汽车再获12亿元融资，瞄准重卡电动化",
-        "link": "https://36kr.com/p/3717366669948297?f=rss",
-        "summary": "新能源智能重卡公司零一汽车完成12亿元新一轮融资，由溥泉资本、Momenta、蔚来资本等联合领投，近半年内第二次获大额融资。",
-        "comment": "资本持续加码，重卡电动化赛道竞争加剧。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "芯片",
-        "title": "地平线芯片负责人将离职，公司转向软硬一体架构",
-        "link": "https://36kr.com/p/3725426197150345?f=rss",
-        "summary": "地平线芯片研发负责人陈鹏即将离职，内部呼声较高的接替人选是副总裁兼首席架构师苏箐。公司正推动软硬一体架构，苏箐参与了征程7系列芯片的架构设计。",
-        "comment": "核心研发人员变动，或影响芯片战略执行。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "飞速创新登陆港交所，AI网络基建成港股焦点",
-        "link": "https://36kr.com/p/3725233182062982?f=rss",
-        "summary": "2026年港股IPO持续火热，年内已有28家企业上市，募资近千亿港元。AI相关企业占比显著，包括大模型独角兽与算力巨头。",
-        "comment": "AI基础设施企业上市潮，反映产业资本化进程加速。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "半导体",
-        "title": "车规级碳化硅模块厂商获亿元融资，布局AI算力基建",
-        "link": "https://36kr.com/p/3725161156639368?f=rss",
-        "summary": "无锡利普思半导体完成亿元PreB+轮融资，资金将用于扬州车规级碳化硅模块封装测试基地建设及市场推广。",
-        "comment": "第三代半导体技术正加速向AI算力基础设施领域渗透。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "国企改革",
-        "title": "京投发展拟清仓房地产业务，公告后股价涨停",
-        "link": "https://36kr.com/p/3725013049719168?f=rss",
-        "summary": "京投发展公告拟将全部房地产开发业务资产及负债转让给控股股东，彻底退出该领域，次日股价涨停。",
-        "comment": "国企剥离地产业务获市场积极回应，反映行业转型趋势。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "汇率",
-        "title": "韩元汇率跌至18年新低，抖音在深圳成立新科技公司",
-        "link": "https://36kr.com/p/3725424173857155?f=rss",
-        "summary": "韩元对美元汇率收盘价跌至近18年来最低；WTI原油价格突破100美元/桶；抖音旗下科技公司在深圳成立新信息技术公司。",
-        "comment": "国际金融市场波动加剧，科技公司持续布局新业务。",
-        "image": "",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "松下",
-        "title": "松下发布中国新战略：明星单品与套系家电并重，强调中国制造出海",
-        "link": "https://36kr.com/p/3725245431839369?f=rss",
-        "summary": "松下在AWE期间发布中国事业新战略，聚焦明星单品与套系家电，并强调“Made by China”出海方向，以应对需求下降、市场内卷的挑战。",
-        "comment": "松下调整中国战略，以本土化制造应对存量市场竞争。",
-        "image": "",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "服务机器人",
-        "title": "清越科技发布双品牌战略，拓展服务机器人核心部件",
-        "link": "https://36kr.com/p/3725098876140164?f=rss",
-        "summary": "清越科技宣布两大品牌战略升级：配盾品牌升级为清洁电器全生态供应商，新品牌Show Robotics将聚焦服务机器人核心功能组件。",
-        "comment": "双品牌战略清晰，从家电向机器人核心部件延伸有潜力。",
-        "image": "",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "直播电商",
-        "title": "2026直播电商满意度报告发布，消费者呼吁强化源头治理",
-        "link": "https://36kr.com/p/3724972796361096?f=rss",
-        "summary": "多家机构联合发布报告指出，直播电商已成主流消费渠道，美妆、食品、家居为前三品类，商品假冒伪劣、价格不透明、虚假宣传是突出问题。",
-        "comment": "报告直击行业痛点，源头治理是提升满意度的关键。",
-        "image": "",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "戴森",
-        "title": "戴森推出PencilWash™洗地机，主打纤巧机身与湿拖清洁",
-        "link": "https://36kr.com/p/3725107868285576?f=rss",
-        "summary": "戴森发布全新PencilWash™洗地机，机身直径仅38毫米，整机重2.2kg，设计纤巧灵活，便于深入低矮家具底部清洁。配备释水浸润、吸附刮污系统，提供两档清洁模式，针对不同地面材质与污渍调节水量。",
-        "comment": "戴森以工业设计切入洗地机市场，差异化竞争策略明显。",
-        "image": "",
-        "score": 93
+        "score": 91
       }
     ]
   }
