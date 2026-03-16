@@ -32,3 +32,5 @@ Thumbs.db
 
 # Rebuild artifacts
 data/
+!public/data/
+!public/data/**
