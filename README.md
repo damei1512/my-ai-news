@@ -43,7 +43,6 @@ python3 scripts/run_pipeline.py
 To enable AI rewrite and commentary, set:
 
 ```bash
-LLM_ENABLED=true
 LLM_API_KEY=...
 LLM_BASE_URL=https://api.deepseek.com
 LLM_MODEL=deepseek-chat

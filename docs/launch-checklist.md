@@ -14,7 +14,6 @@ Minimum setup:
 
 Optional AI setup:
 
-- `LLM_ENABLED=true`
 - `LLM_API_KEY=...`
 - `LLM_BASE_URL=https://api.deepseek.com`
 - `LLM_MODEL=deepseek-chat`

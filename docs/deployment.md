@@ -23,12 +23,11 @@ It does the following:
 
 Optional:
 
-- `LLM_ENABLED`
 - `LLM_API_KEY`
 - `LLM_BASE_URL`
 - `LLM_MODEL`
 
-If these are not set, the pipeline will still run in fallback mode without AI rewrite.
+If `LLM_API_KEY` is not set, the pipeline will still run in fallback mode without AI rewrite.
 
 ## Safety Notes
 

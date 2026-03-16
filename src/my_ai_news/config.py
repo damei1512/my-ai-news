@@ -30,11 +30,12 @@ def load_config(project_root: Path) -> AppConfig:
     publish_dir = project_root / os.getenv("PUBLISH_DIR", "public/data")
     status_path = project_root / os.getenv("STATUS_PATH", "public/data/status.json")
     source_config = project_root / os.getenv("SOURCE_CONFIG", "config/sources.json")
-    llm_enabled = os.getenv("LLM_ENABLED", "false").lower() == "true"
+    llm_api_key = os.getenv("LLM_API_KEY") or os.getenv("DEEPSEEK_API_KEY") or os.getenv("OPENAI_API_KEY") or None
+    llm_enabled_raw = os.getenv("LLM_ENABLED")
+    llm_enabled = (llm_enabled_raw.lower() == "true") if llm_enabled_raw is not None else bool(llm_api_key)
     llm_provider = os.getenv("LLM_PROVIDER", "deepseek")
     llm_model = os.getenv("LLM_MODEL", "deepseek-chat")
     llm_base_url = os.getenv("LLM_BASE_URL") or None
-    llm_api_key = os.getenv("LLM_API_KEY") or os.getenv("DEEPSEEK_API_KEY") or os.getenv("OPENAI_API_KEY") or None
 
     return AppConfig(
         timezone=timezone,
