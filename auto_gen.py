@@ -519,6 +519,20 @@ if __name__ == "__main__":
     # 7天滚动清洗
     sorted_dates = sorted(archive_data.keys(), reverse=True)
     final_data = {d: archive_data[d] for d in sorted_dates[:7]}
+
+    # 最终兜底：如果今日没有任何内容，强制写入一条占位符
+    if today_date not in final_data or not final_data[today_date].get('articles'):
+        print("警告：今日分类均为空，触发强制填充逻辑")
+        final_data[today_date] = {
+            "week": today_week,
+            "articles": [{
+                'title': '今日资讯加载中',
+                'summary': '稍后请重试...',
+                'link': '#',
+                'tag': '系统提示',
+                'category': '热榜'
+            }]
+        }
     
     with open(history_file, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
