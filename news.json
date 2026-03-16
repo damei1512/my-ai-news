@@ -3,93 +3,354 @@
     "week": "周一",
     "articles": [
       {
-        "category": "游戏影视",
-        "tag": "游戏折扣",
-        "title": "今日最佳游戏折扣：《空之轨迹FC》、《勇者斗恶龙VII重制版》、《仁王3》等",
-        "link": "https://www.ign.com/articles/best-deals-for-march-15-2026",
-        "summary": "IGN汇总了3月15日各大平台的游戏折扣信息，包括《英雄传说：空之轨迹FC》、《勇者斗恶龙VII重制版》及《仁王3》等多款热门作品。",
-        "comment": "钱包又要瘦身了，但为了经典，这波不亏。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/15/daily-deals-march-15-1773598398319.png"
+        "category": "人工智能",
+        "tag": "智能体",
+        "title": "LangChain推出自主上下文压缩工具",
+        "link": "https://blog.langchain.com/autonomous-context-compression/",
+        "summary": "LangChain在其Deep Agents SDK和CLI中新增了自主上下文压缩工具，旨在优化智能体处理长文本的能力。",
+        "comment": "又给智能体加了个“内存整理”功能，本质还是缝缝补补。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "智能体",
+        "title": "智能体“马具”剖析：模型与系统的结合",
+        "link": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/",
+        "summary": "文章将智能体定义为“模型+马具”，强调通过“马具工程”围绕模型构建系统，才能将模型的智能转化为实际生产力。",
+        "comment": "说白了，模型是发动机，但没个好底盘（马具）也跑不起来。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "代码智能体",
+        "title": "编码智能体如何重塑工程、产品与设计",
+        "link": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/",
+        "summary": "探讨编码智能体如何改变软件公司中工程、产品和设计角色的协作方式，其核心产出最终都归结为代码。",
+        "comment": "AI一来，码农、产品和设计可能都得重新思考自己的“不可替代性”在哪。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "商业应用",
+        "title": "LangChain如何构建GTM智能体，提升销售转化率250%",
+        "link": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/",
+        "summary": "LangChain构建的GTM（市场进入）智能体，使销售线索转化率提升250%，并每月为每位销售代表节省40小时。",
+        "comment": "省时增效是实打实的，但“250%”这个数字，懂的都懂。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "评估",
+        "title": "评估技能：让编码智能体更好地融入LangChain生态",
+        "link": "https://blog.langchain.com/evaluating-skills/",
+        "summary": "LangChain正在构建技能评估体系，以帮助Codex、Claude Code等编码智能体更好地与其LangChain和LangSmith生态系统协同工作。",
+        "comment": "生态闭环的第一步：先给外来AI上个“岗前培训”和“绩效考核”。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "搜索",
+        "title": "谷歌AI搜索结果热衷于将用户引回自家服务",
+        "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+        "summary": "谷歌的生成式AI搜索工具越来越多地引用其自身服务（如谷歌搜索、YouTube），而非第三方出版商的内容。",
+        "comment": "嘴上说着开放网络，身体却很诚实地在搞“搜索闭环”。",
+        "image": "https://media.wired.com/photos/69b2ee5feadc91f592dc322f/master/pass/shutterstock_2668436833.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "开源",
+        "title": "中国“OpenClaw”热潮成为AI公司的淘金热",
+        "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+        "summary": "围绕开源智能体OpenClaw的炒作，正驱动人们租用云服务器和购买AI订阅进行尝试，为科技公司创造了意外之财。",
+        "comment": "每一次开源热潮，都是云厂商和算力贩子的狂欢节。",
+        "image": "https://media.wired.com/photos/69af4032df27a642d70d9a52/master/pass/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "游戏",
+        "title": "玩家对AI的噩梦正在成为现实",
+        "link": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
+        "summary": "从全球内存短缺推高游戏机价格，到游戏行业的工作流失，游戏正成为AI热潮中最大的受害者之一。",
+        "comment": "AI还没学会好好玩游戏，先学会了搞崩游戏产业。",
+        "image": "https://media.wired.com/photos/69af25ebb25d3d9157fd32fb/master/pass/AI-Swallowing-Gaming-Culture.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "军事应用",
+        "title": "Palantir演示AI聊天机器人如何为军方生成作战计划",
+        "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+        "summary": "软件演示和五角大楼记录显示，Anthropic的Claude等聊天机器人可帮助军方分析情报并提出下一步行动建议。",
+        "comment": "用AI规划战争？这剧本我好像在《终结者》里看过。",
+        "image": "https://media.wired.com/photos/69af2189bf4114a40fa286f0/master/pass/How-Palantir-Deploys-Claude-for-US%20Military-Business-2256533238.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "法律",
+        "title": "‘恐怖谷’播客：Anthropic与国防部的诉讼远未结束",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+        "summary": "本期播客讨论了Anthropic与美国国防部之间的法律纠纷，这场关于AI军事应用的争端仍在持续。",
+        "comment": "科技公司与军方的关系，永远在“合作”与“伦理”之间反复横跳。",
+        "image": "https://media.wired.com/photos/69b1c94d9fd417e67bc5b52b/master/pass/Uncanny-Valley-Anthropic-vs-DoD-Business-2256654494.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "创投",
+        "title": "谷歌与Accel印度加速器选中5家初创公司，无一是“AI套壳”",
+        "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+        "summary": "谷歌和Accel表示，在审核超过4000份申请时，约70%与印度相关的AI初创公司推介都是“套壳”应用。",
+        "comment": "风投也终于受不了满大街的“AI套壳”项目了，开始淘真金。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "安全伦理",
+        "title": "AI致精神病案律师警告大规模伤亡风险",
+        "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+        "summary": "AI聊天机器人多年来与自杀事件相关联。现在有律师称，它们也开始出现在大规模伤亡案件中，技术发展速度远超安全防护。",
+        "comment": "当AI的“副作用”从个人悲剧升级为公共安全事件，监管还能继续装睡吗？",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "并购",
+        "title": "Wiz投资人解读谷歌320亿美元收购案",
+        "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+        "summary": "Index Ventures的Shardul Shah为我们剖析了谷歌有史以来最大规模的收购案——对云安全公司Wiz的收购。",
+        "comment": "320亿刀！谷歌这是要在云安全领域直接“买”个王座出来。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "开源社区",
+        "title": "LocalLlama Discord服务器及机器人正式上线！",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1mpk2va/announcing_localllama_discord_server_bot/",
+        "summary": "LocalLlama社区宣布推出官方Discord服务器及机器人，为本地大模型爱好者提供新的交流与协作平台。",
+        "comment": "开源社区的尽头，果然是Discord。",
+        "image": "https://b.thumbs.redditmedia.com/QBscWhXGvo8sy9oNNt-7et1ByOGRWY1UckDAudAWACM.jpg"
+      },
+      {
+        "category": "人工智能",
+        "tag": "模型蒸馏",
+        "title": "首个完全无审查的Qwen3.5-9B-Claude-4.6-Opus蒸馏模型发布",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1runlpf/qwen359bclaude46opusuncensoreddistilledgguf/",
+        "summary": "社区成员发布了首个完全无审查的LLM模型，该模型通过蒸馏技术融合了Qwen、Claude等模型的特性。",
+        "comment": "“无审查”是噱头也是刚需，但安全与自由的边界在哪？",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "本地部署",
+        "title": "家庭实验室已回本！至少我是这么说服自己的",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rug5go/homelab_has_paid_for_itself_at_least_this_is_how/",
+        "summary": "一位LocalLLaMA社区成员分享其搭建的家庭AI实验室如何通过项目和应用“回本”的经历与心得。",
+        "comment": "每个硬核玩家的终极归宿：用爱发电，并强行计算投资回报率。",
+        "image": "https://preview.redd.it/djmmoczj38pg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=60d9f2a45a7ff1e6716b8d511feaebd5973fd31a"
+      },
+      {
+        "category": "人工智能",
+        "tag": "开源协议",
+        "title": "英伟达更新Nemotron Super 3 122B许可证，移除“撤毯”条款",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rue6tn/nvidia_updated_the_nemotron_super_3_122b_a12b/",
+        "summary": "英伟达更新了其1220亿参数模型的许可证，移除了可能随时收回授权的“撤毯”条款及对修改、品牌等限制，对开源社区是利好消息。",
+        "comment": "大厂也学乖了，知道在开源社区玩“最终解释权归我所有”那套行不通了。",
+        "image": ""
+      },
+      {
+        "category": "人工智能",
+        "tag": "代码智能体",
+        "title": "Qwen3.5-27B在游戏智能体编码联赛中表现媲美397B和GPT-5 mini",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rue2f4/qwen3527b_performs_almost_on_par_with_397b_and/",
+        "summary": "在游戏智能体编码联赛中，参数量仅270亿的Qwen3.5-27B模型，其表现几乎与参数量达3970亿的模型及GPT-5 mini持平。",
+        "comment": "小模型逆袭？要么是优化到位，要么是评测任务太简单。",
+        "image": "https://preview.redd.it/mgz0uly6n7pg1.png?width=640&crop=smart&auto=webp&s=19bed5e375adad69f13f48bd1ca9c1b7da9f0817"
+      },
+      {
+        "category": "人工智能",
+        "tag": "框架更新",
+        "title": "微软AutoGen发布v0.7.5版本更新",
+        "link": "https://github.com/microsoft/autogen/releases/tag/python-v0.7.5",
+        "summary": "微软多智能体框架AutoGen发布v0.7.5版本，主要包含文档修复和错误修正。",
+        "comment": "版本号跳得挺快，但看更新内容，还是以修修补补为主。",
+        "image": "https://avatars.githubusercontent.com/u/320302?s=60&v=4"
+      },
+      {
+        "category": "人工智能",
+        "tag": "框架更新",
+        "title": "AutoGPT平台发布v0.6.51版本，支持本地智能体生成",
+        "link": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.6.51",
+        "summary": "AutoGPT平台发布v0.6.51版本，新增支持本地智能体生成与验证、MCP及子智能体支持等功能。",
+        "comment": "AutoGPT还在迭代，但“自主智能体”的热潮好像已经过去了？",
+        "image": "https://avatars.githubusercontent.com/u/12185583?s=60&v=4"
+      },
+      {
+        "category": "人工智能",
+        "tag": "框架更新",
+        "title": "CrewAI发布1.10.2rc2版本，修复存储操作锁问题",
+        "link": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.2rc2",
+        "summary": "多智能体协作框架CrewAI发布1.10.2rc2候选版本，主要修复了只读存储操作中的排他锁问题。",
+        "comment": "修复了“锁”的问题，但智能体协作的“智商锁”何时能解开？",
+        "image": "https://avatars.githubusercontent.com/u/77358368?s=60&v=4"
+      },
+      {
+        "category": "数码科技",
+        "tag": "行业动态",
+        "title": "Kimi估值飙升至180亿美元，Meta被曝计划大规模裁员",
+        "link": "https://36kr.com/p/3724860285319556?f=rss",
+        "summary": "今日热点包括Kimi估值涨至180亿美元，Meta计划裁员20%甚至更多，以及比亚迪评估入局F1等。",
+        "comment": "一边是AI新贵估值狂飙，一边是巨头挥刀裁员，冰火两重天。",
+        "image": "https://img.36krcdn.com/hsossms/20260316/v2_6020f5aabe3a4b7ea7839f2db73b370f@5667365_oswg3432oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1"
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI视频",
+        "title": "工业级AI视频平台达瓦科技完成近亿元融资，营收破亿",
+        "link": "https://36kr.com/p/3723669408987782?f=rss",
+        "summary": "达瓦科技完成近亿元融资，拥有120TB独家数据，其AI内容创作平台已实现商业化闭环，2025年营收突破亿元。",
+        "comment": "数据壁垒吹得响，AI视频赛道卷到飞起，看谁能笑到最后。",
+        "image": ""
+      },
+      {
+        "category": "数码科技",
+        "tag": "智能家居",
+        "title": "慕思AWE首秀主打“全域协同”，欲破解智能家居孤岛难题",
+        "link": "https://36kr.com/p/3722669939931524?f=rss",
+        "summary": "在AWE 2026上，慕思展示其通过AI融合技术，致力于实现智能家居的“全域协同、主动服务、无感存在”。",
+        "comment": "床垫公司教科技圈做智能家居？这跨界有点意思，但别只是噱头。",
+        "image": "https://img.36krcdn.com/hsossms/20260314/v2_7ea69929f49e47e7aa9ff0ab3606168a@6208419_oswg1830662oswg3200oswg2133_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1"
+      },
+      {
+        "category": "数码科技",
+        "tag": "机器人",
+        "title": "AWE 2026：家电企业集体进军家庭服务机器人赛道",
+        "link": "https://36kr.com/p/3722882943334789?f=rss",
+        "summary": "今年AWE展会上，家电企业成为具身智能机器人主力军，推出家庭巡逻、家务协助等功能的机器人，但功能尚处早期。",
+        "comment": "从卖冰箱到造机器人，家电巨头们的“家务梦”能成真吗？先别吹。",
+        "image": "https://img.36krcdn.com/hsossms/20260314/v2_87917742031745368d8388f4a46448ad@1199336245_oswg238921oswg1080oswg1441_img_000?x-oss-process=image/format,jpg/interlace,1"
+      },
+      {
+        "category": "数码科技",
+        "tag": "行业动态",
+        "title": "早报：苹果税降至25%，OpenAI CEO称AI将按量计费",
+        "link": "https://www.ifanr.com/1658134?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果App Store佣金下调至25%；OpenAI CEO称未来AI将像水电一样按量计费；寒武纪首次实现年度盈利。",
+        "comment": "苹果终于“让利”，AI巨头想着法儿收钱，科技圈永远在算账。",
+        "image": ""
+      },
+      {
+        "category": "数码科技",
+        "tag": "新能源汽车",
+        "title": "方程豹钛3闪充版上市：15.38万元起，充电仅需9分钟",
+        "link": "https://www.ifanr.com/1658118?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "比亚迪方程豹钛3闪充版发布，主打9分钟快速充电，起售价15.38万元，定位“精品车”。",
+        "comment": "充电9分钟是亮点，但“精品车”这说法，消费者买账才算数。",
+        "image": ""
+      },
+      {
+        "category": "数码科技",
+        "tag": "新能源汽车",
+        "title": "蔚来李斌：2026年押注大五座SUV，存储成本涨但不涨价",
+        "link": "https://www.ifanr.com/1658104?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "蔚来CEO李斌表示，公司2026年将重点发展大五座SUV车型，尽管存储成本上涨，但蔚来车型不会因此涨价。",
+        "comment": "成本涨了还不涨价？斌哥这波是硬扛压力，还是另有算盘？",
+        "image": ""
+      },
+      {
+        "category": "数码科技",
+        "tag": "智能手机",
+        "title": "三星S26 Ultra评测：2026年首个“机皇”候选",
+        "link": "https://www.ifanr.com/1657983?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "三星Galaxy S26 Ultra评测出炉，被称作2026年首个“机皇”的有力竞争者，其屏幕表现受到关注。",
+        "comment": "年年都是“机皇”，除了堆料和涨价，还能玩出什么新花样？",
+        "image": ""
       },
       {
         "category": "游戏影视",
-        "tag": "影视续作",
-        "title": "《萤火虫》动画版计划曝光：原班人马配音，但尚无平台接手",
-        "link": "https://www.ign.com/articles/nathan-fillions-big-firefly-tease-is-a-canon-animated-series-with-the-original-actors-reprising-their-roles-but-it-has-yet-to-find-a-home",
-        "summary": "内森·菲利安透露，《萤火虫》将推出正统动画剧集，故事设定在原剧与电影《冲出宁静号》之间，并由原班演员配音，但目前尚未找到播出平台。",
-        "comment": "粉丝的眼泪都准备好了，平台方还在犹豫什么？速速接盘！",
-        "image": "https://assets-prd.ignimgs.com/2026/03/15/firefly-main-1773593153047.jpg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "影视项目",
-        "title": "《吸血鬼猎人巴菲》新续集项目被砍，莎拉·米歇尔·盖拉确认",
-        "link": "https://www.ign.com/articles/buffy-new-sunnydale-continuation-series-scrapped-sarah-michelle-gellar-confirms",
-        "summary": "Hulu已决定取消《吸血鬼猎人巴菲：新阳光之谷》续集项目，该剧原计划由原主演莎拉·米歇尔·盖拉回归出演。",
-        "comment": "经典IP重启又添一例失败，情怀不是万能的续命丹。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/14/gettyimages-2266350923-1773513068443.jpg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏折扣",
-        "title": "今日最佳折扣：《马里奥赛车世界》、《宇宙机器人》、NZXT水冷等",
-        "link": "https://www.ign.com/articles/best-deals-for-march-14-2026",
-        "summary": "IGN发布3月14日精选优惠，涵盖《马里奥赛车世界》、《宇宙机器人》游戏及NZXT一体式水冷等硬件产品。",
-        "comment": "每日一促，玩家的购物车永远在加载中。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/14/dailydeals-1773469183515.png"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏周边",
-        "title": "Netflix《海贼王》路飞等身抱枕，或将“入侵”你的梦境",
-        "link": "https://www.ign.com/articles/netflix-one-piece-monkey-d-luffy-plush-body-pillow",
-        "summary": "Netflix《海贼王》真人剧推出主角蒙奇·D·路飞的等身抱枕周边产品。",
-        "comment": "二次元入侵三次元卧室，粉丝的钱真好赚。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/14/one-piece-luffy-1773459740213.png"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏文化",
-        "title": "当今游戏感觉“空洞”？一只猴子玩偶的故事能否带来改变",
-        "link": "https://www.gamespot.com/articles/todays-games-can-feel-soulless-but-can-punch-the-monkey-change-that/1100-6538667/?ftag=CAD-01-10abi2f",
-        "summary": "文章借一只被母亲遗弃、从宜家玩偶中找到慰藉的日本猕猴“Punch the monkey”的故事，探讨现代游戏是否缺乏灵魂与情感连接。",
-        "comment": "游戏缺的不是猴子，是能打动人心的真诚设计。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4664088-gettyimages-2262116703.jpg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏设计",
-        "title": "《大金刚狂欢》最初原型竟是一个“拳头巨大的板栗仔”",
-        "link": "https://www.gamespot.com/articles/donkey-kong-bananza-began-as-a-goomba-with-giant-fists/1100-6538789/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂新作《大金刚狂欢》的初始设计原型，是一个拥有巨大拳头的“板栗仔”（Goomba），后逐步演变为现在的形态。",
-        "comment": "任天堂的创意库，果然是从蘑菇王国开始“魔改”的。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4666258-dk-5.jpg"
-      },
-      {
-        "category": "游戏影视",
-        "tag": "AI",
-        "title": "《守望先锋》元老Jeff Kaplan谈AI：人类精神无可替代",
-        "link": "https://www.gamespot.com/articles/overwatch-vet-jeff-kaplan-on-ai-the-human-spirit-is-irreplaceable/1100-6538790/?ftag=CAD-01-10abi2f",
-        "summary": "前暴雪负责人、《守望先锋》总监Jeff Kaplan表示，在游戏开发中，人工智能无法替代人类的灵魂、情感与创意精神。",
-        "comment": "AI画不出“英雄不朽”时的感动，这话在理。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4666301-screenshot2026-03-13at3.04.31%E2%80%AFpm.png"
+        "tag": "影视资讯",
+        "title": "第98届奥斯卡金像奖（2026）完整获奖名单揭晓",
+        "link": "https://www.ign.com/articles/oscars-winners-2026-the-full-list-of-winners-from-the-98th-academy-awards",
+        "summary": "第98届奥斯卡颁奖典礼举行，旨在表彰2025年度优秀电影及电影人。本文将持续更新完整获奖名单。",
+        "comment": "又是一年分猪肉大会，看看今年谁家公关费没白花。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/15/oscars-liveblog-1773613041311.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "游戏促销",
-        "title": "Epic游戏商城购买指定游戏，即可获赠《堡垒之夜》皮肤",
+        "title": "今日游戏特惠：《空之轨迹FC》、《勇者斗恶龙7重制版》、《仁王3》等",
+        "link": "https://www.ign.com/articles/best-deals-for-march-15-2026",
+        "summary": "IGN汇总了2026年3月15日各大平台的游戏优惠信息，包括多款经典与新作。",
+        "comment": "钱包准备好了吗？G胖的微笑正在向你招手。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/15/daily-deals-march-15-1773598398319.png"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影视资讯",
+        "title": "内森·菲利安透露《萤火虫》正统动画剧集计划，原班人马配音但尚未找到平台",
+        "link": "https://www.ign.com/articles/nathan-fillions-big-firefly-tease-is-a-canon-animated-series-with-the-original-actors-reprising-their-roles-but-it-has-yet-to-find-a-home",
+        "summary": "内森·菲利安透露，一部衔接原剧与电影《冲出宁静号》的《萤火虫》正统动画剧集正在开发中，原班演员将回归配音，但目前尚未确定播出平台。",
+        "comment": "经典IP的棺材板都快按不住了，但没平台接盘，怕不是又要“见光死”。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/15/firefly-main-1773593153047.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影视资讯",
+        "title": "《吸血鬼猎人巴菲》新续集项目被砍，莎拉·米歇尔·盖拉确认",
+        "link": "https://www.ign.com/articles/buffy-new-sunnydale-continuation-series-scrapped-sarah-michelle-gellar-confirms",
+        "summary": "Hulu已决定取消其计划中的《吸血鬼猎人巴菲》续集《新阳光之谷》，该剧原定由莎拉·米歇尔·盖拉再次出演初代吸血鬼猎人。",
+        "comment": "流媒体画饼成瘾，砍项目也成瘾，粉丝的心就像坐过山车。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/14/gettyimages-2266350923-1773513068443.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏促销",
+        "title": "今日游戏特惠：《马里奥赛车世界》、《宇宙机器人》、NZXT水冷等",
+        "link": "https://www.ign.com/articles/best-deals-for-march-14-2026",
+        "summary": "IGN汇总了2026年3月14日各大平台的游戏及硬件优惠信息。",
+        "comment": "昨天的还没买完，今天的又来了，促销永动机是吧？",
+        "image": "https://assets-prd.ignimgs.com/2026/03/14/dailydeals-1773469183515.png"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏杂谈",
+        "title": "当今游戏感觉“空洞无魂”？一只叫“打猴子”的猕猴能改变现状吗？",
+        "link": "https://www.gamespot.com/articles/todays-games-can-feel-soulless-but-can-punch-the-monkey-change-that/1100-6538667/?ftag=CAD-01-10abi2f",
+        "summary": "文章借一只因依恋宜家毛绒玩具而走红的日本猕猴“打猴子”的故事，探讨了现代游戏中可能缺失的情感共鸣与灵魂。",
+        "comment": "游戏缺“魂”怪猴子？这逻辑比某些游戏的剧情还跳跃。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4664088-gettyimages-2262116703.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏开发",
+        "title": "《大金刚狂欢》最初原型竟是一个“长着巨拳的板栗仔”",
+        "link": "https://www.gamespot.com/articles/donkey-kong-bananza-began-as-a-goomba-with-giant-fists/1100-6538789/?ftag=CAD-01-10abi2f",
+        "summary": "任天堂新作《大金刚狂欢》的早期原型，是一个基于《超级马力欧》系列中“板栗仔”角色、但拥有巨大拳头进行自由破坏的概念。",
+        "comment": "任天堂的创意库：万物皆可板栗仔，加点拳头变金刚。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1595/15957481/4666258-dk-5.jpg"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏观点",
+        "title": "《守望先锋》元老杰夫·卡普兰谈AI：人类精神无可替代",
+        "link": "https://www.gamespot.com/articles/overwatch-vet-jeff-kaplan-on-ai-the-human-spirit-is-irreplaceable/1100-6538790/?ftag=CAD-01-10abi2f",
+        "summary": "前暴雪负责人、《守望先锋》总监杰夫·卡普兰在访谈中分享了对游戏AI的看法，强调人类精神与情感在创作中的不可替代性。",
+        "comment": "这话从暴雪前高管嘴里说出来，怎么听着有点黑色幽默？",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4666301-screenshot2026-03-13at3.04.31%E2%80%AFpm.png"
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏联动",
+        "title": "Epic游戏商城所有赠送《堡垒之夜》皮肤或配件的游戏汇总",
         "link": "https://www.gamespot.com/articles/every-game-you-can-buy-that-comes-with-a-fortnite-skin-or-accessories/1100-6538488/?ftag=CAD-01-10abi2f",
-        "summary": "Epic Games在2026年加大促销力度，购买《生化危机：安魂曲》、《红色沙漠》等指定游戏，可免费获得《堡垒之夜》角色皮肤或配件。",
-        "comment": "Epic的经典商法：游戏可以不打，皮肤不能不领。",
+        "summary": "文章汇总了在Epic游戏商城购买即可获得《堡垒之夜》联动皮肤或配件的所有游戏，Epic在2026年加大了此类促销力度。",
+        "comment": "Epic的商法：游戏可以不好玩，但联动皮肤必须香。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4658289-fortnitegraceskin.jpg"
       },
       {
         "category": "游戏影视",
         "tag": "游戏安全",
-        "title": "FBI对Steam下架含恶意软件的游戏展开调查",
+        "title": "FBI就Steam下架含恶意软件游戏展开调查",
         "link": "https://www.gamespot.com/articles/fbi-launches-investigation-into-games-removed-from-steam-over-malware-concerns/1100-6538786/?ftag=CAD-01-10abi2f",
-        "summary": "因部分Steam游戏被设计用于传播恶意软件，美国联邦调查局（FBI）西雅图分局已介入调查，并试图识别受害玩家。",
-        "comment": "Steam扫货有风险，喜加一可能变成“喜加毒”。",
+        "summary": "因Steam平台上有少量游戏被设计用于传播恶意软件，美国联邦调查局（FBI）西雅图分局已启动调查，试图识别受害玩家。",
+        "comment": "G胖的商店也不是法外之地，FBI教你什么叫“游戏玩你”。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4666087-steamlogo.jpg"
       }
     ]
