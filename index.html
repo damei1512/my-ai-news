@@ -439,6 +439,19 @@
             font-size: 12px; color: var(--text-sub);
         }
         .dot { width: 8px; height: 8px; background: #22c55e; border-radius: 50%; }
+        .status-meta {
+            margin-top: 8px;
+            max-width: 240px;
+            text-align: right;
+            font-size: 12px;
+            color: rgba(255,255,255,0.82);
+            text-shadow: 0 1px 4px rgba(0,0,0,0.35);
+            line-height: 1.4;
+        }
+
+        [data-theme="dark"] .status-meta {
+            color: rgba(241,245,249,0.86);
+        }
 
         /* ==================== 搜索框 ==================== */
         .search-box {
@@ -1176,10 +1189,11 @@
             </div>
             <div class="header-controls">
                 <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌙</button>
-                <div class="status-pill">
+                <div class="status-pill" id="status-pill" title="等待状态数据">
                     <span class="dot"></span>
                     <span id="update-text">正在连接...</span>
                 </div>
+                <div class="status-meta" id="status-meta"></div>
             </div>
         </header>
 
@@ -1703,22 +1717,95 @@
             }, 100);
         }
 
+        async function loadArchiveData() {
+            const response = await fetch('public/data/latest.json?v=' + Date.now());
+            if (!response.ok) throw new Error('Archive unavailable');
+            const data = await response.json();
+            if (!data || Object.keys(data).length === 0) throw new Error('Empty archive');
+            return data;
+        }
+
+        async function loadStatusData() {
+            const response = await fetch('public/data/status.json?v=' + Date.now());
+            if (!response.ok) throw new Error('Status unavailable');
+            const data = await response.json();
+            if (!data || Object.keys(data).length === 0) throw new Error('Empty status');
+            return data;
+        }
+
+        function formatStatusTime(value) {
+            if (!value) return '';
+            const date = new Date(value);
+            if (Number.isNaN(date.getTime())) return '';
+            return date.toLocaleString('zh-CN', {
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        function applyStatusData(status) {
+            const updateText = document.getElementById('update-text');
+            const statusMeta = document.getElementById('status-meta');
+            const pill = document.getElementById('status-pill');
+            const dot = document.querySelector('.dot');
+
+            if (!status) {
+                updateText.textContent = '已同步';
+                dot.style.background = '#22c55e';
+                statusMeta.textContent = '';
+                pill.title = '状态文件暂不可用';
+                return;
+            }
+
+            const sourceStatuses = Array.isArray(status.source_statuses) ? status.source_statuses : [];
+            const failedSources = sourceStatuses.filter(item => item.status !== 'success');
+            const successCount = sourceStatuses.length - failedSources.length;
+            const totalSources = sourceStatuses.length || status.sources || 0;
+            const timeText = formatStatusTime(status.finished_at || status.completed_at);
+
+            if (status.status === 'failed') {
+                updateText.textContent = '更新失败';
+                dot.style.background = '#ef4444';
+            } else if (failedSources.length > 0) {
+                updateText.textContent = '部分源异常';
+                dot.style.background = '#f59e0b';
+            } else {
+                updateText.textContent = '更新正常';
+                dot.style.background = '#22c55e';
+            }
+
+            let metaText = '';
+            if (timeText) metaText += `最近运行 ${timeText}`;
+            if (totalSources) metaText += `${metaText ? ' · ' : ''}${successCount}/${totalSources} 个源成功`;
+            if (failedSources.length > 0) {
+                const failedNames = failedSources.slice(0, 3).map(item => item.source_name).join('、');
+                metaText += ` · 异常: ${failedNames}`;
+            }
+
+            statusMeta.textContent = metaText;
+            pill.title = metaText || '状态正常';
+        }
+
         // 加载数据
-        fetch('news.json?v=' + new Date().getTime())
-            .then(res => res.json())
-            .then(data => {
-                if (!data || Object.keys(data).length === 0) throw new Error("Empty Data");
-                archiveData = data;
-                
-                const now = new Date();
-                const timeStr = now.toLocaleString('zh-CN', {month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'});
-                document.getElementById('update-text').textContent = '已同步 ' + timeStr;
-                document.querySelector('.dot').style.background = '#22c55e';
-                
+        Promise.allSettled([loadArchiveData(), loadStatusData()])
+            .then(results => {
+                const archiveResult = results[0];
+                const statusResult = results[1];
+                if (archiveResult.status !== 'fulfilled') {
+                    throw archiveResult.reason || new Error('Archive unavailable');
+                }
+                archiveData = archiveResult.value;
+                applyStatusData(statusResult.status === 'fulfilled' ? statusResult.value : null);
                 renderNews();
             })
             .catch(err => {
                 console.error(err);
+                document.getElementById('update-text').textContent = '数据加载失败';
+                document.getElementById('status-meta').textContent = '新闻数据未能成功加载';
+                document.getElementById('status-pill').title = '新闻数据加载失败';
+                document.querySelector('.dot').style.background = '#ef4444';
                 document.getElementById('news-container').innerHTML = `
                     <div class="empty-state">
                         <div class="icon">❌</div>

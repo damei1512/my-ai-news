@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "category": "ai",
+      "type": "rss",
+      "url": "https://www.jiqizhixin.com/rss",
+      "enabled": true,
+      "priority": 90
+    },
+    {
+      "id": "openai_blog",
+      "name": "OpenAI",
+      "category": "ai",
+      "type": "rss",
+      "url": "https://openai.com/index/rss.xml",
+      "enabled": true,
+      "priority": 100
+    },
+    {
+      "id": "36kr",
+      "name": "36Kr",
+      "category": "tech",
+      "type": "rss",
+      "url": "https://36kr.com/feed",
+      "enabled": true,
+      "priority": 85
+    },
+    {
+      "id": "ifanr",
+      "name": "爱范儿",
+      "category": "tech",
+      "type": "rss",
+      "url": "https://www.ifanr.com/feed",
+      "enabled": true,
+      "priority": 80
+    },
+    {
+      "id": "gcores",
+      "name": "机核",
+      "category": "games",
+      "type": "rss",
+      "url": "https://www.gcores.com/rss",
+      "enabled": true,
+      "priority": 80
+    },
+    {
+      "id": "bbc_world",
+      "name": "BBC World",
+      "category": "world",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "enabled": true,
+      "priority": 75
+    }
+  ]
+}
