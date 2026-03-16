@@ -12,10 +12,7 @@ from dotenv import load_dotenv
 
 # 检查是否在本地 macOS cron 环境运行（排除 GitHub Actions）
 # GitHub Actions 有独特的环境变量，利用这个来区分
-is_github_actions = os.environ.get('GITHUB_ACTIONS') == 'true'
-is_ci = os.environ.get('CI') == 'true'
 
-if not is_github_actions and not is_ci:
     # 只在非 CI 环境检查是否是本地 cron
     ppid = os.getppid()
     try:
