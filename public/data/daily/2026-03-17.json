@@ -3,12 +3,32 @@
     "week": "周二",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Picsart推出AI助手市场，创作者可“雇佣”AI代理",
+        "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+        "summary": "Picsart推出AI代理市场，初期上线四款AI助手，后续将每周新增更多代理，供创作者按需选用。",
+        "comment": "AI应用正从工具向可组合的“员工”生态演进。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "智能出行",
+        "title": "OMOWAY发布全球首款量产自平衡电动摩托车",
+        "link": "https://36kr.com/p/3726441493805444?f=rss",
+        "summary": "OMOWAY在新加坡宣布其自平衡智能电动摩托车OMO X进入量产阶段，并展示轮式机器人Mobility One。公司获砺思资本数千万美元A轮领投。",
+        "comment": "自平衡技术量产化，标志着两轮出行进入新阶段。",
+        "image": "",
+        "score": 97
+      },
+      {
         "category": "数码科技",
         "tag": "融资",
-        "title": "Chowbus获8100万美元融资，发力AI与全球化",
+        "title": "Chowbus获8100万美元融资，专注北美餐饮SaaS与AI研发",
         "link": "https://36kr.com/p/3719657153459589?f=rss",
         "summary": "北美餐饮SaaS企业Chowbus完成8100万美元新一轮融资，累计融资达2.09亿美元。资金将重点投入AI业务研发与全球化布局。",
-        "comment": "北美餐饮SaaS赛道竞争加剧，AI与全球化成关键布局。",
+        "comment": "资本持续押注餐饮SaaS赛道，AI与全球化成为关键增长点。",
         "image": "",
         "score": 96
       },
@@ -24,13 +44,23 @@
       },
       {
         "category": "数码科技",
-        "tag": "商业投资",
+        "tag": "资本动态",
         "title": "西贝获95亿富豪入股，三大航司推机票买贵免费退",
         "link": "https://36kr.com/p/3726276875680388?f=rss",
         "summary": "西贝餐饮新增股东林来嵘，其个人身家约95亿元；国航、东航、南航宣布机票买贵可免费退票；iPhone将首次支持分屏功能，或为折叠屏专属。",
-        "comment": "餐饮资本动作与航空服务升级同日凸显市场动态。",
+        "comment": "餐饮资本化与航空服务竞争同步升温。",
         "image": "",
         "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "人体工学椅",
+        "title": "清闲动态人机工学椅发布两款新品，覆盖全场景久坐需求",
+        "link": "https://36kr.com/p/3726466205579650?f=rss",
+        "summary": "人体工学椅行业正从静态向动态转变，新品旨在解决传统三段式调节方案无法满足动态坐姿变化的问题。",
+        "comment": "动态支撑是人体工学椅摆脱同质化的关键方向。",
+        "image": "",
+        "score": 93
       },
       {
         "category": "游戏影视",
@@ -38,19 +68,139 @@
         "title": "iBuyPower推出《崩坏：星穹铁道》火萤主题游戏整机",
         "link": "https://www.ign.com/articles/ibuypower-honkai-star-rail-firefly-rtx-5080-gaming-pc-deal",
         "summary": "该整机搭载AMD 9800X3D处理器与Nvidia RTX 5080显卡，现已上市。",
-        "comment": "联名主题整机瞄准特定玩家群体，硬件配置为当前高端水准。",
+        "comment": "联名主题整机瞄准特定玩家群体，硬件配置较高。",
         "image": "https://assets-prd.ignimgs.com/2026/03/17/ibuypowerfirefly-1773705920575.jpg",
         "score": 92
       },
       {
         "category": "数码科技",
+        "tag": "人工智能",
+        "title": "阿里发布企业级AI助手“悟空”",
+        "link": "https://www.ifanr.com/1658400?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "阿里云发布企业级AI助手“悟空”，旨在为超级个体及企业提供智能化工具，正式进入该领域竞争。",
+        "comment": "巨头入局，企业AI助手市场竞争加剧。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
         "tag": "数码科技",
-        "title": "英伟达发布太空战略，苹果无预警发布AirPods Max 2",
+        "title": "英伟达发布太空战略 苹果无预警发布AirPods Max 2",
         "link": "https://www.ifanr.com/1658355?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "英伟达发布太空战略并设万亿收入目标，苹果无预警发布AirPods Max 2，三星三折叠手机将停售。多家AI企业回应“AI投毒”问题，徕卡相机将更换CEO。",
+        "summary": "英伟达公布太空战略并设万亿收入目标，苹果突然发布AirPods Max 2耳机，三星三折叠手机将停售。多家AI企业回应数据安全问题，徕卡相机更换CEO。",
         "comment": "科技巨头密集发布战略与新品，行业竞争持续升温。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏硬件",
+        "title": "Alienware旗舰游戏主机Area-51 Ryzen X3D版降价至4450美元",
+        "link": "https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-down-to-4450",
+        "summary": "Alienware 2026年最强大游戏PC Area-51 Ryzen X3D版搭载RTX 5090显卡，现价降至4450美元。",
+        "comment": "高端PC价格松动，或预示下一代硬件即将上市。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/10/alienwarearea51ryzen-1770751108036.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "显示器",
+        "title": "三星27寸QD-OLED电竞显示器降至350美元并附赠《生化危机：安魂曲》",
+        "link": "https://www.ign.com/articles/samsung-odyssey-g5-oled-gaming-monitor-deal-includes-resident-evil-requiem",
+        "summary": "三星OLED显示器提供三年质保，包含烧屏保障，现降价至350美元并赠送《生化危机：安魂曲》游戏。",
+        "comment": "高性价比OLED显示器促销，附带游戏赠品增加吸引力。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/16/samsungs90fres-1773692171899.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "消费电子",
+        "title": "Sonos春季翻新大促开启，音响产品享额外优惠",
+        "link": "https://www.ign.com/articles/sonos-refurbished-spring-sale-best-deals-on-soundbars-speakers-subwoofers",
+        "summary": "Sonos官方翻新产品与新品无差异，享一年质保，现针对回音壁、扬声器及低音炮推出春季促销。",
+        "comment": "官方翻新渠道为追求性价比的消费者提供了可靠选择。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/16/sonosspringsale-1773690114350.jpg",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码新品",
+        "title": "OTW Agent可升级充电头开售",
+        "link": "https://www.ifanr.com/1658358?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "OTW Agent可升级充电头正式上市，用户可通过模块化设计更新充电协议与功率。",
+        "comment": "模块化设计有望延长充电头使用寿命。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际关系",
+        "title": "特朗普对伊朗选项信心不减，但风险并存",
+        "link": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+        "summary": "战争快速解决的可能性日益减小，总统面临的政治风险持续增加。",
+        "comment": "美伊紧张局势持续，军事选项风险极高。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际冲突",
+        "title": "阿富汗指控巴基斯坦空袭医院致数百人死亡",
+        "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
+        "summary": "阿富汗指控巴基斯坦空袭医院致数百人死亡，巴基斯坦否认袭击医疗设施，称其目标是军事设施。",
+        "comment": "边境冲突升级，人道主义设施安全堪忧。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "南苏丹",
+        "title": "南苏丹内战边缘：天空降火 民众逃离",
+        "link": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+        "summary": "南苏丹琼莱州约5万人被要求逃离家园，军方警告将发动大规模军事进攻，当地民众描述“火从天空降下”。",
+        "comment": "南苏丹冲突持续升级，平民再次成为最大受害者。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "能源危机",
+        "title": "古巴电网崩溃致数百万人断电，燃料短缺加剧",
+        "link": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
+        "summary": "古巴电网因燃料短缺崩溃，数百万人断电。美国对古巴石油运输的封锁加剧了该国的长期燃料危机。",
+        "comment": "古巴能源危机凸显地缘政治对民生的直接影响。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "人工智能",
+        "title": "Anthropic招聘武器专家防范AI滥用",
+        "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
+        "summary": "人工智能公司Anthropic计划招聘武器专家，旨在防止其系统被用于武器开发等灾难性滥用场景。",
+        "comment": "AI安全从理论走向具体岗位部署。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "能源危机",
+        "title": "斯里兰卡宣布周三为公休日以节约燃油",
+        "link": "https://www.bbc.com/news/articles/c4g5n58rlnzo?at_medium=RSS&at_campaign=rss",
+        "summary": "斯里兰卡宣布将每周三定为公休日，这是亚洲多国为应对能源危机、减少燃油消耗而采取的最新措施。",
+        "comment": "能源危机正迫使多国采取非常规手段应对。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国社会",
+        "title": "美国犹他州作家被裁定毒杀丈夫罪名成立",
+        "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
+        "summary": "陪审团裁定，科里·里金斯于2022年3月通过在其丈夫饮料中掺入芬太尼致其死亡。",
+        "comment": "案件情节离奇，凸显家庭悲剧与毒品危害。",
+        "image": "",
+        "score": 84
       }
     ]
   }
