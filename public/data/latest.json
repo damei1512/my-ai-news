@@ -4,20 +4,50 @@
     "articles": [
       {
         "category": "数码科技",
+        "tag": "人工智能",
+        "title": "黄仁勋与吴泳铭同提Token，英伟达GTC与阿里新事业群聚焦",
+        "link": "https://36kr.com/p/3727806050565251?f=rss",
+        "summary": "英伟达GTC 2026大会中，黄仁勋演讲核心关键词为Token；同日阿里宣布成立同等重要的Token事业群，显示两大巨头战略聚焦。",
+        "comment": "Token成为科技巨头共同押注的下一个战略焦点。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "半导体",
+        "title": "博思得完成超亿元C轮融资，加速高端仪器与半导体核心部件国产化",
+        "link": "https://36kr.com/p/3727812168367238?f=rss",
+        "summary": "苏州博思得电气完成超亿元C轮融资，资金将用于高端产品研发及全球化布局。公司专注于高压发生器、X光射线源等医疗影像、半导体检测核心部件。",
+        "comment": "硬科技领域融资持续活跃，核心部件国产替代进程加速。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI内容生成",
+        "title": "茉莉语境融资百万美元，用AI打造“一人公司”",
+        "link": "https://36kr.com/p/3727752358919305?f=rss",
+        "summary": "茉莉语境获百万美元融资，其AI系统可自动运营多个社交媒体账号，通过不同“人格”龙虾代理抓热点、发内容，实现自媒体自动化。",
+        "comment": "AI代理正深度介入内容创作，效率与真实性的平衡成新挑战。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
         "tag": "AR眼镜",
         "title": "光粒科技获近亿元Pre-B轮融资，专注智能运动眼镜",
         "link": "https://36kr.com/p/3726585094863236?f=rss",
         "summary": "智能运动眼镜品牌光粒科技完成近亿元Pre-B轮融资，由杭州高新金投投资。资金将用于团队建设、技术研发及全球市场拓展。公司通过全息树脂光波导技术实现运动数据实时显示。",
-        "comment": "AR技术在垂直运动场景的应用正获得资本关注。",
+        "comment": "AR技术向垂直运动场景落地，融资将加速产品迭代与市场验证。",
         "image": "",
         "score": 94
       },
       {
         "category": "数码科技",
-        "tag": "数码科技",
+        "tag": "平台监管",
         "title": "宝宝巴士因低俗广告被罚30万，山姆三文鱼加警示标签",
         "link": "https://36kr.com/p/3727701336833157?f=rss",
-        "summary": "宝宝巴士APP因推送低俗广告被罚款30万元；山姆客服回应为三文鱼添加不可生食标签；360回应私钥泄露事件。",
+        "summary": "宝宝巴士APP推送低俗广告被罚款30万元；山姆客服回应为三文鱼加贴不可生食标签；360回应私钥泄露事件。",
         "comment": "平台内容审核与食品安全警示均需加强监管。",
         "image": "",
         "score": 94
@@ -25,30 +55,50 @@
       {
         "category": "数码科技",
         "tag": "生物医药",
-        "title": "聚海恒创获数千万元融资，专注核酸药上游设备耗材",
+        "title": "聚海恒创获数千万元融资，加码核酸药上游设备耗材",
         "link": "https://36kr.com/p/3725325152729736?f=rss",
-        "summary": "杭州聚海恒创完成新一轮数千万元融资，资金将用于核酸药物设备及配套耗材研发与海外市场拓展。该公司为核酸合成上游平台型企业。",
-        "comment": "资本持续押注小核酸药物产业链上游，行业热度不减。",
+        "summary": "杭州聚海恒创完成新一轮数千万元融资，资金将用于核酸药物设备及配套耗材的研发与海外市场拓展。该公司是核酸合成上游平台型企业。",
+        "comment": "资本持续押注核酸药物产业链上游，行业配套环节迎来发展机遇。",
         "image": "",
         "score": 94
       },
       {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《深海迷航2》5月开启抢先体验，Krafton批准发行",
+        "link": "https://www.gamespot.com/articles/subnautica-2-will-get-early-access-release-in-may-following-the-latest-court-ruling/1100-6538850/?ftag=CAD-01-10abi2f",
+        "summary": "开发商Unknown Worlds负责人确认，在Krafton批准后，《深海迷航2》将于5月以抢先体验形式发布。",
+        "comment": "经典生存游戏续作即将面世，值得期待。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4667507-subnautica2newtrailer.jpg",
+        "score": 92
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "美国反恐高官因伊朗战争辞职，敦促特朗普改弦更张",
+        "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国国家反恐中心主任乔·肯特辞职，称特朗普因以色列及其强大游说集团的压力发动了对伊战争，并呼吁其改变路线。",
+        "comment": "高级官员公开辞职并批评政策，暴露美国内部对伊战略分歧。",
+        "image": "",
+        "score": 87
+      },
+      {
         "category": "时事热点",
         "tag": "伊朗局势",
-        "title": "伊朗民众面临内外双重压力：空袭与高压统治",
+        "title": "伊朗民众面临空袭与高压统治的双重恐惧",
         "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
-        "summary": "德黑兰居民向BBC表示，他们夹在美以空袭和伊朗政权试图重新确立权威之间，生活在持续恐惧中。",
-        "comment": "地缘冲突与国内高压叠加，普通民众成为最大受害者。",
+        "summary": "德黑兰居民向BBC表示，他们夹在美以空袭和试图重新巩固权力的伊朗政权之间，生活在持续不断的恐惧中。",
+        "comment": "地缘冲突与内部高压叠加，加剧了普通民众的苦难。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "医药健康",
-        "title": "印度廉价减肥药或改变全球肥胖治疗格局",
+        "title": "印度廉价减肥药或重塑全球肥胖治疗格局",
         "link": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
-        "summary": "印度司美格鲁肽专利3月20日到期，预计约50种品牌仿制药将进入市场，可能大幅降低全球减肥药物成本。",
-        "comment": "仿制药入局将加剧市场竞争，惠及更多患者。",
+        "summary": "印度司美格鲁肽专利将于3月20日到期，预计约50种品牌仿制药将进入市场，可能大幅降低全球减肥治疗成本。",
+        "comment": "仿制药竞争有望打破高价壁垒，惠及更广泛患者。",
         "image": "",
         "score": 87
       }
@@ -60,10 +110,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Mistral推出企业AI定制平台，挑战OpenAI与Anthropic",
+        "title": "Mistral推出企业AI定制平台Forge，挑战OpenAI与Anthropic",
         "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-        "summary": "Mistral Forge允许企业使用自有数据从头训练定制AI模型，与依赖微调和检索方法的竞争对手形成差异化竞争。",
-        "comment": "企业AI定制化竞争进入新阶段，数据主权成为关键战场。",
+        "summary": "Mistral发布Forge平台，允许企业使用自有数据从头训练定制AI模型，而非依赖微调或检索增强生成技术。",
+        "comment": "企业AI定制化竞争进入新阶段，数据主权成关键差异点。",
         "image": "",
         "score": 100
       },
@@ -72,8 +122,8 @@
         "tag": "人工智能",
         "title": "五角大楼被曝正开发Anthropic替代方案",
         "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-        "summary": "据TechCrunch报道，美国国防部与Anthropic关系破裂后，正在积极开发替代性人工智能方案，双方合作已无恢复迹象。",
-        "comment": "地缘竞争正加速AI技术体系的多元化发展。",
+        "summary": "报道称，在经历戏剧性决裂后，五角大楼与Anthropic的合作关系难以修复，正积极寻求替代方案。",
+        "comment": "地缘政治正深刻影响全球AI供应链格局。",
         "image": "",
         "score": 100
       },
@@ -82,8 +132,8 @@
         "tag": "人工智能",
         "title": "OpenAI与AWS合作向美国政府销售AI系统",
         "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-        "summary": "OpenAI与AWS签署合作协议，向美国政府销售AI系统，用于机密与非机密工作，标志着其政府业务在五角大楼合作基础上的进一步扩展。",
-        "comment": "科技巨头与政府合作深化，AI治理与安全议题更显紧迫。",
+        "summary": "OpenAI与亚马逊云服务签署合作协议，将向美国政府提供用于机密和非机密工作的AI系统，这是继五角大楼合作后的进一步扩展。",
+        "comment": "科技巨头与政府合作深化，AI治理进入新阶段。",
         "image": "",
         "score": 100
       },
@@ -92,17 +142,17 @@
         "tag": "人工智能",
         "title": "谷歌个人智能功能向全美用户开放",
         "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-        "summary": "谷歌个人智能功能允许其AI助手调用用户的Gmail、Google相册等谷歌生态数据，以提供更个性化的回答。该功能正从测试阶段向全美所有用户推广。",
-        "comment": "数据整合深化AI个性化服务，隐私与便利的平衡再成焦点。",
+        "summary": "谷歌个人智能功能现向全美用户开放，该功能允许AI助手访问用户的Gmail、Google相册等谷歌生态数据，以提供更个性化的回答。",
+        "comment": "谷歌正加速推进其AI助手与个人数据的深度整合。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "AI投资人警告：女性若被排除将加剧财富差距",
+        "title": "AI投资家警告：女性缺席AI领导层将加剧财富差距",
         "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-        "summary": "AI投资人Rana el Kaliouby指出，若女性在AI融资和领导层中被边缘化，将导致严重后果。",
+        "summary": "AI投资人Rana el Kaliouby指出，若女性被排除在AI投资与领导职位外，将导致严重后果。",
         "comment": "性别失衡可能阻碍AI行业的健康发展。",
         "image": "",
         "score": 99
@@ -110,10 +160,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "World公司推出AI购物代理背后真人验证工具",
+        "title": "World推出AI购物代理背后真人验证工具",
         "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-        "summary": "随着AI代理接管在线购物，Sam Altman旗下初创公司World正扩展验证服务，以支持代理化电商，确保交易背后的人类身份真实性。",
-        "comment": "AI代理身份验证成为电商信任体系新基建。",
+        "summary": "随着AI代理接管在线购物，Sam Altman的初创公司World正扩展其验证服务，以支持代理化商务，确保AI购物行为背后有真人授权。",
+        "comment": "AI代理监管需跟上应用步伐，验证工具是必要基础设施。",
         "image": "",
         "score": 99
       },
@@ -130,40 +180,40 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Niv-AI 结束隐身模式，优化GPU功耗性能",
-        "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-        "summary": "Niv-AI公司获得1200万美元种子轮融资，专注于测量和管理GPU的功耗峰值，以提升其性能表现。",
-        "comment": "AI算力需求激增，优化GPU功耗成为关键赛道。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "折叠屏",
-        "title": "OPPO Find N6折叠旗舰发布，宣称攻克折痕难题",
-        "link": "https://36kr.com/p/3727140263410825?f=rss",
-        "summary": "OPPO发布Find N6折叠手机，采用钛合金铰链与新型玻璃技术，宣称通过德国莱茵实验室测试，解决了长期存在的屏幕折痕问题。",
-        "comment": "若实测折痕控制真如宣传，将是折叠屏实用化的重要一步。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Garry Tan的Claude代码配置引发广泛争议",
+        "title": "Garry Tan的Claude Code配置引发广泛争议",
         "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-        "summary": "数千人试用Garry Tan在GitHub分享的Claude代码配置方案，引发两极评价，Claude、ChatGPT和Gemini等AI模型也参与讨论。",
-        "comment": "AI工具配置方案能引发如此广泛讨论，反映开发者生态的活跃度。",
+        "summary": "数千人试用Garry Tan在GitHub分享的Claude Code配置方案，引发包括Claude、ChatGPT、Gemini在内的多方讨论与评价。",
+        "comment": "AI工具配置方案成热议焦点，反映开发者生态的活跃与分歧。",
         "image": "",
-        "score": 96
+        "score": 97
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
         "title": "BuzzFeed在SXSW发布AI社交应用寻求新收入",
         "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-        "summary": "BuzzFeed在SXSW推出两款AI驱动的社交应用，但现场演示反响平淡，公司正寻求新的收入来源。",
-        "comment": "AI应用创新需超越概念演示，真正满足用户需求。",
+        "summary": "BuzzFeed在SXSW推出两款AI驱动的社交应用，但现场演示反响平淡，旨在探索新的收入来源。",
+        "comment": "AI应用创新值得关注，但市场反响是检验产品的关键。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Niv-AI 结束隐身模式，优化GPU功耗性能",
+        "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+        "summary": "Niv-AI公司获得1200万美元种子轮融资，专注于测量和管理GPU的功耗峰值，以提升其性能表现。",
+        "comment": "AI算力需求激增，功耗优化成为关键竞争点。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "折叠屏手机",
+        "title": "OPPO Find N6全球发布，宣称攻克折叠屏折痕难题",
+        "link": "https://36kr.com/p/3727140263410825?f=rss",
+        "summary": "OPPO发布Find N6折叠旗舰，采用钛合金铰链与特种玻璃技术，宣称通过德国莱茵实验室测试，解决了行业长期存在的折痕问题。",
+        "comment": "若实测折痕控制确实领先，将是折叠屏实用化的重要进步。",
         "image": "",
         "score": 96
       },
@@ -180,10 +230,10 @@
       {
         "category": "数码科技",
         "tag": "科技动态",
-        "title": "苹果高管访深，马斯克预告Roadster，华为发布AI基础设施",
+        "title": "苹果高管访深，马斯克预告Roadster，华为推AI基础设施",
         "link": "https://36kr.com/p/3726912161184128?f=rss",
         "summary": "苹果COO现身深圳；马斯克称电动超跑Roadster或四月下旬亮相；华为发布面向AI推理的新一代数据基础设施。西门子与Rittal达成数据中心能源合作，腾讯音乐2025年总收入329亿元。",
-        "comment": "科技巨头同日发布多项重要动态，AI与新能源领域竞争加剧。",
+        "comment": "科技巨头动作频频，AI与新能源领域竞争加剧。",
         "image": "",
         "score": 96
       },
@@ -193,68 +243,28 @@
         "title": "招商蛇口2025年营收降13.53%至1547亿，净利润大跌74.65%",
         "link": "https://36kr.com/p/3726887582185858?f=rss",
         "summary": "招商蛇口2025年营收1547.28亿元，同比下滑13.53%；归母净利润10.24亿元，同比大跌74.65%，核心数据均创近五年新低。",
-        "comment": "地产行业深度调整，头部企业业绩承压明显。",
+        "comment": "房地产行业深度调整，头部企业业绩承压明显。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "滴滴出行",
-        "title": "滴滴2025年报：国际业务增47%，加码拉美市场",
-        "link": "https://36kr.com/p/3726781163682439?f=rss",
-        "summary": "滴滴2025年国际业务交易额同比增长47.1%至366亿元，订单量增24.5%，日均订单超1300万单，占中国出行三分之一。公司持续加大对拉美等重点海外市场的投入。",
-        "comment": "国际业务成为滴滴增长新引擎，拉美市场战略地位凸显。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "华为渠道服",
-        "title": "华为游戏渠道服突发异常，多款游戏玩家无法登录",
-        "link": "https://36kr.com/p/3726832908368521?f=rss",
-        "summary": "3月17日，大量华为渠道服玩家反馈登录《闪耀暖暖》《恋与深空》等游戏时，被误判为未成年退款账号而无法登录，但实际已完成成年人实名认证。",
-        "comment": "渠道服务稳定性问题凸显，影响玩家体验与厂商声誉。",
-        "image": "",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "半导体",
-        "title": "矽瓷新能获数千万元A轮融资，推进半导体材料国产化",
-        "link": "https://36kr.com/p/3726836407859591?f=rss",
-        "summary": "北京矽瓷新能完成数千万元A轮融资，资金将用于高纯石英砂产能扩建及碳化硅粉体产线建设，加速半导体核心材料国产替代。",
-        "comment": "资本持续加码半导体上游材料，国产替代进程加速。",
-        "image": "",
-        "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "流媒体",
-        "title": "《无敌少侠》第四季明日开播，首更三集",
-        "link": "https://www.ign.com/articles/how-to-watch-invincible-season-4-episode-release-dates",
-        "summary": "动画剧集《无敌少侠》第四季将于明日回归亚马逊Prime Video平台，首播将一次性上线前三集。",
-        "comment": "备受期待的成人动画重磅回归，粉丝狂欢。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/13/invincible-season-4-blogroll-1773428218502.jpg",
-        "score": 94
+        "tag": "游戏硬件",
+        "title": "Alienware旗舰游戏主机Area-51 Ryzen X3D版降价至4450美元",
+        "link": "https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-down-to-4450",
+        "summary": "Alienware 2026年最强大游戏PC Area-51 Ryzen X3D版搭载RTX 5090显卡，现价降至4450美元。",
+        "comment": "高端游戏PC价格下探，或刺激硬件市场消费。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/10/alienwarearea51ryzen-1770751108036.jpg",
+        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
         "title": "Take-Two CEO称无法想象成年人会错过《GTA 6》",
         "link": "https://www.gamespot.com/articles/take-two-ceo-cant-imagine-an-adult-who-will-skip-gta-6/1100-6538849/?ftag=CAD-01-10abi2f",
-        "summary": "Take-Two CEO斯特劳斯·泽尔尼克在采访中表示，对《GTA 6》有绝对信心，不担心新玩家会因系列门槛而却步。",
-        "comment": "CEO的自信发言展现了公司对这款重磅作品的极高期待。",
+        "summary": "Take-Two CEO斯特劳斯·泽尔尼克在采访中表示对《GTA 6》充满信心，不担心新玩家会因系列门槛而却步。",
+        "comment": "CEO对自家王牌IP的自信溢于言表。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4667497-gta6.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "Embark Studios联合创始人因性行为不端指控离职",
-        "link": "https://www.gamespot.com/articles/arc-raiders-dev-co-founder-leaves-embark-studios-after-sexual-misconduct-accusations/1100-6538848/?ftag=CAD-01-10abi2f",
-        "summary": "《Arc Raiders》与《The Finals》开发商Embark Studios宣布，联合创始人兼首席创意官Rob Runesson因面临对女性的性行为不端指控而离职。",
-        "comment": "游戏行业高管不当行为再引关注，公司处理迅速。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4667491-arcraidersduos.jpg",
         "score": 92
       },
       {
@@ -269,22 +279,12 @@
       },
       {
         "category": "游戏影视",
-        "tag": "沙丘",
-        "title": "《沙丘》原著六部曲套装降价促销",
+        "tag": "图书促销",
+        "title": "《沙丘》六部曲套装降价促销，第三部上映前入手良机",
         "link": "https://www.ign.com/articles/frank-herberts-dune-6-book-box-set-deal-march-2026",
-        "summary": "IGN报道《沙丘》原著六部曲套装正以2026年迄今最低价促销，建议在《沙丘3》上映前入手。",
-        "comment": "影视热度带动原著销售，是入手经典的好时机。",
+        "summary": "IGN报道《沙丘》原著六部曲套装正以2026年迄今最低价促销，建议在《沙丘3》上映引发涨价前购入。",
+        "comment": "影视联动效应明显，原著销量随电影热度波动。",
         "image": "https://assets-prd.ignimgs.com/2026/03/17/dune-box-set-1773785922262.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "Alienware旗舰游戏主机Area-51 Ryzen X3D版降价至4450美元",
-        "link": "https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-down-to-4450",
-        "summary": "Alienware 2026年最强大游戏PC Area-51 Ryzen X3D版搭载RTX 5090显卡，现价降至4450美元。",
-        "comment": "高端PC价格松动，或预示下一代硬件即将上市。",
-        "image": "https://assets-prd.ignimgs.com/2026/02/10/alienwarearea51ryzen-1770751108036.jpg",
         "score": 91
       },
       {
@@ -300,9 +300,9 @@
       {
         "category": "游戏影视",
         "tag": "消费电子",
-        "title": "Sonos春季翻新大促开启，音响产品享额外折扣",
+        "title": "Sonos春季翻新大促启动，音响产品享额外优惠",
         "link": "https://www.ign.com/articles/sonos-refurbished-spring-sale-best-deals-on-soundbars-speakers-subwoofers",
-        "summary": "Sonos官方翻新产品启动春季促销，涵盖回音壁、扬声器及低音炮等品类，产品享有与新品相同的1年质保。",
+        "summary": "Sonos官方翻新产品开启春季促销，涵盖回音壁、扬声器及低音炮等品类，产品经认证与新品无异，享一年原厂保修。",
         "comment": "官方翻新渠道为追求性价比的消费者提供了可靠选择。",
         "image": "https://assets-prd.ignimgs.com/2026/03/16/sonosspringsale-1773690114350.jpg",
         "score": 91
@@ -312,40 +312,110 @@
         "tag": "行车记录仪",
         "title": "Wolfbox X3 Pro行车记录仪套装亚马逊降价至119.99美元",
         "link": "https://www.ign.com/articles/wolfbox-x3-pro-25k-front-and-rear-dashcam-deal-on-amazon",
-        "summary": "该套装配备索尼STARVIS 2 IMX675传感器，支持2.5K前后双录，在弱光环境下表现优异。",
-        "comment": "高端传感器配置在千元价位段具有较强竞争力。",
+        "summary": "该套装配备索尼STARVIS 2 IMX675传感器，主打弱光环境下的高清录像能力，目前正在亚马逊促销。",
+        "comment": "硬件配置扎实，促销价格具有吸引力。",
         "image": "https://assets-prd.ignimgs.com/2026/03/17/wolfboxdashcam-1773786137463.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "苹果",
-        "title": "苹果AirPods Pro 3在亚马逊降价至199.99美元",
+        "title": "苹果AirPods Pro 3亚马逊降价至199.99美元",
         "link": "https://www.ign.com/articles/apple-airpods-pro-3-deal-march-2026-drops-below-200",
         "summary": "苹果AirPods Pro 3降噪耳机在亚马逊限时降价至199.99美元，为iPhone用户提供高性价比选择。",
-        "comment": "价格下探至200美元以下，入手门槛显著降低。",
+        "comment": "促销力度较大，但需注意产品迭代周期。",
         "image": "https://assets-prd.ignimgs.com/2026/03/16/airpodspro3-1773693538733.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "硬件降价",
+        "tag": "流媒体",
+        "title": "《无敌少侠》第四季明日开播，首更三集",
+        "link": "https://www.ign.com/articles/how-to-watch-invincible-season-4-episode-release-dates",
+        "summary": "动画剧集《无敌少侠》第四季将于明日登陆Prime Video平台，首播将一次性上线前三集。",
+        "comment": "粉丝期待已久的续作终于回归，开局即高潮。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/13/invincible-season-4-blogroll-1773428218502.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏硬件",
         "title": "外星人RTX 5070 Ti液冷游戏主机降价至1899美元",
         "link": "https://www.ign.com/articles/alienware-aurora-r16-rtx-5070-ti-gaming-pc-deal-for-1900-at-dell",
         "summary": "戴尔外星人Aurora R16游戏主机搭载RTX 5070 Ti显卡，现价1899.99美元，可支持《赤色沙漠》4K/60帧超高画质运行。",
-        "comment": "高端PC硬件价格松动，为玩家提供更高性价比选择。",
+        "comment": "高端游戏PC价格下探，为玩家提供更强性能选择。",
         "image": "https://assets-prd.ignimgs.com/2026/03/17/alienwareaurorar162-1773783398493.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《宝可梦：波克比亚》玩家自发清理火山灰",
+        "tag": "游戏社区",
+        "title": "《宝可梦：波克皮亚》玩家自发清理火山灰",
         "link": "https://www.ign.com/articles/pokemon-pokopia-players-are-clearing-all-the-ash-on-rocky-ridges-so-you-dont-have-to",
-        "summary": "在游戏《宝可梦：波克比亚》的“崎岖山脊”区域，玩家们正自发组织清理火山灰，以改善游戏环境。",
-        "comment": "玩家社区的自发行为展现了游戏生态的活力。",
+        "summary": "玩家社群在游戏中的“岩石山脊”区域自发组织清理火山灰，以帮助其他玩家解决探索难题。",
+        "comment": "玩家社区的自发协作行为，展现了游戏社群的积极生态。",
         "image": "https://assets-prd.ignimgs.com/2026/02/27/pokopia-group-1-1772217015316.png",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏行业",
+        "title": "Embark Studios联合创始人因性行为不端指控离职",
+        "link": "https://www.gamespot.com/articles/arc-raiders-dev-co-founder-leaves-embark-studios-after-sexual-misconduct-accusations/1100-6538848/?ftag=CAD-01-10abi2f",
+        "summary": "《Arc Raiders》与《The Finals》开发商Embark Studios宣布，联合创始人兼首席创意官Rob Runesson因面临对女性的性行为不端指控而离职。",
+        "comment": "游戏行业高管因不当行为离职，反映行业对职场规范的重视。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4667491-arcraidersduos.jpg",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "英伟达",
+        "title": "英伟达CEO黄仁勋回应DLSS 5争议：首先，他们错了",
+        "link": "https://www.ign.com/articles/first-of-all-theyre-wrong-nvidia-ceo-jensen-huang-responds-to-dlss-5-backlash",
+        "summary": "英伟达CEO黄仁勋针对近期关于DLSS 5技术的批评声音作出回应，明确表示反对意见是错误的，并可能进一步阐述技术立场。",
+        "comment": "CEO亲自下场回应争议，凸显该技术对英伟达的战略重要性。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/16/nvidiadlss5announcementtrailer-ign-blogroll-1773691909615.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏发售",
+        "title": "《星空》PS5版开放预购，标准版50美元4月7日发售",
+        "link": "https://www.gamespot.com/articles/starfield-playstation-5-buying-guide/1100-6538847/?ftag=CAD-01-10abi2f",
+        "summary": "《星空》PS5标准版现已在亚马逊和百思买开放预购，售价50美元，游戏将于4月7日正式发售。",
+        "comment": "多平台策略拓展了B社游戏的玩家覆盖面。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1865/18658661/4667487-starfieldfinal.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏更新",
+        "title": "《控制》衍生作推出好友通行证，停更后推联机便利功能",
+        "link": "https://www.gamespot.com/articles/another-game-is-making-it-much-easier-to-rope-your-friends-into-playing-with-you/1100-6538846/?ftag=CAD-01-10abi2f",
+        "summary": "Remedy Entertainment为多人衍生作《FBC: Firebreak》推出好友通行证，允许玩家邀请未购游戏的朋友免费联机体验。此举在游戏停止内容更新后推出，旨在降低联机门槛。",
+        "comment": "停更后推联机功能，意在维持玩家社群活跃度。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1849/18498836/4667481-fbc-firebreak%283%29.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏开发",
+        "title": "陶德·霍华德谈《上古卷轴6》：就当没宣布过",
+        "link": "https://www.gamespot.com/articles/todd-howard-on-elder-scrolls-6-just-pretend-we-didnt-announce-it-it-doesnt-exist/1100-6538842/?ftag=CAD-01-10abi2f",
+        "summary": "贝塞斯达总监陶德·霍华德再次回应2018年过早公布《上古卷轴6》的决定，坦言当时宣布过早，建议玩家暂时当它不存在。",
+        "comment": "过早画饼消耗玩家热情，游戏行业需反思宣传节奏。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4667457-es6.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏行业",
+        "title": "陶德·霍华德对菲尔·斯宾塞卸任表示遗憾",
+        "link": "https://www.gamespot.com/articles/todd-howard-really-really-sorry-to-see-phil-spencer-retire-weighs-in-on-new-ceo/1100-6538840/?ftag=CAD-01-10abi2f",
+        "summary": "贝塞斯达负责人陶德·霍华德在采访中表示，对好友菲尔·斯宾塞卸任微软游戏CEO感到非常遗憾，并谈及对新任CEO的看法。",
+        "comment": "高层变动引发行业关注，合作默契或受影响。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4667440-th.jpg",
+        "score": 89
       },
       {
         "category": "游戏影视",
@@ -355,56 +425,6 @@
         "summary": "IO Interactive宣布取消原定在争议游戏《MindsEye》中推出的《杀手》联动任务。该游戏由IO发行但市场反响极差，成为2025年重大失败作品之一。",
         "comment": "明智的止损决策，避免品牌价值被拖累。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4667483-hitman.jpg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "英伟达",
-        "title": "英伟达CEO黄仁勋回应DLSS 5争议：首先，他们错了",
-        "link": "https://www.ign.com/articles/first-of-all-theyre-wrong-nvidia-ceo-jensen-huang-responds-to-dlss-5-backlash",
-        "summary": "英伟达CEO黄仁勋针对近期关于DLSS 5技术的批评声音做出直接回应，称批评者观点错误，并为其技术路线辩护。",
-        "comment": "CEO亲自下场回应技术争议，凸显行业竞争激烈。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/16/nvidiadlss5announcementtrailer-ign-blogroll-1773691909615.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏发售",
-        "title": "《星空》PS5版开放预购，4月7日发售",
-        "link": "https://www.gamespot.com/articles/starfield-playstation-5-buying-guide/1100-6538847/?ftag=CAD-01-10abi2f",
-        "summary": "《星空》标准版PS5版现已在亚马逊和百思买开放预购，售价50美元，将于4月7日正式发售。",
-        "comment": "多平台策略拓展了B社游戏的玩家覆盖面。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1865/18658661/4667487-starfieldfinal.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《控制》衍生作推出好友通行证，方便拉朋友联机",
-        "link": "https://www.gamespot.com/articles/another-game-is-making-it-much-easier-to-rope-your-friends-into-playing-with-you/1100-6538846/?ftag=CAD-01-10abi2f",
-        "summary": "Remedy Entertainment为其多人游戏《FBC: Firebreak》推出好友通行证，允许玩家邀请朋友免费体验，同时宣布将停止游戏的新内容更新。",
-        "comment": "停更前推好友通行证，或是为维持玩家社群的最后努力。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1849/18498836/4667481-fbc-firebreak%283%29.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "Todd Howard谈《上古卷轴6》：就当没宣布过",
-        "link": "https://www.gamespot.com/articles/todd-howard-on-elder-scrolls-6-just-pretend-we-didnt-announce-it-it-doesnt-exist/1100-6538842/?ftag=CAD-01-10abi2f",
-        "summary": "Bethesda总监Todd Howard再次回应2018年过早宣布《上古卷轴6》的决定，建议玩家暂时忘记这款游戏的存在。",
-        "comment": "画饼过早消耗玩家热情，是游戏行业常见失误。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4667457-es6.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "Todd Howard对Phil Spencer卸任表示遗憾并评论新CEO",
-        "link": "https://www.gamespot.com/articles/todd-howard-really-really-sorry-to-see-phil-spencer-retire-weighs-in-on-new-ceo/1100-6538840/?ftag=CAD-01-10abi2f",
-        "summary": "Bethesda负责人Todd Howard在采访中表示，对好友微软游戏CEO Phil Spencer的离任感到非常遗憾，并对新任CEO发表了看法。",
-        "comment": "高层变动引发行业关注，但具体影响尚待观察。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4667440-th.jpg",
         "score": 89
       },
       {
@@ -412,19 +432,9 @@
         "tag": "游戏硬件",
         "title": "索尼PlayStation Portal新更新提升游戏画质",
         "link": "https://www.gamespot.com/articles/playstation-portals-new-update-will-make-all-your-games-look-a-lot-better/1100-6538844/?ftag=CAD-01-10abi2f",
-        "summary": "索尼为PlayStation Portal推出新更新，新增视觉选项，允许用户选择更佳画质设置，提升游戏画面表现。",
+        "summary": "索尼为PlayStation Portal推出新更新，新增视觉设置选项，允许用户根据网络状况选择画质模式，优化远程游戏体验。",
         "comment": "持续更新显示索尼对串流掌机的投入，但核心体验仍依赖网络环境。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15853545/4667462-7908321705-NAG-N.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏资讯",
-        "title": "GTA 6“泄露”视频被证实为伪造",
-        "link": "https://www.gamespot.com/articles/gta-6-leak-was-sitting-on-a-phone-for-four-years-and-only-just-released-now/1100-6538513/?ftag=CAD-01-10abi2f",
-        "summary": "此前流传的《GTA 6》“桥梁”泄露视频被证实为伪造，创作者已道歉，称其目的是测试能否“创造逼真的虚假内容”。",
-        "comment": "虚假信息泛滥，玩家需谨慎甄别网络爆料。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4659780-gta6.jpg",
         "score": 89
       },
       {
@@ -433,27 +443,17 @@
         "title": "巴基斯坦空袭喀布尔康复中心致数百人伤亡",
         "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
         "summary": "巴基斯坦周一夜间空袭喀布尔一处康复中心，幸存者称袭击发生时患者正在用餐，具体死亡人数尚不明确，恐达数百人。",
-        "comment": "跨境军事行动造成平民重大伤亡，引发人道危机担忧。",
+        "comment": "跨境军事行动造成平民重大伤亡，引发严重人道关切。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "美国政治",
-        "title": "美国反恐高官因伊朗战争辞职，敦促特朗普改变路线",
-        "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国国家反恐中心主任乔·肯特因伊朗战争辞职，称特朗普因以色列及其强大游说团体压力发动战争，并呼吁其改变路线。",
-        "comment": "高级官员公开辞职并批评政策，显示美国内部对伊朗问题存在严重分歧。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
         "tag": "国际安全",
-        "title": "意大利警告俄罗斯油轮随时可能在爆炸",
+        "title": "意大利警告俄罗斯油轮随时可能在海上爆炸",
         "link": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
-        "summary": "意大利等九国敦促欧盟委员会对失控漂流的“北极梅塔加兹”号油轮采取行动，该船存在爆炸风险。",
-        "comment": "失控油轮成地中海定时炸弹，凸显区域安全新威胁。",
+        "summary": "意大利等九国敦促欧盟委员会对在地中海失控漂流的“北极梅塔加兹”号油轮采取行动，该船存在爆炸风险。",
+        "comment": "失控油轮构成重大环境与安全威胁，需紧急应对。",
         "image": "",
         "score": 87
       },
@@ -463,37 +463,27 @@
         "title": "俄军袭击致乌克兰石油泄漏 摩尔多瓦水源供应中断",
         "link": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
         "summary": "乌克兰石油设施遭俄军袭击后泄漏，污染德涅斯特河，摩尔多瓦宣布该流域进入15天警戒状态并切断供水。",
-        "comment": "俄乌冲突外溢效应持续显现，跨境环境危机敲响警钟。",
+        "comment": "俄乌冲突外溢效应持续显现，跨境环境风险加剧。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "伊朗政局",
-        "title": "伊朗资深政要拉里贾尼去世加剧领导层危机",
+        "tag": "伊朗",
+        "title": "伊朗资深政要拉里贾尼去世，领导层危机加深",
         "link": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
-        "summary": "被视为伊朗伊斯兰共和国最有经验和影响力的政策制定者之一，拉里贾尼的去世进一步加深了该国领导核心的危机。",
-        "comment": "关键人物离世或使伊朗内部权力平衡面临调整。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际关系",
-        "title": "西班牙国王承认殖民暴行 重燃墨西哥征服历史争议",
-        "link": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
-        "summary": "西班牙国王费利佩六世在访问墨西哥期间承认殖民时期的“滥用行为”，缓和两国关系的同时，也重新引发了关于500年前征服历史的激烈辩论。",
-        "comment": "殖民历史反思成为当代外交的敏感议题。",
+        "summary": "被视为伊朗伊斯兰共和国最有经验和影响力的政策制定者之一，阿里·拉里贾尼去世，加剧了该国领导核心的危机。",
+        "comment": "关键人物离世或使伊朗内部权力平衡生变。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "智利",
-        "title": "智利总统上任不到一周启动边境隔离墙建设",
+        "title": "智利总统上任一周内启动边境隔离墙建设",
         "link": "https://www.bbc.com/news/articles/cvg1227k00eo?at_medium=RSS&at_campaign=rss",
-        "summary": "智利总统何塞·安东尼奥·卡斯特视察边境沟渠工程，称其为里程碑，此举旨在加强边境管控。",
-        "comment": "新政府快速兑现移民管控承诺，边境政策转向强硬。",
+        "summary": "智利总统何塞·安东尼奥·卡斯特视察边境沟渠工程，称其为里程碑。该项目旨在控制移民流动，引发争议。",
+        "comment": "新政府快速推进边境管控，移民政策转向强硬。",
         "image": "",
         "score": 86
       },
@@ -502,10 +492,20 @@
         "tag": "美国政治",
         "title": "美司法部长因爱泼斯坦案被正式传唤至国会",
         "link": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国司法部长邦迪因爱泼斯坦案被国会正式传唤，此前有共和党议员指控司法部在公布相关文件时存在“掩盖”行为。",
+        "summary": "美国司法部长邦迪因爱泼斯坦案被国会正式传唤，此前有共和党议员指控司法部在公布爱泼斯坦文件时存在“掩盖”行为。",
         "comment": "国会传唤显示爱泼斯坦案调查仍在推进，司法部面临压力。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际关系",
+        "title": "西班牙国王承认殖民暴行，重燃墨西哥征服历史争议",
+        "link": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
+        "summary": "西班牙国王费利佩六世在访问墨西哥期间，承认500年前西班牙征服墨西哥时存在'滥用'行为，此举缓和了两国关系，也重新引发了关于殖民历史的激烈辩论。",
+        "comment": "迟来的历史承认，是外交和解的一小步。",
+        "image": "",
+        "score": 84
       }
     ]
   }

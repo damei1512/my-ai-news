@@ -4,20 +4,50 @@
     "articles": [
       {
         "category": "数码科技",
+        "tag": "人工智能",
+        "title": "黄仁勋与吴泳铭同提Token，英伟达GTC与阿里新事业群聚焦",
+        "link": "https://36kr.com/p/3727806050565251?f=rss",
+        "summary": "英伟达GTC 2026大会中，黄仁勋演讲核心关键词为Token；同日阿里宣布成立同等重要的Token事业群，显示两大巨头战略聚焦。",
+        "comment": "Token成为科技巨头共同押注的下一个战略焦点。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "半导体",
+        "title": "博思得完成超亿元C轮融资，加速高端仪器与半导体核心部件国产化",
+        "link": "https://36kr.com/p/3727812168367238?f=rss",
+        "summary": "苏州博思得电气完成超亿元C轮融资，资金将用于高端产品研发及全球化布局。公司专注于高压发生器、X光射线源等医疗影像、半导体检测核心部件。",
+        "comment": "硬科技领域融资持续活跃，核心部件国产替代进程加速。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI内容生成",
+        "title": "茉莉语境融资百万美元，用AI打造“一人公司”",
+        "link": "https://36kr.com/p/3727752358919305?f=rss",
+        "summary": "茉莉语境获百万美元融资，其AI系统可自动运营多个社交媒体账号，通过不同“人格”龙虾代理抓热点、发内容，实现自媒体自动化。",
+        "comment": "AI代理正深度介入内容创作，效率与真实性的平衡成新挑战。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
         "tag": "AR眼镜",
         "title": "光粒科技获近亿元Pre-B轮融资，专注智能运动眼镜",
         "link": "https://36kr.com/p/3726585094863236?f=rss",
         "summary": "智能运动眼镜品牌光粒科技完成近亿元Pre-B轮融资，由杭州高新金投投资。资金将用于团队建设、技术研发及全球市场拓展。公司通过全息树脂光波导技术实现运动数据实时显示。",
-        "comment": "AR技术在垂直运动场景的应用正获得资本关注。",
+        "comment": "AR技术向垂直运动场景落地，融资将加速产品迭代与市场验证。",
         "image": "",
         "score": 94
       },
       {
         "category": "数码科技",
-        "tag": "数码科技",
+        "tag": "平台监管",
         "title": "宝宝巴士因低俗广告被罚30万，山姆三文鱼加警示标签",
         "link": "https://36kr.com/p/3727701336833157?f=rss",
-        "summary": "宝宝巴士APP因推送低俗广告被罚款30万元；山姆客服回应为三文鱼添加不可生食标签；360回应私钥泄露事件。",
+        "summary": "宝宝巴士APP推送低俗广告被罚款30万元；山姆客服回应为三文鱼加贴不可生食标签；360回应私钥泄露事件。",
         "comment": "平台内容审核与食品安全警示均需加强监管。",
         "image": "",
         "score": 94
@@ -25,30 +55,50 @@
       {
         "category": "数码科技",
         "tag": "生物医药",
-        "title": "聚海恒创获数千万元融资，专注核酸药上游设备耗材",
+        "title": "聚海恒创获数千万元融资，加码核酸药上游设备耗材",
         "link": "https://36kr.com/p/3725325152729736?f=rss",
-        "summary": "杭州聚海恒创完成新一轮数千万元融资，资金将用于核酸药物设备及配套耗材研发与海外市场拓展。该公司为核酸合成上游平台型企业。",
-        "comment": "资本持续押注小核酸药物产业链上游，行业热度不减。",
+        "summary": "杭州聚海恒创完成新一轮数千万元融资，资金将用于核酸药物设备及配套耗材的研发与海外市场拓展。该公司是核酸合成上游平台型企业。",
+        "comment": "资本持续押注核酸药物产业链上游，行业配套环节迎来发展机遇。",
         "image": "",
         "score": 94
       },
       {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《深海迷航2》5月开启抢先体验，Krafton批准发行",
+        "link": "https://www.gamespot.com/articles/subnautica-2-will-get-early-access-release-in-may-following-the-latest-court-ruling/1100-6538850/?ftag=CAD-01-10abi2f",
+        "summary": "开发商Unknown Worlds负责人确认，在Krafton批准后，《深海迷航2》将于5月以抢先体验形式发布。",
+        "comment": "经典生存游戏续作即将面世，值得期待。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4667507-subnautica2newtrailer.jpg",
+        "score": 92
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "美国反恐高官因伊朗战争辞职，敦促特朗普改弦更张",
+        "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国国家反恐中心主任乔·肯特辞职，称特朗普因以色列及其强大游说集团的压力发动了对伊战争，并呼吁其改变路线。",
+        "comment": "高级官员公开辞职并批评政策，暴露美国内部对伊战略分歧。",
+        "image": "",
+        "score": 87
+      },
+      {
         "category": "时事热点",
         "tag": "伊朗局势",
-        "title": "伊朗民众面临内外双重压力：空袭与高压统治",
+        "title": "伊朗民众面临空袭与高压统治的双重恐惧",
         "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
-        "summary": "德黑兰居民向BBC表示，他们夹在美以空袭和伊朗政权试图重新确立权威之间，生活在持续恐惧中。",
-        "comment": "地缘冲突与国内高压叠加，普通民众成为最大受害者。",
+        "summary": "德黑兰居民向BBC表示，他们夹在美以空袭和试图重新巩固权力的伊朗政权之间，生活在持续不断的恐惧中。",
+        "comment": "地缘冲突与内部高压叠加，加剧了普通民众的苦难。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "医药健康",
-        "title": "印度廉价减肥药或改变全球肥胖治疗格局",
+        "title": "印度廉价减肥药或重塑全球肥胖治疗格局",
         "link": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
-        "summary": "印度司美格鲁肽专利3月20日到期，预计约50种品牌仿制药将进入市场，可能大幅降低全球减肥药物成本。",
-        "comment": "仿制药入局将加剧市场竞争，惠及更多患者。",
+        "summary": "印度司美格鲁肽专利将于3月20日到期，预计约50种品牌仿制药将进入市场，可能大幅降低全球减肥治疗成本。",
+        "comment": "仿制药竞争有望打破高价壁垒，惠及更广泛患者。",
         "image": "",
         "score": 87
       }
