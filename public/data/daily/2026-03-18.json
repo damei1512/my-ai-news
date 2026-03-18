@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "数码科技",
-        "tag": "三星电子",
+        "tag": "半导体",
         "title": "三星电子或大规模罢工，恐冲击全球半导体供应链",
         "link": "https://36kr.com/p/3728294939966598?f=rss",
-        "summary": "三星电子超6.6万名工会成员投票，93.1%赞成罢工，计划5月21日至6月7日全面罢工，可能加剧AI数据中心建设带来的全球半导体供应紧张。",
-        "comment": "全球半导体供应链再添不确定性，需关注后续谈判进展。",
+        "summary": "三星电子超6.6万名工会成员投票，93.1%赞成罢工，计划5月21日至6月7日全面罢工，可能加剧全球AI数据中心建设带来的芯片供应紧张。",
+        "comment": "全球半导体供应链再添变数，需密切关注事态发展。",
         "image": "",
         "score": 97
       },
@@ -25,20 +25,20 @@
       {
         "category": "数码科技",
         "tag": "财报",
-        "title": "万辰集团年营收515亿，量贩零食业务高速增长",
+        "title": "万辰集团年营收515亿，量贩零食业务增长强劲",
         "link": "https://36kr.com/p/3728249171295363?f=rss",
-        "summary": "万辰集团发布2025年财报，营收514.59亿元，同比增长59.17%；净利润25.68亿元，同比增长212.18%。核心量贩零食业务营收与盈利水平同步提升。",
-        "comment": "量贩零食模式展现出强劲的盈利能力和增长潜力。",
+        "summary": "万辰集团发布2025年财报，营收514.59亿元，同比增长59.17%；净利润25.68亿元，同比增长212.18%。核心量贩零食业务营收与盈利水平同步高速增长。",
+        "comment": "量贩零食模式展现出强大的市场扩张与盈利能力。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "企业Agent",
-        "title": "阿里企业Agent新故事：2000万“龙虾”进入企业",
+        "title": "阿里企业Agent新故事：2000万只“龙虾”进入企业",
         "link": "https://36kr.com/p/3727395193388161?f=rss",
-        "summary": "钉钉创始人无招认为AI时代最颠覆的变化是使用主体转变，早在2020年就已顿悟，并看到二三线城市因主体变化催生新应用供给。",
-        "comment": "企业Agent落地规模可观，但实际效能仍需观察。",
+        "summary": "钉钉创始人无招认为AI时代最颠覆性的变化是使用主体变了，早在2020年就已顿悟，并看到二三线城市因使用主体变化催生新应用供给。",
+        "comment": "企业Agent或成阿里AI战略新抓手，但落地效果仍需观察。",
         "image": "",
         "score": 96
       },
@@ -55,12 +55,32 @@
       {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "茉莉语境融资百万美元，推AI助理助建一人公司",
+        "title": "茉莉语境融资百万美元，推AI虚拟博主矩阵",
         "link": "https://36kr.com/p/3727752358919305?f=rss",
-        "summary": "茉莉语境获百万美元融资，其AI系统可自动运营多个社交媒体账号，通过模拟不同人设抓热点、发内容，旨在辅助用户创建“一人公司”。",
-        "comment": "AI代理正从内容生成迈向自动化运营，但真实性风险随之而来。",
+        "summary": "茉莉语境获百万美元融资，其AI系统可自动创建并运营32个不同人设的小红书账号，实现热点抓取、内容生成与发布全流程自动化。",
+        "comment": "AI批量生成虚拟人格运营，内容创作的门槛与真实性面临新挑战。",
         "image": "",
         "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏众筹",
+        "title": "《赛博朋克》卡牌游戏众筹破750万美元，5分钟达成目标",
+        "link": "https://www.ign.com/articles/cyberpunk-tcg-is-raising-so-much-money-so-fast-on-kickstarter-its-designer-cant-keep-up-with-the-stretch-goals",
+        "summary": "官方授权的《赛博朋克》集换式卡牌游戏在Kickstarter上已筹集750万美元，仅5分钟就达成10万美元初始目标，成为该平台最成功的卡牌游戏众筹项目。",
+        "comment": "IP影响力与卡牌热潮结合，展现了强大的市场号召力。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/18/cyberpunk-1773834115277.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "AI版权",
+        "title": "索尼开发AI版权保护工具，基于吉卜力内容训练",
+        "link": "https://www.ign.com/articles/sony-takes-aim-at-studio-ghibli-ai-slop-developing-tool-to-stop-copyright-infringing-content-and-compensate-original-creators",
+        "summary": "索尼基于吉卜力工作室的电影内容训练了一个“保护性AI”模型，旨在开发能识别并避免生成侵权图像、视频和音乐的工具。",
+        "comment": "用AI对抗AI侵权，是版权保护领域的重要探索。",
+        "image": "https://assets-prd.ignimgs.com/2024/07/18/studio-ghibli-1721323951456.jpg",
+        "score": 95
       },
       {
         "category": "数码科技",
@@ -68,29 +88,49 @@
         "title": "光粒科技获近亿元Pre-B轮融资，专注智能运动眼镜",
         "link": "https://36kr.com/p/3726585094863236?f=rss",
         "summary": "智能运动眼镜品牌光粒科技完成近亿元Pre-B轮融资，由杭州高新金投投资。资金将用于团队建设、技术研发及全球市场拓展。公司通过全息树脂光波导技术实现运动数据实时显示。",
-        "comment": "AR技术向垂直运动场景落地，融资助力产品迭代与市场扩张。",
+        "comment": "AR技术向垂直运动场景落地，融资将加速产品迭代与市场验证。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "互联网监管",
+        "title": "宝宝巴士因低俗广告被罚30万，山姆三文鱼加警示标签",
+        "link": "https://36kr.com/p/3727701336833157?f=rss",
+        "summary": "宝宝巴士APP因推送低俗广告被罚款30万元；山姆客服回应为三文鱼加贴不可生食标签；360回应私钥泄露传闻。",
+        "comment": "平台内容审核与食品安全警示均需加强监管。",
         "image": "",
         "score": 94
       },
       {
         "category": "数码科技",
         "tag": "生物医药",
-        "title": "聚海恒创获数千万元融资，加码核酸药上游设备耗材",
+        "title": "聚海恒创获数千万元融资，专注核酸药上游设备耗材",
         "link": "https://36kr.com/p/3725325152729736?f=rss",
-        "summary": "杭州聚海恒创完成新一轮数千万元融资，资金将用于核酸药物设备及配套耗材的新产品研发与海外市场拓展。",
+        "summary": "杭州聚海恒创完成新一轮数千万元融资，资金将用于核酸药物设备及配套耗材研发与海外市场拓展。该公司为核酸合成上游平台型企业。",
         "comment": "资本持续押注小核酸药物产业链上游，行业热度不减。",
         "image": "",
         "score": 94
       },
       {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "宝宝巴士因低俗广告被罚30万，山姆三文鱼加警示标签",
-        "link": "https://36kr.com/p/3727701336833157?f=rss",
-        "summary": "宝宝巴士APP因推送低俗广告被罚款30万元；山姆客服回应为三文鱼添加不可生食标签；360回应私钥泄露事件。",
-        "comment": "平台内容审核与食品安全警示均需加强监管。",
-        "image": "",
-        "score": 93
+        "category": "游戏影视",
+        "tag": "蝙蝠侠",
+        "title": "罗伯特·帕丁森称《蝙蝠侠2》剧本非凡且风格迥异",
+        "link": "https://www.ign.com/articles/robert-pattinson-says-the-batman-2-is-very-very-different-calls-script-extraordinary",
+        "summary": "罗伯特·帕丁森透露《蝙蝠侠2》进展，称剧本“非凡”，并表示续集风格将“非常、非常不同”。",
+        "comment": "导演马特·里夫斯有望再次突破超英电影框架。",
+        "image": "https://assets-prd.ignimgs.com/2022/03/03/the-batman-ending-explained-post-credits-blogroll-1646348617693.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "蜘蛛侠",
+        "title": "《蜘蛛侠：崭新一天》预告片公布，多位经典角色亮相",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-trailer-features-mj-bruce-banner-punisher-and-scorpion-and-a-brief-glimpse-at-sadie-sinks-character",
+        "summary": "《蜘蛛侠：崭新一天》首支完整预告片发布，展示了MJ、布鲁斯·班纳、惩罚者、蝎子等经典角色，并暗示了萨迪·辛克所饰神秘角色的身份。",
+        "comment": "预告片信息量充足，经典角色回归引发粉丝期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/18/spider-man-brand-new-day-official-trailer-exclusively-in-cinemas-31-july-00-00-00-1773832415466.png",
+        "score": 94
       },
       {
         "category": "数码科技",
@@ -104,41 +144,71 @@
       },
       {
         "category": "游戏影视",
+        "tag": "游戏",
+        "title": "Games Workshop发布《战锤40K》经典角色回归预告片",
+        "link": "https://www.ign.com/articles/games-workshop-just-brought-back-an-iconic-warhammer-40000-character-with-a-flashy-new-trailer",
+        "summary": "Games Workshop通过全新预告片宣布《战锤40K》中一位深受喜爱的标志性角色正式回归，为故事场景铺陈。",
+        "comment": "经典IP角色回归，有望再次点燃玩家热情。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/18/screenshot-2026-03-18-111921-1773832835628.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
         "tag": "任天堂",
-        "title": "《宝可梦XD：暗之旋风》登陆Switch 2平台",
+        "title": "NGC经典《宝可梦XD：暗之旋风》登陆Switch 2",
         "link": "https://www.ign.com/articles/gamecube-classic-pokmon-xd-gale-of-darkness-is-now-available-to-play-on-nintendo-switch-2",
-        "summary": "GameCube经典游戏《宝可梦XD：暗之旋风》现可通过任天堂Switch 2平台游玩。",
-        "comment": "经典复刻为Switch 2阵容增添怀旧吸引力。",
+        "summary": "任天堂Switch 2平台现已提供NGC平台经典游戏《宝可梦XD：暗之旋风》的游玩支持。",
+        "comment": "经典复刻为Switch 2初期阵容增添怀旧吸引力。",
         "image": "https://assets-prd.ignimgs.com/2026/03/18/nintendo-classics-2026318-00-00-20-1773828089855.png",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏发布",
-        "title": "《赤色沙漠》全球解锁时间公布，预载已开启",
-        "link": "https://www.ign.com/articles/crimson-desert-global-release-time-confirmed-as-preload-goes-live",
-        "summary": "开发商Pearl Abyss确认了备受期待的开放世界动作游戏《赤色沙漠》的全球统一解锁时间，并已开放预载。",
-        "comment": "全球同步解锁对玩家体验至关重要。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/18/ss-322285fcb1937f1acbe1fb349c019d7e68d91017-1920x1080-1773827060144.jpg",
+        "tag": "游戏",
+        "title": "索尼为短命网游《Highguard》自动退款",
+        "link": "https://www.ign.com/articles/sony-reportedly-issuing-automatic-refunds-for-additional-content-bought-for-short-lived-live-service-highguard",
+        "summary": "索尼正为已停服的在线服务游戏《Highguard》中购买过附加内容的玩家自动退款。",
+        "comment": "此举有助于维护玩家权益，树立良好行业形象。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/18/ss-c441bff8b21e97cd5f241128b494ec5e38114369-1920x1080-1773827492033.jpg",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏资讯",
+        "tag": "流媒体",
+        "title": "Netflix《刺客信条》剧集公布主演与导演阵容",
+        "link": "https://www.gamespot.com/articles/assassins-creed-tv-show-all-the-casting-announcements/1100-6537004/?ftag=CAD-01-10abi2f",
+        "summary": "Netflix与育碧合作的《刺客信条》真人剧集公布主演与导演人选，计划于2026年开始制作。",
+        "comment": "顶级IP再影视化，能否超越前作成关键看点。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4666775-screenshot2026-03-16at9.00.00%E2%80%AFam.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
         "title": "《深海迷航2》5月开启抢先体验，Krafton批准发行",
         "link": "https://www.gamespot.com/articles/subnautica-2-will-get-early-access-release-in-may-following-the-latest-court-ruling/1100-6538850/?ftag=CAD-01-10abi2f",
-        "summary": "《深海迷航2》将于5月开启抢先体验。据IGN报道，Unknown Worlds工作室负责人向员工确认，Krafton已批准该计划。",
-        "comment": "经典生存游戏续作即将到来，值得期待。",
+        "summary": "Unknown Worlds工作室负责人确认，在Krafton批准后，《深海迷航2》将于5月以抢先体验形式发布。",
+        "comment": "经典生存游戏续作即将面世，值得期待。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4667507-subnautica2newtrailer.jpg",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "AI争议",
-        "title": "日本最强AI实为DeepSeek套壳，引发网友争议",
+        "tag": "苹果",
+        "title": "拆解MacBook Neo揭示苹果电脑未来设计线索",
+        "link": "https://www.ifanr.com/1658426?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "通过拆解MacBook Neo，发现其内部结构设计可能预示苹果未来电脑的发展方向。",
+        "comment": "拆解分析为苹果产品趋势提供了有价值的参考。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "人工智能",
+        "title": "日本最强AI实为DeepSeek套壳，引发网友热议",
         "link": "https://www.ifanr.com/1658639?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "日本宣称的顶级AI模型被曝代码实为DeepSeek，引发日本网友不满，事件暴露技术包装现象。",
-        "comment": "技术包装终难持久，自主创新才是根本。",
+        "summary": "日本宣称的顶级AI模型被曝代码实为DeepSeek，引发日本网友集体失望，事件暴露了AI领域的技术差距。",
+        "comment": "技术实力不足却强行包装，最终只会自曝其短。",
         "image": "",
         "score": 91
       },
@@ -154,33 +224,43 @@
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "索尼为短命网游《Highguard》自动退款",
-        "link": "https://www.ign.com/articles/sony-reportedly-issuing-automatic-refunds-for-additional-content-bought-for-short-lived-live-service-highguard",
-        "summary": "索尼正为已停运的在线服务游戏《Highguard》中购买额外内容的玩家自动退款。",
-        "comment": "此举体现了对消费者权益的主动保护。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/18/ss-c441bff8b21e97cd5f241128b494ec5e38114369-1920x1080-1773827492033.jpg",
+        "tag": "游戏评测",
+        "title": "《马拉松》TTK机制严苛却精妙，IGN评其风险回报循环出色",
+        "link": "https://www.ign.com/articles/marathons-time-to-kill-is-unforgiving-unfair-and-utterly-brilliant",
+        "summary": "IGN评测指出，《马拉松》极短的击杀时间初感不公，实为精心设计的风险与奖励循环核心，死亡迅速但策略深度足。",
+        "comment": "严苛的TTK机制塑造了独特的战术节奏与高风险博弈。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/18/marathon-ttk-blogroll-1773834713546.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "Remedy发布《FBC: Firebreak》最终更新并降价",
-        "link": "https://www.ign.com/articles/control-developer-remedy-releases-final-update-for-beleaguered-multiplayer-spinoff-fbc-firebreak-lowers-price-and-launches-friend-pass",
-        "summary": "Remedy为其《控制》衍生多人游戏《FBC: Firebreak》发布最终更新，同时降低售价并推出好友通行证，该游戏未能获得足够玩家群体。",
-        "comment": "衍生作品市场反响平淡，开发商选择调整策略。",
-        "image": "https://assets-prd.ignimgs.com/2025/06/17/fbc-firebreak-blogroll-1750178825313.jpg",
+        "tag": "游戏产业",
+        "title": "Take-Two CEO称AI让所有人能开发游戏大作的说法不合理",
+        "link": "https://www.ign.com/articles/boss-of-gta-6-owner-take-two-says-the-idea-that-ai-tools-will-mean-everyone-can-create-video-game-hits-doesnt-stand-to-reason",
+        "summary": "Take-Two Interactive首席执行官驳斥了AI工具能让任何人轻松开发出像《GTA 6》这样热门游戏的观点，认为这种想法站不住脚。",
+        "comment": "AI是工具而非替代品，游戏创作的核心竞争力依然在于专业团队。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/06/gta6-eg-blog-1770387686006.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏周边",
-        "title": "《魔法风云会》降世神通新手套装创历史低价",
-        "link": "https://www.ign.com/articles/magic-the-gathering-avatar-the-last-airbender-beginner-box-drops-to-its-best-price-ever-at-amazon-owned-woot",
-        "summary": "《魔法风云会》与《降世神通》联动的新手套装在线价格跌至历史最低，被IGN评为当前最佳入门选择，但需尽快购买。",
-        "comment": "联动IP与低价策略精准吸引新玩家入坑。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/18/avatar-tla-mtg-ign-beginner-box-deal-1773826833957.png",
+        "tag": "剧集评测",
+        "title": "《无敌少侠》第四季前三集剧透评测：父子双线开启生存拷问",
+        "link": "https://www.ign.com/articles/invincible-season-4-premiere-spoiler-review-episodes-1-3",
+        "summary": "IGN发布《无敌少侠》第四季前三集剧透评测，聚焦马克与诺兰父子的平行旅程，探讨核心生存议题。",
+        "comment": "开局扎实，双线叙事为角色成长埋下深刻伏笔。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/16/invi-s4-00023612-still024-3000-1773702401458.jpg",
         "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI实验",
+        "title": "微信养龙虾实验：20万Token换压缩包",
+        "link": "https://www.ifanr.com/1658689?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "作者在微信中尝试用AI模拟养龙虾，消耗20万Token后获得压缩包，探讨AI交互的趣味性与成本。",
+        "comment": "创意实验揭示AI应用成本，趣味背后是资源消耗的现实。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "数码科技",
@@ -190,26 +270,6 @@
         "summary": "OPPO Watch X3采用钛金属机身，重点升级健康与睡眠监测功能，售价2799元。",
         "comment": "材质与健康功能升级明显，但定价面临智能手表市场竞争压力。",
         "image": "",
-        "score": 89
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI应用",
-        "title": "微信养龙虾实验：20万Token换压缩包",
-        "link": "https://www.ifanr.com/1658689?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "作者在微信中尝试用20万Token与AI互动“养龙虾”，最终获得AI生成的压缩包文件，探讨了AI交互的趣味性与成本。",
-        "comment": "趣味实验展现AI交互的另类可能性，但成本较高。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "拆解MacBook Neo揭示苹果电脑未来设计线索",
-        "link": "https://www.ifanr.com/1658426?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "通过拆解MacBook Neo，发现其内部结构设计可能预示苹果未来电脑产品的发展方向。",
-        "comment": "拆解分析为苹果产品趋势提供了有价值的硬件参考。",
-        "image": "",
         "score": 88
       },
       {
@@ -217,7 +277,7 @@
         "tag": "伊朗局势",
         "title": "伊朗民众面临内外双重压力：空袭与高压统治",
         "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
-        "summary": "德黑兰居民向BBC表示，他们夹在美国-以色列空袭与伊朗政权试图重新确立权威之间，生活在持续恐惧中。",
+        "summary": "德黑兰居民向BBC表示，他们夹在美国-以色列轰炸与伊朗政权试图重新确立权威之间，生活在持续恐惧中。",
         "comment": "地缘冲突与国内高压叠加，普通民众成为最大受害者。",
         "image": "",
         "score": 87
@@ -227,8 +287,8 @@
         "tag": "美国政治",
         "title": "美国反恐高官因伊朗战争辞职，敦促特朗普改弦更张",
         "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国国家反恐中心主任乔·肯特因伊朗战争问题辞职，称特朗普是在以色列及其强大美国游说团压力下发动战争，并呼吁其改变路线。",
-        "comment": "高级官员公开辞职并批评政策，暴露美国内部对伊决策分歧。",
+        "summary": "美国国家反恐中心主任乔·肯特辞职，称特朗普因以色列及其强大美国游说团体的压力发动了与伊朗的战争。",
+        "comment": "高级官员公开辞职并批评政策，凸显美国内部对伊朗问题的严重分歧。",
         "image": "",
         "score": 87
       },
@@ -238,7 +298,7 @@
         "title": "印度廉价减肥药或改变全球肥胖治疗格局",
         "link": "https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss",
         "summary": "印度司美格鲁肽专利将于3月20日到期，预计约50种品牌仿制药将进入市场，可能大幅降低减肥药成本。",
-        "comment": "专利到期将加剧市场竞争，惠及更多患者。",
+        "comment": "专利到期将加剧市场竞争，惠及更多肥胖患者。",
         "image": "",
         "score": 87
       },
@@ -249,6 +309,16 @@
         "link": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
         "summary": "被视为伊朗伊斯兰共和国最有经验和影响力的政策制定者之一，阿里·拉里贾尼去世，加剧了该国领导核心的危机。",
         "comment": "关键人物的离世可能动摇伊朗权力结构的稳定性。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "美法官令特朗普政府重开美国之音",
+        "link": "https://www.bbc.com/news/articles/ce3g3j1y2ldo?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普曾以存在偏见为由解雇约85%美国之音员工，现法官下令重开该国际广播机构。",
+        "comment": "司法干预凸显美国媒体独立性与行政权力间的持续角力。",
         "image": "",
         "score": 86
       }
