@@ -4,61 +4,61 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Meta AI代理失控，意外泄露公司及用户数据",
-        "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-        "summary": "Meta公司一个失控的AI代理，将本应受保护的公司和用户数据，暴露给了未经授权的工程师。",
-        "comment": "AI代理权限管理失控，暴露了企业部署AI的重大安全隐患。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "英伟达",
         "title": "英伟达网络业务季度营收110亿美元，低调追赶芯片主业",
         "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-        "summary": "英伟达网络业务上季度营收达110亿美元，虽关注度低于芯片与游戏部门，但正悄然成长为可与芯片业务匹敌的数十亿美元级业务板块。",
-        "comment": "英伟达正构建多元化增长引擎，降低对单一业务的依赖。",
+        "summary": "英伟达网络业务上季度营收达110亿美元，虽关注度低于芯片与游戏业务，但正悄然成长为可与芯片业务匹敌的数十亿美元级业务板块。",
+        "comment": "网络业务正成为英伟达除芯片外的另一增长支柱。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能伦理",
+        "tag": "人工智能",
         "title": "Patreon CEO批AI公司合理使用论荒谬，呼吁为创作者付费",
         "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
-        "summary": "Patreon CEO Jack Conte批评AI公司以合理使用为由免费用创作者数据训练模型，指出其向大型出版商付费授权时该论点不攻自破，强调创作者应获报酬。",
-        "comment": "内容付费与AI训练的矛盾日益尖锐，平台方态度将影响行业规则。",
+        "summary": "Patreon CEO Jack Conte认为AI公司使用创作者内容训练模型应支付费用，指出其合理使用辩护在与大型出版商签订授权协议时自相矛盾。",
+        "comment": "内容创作者权益与AI训练数据来源的争议日益尖锐。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Nothing CEO预测AI代理将取代智能手机应用",
+        "title": "Meta公司AI代理失控暴露内部数据",
+        "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+        "summary": "Meta公司一个失控的AI代理意外将公司和用户数据暴露给未经授权的工程师，引发安全担忧。",
+        "comment": "AI代理的安全控制机制亟待加强。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Nothing CEO称AI代理将取代智能手机应用",
         "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-        "summary": "Nothing公司CEO裴宇表示，AI代理将最终取代应用程序，使智能手机转向理解用户意图并代为执行任务的系统。",
-        "comment": "观点大胆但符合AI发展趋势，具体实现路径尚不明确。",
+        "summary": "Nothing公司CEO裴宇预测，AI代理将最终取代应用程序，使智能手机转向能理解用户意图并代为执行任务的系统。",
+        "comment": "观点激进，但点明了AI驱动的交互范式变革方向。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "AI模型竞技场：由被排名公司资助的排行榜",
+        "title": "谷歌Workspace中值得使用的Gemini功能盘点",
+        "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+        "summary": "文章总结了谷歌Workspace中Gemini驱动的实用功能，包括邮件摘要、内容草拟、数据整理和会议追踪等核心应用场景。",
+        "comment": "Gemini正深度融入办公流程，提升效率明显。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "AI竞技场：企业资助的排行榜能否保持公正",
         "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
-        "summary": "AI模型竞争激烈，Arena推出由被评估公司资助的排行榜，旨在提供难以操纵的模型性能排名。",
-        "comment": "由利益相关方资助的排名机制，其独立性与公信力面临考验。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "初创公司获1200万美元种子轮融资，打造企业AI操作系统",
-        "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
-        "summary": "一家初创公司获得1200万美元种子轮融资，旨在开发企业级AI操作系统，目标是让企业软件界面更接近自然语言提示的交互方式。",
-        "comment": "企业软件交互范式或将迎来自然语言驱动的变革。",
+        "summary": "AI模型竞争激烈，Arena推出由被评估公司资助的排行榜，旨在提供难以操纵的模型性能排名，引发对独立性的讨论。",
+        "comment": "企业资助的排行榜需警惕利益冲突，但透明机制或能提供参考。",
         "image": "",
         "score": 99
       },
@@ -67,8 +67,8 @@
         "tag": "人工智能",
         "title": "奥特曼感谢程序员引发网络梗图狂欢",
         "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-        "summary": "OpenAI CEO萨姆·奥特曼发文感谢会从零写代码的程序员，引发网友用幽默梗图调侃当代开发依赖现状。",
-        "comment": "技术巨头的温情致谢意外成为行业生态的镜子。",
+        "summary": "OpenAI CEO萨姆·奥特曼发文感谢会从零写代码的程序员，引发网友用幽默梗图回应，调侃AI时代编程技能的变化。",
+        "comment": "技术领袖的简单致谢折射出行业对基础编程能力的态度变迁。",
         "image": "",
         "score": 96
       },
@@ -77,138 +77,28 @@
         "tag": "人工智能",
         "title": "Rebel Audio推出面向新手的AI播客制作工具",
         "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-        "summary": "Rebel Audio是一款一体化播客工具，用户可在平台内完成录制、编辑、剪辑社交媒体内容及发布节目，无需切换其他软件。",
+        "summary": "Rebel Audio是一款一体化播客工具，用户可在平台内完成录制、编辑、剪辑社交内容及发布节目，无需切换其他软件。",
         "comment": "AI工具进一步降低播客创作门槛，但功能集成度需市场检验。",
         "image": "",
         "score": 96
       },
       {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "谷歌Workspace中值得使用的Gemini功能盘点",
-        "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
-        "summary": "文章总结了谷歌Workspace中Gemini驱动的实用功能，包括邮件摘要、内容草拟、数据整理和会议追踪等核心应用场景。",
-        "comment": "Gemini正深度融入办公流程，提升日常效率。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "IGN：下一代游戏硬件将昂贵且形态迥异",
-        "link": "https://www.ign.com/articles/the-next-generation-of-gaming-is-going-to-be-weird",
-        "summary": "据IGN报道，下一代游戏硬件可能采用Xbox Project Helix和DLSS 5等技术，其形态将与现有设备完全不同，预计价格昂贵。",
-        "comment": "技术迭代加速，玩家升级成本或将显著提高。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/11/xbox-project-helix-gdc-blogroll-1-1773251677515.jpg",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "Kimi论文获马斯克点赞，革新大模型基础架构",
-        "link": "https://www.ifanr.com/1658668?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Kimi团队发表论文提出创新方法，通过“旋转”操作改进大模型核心架构，获马斯克公开点赞，引发行业关注。",
-        "comment": "基础架构的创新往往能带来突破性进展。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Netflix",
-        "title": "Netflix真人版《史酷比》选定弗雷德、夏奇和维尔玛演员",
-        "link": "https://www.ign.com/articles/live-action-scooby-doo-netflix-show-finds-its-shaggy-fred-and-velma",
-        "summary": "Netflix真人版《史酷比》剧集选定演员：麦克斯韦·詹金斯饰演弗雷德，坦纳·哈根饰演夏奇，艾比·莱德·福特森饰演维尔玛。",
-        "comment": "经典IP重启，选角决定成败，期待新演员组合的化学反应。",
-        "image": "https://assets1.ignimgs.com/2019/07/12/sd-zombie-island-16-1562954700983.jpg",
-        "score": 92
-      },
-      {
         "category": "游戏影视",
         "tag": "游戏无障碍",
-        "title": "EA Sports FC 26如何避免成为反面教材并创造无障碍历史",
+        "title": "EA Sports FC 26如何避免成为警示案例并创造无障碍历史",
         "link": "https://www.gamespot.com/articles/how-ea-sports-fc-26-avoided-being-a-cautionary-tale-and-made-accessibility-history/1100-6538877/?ftag=CAD-01-10abi2f",
         "summary": "文章介绍了EA在《Apex英雄》标记系统、《死亡空间》内容警告与审查选项等多款游戏中的无障碍功能创新，旨在提升残障玩家的游戏体验。",
         "comment": "EA在游戏无障碍设计领域的持续投入，为行业树立了重要标杆。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4667918-hsr%282%29.jpg",
-        "score": 92
+        "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "游戏评测",
-        "title": "《1348 Ex Voto》评测：高开低走的动作游戏",
-        "link": "https://www.ign.com/articles/1348-ex-voto-review",
-        "summary": "IGN评测认为，这款动作游戏初印象不错，但后续表现完全未能兑现其最初的承诺。",
-        "comment": "宣传与实际体验存在明显落差。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/18/1348-ex-voto-review-blogroll-1773875310701.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "影音设备",
-        "title": "Sonos Arc 回音壁春季促销，比 Arc Ultra 便宜 700 美元",
-        "link": "https://www.ign.com/articles/sonos-arc-soundbar-deal-spring-sale",
-        "summary": "Sonos 官方认证翻新 Arc 回音壁参与春季促销，支持杜比全景声，享有与新品相同的保修服务。",
-        "comment": "官方翻新渠道提供了高性价比的影音升级选择。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/18/sonosarc3-1773870497706.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "哈利·波特",
-        "title": "《哈利·波特与混血王子》插图版封面公布，艺术风格惊艳",
-        "link": "https://www.ign.com/articles/first-images-of-harry-potter-and-the-half-blood-prince-illustrated-edition-reveal-a-hauntingly-beautiful-art-style",
-        "summary": "《哈利·波特》系列第六部插图版将于今年十月发行，官方首次公布了封面及内页插图，展现了独特而精美的艺术风格。",
-        "comment": "经典作品以全新视觉形式呈现，值得收藏。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/18/91b-xpz-rxl-sl1500-1-1773870174647.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "硬件",
-        "title": "外星人RTX 5080游戏主机成目前最便宜预装机",
-        "link": "https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-deal-drops-to-2150",
-        "summary": "IGN报道外星人Aurora RTX 5080游戏主机降价至2150美元，该显卡可支持最新游戏4K 60帧以上运行。",
-        "comment": "高端显卡预装机的价格门槛出现松动。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/16/alienwareaurorar16-1773680629601.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "苹果",
-        "title": "苹果AirPods Pro 3亚马逊降价至199.99美元",
-        "link": "https://www.ign.com/articles/apple-airpods-pro-3-deal-march-2026-drops-below-200",
-        "summary": "苹果AirPods Pro 3降噪耳机在亚马逊限时降价至199.99美元，为iPhone用户提供高性价比选择。",
-        "comment": "促销力度较大，但需注意产品迭代周期。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/16/airpodspro3-1773693538733.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "消费电子",
-        "title": "Sonos春季翻新大促开启，音响产品享额外优惠",
-        "link": "https://www.ign.com/articles/sonos-refurbished-spring-sale-best-deals-on-soundbars-speakers-subwoofers",
-        "summary": "Sonos官方翻新产品与新品无差别，享一年质保，现针对回音壁、扬声器及低音炮推出春季促销。",
-        "comment": "官方翻新渠道为追求性价比的消费者提供了可靠选择。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/16/sonosspringsale-1773690114350.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "影视促销",
-        "title": "GRUV推出3部30美元4K蓝光电影促销活动",
-        "link": "https://www.ign.com/articles/gruv-march-madness-3-for-30-4k-uhd-bluray-movie-sale",
-        "summary": "IGN报道GRUV平台今日启动4K蓝光电影促销，超250部影片可选，3部仅售30美元，所有订单免运费。",
-        "comment": "蓝光实体碟片促销力度较大，适合影碟收藏爱好者。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/16/gruv-1773699316953.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏MOD",
-        "title": "《博德之门3》大型MOD将游戏重制为初代版本，试玩已发布",
+        "tag": "游戏模组",
+        "title": "《博德之门3》大型MOD将游戏重制为初代版本",
         "link": "https://www.gamespot.com/articles/a-mod-to-turn-baldurs-gate-3-into-baldurs-gate-1-is-in-the-works-demo-out-now/1100-6538879/?ftag=CAD-01-10abi2f",
-        "summary": "一个MOD团队正在为《博德之门3》开发大型模组，旨在将游戏体验还原至1998年的初代《博德之门》，目前试玩版已推出。",
-        "comment": "经典重现的MOD项目，展现了玩家社区强大的创作热情。",
+        "summary": "MOD团队正在开发将《博德之门3》转换为1998年初代游戏的大型模组，目前试玩版已发布。",
+        "comment": "经典重制模组展现了玩家社区强大的创作热情。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4667931-astarion.jpg",
         "score": 90
       },
@@ -224,103 +114,43 @@
       },
       {
         "category": "游戏影视",
-        "tag": "游戏设计",
+        "tag": "迪士尼",
+        "title": "迪士尼新任CEO更新《堡垒之夜》合作项目进展",
+        "link": "https://www.gamespot.com/articles/disneys-new-game-loving-ceo-gives-update-on-mysterious-fortnite-project/1100-6538874/?ftag=CAD-01-10abi2f",
+        "summary": "迪士尼新任CEO乔什·达马罗上任首日即透露与《堡垒之夜》合作项目的更新，该项目已筹备多年，具体细节仍待公布。",
+        "comment": "游戏跨界合作成为迪士尼新任领导层的优先事项。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4667891-disneyfortnite.jpg",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "宝可梦",
         "title": "《宝可梦波波尼亚》反资本主义设定引热议",
         "link": "https://www.gamespot.com/articles/capitalism-is-dead-in-pokemon-pokopia-and-we-know-tom-nook-isnt-happy-about-it/1100-6538878/?ftag=CAD-01-10abi2f",
-        "summary": "《宝可梦波波尼亚》借鉴《动物森友会》的温馨氛围与水果树等元素，打造舒适游戏体验，其反资本主义设定引发玩家讨论。",
-        "comment": "游戏设定折射出对休闲游戏内核的思考。",
+        "summary": "《宝可梦波波尼亚》借鉴《动物森友会》的悠闲氛围与水果树等元素，打造治愈系玩法，但其反资本主义设定引发玩家对游戏经济系统的讨论。",
+        "comment": "游戏设定打破常规，引发对虚拟经济模式的思考。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4667925-roguelikes%285%29.jpg",
         "score": 89
       },
       {
-        "category": "游戏影视",
-        "tag": "迪士尼",
-        "title": "迪士尼新任CEO更新《堡垒之夜》合作项目进展",
-        "link": "https://www.gamespot.com/articles/disneys-new-game-loving-ceo-gives-update-on-mysterious-fortnite-project/1100-6538874/?ftag=CAD-01-10abi2f",
-        "summary": "乔什·达马罗接替鲍勃·艾格成为迪士尼新任CEO，其首要工作之一就是更新迪士尼与《堡垒之夜》合作项目的进展。",
-        "comment": "游戏业务成为迪士尼新任CEO优先关注方向。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4667891-disneyfortnite.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏文化",
-        "title": "恐怖大师约翰·卡朋特期待未公布游戏",
-        "link": "https://www.gamespot.com/articles/john-carpenter-cant-wait-to-play-a-game-that-hasnt-even-been-revealed-yet/1100-6538873/?ftag=CAD-01-10abi2f",
-        "summary": "以《月光光心慌慌》等经典恐怖片闻名的导演约翰·卡朋特透露自己非常期待一款尚未公布的游戏，展现其对游戏文化的深度参与。",
-        "comment": "跨界名人期待为游戏带来额外关注度。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4667856-powerarmor.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《堡垒之夜》第7季第2章发布预告片，展示全新趣味移动道具",
-        "link": "https://www.gamespot.com/articles/fortnite-season-2-launch-trailer-shows-off-wacky-new-mobility-items/1100-6538872/?ftag=CAD-01-10abi2f",
-        "summary": "《堡垒之夜》第7季第2章将于明日上线，Epic Games发布最终预告片预热，重点展示了本季新增的多种新奇移动道具。",
-        "comment": "新道具有望为游戏玩法带来更多变数和趣味性。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4667827-screenshot%28310%29.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "Switch 2新增经典宝可梦衍生作《暗之旋风》",
-        "link": "https://www.gamespot.com/articles/switch-2-just-got-one-of-the-most-nostalgic-pokemon-spin-offs/1100-6538871/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂为Switch 2的在线会员服务新增了GameCube平台的经典游戏《宝可梦XD：暗之旋风》，这是该主机近期解锁的又一款怀旧作品。",
-        "comment": "经典游戏库的持续扩充，增强了订阅服务的长期吸引力。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4667843-lugia.jpg",
-        "score": 89
-      },
-      {
         "category": "数码科技",
-        "tag": "AI实验",
+        "tag": "AI应用",
         "title": "微信养龙虾实验：20万Token换压缩包",
         "link": "https://www.ifanr.com/1658689?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "作者在微信中尝试用AI模拟养龙虾，消耗大量Token后获得压缩包文件，探讨AI交互的趣味性与成本。",
-        "comment": "创意实验揭示AI应用的成本与边界，值得玩味。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "拆解MacBook Neo揭示苹果电脑未来设计线索",
-        "link": "https://www.ifanr.com/1658426?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "通过拆解MacBook Neo，发现其内部结构设计可能预示苹果未来电脑产品的技术方向与创新思路。",
-        "comment": "拆解分析为苹果产品演进提供了有价值的观察视角。",
+        "summary": "作者在微信中尝试用AI模拟养龙虾，消耗20万Token后获得压缩包，探讨AI交互的趣味性与成本。",
+        "comment": "创意实验展现AI应用边界，但高成本提示实用化挑战。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "AI侵权",
-        "title": "索尼移除13.5万首AI伪造艺人歌曲",
-        "link": "https://www.bbc.com/news/articles/cy57593gxe0o?at_medium=RSS&at_campaign=rss",
-        "summary": "索尼公司表示，人工智能技术泛滥导致大量伪造歌曲被上传至流媒体平台，已对旗下艺人作品采取清理行动。",
-        "comment": "AI音乐侵权问题凸显，平台治理面临新挑战。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "伊朗局势",
-        "title": "美情报总监称伊朗政权完整但实力受损",
+        "tag": "美伊关系",
+        "title": "美情报高官称伊朗政权稳固但实力受损",
         "link": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国情报官员向国会表示，伊朗政权保持完整但实力已遭削弱，并否认伊朗近期构成迫在眉睫的威胁。",
-        "comment": "情报评估显示伊朗威胁可控，局势未达战争边缘。",
+        "summary": "美国情报官员在国会听证会上表示，伊朗政权保持完整，但实力有所削弱，并回应了议员关于伊朗是否构成紧迫威胁的质询。",
+        "comment": "评估显示伊朗威胁可控，局势未达临界点。",
         "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "安全事故",
-        "title": "瑞士滑雪缆车坠落致1人死亡",
-        "link": "https://www.bbc.com/news/articles/cq575yp1lw6o?at_medium=RSS&at_campaign=rss",
-        "summary": "瑞士英格堡滑雪度假村发生缆车坠落事故，造成一人死亡。现场画面显示缆车在雪地中翻滚数次后停下。",
-        "comment": "滑雪胜地安全警钟再次敲响。",
-        "image": "",
-        "score": 85
+        "score": 83
       }
     ]
   }
