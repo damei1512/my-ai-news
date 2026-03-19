@@ -3,122 +3,12 @@
     "week": "周二",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Mistral推出企业AI定制平台，挑战OpenAI与Anthropic",
-        "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-        "summary": "Mistral Forge允许企业使用自有数据从头训练定制AI模型，与依赖微调和检索方法的竞争对手形成差异化竞争。",
-        "comment": "企业AI定制化竞争进入新阶段，数据主权成为关键战场。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI与AWS合作向美国政府提供AI系统",
-        "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-        "summary": "OpenAI与AWS签署合作协议，将向美国政府提供AI系统，用于机密和非机密工作，标志着其政府业务在五角大楼合作基础上的进一步扩展。",
-        "comment": "科技巨头与政府合作深化，AI治理进入新阶段。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "五角大楼被曝正开发Anthropic替代方案",
-        "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-        "summary": "据TechCrunch报道，在经历戏剧性分歧后，五角大楼与Anthropic的合作关系似乎难以修复，军方正在开发替代方案。",
-        "comment": "军事AI供应链的自主化趋势日益明显。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "谷歌个人智能功能向全美用户开放",
-        "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-        "summary": "谷歌个人智能功能允许其AI助手接入Gmail、Google相册等谷歌生态，以提供更个性化的响应服务，现正面向全美用户推广。",
-        "comment": "谷歌正加速其AI助手与核心生态的深度整合。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AI投资人警告：女性缺席AI领域将加剧财富差距",
-        "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-        "summary": "AI投资人Rana el Kaliouby指出，若女性被排除在AI投资和领导层之外，将导致严重后果。",
-        "comment": "性别失衡不仅是公平问题，更会扭曲技术发展方向。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "World公司推出AI购物代理人类验证工具",
-        "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-        "summary": "随着AI代理接管在线购物，Sam Altman的初创公司World正扩展验证服务，以支持代理化商务，确保AI购物代理背后的人类身份可被核实。",
-        "comment": "AI代理身份验证成新赛道，监管与信任是关键。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Niv-AI获1200万美元种子轮融资，优化GPU能耗管理",
-        "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-        "summary": "人工智能公司Niv-AI结束隐身模式，专注于测量和管理GPU功率波动，以提升性能与能效。",
-        "comment": "GPU能耗优化成为AI基础设施竞争新焦点。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Garry Tan的Claude Code配置引发广泛争议",
-        "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-        "summary": "数千人尝试Garry Tan在GitHub分享的Claude Code配置方案，引发两极评价，连Claude、ChatGPT和Gemini等AI模型也参与讨论。",
-        "comment": "AI工具配置方案成为社区热议焦点，反映开发者对效率工具的敏感度。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "BuzzFeed在SXSW发布AI社交应用寻求新收入",
-        "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-        "summary": "BuzzFeed在SXSW大会上推出两款AI驱动的社交应用，但现场演示反响平淡，旨在探索新的收入来源。",
-        "comment": "AI应用创新需超越概念演示，真正解决用户需求。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "折叠屏手机",
-        "title": "OPPO Find N6全球发布，宣称攻克折叠屏折痕难题",
-        "link": "https://36kr.com/p/3727140263410825?f=rss",
-        "summary": "OPPO发布Find N6折叠旗舰，通过新型钛合金铰链与玻璃技术，宣称解决了行业长期存在的折痕问题，并获得德国莱茵TÜV相关测试认证。",
-        "comment": "若宣传属实，将是折叠屏实用性的重要突破。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "Take-Two CEO称无法想象成年人会错过《GTA 6》",
-        "link": "https://www.gamespot.com/articles/take-two-ceo-cant-imagine-an-adult-who-will-skip-gta-6/1100-6538849/?ftag=CAD-01-10abi2f",
-        "summary": "Take-Two首席执行官斯特劳斯·泽尔尼克在采访中表示，对《GTA 6》充满信心，不担心新玩家会因不熟悉系列而错过该作。",
-        "comment": "CEO对自家王牌IP的自信表态，市场期待值已拉满。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4667497-gta6.jpg",
-        "score": 92
-      },
-      {
         "category": "数码科技",
         "tag": "新能源汽车",
         "title": "广汽启境GT7首发赤兔底盘平台，华为乾坤赋能",
         "link": "https://www.ifanr.com/1658588?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "广汽启境GT7正式亮相，新车首发赤兔底盘平台，并获得华为乾坤技术深度赋能，是广汽冲击高端市场的又一力作。",
-        "comment": "华为技术加持，为广汽高端化提供了关键助力。",
+        "summary": "广汽启境GT7正式亮相，首发赤兔底盘平台，并获得华为乾坤技术深度赋能，是广汽冲击高端市场的又一力作。",
+        "comment": "华为技术加持为新车智能化带来想象空间。",
         "image": "",
         "score": 91
       },
@@ -128,79 +18,19 @@
         "title": "OPPO Find N6评测：号称首款无折痕折叠屏手机",
         "link": "https://www.ifanr.com/1658541?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "OPPO Find N6折叠屏手机发布，主打无折痕显示技术，目标吸引对折痕敏感的用户群体。",
-        "comment": "无折痕是折叠屏体验的关键突破，但需实际验证耐用性。",
+        "comment": "技术突破值得关注，但实际耐用性仍需市场检验。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "可穿戴设备",
-        "title": "苹果医学家谈Apple Watch对房颤患者的监测价值",
+        "title": "苹果医学家专访：房颤患者为何应戴Apple Watch",
         "link": "https://www.ifanr.com/1658498?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "专访苹果医学专家，探讨Apple Watch如何帮助房颤患者实现日常健康监测，从被动治疗转向主动管理。",
-        "comment": "可穿戴设备正成为慢性病管理的重要工具。",
+        "summary": "苹果医学专家解释Apple Watch如何帮助房颤患者监测心脏状况，实现从被动治疗到主动健康管理的转变。",
+        "comment": "可穿戴设备正从消费电子产品向专业医疗辅助工具演进。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "阿里发布企业级AI助手“悟空”",
-        "link": "https://www.ifanr.com/1658400?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "阿里云发布企业级AI助手“悟空”，旨在为超级个体及企业提供AI生产力工具，标志着大型科技公司正式进入该领域。",
-        "comment": "巨头入场，AI应用市场竞争将加剧。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际冲突",
-        "title": "巴基斯坦空袭喀布尔康复中心，幸存者称数百人恐遇难",
-        "link": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
-        "summary": "巴基斯坦周一夜间空袭喀布尔一处康复中心，幸存者向BBC描述袭击时患者正在用餐，具体死亡人数未知，恐达数百人。",
-        "comment": "针对民用设施的袭击严重违反国际人道法。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "俄军袭击致乌克兰石油泄漏 摩尔多瓦水源供应中断",
-        "link": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰石油设施遭俄军袭击后泄漏，污染德涅斯特河，摩尔多瓦宣布该流域进入15天警戒状态并切断供水。",
-        "comment": "俄乌冲突外溢效应持续显现，邻国基础设施安全受威胁。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际安全",
-        "title": "意大利警告俄罗斯油轮随时可能在爆炸",
-        "link": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
-        "summary": "意大利等九国敦促欧盟委员会对失控漂流的地中海油轮采取行动，该船存在爆炸风险。",
-        "comment": "失控油轮成地中海安全隐患，需国际协同处置。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际关系",
-        "title": "西班牙国王承认殖民墨西哥的暴行引发历史争议",
-        "link": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
-        "summary": "西班牙国王费利佩六世在访问墨西哥期间承认殖民时期的暴行，缓和了两国关系，但也重新点燃了关于500年前征服历史的激烈辩论。",
-        "comment": "历史问题的公开承认有助于和解，但争议仍将持续。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国政治",
-        "title": "美司法部长因爱泼斯坦案被正式传唤至国会",
-        "link": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国司法部长邦迪因爱泼斯坦案被国会正式传唤，此前有共和党议员指控司法部在公布相关文件时存在“掩盖”行为。",
-        "comment": "国会传唤显示爱泼斯坦案调查仍在推进，司法部面临压力。",
-        "image": "",
-        "score": 86
       }
     ]
   }
