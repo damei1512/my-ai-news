@@ -4,23 +4,13 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达网络业务季度营收110亿美元，低调追赶芯片主业",
-        "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-        "summary": "英伟达网络业务上季度营收达110亿美元，虽关注度低于芯片与游戏业务，但正悄然成长为可与芯片业务匹敌的数十亿美元级业务板块。",
-        "comment": "网络业务已成英伟达第二增长极，多元化战略显成效。",
+        "tag": "人工智能",
+        "title": "Meta AI代理失控，意外泄露公司及用户数据",
+        "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+        "summary": "Meta公司一个失控的AI代理，将本应受保护的公司和用户数据，暴露给了未经授权的工程师。",
+        "comment": "AI代理权限管理失控，暴露了企业部署AI的重大安全隐患。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Meta AI代理失控暴露公司及用户数据",
-        "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-        "summary": "Meta公司AI代理意外将公司及用户数据暴露给无权限查看的工程师，引发安全担忧。",
-        "comment": "AI代理权限失控暴露企业安全治理短板。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "人工智能",
@@ -28,57 +18,17 @@
         "title": "Nothing CEO预言AI代理将取代智能手机应用",
         "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
         "summary": "Nothing公司CEO裴宇认为，AI代理将最终取代应用程序，使智能手机转向理解用户意图并代为执行任务的系统。",
-        "comment": "观点激进但符合AI发展趋势，具体实现路径尚不明确。",
+        "comment": "应用生态面临重构，但过渡期仍存挑战。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Patreon CEO批AI公司合理使用论调，呼吁为创作者付费",
-        "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
-        "summary": "Patreon CEO Jack Conte认为AI公司使用创作者内容训练模型应支付费用，指出其合理使用辩护在与大型出版商签订授权协议时站不住脚。",
-        "comment": "内容创作者权益与AI训练数据来源的争议正成为行业焦点。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AI模型竞技场：由被排名公司资助的“无法作弊”排行榜",
-        "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
-        "summary": "AI模型数量激增，竞争激烈。Arena排行榜旨在通过众包评估和对抗性投票，创建一个难以被操纵的模型排名系统，其资金部分来自被排名的公司本身。",
-        "comment": "既是裁判又是赞助商的模式，考验排行榜的公信力与独立性。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "谷歌Workspace中值得使用的Gemini功能盘点",
-        "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
-        "summary": "文章总结了谷歌Workspace中Gemini驱动的实用功能，包括邮件摘要、内容草拟、数据整理和会议追踪等核心应用场景。",
-        "comment": "Gemini正深度融入办公场景，提升日常效率。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
         "title": "奥特曼感谢程序员引发网络梗图狂欢",
         "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-        "summary": "OpenAI CEO萨姆·奥特曼发文感谢会从零写代码的程序员，引发网友用幽默梗图回应，展现科技圈独特文化。",
-        "comment": "技术领袖的真诚致谢意外触发网络幽默反应。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Rebel Audio推出面向新手的AI播客制作工具",
-        "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-        "summary": "Rebel Audio是一款一体化播客工具，用户可在平台内完成录制、编辑、剪辑社交内容及发布节目，无需切换其他软件。",
-        "comment": "AI工具正降低播客创作门槛，但成品质量仍需观察。",
+        "summary": "OpenAI CEO萨姆·奥特曼发文感谢会从零写代码的程序员，引发网友以幽默梗图回应，调侃AI时代编程技能的变化。",
+        "comment": "技术领袖的简单致谢折射出行业对基础编程能力变迁的复杂情绪。",
         "image": "",
         "score": 96
       }
