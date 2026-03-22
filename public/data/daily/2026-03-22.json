@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "亚马逊Trainium芯片实验室独家探访：获Anthropic、OpenAI及苹果青睐",
+        "tag": "人工智能芯片",
+        "title": "亚马逊Trainium芯片实验室独家探访，获Anthropic、OpenAI及苹果青睐",
         "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
         "summary": "亚马逊宣布向OpenAI投资500亿美元后，AWS邀请记者独家探访其Trainium芯片实验室，该芯片已赢得多家头部AI公司采用。",
-        "comment": "亚马逊正通过自研芯片强化AI基础设施竞争力。",
+        "comment": "亚马逊正通过自研芯片强化其在AI基础设施领域的竞争力。",
         "image": "",
         "score": 100
       },
@@ -17,10 +17,30 @@
         "tag": "人工智能",
         "title": "AI代币成工程师薪酬新支柱还是成本负担？",
         "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-        "summary": "文章探讨AI代币是否将成为工程师薪酬的第四大支柱，并提醒工程师需谨慎评估其长期价值，而非简单视为额外收益。",
-        "comment": "AI代币薪酬化趋势初显，但实际价值仍需市场检验。",
+        "summary": "AI代币可能成为工程师薪酬的第四大支柱，但工程师需谨慎评估其长期价值，不应简单视为额外收益。",
+        "comment": "代币化薪酬趋势渐起，但风险与机遇并存。",
         "image": "",
-        "score": 97
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "腾讯",
+        "title": "腾讯财报：游戏收入占比超30%，AI助力游戏体验",
+        "link": "https://36kr.com/p/3734107862073606?f=rss",
+        "summary": "腾讯2025年财报显示，游戏业务贡献超30%收入，本土市场收入1642亿元同比增长18%，《三角洲行动》等游戏表现强劲。",
+        "comment": "游戏仍是腾讯基本盘，AI应用或成未来增长关键。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "明星创业",
+        "title": "华晨宇与小阔集团共创日化家居品牌「重点」",
+        "link": "https://36kr.com/p/3733991155400965?f=rss",
+        "summary": "小阔集团与华晨宇联合推出日化家居品牌「重点」，华晨宇以持股20%的联合创始人身份深度参与，非传统代言。",
+        "comment": "明星跨界深度绑定品牌，探索流量变现新路径。",
+        "image": "",
+        "score": 93
       },
       {
         "category": "数码科技",
@@ -30,7 +50,7 @@
         "summary": "Nothing在上海发布头戴式耳机Headphone(a)和智能手机Phone(4a)系列，耳机首销价1299元，手机起售价未公布，显示其对中国市场的持续投入。",
         "comment": "在性能过剩时代，以设计差异化切入市场是明智选择。",
         "image": "",
-        "score": 94
+        "score": 93
       },
       {
         "category": "游戏影视",
@@ -48,8 +68,18 @@
         "title": "AI Agent最佳落地容器是汽车",
         "link": "https://www.ifanr.com/1658243?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "文章指出AI Agent不应将人训练为机器操作员，汽车是目前最佳落地场景。",
-        "comment": "观点明确，汽车作为复杂系统确实适合Agent技术验证。",
+        "comment": "汽车作为复杂移动空间，确实是AI Agent理想的试验场。",
         "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威",
+        "title": "《夜魔侠：重生》第二季主角换装“黑幕”战衣",
+        "link": "https://www.ign.com/articles/daredevil-has-a-new-blackout-suit-in-born-again-season-2-and-theres-a-very-specific-reason-for-it",
+        "summary": "《夜魔侠：重生》第二季中，马特·默多克将身着名为“黑幕”的全新战衣回归，制作方透露此次换装有特定剧情原因。",
+        "comment": "战衣更新或暗示剧情走向黑暗，值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/20/dd-suit-oo-1-1774047977400.jpg",
         "score": 91
       },
       {
@@ -57,14 +87,14 @@
         "tag": "游戏评测",
         "title": "IGN评测《Screamer》：独特自信的赛车游戏",
         "link": "https://www.ign.com/articles/screamer-review",
-        "summary": "IGN评测认为，尽管角色乏味且难度曲线陡峭，《Screamer》仍是一款独特且自信的赛车游戏，像是《Blur》闭关开发一年的成果。",
-        "comment": "瑕不掩瑜，独特的赛车体验值得尝试。",
+        "summary": "IGN评测认为，尽管存在角色乏味和难度陡增的问题，《Screamer》仍是一款独特且自信的赛车游戏，像是《Blur》闭关开发12个月的成果。",
+        "comment": "瑕不掩瑜，独特的竞速体验值得关注。",
         "image": "https://assets-prd.ignimgs.com/2026/03/21/screamer-blogroll-1774137232266.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏文化",
+        "tag": "生化危机",
         "title": "《生化危机》30周年：欣赏美男受虐成系列独特乐趣",
         "link": "https://www.gamespot.com/articles/one-of-resident-evils-fundamental-joys-is-watching-beautiful-men-get-hurt/1100-6538919/?ftag=CAD-01-10abi2f",
         "summary": "《生化危机》系列迎来30周年，文章探讨该系列如何颠覆性地将男性角色塑造为视觉焦点与受虐对象，融合恐怖与审美体验。",
@@ -77,18 +107,28 @@
         "tag": "中东局势",
         "title": "伊朗导弹袭击以色列核设施附近城镇致160人受伤",
         "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列正调查弹道导弹如何突破其先进防空系统，袭击造成160人受伤。",
-        "comment": "中东紧张局势升级，防空系统有效性受质疑。",
+        "summary": "以色列正调查弹道导弹如何突破其先进防空系统，袭击造成160人受伤，事发地点靠近该国核设施。",
+        "comment": "中东紧张局势升级，防空系统漏洞引发安全担忧。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
+        "tag": "苏丹冲突",
+        "title": "苏丹无人机袭击医院致64死 含13名儿童",
+        "link": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+        "summary": "世界卫生组织称，苏丹一座主要医院在开斋节期间遭无人机袭击，造成64人死亡，包括13名儿童、2名护士和1名医生。",
+        "comment": "针对医疗设施的袭击严重违反国际人道法。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
         "tag": "古巴",
-        "title": "古巴一周内第二次全国大停电，燃料封锁致电力系统崩溃",
+        "title": "古巴一周内第二次全国大停电，燃料封锁加剧困境",
         "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-        "summary": "古巴电力系统一周内第二次完全崩溃，全国陷入黑暗。报道指出，美国实施的燃料封锁加剧了古巴的能源困境，导致电网频繁故障。",
-        "comment": "能源封锁下的民生困境凸显地缘政治对普通民众的直接影响。",
+        "summary": "古巴一周内第二次遭遇全国性停电，电力系统全面故障，凸显该国在美国燃料封锁下面临的严峻困境。",
+        "comment": "电力系统脆弱性暴露，外部封锁与内部困境交织。",
         "image": "",
         "score": 87
       },
@@ -97,8 +137,8 @@
         "tag": "俄乌冲突",
         "title": "俄军袭击致乌克兰6人死亡，四地区受影响",
         "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰官员称，过去24小时内俄军袭击导致东南部四个地区6人死亡。",
-        "comment": "冲突持续造成平民伤亡，局势依然严峻。",
+        "summary": "乌克兰官员称，过去24小时内，俄军袭击导致东南部四个地区6人死亡。",
+        "comment": "战事持续，平民伤亡令人痛心。",
         "image": "",
         "score": 87
       },
@@ -118,9 +158,19 @@
         "title": "美前FBI局长穆勒去世，曾主导特朗普通俄门调查",
         "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
         "summary": "美国前联邦调查局局长罗伯特·穆勒去世，享年81岁。他曾主导调查2016年大选期间俄罗斯涉嫌干预美国大选一事。",
-        "comment": "通俄门调查关键人物离世，标志一个政治争议时代的注脚。",
+        "comment": "关键调查者离世，通俄门事件再引关注。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "军事事故",
+        "title": "卡塔尔土耳其军机坠毁致7人遇难",
+        "link": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
+        "summary": "一架军用直升机在卡塔尔坠毁，机上4名卡塔尔军人、1名土耳其军人和2名土耳其防务公司技术人员全部遇难。",
+        "comment": "地区军事合作中的意外伤亡事件。",
+        "image": "",
+        "score": 84
       }
     ]
   }

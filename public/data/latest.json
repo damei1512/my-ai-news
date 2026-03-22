@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "亚马逊Trainium芯片实验室独家探访：获Anthropic、OpenAI及苹果青睐",
+        "tag": "人工智能芯片",
+        "title": "亚马逊Trainium芯片实验室独家探访，获Anthropic、OpenAI及苹果青睐",
         "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
         "summary": "亚马逊宣布向OpenAI投资500亿美元后，AWS邀请记者独家探访其Trainium芯片实验室，该芯片已赢得多家头部AI公司采用。",
-        "comment": "亚马逊正通过自研芯片强化AI基础设施竞争力。",
+        "comment": "亚马逊正通过自研芯片强化其在AI基础设施领域的竞争力。",
         "image": "",
         "score": 100
       },
@@ -17,10 +17,30 @@
         "tag": "人工智能",
         "title": "AI代币成工程师薪酬新支柱还是成本负担？",
         "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-        "summary": "文章探讨AI代币是否将成为工程师薪酬的第四大支柱，并提醒工程师需谨慎评估其长期价值，而非简单视为额外收益。",
-        "comment": "AI代币薪酬化趋势初显，但实际价值仍需市场检验。",
+        "summary": "AI代币可能成为工程师薪酬的第四大支柱，但工程师需谨慎评估其长期价值，不应简单视为额外收益。",
+        "comment": "代币化薪酬趋势渐起，但风险与机遇并存。",
         "image": "",
-        "score": 97
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "腾讯",
+        "title": "腾讯财报：游戏收入占比超30%，AI助力游戏体验",
+        "link": "https://36kr.com/p/3734107862073606?f=rss",
+        "summary": "腾讯2025年财报显示，游戏业务贡献超30%收入，本土市场收入1642亿元同比增长18%，《三角洲行动》等游戏表现强劲。",
+        "comment": "游戏仍是腾讯基本盘，AI应用或成未来增长关键。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "明星创业",
+        "title": "华晨宇与小阔集团共创日化家居品牌「重点」",
+        "link": "https://36kr.com/p/3733991155400965?f=rss",
+        "summary": "小阔集团与华晨宇联合推出日化家居品牌「重点」，华晨宇以持股20%的联合创始人身份深度参与，非传统代言。",
+        "comment": "明星跨界深度绑定品牌，探索流量变现新路径。",
+        "image": "",
+        "score": 93
       },
       {
         "category": "数码科技",
@@ -30,7 +50,7 @@
         "summary": "Nothing在上海发布头戴式耳机Headphone(a)和智能手机Phone(4a)系列，耳机首销价1299元，手机起售价未公布，显示其对中国市场的持续投入。",
         "comment": "在性能过剩时代，以设计差异化切入市场是明智选择。",
         "image": "",
-        "score": 94
+        "score": 93
       },
       {
         "category": "游戏影视",
@@ -48,8 +68,18 @@
         "title": "AI Agent最佳落地容器是汽车",
         "link": "https://www.ifanr.com/1658243?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "文章指出AI Agent不应将人训练为机器操作员，汽车是目前最佳落地场景。",
-        "comment": "观点明确，汽车作为复杂系统确实适合Agent技术验证。",
+        "comment": "汽车作为复杂移动空间，确实是AI Agent理想的试验场。",
         "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威",
+        "title": "《夜魔侠：重生》第二季主角换装“黑幕”战衣",
+        "link": "https://www.ign.com/articles/daredevil-has-a-new-blackout-suit-in-born-again-season-2-and-theres-a-very-specific-reason-for-it",
+        "summary": "《夜魔侠：重生》第二季中，马特·默多克将身着名为“黑幕”的全新战衣回归，制作方透露此次换装有特定剧情原因。",
+        "comment": "战衣更新或暗示剧情走向黑暗，值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/20/dd-suit-oo-1-1774047977400.jpg",
         "score": 91
       },
       {
@@ -57,14 +87,14 @@
         "tag": "游戏评测",
         "title": "IGN评测《Screamer》：独特自信的赛车游戏",
         "link": "https://www.ign.com/articles/screamer-review",
-        "summary": "IGN评测认为，尽管角色乏味且难度曲线陡峭，《Screamer》仍是一款独特且自信的赛车游戏，像是《Blur》闭关开发一年的成果。",
-        "comment": "瑕不掩瑜，独特的赛车体验值得尝试。",
+        "summary": "IGN评测认为，尽管存在角色乏味和难度陡增的问题，《Screamer》仍是一款独特且自信的赛车游戏，像是《Blur》闭关开发12个月的成果。",
+        "comment": "瑕不掩瑜，独特的竞速体验值得关注。",
         "image": "https://assets-prd.ignimgs.com/2026/03/21/screamer-blogroll-1774137232266.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏文化",
+        "tag": "生化危机",
         "title": "《生化危机》30周年：欣赏美男受虐成系列独特乐趣",
         "link": "https://www.gamespot.com/articles/one-of-resident-evils-fundamental-joys-is-watching-beautiful-men-get-hurt/1100-6538919/?ftag=CAD-01-10abi2f",
         "summary": "《生化危机》系列迎来30周年，文章探讨该系列如何颠覆性地将男性角色塑造为视觉焦点与受虐对象，融合恐怖与审美体验。",
@@ -77,18 +107,28 @@
         "tag": "中东局势",
         "title": "伊朗导弹袭击以色列核设施附近城镇致160人受伤",
         "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列正调查弹道导弹如何突破其先进防空系统，袭击造成160人受伤。",
-        "comment": "中东紧张局势升级，防空系统有效性受质疑。",
+        "summary": "以色列正调查弹道导弹如何突破其先进防空系统，袭击造成160人受伤，事发地点靠近该国核设施。",
+        "comment": "中东紧张局势升级，防空系统漏洞引发安全担忧。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
+        "tag": "苏丹冲突",
+        "title": "苏丹无人机袭击医院致64死 含13名儿童",
+        "link": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+        "summary": "世界卫生组织称，苏丹一座主要医院在开斋节期间遭无人机袭击，造成64人死亡，包括13名儿童、2名护士和1名医生。",
+        "comment": "针对医疗设施的袭击严重违反国际人道法。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
         "tag": "古巴",
-        "title": "古巴一周内第二次全国大停电，燃料封锁致电力系统崩溃",
+        "title": "古巴一周内第二次全国大停电，燃料封锁加剧困境",
         "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-        "summary": "古巴电力系统一周内第二次完全崩溃，全国陷入黑暗。报道指出，美国实施的燃料封锁加剧了古巴的能源困境，导致电网频繁故障。",
-        "comment": "能源封锁下的民生困境凸显地缘政治对普通民众的直接影响。",
+        "summary": "古巴一周内第二次遭遇全国性停电，电力系统全面故障，凸显该国在美国燃料封锁下面临的严峻困境。",
+        "comment": "电力系统脆弱性暴露，外部封锁与内部困境交织。",
         "image": "",
         "score": 87
       },
@@ -97,8 +137,8 @@
         "tag": "俄乌冲突",
         "title": "俄军袭击致乌克兰6人死亡，四地区受影响",
         "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰官员称，过去24小时内俄军袭击导致东南部四个地区6人死亡。",
-        "comment": "冲突持续造成平民伤亡，局势依然严峻。",
+        "summary": "乌克兰官员称，过去24小时内，俄军袭击导致东南部四个地区6人死亡。",
+        "comment": "战事持续，平民伤亡令人痛心。",
         "image": "",
         "score": 87
       },
@@ -118,9 +158,19 @@
         "title": "美前FBI局长穆勒去世，曾主导特朗普通俄门调查",
         "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
         "summary": "美国前联邦调查局局长罗伯特·穆勒去世，享年81岁。他曾主导调查2016年大选期间俄罗斯涉嫌干预美国大选一事。",
-        "comment": "通俄门调查关键人物离世，标志一个政治争议时代的注脚。",
+        "comment": "关键调查者离世，通俄门事件再引关注。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "军事事故",
+        "title": "卡塔尔土耳其军机坠毁致7人遇难",
+        "link": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
+        "summary": "一架军用直升机在卡塔尔坠毁，机上4名卡塔尔军人、1名土耳其军人和2名土耳其防务公司技术人员全部遇难。",
+        "comment": "地区军事合作中的意外伤亡事件。",
+        "image": "",
+        "score": 84
       }
     ]
   },
@@ -132,8 +182,8 @@
         "tag": "人工智能",
         "title": "出版社因AI生成疑虑撤回恐怖小说《害羞女孩》",
         "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-        "summary": "哈切特图书集团因担忧文本由人工智能生成，决定停止出版恐怖小说《害羞女孩》。",
-        "comment": "AI创作在出版业引发真实性争议。",
+        "summary": "哈珀柯林斯出版集团因担忧文本由人工智能生成，决定停止出版恐怖小说《害羞女孩》。",
+        "comment": "AI创作边界模糊，出版业面临伦理新挑战。",
         "image": "",
         "score": 99
       },
@@ -142,18 +192,18 @@
         "tag": "人工智能",
         "title": "合规初创公司Delve被指控用虚假合规误导客户",
         "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-        "summary": "匿名Substack文章指控合规初创公司Delve通过虚假方式使数百名客户误以为其符合隐私和安全法规要求。",
-        "comment": "AI合规领域出现信任危机，监管真实性亟待验证。",
+        "summary": "匿名Substack文章指控合规初创公司Delve通过虚假方式让数百名客户误以为其符合隐私和安全法规要求。",
+        "comment": "AI合规领域监管漏洞暴露，行业信任面临考验。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "英伟达大会未获华尔街青睐，AI泡沫担忧犹存",
+        "title": "英伟达大会未获华尔街青睐，AI泡沫担忧持续",
         "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-        "summary": "尽管投资者担忧AI泡沫，英伟达最新大会显示行业多数人对此并不担心，但华尔街反应平淡。",
-        "comment": "市场对AI狂热趋于理性，短期预期或已透支。",
+        "summary": "尽管投资者担忧AI泡沫，英伟达最新大会显示行业多数参与者对此并不忧虑，但华尔街反应平淡。",
+        "comment": "市场情绪与产业信心出现明显温差。",
         "image": "",
         "score": 99
       },
@@ -162,7 +212,7 @@
         "tag": "人工智能",
         "title": "五角大楼曾称与Anthropic立场接近，与特朗普表态矛盾",
         "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-        "summary": "Anthropic向加州联邦法院提交宣誓声明，反驳五角大楼关于其构成“不可接受风险”的指控，并披露军方曾表示双方立场接近，这与特朗普宣布关系破裂的表态存在时间矛盾。",
+        "summary": "Anthropic向加州联邦法院提交宣誓声明，反驳五角大楼关于其构成“不可接受风险”的指控，并披露军方曾表示双方立场接近，与特朗普宣布关系破裂的说法存在时间矛盾。",
         "comment": "政府内部对AI公司的风险评估存在明显分歧。",
         "image": "",
         "score": 99
@@ -172,40 +222,10 @@
         "tag": "商业纠纷",
         "title": "傅盛称周鸿祎欠款1亿，360回应；字节413亿出售沐瞳科技",
         "link": "https://36kr.com/p/3732001538490631?f=rss",
-        "summary": "傅盛凌晨在微信群指责周鸿祎欠款1亿元，360回应称系商业纠纷。字节跳动以413亿元出售游戏公司沐瞳科技。伊朗局势或推高油价至180美元。",
-        "comment": "科技巨头商业纠纷与战略调整，反映行业竞争与地缘风险交织。",
+        "summary": "傅盛凌晨在微信群指责周鸿祎欠款1亿元，360回应称系商业纠纷；字节跳动以413亿元出售游戏公司沐瞳科技；伊朗局势或推高油价至180美元。",
+        "comment": "科技圈商战升级，大额资产处置与地缘风险并存。",
         "image": "",
         "score": 97
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "《生化危机4》历经四次死亡与重生终成经典",
-        "link": "https://www.ign.com/articles/the-quadruple-death-and-rebirth-of-resident-evil-4",
-        "summary": "在成为史上最伟大游戏之一前，《生化危机4》经历了四次重大方向调整与重生。卡普空为系列30周年回顾了这段开发秘史。",
-        "comment": "经典之作的诞生往往伴随着反复试错与坚持。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/18/re4-cancelled-games-blogroll-1773841032458.jpg",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏资讯",
-        "title": "《我的世界》2026年3月直播会公布新作及更新内容",
-        "link": "https://www.ign.com/articles/minecraft-live-march-2026-everything-announced-updating-live",
-        "summary": "IGN报道《我的世界》2026年3月直播会已结束，重点介绍了《我的世界：地下城2》《我的世界：世界》等新作及更新内容。",
-        "comment": "系列持续扩展，新作值得期待。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/21/minecraft-live-blogroll-1774114792446.jpg",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "网络文化",
-        "title": "年轻人热衷自诊“前额叶受损”成网络新现象",
-        "link": "https://36kr.com/p/3732100232298503?f=rss",
-        "summary": "当代年轻人对健康态度矛盾，既回避体检问题，又流行用“前额叶受损”等神经科学术语自我解释疲劳、懒惰等状态，形成网络新梗。",
-        "comment": "网络梗反映当代青年的压力自嘲与健康认知的娱乐化倾向。",
-        "image": "",
-        "score": 93
       },
       {
         "category": "游戏影视",
@@ -213,38 +233,38 @@
         "title": "《我的世界：地下城2》正式公布，预计2026年秋季发售",
         "link": "https://www.ign.com/articles/minecraft-dungeons-2-revealed-with-fall-2026-launch",
         "summary": "Mojang工作室正式宣布《我的世界：地下城2》正在开发中，计划于2026年秋季推出。",
-        "comment": "经典IP续作，有望延续地牢探索玩法。",
+        "comment": "经典IP续作，粉丝期待已久。",
         "image": "https://assets-prd.ignimgs.com/2026/03/21/minecraft-dungeons-2-screenshot-1-1774114340778.jpg",
-        "score": 92
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "网络文化",
+        "title": "年轻人热衷自诊“前额叶罢工”成网络新现象",
+        "link": "https://36kr.com/p/3732100232298503?f=rss",
+        "summary": "当代年轻人对健康态度矛盾，既回避体检问题，又热衷用“前额叶受损”等专业术语自我诊断，将其视为解释疲劳、懒惰等状态的流行标签。",
+        "comment": "网络梗图消解医学严肃性，反映年轻群体对心理状态的戏谑表达。",
+        "image": "",
+        "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "游戏更新",
         "title": "《我的世界》公布2026年更新计划：混沌立方与迷你接管",
         "link": "https://www.ign.com/articles/mojang-reveals-chaos-cubed-update-coming-to-minecraft-later-this-year-with-tiny-takeover-release-date-set-for-next-week",
-        "summary": "Mojang公布《我的世界》2026年更新计划，迷你接管DLC下周上线，混沌立方更新将于年内推出。",
-        "comment": "持续的内容更新是《我的世界》长盛不衰的关键。",
+        "summary": "Mojang公布《我的世界》2026年更新计划，迷你接管DLC下周上线，混沌立方更新年内推出。",
+        "comment": "长期运营典范，持续为玩家带来新鲜内容。",
         "image": "https://assets-prd.ignimgs.com/2026/03/21/mcv-tinytakeover-hero-1-overworldoverload-1920x1080-1774078136968.png",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "主题公园",
-        "title": "《我的世界》主题公园2027年开放，概念图公布",
+        "tag": "游戏IP",
+        "title": "《我的世界》主题公园2027年开放，概念图首曝",
         "link": "https://www.ign.com/articles/minecraft-world-concept-art-reveals-new-theme-park-coming-in-2027",
-        "summary": "基于Mojang热门游戏《我的世界》的主题公园“Minecraft World”将于2027年开放，将游戏中的苦力怕、工作台等元素带入现实世界。",
-        "comment": "游戏IP线下实景化的重要一步，市场潜力可观。",
+        "summary": "基于热门游戏《我的世界》的主题公园“Minecraft World”将于2027年开放，官方发布概念图，将游戏中的苦力怕、工作台等元素带入现实世界。",
+        "comment": "游戏IP线下实景化的重要一步，拓展了商业边界。",
         "image": "https://assets-prd.ignimgs.com/2026/03/21/minecraft-world-6-1774079813445.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏资讯",
-        "title": "《我的世界：地下城2》公布，今年秋季全平台发售",
-        "link": "https://www.gamespot.com/articles/minecraft-dungeons-2-revealed-and-its-coming-this-year/1100-6538931/?ftag=CAD-01-10abi2f",
-        "summary": "在Minecraft Live活动上，Mojang宣布推出《我的世界：地下城2》。这款2020年地牢爬行游戏的续作将于今年秋季登陆所有主要平台，并首发加入Game Pass。",
-        "comment": "热门IP续作，有望延续前作成功并吸引更多玩家。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4669059-screenshot2026-03-20at2.18.31%E2%80%AFpm.png",
         "score": 92
       },
       {
@@ -252,8 +272,8 @@
         "tag": "数码",
         "title": "英特尔CPU涨价影响笔记本，爱马仕推3.5万无线充，Mac首销周创纪录",
         "link": "https://www.ifanr.com/1659279?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "英特尔CPU价格大涨或推高笔记本成本；爱马仕推出售价3.5万元无线充电器；库克称Mac迎来史上最强首销周。",
-        "comment": "科技市场呈现高端化与消费分化的鲜明趋势。",
+        "summary": "英特尔CPU价格大涨或致笔记本涨价；爱马仕推出售价3.5万元无线充电器；库克称Mac迎来史上最强首销周。",
+        "comment": "科技市场呈现高端化与涨价趋势，消费分化明显。",
         "image": "",
         "score": 91
       },
@@ -262,9 +282,19 @@
         "tag": "星球大战",
         "title": "IGN整理所有可购买4K UHD版《星球大战》影视作品",
         "link": "https://www.ign.com/articles/all-star-wars-movie-and-tv-shows-4k-blu-rays",
-        "summary": "IGN汇总了目前市面上所有能以4K UHD蓝光格式购买的《星球大战》系列电影和电视剧，为影迷收藏提供参考清单。",
-        "comment": "一份实用的收藏指南，但数字流媒体时代实体介质需求有限。",
+        "summary": "IGN汇总了目前市面上所有能以4K UHD蓝光格式购买的《星球大战》系列电影和电视剧作品清单。",
+        "comment": "为影碟收藏者提供了实用的购买指南。",
         "image": "https://assets-prd.ignimgs.com/2023/05/26/star-wars-movies-in-order-thumb-1685138674690.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "《我的世界》2026年3月直播会公布新作与更新",
+        "link": "https://www.ign.com/articles/minecraft-live-march-2026-everything-announced-updating-live",
+        "summary": "IGN报道《我的世界》2026年3月直播会内容，重点介绍《我的世界：地下城2》《我的世界世界》等新作及更新信息。",
+        "comment": "系列持续拓展，展现强大IP生命力。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/21/minecraft-live-blogroll-1774114792446.jpg",
         "score": 91
       },
       {
@@ -272,19 +302,29 @@
         "tag": "游戏更新",
         "title": "《赤色沙漠》开发商承诺修复操作问题，为键鼠体验道歉",
         "link": "https://www.ign.com/articles/crimson-desert-dev-promises-patch-to-address-discomfort-many-players-have-experienced-with-the-controls-apologizes-for-awful-keyboard-and-mouse-experience",
-        "summary": "游戏《赤色沙漠》开发商Pearl Abyss表示将通过补丁修复广受批评的操作问题，并为糟糕的键盘鼠标体验致歉。",
-        "comment": "操作优化是提升游戏体验的关键一步。",
+        "summary": "《赤色沙漠》开发商Pearl Abyss表示将通过补丁修复游戏备受批评的操作问题，并为糟糕的键盘鼠标体验致歉。",
+        "comment": "及时响应玩家反馈是维护游戏口碑的关键一步。",
         "image": "https://assets-prd.ignimgs.com/2026/03/21/ss-653759c43cbc7900686a917d4b165f33b8cd334f-1920x1080-1774106981616.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏史",
-        "title": "《生化危机》在任天堂平台的两次失败尝试",
+        "title": "生化危机在任天堂平台的两次失败尝试",
         "link": "https://www.ign.com/articles/resident-evils-big-nintendo-swing-and-a-miss",
-        "summary": "《生化危机》系列曾试图登陆任天堂Game Boy和N64DD平台，但这两个雄心勃勃的项目最终均被取消。",
-        "comment": "展现了游戏开发中平台适配与项目取舍的经典案例。",
+        "summary": "IGN回顾了生化危机系列在任天堂Game Boy和N64DD平台上的两个著名被取消项目，这些尝试因过于雄心勃勃而未能实现。",
+        "comment": "经典IP的跨平台移植并非总能成功。",
         "image": "https://assets-prd.ignimgs.com/2026/03/18/re-nintendo-cancelled-games-blogroll-1773843248445.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "《我的世界：地下城2》公布，今年秋季全平台发售",
+        "link": "https://www.gamespot.com/articles/minecraft-dungeons-2-revealed-and-its-coming-this-year/1100-6538931/?ftag=CAD-01-10abi2f",
+        "summary": "在Minecraft Live活动上，Mojang宣布推出《我的世界：地下城2》。这款2020年地牢爬行游戏的续作将于今年秋季登陆所有主要平台，并首发加入Game Pass。",
+        "comment": "经典IP续作，有望延续前作热度并拓展玩家群体。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4669059-screenshot2026-03-20at2.18.31%E2%80%AFpm.png",
         "score": 91
       },
       {
@@ -292,18 +332,18 @@
         "tag": "游戏更新",
         "title": "《我的世界》将推出混沌方块更新",
         "link": "https://www.gamespot.com/articles/the-next-minecraft-drop-could-be-its-most-chaotic-yet/1100-6538930/?ftag=CAD-01-10abi2f",
-        "summary": "在Minecraft Live活动上，Mojang宣布了名为“Chaos Cubed”的下一轮内容更新，预计将带来混乱的游戏体验，具体发布日期尚未确定。",
-        "comment": "新内容有望为这款经典游戏注入新的活力。",
+        "summary": "在Minecraft Live活动中，Mojang宣布了名为“Chaos Cubed”的下一波更新内容，预计将带来混乱的游戏体验，具体发布日期尚未确定。",
+        "comment": "新内容有望为经典游戏注入颠覆性玩法。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1850/18507742/4669053-mcl_chaoscubed_screenshot_23_1920x1080.png",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "微软",
-        "title": "微软计划减少Windows 11烦人体验",
+        "title": "微软计划减少Windows 11的烦人体验",
         "link": "https://www.gamespot.com/articles/microsoft-plans-to-make-windows-11-less-annoying/1100-6538934/?ftag=CAD-01-10abi2f",
-        "summary": "微软Windows主管表示，将在三四月为Windows 11带来多项改进，部分调整可能不会立即生效。",
-        "comment": "系统优化值得期待，但需关注实际落地效果。",
+        "summary": "微软Windows负责人表示，将在三四月为Windows 11带来多项改进，部分调整可能不会立即生效。",
+        "comment": "系统优化值得期待，但需看实际落地效果。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4669114-windows11logo.jpg",
         "score": 89
       },
@@ -312,8 +352,8 @@
         "tag": "小米汽车",
         "title": "小米汽车告别营销套路，转向真诚造车",
         "link": "https://www.ifanr.com/1659191?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米汽车调整策略，从追求短期热度转向长期发展，强调产品本身而非营销话术。",
-        "comment": "策略转变值得肯定，但最终仍需市场检验产品力。",
+        "summary": "小米汽车调整策略，从追求短期爆发的百米冲刺转向注重长期发展的马拉松式造车。",
+        "comment": "营销策略转变体现小米汽车发展思路更趋务实。",
         "image": "",
         "score": 88
       },
@@ -322,28 +362,18 @@
         "tag": "美国政府停摆",
         "title": "特朗普威胁派ICE进驻机场，除非达成拨款协议",
         "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统特朗普表示，由于部分政府停摆，机场安检人员数周未领薪，若拨款协议未达成，将派遣移民及海关执法局人员执行机场安保工作。",
-        "comment": "政府停摆压力下，特朗普以安保为筹码施压国会。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "自然灾害",
-        "title": "夏威夷遭遇20年来最严重洪灾 数千人紧急疏散",
-        "link": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
-        "summary": "夏威夷州长警告民众切勿轻视风暴，欧胡岛和毛伊岛预计将迎来更多降雨，数千居民已被疏散。",
-        "comment": "极端天气频发凸显气候变化应对紧迫性。",
+        "summary": "美国总统特朗普表示，由于部分政府停摆，机场安检人员数周未获薪酬，移民及海关执法局将介入机场安保工作。",
+        "comment": "政府停摆影响持续扩大，边境安全议题被用作谈判筹码。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "社交媒体",
-        "title": "澳大利亚16岁以下社交媒体禁令实施三个月效果初探",
+        "title": "澳大利亚青少年社交媒体禁令实施三个月效果调查",
         "link": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
-        "summary": "澳大利亚实施全球首个16岁以下社交媒体禁令已三个月，青少年向BBC讲述了该法律目前对其生活产生的影响。",
-        "comment": "禁令效果尚待观察，但已引发青少年群体的真实反馈。",
+        "summary": "澳大利亚禁止16岁以下青少年使用社交媒体新法实施三个月，BBC采访青少年了解该全球首例法律对其生活的实际影响。",
+        "comment": "全球首例禁令效果初显，但长期影响仍需观察。",
         "image": "",
         "score": 86
       },
@@ -352,18 +382,8 @@
         "tag": "娱乐",
         "title": "防弹少年团时隔两年举办大型现场演唱会",
         "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
-        "summary": "防弹少年团全体成员自2022年10月以来首次同台演出，在首尔高尺天空巨蛋面对数万观众进行现场表演。",
-        "comment": "全球顶流男团正式回归舞台，标志团体活动重启。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "新闻自由",
-        "title": "美法官裁定五角大楼限制记者违反宪法第一修正案",
-        "link": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国联邦法官裁定，国防部要求记者同意特定信息收集规则以维持采访权限的做法，违反了宪法第一修正案保障的新闻自由。",
-        "comment": "司法系统对政府新闻管控的制衡，凸显了美国宪法对言论自由的保护。",
+        "summary": "防弹少年团全体成员自2022年10月以来首次同台演出，在首尔举行大规模现场演唱会。",
+        "comment": "全球顶流男团正式回归舞台，引发粉丝狂欢。",
         "image": "",
         "score": 86
       },
@@ -372,7 +392,7 @@
         "tag": "游戏折扣",
         "title": "IGN今日最佳优惠：恶魔城蓝光套装、勇者斗恶龙VII重制版等",
         "link": "https://www.ign.com/articles/best-deals-for-march-21-2026",
-        "summary": "IGN汇总今日游戏影视类优惠信息，包括恶魔城动画蓝光套装、勇者斗恶龙VII重制版、乐高《挽救计划》模型等商品折扣。",
+        "summary": "IGN汇总今日游戏影视类优惠信息，包括恶魔城动画蓝光套装、勇者斗恶龙VII重制版、乐高《挽救计划》套装等多款产品折扣。",
         "comment": "常规促销信息汇总，对特定粉丝群体有参考价值。",
         "image": "https://assets-prd.ignimgs.com/2025/01/15/cn-s2-blogroll-1736982110361.jpg",
         "score": 85
@@ -387,7 +407,7 @@
         "tag": "人工智能",
         "title": "英伟达GTC大会发布NemoClaw与机器人Olaf，押注万亿美元AI芯片市场",
         "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-        "summary": "CEO黄仁勋在GTC大会上发表两小时主题演讲，发布NemoClaw、机器人Olaf等产品，并预测AI芯片销售额将达1万亿美元。",
+        "summary": "英伟达CEO黄仁勋在GTC大会上发表两小时主题演讲，发布NemoClaw、机器人Olaf等AI产品，并预测AI芯片市场规模将达1万亿美元。",
         "comment": "英伟达持续强化AI生态布局，巩固行业领导地位。",
         "image": "",
         "score": 100
@@ -395,9 +415,9 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "英伟达CEO黄仁勋GTC大会发表战略演讲",
+        "title": "英伟达CEO黄仁勋GTC大会发表OpenClaw战略",
         "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-        "summary": "英伟达CEO黄仁勋在GTC大会上发表两小时半主题演讲，预测AI芯片销售额将达1万亿美元，并阐述公司战略布局。",
+        "summary": "英伟达CEO黄仁勋在GTC大会上发表两小时主题演讲，提出OpenClaw战略，并预测AI芯片销售额将达1万亿美元。",
         "comment": "英伟达继续巩固其在AI芯片领域的领导地位。",
         "image": "",
         "score": 100
@@ -408,37 +428,27 @@
         "title": "WordPress.com推出AI代理自动撰写发布文章功能",
         "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
         "summary": "WordPress.com新增AI代理功能，可自动撰写并发布文章，降低内容创作门槛，但可能增加网络机器生成内容比例。",
-        "comment": "AI内容生成工具普及将重塑网络生态，需关注质量与真实性。",
+        "comment": "AI内容创作工具普及将重塑网络生态，需关注质量与真实性。",
         "image": "",
         "score": 99
       },
       {
         "category": "数码科技",
         "tag": "游戏行业",
-        "title": "沙特60亿美元收购沐瞳科技，张云帆留任CEO",
+        "title": "沙特60亿美元收购沐瞳科技，公司架构与CEO不变",
         "link": "https://36kr.com/p/3731048121647361?f=rss",
-        "summary": "沙特主权财富基金旗下Savvy Games Group以超60亿美元全资收购沐瞳科技，公司架构与CEO保持不变，交易于2026年初达成核心条款共识。",
-        "comment": "中东资本持续加码全球游戏产业，沐瞳获得独立运营空间。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI开发",
-        "title": "Skills市场重塑开发者生产方式，OpenClaw项目走红",
-        "link": "https://36kr.com/p/3730644353286150?f=rss",
-        "summary": "AI竞争焦点转向实际生产力工具，Skills市场及开源项目OpenClaw的兴起，正推动开发者以技能商品化形式参与Agent变革。",
-        "comment": "技能商品化是AI落地关键，将深刻改变开发生态。",
+        "summary": "沙特主权财富基金旗下Savvy Games Group以超60亿美元收购沐瞳科技全部股权，交易于2026年初达成共识，公司架构与CEO张云帆保持不变。",
+        "comment": "中东资本持续加码全球游戏产业，沐瞳获得独立发展新契机。",
         "image": "",
         "score": 97
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "微软缩减Windows中Copilot入口点",
+        "title": "微软缩减Windows中Copilot入口点，减少AI功能膨胀",
         "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-        "summary": "微软开始减少Windows系统中Copilot的入口点，首批调整涉及照片、小组件、记事本等应用。",
-        "comment": "微软正修正AI功能过度植入的策略。",
+        "summary": "微软开始减少Windows系统中Copilot的入口点，首批调整涉及照片、小组件、记事本等应用，旨在优化用户体验。",
+        "comment": "微软主动调整AI功能部署，显示其对用户体验的重视。",
         "image": "",
         "score": 96
       },
@@ -458,7 +468,7 @@
         "title": "万物云2025年营收372.7亿，关联万科应收款降至20.6亿",
         "link": "https://36kr.com/p/3731378273828868?f=rss",
         "summary": "万物云2025年营收372.7亿元，同比增长2.7%；核心净利润21.3亿元，微增0.8%。关联万科应收账款余额降至20.6亿元，业务独立性增强。",
-        "comment": "关联交易风险降低，但归母净利润下滑值得关注。",
+        "comment": "关联风险降低，但归母净利润大幅下滑值得关注。",
         "image": "",
         "score": 94
       },
@@ -468,7 +478,7 @@
         "title": "迪卡侬入驻拼多多，特斯拉Semi卡车2026年交付",
         "link": "https://36kr.com/p/3731169592918273?f=rss",
         "summary": "迪卡侬正式入驻拼多多；特斯拉计划2026年批量交付Semi电动卡车，价格或低于30万美元；小鹏汽车预计一季度交付量同比减少约30%-35%。",
-        "comment": "零售渠道与电动车市场动态频出，行业竞争持续加剧。",
+        "comment": "零售渠道与新能源物流领域均有重要动向。",
         "image": "",
         "score": 94
       },
@@ -484,16 +494,6 @@
       },
       {
         "category": "数码科技",
-        "tag": "一级市场",
-        "title": "36Kr资情留言板第181期：求购Anthropic及机器人公司老股",
-        "link": "https://36kr.com/p/3730996090192130?f=rss",
-        "summary": "本期栏目提供Anthropic及多家机器人公司老股份额的求购信息，旨在帮助买卖双方快速链接市场信息与潜在交易对手。",
-        "comment": "一级市场非公开份额交易需求活跃，反映特定资产流动性需求。",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
         "tag": "AI模型",
         "title": "实测MiniMax M2.7：AI模型性能大幅提升",
         "link": "https://www.ifanr.com/1658997?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -504,51 +504,41 @@
       },
       {
         "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "《模拟人生4》付费模组市场引发玩家与创作者不满",
-        "link": "https://www.gamespot.com/articles/the-sims-4s-maker-marketplace-is-an-insult-to-both-players-and-modders/1100-6538913/?ftag=CAD-01-10abi2f",
-        "summary": "《模拟人生4》因推出类似Bethesda Creation Club的微交易与付费模组平台而受到批评，被指对玩家和模组创作者均不尊重。",
-        "comment": "EA将付费模组引入社区，可能破坏原有的创作生态。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4668793-madsim.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
         "tag": "游戏争议",
         "title": "《赤色沙漠》AI生成图引发争议",
         "link": "https://www.gamespot.com/articles/baffling-crimson-desert-images-have-ignited-a-generative-ai-controversy/1100-6538932/?ftag=CAD-01-10abi2f",
-        "summary": "《赤色沙漠》发售次日销量突破200万份，但游戏内部分图像被质疑使用生成式AI制作，引发玩家与行业争议。",
-        "comment": "AI工具滥用可能损害游戏艺术价值与玩家信任。",
+        "summary": "游戏《赤色沙漠》发售次日销量突破200万份，但近期因疑似使用生成式AI制作的宣传图引发玩家与行业争议。",
+        "comment": "AI创作边界模糊，游戏行业需明确伦理规范。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4669082-4574295-crim.jpg",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "魔兽世界",
-        "title": "《魔兽世界：午夜》玩家住房系统上线，装饰品获取需大量投入",
+        "title": "《魔兽世界：午夜》玩家住房系统上线，装饰收集成挑战",
         "link": "https://www.gamespot.com/articles/wow-midnights-player-housing-is-great-if-you-can-afford-the-decor-grind/1100-6538925/?ftag=CAD-01-10abi2f",
-        "summary": "《魔兽世界：午夜》资料片正式推出玩家住房系统，这是该运营二十年的MMORPG首次引入该功能。系统设计令人印象深刻，但高级装饰品需要大量时间或资源投入才能获取。",
-        "comment": "住房系统虽好，但装饰品获取门槛可能影响玩家体验。",
+        "summary": "《魔兽世界：午夜》推出玩家住房系统，允许高度自定义，但装饰品获取依赖大量重复收集任务，引发玩家对时间成本的讨论。",
+        "comment": "系统设计出色，但装饰获取的重复性可能削弱长期体验。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4669018-wowmidnightreviewhouseheader.jpg",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "新能源汽车",
-        "title": "华为深度参与新款阿维塔12预售29.99万起",
+        "title": "华为深度参与阿维塔12预售29.99万起",
         "link": "https://www.ifanr.com/1659208?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "新款阿维塔12预售29.99万元起，华为团队深度参与，产品力全面升级。",
-        "comment": "华为深度赋能，有望提升阿维塔市场竞争力。",
+        "summary": "新款阿维塔12由华为团队深度参与，定位为无明显短板的均衡车型，现已开启预售。",
+        "comment": "华为深度赋能，有望提升产品综合竞争力。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果50周年或推两款新iPhone：灵动岛待定、酒红色回归",
+        "title": "苹果50周年或推两款新iPhone，灵动岛待定",
         "link": "https://www.ifanr.com/1659114?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "消息称苹果为50周年准备两款新iPhone，灵动岛设计尚未确定，经典酒红色可能回归，售价预计保持稳定。",
-        "comment": "苹果在周年节点寻求设计突破与市场平衡。",
+        "summary": "消息称苹果为50周年准备两款新iPhone，一款主打创新体验，一款侧重市场盈利，酒红色可能回归，售价或保持不变。",
+        "comment": "苹果在周年节点平衡梦想与现实的产品策略值得关注。",
         "image": "",
         "score": 91
       },
@@ -557,10 +547,20 @@
         "tag": "AI",
         "title": "AI替代演员争议背后：平台更关注内容可替代性",
         "link": "https://www.ifanr.com/1658885?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章讨论AI替代演员争议，指出在平台变现逻辑中，内容的可替代性远高于演员个人价值。",
-        "comment": "技术变革冲击传统行业，平台逻辑优先于人文关怀。",
+        "summary": "文章探讨AI替代演员争议，指出在平台变现逻辑中，内容的可替代性比演员更重要，引发行业思考。",
+        "comment": "技术变革下，内容生产逻辑正在被重塑。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏产业",
+        "title": "《模拟人生4》付费模组市场引玩家与创作者不满",
+        "link": "https://www.gamespot.com/articles/the-sims-4s-maker-marketplace-is-an-insult-to-both-players-and-modders/1100-6538913/?ftag=CAD-01-10abi2f",
+        "summary": "《模拟人生4》因推出类似Bethesda Creation Club的微交易与付费模组平台而受到批评，被指损害玩家与模组创作者权益。",
+        "comment": "付费模组模式若设计不当，易破坏社区生态。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4668793-madsim.jpg",
+        "score": 90
       },
       {
         "category": "数码科技",
@@ -577,8 +577,8 @@
         "tag": "游戏影视",
         "title": "安雅·泰勒-乔伊首次为《超级马里奥银河》配音时呕吐",
         "link": "https://www.gamespot.com/articles/super-mario-galaxy-movies-anya-taylor-joy-barfed-the-first-time-she-voiced-peach/1100-6538933/?ftag=CAD-01-10abi2f",
-        "summary": "安雅·泰勒-乔伊透露，她首次为《超级马里奥银河》电影中的碧姬公主配音时，因不适应配音工作而呕吐。",
-        "comment": "演员跨界配音的挑战，凸显了专业配音工作的不易。",
+        "summary": "安雅·泰勒-乔伊透露，她首次为《超级马里奥银河》电影中的碧姬公主配音时，因不适应而呕吐。",
+        "comment": "演员为适应角色付出努力，幕后故事有趣。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4669078-supermariogalaxymoviepeach.jpg",
         "score": 89
       },
@@ -587,7 +587,7 @@
         "tag": "游戏评论",
         "title": "《刺客信条：暗影》双主角设计被指削弱核心理念",
         "link": "https://www.gamespot.com/articles/by-giving-players-a-choice-assassins-creed-shadows-undermined-its-best-idea/1100-6538927/?ftag=CAD-01-10abi2f",
-        "summary": "GameSpot评论指出，游戏通过让玩家自由切换双主角，反而削弱了角色差异本可带来的叙事深度与主题冲击。",
+        "summary": "GameSpot评论指出，游戏通过让玩家自由切换双主角，反而削弱了角色差异本可带来的叙事深度与主题冲击力。",
         "comment": "设计妥协导致核心创意未能充分展开。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1587/15875866/4669030-ac-shadows-main.jpg",
         "score": 89
@@ -604,11 +604,11 @@
       },
       {
         "category": "数码科技",
-        "tag": "笔记本",
+        "tag": "小米",
         "title": "小米Book Pro 14评测：定位高端，体验超值",
         "link": "https://www.ifanr.com/1659053?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "评测认为小米Xiaomi Book Pro 14虽为品牌最贵笔记本，但凭借出色屏幕、工艺和性能表现，提供了超越价格的体验。",
-        "comment": "产品力提升显著，但高端市场接受度仍需检验。",
+        "summary": "评测认为该笔记本是小米史上最贵型号，虽价格较高但整体体验超值，性能与设计有突破。",
+        "comment": "高端化尝试能否成功，市场接受度是关键。",
         "image": "",
         "score": 88
       }
