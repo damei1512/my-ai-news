@@ -3,42 +3,52 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "AI代币成工程师薪酬新支柱还是成本负担？",
+        "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+        "summary": "AI代币可能成为工程师薪酬的第四大支柱，但工程师需谨慎评估其实际价值，不应简单视为额外收益。",
+        "comment": "代币化薪酬需警惕泡沫风险，工程师应理性看待。",
+        "image": "",
+        "score": 99
+      },
+      {
         "category": "数码科技",
         "tag": "消费电子",
-        "title": "Nothing在华发布Headphone(a)与Phone(4a)，主打设计优先",
+        "title": "Nothing在华发布耳机与手机新品，坚持设计优先策略",
         "link": "https://36kr.com/p/3733553048256518?f=rss",
-        "summary": "Nothing在上海发布新款头戴耳机和手机，耳机定价1299元，显示出对中国市场的持续投入。",
-        "comment": "在性能过剩的背景下，以设计差异化切入市场是明智之举。",
+        "summary": "Nothing在上海发布头戴式耳机Headphone(a)和智能手机Phone(4a)系列，耳机首销价1299元，手机起售价未公布，显示其对中国市场的持续投入。",
+        "comment": "在性能过剩时代，以设计差异化切入市场是明智选择。",
         "image": "",
         "score": 93
       },
       {
         "category": "数码科技",
-        "tag": "人工智能",
+        "tag": "AI Agent",
         "title": "AI Agent最佳落地容器是汽车",
         "link": "https://www.ifanr.com/1658243?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章指出，AI Agent的真正价值不在于训练人成为机器操作员，而在于其应用场景，并认为汽车是目前最佳的落地容器。",
-        "comment": "观点聚焦于具体应用，为AI Agent发展提供了务实方向。",
+        "summary": "文章指出AI Agent不应将人训练为机器操作员，汽车是目前最佳落地场景。",
+        "comment": "汽车作为复杂移动空间，确实适合AI Agent深度整合。",
         "image": "",
         "score": 91
       },
       {
         "category": "时事热点",
-        "tag": "美伊关系",
-        "title": "特朗普面临伊朗问题决策困境，美方评估强硬选项",
+        "tag": "国际关系",
+        "title": "特朗普面临伊朗问题决策困境",
         "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-        "summary": "特朗普总统声称战争即将结束的言论与地面现实不符，美国正权衡对伊朗的强硬政策选项。",
-        "comment": "美伊紧张局势持续，特朗普表态与现实存在明显差距。",
+        "summary": "特朗普总统声称战争即将结束的言论与地面现实不符，美国正评估对伊朗的强硬选项。",
+        "comment": "美伊紧张局势持续，总统表态与现实存在明显差距。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "古巴",
-        "title": "古巴一周内第二次全国大停电，燃料封锁加剧困境",
+        "title": "古巴一周内第二次全国大停电 燃料封锁加剧困境",
         "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-        "summary": "古巴电力系统一周内第二次完全瘫痪，凸显美国燃料封锁下的能源危机。",
-        "comment": "基础设施脆弱性在外部压力下暴露无遗。",
+        "summary": "古巴一周内第二次全国大停电，电网完全瘫痪，凸显美国燃料封锁下的能源困境。",
+        "comment": "燃料封锁加剧古巴能源危机，基础设施脆弱性暴露无遗。",
         "image": "",
         "score": 87
       },
@@ -48,7 +58,7 @@
         "title": "美前FBI局长穆勒去世，曾主导特朗普通俄门调查",
         "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
         "summary": "曾主导调查2016年美国大选涉嫌俄罗斯干预事件的前联邦调查局局长罗伯特·穆勒去世，享年81岁。",
-        "comment": "关键调查人物离世，相关政治争议或将再被审视。",
+        "comment": "关键调查者离世，通俄门事件再引关注。",
         "image": "",
         "score": 86
       }
