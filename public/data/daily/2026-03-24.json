@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "芯片",
-        "title": "Arm发布35年来首款自研芯片，Meta为首位客户",
+        "title": "Arm发布35年来首款自研芯片，Meta为首个客户",
         "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
-        "summary": "Arm首次自行设计并生产CPU，该芯片是与Meta合作开发，Meta也是其首位客户。",
-        "comment": "芯片设计巨头下场造芯，行业垂直整合趋势加剧。",
+        "summary": "Arm首次自主生产CPU，该芯片是与Meta合作开发，Meta也是其首个客户。",
+        "comment": "Arm自研芯片或重塑移动计算生态。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "人工智能",
         "title": "Anthropic为Claude Code增加自主性，但仍保留安全约束",
         "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-        "summary": "Anthropic推出Claude Code自动模式，允许AI执行任务时减少人工审批，体现了行业在追求效率与安全平衡下向更自主工具发展的趋势。",
-        "comment": "在AI自主性与安全控制之间寻求平衡是行业关键挑战。",
+        "summary": "Anthropic推出Claude Code自动模式，允许AI执行任务时减少人工审批，反映行业在平衡效率与安全的前提下向更自主工具发展的趋势。",
+        "comment": "在安全框架内谨慎推进AI自主性，是当前行业务实的选择。",
         "image": "",
         "score": 99
       },
@@ -28,7 +28,7 @@
         "title": "Spotify测试新工具防止AI作品冒名真实艺人",
         "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
         "summary": "Spotify正在测试新工具，让艺人能控制哪些曲目与其名字关联，旨在阻止AI生成内容被错误归因于真实艺术家。",
-        "comment": "平台主动治理AI冒名乱象，是保护创作者权益的必要举措。",
+        "comment": "平台主动治理AI冒名问题，体现行业责任意识。",
         "image": "",
         "score": 99
       },
@@ -37,27 +37,37 @@
         "tag": "人工智能",
         "title": "Databricks收购两家初创公司以加强AI安全产品",
         "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
-        "summary": "Databricks近期融资50亿美元后，收购了Antimatter和SiftD.ai两家安全初创公司，旨在强化其AI安全产品LakeWatch的底层能力。",
-        "comment": "资本驱动下，AI安全领域的整合正在加速。",
+        "summary": "Databricks近期融资50亿美元后，收购了Antimatter和SiftD.ai两家初创公司，以支持其新的AI安全产品开发。",
+        "comment": "资本驱动下，AI安全领域整合加速。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能安全",
+        "title": "OpenAI发布开源工具助开发者保障青少年AI安全",
+        "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+        "summary": "OpenAI推出开源工具包，为开发者提供现成的安全策略框架，帮助其在AI应用中内置青少年保护机制，无需从零开始设计安全方案。",
+        "comment": "开源安全工具降低合规门槛，但实际效果取决于落地执行。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI发布开源工具助力开发者保障青少年AI安全",
-        "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
-        "summary": "OpenAI推出开源工具包，为开发者提供现成的安全策略与实施方案，帮助其在AI产品中加强对青少年用户的保护，避免从零开始构建安全体系。",
-        "comment": "开源安全工具降低开发门槛，有望推动行业青少年保护标准普及。",
+        "title": "OpenAI关闭Sora应用，AI社交应用遇冷",
+        "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+        "summary": "尽管Sora 2视频与音频生成模型技术令人印象深刻，但纯AI社交信息流未能维持用户持续兴趣，导致应用关闭。",
+        "comment": "技术惊艳不等于产品成功，市场验证仍是关键。",
         "image": "",
-        "score": 99
+        "score": 97
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
         "title": "谷歌电视将推出三项Gemini新功能",
         "link": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
-        "summary": "谷歌电视将引入三项由Gemini驱动的新功能，包括视觉化回答、深度内容探索和体育赛事简报，旨在提升用户获取信息的体验。",
+        "summary": "谷歌电视将引入三项由Gemini驱动的新功能，包括视觉化回答、深度内容探索和体育赛事简报，旨在提升智能电视的交互体验。",
         "comment": "AI助手正从手机向家庭大屏场景渗透。",
         "image": "",
         "score": 97
@@ -65,20 +75,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI关闭Sora应用，AI社交应用遇冷",
-        "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-        "summary": "OpenAI宣布关闭其视频与音频生成模型Sora 2驱动的独立应用，原因是该AI专属社交信息流未能维持用户长期兴趣。",
-        "comment": "技术惊艳不等于产品成功，AI应用需找准真实需求。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
         "title": "肯塔基州农场主拒绝2600万美元数据中心收购案",
         "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
-        "summary": "某人工智能巨头出价2600万美元欲收购肯塔基州一处农场建设数据中心，遭农场主拒绝。",
-        "comment": "土地价值与科技扩张的冲突日益显现。",
+        "summary": "一家大型人工智能公司出价2600万美元，欲收购肯塔基州一处农场建设数据中心，但被农场主拒绝。",
+        "comment": "土地价值与科技扩张的冲突日益凸显。",
         "image": "",
         "score": 96
       },
@@ -87,8 +87,8 @@
         "tag": "人工智能",
         "title": "OpenAI放弃ChatGPT即时购物功能，电商化尝试遇挫",
         "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
-        "summary": "OpenAI宣布将停止Instant Checkout功能，该功能允许用户直接通过ChatGPT界面购买商品，标志着其电商化探索受阻。",
-        "comment": "AI工具盲目扩展商业功能可能偏离核心价值。",
+        "summary": "OpenAI宣布将停止Instant Checkout功能，该功能允许用户直接通过ChatGPT界面购买商品，标志着其电商化尝试受阻。",
+        "comment": "AI工具盲目扩展电商功能可能偏离核心定位。",
         "image": "",
         "score": 96
       },
@@ -97,120 +97,30 @@
         "tag": "手机评测",
         "title": "一加15T深度评测：小屏旗舰性能影像双突破",
         "link": "https://36kr.com/p/3737032976220167?f=rss",
-        "summary": "一加15T在延续前代强悍性能与续航基础上，补齐影像短板，实现小屏直板旗舰在性能、电池、影像三大维度的全面突破。",
-        "comment": "小屏旗舰的形态趋于圆满，但市场考验才刚开始。",
+        "summary": "一加15T在延续前代强悍性能与续航基础上，重点补强影像系统，实现小屏旗舰在性能与影像上的双重突破，解决了上代产品的遗憾。",
+        "comment": "小屏旗舰的完成度之作，性能与影像终于得以兼顾。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "腾讯挖角字节Seed骨干，强化大模型基础设施",
-        "link": "https://36kr.com/p/3736935323254785?f=rss",
-        "summary": "腾讯自姚顺雨加入后持续加码基础模型，2025年从字节跳动挖来多位技术骨干，包括原Seed视觉AI平台负责人肖学锋和Infra团队张弛，负责大模型基础设施工作。",
-        "comment": "人才争夺战加剧，大模型基础设施成竞争焦点。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "小米AI投入将超160亿，蜜雪冰城营收大增，汇丰设首席AI官",
-        "link": "https://36kr.com/p/3736886988374024?f=rss",
-        "summary": "小米集团卢伟冰称今年AI领域研发与资本投入预计超160亿元。蜜雪集团2025年营收335.6亿元，同比增长35.2%。汇丰银行任命了首位首席人工智能官。",
-        "comment": "头部企业正以前所未有的力度押注AI，行业竞争进入新阶段。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "人工智能",
-        "title": "OpenAI关闭Sora视频生成应用，迪士尼退出投资协议",
-        "link": "https://www.ign.com/articles/openai-shuts-down-sora-generative-video-app-disney-pulls-out-of-investment-and-licensing-deal",
-        "summary": "OpenAI宣布关闭其视频生成应用Sora，迪士尼因此退出了此前达成的10亿美元投资与授权协议。",
-        "comment": "生成式视频应用的商业化之路再遇重大挫折。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/24/openai-sora-thumb-1774387263604.jpg",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威",
-        "title": "《蜘蛛侠：崭新之日》预告展现MCU反派与义警云集",
-        "link": "https://www.ign.com/articles/spider-man-brand-new-day-shows-we-finally-have-an-mcu-full-of-villains-and-vigilantes",
-        "summary": "根据预告片，《蜘蛛侠：崭新之日》将呈现一个充满反派、义警与英雄的漫威电影宇宙。",
-        "comment": "MCU反派宇宙初具规模，蜘蛛侠面临更复杂环境。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/24/spider-villains-thumb-1774385458592.jpg",
-        "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "索尼",
-        "title": "索尼关闭合作工作室Dark Outlaw Games",
+        "title": "索尼关闭第一方合作工作室Dark Outlaw Games",
         "link": "https://www.ign.com/articles/playstation-reportedly-shuts-down-another-first-party-partner-studio",
-        "summary": "据报道，PlayStation已关闭合作工作室Dark Outlaw Games，该工作室此前受雇开发一款未公开的第一方游戏，同时索尼还裁减了其他一些人员。",
-        "comment": "索尼持续收缩第一方合作，行业整合趋势明显。",
+        "summary": "据报道，PlayStation已关闭第一方合作工作室Dark Outlaw Games，该工作室此前受雇开发一款未公开的第一方游戏，同时还有其他人员被裁。",
+        "comment": "索尼近期持续收缩第一方合作，行业整合趋势明显。",
         "image": "https://assets-prd.ignimgs.com/2023/07/19/playstation-5-ps5-logo-head-banner-3-0900954728-zj6f-1689788119000.jpg",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "鸿蒙智行",
-        "title": "鸿蒙智行9款新车发布，尚界Z7起价22.98万元",
-        "link": "https://www.ifanr.com/1659382?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "鸿蒙智行品牌集中发布9款新车，其中尚界Z7同步亮相，起售价为22.98万元。",
-        "comment": "产品线密集发布，市场竞争将加剧。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "华为",
-        "title": "华为Mate 80 Pro Max风驰版发布，主打全性能旗舰",
-        "link": "https://www.ifanr.com/1659520?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为推出Mate 80 Pro Max风驰版，定位鸿蒙生态下的高端性能旗舰手机。",
-        "comment": "产品力升级明显，但市场竞争依然激烈。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威争锋",
-        "title": "《漫威争锋》暂不加入原创角色，因漫威角色已足够丰富",
-        "link": "https://www.ign.com/articles/marvel-rivals-devs-wont-introduce-original-characters-anytime-soon-because-there-are-simply-too-many-marvel-characters-already",
-        "summary": "网易游戏表示，随着更多可玩英雄加入《漫威争锋》，他们不担心平衡性问题，但近期不会引入任何原创角色，因为现有漫威角色库已非常庞大。",
-        "comment": "聚焦现有IP角色是明智之举，有助于维持游戏特色与玩家认知。",
-        "image": "https://assets-prd.ignimgs.com/2024/07/25/marvelrivals-blogroll-1721939839505.jpg",
-        "score": 91
+        "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "Xbox",
         "title": "Xbox新CEO拟降低Game Pass订阅价格",
         "link": "https://www.ign.com/articles/xboxs-new-ceo-reportedly-wants-to-make-game-pass-more-affordable",
-        "summary": "Xbox新任CEO Asha Sharma在GDC会议后，据称正考虑调整Game Pass定价策略，旨在提升服务可及性。",
-        "comment": "价格调整或为应对订阅增长放缓，需平衡收入与用户扩张。",
+        "summary": "Xbox新任CEO Asha Sharma在GDC会议后，据称正考虑调整Game Pass定价策略，旨在提升订阅服务的可负担性。",
+        "comment": "价格调整或为应对市场竞争与用户增长压力。",
         "image": "https://assets-prd.ignimgs.com/2023/10/11/game-pass-deal-ign-prime-day-2-2023-new-october-1697037530962.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威",
-        "title": "《漫威争锋》开发者知晓《复仇者联盟：末日》剧情",
-        "link": "https://www.ign.com/articles/marvel-rivals-devs-know-what-we-can-know-about-what-happens-in-avengers-doomsday",
-        "summary": "《漫威争锋》游戏开发者表示，他们知晓《复仇者联盟：末日》电影中“可以知道”的剧情内容，该片预计是MCU第六阶段的高潮结局。",
-        "comment": "游戏与影视的联动日益紧密，信息共享成为常态。",
-        "image": "https://assets-prd.ignimgs.com/2026/01/16/avengersdoomsday-lob-mas-mob-02-1768593820012.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "球鞋发售",
-        "title": "Foot Locker 发售德文·布克二代战靴及AJ1中帮特别版",
-        "link": "https://www.ign.com/articles/foot-locker-basketball-shoes-lineup-air-jordans-nike-march-2026",
-        "summary": "Foot Locker 上架耐克德文·布克二代男子篮球鞋与Air Jordan 1 Mid SE，融合经典篮球底蕴与现代街头风格。",
-        "comment": "运动品牌联名与限量发售仍是市场重要营销策略。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/24/air-jordans-copy-1774386303921.png",
-        "score": 91
+        "score": 92
       },
       {
         "category": "游戏影视",
@@ -218,57 +128,57 @@
         "title": "索尼关闭前COD开发者工作室，PlayStation整体裁员",
         "link": "https://www.gamespot.com/articles/sony-shuts-down-former-cod-devs-studio-amid-wider-cuts/1100-6538989/?ftag=CAD-01-10abi2f",
         "summary": "由前《使命召唤》开发者Jason Blundell创立的Dark Outlaw Games工作室已关闭，这是索尼PlayStation部门更大范围裁员的一部分。",
-        "comment": "行业整合加剧，中小型工作室面临生存压力。",
+        "comment": "行业整合加剧，中小型工作室面临严峻挑战。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4669990-screenshot2026-03-24at2.19.19%E2%80%AFpm.png",
-        "score": 90
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "一加",
+        "title": "一加15T发布：小屏旗舰新模板，顶配性能长续航",
+        "link": "https://www.ifanr.com/1659632?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "一加15T小屏旗舰发布，主打顶配性能与长续航，起售价4299元。",
+        "comment": "小屏旗舰市场再添有力竞争者，性能续航组合亮眼。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "鸿蒙智行",
+        "title": "鸿蒙智行9款新车发布，尚界Z7同步亮相",
+        "link": "https://www.ifanr.com/1659382?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "鸿蒙智行发布9款新车，包括尚界Z7，起售价22.98万元。",
+        "comment": "产品线密集发布，市场竞争加剧。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "迪士尼",
-        "title": "迪士尼游戏高管谈市场巨变与未来规划",
-        "link": "https://www.gamespot.com/articles/disney-gaming-boss-on-massive-disruption-in-games-and-whats-coming-next/1100-6538983/?ftag=CAD-01-10abi2f",
-        "summary": "迪士尼游戏业务负责人肖恩·肖普托称游戏市场正经历“大规模颠覆”，并阐述了公司在该领域的战略愿景。",
-        "comment": "传统娱乐巨头正积极应对游戏行业的结构性变化。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4669957-screenshot2026-03-24at1.58.02%E2%80%AFpm.png",
-        "score": 90
+        "tag": "游戏",
+        "title": "《漫威争锋》暂不推出原创角色，因漫威角色已足够丰富",
+        "link": "https://www.ign.com/articles/marvel-rivals-devs-wont-introduce-original-characters-anytime-soon-because-there-are-simply-too-many-marvel-characters-already",
+        "summary": "网易游戏表示，随着更多可玩英雄加入《漫威争锋》阵容，他们并不担心平衡性问题，但近期不会推出任何原创角色。",
+        "comment": "明智之举，聚焦现有IP能降低风险并吸引核心粉丝。",
+        "image": "https://assets-prd.ignimgs.com/2024/07/25/marvelrivals-blogroll-1721939839505.jpg",
+        "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《鬼泣》动画第二季预告发布，5月12日上线",
+        "tag": "鬼泣",
+        "title": "《鬼泣》动画第二季预告发布，5月12日上线Netflix",
         "link": "https://www.gamespot.com/articles/new-devil-may-cry-season-2-trailer-wastes-no-time-giving-fans-what-they-want/1100-6538986/?ftag=CAD-01-10abi2f",
-        "summary": "Netflix《鬼泣》动画第二季将于5月12日上线，新预告片迅速呈现粉丝期待内容，延续首季风格。",
-        "comment": "预告精准回应粉丝期待，续作热度可期。",
+        "summary": "Netflix《鬼泣》动画第二季发布新预告，将于5月12日上线。预告延续上季风格，快速呈现粉丝期待的战斗与角色场面。",
+        "comment": "预告精准迎合核心粉丝，系列热度有望延续。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4669946-dmc-s2.jpg",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《收获日》系列推出VR新作《收获日：王牌出击》",
-        "link": "https://www.gamespot.com/articles/the-newest-payday-game-is-unexpected-and-i-hope-its-better-than-payday-3/1100-6538956/?ftag=CAD-01-10abi2f",
-        "summary": "《收获日》系列宣布推出VR平台新作《收获日：王牌出击》，这是继《收获日3》发售后首款新作，备受期待。",
-        "comment": "VR能否扭转《收获日3》口碑不佳的局面，值得关注。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1849/18498836/4669510-keyart.jpg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PC掌机",
-        "title": "内存成本上涨冲击PC掌机市场，首款产品已受影响",
-        "link": "https://www.gamespot.com/articles/the-rampocalypse-is-already-claiming-its-first-pc-gaming-handheld/1100-6538982/?ftag=CAD-01-10abi2f",
-        "summary": "受内存和存储成本上涨影响，PC掌机市场出现价格波动，已有品牌因成本压力调整产品规格或售价。",
-        "comment": "供应链成本传导至消费端，新兴硬件品类面临早期挑战。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4669907-ayaneo-next-2.jpg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界》发布怀旧音乐MV，与歌手Aurora合作",
+        "title": "《魔兽世界》发布怀旧音乐MV，携手歌手Aurora",
         "link": "https://www.gamespot.com/articles/official-world-of-warcraft-music-video-is-a-walk-down-memory-lane/1100-6538991/?ftag=CAD-01-10abi2f",
-        "summary": "《魔兽世界》发布与歌手Aurora合作的全新音乐视频《A Place to Call》，回顾游戏22年历程，唤起玩家集体记忆。",
-        "comment": "经典IP通过音乐进行情感营销，有效维系核心玩家社群。",
+        "summary": "《魔兽世界》发布与歌手Aurora合作的全新音乐MV《A Place to Call》，回顾游戏22年历程，唤起玩家集体记忆。",
+        "comment": "经典IP通过音乐进行情感营销，有效维系玩家社群。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4670007-wowmusicvideo.jpg",
         "score": 89
       },
@@ -277,9 +187,19 @@
         "tag": "游戏",
         "title": "《无尽的任务：传奇》为没时间没队友的玩家提供解决方案",
         "link": "https://www.gamespot.com/articles/no-time-or-friends-for-an-mmo-everquest-legends-has-a-solution/1100-6538990/?ftag=CAD-01-10abi2f",
-        "summary": "经典MMORPG《无尽的任务》推出新作《传奇》，旨在解决玩家因时间不足或缺乏队友而难以在重度游戏中取得进展的问题。",
-        "comment": "经典IP试图通过降低门槛来吸引现代玩家。",
+        "summary": "经典MMORPG《无尽的任务》推出新作《传奇》，旨在解决原版游戏耗时过长、需要大量队友协作的痛点，为现代玩家提供更便捷的体验。",
+        "comment": "经典IP顺应快节奏时代需求的明智尝试。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4669991-everquestlegendsannounced.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "迪士尼",
+        "title": "迪士尼游戏高管谈市场巨变与未来规划",
+        "link": "https://www.gamespot.com/articles/disney-gaming-boss-on-massive-disruption-in-games-and-whats-coming-next/1100-6538983/?ftag=CAD-01-10abi2f",
+        "summary": "迪士尼游戏业务负责人肖恩·肖普托称游戏市场正经历“大规模颠覆”，并阐述了公司在该领域的战略愿景与后续计划。",
+        "comment": "传统娱乐巨头正积极应对游戏行业的结构性变化。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4669957-screenshot2026-03-24at1.58.02%E2%80%AFpm.png",
         "score": 89
       },
       {
@@ -295,9 +215,9 @@
       {
         "category": "游戏影视",
         "tag": "Xbox",
-        "title": "新CEO叫停Xbox宣传项目，内部决策曝光",
+        "title": "新CEO叫停Xbox宣传项目，内部报告披露决策细节",
         "link": "https://www.gamespot.com/articles/killing-this-is-an-xbox-campaign-was-new-ceos-decision-report/1100-6538987/?ftag=CAD-01-10abi2f",
-        "summary": "据The In报道，微软新上任的CEO Asha Sharma主导了终止“This is an Xbox”宣传活动的决定，该项目此前已悄然停止。",
+        "summary": "据The In报道，微软新任CEO Asha Sharma主导终止了“This is an Xbox”宣传活动，该项目此前已低调停止。",
         "comment": "新官上任调整市场策略，反映品牌方向可能生变。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4669947-xboxes.jpg",
         "score": 89
@@ -305,50 +225,60 @@
       {
         "category": "游戏影视",
         "tag": "游戏更新",
-        "title": "Hello Kitty新DLC转向都市风格，减少温馨元素",
+        "title": "《Hello Kitty：岛屿冒险》新DLC转向都市风格",
         "link": "https://www.gamespot.com/articles/hello-kitty-island-adventures-next-dlc-focuses-less-on-coziness-more-on-fun/1100-6538984/?ftag=CAD-01-10abi2f",
-        "summary": "Hello Kitty: Island Adventure即将推出新DLC，主题从温馨转向都市风格，开发商Sunblink与Sanrio已公布发布日期。",
-        "comment": "系列风格转变值得关注，可能吸引新玩家群体。",
+        "summary": "《Hello Kitty：岛屿冒险》新DLC公布发布日期，将减少温馨元素，增加都市风格与趣味性。",
+        "comment": "风格转变或为吸引更广泛玩家群体。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4669936-arcade_16x9.png",
         "score": 89
       },
       {
-        "category": "数码科技",
-        "tag": "一加",
-        "title": "一加15T发布：小屏旗舰新模板，顶配性能长续航",
-        "link": "https://www.ifanr.com/1659632?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "一加15T小屏旗舰发布，起售价4299元，主打顶配性能与长续航组合。",
-        "comment": "小屏旗舰市场再添有力竞争者，性能续航组合亮眼。",
-        "image": "",
-        "score": 88
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《收获日》系列推出VR新作《收获日：王牌出击》",
+        "link": "https://www.gamespot.com/articles/the-newest-payday-game-is-unexpected-and-i-hope-its-better-than-payday-3/1100-6538956/?ftag=CAD-01-10abi2f",
+        "summary": "《收获日》系列宣布推出VR平台新作《收获日：王牌出击》，这是继《收获日3》令人失望的发售后，该系列的首款新游戏。",
+        "comment": "VR能否扭转《收获日3》带来的口碑颓势，有待观察。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1849/18498836/4669510-keyart.jpg",
+        "score": 89
       },
       {
-        "category": "数码科技",
-        "tag": "AI工具",
-        "title": "别急着年付AI会员，先磨合使用习惯",
-        "link": "https://www.ifanr.com/1658521?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "作者分享与AI工具的关系磨合经历，建议用户先充分体验再决定是否长期付费，避免冲动消费。",
-        "comment": "理性消费AI服务，试用比年付更明智。",
-        "image": "",
-        "score": 88
+        "category": "游戏影视",
+        "tag": "PC掌机",
+        "title": "内存成本上涨冲击PC掌机市场，首款产品已受影响",
+        "link": "https://www.gamespot.com/articles/the-rampocalypse-is-already-claiming-its-first-pc-gaming-handheld/1100-6538982/?ftag=CAD-01-10abi2f",
+        "summary": "受内存和存储成本上涨影响，PC掌机市场出现价格波动，已有产品因此调整配置或售价，行业面临成本压力。",
+        "comment": "供应链波动正迅速传导至消费终端，新兴硬件市场尤为敏感。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4669907-ayaneo-next-2.jpg",
+        "score": 89
       },
       {
         "category": "时事热点",
         "tag": "俄乌冲突",
-        "title": "俄罗斯24小时内向乌克兰发射948架无人机创纪录",
+        "title": "俄军24小时内对乌发动948架无人机袭击创纪录",
         "link": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰多地城市遭袭，当地官员报告至少8人死亡、数十人受伤。这是24小时内最大规模的无人机攻击。",
-        "comment": "无人机攻击规模创纪录，显示冲突烈度持续升级。",
+        "summary": "乌克兰多地遭袭，当地官员称至少8人死亡、数十人受伤，系24小时内最大规模无人机攻击。",
+        "comment": "无人机消耗战持续升级，凸显战场技术对抗新维度。",
         "image": "",
         "score": 88
       },
       {
+        "category": "游戏影视",
+        "tag": "三星",
+        "title": "三星新款Mini LED电视进军平价市场",
+        "link": "https://www.ign.com/articles/samsung-reaches-into-budget-territory-with-its-latest-mini-led-tvs",
+        "summary": "三星发布新款Mini LED电视，旨在降低价格门槛，让更多消费者能体验该显示技术。",
+        "comment": "高端技术下放，有望加速Mini LED普及。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/24/samsung-tvs-thumbnail-1774389812084.jpg",
+        "score": 87
+      },
+      {
         "category": "时事热点",
-        "tag": "伊朗局势",
+        "tag": "国际冲突",
         "title": "伊朗冲突显示国际冲突规范已被颠覆",
         "link": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
         "summary": "美国威胁能源基础设施，伊朗对海湾邻国进行报复，标志着国际冲突规则发生明显变化。",
-        "comment": "中东地缘政治格局正面临深刻重塑。",
+        "comment": "中东地缘政治格局正经历深刻重塑。",
         "image": "",
         "score": 87
       },
@@ -364,43 +294,13 @@
       },
       {
         "category": "时事热点",
-        "tag": "中东局势",
-        "title": "以色列宣布将在黎巴嫩南部建立大型缓冲区",
-        "link": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列国防部长表示，在以色列北部安全得到保障前，数千名流离失所的黎巴嫩居民将不被允许返回家园。",
-        "comment": "此举可能加剧地区紧张局势，引发人道主义关切。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电视",
-        "title": "三星新款Mini LED电视进军平价市场",
-        "link": "https://www.ign.com/articles/samsung-reaches-into-budget-territory-with-its-latest-mini-led-tvs",
-        "summary": "三星发布新款Mini LED电视，旨在降低价格门槛，让更多消费者体验该显示技术。",
-        "comment": "高端技术下放，有望加速Mini LED普及。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/24/samsung-tvs-thumbnail-1774389812084.jpg",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际贸易",
-        "title": "澳大利亚与欧盟签署全面贸易安全协议",
-        "link": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
-        "summary": "经过多年谈判，澳大利亚与欧盟正式签署涵盖贸易与安全的全面合作协议，以应对全球不确定性。",
-        "comment": "跨区域经贸合作在动荡时期更具战略意义。",
+        "tag": "航空事故",
+        "title": "纽约拉瓜迪亚机场坠机事故飞行员身份公布",
+        "link": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+        "summary": "调查人员公布坠机前最后三分钟驾驶舱与塔台通话记录，显示塔台曾同时允许涉事飞机与一辆消防车穿越跑道。",
+        "comment": "跑道侵入风险再次引发航空安全警示。",
         "image": "",
         "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "娱乐人物",
-        "title": "《一见钟情》婚恋导师梅尔·席林去世，享年54岁",
-        "link": "https://www.bbc.com/news/articles/c8ejk0z430jo?at_medium=RSS&at_campaign=rss",
-        "summary": "英国婚恋真人秀《一见钟情》导师梅尔·席林因病去世，享年54岁，节目组与亲友称其为“真正神奇的女性”。",
-        "comment": "知名婚恋节目导师早逝，引发行业与观众追思。",
-        "image": "",
-        "score": 83
       }
     ]
   }
