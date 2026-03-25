@@ -3,113 +3,13 @@
     "week": "周一",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "苹果",
-        "title": "苹果WWDC 2026定档6月，预告AI重大进展",
-        "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-        "summary": "苹果宣布将于6月8日当周举办全球开发者大会，预计将发布Siri的重大更新，引入先进AI功能。",
-        "comment": "苹果在AI领域的追赶步伐正在加快。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Air Street Capital 募资2.32亿美元，成欧洲最大独立风投之一",
-        "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-        "summary": "伦敦Air Street Capital完成第三轮大规模募资，总额2.32亿美元，将专注于投资欧美早期人工智能公司。",
-        "comment": "巨额资金涌入，显示欧洲AI初创生态正获得强劲资本支持。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Gimlet Labs获8000万美元融资，解决AI推理瓶颈",
-        "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-        "summary": "初创公司Gimlet Labs完成8000万美元A轮融资，其技术能让AI同时运行在英伟达、AMD、英特尔、ARM、Cerebras和d-Matrix等多种芯片上。",
-        "comment": "跨平台推理技术有望降低AI算力成本与依赖。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Littlebird获1100万美元融资，开发实时读取屏幕的AI助手",
-        "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-        "summary": "Littlebird开发实时读取屏幕的AI工具，可捕捉上下文、回答问题并自动化任务，无需依赖截图。",
-        "comment": "AI正从被动响应转向主动感知用户环境。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "沃伦批五角大楼将Anthropic列为供应链风险是报复行为",
-        "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-        "summary": "参议员沃伦致信国防部长，称国防部将AI公司Anthropic标记为供应链风险是报复行为，认为此举缺乏正当理由且损害创新。",
-        "comment": "AI监管与国防安全间的博弈日趋公开化。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "奥特曼退出核聚变公司董事会，OpenAI拟购其电力",
-        "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
-        "summary": "OpenAI首席执行官山姆·奥特曼已卸任核聚变初创公司Helion的董事会主席。双方正谈判一项协议，Helion拟向OpenAI出售其12.5%的电力产出。",
-        "comment": "AI巨头布局能源供应链，预示行业对算力能耗的前瞻性担忧。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AI编程初创公司Lovable寻求收购机会",
-        "link": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
-        "summary": "快速增长的AI编程初创公司Lovable正在寻找初创公司和团队加入，创始人表示公司正在积极寻求收购机会。",
-        "comment": "AI编程赛道整合加速，初创公司通过收购扩张生态。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "桑德斯AI“钓鱼”视频翻车，但衍生梗图走红",
-        "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-        "summary": "美国参议员桑德斯试图用“钓鱼”问题让AI助手Claude揭露行业秘密，结果只证明了聊天机器人倾向于迎合用户，相关梗图在网络上广泛传播。",
-        "comment": "政治人物对AI的误解，反成网络迷因素材。",
-        "image": "",
-        "score": 96
-      },
-      {
         "category": "数码科技",
         "tag": "芯片",
         "title": "马斯克计划自研芯片，推进太空探索",
         "link": "https://www.ifanr.com/1659363?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "马斯克旗下公司计划自主研发芯片，以支持其太空探索和星际互联网项目，减少对外部供应商依赖。",
-        "comment": "自研芯片是降低成本和掌控核心技术的战略举措。",
+        "comment": "自研芯片是降低成本和掌控技术的关键一步。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "《生化危机：安魂曲》终结系列过往设定以开启新篇章",
-        "link": "https://www.gamespot.com/articles/resident-evil-requiem-kills-the-past-so-the-series-can-move-forward/1100-6538964/?ftag=CAD-01-10abi2f",
-        "summary": "文章深度解析《生化危机：安魂曲》如何通过剧情设计终结系列长期积累的设定包袱，为未来作品开辟新的叙事方向。",
-        "comment": "系列重启的果断尝试，但成败取决于新故事的构建能力。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1581/15811374/4669541-resident_evil_requiem_-_screenshot_13%281%29.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "人工智能",
-        "title": "Square Enix与谷歌合作，在《勇者斗恶龙X》中引入AI史莱姆助手",
-        "link": "https://www.gamespot.com/articles/square-enix-is-turning-slimes-into-ai-chatbots-in-dragon-quest-x/1100-6538960/?ftag=CAD-01-10abi2f",
-        "summary": "史克威尔艾尼克斯与谷歌合作，在仅限日本运营的MMO《勇者斗恶龙X》中，利用Gemini AI技术，将游戏中的史莱姆角色转变为能为玩家提供建议和引导的聊天机器人。",
-        "comment": "AI与经典游戏IP结合，探索游戏内交互与辅助的新形态。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15853545/4669522-5207862721-4XDOt.jpg",
         "score": 92
       },
       {
@@ -117,60 +17,10 @@
         "tag": "聊天软件",
         "title": "OpenClaw让聊天软件变身微信式平台",
         "link": "https://www.ifanr.com/1656512?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenClaw为Telegram、飞书等聊天软件提供超级接口，使其具备类似微信的扩展能力，引发平台功能竞争。",
+        "summary": "OpenClaw为Telegram、飞书等聊天软件提供超级接口能力，使其具备类似微信的扩展功能，引发平台生态竞争。",
         "comment": "聊天软件平台化竞争加剧，接口开放成新战场。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏促销",
-        "title": "《万智牌》蜘蛛侠礼盒亚马逊降价30美元",
-        "link": "https://www.gamespot.com/articles/the-magic-the-gathering-spider-man-gift-bundle-is-30-off-at-amazon/1100-6538962/?ftag=CAD-01-10abi2f",
-        "summary": "《万智牌》漫威蜘蛛侠系列礼盒在亚马逊限时优惠30美元，该系列于去年9月推出，属于跨界联动产品。",
-        "comment": "跨界联动产品促销，适合收藏玩家入手。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4669629-spider-manmtgbox.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "《神秘海域》演员诺兰·诺斯将主演电竞选手恋爱电影",
-        "link": "https://www.gamespot.com/articles/uncharted-actor-to-star-in-romance-movie-about-competitive-gamers-who-catch-feelings/1100-6538961/?ftag=CAD-01-10abi2f",
-        "summary": "流媒体平台Tubi宣布制作青少年恋爱电影《Game On》，由《神秘海域》系列演员诺兰·诺斯主演，讲述竞技游戏选手间的感情故事。",
-        "comment": "电竞题材与浪漫喜剧结合，拓展游戏影视边界。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4669526-screenshot2026-03-23at3.58.40%E2%80%AFpm.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏停服",
-        "title": "《战地：硬仗》主机版即将停服",
-        "link": "https://www.gamespot.com/articles/one-of-the-most-controversial-battlefield-games-is-shutting-down-on-consoles-soon/1100-6538954/?ftag=CAD-01-10abi2f",
-        "summary": "EA宣布，2015年发售、以警匪对抗为主题的《战地：硬仗》主机版服务器将于近期关闭，PC版不受影响。",
-        "comment": "争议之作终迎落幕，系列回归军事主线的必然。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4669513-screenshot2026-03-23at2.58.24%E2%80%AFpm.png",
-        "score": 89
-      },
-      {
-        "category": "数码科技",
-        "tag": "薪酬体系",
-        "title": "公司发Token当工资，KPI是烧光它",
-        "link": "https://www.ifanr.com/1659342?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨了公司用Token作为员工薪酬，并设定消耗Token为KPI的新型管理模式。",
-        "comment": "以Token为薪酬和KPI，折射出数字时代管理模式的激进实验。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "航空事故",
-        "title": "纽约拉瓜迪亚机场两飞行员坠机遇难，目击者称飞机似被切断",
-        "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-        "summary": "纽约拉瓜迪亚机场发生两架飞机地面相撞事故，导致两名飞行员死亡。目击者描述撞击剧烈，飞机“像被切成两半”。美国国家运输安全委员会已展开调查。",
-        "comment": "地面相撞致飞行员死亡，暴露机场运行安全隐忧。",
-        "image": "",
-        "score": 87
       }
     ]
   }
