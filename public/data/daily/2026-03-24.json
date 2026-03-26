@@ -3,66 +3,6 @@
     "week": "周二",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic为Claude Code增加自主性但仍保持约束",
-        "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-        "summary": "Anthropic推出Claude Code自动模式，允许AI以更少审批执行任务，反映行业在平衡速度与安全前提下向更自主工具发展的趋势。",
-        "comment": "AI自主性提升需伴随可靠的安全约束机制。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Spotify测试新工具防止AI作品冒用真实艺术家",
-        "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
-        "summary": "Spotify正在测试新工具，让艺术家能控制哪些曲目与其名字关联，旨在阻止AI生成内容被错误归因于真人艺术家。",
-        "comment": "平台主动治理AI冒名问题，是保护创作者的关键一步。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI关闭Sora应用，AI社交应用遇冷",
-        "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-        "summary": "OpenAI宣布关闭其视频生成模型Sora的独立应用，原因是作为纯AI社交内容流，未能维持用户长期兴趣。",
-        "comment": "技术惊艳不等于产品成功，市场验证仍是关键。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "肯塔基州农场主拒绝2600万美元数据中心收购案",
-        "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
-        "summary": "某人工智能巨头出价2600万美元欲收购肯塔基州一处农场建设数据中心，遭农场主拒绝。",
-        "comment": "土地价值与科技扩张的冲突日益凸显。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界》发布怀旧音乐MV，与歌手Aurora合作",
-        "link": "https://www.gamespot.com/articles/official-world-of-warcraft-music-video-is-a-walk-down-memory-lane/1100-6538991/?ftag=CAD-01-10abi2f",
-        "summary": "《魔兽世界》发布与歌手Aurora合作的全新音乐视频《A Place to Call》，回顾游戏22年历程，带领玩家重温经典记忆。",
-        "comment": "经典IP通过音乐唤起情怀，是成功的品牌情感维系。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4670007-wowmusicvideo.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《无尽的任务：传奇》为没时间没队友的玩家提供解决方案",
-        "link": "https://www.gamespot.com/articles/no-time-or-friends-for-an-mmo-everquest-legends-has-a-solution/1100-6538990/?ftag=CAD-01-10abi2f",
-        "summary": "经典MMORPG《无尽的任务》推出新作《传奇》，旨在解决原版游戏耗时过长、需要大量队友协作才能推进的痛点，为怀旧但时间有限的玩家提供新选择。",
-        "comment": "经典IP顺应现代玩家习惯的务实尝试。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4669991-everquestlegendsannounced.jpg",
-        "score": 89
-      },
-      {
         "category": "数码科技",
         "tag": "一加",
         "title": "一加15T发布：小屏旗舰新模板，顶配性能长续航",
