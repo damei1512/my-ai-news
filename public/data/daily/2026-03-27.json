@@ -3,22 +3,122 @@
     "week": "周五",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Anthropic获法院禁令，特朗普政府对AI公司限制被叫停",
+        "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+        "summary": "联邦法官下令特朗普政府撤销近期对人工智能公司Anthropic施加的限制措施。",
+        "comment": "司法介入为AI公司与政府监管的博弈提供了新案例。",
+        "image": "",
+        "score": 99
+      },
+      {
         "category": "数码科技",
-        "tag": "人事变动",
-        "title": "雷军辞金山云董事长，苹果回应iPhone半夜自动拨号",
-        "link": "https://36kr.com/p/3740427947426049?f=rss",
-        "summary": "雷军辞去金山云董事长职务；苹果回应iPhone夜间自动拨号问题；速效救心丸线上成交额同比增超10倍；春秋航空国内航线燃油附加费4月5日上调。",
-        "comment": "科技巨头人事变动与产品问题并存，健康消费呈现新趋势。",
+        "tag": "机器人",
+        "title": "智能庭院机器人Yarbo获近2亿元融资，众筹6小时破150万美金",
+        "link": "https://36kr.com/p/3736563677396994?f=rss",
+        "summary": "智能庭院机器人品牌汉阳科技Yarbo完成近2亿元新一轮融资，投资方包括松禾资本、温氏股份旗下资本等。资金将用于技术研发、产品迭代及全球市场拓展。",
+        "comment": "资本看好智能庭院机器人赛道，产业与财务资本结合助力全球化。",
         "image": "",
         "score": 96
       },
       {
+        "category": "数码科技",
+        "tag": "机器人",
+        "title": "知行机器人完成近亿元融资，专注灵巧手与具身智能",
+        "link": "https://36kr.com/p/3740523277517063?f=rss",
+        "summary": "知行机器人完成B+、B++轮近亿元融资，由山东威达领投。资金将用于产品研发、数据采集及全球市场拓展。公司成立于2018年，为超百家企业提供灵巧手等核心零部件。",
+        "comment": "具身智能核心部件获资本加持，机器人产业化进程加速。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "人事变动",
+        "title": "雷军辞金山云董事长，苹果回应iPhone半夜自动拨号",
+        "link": "https://36kr.com/p/3740427947426049?f=rss",
+        "summary": "雷军辞去金山云董事长职务；苹果回应iPhone夜间自动拨号问题；速效救心丸线上成交额同比增超10倍；春秋航空国内航线燃油附加费将上涨。",
+        "comment": "科技巨头人事变动与产品问题同期引发关注。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "氢能",
+        "title": "志青博材获千万元融资，推进氢能及液流电池核心材料国产化",
+        "link": "https://36kr.com/p/3740569636962566?f=rss",
+        "summary": "志青博材完成千万元天使+轮融资，由融科储能领投，资金将用于阴离子交换膜（AEM）的研发与工程化推进，以实现该核心材料的全国产化。",
+        "comment": "氢能与储能核心材料国产化获资本支持，有望降低产业成本。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "人事变动",
+        "title": "云鲸联合创始人吴一昊将离职创业",
+        "link": "https://36kr.com/p/3736574177345799?f=rss",
+        "summary": "硬氪独家获悉，云鲸联合创始人吴一昊即将离职并创业，产品处于保密阶段，其本人已证实消息。",
+        "comment": "核心高管离职创业，对云鲸未来发展构成潜在挑战。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "人工智能",
+        "title": "IGN：警惕生成式AI对游戏影视内容的侵蚀",
+        "link": "https://www.ign.com/articles/not-everything-is-slop",
+        "summary": "文章指出，不应为短期噱头而牺牲对抗生成式AI的重要工具，强调保护原创内容的价值。",
+        "comment": "提醒行业在AI浪潮中坚守内容品质底线。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/27/frogslop-1774574936839.png",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "折叠屏",
+        "title": "OPPO Find N6 宣称解决折叠屏折痕难题",
+        "link": "https://www.ifanr.com/1659997?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "OPPO Find N6 折叠屏手机发布，其宣传重点在于通过新技术解决了屏幕折痕这一行业普遍问题。",
+        "comment": "若宣传属实，将是折叠屏实用性的重要突破。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "《极限竞速：地平线5》所有限时稀有车辆已开放永久购买",
+        "link": "https://www.ign.com/articles/all-forza-horizon-5s-rare-time-limited-cars-have-been-added-for-purchase-in-game",
+        "summary": "IGN报道，《极限竞速：地平线5》此前通过限时活动获取的稀有车辆现已全部加入游戏内商店，玩家可随时购买，无需再担心错过。",
+        "comment": "此举降低了玩家的收集门槛，改善了游戏体验。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/27/forza-horizon-5-backstage-1774579120704.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "剧集评测",
+        "title": "《The Pitt》第二季第12集“6:00 PM”评测：角色心理濒临崩溃",
+        "link": "https://www.ign.com/articles/the-pitt-season-2-episode-12-600-pm-review-recap",
+        "summary": "剧集《The Pitt》本周剧情持续紧张升级，本集“6:00 PM”成功刻画了多位角色达到心理临界点的状态。",
+        "comment": "心理刻画细腻，戏剧张力持续走高。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/26/the-pitt-s2e12-blogroll-1774566421971.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影视资讯",
+        "title": "《为全人类》主角80岁登场第五季，制片人透露剧情走向",
+        "link": "https://www.ign.com/articles/for-all-mankind-ed-baldwin-joel-kinnaman-80-now-season-5-still-the-coolest",
+        "summary": "制片人Matt Wolpert和Ben Nedivi透露Apple TV+架空历史剧《为全人类》第五季中，主角Ed Baldwin将年届80岁，仍保持核心地位。",
+        "comment": "长寿角色延续系列魅力，时空跨度成叙事亮点。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/27/for-all-mankind-season-5-thumb-1774572412241.jpg",
+        "score": 91
+      },
+      {
         "category": "游戏影视",
         "tag": "电商促销",
-        "title": "亚马逊春季大促开启 IGN每日精选科技游戏优惠",
+        "title": "亚马逊春季大促开启，每日精选科技与游戏优惠",
         "link": "https://www.ign.com/articles/amazon-spring-sale-2026-best-deals",
-        "summary": "IGN每日更新亚马逊春季大促最佳科技与游戏优惠，今日新品包括Bowflex健身设备、Kindle Colorsoft、买二送一电影、AirPods Pro等。",
-        "comment": "促销信息实用，但需注意时效性与区域限制。",
+        "summary": "IGN报道亚马逊春季促销已启动，每日更新最佳科技与游戏优惠，今日包括Bowflex健身设备、Kindle Colorsoft、买二送一电影、AirPods Pro等。",
+        "comment": "促销信息实用，适合科技与游戏爱好者关注。",
         "image": "https://assets-prd.ignimgs.com/2026/03/26/amazonspringsale3-1774539343089.jpg",
         "score": 91
       },
@@ -34,11 +134,21 @@
       },
       {
         "category": "数码科技",
+        "tag": "vivo",
+        "title": "vivo总裁胡柏山专访：AI需真正看懂世界",
+        "link": "https://www.ifanr.com/1659975?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "vivo总裁胡柏山接受专访，阐述公司未来十年发展方向，强调AI技术需从“聪明”走向“看懂世界”的实用化突破。",
+        "comment": "vivo将AI实用性作为核心方向，符合行业从技术炫技转向场景落地的趋势。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "数码科技",
         "tag": "数码科技",
-        "title": "苹果下架Mac Pro，小米与老头乐和解，微信解读输入状态",
+        "title": "苹果下架Mac Pro，小米与老头乐和解，微信解读输入原理",
         "link": "https://www.ifanr.com/1659953?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "荣耀高管预测内存涨价持续至2028年；大疆发布首款全景无人机，售价2788元起；零跑A10上市，起售价6.58万元。",
-        "comment": "科技行业动态频出，内存价格走势值得关注。",
+        "summary": "荣耀高管预测内存涨价将持续至2028年；大疆发布首款全景无人机，售价2788元起；零跑A10上市，起售价6.58万元。",
+        "comment": "科技行业动态频出，内存涨价趋势值得关注。",
         "image": "",
         "score": 88
       }
