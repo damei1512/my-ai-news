@@ -4,11 +4,21 @@
     "articles": [
       {
         "category": "数码科技",
+        "tag": "科技动态",
+        "title": "李昌钰逝世，罗技为争议广告道歉，寿司郎推SIM卡验证",
+        "link": "https://36kr.com/p/3741924007461128?f=rss",
+        "summary": "前阿里千问负责人林俊旸谈转向训练智能体；九号公司与泡泡玛特合作推联名电动车；苹果或向外部AI开放Siri；多位CEO因AI离职；英国试点限制青少年用社交平台。",
+        "comment": "科技行业动态频出，AI战略调整与商业合作成焦点。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
         "tag": "网约车",
-        "title": "曹操出行2025年Q4首次单季盈利，营收202亿增38%",
+        "title": "曹操出行2025年Q4首次实现调整后盈利",
         "link": "https://36kr.com/p/3741142695117059?f=rss",
         "summary": "曹操出行2025年营收202亿元，同比增长38%，毛利率提升至9.4%。第四季度经调整净利润首次转正，实现单季扭亏为盈，经营活动净现金流同比增长60.3%。",
-        "comment": "网约车行业盈利拐点初现，精细化运营成效显著。",
+        "comment": "网约车行业盈利拐点初现，头部企业运营效率显著提升。",
         "image": "",
         "score": 96
       },
@@ -23,12 +33,22 @@
         "score": 94
       },
       {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果发高额奖金防挖角 Claude新模型代号曝光",
+        "link": "https://www.ifanr.com/1660125?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果为防设计师被挖角发放高额奖金；Claude最强新模型代号为「卡皮巴拉」；小鹏汽车将更名为小鹏集团。",
+        "comment": "科技巨头人才争夺战加剧，行业竞争进入新阶段。",
+        "image": "",
+        "score": 91
+      },
+      {
         "category": "游戏影视",
-        "tag": "亚马逊",
+        "tag": "电商促销",
         "title": "亚马逊春季促销：多款桌游折扣来袭",
         "link": "https://www.ign.com/articles/win-big-on-board-game-deals-during-amazon-spring-sale",
-        "summary": "亚马逊春季促销期间，多款桌游提供折扣，涵盖家庭经典与策略游戏。",
-        "comment": "促销力度可观，适合桌游爱好者入手。",
+        "summary": "亚马逊春季促销期间，多款经典家庭桌游与策略游戏提供折扣，涵盖不同品类与价位。",
+        "comment": "促销信息实用，为桌游爱好者提供了明确的购买参考。",
         "image": "https://assets-prd.ignimgs.com/2026/03/27/untitled-design-13-1774654322984.png",
         "score": 91
       },
@@ -41,6 +61,36 @@
         "comment": "一位塑造了经典银幕权威形象的性格演员离世。",
         "image": "https://assets-prd.ignimgs.com/2026/03/28/bttf-strickland-marty-1280-1774657333343.jpg",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "宝可梦GO",
+        "title": "《宝可梦GO》更新或新增自动捕捉道具",
+        "link": "https://www.gamespot.com/articles/new-pokemon-go-update-may-have-an-item-that-catches-pokemon-for-you/1100-6539080/?ftag=CAD-01-10abi2f",
+        "summary": "《宝可梦GO》数据挖掘显示，游戏可能新增自动投掷精灵球、激活补给站的道具，为玩家提供Go Plus设备外的替代方案。",
+        "comment": "自动化功能或将改变游戏核心玩法体验。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4672527-pokemongocroagunk.jpg",
+        "score": 89
+      },
+      {
+        "category": "时事热点",
+        "tag": "体育明星",
+        "title": "高尔夫球星泰格·伍兹因酒驾指控面临起诉",
+        "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+        "summary": "高尔夫球星泰格·伍兹在佛罗里达州发生车祸后，因涉嫌酒驾被正式起诉。",
+        "comment": "公众人物应更严格约束自身行为，树立正面榜样。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "美国众议院将就国土安全部拨款投票 机场安检混乱持续",
+        "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国众议院将就国土安全部拨款进行投票，但预计难以打破资金僵局，机场安检排长队问题仍在持续。",
+        "comment": "拨款僵局凸显美国政治极化对基础服务的影响。",
+        "image": "",
+        "score": 86
       }
     ]
   }
