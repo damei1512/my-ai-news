@@ -17,18 +17,28 @@
         "tag": "量子计算",
         "title": "幺正量子获数亿元融资，加速离子阱量子计算研发",
         "link": "https://36kr.com/p/3743360666566919?f=rss",
-        "summary": "合肥幺正量子完成数亿元Pre A轮融资，由蚂蚁集团和吉利资本领投，资金将用于QCCD离子阱量子计算路线研发。",
-        "comment": "资本持续押注量子计算，国内技术路线竞争加剧。",
+        "summary": "合肥幺正量子完成Pre A轮数亿元融资，由蚂蚁集团和吉利资本领投，资金将用于QCCD离子阱量子计算路线研发。",
+        "comment": "资本持续押注量子计算，但商业化道路仍漫长。",
         "image": "",
-        "score": 97
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "IGN回顾1993年《超级马里奥兄弟》电影",
+        "link": "https://www.ign.com/articles/super-mario-bros-1993-flashback-review",
+        "summary": "IGN回顾1993年《超级马里奥兄弟》真人电影，认为其角色阵容扎实，但场景拼接混乱、逻辑愚蠢，整体评价负面。",
+        "comment": "这部早期游戏改编电影已成为反面教材。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/26/supermariobros-flashbackreview-blogroll-1774557842740.jpg",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏技术",
-        "title": "IGN：DLSS 5 AI增强反响平平，不及GBA版V拉力3",
+        "title": "IGN：DLSS 5 AI增强反响平平，不及GBA版V-Rally 3",
         "link": "https://www.ign.com/articles/dlss-5-isnt-anywhere-near-as-impressive-as-v-rally-3-on-the-game-boy-advance",
-        "summary": "文章对比了英伟达DLSS 5 AI游戏增强技术引发的冷淡反响与玩家对Game Boy Advance平台《V拉力3》的持久喜爱，指出技术革新未必总能超越经典体验。",
-        "comment": "技术迭代需以玩家体验为核心，而非单纯追求参数。",
+        "summary": "文章指出英伟达DLSS 5的AI游戏增强功能在玩家社区中反响冷淡，而画面简陋的Game Boy Advance版《V-Rally 3》却获得更多喜爱。",
+        "comment": "技术并非总是越新越好，经典游戏体验仍有其独特魅力。",
         "image": "https://assets-prd.ignimgs.com/2026/03/27/v-rally-gba-blog-1774614979828.jpg",
         "score": 91
       },
@@ -48,7 +58,7 @@
         "title": "伊朗袭击海湾工业设施致多人受伤",
         "link": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
         "summary": "伊朗对阿联酋和巴林的铝业设施发动袭击，造成多人受伤，海湾地区紧张局势持续升级。",
-        "comment": "地区冲突外溢至关键工业设施，威胁能源与供应链安全。",
+        "comment": "地区冲突外溢风险加剧，需警惕能源供应安全。",
         "image": "",
         "score": 87
       },
@@ -57,8 +67,8 @@
         "tag": "中东冲突",
         "title": "以色列空袭致三名黎巴嫩记者身亡",
         "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列军方证实空袭中击毙了真主党旗下电视台记者阿里·舒艾卜，另有两名记者在袭击中丧生。",
-        "comment": "战地记者安全风险加剧，国际社会应关注媒体工作者保护。",
+        "summary": "以色列军方确认空袭导致真主党旗下电视台记者阿里·舒艾布死亡，另有两名记者遇难。",
+        "comment": "战地记者面临极高风险，国际社会应加强保护。",
         "image": "",
         "score": 87
       },
@@ -67,48 +77,58 @@
         "tag": "深度伪造",
         "title": "德国电视明星深伪色情丑闻引发社会震动",
         "link": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss",
-        "summary": "德国电视明星科利恩·费尔南德斯指控前夫在网上传播其伪造色情图像，前夫坚决否认，此事引发对深度伪造技术滥用的广泛讨论。",
-        "comment": "技术滥用挑战个人隐私底线，需法律与技术双管齐下。",
+        "summary": "德国电视明星科利恩·费尔南德斯指控前夫在网上传播其伪造色情图像，前夫坚决否认，事件引发对深度伪造技术滥用的广泛讨论。",
+        "comment": "技术滥用再次敲响隐私保护警钟。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "特朗普",
-        "title": "BBC分析：特朗普对伊决策依赖直觉效果不佳",
+        "tag": "伊朗冲突",
+        "title": "BBC分析：特朗普对伊朗冲突的直觉决策未见成效",
         "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC国际编辑撰文指出，伊朗冲突爆发一个月来，特朗普依赖直觉的决策方式并未取得预期效果。",
-        "comment": "直觉式外交在复杂地缘冲突中显露出局限性。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "野生动物走私",
-        "title": "肯尼亚蚂蚁走私猖獗：单只售价高达220美元",
-        "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
-        "summary": "肯尼亚出现蚂蚁走私热潮，稀有蚂蚁单只售价可达220美元，野生动物贩运转向昆虫领域引发关注。",
-        "comment": "昆虫走私成野生动物贩运新趋势，监管面临新挑战。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国大选",
-        "title": "美国多地举行反特朗普“无王”抗议集会",
-        "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国多地举行“无王”抗议集会，反对前总统特朗普。其中明尼苏达州的集会规模较大，歌手布鲁斯·斯普林斯汀到场表演。",
-        "comment": "美国大选前社会对立情绪持续显现。",
+        "summary": "BBC国际编辑撰文指出，伊朗冲突爆发一个月以来，特朗普依赖直觉的决策方式并未取得预期效果。",
+        "comment": "直觉决策在复杂国际冲突中显得力不从心。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "司法案件",
-        "title": "前Abercrombie老板狱中通话录音引发庭审能力质疑",
+        "title": "前Abercrombie老板狱中通话录音引庭审能力质疑",
         "link": "https://www.bbc.com/news/articles/c2034ww6kqxo?at_medium=RSS&at_campaign=rss",
-        "summary": "前Abercrombie & Fitch首席执行官Mike Jeffries的律师称其患有痴呆症和阿尔茨海默病，狱中通话录音引发对其是否适合受审的争议。",
-        "comment": "高管健康问题与司法程序的交叉点值得关注。",
+        "summary": "前Abercrombie & Fitch首席执行官Mike Jeffries的律师称其患有痴呆症和阿尔茨海默病，狱中通话录音引发对其是否适合接受审判的质疑。",
+        "comment": "高管健康问题与司法程序公正性面临考验。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "野生动物走私",
+        "title": "肯尼亚蚂蚁走私猖獗，单只售价高达220美元",
+        "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+        "summary": "肯尼亚出现蚂蚁收藏热潮，走私者瞄准这一新市场牟利，单只稀有蚂蚁在黑市售价可达220美元，令当局措手不及。",
+        "comment": "异宠贸易的隐蔽角落，凸显全球野生动物走私的复杂性与监管挑战。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "美国多地举行“不要国王”集会抗议特朗普",
+        "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国多地举行“不要国王”集会，抗议特朗普。明尼苏达州的一场集会上，歌手布鲁斯·斯普林斯汀为人群表演。",
+        "comment": "抗议活动反映美国社会对特朗普政治风格的分歧加剧。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "非洲足球",
+        "title": "非洲足协秘书长因摩洛哥-塞内加尔决赛争议辞职",
+        "link": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss",
+        "summary": "非洲足协秘书长韦龙·莫森戈-翁巴在非洲足球动荡时期辞职，此前因摩洛哥与塞内加尔决赛安排引发争议。",
+        "comment": "非洲足球管理层的动荡可能影响赛事公信力。",
         "image": "",
         "score": 84
       }

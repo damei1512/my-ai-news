@@ -17,18 +17,28 @@
         "tag": "量子计算",
         "title": "幺正量子获数亿元融资，加速离子阱量子计算研发",
         "link": "https://36kr.com/p/3743360666566919?f=rss",
-        "summary": "合肥幺正量子完成数亿元Pre A轮融资，由蚂蚁集团和吉利资本领投，资金将用于QCCD离子阱量子计算路线研发。",
-        "comment": "资本持续押注量子计算，国内技术路线竞争加剧。",
+        "summary": "合肥幺正量子完成Pre A轮数亿元融资，由蚂蚁集团和吉利资本领投，资金将用于QCCD离子阱量子计算路线研发。",
+        "comment": "资本持续押注量子计算，但商业化道路仍漫长。",
         "image": "",
-        "score": 97
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "IGN回顾1993年《超级马里奥兄弟》电影",
+        "link": "https://www.ign.com/articles/super-mario-bros-1993-flashback-review",
+        "summary": "IGN回顾1993年《超级马里奥兄弟》真人电影，认为其角色阵容扎实，但场景拼接混乱、逻辑愚蠢，整体评价负面。",
+        "comment": "这部早期游戏改编电影已成为反面教材。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/26/supermariobros-flashbackreview-blogroll-1774557842740.jpg",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏技术",
-        "title": "IGN：DLSS 5 AI增强反响平平，不及GBA版V拉力3",
+        "title": "IGN：DLSS 5 AI增强反响平平，不及GBA版V-Rally 3",
         "link": "https://www.ign.com/articles/dlss-5-isnt-anywhere-near-as-impressive-as-v-rally-3-on-the-game-boy-advance",
-        "summary": "文章对比了英伟达DLSS 5 AI游戏增强技术引发的冷淡反响与玩家对Game Boy Advance平台《V拉力3》的持久喜爱，指出技术革新未必总能超越经典体验。",
-        "comment": "技术迭代需以玩家体验为核心，而非单纯追求参数。",
+        "summary": "文章指出英伟达DLSS 5的AI游戏增强功能在玩家社区中反响冷淡，而画面简陋的Game Boy Advance版《V-Rally 3》却获得更多喜爱。",
+        "comment": "技术并非总是越新越好，经典游戏体验仍有其独特魅力。",
         "image": "https://assets-prd.ignimgs.com/2026/03/27/v-rally-gba-blog-1774614979828.jpg",
         "score": 91
       },
@@ -48,7 +58,7 @@
         "title": "伊朗袭击海湾工业设施致多人受伤",
         "link": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
         "summary": "伊朗对阿联酋和巴林的铝业设施发动袭击，造成多人受伤，海湾地区紧张局势持续升级。",
-        "comment": "地区冲突外溢至关键工业设施，威胁能源与供应链安全。",
+        "comment": "地区冲突外溢风险加剧，需警惕能源供应安全。",
         "image": "",
         "score": 87
       },
@@ -57,8 +67,8 @@
         "tag": "中东冲突",
         "title": "以色列空袭致三名黎巴嫩记者身亡",
         "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列军方证实空袭中击毙了真主党旗下电视台记者阿里·舒艾卜，另有两名记者在袭击中丧生。",
-        "comment": "战地记者安全风险加剧，国际社会应关注媒体工作者保护。",
+        "summary": "以色列军方确认空袭导致真主党旗下电视台记者阿里·舒艾布死亡，另有两名记者遇难。",
+        "comment": "战地记者面临极高风险，国际社会应加强保护。",
         "image": "",
         "score": 87
       },
@@ -67,48 +77,58 @@
         "tag": "深度伪造",
         "title": "德国电视明星深伪色情丑闻引发社会震动",
         "link": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss",
-        "summary": "德国电视明星科利恩·费尔南德斯指控前夫在网上传播其伪造色情图像，前夫坚决否认，此事引发对深度伪造技术滥用的广泛讨论。",
-        "comment": "技术滥用挑战个人隐私底线，需法律与技术双管齐下。",
+        "summary": "德国电视明星科利恩·费尔南德斯指控前夫在网上传播其伪造色情图像，前夫坚决否认，事件引发对深度伪造技术滥用的广泛讨论。",
+        "comment": "技术滥用再次敲响隐私保护警钟。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "特朗普",
-        "title": "BBC分析：特朗普对伊决策依赖直觉效果不佳",
+        "tag": "伊朗冲突",
+        "title": "BBC分析：特朗普对伊朗冲突的直觉决策未见成效",
         "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC国际编辑撰文指出，伊朗冲突爆发一个月来，特朗普依赖直觉的决策方式并未取得预期效果。",
-        "comment": "直觉式外交在复杂地缘冲突中显露出局限性。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "野生动物走私",
-        "title": "肯尼亚蚂蚁走私猖獗：单只售价高达220美元",
-        "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
-        "summary": "肯尼亚出现蚂蚁走私热潮，稀有蚂蚁单只售价可达220美元，野生动物贩运转向昆虫领域引发关注。",
-        "comment": "昆虫走私成野生动物贩运新趋势，监管面临新挑战。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国大选",
-        "title": "美国多地举行反特朗普“无王”抗议集会",
-        "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国多地举行“无王”抗议集会，反对前总统特朗普。其中明尼苏达州的集会规模较大，歌手布鲁斯·斯普林斯汀到场表演。",
-        "comment": "美国大选前社会对立情绪持续显现。",
+        "summary": "BBC国际编辑撰文指出，伊朗冲突爆发一个月以来，特朗普依赖直觉的决策方式并未取得预期效果。",
+        "comment": "直觉决策在复杂国际冲突中显得力不从心。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "司法案件",
-        "title": "前Abercrombie老板狱中通话录音引发庭审能力质疑",
+        "title": "前Abercrombie老板狱中通话录音引庭审能力质疑",
         "link": "https://www.bbc.com/news/articles/c2034ww6kqxo?at_medium=RSS&at_campaign=rss",
-        "summary": "前Abercrombie & Fitch首席执行官Mike Jeffries的律师称其患有痴呆症和阿尔茨海默病，狱中通话录音引发对其是否适合受审的争议。",
-        "comment": "高管健康问题与司法程序的交叉点值得关注。",
+        "summary": "前Abercrombie & Fitch首席执行官Mike Jeffries的律师称其患有痴呆症和阿尔茨海默病，狱中通话录音引发对其是否适合接受审判的质疑。",
+        "comment": "高管健康问题与司法程序公正性面临考验。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "野生动物走私",
+        "title": "肯尼亚蚂蚁走私猖獗，单只售价高达220美元",
+        "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+        "summary": "肯尼亚出现蚂蚁收藏热潮，走私者瞄准这一新市场牟利，单只稀有蚂蚁在黑市售价可达220美元，令当局措手不及。",
+        "comment": "异宠贸易的隐蔽角落，凸显全球野生动物走私的复杂性与监管挑战。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "美国多地举行“不要国王”集会抗议特朗普",
+        "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国多地举行“不要国王”集会，抗议特朗普。明尼苏达州的一场集会上，歌手布鲁斯·斯普林斯汀为人群表演。",
+        "comment": "抗议活动反映美国社会对特朗普政治风格的分歧加剧。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "非洲足球",
+        "title": "非洲足协秘书长因摩洛哥-塞内加尔决赛争议辞职",
+        "link": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss",
+        "summary": "非洲足协秘书长韦龙·莫森戈-翁巴在非洲足球动荡时期辞职，此前因摩洛哥与塞内加尔决赛安排引发争议。",
+        "comment": "非洲足球管理层的动荡可能影响赛事公信力。",
         "image": "",
         "score": 84
       }
@@ -122,8 +142,8 @@
         "tag": "人工智能",
         "title": "斯坦福研究揭示向AI聊天机器人寻求个人建议的危险性",
         "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-        "summary": "斯坦福计算机科学家研究发现，AI聊天机器人倾向于讨好用户，可能提供有害的个人建议，量化了这种倾向的危害程度。",
-        "comment": "AI的讨好倾向可能误导用户决策，需警惕依赖。",
+        "summary": "斯坦福计算机科学家新研究试图量化AI谄媚倾向的危害程度，聚焦个人建议场景下的潜在风险。",
+        "comment": "研究为AI伦理监管提供了亟需的实证依据。",
         "image": "",
         "score": 100
       },
@@ -160,10 +180,10 @@
       {
         "category": "数码科技",
         "tag": "AI短剧",
-        "title": "AI短剧产能爆发，字节Seedance2.0推动行业变革",
+        "title": "AI短剧产能爆发，成本结构倒挂引行业变革",
         "link": "https://36kr.com/p/3738258350817540?f=rss",
-        "summary": "字节跳动视频生成模型Seedance2.0正推动AI短剧规模化落地，行业面临产能过剩与成本结构倒挂，创始人预判3-4月为关键节点。",
-        "comment": "技术突破带来产能革命，但内容质量与商业化仍是挑战。",
+        "summary": "字节跳动视频生成模型Seedance2.0推动AI短剧规模化，巨日禄创始人杰夫称“一人一天一部剧”时代来临，制作成本骤降，人力成本占比将彻底倒挂。",
+        "comment": "AI短剧产能过剩是挑战，更是重塑行业格局的机遇。",
         "image": "",
         "score": 97
       },
@@ -183,7 +203,7 @@
         "title": "曹操出行2025年Q4首次实现调整后盈利",
         "link": "https://36kr.com/p/3741142695117059?f=rss",
         "summary": "曹操出行2025年营收202亿元，同比增长38%，毛利率提升至9.4%。第四季度经调整净利润首次转正，实现单季扭亏为盈，经营活动净现金流同比增长60.3%。",
-        "comment": "网约车平台盈利拐点显现，行业竞争进入新阶段。",
+        "comment": "网约车行业盈利拐点初现，头部企业开始展现造血能力。",
         "image": "",
         "score": 96
       },
@@ -192,38 +212,28 @@
         "tag": "新茶饮",
         "title": "茶百道2025年业绩：新品贡献超30%，部分门店咖啡日售超百杯",
         "link": "https://36kr.com/p/3741100948029448?f=rss",
-        "summary": "茶百道2025年总GMV达161.8亿元，同比增长11%。新品业绩贡献超30%，部分门店咖啡日售超百杯。但外卖补贴减弱后，订单下滑影响毛利率。",
-        "comment": "新茶饮咖啡化趋势明显，但过度依赖外卖补贴存隐忧。",
+        "summary": "茶百道2025年总GMV达161.8亿元，同比增长11%。新品业绩贡献超30%，部分门店咖啡日售超百杯。但外卖补贴减弱后，订单下滑影响了毛利率与线下营收。",
+        "comment": "新茶饮咖啡化趋势明显，但过度依赖外卖补贴模式存隐忧。",
         "image": "",
         "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "育碧40周年：开创游戏产业却落后于时代",
+        "tag": "育碧",
+        "title": "育碧40周年：开创游戏业却落后于时代",
         "link": "https://www.gamespot.com/articles/ubisoft-shaped-the-games-industry-only-to-be-left-behind-by-its-creation/1100-6539076/?ftag=CAD-01-10abi2f",
-        "summary": "育碧庆祝成立40周年，回顾其如何塑造现代游戏产业，并探讨其未来发展方向。",
-        "comment": "行业先驱面临转型挑战，需重新定位以跟上时代。",
+        "summary": "育碧庆祝成立40周年，回顾其塑造现代游戏产业的贡献，并探讨公司当前面临的挑战与未来方向。",
+        "comment": "行业先驱面临转型压力，需重新找到创新节奏。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15855271/4672464-4639100-ubisoft1.jpg",
         "score": 92
       },
       {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果发高额奖金防挖角，Claude新模型代号曝光",
-        "link": "https://www.ifanr.com/1660125?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果为防设计师被挖角发放高额奖金；Claude最强新模型代号为“卡皮巴拉”；小鹏汽车将更名为小鹏集团。",
-        "comment": "科技巨头人才争夺战加剧，行业竞争进入新阶段。",
-        "image": "",
-        "score": 91
-      },
-      {
         "category": "游戏影视",
-        "tag": "网络设备",
-        "title": "TP-Link Deco 7 Pro Wi-Fi 7网状路由器在亚马逊春季促销中降价35%",
+        "tag": "数码促销",
+        "title": "TP-Link Deco 7 Pro Wi-Fi 7网状路由器在亚马逊春季大促降价35%",
         "link": "https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-amazon-spring-sale",
-        "summary": "IGN报道，TP-Link Deco 7 Pro BE10000网状系统在亚马逊春季促销中降价35%，这款畅销的Wi-Fi 7路由器以极具竞争力的价格提供高速网络功能。",
-        "comment": "Wi-Fi 7设备价格下探，加速了新一代网络标准的普及。",
+        "summary": "IGN报道，TP-Link Deco 7 Pro BE10000网状系统在亚马逊春季促销中降价35%，这款畅销的Wi-Fi 7路由器以高性价比和高速性能为特点，但优惠可能限时。",
+        "comment": "Wi-Fi 7新品降价促销，是升级家庭网络的好时机。",
         "image": "https://assets-prd.ignimgs.com/2026/03/28/tplinkdeco-1774738623728.jpg",
         "score": 91
       },
@@ -233,7 +243,7 @@
         "title": "KTC 27英寸QHD 144Hz电竞显示器亚马逊春促降至83美元",
         "link": "https://www.ign.com/articles/best-budget-gaming-monitor-deal-amazon-spring-sale",
         "summary": "KTC一款27英寸2K分辨率、144Hz刷新率的电竞显示器在亚马逊春季大促中价格降至83美元，刷新了高性价比电竞显示器的价格认知。",
-        "comment": "百元内高刷2K屏，性价比极具冲击力。",
+        "comment": "百元内2K高刷显示器，性价比极具冲击力。",
         "image": "https://assets-prd.ignimgs.com/2026/03/28/ktcmonitor2-1774734523359.jpg",
         "score": 91
       },
@@ -242,7 +252,7 @@
         "tag": "硬件促销",
         "title": "亚马逊春季促销：16英寸便携USB显示器降至44美元",
         "link": "https://www.ign.com/articles/best-usb-portable-monitor-deal-amazon-spring-sale",
-        "summary": "IGN报道亚马逊春季促销中，Anyuse 16英寸1080p便携USB显示器价格降至44美元，可作为笔记本电脑副屏或Switch等掌机外接显示器。",
+        "summary": "IGN报道亚马逊春季促销中，Anyuse 16英寸1080p便携USB显示器价格降至44美元，可作为笔记本副屏或Switch等掌机外接显示器。",
         "comment": "便携显示器价格新低，移动办公和游戏玩家可关注。",
         "image": "https://assets-prd.ignimgs.com/2026/03/25/anyuse-1774456378581.jpg",
         "score": 91
@@ -252,8 +262,8 @@
         "tag": "电视",
         "title": "三星65英寸S90 4K OLED电视亚马逊春季促销价1099美元",
         "link": "https://www.ign.com/articles/best-samsung-s90-4k-oled-tv-deal-amazon-spring-sale",
-        "summary": "IGN报道三星高端65英寸S90 4K OLED智能电视在亚马逊春季大促中降至1099美元，该型号被评为2026年最佳游戏电视。",
-        "comment": "高端游戏电视价格下探，利好玩家。",
+        "summary": "IGN报道三星高端65英寸S90 4K OLED智能电视在亚马逊春季大促中价格降至1099美元，该型号被评为2026年最佳游戏电视。",
+        "comment": "高端游戏电视价格下探，利好主机与PC玩家。",
         "image": "https://assets-prd.ignimgs.com/2026/03/23/samsungs90d-1774288952125.jpg",
         "score": 91
       },
@@ -262,18 +272,18 @@
         "tag": "消费电子",
         "title": "苹果AirPods Pro 3亚马逊春季大促降价50美元",
         "link": "https://www.ign.com/articles/best-apple-airpods-pro-3-deal-amazon-spring-sale",
-        "summary": "IGN报道，苹果AirPods Pro 3耳机在亚马逊春季大促中降价50美元，被认为是iPhone的最佳耳机选择之一。",
-        "comment": "促销力度可观，但需注意是否为最新型号。",
+        "summary": "IGN报道，苹果AirPods Pro 3耳机在亚马逊春季大促中降价50美元，被认为是本次促销中最值得入手的交易之一。",
+        "comment": "旗舰耳机降价促销，对苹果用户吸引力较大。",
         "image": "https://assets-prd.ignimgs.com/2026/03/24/airpodspro3-1774384637329.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏硬件",
+        "tag": "游戏配件",
         "title": "Iniu 45W移动电源亚马逊春季大促降至11.99美元",
         "link": "https://www.ign.com/articles/iniu-10000mah-45w-power-bank-deal-for-12-during-amazon-spring-sale",
-        "summary": "IGN报道，Iniu 10000mAh 45W移动电源在亚马逊春季大促中价格降至11.99美元，可为任天堂Switch等设备大幅延长续航。",
-        "comment": "高功率移动电源价格新低，游戏玩家实用之选。",
+        "summary": "IGN报道，Iniu 10000mAh 45W移动电源在亚马逊春季大促中价格降至11.99美元，可为任天堂Switch等设备提供近三倍续航。",
+        "comment": "高功率移动电源价格新低，游戏玩家实用配件。",
         "image": "https://assets-prd.ignimgs.com/2026/03/26/iniupowerbankred2-1774501440597.jpg",
         "score": 91
       },
@@ -282,50 +292,30 @@
         "tag": "亚马逊促销",
         "title": "亚马逊春季促销：50款50美元以下商品推荐",
         "link": "https://www.ign.com/articles/best-deals-under-50-amazon-spring-sale-2026",
-        "summary": "IGN推荐亚马逊春季促销中50款50美元以下商品，包括《Project Hail Mary》周边、电动气吹、充电宝、Switch游戏及4K电影等，多数低于20美元。",
-        "comment": "促销信息实用，但缺乏独家或深度折扣分析。",
+        "summary": "IGN推荐亚马逊春季促销中50款50美元以下商品，包括《Project Hail Mary》周边、电动除尘器、充电宝、Switch游戏及4K电影等，多数低于20美元。",
+        "comment": "促销信息实用，适合寻找低价数码和娱乐产品的消费者。",
         "image": "https://assets-prd.ignimgs.com/2026/03/27/50under50-1774647138753.jpg",
         "score": 91
       },
       {
-        "category": "游戏影视",
-        "tag": "促销",
-        "title": "亚马逊春季促销：无线电动吹风机20美元优惠",
-        "link": "https://www.ign.com/articles/best-cordless-electric-air-duster-deal-amazon-spring-sale",
-        "summary": "IGN报道亚马逊春季促销中无线电动吹风机降至20美元，适用于汽车或电脑维护，替代压缩空气罐。",
-        "comment": "实用工具促销，适合DIY爱好者节省长期成本。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/28/zarimi2-1774716119422.jpg",
-        "score": 91
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果发高额奖金防挖角，小鹏汽车将更名集团",
+        "link": "https://www.ifanr.com/1660125?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果为防设计师被挖角发放高额奖金；小鹏汽车计划更名为小鹏集团；乐道重启20万级轿车与SUV研发；腾讯云发布养虾产品全景图。",
+        "comment": "科技巨头人才争夺战加剧，企业纷纷调整战略应对竞争。",
+        "image": "",
+        "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "宝可梦GO",
         "title": "《宝可梦GO》更新或新增自动捕捉道具",
         "link": "https://www.gamespot.com/articles/new-pokemon-go-update-may-have-an-item-that-catches-pokemon-for-you/1100-6539080/?ftag=CAD-01-10abi2f",
-        "summary": "游戏数据挖掘显示，《宝可梦GO》可能将推出新道具，可自动投掷精灵球并激活补给站，为玩家提供Go Plus设备外的替代方案。",
-        "comment": "自动化功能或将改变游戏核心玩法体验。",
+        "summary": "《宝可梦GO》数据挖掘显示，游戏可能新增自动投掷精灵球、激活补给站的道具，为玩家提供Go Plus设备外的替代方案。",
+        "comment": "自动化功能或将改变游戏核心玩法，便利性与沉浸感需平衡。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4672527-pokemongocroagunk.jpg",
         "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "移民危机",
-        "title": "希腊海域移民船遇难22人死亡",
-        "link": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
-        "summary": "希腊海岸警卫队称，恶劣天气及食物与饮水短缺导致一艘移民船在海上漂流六天后，造成至少22名移民死亡。",
-        "comment": "地中海移民路线悲剧频发，凸显人道危机与治理困境。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "能源危机",
-        "title": "埃及能源危机加剧，政府要求商铺餐厅提前关门",
-        "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
-        "summary": "为应对能源危机，埃及政府要求零售和餐饮场所未来一个月每晚9点前关闭，以节约电力。",
-        "comment": "能源短缺已开始严重影响埃及民众的日常生活。",
-        "image": "",
-        "score": 86
       },
       {
         "category": "游戏影视",
@@ -339,11 +329,21 @@
       },
       {
         "category": "时事热点",
+        "tag": "能源危机",
+        "title": "埃及能源危机加剧，商店餐厅被令提前关门",
+        "link": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
+        "summary": "为节约电力，埃及要求零售和餐饮场所未来一个月每晚9点前关闭。",
+        "comment": "能源短缺正直接影响民生与经济运行。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
         "tag": "社会文化",
         "title": "悉尼巨型蛋糕野餐会吸引数百烘焙师参与",
         "link": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
-        "summary": "数百名烘焙师携带自制创意蛋糕齐聚悉尼植物园，分享并品尝色彩缤纷的糕点作品。",
-        "comment": "轻松有趣的城市文化活动，展现社区活力。",
+        "summary": "数百名烘焙师携带自制创意蛋糕齐聚悉尼植物园，分享并品尝色彩缤纷的烘焙作品，形成独特城市景观。",
+        "comment": "轻松的城市文化活动展现社区活力与创意表达。",
         "image": "",
         "score": 83
       }
@@ -357,7 +357,7 @@
         "tag": "人工智能",
         "title": "软银获400亿美元贷款，或为OpenAI 2026年IPO铺路",
         "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-        "summary": "华尔街巨头摩根大通和高盛向日本软银集团提供了一笔为期12个月、总额400亿美元的无抵押贷款。分析认为此举可能为OpenAI在2026年进行首次公开募股（IPO）提供资金支持或信号。",
+        "summary": "华尔街巨头摩根大通和高盛向日本软银集团提供400亿美元无抵押贷款，期限12个月。分析认为此举可能为OpenAI在2026年进行首次公开募股做准备。",
         "comment": "巨额融资预示AI巨头上市进程加速，行业格局或将重塑。",
         "image": "",
         "score": 100
@@ -367,8 +367,8 @@
         "tag": "人工智能",
         "title": "SK海力士或赴美IPO，筹资百亿美元缓解内存短缺",
         "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-        "summary": "SK海力士考虑在美国进行首次公开募股，预计筹资100亿至140亿美元，用于扩大产能，缓解当前内存芯片供应紧张局面。",
-        "comment": "巨额融资有望加速产能扩张，缓解行业“内存荒”。",
+        "summary": "SK海力士考虑在美国进行首次公开募股，预计筹资100亿至140亿美元，以扩大产能，缓解当前内存芯片供应紧张的局面。",
+        "comment": "巨额融资有望加速产能扩张，缓解行业供应压力。",
         "image": "",
         "score": 100
       },
@@ -377,8 +377,8 @@
         "tag": "人工智能",
         "title": "风投重注AI新浪潮，OpenAI为何关闭Sora？",
         "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-        "summary": "尽管风投正为AI新浪潮投入数十亿美元，OpenAI却关闭了其视频生成模型Sora。报道提及肯塔基州一位82岁女性拒绝AI公司2600万美元土地收购案。",
-        "comment": "资本狂热与技术路线调整形成鲜明对比。",
+        "summary": "尽管风投正对AI新浪潮投入数十亿美元，但OpenAI却关闭了其视频生成模型Sora。报道提及肯塔基州一位82岁女性拒绝AI公司2600万美元土地收购案。",
+        "comment": "资本狂热与战略收缩并存，AI发展路径出现分化。",
         "image": "",
         "score": 99
       },
@@ -395,10 +395,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "联邦法院命令特朗普政府撤销对Anthropic的限制",
+        "title": "Anthropic获法院禁令，推翻特朗普政府对AI公司的限制",
         "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-        "summary": "联邦法官裁定特朗普政府需撤销近期对人工智能公司Anthropic施加的限制措施。",
-        "comment": "司法干预为AI企业发展提供了法律保障。",
+        "summary": "联邦法官下令特朗普政府撤销近期对人工智能公司Anthropic施加的限制措施。",
+        "comment": "司法介入为AI公司与政府监管的博弈提供了新案例。",
         "image": "",
         "score": 99
       },
@@ -407,18 +407,18 @@
         "tag": "人工智能",
         "title": "萨克斯卸任AI主管，转向新领域",
         "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-        "summary": "大卫·萨克斯不再担任人工智能主管职务，将远离华盛顿权力中心，开启新的职业方向。",
-        "comment": "人事变动反映AI政策执行层面的调整。",
+        "summary": "大卫·萨克斯不再担任人工智能主管职务，将远离华盛顿权力中心，这是特朗普第二任期内的职位变动。",
+        "comment": "人事变动反映AI政策重心可能调整。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "知乎",
-        "title": "知乎2025年首次实现全年Non-GAAP盈利",
+        "title": "知乎首次实现全年Non-GAAP盈利，估值或迎重估",
         "link": "https://36kr.com/p/3740850993037312?f=rss",
-        "summary": "知乎发布2025年财报，首次实现全年非公认会计准则盈利，经调整净利润为3790万元，连续三个季度单季盈利。",
-        "comment": "盈利拐点确立，平台商业化能力得到验证。",
+        "summary": "知乎发布2025年全年业绩，首次实现全年非公认会计准则盈利，经调整净利润3790万元，已连续三个季度单季盈利。",
+        "comment": "盈利拐点确立，但持续性仍需观察商业化深度。",
         "image": "",
         "score": 96
       },
@@ -427,8 +427,8 @@
         "tag": "房地产",
         "title": "龙湖2025年营收973.1亿，运营服务收入占比创新高",
         "link": "https://36kr.com/p/3741132856115207?f=rss",
-        "summary": "龙湖集团发布2025年业绩，营收973.1亿元，其中运营及服务业务收入267.7亿元，占比27.5%创历史新高。公司拥有人应占溢利10.2亿元，归母核心亏损17亿元。",
-        "comment": "龙湖转型阵痛持续，运营服务成增长亮点但整体盈利仍承压。",
+        "summary": "龙湖集团2025年营收973.1亿元，其中运营及服务业务收入267.7亿元，占比27.5%创历史新高；归母核心亏损17亿元。",
+        "comment": "转型阵痛明显，但运营服务板块已成重要增长极。",
         "image": "",
         "score": 94
       },
@@ -450,15 +450,15 @@
         "summary": "趣冲健身发布自研AI智能健身设备，瞄准多场景运动体验。数字健身市场近年增速达41.4%，中国健康产业规模2025年已突破10万亿元。",
         "comment": "AI健身设备是行业突破传统瓶颈的新尝试。",
         "image": "",
-        "score": 94
+        "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "任天堂",
         "title": "Switch 2销量创纪录但股价下跌，是巨大成功吗？",
         "link": "https://www.gamespot.com/articles/record-sales-declining-stock-production-decreases-is-switch-2-a-massive-success-or-not/1100-6539066/?ftag=CAD-01-10abi2f",
-        "summary": "Switch 2在美国前四个月销量比初代Switch高出45%，远超多数历史主机，但任天堂股价下跌且生产计划下调，引发对其成功定义的讨论。",
-        "comment": "市场表现与资本预期出现背离，需观察长期走势。",
+        "summary": "Switch 2在美国前四个月销量比初代Switch高出45%，远超多数历史主机，但任天堂股价下跌且生产计划下调。",
+        "comment": "市场对Switch 2的长期表现存在分歧。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4672420-screenshot2026-03-27at10.32.45%E2%80%AFam.png",
         "score": 93
       },
@@ -477,8 +477,8 @@
         "tag": "游戏主机",
         "title": "PS5一年内二次涨价，索尼游戏业务面临挑战",
         "link": "https://www.gamespot.com/articles/the-ps5-price-hike-was-inevitable-but-what-comes-next/1100-6539077/?ftag=CAD-01-10abi2f",
-        "summary": "索尼宣布PlayStation 5在不到一年内第二次涨价，引发市场对游戏行业成本压力与消费趋势的担忧。",
-        "comment": "频繁调价可能削弱主机市场竞争力，索尼需平衡成本与用户忠诚度。",
+        "summary": "索尼宣布PlayStation 5在不到一年内第二次涨价，引发市场对游戏行业成本压力与消费者承受能力的讨论。",
+        "comment": "频繁调价可能削弱主机长期竞争力，需关注后续市场反应。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4672477-screenshot2026-03-27at3.12.31%E2%80%AFpm.png",
         "score": 92
       },
@@ -487,8 +487,8 @@
         "tag": "人工智能",
         "title": "全球首个多模态创意营销工具Claw发布",
         "link": "https://www.ifanr.com/1660111?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Claw作为全球首个多模态创意营销工具，旨在为独立创作者提供专业级支持，提升创意价值。",
-        "comment": "工具降低专业门槛，创意产业或迎来生产力变革。",
+        "summary": "Claw作为全球首个多模态创意营销工具，旨在为独立创作者提供专业级能力支持，提升创意价值。",
+        "comment": "工具降低专业门槛，创意产业格局或面临重塑。",
         "image": "",
         "score": 91
       },
@@ -507,8 +507,8 @@
         "tag": "折叠屏",
         "title": "OPPO Find N6 解决折叠屏折痕难题",
         "link": "https://www.ifanr.com/1659997?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OPPO Find N6 宣称通过技术创新，有效解决了折叠屏手机长期存在的折痕问题。",
-        "comment": "若属实，将是折叠屏实用化的重要突破。",
+        "summary": "OPPO Find N6 通过技术创新显著改善了折叠屏手机的折痕问题，提升了屏幕平整度与耐用性。",
+        "comment": "技术突破有望推动折叠屏手机普及。",
         "image": "",
         "score": 91
       },
@@ -524,26 +524,6 @@
       },
       {
         "category": "游戏影视",
-        "tag": "游戏平衡",
-        "title": "《杀戮尖塔2》更新调整引发玩家差评轰炸",
-        "link": "https://www.gamespot.com/articles/slay-the-spire-2-dev-adjusts-update-that-led-to-review-bombing/1100-6539079/?ftag=CAD-01-10abi2f",
-        "summary": "开发商Mega Crit对《杀戮尖塔2》首次重大更新进行调整，此前因角色平衡性改动引发部分玩家不满，导致游戏遭遇差评轰炸。",
-        "comment": "平衡性调整需谨慎，玩家反馈直接影响游戏口碑。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4672490-slaythespire2cards.jpg",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "苹果下架Mac Pro，小米与老头乐和解，微信解读输入状态",
-        "link": "https://www.ifanr.com/1659953?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "荣耀高管预测内存涨价将持续至2028年；大疆发布首款全景无人机，起售价2788元；零跑A10上市，起售价6.58万元。",
-        "comment": "科技行业动态频出，内存价格走势值得关注。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
         "tag": "游戏硬件",
         "title": "亚马逊春季促销：Commodore 64复刻主机仅售85美元",
         "link": "https://www.gamespot.com/articles/amazon-spring-sale-grab-this-commodore-64-replica-console-for-just-85/1100-6539039/?ftag=CAD-01-10abi2f",
@@ -554,12 +534,22 @@
       },
       {
         "category": "游戏影视",
-        "tag": "图书促销",
-        "title": "《荆棘与玫瑰的庭院》五部曲平装套装限时48%折扣",
-        "link": "https://www.gamespot.com/articles/save-48-on-the-a-court-of-thorns-and-roses-paperback-5-novel-box-set/1100-6539045/?ftag=CAD-01-10abi2f",
-        "summary": "GameSpot报道，Sarah J. Maas的奇幻浪漫史诗《荆棘与玫瑰的庭院》系列五部曲平装套装正以48%折扣促销，为即将推出的第六、七部新书预热。",
-        "comment": "系列粉丝入手实体书的优惠时机。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4672286-acourtofthornsandrosespaperbackboxset.jpg",
+        "tag": "游戏平衡",
+        "title": "《杀戮尖塔2》更新调整引发玩家差评轰炸",
+        "link": "https://www.gamespot.com/articles/slay-the-spire-2-dev-adjusts-update-that-led-to-review-bombing/1100-6539079/?ftag=CAD-01-10abi2f",
+        "summary": "开发商Mega Crit对《杀戮尖塔2》首次重大更新中的角色平衡性调整引发玩家不满，导致游戏遭遇差评轰炸，现已对更新内容进行修改。",
+        "comment": "平衡性调整需谨慎，玩家反馈是重要参考。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4672490-slaythespire2cards.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏配件",
+        "title": "Switch 2手柄配件在亚马逊2026春季促销中折扣",
+        "link": "https://www.gamespot.com/articles/this-comfortable-nintendo-switch-2-grip-is-discounted-in-amazons-spring-sale-2026-event/1100-6539046/?ftag=CAD-01-10abi2f",
+        "summary": "Gammeefy JC400 Switch 2控制器在亚马逊春季促销中降价，为手持模式提供更舒适的人体工学握持体验。",
+        "comment": "配件促销信息对Switch 2玩家具有实用价值。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4672492-gammeefy.jpg",
         "score": 89
       },
       {
@@ -585,10 +575,10 @@
       {
         "category": "数码科技",
         "tag": "新能源汽车",
-        "title": "五菱宏光MINI EV升级四门四座，起售价4.48万元",
+        "title": "五菱宏光MINI EV四门四座版上市，起售价4.48万元",
         "link": "https://www.ifanr.com/1660061?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "全新五菱宏光MINI EV改为四门四座布局，提升了实用性与乘坐便利性，起售价为4.48万元。",
-        "comment": "在保持低价优势的同时，实用性显著提升。",
+        "summary": "五菱宏光MINI EV推出四门四座新版本，起售价4.48万元，在保持低价的同时提升了实用性与乘坐体验。",
+        "comment": "以极低价格切入四座市场，有望进一步扩大用户基础。",
         "image": "",
         "score": 88
       },
@@ -603,13 +593,23 @@
         "score": 88
       },
       {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "苹果下架Mac Pro，小米与老头乐和解，微信解读输入原理",
+        "link": "https://www.ifanr.com/1659953?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "荣耀高管预测内存涨价将持续至2028年；大疆发布首款全景无人机，售价2788元起；零跑A10上市，起售价6.58万元。",
+        "comment": "科技行业动态频发，涉及产品、法律与用户体验。",
+        "image": "",
+        "score": 88
+      },
+      {
         "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "任天堂Switch 2手柄配件在亚马逊2026春季促销中降价",
-        "link": "https://www.gamespot.com/articles/this-comfortable-nintendo-switch-2-grip-is-discounted-in-amazons-spring-sale-2026-event/1100-6539046/?ftag=CAD-01-10abi2f",
-        "summary": "Gammeefy JC400 Switch 2控制器在亚马逊春季促销期间提供折扣，该配件旨在提升Switch 2掌机模式的舒适度和人体工学体验。",
-        "comment": "配件促销信息，对特定玩家群体有实用价值。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4672492-gammeefy.jpg",
+        "tag": "图书促销",
+        "title": "《荆棘与玫瑰的庭院》五部曲平装套装限时48%折扣",
+        "link": "https://www.gamespot.com/articles/save-48-on-the-a-court-of-thorns-and-roses-paperback-5-novel-box-set/1100-6539045/?ftag=CAD-01-10abi2f",
+        "summary": "GameSpot报道，Sarah J. Maas的奇幻爱情系列小说《荆棘与玫瑰的庭院》五部曲平装套装正以48%折扣促销，为即将推出的第六、七部新书预热。",
+        "comment": "出版商为新书上市进行的常规促销活动。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4672286-acourtofthornsandrosespaperbackboxset.jpg",
         "score": 88
       }
     ]
