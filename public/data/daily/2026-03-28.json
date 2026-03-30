@@ -7,18 +7,8 @@
         "tag": "人工智能",
         "title": "斯坦福研究揭示向AI聊天机器人寻求个人建议的危险性",
         "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-        "summary": "斯坦福计算机科学家新研究试图量化AI谄媚倾向的危害程度，聚焦个人建议场景下的潜在风险。",
-        "comment": "研究为AI依赖症敲响警钟，需警惕技术越界。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic付费用户激增，Claude消费者规模达数千万",
-        "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-        "summary": "Anthropic旗下AI助手Claude付费用户快速增长，市场估计其消费者用户规模在1800万至3000万之间，但公司未披露具体数据。",
-        "comment": "Claude在消费级市场快速崛起，AI助手竞争进入白热化阶段。",
+        "summary": "斯坦福计算机科学家研究试图量化AI谄媚倾向的危害程度，指出向聊天机器人寻求个人建议存在风险。",
+        "comment": "研究为AI助手的伦理边界提供了重要实证依据。",
         "image": "",
         "score": 100
       },
@@ -27,8 +17,18 @@
         "tag": "人工智能",
         "title": "马斯克xAI最后一位联合创始人据报离职",
         "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-        "summary": "据报道，埃隆·马斯克旗下人工智能公司xAI的最后一位联合创始人已离职，此前11位联合创始人中仅剩两位，其余已陆续离开。",
+        "summary": "据报道，埃隆·马斯克旗下人工智能公司xAI的最后一位联合创始人已离职，此前11位联合创始人中仅剩两位留任。",
         "comment": "核心团队持续流失，xAI发展前景蒙上阴影。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Anthropic旗下Claude付费用户量激增",
+        "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+        "summary": "Anthropic未公开Claude具体用户数据，但外界估计其消费者用户数在1800万至3000万之间，付费用户增长迅猛。",
+        "comment": "Claude付费用户快速增长，显示消费者AI市场持续升温。",
         "image": "",
         "score": 99
       },
@@ -37,28 +37,18 @@
         "tag": "人工智能",
         "title": "Bluesky推出AI应用Attie，支持用户自定义信息流",
         "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-        "summary": "Bluesky发布新应用Attie，利用人工智能技术帮助用户在开放社交协议atproto上构建个性化信息流。",
+        "summary": "去中心化社交协议Bluesky发布新应用Attie，利用人工智能技术帮助用户基于AT协议构建个性化信息流。",
         "comment": "AI正成为社交平台提升用户体验的关键工具。",
         "image": "",
         "score": 97
       },
       {
-        "category": "数码科技",
-        "tag": "AI短剧",
-        "title": "AI短剧产能爆发：一人一天一部剧时代来临",
-        "link": "https://36kr.com/p/3738258350817540?f=rss",
-        "summary": "字节跳动Seedance2.0推动AI短剧规模化，巨日禄创始人称3-4月为关键节点，制作成本将大幅压缩，人力成本占比倒挂。",
-        "comment": "技术突破将重塑短剧行业生态与成本结构。",
-        "image": "",
-        "score": 97
-      },
-      {
         "category": "游戏影视",
-        "tag": "育碧",
-        "title": "育碧40周年：开创游戏产业却落后于时代",
+        "tag": "游戏产业",
+        "title": "育碧40周年：塑造游戏产业却落后于时代",
         "link": "https://www.gamespot.com/articles/ubisoft-shaped-the-games-industry-only-to-be-left-behind-by-its-creation/1100-6539076/?ftag=CAD-01-10abi2f",
-        "summary": "育碧庆祝成立40周年，回顾其如何塑造现代游戏产业，并探讨其未来发展方向。",
-        "comment": "行业先驱面临转型挑战，需重新定位以应对市场变化。",
+        "summary": "育碧庆祝成立40周年，回顾其推动现代游戏产业发展的历程，并探讨其未来发展方向。",
+        "comment": "行业先驱面临转型挑战，需重新定位以跟上时代。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15855271/4672464-4639100-ubisoft1.jpg",
         "score": 92
       },
@@ -67,7 +57,7 @@
         "tag": "苹果",
         "title": "苹果发高额奖金防挖角，Claude新模型代号曝光",
         "link": "https://www.ifanr.com/1660125?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果为留住关键设计师发放高额奖金；Claude最强新模型代号为「卡皮巴拉」；小鹏汽车将更名为小鹏集团。",
+        "summary": "苹果为防止设计师被挖角发放高额奖金；Claude最强新模型代号为「卡皮巴拉」；小鹏汽车将更名为小鹏集团。",
         "comment": "科技巨头人才争夺战加剧，行业竞争进入新阶段。",
         "image": "",
         "score": 91
@@ -78,9 +68,9 @@
         "title": "《宝可梦GO》更新或新增自动捕捉道具",
         "link": "https://www.gamespot.com/articles/new-pokemon-go-update-may-have-an-item-that-catches-pokemon-for-you/1100-6539080/?ftag=CAD-01-10abi2f",
         "summary": "《宝可梦GO》数据挖掘显示，游戏可能新增自动投掷精灵球、激活补给站的道具，为玩家提供Go Plus设备外的替代方案。",
-        "comment": "自动化功能可能降低游戏核心的探索与捕捉乐趣。",
+        "comment": "自动化功能或将改变游戏核心玩法，便利性与沉浸感需平衡。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4672527-pokemongocroagunk.jpg",
-        "score": 89
+        "score": 90
       }
     ]
   }
