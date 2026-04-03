@@ -17,10 +17,10 @@
         "tag": "人工智能",
         "title": "谷歌Vids应用新增提示词操控虚拟形象功能",
         "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-        "summary": "谷歌在Vids视频创作应用中新增功能，允许用户通过提示词自定义并操控虚拟形象，用于视频内容制作。",
-        "comment": "AI视频工具交互方式更趋自然，降低创作门槛。",
+        "summary": "谷歌在Vids视频应用中新增功能，允许用户通过提示词自定义并操控虚拟形象进行视频创作。",
+        "comment": "AI视频工具交互方式进一步简化，降低创作门槛。",
         "image": "",
-        "score": 99
+        "score": 97
       },
       {
         "category": "人工智能",
@@ -30,35 +30,15 @@
         "summary": "OpenAI收购硅谷热门科技播客TBPN，该节目将由首席政治运营官Chris Lehane监督，但保持独立运营。",
         "comment": "科技巨头布局内容生态，AI与媒体融合趋势加速。",
         "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "AI公司日耗120万亿Token引行业关注",
-        "link": "https://www.ifanr.com/1660703?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "报道揭示AI行业每日消耗120万亿Token的惊人数据，反映大模型训练成本飙升与算力需求激增的现状。",
-        "comment": "算力消耗成AI竞赛新指标，行业门槛持续抬高。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "Anthropic删库引争议，开发者爆改Claude Code源码获10万星",
-        "link": "https://www.ifanr.com/1660636?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Anthropic删除Claude Code相关代码库引发社区不满，有开发者迅速修改并开源替代方案，在GitHub上快速获得超过10万星标关注。",
-        "comment": "开源社区的快速响应展现了对抗巨头单方面决策的力量。",
-        "image": "",
-        "score": 92
+        "score": 96
       },
       {
         "category": "游戏影视",
-        "tag": "独立游戏",
+        "tag": "游戏开发",
         "title": "《Peak》成功后开发团队面临倦怠与抉择",
         "link": "https://www.gamespot.com/articles/after-peaks-success-its-devs-face-burnout-and-big-decisions/1100-6539195/?ftag=CAD-01-10abi2f",
-        "summary": "独立游戏《Peak》成功后，开发团队面临创意规划与玩家期待之间的平衡压力，突发的成功正在重塑工作室的未来方向。",
-        "comment": "独立游戏的成功光环背后，往往伴随着团队可持续性的严峻考验。",
+        "summary": "独立游戏《Peak》成功后，开发团队面临创意规划与玩家期待之间的平衡难题，突如其来的成功正重塑工作室的未来方向。",
+        "comment": "成功的光环下，独立开发者仍需直面可持续创作的现实挑战。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4676769-4519124-peak_keyart_no_logo.jpg",
         "score": 92
       },
@@ -67,10 +47,40 @@
         "tag": "新能源汽车",
         "title": "小鹏MONA M03搭载图灵芯片与越级座舱",
         "link": "https://www.ifanr.com/1660774?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小鹏MONA M03起售价11.98万元，新增图灵芯片与越级座舱配置，官方称其产品力为降维打击。",
-        "comment": "配置升级旨在巩固其在同级市场的领先份额。",
+        "summary": "小鹏MONA M03以11.98万元起售，新增图灵芯片与越级座舱配置，官方称其具备降维打击同级产品的实力。",
+        "comment": "配置升级有望巩固其在细分市场的领先地位。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "人工智能",
+        "title": "AI公司日耗120万亿Token引行业关注",
+        "link": "https://www.ifanr.com/1660703?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "报道揭示AI行业每日消耗120万亿Token，反映模型训练与推理需求激增，Token工厂模式正在兴起。",
+        "comment": "算力消耗成行业新门槛，资源竞争加剧。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI创作",
+        "title": "B站AI创作大赛一等奖得主：AI无助于创意但另有价值",
+        "link": "https://www.ifanr.com/1660654?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "获奖UP主认为AI对创意本身帮助有限，但强调其价值在于其他方面，并指出“品位”在AI时代变得更为关键。",
+        "comment": "观点独到，揭示了AI工具与人类创意间的复杂关系。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《使命召唤：黑色行动7》开启免费试玩，含30多张地图与双倍经验",
+        "link": "https://www.gamespot.com/articles/call-of-duty-black-ops-7-free-trial-goes-live-with-30-maps-and-double-xp/1100-6539196/?ftag=CAD-01-10abi2f",
+        "summary": "动视旗下《使命召唤：黑色行动7》本周末开启免费试玩活动，提供超过30张地图，并配合新赛季推出双倍经验加成。",
+        "comment": "限时免费试玩是吸引新玩家和活跃社区的有效策略。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676782-screenshot2026-04-02at2.50.24%E2%80%AFpm.png",
+        "score": 90
       },
       {
         "category": "游戏影视",
@@ -78,7 +88,7 @@
         "title": "Switch及Switch 2游戏本周优惠汇总（2026年4月2日）",
         "link": "https://www.gamespot.com/articles/nintendo-physical-digital-game-deals/1100-6538446/?ftag=CAD-01-10abi2f",
         "summary": "多款热门Switch 2游戏正以低价促销，包括《八方旅人0》等RPG作品，是扩充游戏库的好时机。",
-        "comment": "促销信息对玩家有实用价值，但内容时效性强。",
+        "comment": "促销信息对玩家有直接参考价值，但需注意时效性。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4665513-switchdealsmarch12.png",
         "score": 89
       },
@@ -107,18 +117,18 @@
         "tag": "电影",
         "title": "四岁儿童评《超级马里奥银河》电影：票房将创天文数字",
         "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-as-reviewed-by-a-four-year-old/1100-6539197/?ftag=CAD-01-10abi2f",
-        "summary": "《超级马里奥银河》电影上映，无论影评如何，其票房预计将达天文数字。报道特别呈现了一位四岁儿童的观影反馈。",
-        "comment": "儿童视角的影评，凸显了该片的核心受众与市场潜力。",
+        "summary": "《超级马里奥银河》电影上映，无论影评如何，其票房预计将取得惊人成绩。报道特别收录了一名四岁儿童对影片的观感。",
+        "comment": "儿童视角的影评为商业大片提供了独特的观察维度。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4676761-4676202-super-mario.jpg",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "游戏影视",
-        "title": "查理·戴提议丹尼·德维托为《马里奥》续集配音瓦力欧",
+        "title": "查理·戴提议丹尼·德维托为《马里奥》续集配音瓦里奥",
         "link": "https://www.gamespot.com/articles/charlie-day-says-what-were-all-thinking-danny-devito-should-play-wario-in-the-next-mario-movie/1100-6539198/?ftag=CAD-01-10abi2f",
-        "summary": "《超级马里奥兄弟大电影》票房成功后，粉丝及主演查理·戴均认为丹尼·德维托是续集中瓦力欧的完美配音人选。",
-        "comment": "选角建议极具观众缘，契合角色气质。",
+        "summary": "在《超级马里奥兄弟大电影》票房成功后，粉丝及主演查理·戴均认为丹尼·德维托是续集中瓦里奥角色的理想配音人选。",
+        "comment": "选角呼声与角色特质高度契合，具备话题性。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676783-screenshot2026-04-02at3.32.17%E2%80%AFpm.png",
         "score": 89
       },
@@ -128,18 +138,8 @@
         "title": "《超级战斗高尔夫》4月9日更新：新增火箭球杆与混乱玩法",
         "link": "https://www.gamespot.com/articles/super-battle-golf-update-gives-you-a-rocket-driver-to-ramp-up-the-chaos/1100-6539192/?ftag=CAD-01-10abi2f",
         "summary": "多人同屏竞技游戏《超级战斗高尔夫》将于4月9日推出更新，新增球洞、火箭球杆机制等内容，进一步强化游戏的混乱竞技体验。",
-        "comment": "火箭球杆的加入将把混乱竞技推向新高度。",
+        "comment": "火箭球杆的加入将把混乱对抗推向新高度。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676760-screenshot2026-04-02at1.25.32%E2%80%AFpm.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《使命召唤：黑色行动7》开启免费试玩，含30多张地图与双倍经验",
-        "link": "https://www.gamespot.com/articles/call-of-duty-black-ops-7-free-trial-goes-live-with-30-maps-and-double-xp/1100-6539196/?ftag=CAD-01-10abi2f",
-        "summary": "动视《使命召唤：黑色行动7》本周末开启免费试玩，包含超过30张地图，并提供双倍经验加成，恰逢新赛季上线。",
-        "comment": "限时免费试玩是吸引新玩家和促进销量的有效策略。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676782-screenshot2026-04-02at2.50.24%E2%80%AFpm.png",
         "score": 89
       },
       {
@@ -158,27 +158,7 @@
         "title": "AirPods Max 2体验：降噪与音质小升级",
         "link": "https://www.ifanr.com/1660740?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "新款AirPods Max在降噪能力和声音饱满度上有所提升，属于注重实用性的迭代更新。",
-        "comment": "一次稳健的功能性增强，但缺乏颠覆性创新。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI创作",
-        "title": "B站AI创作赛冠军：AI无助于创意但另有价值",
-        "link": "https://www.ifanr.com/1660654?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "获奖UP主认为AI对创意本身无帮助，但能凸显创作者品位的重要性，技术工具的价值在于辅助而非替代。",
-        "comment": "AI工具的价值在于辅助创意执行，而非创意本身。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "数码科技",
-        "tag": "移动影像",
-        "title": "骁龙移动影像技术十年发展回顾",
-        "link": "https://www.ifanr.com/1660620?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章回顾了高通骁龙移动平台在移动影像领域长达十年的技术演进与创新历程。",
-        "comment": "梳理了移动影像核心驱动力之一的发展脉络。",
+        "comment": "一次稳健的功能性增强，但未带来颠覆性变化。",
         "image": "",
         "score": 88
       },
@@ -204,33 +184,33 @@
       },
       {
         "category": "时事热点",
-        "tag": "伊朗",
-        "title": "伊朗两大钢铁厂遭空袭停产，企业称经济或受重创",
+        "tag": "中东局势",
+        "title": "伊朗两大钢铁厂因空袭停产，企业称经济或受重创",
         "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-        "summary": "伊朗称以色列上周在美国协调下发动空袭，导致其两大钢铁厂停产，可能对伊朗经济造成重大损害。",
-        "comment": "地区冲突升级，关键工业设施成为打击目标。",
+        "summary": "伊朗称以色列上周在美国协调下发动空袭，导致该国两大钢铁厂停产，可能对伊朗经济造成重大损害。",
+        "comment": "地区冲突升级，直接影响关键工业产能。",
         "image": "",
         "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际关系",
-        "title": "马克龙批评特朗普对伊朗战争态度反复",
-        "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-        "summary": "马克龙批评特朗普在美以对伊朗战争问题上立场反复，称其不应每天发表不同言论。",
-        "comment": "马克龙罕见公开批评盟友，凸显西方对伊朗问题分歧。",
-        "image": "",
-        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "供应链",
         "title": "印度酷暑致水和啤酒成本恐飙升",
         "link": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-        "summary": "受战争影响，塑料与玻璃瓶制造商原材料供应紧张，瓶装水和啤酒生产成本面临上涨压力。",
-        "comment": "极端天气叠加地缘冲突，加剧了供应链的脆弱性。",
+        "summary": "受战争影响，塑料和玻璃瓶制造商难以获取原材料，供应链紧张，可能导致水和啤酒等饮品成本大幅上涨。",
+        "comment": "全球供应链问题正通过极端天气加剧民生压力。",
         "image": "",
-        "score": 84
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际关系",
+        "title": "马克龙批评特朗普对伊朗战争态度",
+        "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+        "summary": "马克龙批评特朗普在美以对伊朗战争问题上每日发言、立场矛盾的做法，认为应严肃对待。",
+        "comment": "马克龙罕见公开批评盟友，凸显西方对伊朗问题分歧。",
+        "image": "",
+        "score": 86
       },
       {
         "category": "时事热点",
@@ -247,28 +227,28 @@
         "tag": "文物盗窃",
         "title": "荷兰古金头盔被盗一年多后寻回",
         "link": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
-        "summary": "2025年1月被盗的古金头盔及三只金手镯中，头盔与两只手镯已被追回，尚有一只未寻获。",
+        "summary": "2025年1月被盗的古代黄金头盔及三只金手镯中，头盔与两只手镯已被追回，尚有一只未寻获。",
         "comment": "文物追索取得进展，但仍有遗憾。",
         "image": "",
         "score": 84
       },
       {
         "category": "时事热点",
-        "tag": "娱乐诉讼",
-        "title": "法官驳回布莱克·莱弗利对贾斯汀·巴尔东尼的大部分指控",
+        "tag": "娱乐法律",
+        "title": "法官驳回布蕾克·莱弗利对贾斯汀·巴尔东尼的大部分指控",
         "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
-        "summary": "法官驳回了布莱克·莱弗利对贾斯汀·巴尔东尼的大部分骚扰指控，但保留了其中三项，意味着此民事诉讼将于下月继续审理。",
-        "comment": "诉讼焦点收窄，案件核心争议将进入庭审阶段。",
+        "summary": "法官保留了针对贾斯汀·巴尔东尼的三项指控，这意味着该民事诉讼将于下个月继续进行庭审。",
+        "comment": "诉讼核心争议仍在，案件将进入下一阶段。",
         "image": "",
         "score": 83
       },
       {
         "category": "时事热点",
         "tag": "宠物监护权",
-        "title": "巴西新法规定：离婚夫妇可共享宠物监护权",
+        "title": "巴西新法规定分手伴侣可共享宠物监护权",
         "link": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-        "summary": "巴西国会通过新法案，允许离婚或分居夫妇对宠物享有共同监护权，立法者认为这反映了宠物对主人的重要性。",
-        "comment": "法律承认宠物在家庭中的情感地位，是观念进步的体现。",
+        "summary": "巴西国会通过新法，允许分手伴侣对宠物共同行使监护权，立法者认为这反映了宠物对主人的重要性。",
+        "comment": "法律进步体现宠物在家庭中的情感地位。",
         "image": "",
         "score": 83
       }
