@@ -4,23 +4,73 @@
     "articles": [
       {
         "category": "数码科技",
-        "tag": "商业动态",
-        "title": "张雪回应获赠劳斯莱斯，与辉同行带货超千万，马斯克评OpenAI",
-        "link": "https://36kr.com/p/3750345334292999?f=rss",
-        "summary": "陈光标赠张雪1300万劳斯莱斯获回应；与辉同行带货优思益销售额超千万；马斯克回应OpenAI股票遇冷；抖音生活服务架构调整。",
-        "comment": "多方商业动态集中，反映当前市场热点与争议并存。",
+        "tag": "量子计算",
+        "title": "量旋科技3个月融资近10亿，量子计算公司规模化盈利",
+        "link": "https://36kr.com/p/3750411191550467?f=rss",
+        "summary": "深圳量子计算企业量旋科技近日完成C+轮融资6亿元，近三个月累计融资近10亿元，投资方包括基石资本、国泰君安创新投等多元机构，并已实现规模化盈利。",
+        "comment": "量子计算赛道融资热度不减，规模化盈利成关键里程碑。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "新材料",
+        "title": "戴纳科技获近亿融资，将建全球首个新材料CRO平台",
+        "link": "https://36kr.com/p/3750417621795588?f=rss",
+        "summary": "戴纳科技完成近亿元B+轮融资，资金用于技术迭代、产能扩张及与北京化工大学共建全球首个新材料CRO平台，加速AI+新材料研发。",
+        "comment": "硬科技创业获资本支持，AI赋能新材料研发值得关注。",
         "image": "",
         "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI社交",
+        "title": "叽伴AI社交产品面临用户留存难题",
+        "link": "https://36kr.com/p/3749816005657093?f=rss",
+        "summary": "AI社交产品用户尝鲜热情高但留存率低，主要因角色失忆、性格漂移及用户编剧疲劳等问题导致体验负担过重。",
+        "comment": "AI社交需解决角色一致性难题，否则难逃昙花一现。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "可穿戴设备",
+        "title": "00后医学博士研发可穿戴止鼾设备获顺为独家投资",
+        "link": "https://36kr.com/p/3750501433705224?f=rss",
+        "summary": "深圳夜合科技完成千万元天使轮融资，由顺为资本独家投资，资金将用于核心产品研发，推动医疗技术向消费场景延伸。",
+        "comment": "年轻团队切入睡眠健康赛道，技术消费化趋势值得关注。",
+        "image": "",
+        "score": 94
       },
       {
         "category": "数码科技",
         "tag": "AI大赛",
         "title": "第二届数龙杯AI大赛新增智能体赛道",
         "link": "https://36kr.com/p/3749811482297090?f=rss",
-        "summary": "世纪华通主办的第二届数龙杯全球AI创新大赛4月初启动，新增AI智能体赛道，旨在挖掘有创造力、能解决实际问题的优秀项目。",
+        "summary": "世纪华通主办的第二届数龙杯全球AI创新大赛4月启动，新增AI智能体赛道，旨在挖掘有创造力、能解决实际问题的项目。",
         "comment": "赛事紧跟AI智能体热点，为开发者提供新竞技场。",
         "image": "",
         "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "科技资讯",
+        "title": "张雪回应获赠劳斯莱斯，与辉同行带货超千万，马斯克评OpenAI",
+        "link": "https://36kr.com/p/3750345334292999?f=rss",
+        "summary": "张雪回应陈光标赠车传闻；与辉同行带货优思益销售额超千万；马斯克评论OpenAI二级市场遇冷；抖音生活服务架构调整，茅台批价上涨。",
+        "comment": "科技圈热点混杂，商业动态与名人效应交织。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI模型",
+        "title": "Google发布最强小模型，手机可运行",
+        "link": "https://www.ifanr.com/1660799?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Google发布新款小型AI模型，强调在手机等设备上的高效运行能力，挑战大模型依赖算力的现状。",
+        "comment": "小模型轻量化是AI落地关键，但性能与通用性仍需观察。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
@@ -28,17 +78,37 @@
         "title": "豆包大模型日均Token破120万亿，Switch 2或涨价",
         "link": "https://www.ifanr.com/1660800?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "豆包大模型日均Token使用量突破120万亿；广电行业组织发布AI换脸严正声明；任天堂前销售负责人称Switch 2涨价几乎不可避免。",
-        "comment": "AI应用与游戏硬件成本压力并存，行业动态密集。",
+        "comment": "AI应用规模持续扩大，游戏硬件成本压力显现。",
         "image": "",
         "score": 91
       },
       {
+        "category": "游戏影视",
+        "tag": "游戏产业",
+        "title": "《超级马里奥》电影带动《星际火狐》游戏需求",
+        "link": "https://www.gamespot.com/articles/if-your-kids-suddenly-want-to-play-star-fox-heres-how/1100-6539200/?ftag=CAD-01-10abi2f",
+        "summary": "《超级马里奥》大电影上映后，片中客串的《星际火狐》角色意外引发孩子们对该经典游戏系列的兴趣。",
+        "comment": "电影联动效应显著，成功唤醒经典游戏IP。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4677118-4672191-foxmariogalaxy.jpg",
+        "score": 89
+      },
+      {
+        "category": "时事热点",
+        "tag": "航天",
+        "title": "阿尔忒弥斯2号任务首次将人类带出地球轨道",
+        "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+        "summary": "阿尔忒弥斯2号任务完成关键推进，自1972年以来首次将人类带出地球轨道，向月球进发。",
+        "comment": "时隔半个世纪，人类重返深空迈出关键一步。",
+        "image": "",
+        "score": 88
+      },
+      {
         "category": "时事热点",
         "tag": "美国政治",
-        "title": "特朗普撤换美司法部长邦迪，爱泼斯坦案处理受质疑",
+        "title": "特朗普撤换美司法部长帕姆·邦迪",
         "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国前司法部长帕姆·邦迪被特朗普撤换，其任内对爱泼斯坦相关案件的处理方式引发争议，成为其任期的主要阴影。",
-        "comment": "人事变动再次凸显特朗普政府对司法系统的影响力。",
+        "summary": "帕姆·邦迪担任美国最高执法官员期间，其处理爱泼斯坦文件的方式引发争议，导致其任期蒙上阴影。",
+        "comment": "人事变动再次凸显特朗普政府对司法事务的干预。",
         "image": "",
         "score": 86
       }
