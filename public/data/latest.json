@@ -3,12 +3,22 @@
     "week": "周五",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Moonbounce获1200万美元融资，开发AI内容审核引擎",
+        "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+        "summary": "初创公司Moonbounce获1200万美元融资，致力于开发能将内容审核政策转化为一致、可预测AI行为的控制引擎。",
+        "comment": "AI治理工具正成为资本关注的新赛道。",
+        "image": "",
+        "score": 97
+      },
+      {
         "category": "数码科技",
         "tag": "量子计算",
         "title": "量旋科技3个月融资近10亿，量子计算公司规模化盈利",
         "link": "https://36kr.com/p/3750411191550467?f=rss",
-        "summary": "深圳量子计算企业量旋科技近日完成C+轮融资6亿元，近三个月累计融资近10亿元，投资方包括基石资本、国泰君安创新投等多元机构，公司已实现规模化盈利。",
-        "comment": "量子计算赛道获资本密集加注，商业化进程加速。",
+        "summary": "深圳量子计算企业量旋科技完成C+轮6亿元融资，三个月内累计融资近10亿元，已实现规模化盈利，投资方包括基石资本、国泰君安创新投等多元机构。",
+        "comment": "量子计算赛道融资热度不减，规模化盈利成行业新焦点。",
         "image": "",
         "score": 97
       },
@@ -17,8 +27,8 @@
         "tag": "神州数码",
         "title": "神州数码2025年营收超1400亿，AI业务增长近五成",
         "link": "https://36kr.com/p/3751046517129735?f=rss",
-        "summary": "神州数码2025年营收1438亿元，同比增长12%。AI相关业务收入330亿元，同比大增48%，成为核心增长引擎，迈入规模化落地期。",
-        "comment": "AI业务已成为神州数码与传统分销并重的增长支柱。",
+        "summary": "神州数码2025年营收1438亿元，同比增长12%。AI相关业务收入达330亿元，同比增长48%，成为核心增长引擎，迈入规模化落地期。",
+        "comment": "AI业务已成为神州数码与传统分销并重的增长极。",
         "image": "",
         "score": 96
       },
@@ -27,18 +37,18 @@
         "tag": "泡泡玛特",
         "title": "泡泡玛特2025年财报亮眼但股价大跌",
         "link": "https://36kr.com/p/3750711532569350?f=rss",
-        "summary": "泡泡玛特2025年财报显示收入371.2亿元，同比增长185%，净利润130.1亿元，增长293%，海外收入占比超四成。然而财报发布当日股价一度跌超20%。",
-        "comment": "业绩高增长与资本市场反应背离，显示市场对其未来预期谨慎。",
+        "summary": "泡泡玛特2025年财报显示收入371.2亿元，同比增长185%，净利润130.1亿元，同比增长293%，海外收入占比超四成。但财报发布当日股价一度跌超20%。",
+        "comment": "业绩增长与市场预期脱节，反映投资者对增长可持续性的担忧。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "AI生成内容",
+        "tag": "AI内容",
         "title": "阅文推AI拟真人大讲堂，强调故事为AI内容核心",
         "link": "https://36kr.com/p/3750704146072326?f=rss",
-        "summary": "AI拟真人剧从AI漫剧赛道衍生，受益于视频生成大模型进步。2025年下半年崭露头角，从业者认为其天花板高于传统影视，在技术未成熟时便纷纷入局。今年1月字节Seedance2.0等进展加速。",
-        "comment": "技术热潮中回归故事本质，是AI内容走向成熟的清醒信号。",
+        "summary": "AI拟真人剧从AI漫剧赛道衍生，受益于视频生成大模型进步。2025年下半年崭露头角，从业者认为其天花板高于传统影视，但技术问题尚存。今年1月字节Seedance2.0等入局。",
+        "comment": "技术热潮下，阅文回归故事本质的判断值得关注。",
         "image": "",
         "score": 96
       },
@@ -47,48 +57,38 @@
         "tag": "新材料",
         "title": "戴纳科技获近亿融资，将建全球首个新材料CRO平台",
         "link": "https://36kr.com/p/3750417621795588?f=rss",
-        "summary": "戴纳科技完成近亿元B+轮融资，资金用于技术迭代、产能扩张及与北京化工大学共建全球首个新材料CRO平台，加速AI+新材料研发。",
-        "comment": "硬科技创业获资本支持，AI赋能新材料研发值得关注。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "可穿戴设备",
-        "title": "00后医学博士研发可穿戴止鼾设备获顺为独家投资",
-        "link": "https://36kr.com/p/3750501433705224?f=rss",
-        "summary": "深圳夜合科技完成千万元天使轮融资，由顺为资本独家投资，资金将用于核心产品研发，推动医疗技术向消费场景延伸。",
-        "comment": "年轻团队切入睡眠健康赛道，技术消费化趋势值得关注。",
+        "summary": "戴纳科技完成近亿元B+轮融资，资金将用于核心技术迭代、产能扩张，并与北京化工大学联合搭建全球首个新材料CRO平台。",
+        "comment": "硬科技创业获资本支持，AI+新材料研发平台建设值得关注。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "AI社交",
-        "title": "叽伴AI社交产品面临用户留存难题",
+        "title": "叽伴AI社交产品面临用户留存困境",
         "link": "https://36kr.com/p/3749816005657093?f=rss",
-        "summary": "AI社交产品用户尝鲜热情高但留存率低，存在角色失忆、性格漂移等问题，用户需同时扮演体验者和编剧，负担过重导致流失。",
-        "comment": "AI社交需解决角色一致性与交互负担，才能突破留存瓶颈。",
+        "summary": "AI社交产品用户尝鲜热情高但留存率低，存在角色失忆、性格漂移、编剧疲劳等问题，导致用户负担过重而流失。",
+        "comment": "AI社交需解决技术与人性的匹配难题。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "AI大赛",
-        "title": "第二届数龙杯AI大赛新增智能体赛道",
-        "link": "https://36kr.com/p/3749811482297090?f=rss",
-        "summary": "世纪华通主办的第二届数龙杯全球AI创新大赛4月启动，新增AI智能体赛道，旨在挖掘有创造力、能解决实际问题的优秀项目。",
-        "comment": "赛事紧跟AI智能体热点，为开发者提供新竞技场。",
+        "tag": "可穿戴设备",
+        "title": "00后医学博士研发可穿戴止鼾设备获顺为投资",
+        "link": "https://36kr.com/p/3750501433705224?f=rss",
+        "summary": "深圳夜合科技完成千万元天使轮融资，由顺为资本独家投资，资金将用于核心产品研发，推动医疗技术向消费场景延伸。",
+        "comment": "年轻团队切入睡眠健康赛道，技术消费化趋势明显。",
         "image": "",
         "score": 94
       },
       {
         "category": "数码科技",
-        "tag": "食品饮料",
+        "tag": "元气森林",
         "title": "元气森林创造营展示新品研发，强调年轻创新与长期主义",
         "link": "https://36kr.com/p/3749467949482759?f=rss",
         "summary": "元气森林举办第二届创造营活动，十余位年轻产品经理展示多款家族新产品，分享研发初心。活动源于2024年经销商大会承诺，旨在为年轻人提供舞台，实践长期主义。",
-        "comment": "企业通过内部创新活动激发活力，但最终需市场检验产品成败。",
+        "comment": "企业通过内部创新活动激发活力，但需确保研发投入能转化为市场竞争力。",
         "image": "",
         "score": 93
       },
@@ -104,11 +104,21 @@
       },
       {
         "category": "数码科技",
-        "tag": "人工智能",
+        "tag": "AI大赛",
+        "title": "第二届数龙杯AI大赛新增智能体赛道",
+        "link": "https://36kr.com/p/3749811482297090?f=rss",
+        "summary": "世纪华通主办的第二届数龙杯全球AI创新大赛4月启动，新增AI智能体赛道，旨在挖掘能解决实际问题的优秀项目。",
+        "comment": "赛事紧跟AI智能体热点，为开发者提供新竞技场。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI模型",
         "title": "Google发布最强小模型，手机可运行",
         "link": "https://www.ifanr.com/1660799?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Google发布高性能小模型，强调以小型化取胜，可在手机上运行。",
-        "comment": "小模型在端侧部署的实用价值日益凸显。",
+        "summary": "Google发布高性能小模型，强调在手机等设备上的运行能力，挑战大模型依赖。",
+        "comment": "小模型轻量化是AI落地关键趋势。",
         "image": "",
         "score": 92
       },
@@ -125,12 +135,72 @@
       {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "豆包大模型日均Token破120万亿，Switch 2或涨价",
+        "title": "豆包大模型日均Token破120万亿，广电发AI换脸声明",
         "link": "https://www.ifanr.com/1660800?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "豆包大模型日均Token使用量突破120万亿；广电行业组织发布AI换脸严正声明；任天堂前销售负责人称Switch 2涨价几乎不可避免。",
-        "comment": "AI应用爆发与硬件成本压力并存，行业面临双重挑战。",
+        "comment": "AI应用与监管同步推进，科技行业动态密集。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "任天堂",
+        "title": "前零售主管称Switch 2涨价或不可避免",
+        "link": "https://www.gamespot.com/articles/why-a-switch-2-price-increase-may-be-inevitable/1100-6539210/?ftag=CAD-01-10abi2f",
+        "summary": "前任天堂零售负责人表示，受近期成本普遍上涨影响，Switch 2主机价格上调可能“不可避免”。",
+        "comment": "成本压力或推动次世代主机定价策略调整。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4677183-inevitable-mario.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏开发",
+        "title": "前R星开发者称《GTA 6》或将借鉴《荒野大镖客2》设计",
+        "link": "https://www.gamespot.com/articles/gta-6-will-likely-borrow-ideas-from-red-dead-redemption-2-former-rockstar-dev-says/1100-6539209/?ftag=CAD-01-10abi2f",
+        "summary": "前Rockstar开发者表示，若《GTA 6》不借鉴《荒野大镖客2》的部分设计理念，他会感到震惊。该观点在访谈中提出，认为R星会延续成功经验。",
+        "comment": "开放世界设计经验的传承符合行业规律。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4677197-screenshot2026-04-03at10.22.23%E2%80%AFam.png",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "VR游戏",
+        "title": "《忍者神龟：帝国城》VR游戏4月30日发售",
+        "link": "https://www.gamespot.com/articles/next-tmnt-game-is-coming-very-soon-lets-you-lift-weights-and-eat-pizza-in-vr/1100-6539207/?ftag=CAD-01-10abi2f",
+        "summary": "Cortopia与Beyond Frames宣布VR游戏《忍者神龟：帝国城》将于4月30日发售，玩家可在虚拟现实中体验举重、吃披萨等互动内容。",
+        "comment": "VR玩法创新但IP改编效果待验证。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4677179-screenshot2026-04-03at9.35.30%E2%80%AFam.png",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏剧情",
+        "title": "《战争机器》演员构想6代剧情：马库斯大战僵尸儿子",
+        "link": "https://www.gamespot.com/articles/gears-of-war-actors-gears-6-fanfic-involves-marcus-fighting-his-zombie-son/1100-6539206/?ftag=CAD-01-10abi2f",
+        "summary": "JD Fenix配音演员Liam M设想了《战争机器6》的粉丝向剧情，涉及主角马库斯与僵尸化儿子的对抗，而官方新作《战争机器：E日》实为前传性质作品。",
+        "comment": "演员的即兴构想展现了粉丝对正统续作的强烈期待。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4677172-gears5.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "《黎明杀机》开发商明确表示暂无续作计划",
+        "link": "https://www.gamespot.com/articles/dead-by-daylight-2-no-way-were-not-doing-that-dev-says/1100-6539205/?ftag=CAD-01-10abi2f",
+        "summary": "在游戏即将迎来十周年之际，开发商Behaviour Interactive明确向粉丝表示，目前没有制作《黎明杀机2》的计划。",
+        "comment": "开发商选择深耕现有内容，而非急于推出续作。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4677173-screenshot2026-04-03at9.10.11%E2%80%AFam.png",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "杰克·布莱克称R星不做《荒野大镖客》电影是遗憾",
+        "link": "https://www.gamespot.com/articles/its-a-shame-rockstar-wont-make-a-red-dead-movie-jack-black-says/1100-6539203/?ftag=CAD-01-10abi2f",
+        "summary": "演员杰克·布莱克表示自己是《荒野大镖客》系列忠实粉丝，认为R星至今未推出该系列电影版令人惋惜。",
+        "comment": "游戏改编电影需平衡原作精神与影视化表达。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1574/15746725/3589531-r5.jpg",
+        "score": 89
       },
       {
         "category": "游戏影视",
@@ -155,10 +225,10 @@
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果对Vibe Coding态度严厉",
+        "title": "苹果对Vibe Coding持严厉态度",
         "link": "https://www.ifanr.com/1660839?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章提醒开发者警惕Vibe Coding可能带来的问题，并提及苹果对其持严厉态度。",
-        "comment": "苹果对开发规范的坚持有利于生态健康。",
+        "summary": "文章提醒开发者警惕Vibe Coding可能带来的问题，并提及苹果对其的严格立场。",
+        "comment": "苹果对开发规范的坚持有助于维护生态质量。",
         "image": "",
         "score": 88
       },
@@ -167,38 +237,28 @@
         "tag": "航天",
         "title": "阿尔忒弥斯2号脱离地球轨道，首次载人绕月飞行",
         "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-        "summary": "阿尔忒弥斯2号任务完成关键推进，自1972年以来首次将人类带离地球轨道，正按计划飞往月球远侧。",
+        "summary": "阿尔忒弥斯2号任务完成关键推进，自1972年以来首次将人类带离地球轨道，正按计划飞往月球背面。",
         "comment": "时隔半世纪，人类重返深空迈出关键一步。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "航天",
-        "title": "阿尔忒弥斯二号宇航员从太空发回视频通话",
-        "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
-        "summary": "阿尔忒弥斯二号任务宇航员通过视频连线与地面通话，向家人传递信息并分享飞行体验。",
-        "comment": "载人深空探索迈出重要一步，公众参与感增强。",
+        "tag": "伊朗",
+        "title": "专家质疑美国对伊朗体育馆袭击的说法",
+        "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+        "summary": "六名武器专家反驳美国声称视频证据显示伊朗导弹可能击中体育馆的说法，对事件原因提出不同见解。",
+        "comment": "事件真相仍需更多独立调查验证。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "国际法",
-        "title": "国际法专家指控伊朗战争存在违规行为",
-        "link": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
-        "summary": "白宫称其行动通过消除短期和长期威胁，使整个地区更安全。国际法专家则对战争中的违规行为提出指控。",
-        "comment": "双方表态凸显军事行动合法性与地区安全认知的鸿沟。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "非洲政治",
+        "tag": "非洲政局",
         "title": "布基纳法索军政府领导人称该国应“忘记”民主",
         "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
         "summary": "2023年通过政变上台的易卜拉欣·特拉奥雷表示，民主统治不适合他的国家。",
-        "comment": "军政府公开否定民主制度，反映该国政治进程的倒退。",
+        "comment": "军政府公开否定民主制度，反映该国政治进程的严重倒退。",
         "image": "",
         "score": 87
       },
@@ -207,18 +267,18 @@
         "tag": "缅甸政局",
         "title": "缅甸政变领导人敏昂莱当选总统",
         "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
-        "summary": "缅甸军方领导人敏昂莱大将已被新当选的议会选为下一任总统，此举标志着该国自2021年政变以来政治格局的延续。",
-        "comment": "军方巩固权力，缅甸政治僵局难解。",
+        "summary": "缅甸军方领导人敏昂莱被新当选的议会选为下一任总统，该国自2021年政变后陷入持续内战。",
+        "comment": "军方巩固权力，和平进程前景黯淡。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "美国政治",
-        "title": "特朗普撤换美司法部长帕姆·邦迪",
+        "title": "特朗普撤换美国司法部长帕姆·邦迪",
         "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国司法部长帕姆·邦迪因处理爱泼斯坦文件的方式引发争议，其任期在阴影中结束，现已被特朗普撤换。",
-        "comment": "司法高层人事变动再次凸显特朗普对关键执法岗位的控制。",
+        "summary": "美国司法部长帕姆·邦迪被特朗普撤换，其任期因处理爱泼斯坦相关文件的方式而备受争议。",
+        "comment": "特朗普政府司法系统人事变动再引关注。",
         "image": "",
         "score": 86
       },
@@ -228,9 +288,49 @@
         "title": "古巴将释放超2000名囚犯，美国施压加剧",
         "link": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
         "summary": "美国总统特朗普明确表示希望改变古巴领导层，并对该国实施石油禁运。在此压力下，古巴宣布将释放超过2000名囚犯。",
-        "comment": "地缘政治压力下的内部调整，反映美古关系持续紧张。",
+        "comment": "地缘政治压力下的策略性让步。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际法",
+        "title": "国际法专家指控伊朗战争存在违规行为",
+        "link": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
+        "summary": "白宫称其行动通过消除短期和长期威胁，使整个地区更安全。",
+        "comment": "地区安全论述与国际法指控形成鲜明对比。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "法国",
+        "title": "法国法院推翻穆斯林集会禁令",
+        "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+        "summary": "巴黎警方以集会可能成为恐怖袭击目标、构成安全威胁为由，试图禁止一场为期四天的穆斯林集会，但该禁令已被法院推翻。",
+        "comment": "法院裁决体现了对集会自由与安全考量的平衡。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "时事热点",
+        "tag": "足球",
+        "title": "意大利主帅加图索因世界杯出局遭解约",
+        "link": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss",
+        "summary": "意大利队连续三届无缘世界杯后，主帅加图索与足协达成协议，双方同意终止合同。",
+        "comment": "意大利足球的危机仍在持续，换帅只是第一步。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "时事热点",
+        "tag": "美军",
+        "title": "美议员要求陆军参谋长下台",
+        "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国议员皮特·赫格塞斯要求陆军参谋长兰迪·乔治将军辞职，后者由前总统拜登于2023年提名担任该职。",
+        "comment": "美军高层人事争议反映政治分歧。",
+        "image": "",
+        "score": 83
       }
     ]
   },
@@ -242,8 +342,8 @@
         "tag": "人工智能",
         "title": "微软发布三款基础模型挑战AI竞争对手",
         "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-        "summary": "微软人工智能部门成立六个月后，推出三款基础模型，具备语音转文本、音频生成和图像生成能力。",
-        "comment": "微软加速布局多模态AI，行业竞争加剧。",
+        "summary": "微软人工智能部门成立半年后，推出三款基础模型，具备语音转文本、音频生成和图像生成能力。",
+        "comment": "微软加速布局多模态AI，行业竞争进一步加剧。",
         "image": "",
         "score": 100
       },
@@ -255,7 +355,7 @@
         "summary": "谷歌在Vids应用中新增功能，允许用户通过提示词自定义和操控虚拟形象，用于视频创作。",
         "comment": "AI视频工具交互方式更趋自然，降低创作门槛。",
         "image": "",
-        "score": 97
+        "score": 99
       },
       {
         "category": "人工智能",
@@ -265,27 +365,17 @@
         "summary": "OpenAI收购硅谷热门科技播客TBPN，该节目将由首席政治运营官Chris Lehane监督，但保持独立运营。",
         "comment": "科技巨头布局内容生态，AI与媒体融合趋势加速。",
         "image": "",
-        "score": 96
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "人工智能",
         "title": "AI公司日耗120万亿Token引行业关注",
         "link": "https://www.ifanr.com/1660703?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "报道揭示AI行业每日消耗120万亿Token的惊人数据，反映大模型训练成本飙升与算力需求激增的现状。",
-        "comment": "算力消耗成AI竞赛新指标，行业门槛持续抬高。",
+        "summary": "报道揭示AI行业每日消耗120万亿Token，反映模型训练与推理需求激增，Token工厂模式正在兴起。",
+        "comment": "数据规模竞赛背后是算力与成本的持续攀升。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "《Peak》成功后开发团队面临倦怠与抉择",
-        "link": "https://www.gamespot.com/articles/after-peaks-success-its-devs-face-burnout-and-big-decisions/1100-6539195/?ftag=CAD-01-10abi2f",
-        "summary": "独立游戏《Peak》成功后，开发团队面临创意规划与玩家期待之间的平衡难题，突如其来的成功正重塑工作室的未来方向。",
-        "comment": "成功光环下的独立开发者，面临的是更复杂的创作困境。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4676769-4519124-peak_keyart_no_logo.jpg",
-        "score": 92
+        "score": 91
       },
       {
         "category": "数码科技",
@@ -295,21 +385,21 @@
         "summary": "小鹏MONA M03起售价11.98万元，新增图灵芯片与越级座舱配置，官方称其产品力为降维打击。",
         "comment": "配置升级旨在巩固其在同级市场的领先份额。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "腾讯会议AI功能缓解会议整理焦虑",
-        "link": "https://www.ifanr.com/1660770?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "腾讯会议推出AI功能，自动处理会议录制内容，解决会后信息整理难题。",
-        "comment": "AI实用化落地，切实提升办公效率。",
-        "image": "",
-        "score": 91
+        "score": 89
       },
       {
         "category": "游戏影视",
-        "tag": "游戏折扣",
+        "tag": "独立游戏",
+        "title": "《Peak》成功后开发团队面临倦怠与抉择",
+        "link": "https://www.gamespot.com/articles/after-peaks-success-its-devs-face-burnout-and-big-decisions/1100-6539195/?ftag=CAD-01-10abi2f",
+        "summary": "独立游戏《Peak》成功后，开发团队面临创意规划与玩家期待之间的平衡压力，突如其来的成功正重塑工作室的未来方向。",
+        "comment": "独立游戏的成功光环背后，往往伴随着团队可持续性的现实挑战。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4676769-4519124-peak_keyart_no_logo.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏优惠",
         "title": "Switch及Switch 2游戏本周优惠汇总（2026年4月2日）",
         "link": "https://www.gamespot.com/articles/nintendo-physical-digital-game-deals/1100-6538446/?ftag=CAD-01-10abi2f",
         "summary": "多款热门Switch 2游戏正以低价促销，包括《八方旅人0》等RPG作品，是扩充游戏库的好时机。",
@@ -318,64 +408,14 @@
         "score": 89
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "前顽皮狗负责人再引《最后生还者3》猜测",
-        "link": "https://www.gamespot.com/articles/former-naughty-dog-lead-reignites-the-last-of-us-part-3-questions/1100-6539199/?ftag=CAD-01-10abi2f",
-        "summary": "尽管官方未确认，但行业人士近期言论再次引发关于《最后生还者：第三部》的猜测。",
-        "comment": "系列热度不减，但官方态度依然谨慎。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15976769/4676787-thelastofus3.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影票房",
-        "title": "《超级马里奥银河》电影首映票房强劲但难超前作",
-        "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-opens-huge-but-not-expected-to-beat-the-2023-movie/1100-6539174/?ftag=CAD-01-10abi2f",
-        "summary": "《超级马里奥银河》电影4月1日上映，美国首日票房达3450万美元，开局表现强劲，但预计难以超越2023年系列前作的票房纪录。",
-        "comment": "新作延续IP热度，但未能突破前作高峰。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676651-mariomovie.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影",
-        "title": "四岁儿童评《超级马里奥银河》电影：票房将创天文数字",
-        "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-as-reviewed-by-a-four-year-old/1100-6539197/?ftag=CAD-01-10abi2f",
-        "summary": "《超级马里奥银河》电影上映，无论影评如何，其票房预计将达天文数字。报道特别呈现了一位四岁儿童的观影反馈。",
-        "comment": "儿童视角的影评，凸显了该片的核心受众与市场潜力。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4676761-4676202-super-mario.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "查理·戴提议丹尼·德维托为《马里奥》续集配音瓦力欧",
-        "link": "https://www.gamespot.com/articles/charlie-day-says-what-were-all-thinking-danny-devito-should-play-wario-in-the-next-mario-movie/1100-6539198/?ftag=CAD-01-10abi2f",
-        "summary": "《超级马里奥兄弟大电影》票房成功后，粉丝及主演查理·戴均认为丹尼·德维托是续集中瓦力欧的完美配音人选。",
-        "comment": "选角建议极具观众缘，契合角色气质。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676783-screenshot2026-04-02at3.32.17%E2%80%AFpm.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《超级战斗高尔夫》4月9日更新：新增火箭球杆与混乱玩法",
-        "link": "https://www.gamespot.com/articles/super-battle-golf-update-gives-you-a-rocket-driver-to-ramp-up-the-chaos/1100-6539192/?ftag=CAD-01-10abi2f",
-        "summary": "多人同时竞技的混乱风格高尔夫游戏《超级战斗高尔夫》将于4月9日推出更新，新增球洞、火箭球杆机制等内容，进一步强化游戏混乱体验。",
-        "comment": "火箭球杆的加入将本就混乱的竞技推向新高度。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676760-screenshot2026-04-02at1.25.32%E2%80%AFpm.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《使命召唤：黑色行动7》开启免费试玩，含30多张地图与双倍经验",
-        "link": "https://www.gamespot.com/articles/call-of-duty-black-ops-7-free-trial-goes-live-with-30-maps-and-double-xp/1100-6539196/?ftag=CAD-01-10abi2f",
-        "summary": "动视《使命召唤：黑色行动7》本周末开启免费试玩，包含超过30张地图，并提供双倍经验加成，恰逢新赛季上线。",
-        "comment": "限时免费试玩是吸引新玩家和促进销量的有效策略。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676782-screenshot2026-04-02at2.50.24%E2%80%AFpm.png",
-        "score": 89
+        "category": "数码科技",
+        "tag": "人工智能",
+        "title": "腾讯会议AI功能缓解会议整理焦虑",
+        "link": "https://www.ifanr.com/1660770?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "腾讯会议推出AI功能，自动处理会议录制内容，解决会后信息整理难题。",
+        "comment": "AI实用化落地，有效提升办公效率。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "数码科技",
@@ -383,7 +423,7 @@
         "title": "AirPods Max 2体验：降噪与音质小升级",
         "link": "https://www.ifanr.com/1660740?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "新款AirPods Max在降噪能力和声音饱满度上有所提升，属于注重实用性的迭代更新。",
-        "comment": "一次稳健的功能性增强，但缺乏颠覆性变化。",
+        "comment": "一次稳健的功能性增强，但缺乏颠覆性创新。",
         "image": "",
         "score": 88
       },
@@ -392,8 +432,8 @@
         "tag": "AI创作",
         "title": "B站AI创作大赛一等奖得主：AI无助于创意但另有价值",
         "link": "https://www.ifanr.com/1660654?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "获奖UP主认为AI对创意本身帮助有限，但强调其价值在于其他方面，并指出“品位”在AI时代变得更为关键。",
-        "comment": "观点独到，揭示了AI工具与人类创意间的复杂关系。",
+        "summary": "获奖UP主认为AI对创意本身帮助有限，但指出其价值在于其他方面，并强调“品位”的重要性。",
+        "comment": "观点独到，揭示了AI工具在创意工作中的实际定位。",
         "image": "",
         "score": 88
       },
@@ -403,39 +443,9 @@
         "title": "《Clair Obscur: Expedition 33》艺术设定集秋季发售",
         "link": "https://www.gamespot.com/articles/the-art-of-clair-obscur-expedition-33-buying-guide/1100-6539177/?ftag=CAD-01-10abi2f",
         "summary": "《Clair Obscur: Expedition 33》艺术设定集将于11月24日发售，精装版定价57美元，现已在亚马逊等平台开启预购。",
-        "comment": "设定集为游戏预热，满足核心玩家收藏需求。",
+        "comment": "游戏衍生品发售，对核心玩家有收藏价值。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4676660-expedition-2.jpg",
         "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际关系",
-        "title": "马克龙批评特朗普对伊朗战争态度",
-        "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-        "summary": "马克龙称特朗普对美以与伊朗冲突的立场有时矛盾，建议其“严肃对待，不要每天发言”。",
-        "comment": "马克龙罕见公开批评盟友，凸显西方对伊朗问题分歧。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "美军",
-        "title": "美议员要求陆军最高将领辞职",
-        "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国议员皮特·赫格塞斯要求陆军参谋长兰迪·乔治将军辞职，后者由前总统拜登于2023年提名任命。",
-        "comment": "美军高层人事争议反映政治对军队的影响。",
-        "image": "",
-        "score": 84
-      },
-      {
-        "category": "时事热点",
-        "tag": "娱乐法律",
-        "title": "法官驳回布蕾克·莱弗利对贾斯汀·巴尔东尼的大部分指控",
-        "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
-        "summary": "法官保留了针对贾斯汀·巴尔东尼的三项指控，这意味着该民事诉讼将于下个月继续进行庭审。",
-        "comment": "诉讼核心争议仍在，案件将进入下一阶段。",
-        "image": "",
-        "score": 83
       }
     ]
   },
@@ -447,10 +457,20 @@
         "tag": "人工智能",
         "title": "Cognichip获6000万美元融资，用AI设计AI芯片",
         "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-        "summary": "初创公司Cognichip宣称其AI驱动的芯片设计方法可将开发成本降低75%以上，并将开发周期缩短一半以上。",
-        "comment": "AI自举设计芯片，有望突破算力瓶颈的关键路径。",
+        "summary": "Cognichip公司宣称其AI芯片设计技术可将开发成本降低75%以上，并将开发周期缩短一半以上。",
+        "comment": "AI自举设计芯片，有望突破算力瓶颈。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Anthropic误删数千GitHub仓库，称源代码泄露处理为事故",
+        "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "summary": "Anthropic因源代码泄露向GitHub发出大量下架通知，涉及数千仓库，后公司高管称此为事故并撤回大部分通知。",
+        "comment": "企业版权保护与开源生态的边界需谨慎平衡。",
+        "image": "",
+        "score": 99
       },
       {
         "category": "人工智能",
@@ -468,29 +488,19 @@
         "title": "AI招聘平台Mercor遭网络攻击，与开源LiteLLM项目漏洞相关",
         "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
         "summary": "AI招聘初创公司Mercor确认遭遇安全事件，勒索黑客组织声称窃取了该公司系统数据，攻击与开源项目LiteLLM的漏洞有关。",
-        "comment": "开源组件安全风险再次凸显，企业需加强供应链安全管理。",
+        "comment": "开源组件安全风险再次敲响警钟。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic误删数千GitHub仓库，称系意外操作",
-        "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-        "summary": "Anthropic公司为移除泄露源代码，向GitHub发出大量下架通知，波及数千仓库。公司高管随后称此为意外，并撤回了大部分通知。",
-        "comment": "大规模自动化维权操作需谨慎，避免误伤。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "StrictlyVC旧金山峰会4月30日举行，TDK Ventures与Replit等领袖出席",
+        "tag": "创投会议",
+        "title": "StrictlyVC旧金山峰会4月30日举行，TDK Ventures、Replit等高管将出席",
         "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-        "summary": "StrictlyVC旧金山峰会将于4月30日举行，TDK Ventures、Replit等公司领袖将出席，活动名额有限需提前注册。",
-        "comment": "行业领袖聚会，反映硅谷AI投资热度。",
+        "summary": "StrictlyVC旧金山峰会将于4月30日举办，TDK Ventures、Replit联合创始人等业界领袖将出席，参会名额有限需提前注册。",
+        "comment": "行业小型闭门会议，信息价值取决于具体分享内容。",
         "image": "",
-        "score": 96
+        "score": 95
       }
     ]
   },
@@ -500,20 +510,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Salesforce为Slack推出30项AI新功能",
-        "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-        "summary": "Salesforce宣布对Slack进行重大AI改造，新增30项功能，旨在提升协作效率与智能化水平。",
-        "comment": "AI深度集成正成为企业协作工具的核心竞争力。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic本月再出事故，一周内两次人为失误",
+        "title": "Anthropic一周内第二次因人为失误引发问题",
         "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-        "summary": "人工智能公司Anthropic本周内第二次因人为操作失误导致系统问题，具体细节未公开。",
-        "comment": "顶尖AI公司频现人为失误，暴露运营管理短板。",
+        "summary": "人工智能公司Anthropic本周第二次因员工操作失误导致系统或服务出现问题，具体细节未在摘要中披露。",
+        "comment": "顶尖AI公司连续出现人为操作失误，暴露内部流程隐患。",
         "image": "",
         "score": 96
       }
