@@ -7,7 +7,7 @@
         "tag": "人工智能",
         "title": "Cognichip获6000万美元融资，用AI设计AI芯片",
         "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-        "summary": "初创公司Cognichip宣称其AI芯片设计技术可将开发成本降低75%以上，并将开发周期缩短一半以上。",
+        "summary": "初创公司Cognichip宣称其AI驱动的芯片设计方法可将开发成本降低75%以上，并将开发周期缩短一半以上。",
         "comment": "AI自举设计芯片，有望突破算力瓶颈的关键路径。",
         "image": "",
         "score": 100
@@ -18,7 +18,7 @@
         "title": "Meta新建AI数据中心将依赖10座天然气发电厂",
         "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
         "summary": "Meta即将建成的Hyperion人工智能数据中心将由10座新建天然气发电厂供电，引发对科技巨头能源消耗与环保承诺的讨论。",
-        "comment": "科技巨头在AI竞赛中的能源需求正与传统能源形成新的依赖关系。",
+        "comment": "科技巨头在AI竞赛中的能源消耗问题日益凸显。",
         "image": "",
         "score": 99
       },
@@ -27,8 +27,8 @@
         "tag": "网络安全",
         "title": "AI招聘平台Mercor遭网络攻击，与开源LiteLLM项目漏洞相关",
         "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-        "summary": "AI招聘初创公司Mercor确认遭遇安全事件，勒索黑客组织声称窃取了该公司系统数据，攻击与开源项目LiteLLM的安全漏洞有关。",
-        "comment": "开源组件安全风险再次凸显，企业供应链安全需高度重视。",
+        "summary": "AI招聘初创公司Mercor确认遭遇安全事件，勒索黑客组织声称窃取了该公司系统数据，攻击与开源项目LiteLLM的漏洞有关。",
+        "comment": "开源组件安全风险再次凸显，企业需加强供应链安全管理。",
         "image": "",
         "score": 99
       },
@@ -37,7 +37,7 @@
         "tag": "人工智能",
         "title": "Anthropic误删数千GitHub仓库后撤回版权投诉",
         "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-        "summary": "Anthropic公司因源代码泄露向GitHub发出大规模下架通知，涉及数千仓库，后称操作失误并撤回大部分投诉。",
+        "summary": "Anthropic公司因源代码泄露向GitHub发出大量下架通知，涉及数千仓库，后称操作失误并撤回大部分投诉。",
         "comment": "版权保护与开源生态的边界需谨慎把握。",
         "image": "",
         "score": 97
@@ -45,42 +45,22 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "StrictlyVC旧金山峰会4月30日举行，TDK Ventures、Replit等领袖出席",
+        "title": "StrictlyVC旧金山峰会4月30日举行，TDK Ventures与Replit等领袖出席",
         "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-        "summary": "StrictlyVC旧金山峰会将于4月30日举办，TDK Ventures、Replit联合创始人等业界领袖将出席，席位有限需提前注册。",
-        "comment": "行业闭门峰会，聚焦前沿投资与技术趋势。",
+        "summary": "StrictlyVC旧金山峰会将于4月30日举行，TDK Ventures、Replit等公司领袖将出席，活动名额有限需提前注册。",
+        "comment": "行业领袖聚会，反映创投圈对AI领域持续关注。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "小牛电动转型AI，发布搭载自研AIOS的智能电动车",
+        "title": "小牛电动转型AI，发布自研AIOS系统",
         "link": "https://36kr.com/p/3748233045541637?f=rss",
-        "summary": "成立12年的两轮电动车厂商小牛电动宣布转型AI，发布搭载自研小牛灵犀AIOS的NXT2和NX2车型，将其视为未来十年的护城河。",
-        "comment": "传统硬件厂商押注AI，是前瞻布局还是无奈跟风？",
+        "summary": "成立12年的两轮电动车厂商小牛电动宣布全面转型AI，在新车型NXT2和NX2上搭载自研的小牛灵犀AIOS，旨在打造AI时代的智能两轮电动车。",
+        "comment": "传统硬件厂商积极拥抱AI，寻求技术护城河。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "特斯拉",
-        "title": "特斯拉停产Model S/X，阿里发布Wan2.7-Image模型",
-        "link": "https://36kr.com/p/3748061455778311?f=rss",
-        "summary": "特斯拉正式停产Model S和Model X两款车型；马斯克称FSD 14.3版本预计本周末发布；阿里发布Wan2.7-Image模型。李亚鹏名下公司成立麋鹿咖啡公司。",
-        "comment": "特斯拉产品线调整与阿里AI模型发布是今日科技领域关键动态。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "2026有智青年挑战赛开启报名，聚焦AI赋能个体",
-        "link": "https://36kr.com/p/3748145916740100?f=rss",
-        "summary": "2026有智青年挑战赛报名启动，赛事不看重教育背景与融资规模，唯一标准是产品能否真正增强个体能力。决赛将在WAVES舞台进行。",
-        "comment": "赛事理念务实，强调AI工具属性而非炫技。",
-        "image": "",
-        "score": 93
       },
       {
         "category": "数码科技",
@@ -88,79 +68,9 @@
         "title": "苹果50年最大遗产：证明设计驱动创新的价值",
         "link": "https://www.ifanr.com/1660375?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "文章回顾苹果公司50年发展，指出其核心遗产在于证明了设计驱动创新的商业模式能够持续成功并引领行业。",
-        "comment": "苹果的软硬一体生态护城河，至今难以被完全复制。",
+        "comment": "苹果的设计哲学确实构成了其最深的护城河。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "Claude Code 50万行代码被开源，OpenAI融资估值近万亿",
-        "link": "https://www.ifanr.com/1660552?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果回应国行AI意外上线为软件问题；微信上线压缩包免解压预览功能；DeepSeek服务故障后火速修复。",
-        "comment": "AI领域开源与融资动态频发，行业竞争白热化。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "《Arc Raiders》负责人回应游戏AI使用争议",
-        "link": "https://www.gamespot.com/articles/arc-raiders-boss-comments-on-controversial-use-of-ai-in-gaming/1100-6539167/?ftag=CAD-01-10abi2f",
-        "summary": "Embark Studios新作《Arc Raiders》因使用AI技术引发争议，公司负责人Patrick Soderlund近日晋升为执行主席并对此事发表评论。",
-        "comment": "AI在游戏中的应用边界与伦理问题值得行业深入探讨。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676372-ar.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《我的世界》推出愚人节可玩版本，大幅删减游戏内容",
-        "link": "https://www.gamespot.com/articles/minecraft-hacks-away-a-major-chunk-of-the-game-with-new-playable-april-fools-joke/1100-6539169/?ftag=CAD-01-10abi2f",
-        "summary": "开发商Mojang为庆祝愚人节，发布了一个可玩的特殊版本，移除了游戏中大量常规内容，代之以独特的实验性玩法。",
-        "comment": "以可玩内容取代简单整活，展现了开发者的创意与幽默。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4676377-herdcraftaprilfools.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤》愚人节推出系列最小地图与过时梗",
-        "link": "https://www.gamespot.com/articles/call-of-dutys-april-fools-joke-brings-the-franchises-smallest-map-and-a-dead-meme/1100-6539166/?ftag=CAD-01-10abi2f",
-        "summary": "《使命召唤：黑色行动7》为愚人节推出限时模式，包含系列史上最小地图，并融入已过时的网络梗作为彩蛋。",
-        "comment": "愚人节彩蛋创意有趣，但地图过小可能影响实际对战体验。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4676353-hes16wobaaaxiw4.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏动态",
-        "title": "《赤色沙漠》玩家沉迷游戏世界细节与角色装扮",
-        "link": "https://www.gamespot.com/articles/crimson-desert-players-are-finding-the-best-drip-around/1100-6539165/?ftag=CAD-01-10abi2f",
-        "summary": "玩家在《赤色沙漠》的Pywell世界中不仅进行战斗与招募，还热衷于观察NPC行为、管理物品栏等细节，尤其关注角色外观装扮。",
-        "comment": "开放世界设计成功吸引玩家沉浸于细节体验。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15789366/4676348-cdimage6.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "专家称《堡垒之夜》文化影响力开始消退",
-        "link": "https://www.gamespot.com/articles/fortnites-cultural-moment-is-starting-to-fade-expert-says/1100-6539164/?ftag=CAD-01-10abi2f",
-        "summary": "行业专家Joost van Dreunen指出，《堡垒之夜》的“文化时刻”正逐渐褪色，认为其巅峰期已过。",
-        "comment": "现象级游戏终将回归常态，生命周期规律显现。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676352-screenshot2026-04-01at2.22.32%E2%80%AFpm.png",
-        "score": 89
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "AI效率高如愚人节，科技终回归生活本质",
-        "link": "https://www.ifanr.com/1660555?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章指出，尽管AI技术飞速发展，但科技最终目的是回归生活。通过回顾科技公司过去的创意，说明技术进步需服务于人类实际需求。",
-        "comment": "提醒我们勿忘科技以人为本的初心。",
-        "image": "",
-        "score": 88
       }
     ]
   }
