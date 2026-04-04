@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "私募市场",
         "title": "Anthropic成私募市场焦点，SpaceX或成变数",
         "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-        "summary": "Rainmaker Securities总裁表示，私募二级市场交易活跃度空前，Anthropic成为最热门标的，OpenAI热度下降，而SpaceX可能分散市场资金。",
-        "comment": "私募市场对AI公司的估值热情持续，但资金流向可能面临分散风险。",
+        "summary": "Rainmaker Securities总裁表示，私募二级市场交易活跃度空前，Anthropic成为最热门标的，OpenAI热度下降，而SpaceX可能分散市场资金与关注。",
+        "comment": "私募市场对AI独角兽的追捧面临来自航天巨头的资金分流风险。",
         "image": "",
         "score": 99
       },
@@ -18,7 +18,7 @@
         "title": "00后极客与机器人公司72小时共处，探索具身智能开发",
         "link": "https://36kr.com/p/3752115857638145?f=rss",
         "summary": "深圳科创学院举办全球首届具身智能开发者大会，20组选手连续开发60小时，现场可见帐篷、未吃完的食物，展现高强度开发氛围。",
-        "comment": "具身智能开发正吸引年轻极客投入，推动机器人技术前沿探索。",
+        "comment": "具身智能开发正吸引年轻极客投入，推动硬件与AI融合创新。",
         "image": "",
         "score": 96
       },
@@ -27,9 +27,19 @@
         "tag": "汽车",
         "title": "福特GT Mk IV纽北圈速超小米SU7，燃油车创纪录",
         "link": "https://www.ifanr.com/1661013?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "福特GT Mk IV在纽博格林北环赛道刷新圈速，超越小米SU7，位列榜单第三，展现了纯燃油车的性能极限。",
+        "summary": "福特GT Mk IV在纽博格林北环赛道刷新圈速，超越小米SU7，位列第三，展示了纯燃油车的性能极限。",
         "comment": "燃油性能车在电动化时代仍能突破极限，令人惊叹。",
         "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏更新",
+        "title": "《赤色沙漠》1.02.00更新：增加仓库、头盔显示选项",
+        "link": "https://www.ign.com/articles/crimson-desert-gets-more-storage-space-a-headgear-visibility-option-and-even-a-toggle-for-previous-movement-controls-in-patch-10200",
+        "summary": "《赤色沙漠》发布1.02.00更新，新增仓库空间、头盔显示开关及旧版移动控制选项，响应玩家反馈。",
+        "comment": "更新内容务实，直接回应玩家核心需求。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/04/cd-main-1775291125235.jpg",
         "score": 91
       },
       {
@@ -47,18 +57,18 @@
         "tag": "人工智能",
         "title": "Anthropic封杀OpenClaw，创始人称说服失败",
         "link": "https://www.ifanr.com/1661053?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI公司Anthropic封禁了开源项目OpenClaw，其联合创始人“龙虾之父”表示试图说服对方但未成功。",
-        "comment": "开源与商业化的冲突在AI领域再次凸显。",
+        "summary": "AI公司Anthropic封禁了开源项目OpenClaw，其创始人表示试图说服对方但未成功。",
+        "comment": "商业竞争加剧，开源与闭源的界限再次成为焦点。",
         "image": "",
         "score": 89
       },
       {
         "category": "数码科技",
         "tag": "数码科技",
-        "title": "早报｜Slack粗暴断服引不满 小米涨价因内存超预期 外卖平台被约谈",
+        "title": "Slack粗暴断服引不满，小米涨价因内存价飙升",
         "link": "https://www.ifanr.com/1661050?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "工信部预警iOS系统存在严重漏洞建议升级；苹果下架Vibe Coding应用；曝R星母公司解散AI团队，七年研发终止。",
-        "comment": "科技服务中断与成本压力并存，监管与安全警示频发。",
+        "summary": "工信部预警iOS系统存在严重漏洞，建议升级；苹果下架Vibe Coding应用；曝R星母公司解散AI团队，七年研发终止。",
+        "comment": "科技服务中断与成本压力凸显行业波动。",
         "image": "",
         "score": 89
       },
@@ -67,28 +77,58 @@
         "tag": "数码科技",
         "title": "有线耳机在无线时代仍具存在价值",
         "link": "https://www.ifanr.com/1660979?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章指出，尽管无线耳机已成主流，但有线耳机凭借稳定连接、无需充电、高性价比等优势，仍将持续占据市场一席之地。",
-        "comment": "有线耳机的实用性在特定场景下依然不可替代。",
+        "summary": "文章指出，尽管无线耳机成为主流，但有线耳机凭借稳定连接、无需充电、高性价比等优势，仍将持续存在并满足特定需求。",
+        "comment": "有线耳机的实用性使其在细分市场保持稳固地位。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
+        "tag": "航天",
+        "title": "阿尔忒弥斯2号任务过半，宇航员拍摄壮观地球影像",
+        "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+        "summary": "阿尔忒弥斯2号任务指挥官在猎户座飞船内拍摄地球照片，目前飞船已抵达月球轨道中途点。",
+        "comment": "人类重返月球进程中的又一重要视觉记录。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "泽连斯基称俄选择复活节升级而非停火",
+        "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+        "summary": "俄罗斯发动数百架无人机和导弹袭击，造成6名平民死亡，40人受伤。",
+        "comment": "冲突在宗教节日期间加剧，和平前景黯淡。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
         "tag": "国际救援",
-        "title": "伊朗救援队搜寻美船员面临危险",
+        "title": "伊朗救援队搜寻美机组人员面临危险",
         "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-        "summary": "前美国海军陆战队员表示，救援队首要任务是寻找生命迹象。",
-        "comment": "国际救援行动凸显地缘政治复杂性。",
+        "summary": "前美国海军陆战队员表示，救援队首要任务是寻找生命迹象，当前搜救环境恶劣且危险。",
+        "comment": "国际救援行动凸显跨国协作的紧迫性与风险。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "航天",
-        "title": "阿尔忒弥斯二号任务过半，宇航员拍摄地球壮丽照片",
-        "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-        "summary": "阿尔忒弥斯二号任务指挥官在猎户座飞船内拍摄了地球照片，目前飞船正飞向月球，任务进程已过半。",
-        "comment": "人类重返月球进程中的又一视觉里程碑。",
+        "tag": "美国政治",
+        "title": "特朗普申请1.52亿美元重开恶魔岛监狱遭佩洛西批评",
+        "link": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普政府申请1.52亿美元重开旧金山恶魔岛监狱，前众议院议长佩洛西称该计划是浪费纳税人资金的愚蠢想法。",
+        "comment": "政治博弈下的争议性提案，实际可行性存疑。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "足球事故",
+        "title": "秘鲁足球集会致1死数十伤",
+        "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss",
+        "summary": "利马联盟队赛前集会引发踩踏事故，数百名球迷聚集为对阵大学体育俱乐部的比赛助威，造成人员伤亡。",
+        "comment": "体育狂热需以安全为前提，大型集会管理亟待加强。",
         "image": "",
         "score": 86
       }
@@ -110,10 +150,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "科技巨头押注天然气发电站为AI数据中心供电",
+        "title": "科技巨头押注天然气发电厂为AI数据中心供电",
         "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-        "summary": "Meta、微软和谷歌正大规模投资新建天然气发电厂，以支持其AI数据中心的能源需求，此举可能带来潜在风险。",
-        "comment": "短期能源方案与长期可持续目标存在矛盾。",
+        "summary": "Meta、微软和谷歌正大规模建设天然气发电厂，为AI数据中心提供电力，此举可能带来环境与运营风险。",
+        "comment": "短期能源方案与长期减碳目标存在明显冲突。",
         "image": "",
         "score": 100
       },
@@ -132,10 +172,10 @@
         "tag": "人工智能",
         "title": "Moonbounce获1200万美元融资，开发AI内容审核引擎",
         "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-        "summary": "初创公司Moonbounce融资1200万美元，致力于将内容审核政策转化为可预测的AI行为，为AI时代构建内容审核系统。",
-        "comment": "AI治理商业化加速，但技术有效性仍需验证。",
+        "summary": "初创公司Moonbounce融资1200万美元，其AI控制引擎可将内容审核政策转化为一致、可预测的AI行为，旨在为AI时代构建内容审核系统。",
+        "comment": "AI内容治理成为新风口，技术落地是关键挑战。",
         "image": "",
-        "score": 97
+        "score": 99
       },
       {
         "category": "数码科技",
@@ -160,9 +200,9 @@
       {
         "category": "人工智能",
         "tag": "数据中心",
-        "title": "民调显示民众更愿接受亚马逊仓库而非数据中心",
+        "title": "调查显示民众更愿接受亚马逊仓库而非数据中心",
         "link": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-        "summary": "最新调查显示，关于数据中心的争议远未平息，民众对数据中心的接受度甚至低于亚马逊仓库。",
+        "summary": "最新民调揭示，关于数据中心的争议远未平息，民众对数据中心的接受度甚至低于亚马逊仓库。",
         "comment": "数据中心邻避效应凸显，AI扩张面临现实阻力。",
         "image": "",
         "score": 96
@@ -172,8 +212,8 @@
         "tag": "财报",
         "title": "神州数码2025年营收超1400亿，AI业务增长近五成",
         "link": "https://36kr.com/p/3751046517129735?f=rss",
-        "summary": "神州数码2025年营收1438亿元，同比增长12%。AI相关业务收入达330亿元，同比增长48%，成为核心增长引擎，迈入规模化落地期。",
-        "comment": "AI业务已成为神州数码与传统分销并重的增长极。",
+        "summary": "神州数码2025年营收1438亿元，同比增长12%。AI相关业务收入达330亿元，同比大增48%，成为核心增长引擎，迈入规模化落地期。",
+        "comment": "传统IT分销巨头成功转型，AI业务已成为其重要增长支柱。",
         "image": "",
         "score": 96
       },
@@ -182,8 +222,8 @@
         "tag": "泡泡玛特",
         "title": "泡泡玛特2025年财报亮眼但股价大跌",
         "link": "https://36kr.com/p/3750711532569350?f=rss",
-        "summary": "泡泡玛特2025年财报显示收入371.2亿元，同比增长185%，净利润130.1亿元，同比增长293%，海外收入占比超四成。但财报发布当日股价一度跌超20%。",
-        "comment": "业绩增长与市场预期脱节，反映投资者对增长可持续性的担忧。",
+        "summary": "泡泡玛特2025年营收371.2亿元，同比增长185%，净利润130.1亿元，海外收入占比超四成。财报发布当日股价一度跌超20%。",
+        "comment": "业绩高增长难掩资本市场对其未来预期的担忧。",
         "image": "",
         "score": 96
       },
@@ -199,21 +239,21 @@
       },
       {
         "category": "数码科技",
-        "tag": "新材料",
+        "tag": "融资",
         "title": "戴纳科技获近亿融资，将建全球首个新材料CRO平台",
         "link": "https://36kr.com/p/3750417621795588?f=rss",
-        "summary": "戴纳科技完成近亿元B+轮融资，资金将用于技术迭代、产能扩张，并与北京化工大学共建全球首个新材料CRO平台，加速AI+新材料研发。",
-        "comment": "硬科技创业获资本支持，AI赋能新材料研发值得关注。",
+        "summary": "戴纳科技完成近亿元B+轮融资，由北京新材料基金和丰泽基金投资，资金将用于技术迭代、产能扩张及与北京化工大学共建全球首个新材料CRO平台。",
+        "comment": "硬科技领域再获资本青睐，AI+新材料平台建设值得关注。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "可穿戴设备",
-        "title": "00后医学博士研发可穿戴止鼾设备获顺为投资",
+        "title": "00后医学博士研发可穿戴止鼾设备获顺为独家投资",
         "link": "https://36kr.com/p/3750501433705224?f=rss",
         "summary": "深圳夜合科技完成千万元天使轮融资，由顺为资本独家投资，资金将用于核心产品研发，推动医疗技术向消费场景延伸。",
-        "comment": "年轻团队切入睡眠健康赛道，技术消费化趋势明显。",
+        "comment": "年轻团队切入睡眠健康赛道，技术消费化趋势值得关注。",
         "image": "",
         "score": 96
       },
@@ -222,18 +262,18 @@
         "tag": "AI社交",
         "title": "叽伴AI社交产品面临用户留存难题",
         "link": "https://36kr.com/p/3749816005657093?f=rss",
-        "summary": "AI社交产品用户尝鲜热情高但留存率低，主要因角色失忆、性格漂移和编剧疲劳等问题，导致用户体验负担过重。",
-        "comment": "AI社交需解决角色一致性问题，否则难逃昙花一现。",
+        "summary": "AI社交产品用户尝鲜热情高但留存率低，存在角色失忆、性格漂移等问题，用户需同时扮演体验者和编剧，负担过重导致流失。",
+        "comment": "AI社交需突破技术瓶颈，提升真实互动体验。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "元气森林",
-        "title": "元气森林创造营展示新品研发，强调年轻创新与长期主义",
+        "title": "元气森林创造营展示新品，强调年轻创新与研发投入",
         "link": "https://36kr.com/p/3749467949482759?f=rss",
-        "summary": "元气森林举办第二届创造营活动，十余位年轻产品经理展示多款家族新产品，分享研发初心。活动源于2024年经销商大会承诺，旨在为年轻人提供舞台，实践长期主义。",
-        "comment": "企业通过内部创新活动激发活力，但需确保研发投入能转化为市场竞争力。",
+        "summary": "元气森林举办第二届创造营活动，十余位年轻产品经理展示多款家族新产品，分享研发历程，体现公司对年轻创新和长期研发的重视。",
+        "comment": "活动凸显品牌持续投入研发、培养年轻团队的长期策略。",
         "image": "",
         "score": 93
       },
@@ -242,18 +282,18 @@
         "tag": "游戏运营",
         "title": "模拟经营游戏《桃源深处有人家》运营三年保持活力",
         "link": "https://36kr.com/p/3750714899415817?f=rss",
-        "summary": "《桃源深处有人家》上线三周年，通过营造生活感和慢节奏体验，聚集了特定玩家群体，形成了稳定的生态位。",
+        "summary": "《桃源深处有人家》上线三周年，游戏通过营造生活感和慢节奏体验，聚集了特定玩家群体，形成了稳定的生态位。",
         "comment": "精准定位细分市场，是长线运营成功的关键。",
         "image": "",
         "score": 93
       },
       {
         "category": "数码科技",
-        "tag": "人工智能",
+        "tag": "AI模型",
         "title": "Google发布最强小模型，手机可运行",
         "link": "https://www.ifanr.com/1660799?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Google发布高性能小模型，强调在手机等设备上的运行能力，以轻量化实现强大功能。",
-        "comment": "轻量化模型推动AI普惠，降低部署门槛。",
+        "summary": "Google发布高性能小模型，强调在手机等设备上的运行能力，挑战大模型依赖。",
+        "comment": "小模型轻量化是AI落地关键趋势。",
         "image": "",
         "score": 92
       },
@@ -262,8 +302,8 @@
         "tag": "3D打印",
         "title": "闪铸AD5X：300美元内最佳多色3D打印机之一",
         "link": "https://www.ign.com/articles/flashforge-ad5x-corexy-multi-color-3d-printer-deal-aliexpress-april-sale",
-        "summary": "闪铸AD5X以270美元价格提供集成多材料打印与稳定CoreXY结构，性价比突出。",
-        "comment": "低价多色3D打印方案或推动消费级市场普及。",
+        "summary": "闪铸AD5X以270美元价格提供集成多材料打印功能和稳定的CoreXY结构，性价比突出。",
+        "comment": "入门级多色3D打印的性价比之选。",
         "image": "https://assets-prd.ignimgs.com/2026/03/20/flashforgead5x-1774028571265.jpg",
         "score": 92
       },
@@ -272,7 +312,7 @@
         "tag": "游戏资讯",
         "title": "《腐烂国度3》沉寂多年后回归，或即将开放试玩",
         "link": "https://www.gamespot.com/articles/state-of-decay-3-is-back-from-the-dead-and-you-might-be-able-to-play-it-soon/1100-6539213/?ftag=CAD-01-10abi2f",
-        "summary": "《腐烂国度3》已缺席多年Xbox直播与游戏展会，如今终于重新露面。开发商Undead Labs确认游戏开发进展顺利，玩家可能很快就能玩到。",
+        "summary": "《腐烂国度3》已缺席多年Xbox直播与游戏展会，如今终于重现。开发商Undead Labs在最新Xbox播客中确认游戏开发顺利，并暗示可能很快提供试玩。",
         "comment": "僵尸生存系列终于迎来新作，粉丝等待值得。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4677285-state-of-decay-3.jpg",
         "score": 92
@@ -282,8 +322,8 @@
         "tag": "比亚迪",
         "title": "比亚迪插混新车11.19万起，纯电续航创纪录",
         "link": "https://www.ifanr.com/1660973?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪推出新款插电混动车型，起售价11.19万元，官方称其纯电续航里程为目前插混车型中最长。",
-        "comment": "以长续航和亲民价格进一步巩固市场优势。",
+        "summary": "比亚迪新款插电混动车型起售价11.19万元，官方称其纯电续航里程为同类型中最长，硬件配置有所提升。",
+        "comment": "价格与续航的双重突破，可能进一步挤压同级燃油车市场。",
         "image": "",
         "score": 91
       },
@@ -293,7 +333,7 @@
         "title": "豆包大模型日均Token破120万亿，Switch 2或涨价",
         "link": "https://www.ifanr.com/1660800?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "豆包大模型日均Token使用量突破120万亿；广电行业组织发布AI换脸严正声明；任天堂前销售负责人称Switch 2涨价几乎不可避免。",
-        "comment": "AI应用规模持续扩大，游戏硬件成本压力显现。",
+        "comment": "AI应用与游戏硬件成本压力并存，行业规范亟待跟进。",
         "image": "",
         "score": 91
       },
@@ -302,8 +342,8 @@
         "tag": "游戏营销",
         "title": "麦当劳在土耳其推出防挂机游戏套餐",
         "link": "https://www.ign.com/articles/mcdonalds-introduces-a-pro-gamer-menu-with-an-arch-shaped-device-that-will-keep-you-from-going-afk-while-you-eat-but-its-only-available-in-trkiye",
-        "summary": "麦当劳在土耳其推出全新“职业玩家菜单”及“Archie”防挂机设备，帮助玩家在用餐时保持游戏在线状态。",
-        "comment": "快餐与游戏场景的跨界营销颇具创意。",
+        "summary": "麦当劳在土耳其推出“Pro Gamer Menu”及配套的拱形设备“Archie”，旨在防止玩家用餐时游戏掉线。",
+        "comment": "快餐与游戏场景结合的营销尝试，但实用性存疑。",
         "image": "https://assets-prd.ignimgs.com/2026/04/03/mcarchie-1775251863848.png",
         "score": 91
       },
@@ -319,11 +359,11 @@
       },
       {
         "category": "游戏影视",
-        "tag": "科技产品",
-        "title": "IGN推荐：无线电动吹风机特价24美元",
+        "tag": "科技促销",
+        "title": "无线电动吹风机特价24美元，适用于PC和汽车维护",
         "link": "https://www.ign.com/articles/best-cordless-electric-air-duster-deal-in-april",
-        "summary": "IGN报道无线电动吹风机特价至24美元以下，适用于电脑或汽车清洁，可替代压缩空气罐。",
-        "comment": "价格实惠，适合DIY爱好者日常维护。",
+        "summary": "IGN报道无线电动吹风机特价24美元，可替代压缩空气罐，用于电脑和汽车清洁维护。",
+        "comment": "实用小工具促销，价格亲民。",
         "image": "https://assets-prd.ignimgs.com/2026/04/01/zarimi2-1775067637533.jpg",
         "score": 91
       },
@@ -332,8 +372,8 @@
         "tag": "电动滑板车",
         "title": "LADPED成人电动滑板车限时特价109美元起",
         "link": "https://www.ign.com/articles/best-ladped-electric-scooter-deal-aliexpress-april-sale",
-        "summary": "IGN报道LADPED电动滑板车限时优惠，最高时速19英里，美国发货且免运费，由官方制造商直接销售。",
-        "comment": "性价比突出的入门级电动出行工具促销信息。",
+        "summary": "IGN报道LADPED成人电动滑板车限时特价，最高时速19英里，美国发货，官方直营。",
+        "comment": "性价比突出的入门级电动滑板车促销信息。",
         "image": "https://assets-prd.ignimgs.com/2026/04/03/ladped-1775247115477.jpg",
         "score": 91
       },
@@ -342,7 +382,7 @@
         "tag": "游戏产业",
         "title": "《黎明杀机》开发者庆祝游戏十周年，展望未来",
         "link": "https://www.ign.com/articles/dead-by-daylight-devs-celebrate-10-years-of-eldritch-evil-and-hope-for-many-many-more",
-        "summary": "在GDC上，IGN采访了Behaviour Interactive的合作主管与创意总监，探讨了《黎明杀机》运营十年的历程与未来规划。",
+        "summary": "在GDC上，IGN采访了Behaviour Interactive的合作伙伴主管和创意总监，探讨了《黎明杀机》过去十年的发展历程与未来愿景。",
         "comment": "十年运营展现长线服务型游戏的成功潜力。",
         "image": "https://assets1.ignimgs.com/2019/06/11/switch-deadbydaylight-e3-screen-05-1560290140511.jpg",
         "score": 91
@@ -353,7 +393,7 @@
         "title": "一战游戏《WW1 Gallipoli》夏季推出，主打真实战场体验",
         "link": "https://www.ign.com/articles/ww1-gallipoli-thrust-me-into-one-of-the-worlds-most-violent-conflicts-ign-preview",
         "summary": "IGN预览一战题材射击游戏《WW1 Gallipoli》，该作号称市场上最真实的一战FPS游戏，预计今年夏季发售。",
-        "comment": "一战题材的深度挖掘，有望带来更真实的战争体验。",
+        "comment": "一战题材的深度挖掘，有望提升战争游戏的真实感上限。",
         "image": "https://assets-prd.ignimgs.com/2026/04/03/keyart-gallipoli-no-logo-3840x2160-1775228103974.png",
         "score": 91
       },
@@ -369,23 +409,23 @@
       },
       {
         "category": "游戏影视",
-        "tag": "影视周边",
-        "title": "《搏击俱乐部》首推4K蓝光版，附赠肥皂主题铁盒封面",
-        "link": "https://www.gamespot.com/articles/fight-club-4k-blu-ray-buying-guide/1100-6539201/?ftag=CAD-01-10abi2f",
-        "summary": "《搏击俱乐部》首次推出4K蓝光版本，包含特制肥皂主题铁盒封面，售价40美元，将于5月12日发售，现已开放预订。",
-        "comment": "经典电影以高规格载体回归，收藏价值显著。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4677152-fight-club-main.jpg",
+        "tag": "电影票房",
+        "title": "《超级马里奥银河》电影两日票房破亿美元",
+        "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-opens-huge-but-not-expected-to-beat-the-2023-movie/1100-6539174/?ftag=CAD-01-10abi2f",
+        "summary": "《超级马里奥银河》电影上映次日再收2460万美元，北美两日累计票房达5910万美元，全球票房已突破1亿美元。",
+        "comment": "马里奥IP票房号召力依然强劲，但未达2023版纪录。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676651-mariomovie.jpg",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "电影票房",
-        "title": "《超级马里奥银河》电影两日票房破亿美元",
-        "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-opens-huge-but-not-expected-to-beat-the-2023-movie/1100-6539174/?ftag=CAD-01-10abi2f",
-        "summary": "《超级马里奥银河》电影上映两日，北美票房达5910万美元，全球票房已突破1亿美元。",
-        "comment": "马里奥IP票房号召力依然强劲，但未达前作同期水平。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676651-mariomovie.jpg",
-        "score": 90
+        "tag": "影视周边",
+        "title": "《搏击俱乐部》首推4K蓝光版，附赠肥皂主题铁盒封面",
+        "link": "https://www.gamespot.com/articles/fight-club-4k-blu-ray-buying-guide/1100-6539201/?ftag=CAD-01-10abi2f",
+        "summary": "《搏击俱乐部》将于5月12日推出4K蓝光铁盒版，售价40美元，现已开放预购。",
+        "comment": "经典影片的收藏版升级，对影迷颇具吸引力。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4677152-fight-club-main.jpg",
+        "score": 89
       },
       {
         "category": "游戏影视",
@@ -393,7 +433,7 @@
         "title": "《塞尔达传说：王国之泪》佐纳乌之秘英雄版开放预购",
         "link": "https://www.gamespot.com/articles/zelda-tears-of-the-kingdom-secrets-of-the-zonai-buying-guide/1100-6539202/?ftag=CAD-01-10abi2f",
         "summary": "《塞尔达传说：王国之泪》设定集“佐纳乌之秘”英雄版开放预购，售价120美元，将于10月20日发售。",
-        "comment": "官方设定集为系列粉丝提供了深入了解游戏世界的机会。",
+        "comment": "官方设定集为游戏粉丝提供了深入了解世界观的机会。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4677166-totk-main.jpg",
         "score": 89
       },
@@ -402,8 +442,8 @@
         "tag": "任天堂",
         "title": "任天堂建议观众带手机观看《超级马里奥银河》电影",
         "link": "https://www.gamespot.com/articles/nintendo-wants-you-to-bring-your-phone-to-the-super-mario-galaxy-movie/1100-6539220/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂鼓励观众在观看《超级马里奥银河》电影时携带安装Nintendo Today应用的手机，以便在合作影院参与互动体验。",
-        "comment": "影院观影与手机应用联动，拓展了传统观影体验。",
+        "summary": "任天堂建议观众在影院观看《超级马里奥银河》电影时，携带装有Nintendo Today应用的手机，可在特定影院参与互动体验。",
+        "comment": "任天堂尝试通过手机应用增强影院观影的互动性。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15971423/4677324-7134218948-46767.png",
         "score": 89
       },
@@ -422,28 +462,28 @@
         "tag": "游戏周边",
         "title": "百思买限时促销多款宝可梦纳米积木模型",
         "link": "https://www.gamespot.com/articles/pokemon-nanoblock-deals/1100-6539168/?ftag=CAD-01-10abi2f",
-        "summary": "百思买正限时促销万代推出的宝可梦纳米积木系列收藏模型，这些迷你积木版宝可梦造型可爱，价格优惠。",
+        "summary": "百思买正限时促销万代推出的宝可梦纳米积木系列收藏模型，这些迷你积木版宝可梦造型可爱。",
         "comment": "限时促销为收藏爱好者提供了入手机会。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4677315-nanopoke.png",
         "score": 89
       },
       {
         "category": "游戏影视",
-        "tag": "游戏趣闻",
+        "tag": "游戏行业",
         "title": "《Expedition 33》演员以33根法棍打赌游戏将大卖",
         "link": "https://www.gamespot.com/articles/expedition-33-dev-bet-someone-33-baguettes-that-the-game-would-be-a-huge-hit/1100-6539216/?ftag=CAD-01-10abi2f",
         "summary": "游戏《Clair Obscur: Expedition 33》的一位演员对这款RPG的成功充满信心，与发行方人员打赌：若游戏销量达100万份，则赢得33根法棍。",
-        "comment": "以法棍为赌注，展现了开发团队对作品的独特信心与幽默感。",
+        "comment": "以法棍为赌注，展现了开发团队对作品市场表现的独特信心与幽默。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4677313-e33.jpg",
         "score": 89
       },
       {
         "category": "游戏影视",
-        "tag": "Switch 2",
-        "title": "Genki Covert Dock 3解决Switch 2桌面杂乱问题",
+        "tag": "Switch配件",
+        "title": "Genki Covert Dock 3便携底座解决Switch 2线缆杂乱问题",
         "link": "https://www.gamespot.com/articles/genki-covert-dock-3-solves-the-switch-2s-clutter-problem-in-one-plug/1100-6539215/?ftag=CAD-01-10abi2f",
-        "summary": "Genki推出Covert Dock 3便携扩展坞，专为Switch 2设计，通过单线连接解决桌面线缆杂乱问题，提升便携性。",
-        "comment": "第三方配件精准解决了Switch 2用户的实际痛点。",
+        "summary": "Genki推出Covert Dock 3便携底座，专为Switch 2设计，通过单一接口连接解决多线缆杂乱问题，提升便携性。",
+        "comment": "第三方配件精准解决用户痛点，体现Switch生态活力。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4677286-genki-3.jpg",
         "score": 89
       },
@@ -452,8 +492,8 @@
         "tag": "游戏传闻",
         "title": "顽皮狗神秘推文引猜测，粉丝推测《神秘海域5》或将公布",
         "link": "https://www.gamespot.com/articles/uncharted-5-fans-believe-cryptic-naughty-dog-dev-post-is-teasing-the-game/1100-6539214/?ftag=CAD-01-10abi2f",
-        "summary": "顽皮狗开发者发布神秘推文，引发玩家对《神秘海域5》的猜测。该系列自2016年《神秘海域4》后未有正统续作，但全球销量已破千万。",
-        "comment": "推文内容隐晦，更像是社区互动而非正式预告。",
+        "summary": "顽皮狗开发者在社交媒体发布神秘推文，引发玩家对《神秘海域5》的猜测。该系列自2016年《神秘海域4》后主线作品一直沉寂。",
+        "comment": "推文暗示性较强，但官方尚未确认新作开发。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1365/13658182/3011872-20160224_uncharted_4_story_trailer_09_1456312176.png",
         "score": 89
       },
@@ -463,57 +503,47 @@
         "title": "神行者CEO文飞：不鼓励用户用越野车拔河涮泥锅",
         "link": "https://www.ifanr.com/1660882?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "神行者CEO文飞表示品牌定位为越野领域中最优雅的，不提倡用户进行拔河、涮泥锅等激烈越野活动。",
-        "comment": "品牌试图在越野性能与城市优雅间寻找新定位。",
+        "comment": "品牌试图在越野性能与优雅格调间寻找新定位。",
         "image": "",
         "score": 88
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果严控Vibe Coding，开发者需警惕",
+        "title": "苹果对Vibe Coding态度严厉",
         "link": "https://www.ifanr.com/1660839?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果对Vibe Coding采取严格管控，开发者需注意其潜在问题与风险，避免陷入技术困境。",
-        "comment": "苹果的严格审核有助于维护应用生态质量。",
+        "summary": "文章提醒开发者警惕Vibe Coding可能带来的问题，并提及关注爱范儿公众号获取更多内容。",
+        "comment": "苹果对开发规范的坚持值得关注。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "匈牙利大选",
+        "tag": "匈牙利",
         "title": "匈牙利大选在即，欧尔班16年执政面临挑战",
         "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
-        "summary": "匈牙利将于九天后举行大选，执政16年的总理欧尔班能否连任成为关注焦点。",
-        "comment": "东欧政治格局或迎来重要变化。",
+        "summary": "匈牙利将于9天后举行大选，执政16年的总理欧尔班可能面临下台风险，选举结果备受关注。",
+        "comment": "匈牙利政治格局或迎来重要转折点。",
         "image": "",
-        "score": 87
+        "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "非洲政局",
-        "title": "布基纳法索军政府领导人称该国应“忘记”民主",
-        "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
-        "summary": "2023年通过政变上台的易卜拉欣·特拉奥雷表示，民主统治不适合他的国家。",
-        "comment": "军政府公开否定民主制度，反映该国政治进程的严重倒退。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国预算",
-        "title": "特朗普寻求1.5万亿美元国防预算并削减国内开支",
-        "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统新预算案拟将非国防开支削减10%，部分通过大幅削减国内项目实现，同时寻求1.5万亿美元国防预算。",
-        "comment": "预算案体现美国军事优先与国内紧缩的政策转向。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "航运安全",
-        "title": "法国公司船只通过霍尔木兹海峡",
+        "tag": "中东局势",
+        "title": "法国货船通过霍尔木兹海峡，系冲突后欧洲公司首次",
         "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-        "summary": "一艘法国公司拥有的船只通过了霍尔木兹海峡，这是自地区冲突爆发以来，首次有欧洲主要公司的船只通过该关键水道。",
-        "comment": "此举可能试探地区紧张局势下的航运安全。",
+        "summary": "一艘法国公司拥有的货船通过了霍尔木兹海峡，这是自地区冲突爆发以来，首次有大型欧洲公司的船只通过该关键航道。",
+        "comment": "此举可能试探地区紧张局势，并测试航运安全。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "娱乐犯罪",
+        "title": "说唱歌手Gucci Mane遭同行绑架抢劫，检方称被迫解约",
+        "link": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
+        "summary": "检方称，嘻哈明星Gucci Mane被强迫签署文件，解除了与一名艺名为Pooh Shiesty的说唱歌手的唱片合约。",
+        "comment": "嘻哈圈内部矛盾以极端犯罪形式爆发，引发行业震动。",
         "image": "",
         "score": 86
       },
@@ -528,44 +558,14 @@
         "score": 86
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏评选",
-        "title": "IGN发起年度最佳任天堂游戏评选",
-        "link": "https://www.ign.com/articles/whats-your-pick-for-nintendo-game-of-the-year-so-far",
-        "summary": "游戏媒体IGN发起投票，邀请玩家评选迄今为止的年度最佳任天堂游戏。",
-        "comment": "年度评选是游戏媒体的常规操作，旨在引发社区讨论。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/13/c15db050-16f4-11f1-a694-e5c2b699acf9-1773395460074.jpg",
-        "score": 85
-      },
-      {
         "category": "时事热点",
-        "tag": "法国",
-        "title": "法国法院推翻穆斯林集会禁令",
-        "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-        "summary": "巴黎警方以集会可能成为恐怖袭击目标、构成安全威胁为由，试图禁止一场为期四天的穆斯林集会，但该禁令已被法院推翻。",
-        "comment": "法院裁决体现了对集会自由与安全考量的平衡。",
+        "tag": "美国预算",
+        "title": "特朗普寻求1.5万亿美元国防预算并削减国内开支",
+        "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国总统新预算案拟削减10%非国防支出，部分通过大幅削减国内项目实现，同时寻求1.5万亿美元国防经费。",
+        "comment": "预算案凸显美国军事优先与国内福利的权衡。",
         "image": "",
-        "score": 84
-      },
-      {
-        "category": "时事热点",
-        "tag": "娱乐犯罪",
-        "title": "说唱歌手Gucci Mane遭同行绑架抢劫，检方披露细节",
-        "link": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
-        "summary": "检方称，嘻哈明星Gucci Mane被强迫签署文件，以解除一名艺名为Pooh Shiesty的说唱歌手的唱片合约。",
-        "comment": "嘻哈圈内部矛盾以暴力形式显现，行业生态引人关注。",
-        "image": "",
-        "score": 84
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际遣返",
-        "title": "美国将八名非洲裔人士遣返乌干达引争议",
-        "link": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
-        "summary": "乌干达法律协会批评此次遣返行为，称其非法且“非人道”。",
-        "comment": "遣返行动引发法律与人道争议。",
-        "image": "",
-        "score": 84
+        "score": 86
       }
     ]
   },
@@ -578,7 +578,7 @@
         "title": "微软发布三款基础模型挑战AI竞争对手",
         "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
         "summary": "微软人工智能部门成立半年后，推出三款基础模型，具备语音转文本、音频生成和图像生成能力。",
-        "comment": "微软加速布局多模态AI，行业竞争加剧。",
+        "comment": "微软加速布局多模态AI，行业竞争进一步加剧。",
         "image": "",
         "score": 100
       },
@@ -587,7 +587,7 @@
         "tag": "人工智能",
         "title": "谷歌Vids应用新增提示词操控虚拟形象功能",
         "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-        "summary": "谷歌在Vids视频应用中新增功能，允许用户通过提示词自定义和操控虚拟形象进行视频创作。",
+        "summary": "谷歌在Vids视频创作应用中新增功能，允许用户通过提示词自定义并操控虚拟形象，用于视频内容制作。",
         "comment": "AI视频工具交互方式更趋自然，降低创作门槛。",
         "image": "",
         "score": 99
@@ -600,7 +600,7 @@
         "summary": "OpenAI收购硅谷热门科技播客TBPN，该节目将由首席政治运营官Chris Lehane监督，但保持独立运营。",
         "comment": "科技巨头布局内容生态，AI与媒体融合趋势加速。",
         "image": "",
-        "score": 96
+        "score": 97
       },
       {
         "category": "数码科技",
@@ -608,9 +608,9 @@
         "title": "小鹏MONA M03搭载图灵芯片与越级座舱",
         "link": "https://www.ifanr.com/1660774?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "小鹏MONA M03以11.98万元起售，新增图灵芯片与越级座舱配置，官方称其具备降维打击同级产品的实力。",
-        "comment": "配置升级旨在巩固其细分市场的领先地位。",
+        "comment": "配置升级有望巩固其在细分市场的领先地位。",
         "image": "",
-        "score": 88
+        "score": 91
       }
     ]
   }
