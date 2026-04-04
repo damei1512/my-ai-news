@@ -4,13 +4,23 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "私募市场",
+        "tag": "人工智能",
         "title": "Anthropic成私募市场焦点，SpaceX或成变数",
         "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-        "summary": "Rainmaker Securities总裁指出，私募二级市场交易活跃度空前，Anthropic成为最热门标的，OpenAI热度下降，而SpaceX的潜在上市可能转移市场注意力。",
-        "comment": "私募市场资金流向反映AI赛道竞争格局正在动态调整。",
+        "summary": "Rainmaker Securities总裁表示，私募二级市场交易活跃度空前，Anthropic成为最热门标的，OpenAI热度下降，而SpaceX可能分散市场资金。",
+        "comment": "私募市场对AI公司的估值热情持续，但需警惕资金分流风险。",
         "image": "",
         "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "具身智能",
+        "title": "00后极客72小时开发具身智能机器人",
+        "link": "https://36kr.com/p/3752115857638145?f=rss",
+        "summary": "深圳举办全球首届具身智能开发者大会，20组选手连续开发60余小时，现场可见帐篷、未吃完的食物，展现高强度开发状态。",
+        "comment": "具身智能从实验室走向开发者生态，标志技术落地加速。",
+        "image": "",
+        "score": 96
       },
       {
         "category": "游戏影视",
@@ -24,33 +34,53 @@
       },
       {
         "category": "数码科技",
+        "tag": "汽车",
+        "title": "福特GT Mk IV纽北圈速超小米SU7，燃油车性能登顶",
+        "link": "https://www.ifanr.com/1661013?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "福特GT Mk IV在纽博格林北环赛道创下圈速纪录，超越小米SU7，位列榜单第三，展现燃油车性能极限。",
+        "comment": "燃油性能车在电动化浪潮中仍能刷新纪录，技术底蕴深厚。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "数码科技",
         "tag": "人工智能",
         "title": "Anthropic封杀OpenClaw，创始人称说服失败",
         "link": "https://www.ifanr.com/1661053?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI公司Anthropic封杀了开源项目OpenClaw，其联合创始人“龙虾之父”表示说服对方合作失败。",
+        "summary": "AI公司Anthropic封禁了开源项目OpenClaw，其联合创始人“龙虾之父”表示尝试说服对方但未成功。",
         "comment": "商业竞争加剧，开源与闭源路线冲突显现。",
         "image": "",
         "score": 89
       },
       {
         "category": "数码科技",
-        "tag": "科技资讯",
-        "title": "Slack粗暴断服引不满，小米手机涨价，外卖平台被约谈",
+        "tag": "数码科技",
+        "title": "早报｜Slack粗暴断服引不满，小米涨价因内存价涨，外卖平台被约谈",
         "link": "https://www.ifanr.com/1661050?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "工信部预警iOS系统严重漏洞，苹果下架Vibe Coding应用，R星母公司解散AI团队。",
-        "comment": "科技服务中断与成本压力并存，监管持续关注平台责任。",
+        "summary": "工信部预警iOS系统严重漏洞，苹果下架Vibe Coding应用，R星母公司解散AI团队，研发成果终止。",
+        "comment": "科技服务中断与成本压力并存，监管与安全议题凸显。",
         "image": "",
         "score": 89
       },
       {
         "category": "数码科技",
         "tag": "数码科技",
-        "title": "有线耳机在无线时代仍将长期存在",
+        "title": "有线耳机在无线时代仍具存在价值",
         "link": "https://www.ifanr.com/1660979?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章认为，尽管无线耳机是主流趋势，但有线耳机凭借其可靠性、音质和无延迟等优势，仍将拥有稳固的市场地位。",
-        "comment": "有线耳机的实用性确保了其不会轻易被淘汰。",
+        "summary": "文章指出，尽管无线耳机成为主流，但有线耳机凭借稳定连接、无需充电、高性价比等优势，仍将持续占据市场一席之地。",
+        "comment": "有线耳机的实用性在特定场景下依然不可替代。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "航天",
+        "title": "阿尔忒弥斯2号宇航员拍摄壮观地球照片",
+        "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+        "summary": "阿尔忒弥斯2号任务指挥官在猎户座飞船内拍摄地球照片，目前飞船已抵达月球轨道中途点。",
+        "comment": "人类重返月球进程中的标志性视觉记录。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
