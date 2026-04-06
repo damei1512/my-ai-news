@@ -3,6 +3,36 @@
     "week": "周一",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "ChatGPT新增DoorDash等应用集成使用指南",
+        "link": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+        "summary": "TechCrunch AI详解如何在ChatGPT中直接使用Spotify、Canva、Figma、Expedia等第三方应用的操作方法。",
+        "comment": "应用生态整合是AI助手实用化的关键一步。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "西班牙Xoople获1.3亿美元B轮融资，为AI绘制地球地图",
+        "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+        "summary": "西班牙公司Xoople完成1.3亿美元B轮融资，专注于为人工智能绘制地球地图，并与L3Harris达成传感器制造协议。",
+        "comment": "地理空间数据正成为AI训练的关键基础设施。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "TechCrunch创业大赛开放申请，优胜者获投资与曝光",
+        "link": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+        "summary": "TechCrunch创业大赛开放申请，入选的200家初创公司将有机会获得风险投资、媒体曝光及10万美元奖金。",
+        "comment": "顶级创业赛事为早期项目提供关键资源与展示平台。",
+        "image": "",
+        "score": 97
+      },
+      {
         "category": "数码科技",
         "tag": "AI硬件",
         "title": "AI硬件赛道升温：众筹300万美元的Agent盒子瞄准算力焦虑",
@@ -13,72 +43,152 @@
         "score": 96
       },
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "TechCrunch Disrupt 2026门票限时优惠，最高省500美元",
+        "link": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
+        "summary": "TechCrunch Disrupt 2026大会门票开启限时5天优惠，最高可节省近500美元，优惠将于太平洋时间4月10日晚11:59截止。",
+        "comment": "常规会务促销信息，对特定参会群体有实用价值。",
+        "image": "",
+        "score": 95
+      },
+      {
         "category": "数码科技",
         "tag": "战略合作",
         "title": "荣耀与京东签订战略合作协议，三年目标千亿规模",
         "link": "https://36kr.com/p/3755161993675523?f=rss",
-        "summary": "荣耀与京东签订战略合作协议，将在产品共创、用户共营、生态共享三大领域深度合作，目标三年累计规模超1000亿元。合作覆盖手机、全场景、AIoT及机器人等产品全生命周期。",
+        "summary": "荣耀与京东建立全方位战略合作，将在产品共创、用户共营、生态共享三大领域深度融合，共同推进AI、机器人、C2M等领域的共创合作，目标三年累计规模超1000亿元。",
         "comment": "头部品牌与渠道的深度绑定，意在抢占AIoT生态先机。",
         "image": "",
-        "score": 94
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "《超级马里奥银河》电影助AMC创106年票房纪录",
+        "link": "https://www.gamespot.com/articles/super-mario-galaxy-movie-helped-break-a-106-year-record/1100-6539225/?ftag=CAD-01-10abi2f",
+        "summary": "《超级马里奥银河》电影本周末票房表现强劲，连锁影院AMC受益，报告创下公司106年历史中的单日最高票房纪录。",
+        "comment": "经典游戏IP的电影化再次证明其强大的市场号召力。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4678092-screenshot2026-04-06at9.35.23%E2%80%AFam.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影",
+        "title": "《塞尔达传说》电影取景地曝光，与《指环王》相同引热议",
+        "link": "https://www.gamespot.com/articles/zelda-movie-filming-at-same-locations-as-the-lord-of-the-rings-and-people-are-excited/1100-6539223/?ftag=CAD-01-10abi2f",
+        "summary": "真人版《塞尔达传说》电影被曝正在彼得·杰克逊执导的奥斯卡获奖影片《指环王》三部曲的相同地点取景拍摄，引发影迷期待。",
+        "comment": "经典取景地复用，情怀与品质的双重期待。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4678081-zeldamovie.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《Bloodmoored》公布：第一人称心理恐怖游戏，设定在废弃工厂",
+        "link": "https://www.ign.com/articles/bloodmoored-first-person-psychological-horror-game-announced-for-pc",
+        "summary": "IGN报道，新公布的第一人称心理恐怖游戏《Bloodmoored》设定于一座废弃工业建筑群，玩家需逃离其父亲的旧工厂。",
+        "comment": "设定在废弃工厂的心理恐怖游戏，氛围营造值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/03/bm-blogroll-1775251204420.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "动画",
+        "title": "IGN评《魔女之旅》首映：新奇幻动画登场",
+        "link": "https://www.ign.com/articles/witch-hat-atelier-premiere-review-episode-1-2",
+        "summary": "IGN对《魔女之旅》首两集进行评测，认为该作有望成为下一部热门奇幻动画。",
+        "comment": "专业媒体首波评价积极，值得奇幻动画爱好者关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/03/witch-hat-1775243459765.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "IGN评《出口8》：游戏改编电影失败之作",
+        "link": "https://www.ign.com/articles/exit-8-movie-review",
+        "summary": "IGN评论认为《出口8》电影版改编失败，节奏拖沓，更适合做成短片而非长片。",
+        "comment": "游戏改编电影再次陷入内容注水的困境。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/03/exit-8-thumb-1775241210891.jpg",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "星球大战",
         "title": "《星球大战：摩尔-暗影领主》第一季1-8集评测",
         "link": "https://www.ign.com/articles/star-wars-maul-shadow-lord-season-1-episodes-1-8-review",
-        "summary": "IGN评测认为该剧虽有初期成长阵痛，但仍是星战正史的扎实补充，其重点不仅限于标志性西斯角色。",
-        "comment": "星战衍生剧稳健开局，角色塑造有突破。",
+        "summary": "IGN评测认为该剧虽有早期成长阵痛，但仍是星战正史的坚实补充，其重点不仅在于标志性西斯角色。",
+        "comment": "星战衍生剧稳步拓展宇宙，角色深度获肯定。",
         "image": "https://assets-prd.ignimgs.com/2026/04/02/maul-shadow-lord-blogroll-1775166254581.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
+        "tag": "任天堂",
+        "title": "任天堂推出Switch 2限时优惠，购机可享《超级马里奥银河》20美元折扣",
+        "link": "https://www.gamespot.com/articles/its-not-a-switch-2-mario-galaxy-bundle-but-this-deal-is-the-next-best-thing/1100-6539226/?ftag=CAD-01-10abi2f",
+        "summary": "任天堂宣布Switch 2限时促销活动，购买主机的用户可在实体版或数字版《超级马里奥银河》合集上节省20美元。",
+        "comment": "促销力度有限，但有助于推动新主机销售。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4678093-switch-2-galaxy.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
         "tag": "星球大战",
-        "title": "演员提议开发《星球大战》达斯·摩尔游戏",
+        "title": "演员建议开发达斯·摩尔游戏，称其潜力巨大",
         "link": "https://www.gamespot.com/articles/star-wars-actor-sam-witwer-says-a-darth-maul-game-could-be-something-special/1100-6539222/?ftag=CAD-01-10abi2f",
-        "summary": "演员山姆·威特沃认为以达斯·摩尔为主角的游戏会很有潜力，该角色本月将有新动画剧集推出。",
-        "comment": "经典反派角色游戏化具备市场基础。",
+        "summary": "《星球大战》演员山姆·威特沃认为以达斯·摩尔为主角的游戏会非常特别。随着本月新动画系列推出，该角色重回聚光灯下。",
+        "comment": "经典反派角色游戏化确实具备独特的叙事与玩法空间。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4678071-maul.jpg",
         "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "马里奥电影",
+        "title": "安雅澄清首次为马里奥电影配音时并未呕吐",
+        "link": "https://www.gamespot.com/articles/anya-taylor-joy-did-not-actually-barf-when-voicing-peach-for-the-first-time-in-mario-movie/1100-6539224/?ftag=CAD-01-10abi2f",
+        "summary": "演员安雅·泰勒-乔伊澄清此前关于首次为《超级马里奥兄弟大电影》中碧姬公主配音时呕吐的说法，表示当时只是形容紧张情绪。",
+        "comment": "娱乐新闻的细节澄清往往比原事件更受关注。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4678084-screenshot2026-04-06at9.02.26%E2%80%AFam.png",
+        "score": 88
       },
       {
         "category": "时事热点",
         "tag": "军事行动",
         "title": "美军飞行员在伊朗偏远地区获救行动细节披露",
         "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国多部门联合在伊朗境内执行复杂救援任务，成功营救一名坠机飞行员。行动在敌对领土展开，涉及多方协调。",
-        "comment": "行动展现美军远程特种作战与危机应对能力。",
+        "summary": "美国多部门联合在伊朗境内执行复杂救援任务，成功营救一名坠机飞行员，行动涉及高风险与精密协调。",
+        "comment": "此次行动展现了美军在敌对区域的远程投送与撤离能力。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "国际政治",
-        "title": "特朗普宣布救援胜利，伊朗行动威胁仍在",
+        "title": "特朗普宣布救援胜利，伊朗行动威胁仍存",
         "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-        "summary": "特朗普宣布救援行动胜利，但美国在伊朗的军事行动仍面临威胁。此次救援可能影响其对夺取哈尔克岛或浓缩铀设施地面行动的看法。",
-        "comment": "救援成功难掩后续行动的战略风险。",
+        "summary": "特朗普宣布救援行动胜利，但美国在伊朗的军事行动仍面临威胁。此次救援可能影响其对夺取哈尔克岛或铀浓缩设施地面行动的看法。",
+        "comment": "救援成功难掩后续行动的复杂性与风险。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "公共卫生",
-        "title": "孟加拉国麻疹疫情致百名儿童死亡，启动紧急接种",
+        "title": "孟加拉国麻疹疫情致百名儿童死亡 启动紧急接种",
         "link": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
-        "summary": "孟加拉国官员称，自三月中旬以来，疑似麻疹已导致超过100人死亡，其中大部分为儿童，当局已开展紧急疫苗接种行动。",
-        "comment": "疫情凸显了基础免疫接种的脆弱性。",
+        "summary": "孟加拉国官员称，自3月中旬以来，疑似麻疹已导致超百人死亡，其中多数为儿童，当局正开展紧急疫苗接种。",
+        "comment": "儿童疫苗接种缺口再次导致悲剧，凸显基础免疫的紧迫性。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "美国政治",
+        "tag": "美国安全",
         "title": "美国特勤局调查白宫附近枪击报告",
         "link": "https://www.bbc.com/news/articles/cge0213dyj5o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国特勤局正调查白宫附近疑似枪击事件，已加强安保，目前无人员伤亡报告，嫌疑人尚未确定。",
-        "comment": "事件凸显美国核心政治区域安保的敏感性与脆弱性。",
+        "summary": "美国特勤局正在调查白宫附近疑似枪击事件，已加强安全警戒，目前无人员伤亡报告，嫌疑人尚未确认。",
+        "comment": "事件凸显美国核心政治区域的安全挑战。",
         "image": "",
         "score": 87
       },
@@ -87,18 +197,18 @@
         "tag": "尼日利亚",
         "title": "尼日利亚军方解救复活节教堂袭击案31名人质",
         "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
-        "summary": "尼日利亚军方宣布成功解救31名在复活节教堂袭击中被绑架的人员，现场发现5名平民遇害。",
-        "comment": "宗教场所袭击频发，凸显地区安全局势严峻。",
+        "summary": "尼日利亚军方宣布成功解救31名在复活节教堂袭击中被绑架的人质，袭击造成5名平民死亡，其遗体已在现场找到。",
+        "comment": "宗教场所袭击凸显尼日利亚安全局势依然严峻。",
         "image": "",
-        "score": 87
+        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "社会新闻",
         "title": "美国主播母亲疑遭绑架，其本人重返工作岗位",
         "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国NBC主播萨凡纳·格思里的母亲在亚利桑那州家中失踪，警方怀疑是绑架案。格思里在继续寻找母亲的同时，已返回工作岗位。",
-        "comment": "个人悲剧与职业责任交织，引发公众关注。",
+        "summary": "美国NBC主播萨凡纳·格思里的母亲在亚利桑那州家中失踪，警方怀疑是绑架案，格思里本人已返回工作岗位。",
+        "comment": "个人悲剧与职业责任交织，凸显公众人物的不易。",
         "image": "",
         "score": 83
       },
@@ -117,7 +227,7 @@
         "tag": "动物保护",
         "title": "华盛顿州灰鲸误入内河后死亡，饥饿可能是原因",
         "link": "https://www.bbc.com/news/articles/cew7n4glz54o?at_medium=RSS&at_campaign=rss",
-        "summary": "一头名为Willapa Willy的年轻灰鲸在华盛顿州误入内河后死亡。专家分析，饥饿很可能是导致其离开正常栖息地、向内陆水域游动的主要原因。",
+        "summary": "一头名为“威拉帕威利”的年轻灰鲸在华盛顿州误入内河后死亡，专家分析其向内陆游动很可能是由于饥饿所致。",
         "comment": "海洋生物异常行为再次警示生态环境变化。",
         "image": "",
         "score": 83
