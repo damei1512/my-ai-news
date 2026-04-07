@@ -3,22 +3,12 @@
     "week": "周五",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI高管变动：COO负责特殊项目，CMO因健康暂离",
-        "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-        "summary": "OpenAI首席运营官Brad Lightcap将负责领导特殊项目，首席营销官Kate Rouch因癌症治疗暂时离职，计划健康允许后回归。",
-        "comment": "高管变动显示OpenAI在战略调整期的人才布局。",
-        "image": "",
-        "score": 96
-      },
-      {
         "category": "数码科技",
         "tag": "神州数码",
         "title": "神州数码2025年营收超1400亿，AI业务增长近五成",
         "link": "https://36kr.com/p/3751046517129735?f=rss",
-        "summary": "神州数码2025年营收1438亿元，同比增长12%。AI相关业务收入330亿元，同比大增48%，成为核心增长引擎，与传统分销业务并重。",
-        "comment": "AI业务已成为神州数码重要的第二增长曲线。",
+        "summary": "神州数码2025年营收1438亿元，同比增长12%，其中AI相关业务收入达330亿元，同比增长48%，成为核心增长引擎。",
+        "comment": "AI业务已从概念验证进入规模化创收阶段。",
         "image": "",
         "score": 96
       },
@@ -27,28 +17,18 @@
         "tag": "泡泡玛特",
         "title": "泡泡玛特2025年财报亮眼但股价大跌",
         "link": "https://36kr.com/p/3750711532569350?f=rss",
-        "summary": "泡泡玛特2025年财报显示收入371.2亿元，同比增长185%，净利润130.1亿元，增长293%，海外收入占比超四成。但财报发布当日股价一度跌超20%。",
+        "summary": "泡泡玛特2025年营收371.2亿元，同比增长185%，净利润130.1亿元，海外收入占比超四成。财报发布当日股价一度跌超20%。",
         "comment": "业绩高增长难掩资本市场对其未来预期的担忧。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "AI内容",
-        "title": "阅文推AI拟真人大讲堂，强调故事为AI内容核心",
-        "link": "https://36kr.com/p/3750704146072326?f=rss",
-        "summary": "AI拟真人剧从AI漫剧赛道衍生，受益于视频生成大模型进步。2025年下半年崭露头角，从业者认为其天花板高于传统影视，但技术问题尚存。今年1月字节Seedance2.0等入局。",
-        "comment": "技术热潮下，阅文回归故事本质的判断值得关注。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "食品饮料",
-        "title": "元气森林创造营2044：年轻产品经理展示新品研发历程",
+        "tag": "元气森林",
+        "title": "元气森林2044创造营：年轻产品经理展示新品研发历程",
         "link": "https://36kr.com/p/3749467949482759?f=rss",
-        "summary": "第二届元气森林创造营在咸宁举行，十余位年轻产品经理携家族新品亮相，分享研发初心。活动源于2024年经销商大会的长期承诺。",
-        "comment": "企业通过年轻化创新平台践行长期主义，值得关注。",
+        "summary": "第二届元气森林创造营2044活动在咸宁举行，十余位年轻产品经理携家族新品亮相，分享研发初心。活动源于2024年经销商大会的长期承诺。",
+        "comment": "企业通过年轻化创新平台强化研发投入，展现长期主义布局。",
         "image": "",
         "score": 93
       },
@@ -64,53 +44,13 @@
       },
       {
         "category": "数码科技",
-        "tag": "AI模型",
-        "title": "Google发布最强小模型，手机可运行",
-        "link": "https://www.ifanr.com/1660799?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Google发布高性能小模型，强调在手机等设备上的运行能力，挑战大模型依赖。",
-        "comment": "小模型轻量化是AI落地关键趋势。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
         "tag": "比亚迪",
         "title": "比亚迪插混新车11.19万起，纯电续航创纪录",
         "link": "https://www.ifanr.com/1660973?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪推出新款插电混动车型，起售价11.19万元，官方称其纯电续航里程为目前插混车型中最长。",
-        "comment": "以长续航和亲民价格进一步巩固市场优势。",
+        "summary": "比亚迪推出新款插电混动车型，起售价11.19万元，官方称其纯电续航里程为目前插混车型中最长，硬件配置有所提升。",
+        "comment": "价格与续航的组合拳，有望进一步冲击主流混动市场。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "影视周边",
-        "title": "《搏击俱乐部》首推4K蓝光版，附赠肥皂主题铁盒封面",
-        "link": "https://www.gamespot.com/articles/fight-club-4k-blu-ray-buying-guide/1100-6539201/?ftag=CAD-01-10abi2f",
-        "summary": "《搏击俱乐部》将于5月12日推出4K蓝光铁盒版，售价40美元，现已开放预购。",
-        "comment": "经典影片的收藏版升级，对影迷颇具吸引力。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4677152-fight-club-main.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏周边",
-        "title": "《塞尔达传说：王国之泪》佐纳乌之秘英雄版开放预购",
-        "link": "https://www.gamespot.com/articles/zelda-tears-of-the-kingdom-secrets-of-the-zonai-buying-guide/1100-6539202/?ftag=CAD-01-10abi2f",
-        "summary": "《塞尔达传说：王国之泪》设定集《佐纳乌之秘》英雄版开放预购，售价120美元，将于10月20日发售。",
-        "comment": "官方设定集为游戏粉丝提供了深入了解世界观的机会。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4677166-totk-main.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂建议观众带手机观看《超级马里奥银河》电影",
-        "link": "https://www.gamespot.com/articles/nintendo-wants-you-to-bring-your-phone-to-the-super-mario-galaxy-movie/1100-6539220/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂建议观众在影院观看《超级马里奥银河》电影时，携带装有Nintendo Today应用的手机，可在特定影院参与互动体验。",
-        "comment": "任天堂尝试通过手机应用增强影院观影的互动性。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15971423/4677324-7134218948-46767.png",
-        "score": 89
       },
       {
         "category": "数码科技",
@@ -118,17 +58,17 @@
         "title": "神行者CEO文飞：不鼓励用户用越野车拔河涮泥锅",
         "link": "https://www.ifanr.com/1660882?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "神行者CEO文飞表示品牌定位为越野领域中最优雅的，不提倡用户进行拔河、涮泥锅等激烈越野活动。",
-        "comment": "品牌试图在越野性能与优雅格调间寻找新定位。",
+        "comment": "品牌试图在越野性能与城市优雅间寻找新定位。",
         "image": "",
         "score": 88
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果严控Vibe Coding，开发者需警惕",
+        "title": "苹果严控Vibe Coding开发模式引争议",
         "link": "https://www.ifanr.com/1660839?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果对Vibe Coding采取严格管控，开发者需注意其潜在问题与风险，避免陷入技术困境。",
-        "comment": "苹果的严格监管有助于维护开发质量，但可能限制创新灵活性。",
+        "summary": "文章讨论苹果对Vibe Coding开发模式的严格管控，指出其可能带来的开发限制与生态影响。",
+        "comment": "苹果的强管控策略再次引发开发者生态的平衡讨论。",
         "image": "",
         "score": 88
       }
