@@ -3,6 +3,16 @@
     "week": "周二",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "AI创企Rocket以低成本提供麦肯锡式战略报告",
+        "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+        "summary": "Rocket推出AI平台，整合战略分析、产品构建与竞争情报，旨在超越代码生成，提供低成本咨询报告。",
+        "comment": "AI正从执行工具向战略顾问演进，可能重塑咨询行业格局。",
+        "image": "",
+        "score": 99
+      },
+      {
         "category": "数码科技",
         "tag": "人工智能",
         "title": "红熊AI获2.1亿元A轮融资，切入物理AI赛道",
@@ -18,7 +28,7 @@
         "title": "赛富乐斯获3亿元C轮融资，加速全彩AR微显示屏量产",
         "link": "https://36kr.com/p/3756111263384071?f=rss",
         "summary": "AR显示技术企业赛富乐斯完成3亿元C轮融资，资金将主要用于加速AR用全彩微显示屏的量产交付。",
-        "comment": "资本持续押注AR核心显示技术，量产落地是关键考验。",
+        "comment": "资本持续押注AR核心显示技术，产业化进程有望提速。",
         "image": "",
         "score": 96
       },
@@ -33,34 +43,54 @@
         "score": 96
       },
       {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "折叠屏iPhone或下半年发布，微信关停支付优惠小程序",
-        "link": "https://www.ifanr.com/1661108?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果有望下半年发布折叠屏iPhone；微信关停“支付有优惠”小程序；胖东来回应鸡蛋风波。AI界现新词FOBO，OpenAI推安全奖学金，苹果批准外接显卡驱动。",
-        "comment": "科技巨头动态频出，折叠屏与AI安全成焦点。",
-        "image": "",
-        "score": 91
-      },
-      {
         "category": "游戏影视",
         "tag": "PC硬件",
-        "title": "无线电动吹风机PC清洁工具促销价24美元",
+        "title": "IGN推荐无线电动吹风机：PC清洁工具仅售24美元",
         "link": "https://www.ign.com/articles/best-cordless-electric-air-duster-deal-april-2026",
-        "summary": "IGN报道无线电动吹风机促销信息，价格低至24美元，可替代压缩空气罐用于电脑维护。",
-        "comment": "价格实惠的PC维护工具，适合DIY用户。",
+        "summary": "IGN报道无线电动吹风机促销信息，售价24美元以下，可替代传统压缩空气罐用于电脑清洁。",
+        "comment": "实用小工具，适合DIY玩家日常维护。",
         "image": "https://assets-prd.ignimgs.com/2026/04/01/zarimi2-1775067637533.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "显示器",
-        "title": "LG 24英寸电竞显示器促销，144Hz G-Sync售价低于100美元",
+        "title": "LG 24英寸UltraGear电竞显示器促销，百元内性价比突出",
         "link": "https://www.ign.com/articles/lg-ultragear-27g411a-gaming-monitor-deal-april-2026",
-        "summary": "IGN报道LG新款24英寸UltraGear电竞显示器，1080p分辨率、144Hz刷新率并支持G-Sync，售价低于100美元且含一年官方保修。",
-        "comment": "入门级电竞显示器价格新低，性价比突出。",
+        "summary": "IGN报道，LG新款24英寸1080p 144Hz G-Sync电竞显示器售价低于100美元，附带完整一年保修。",
+        "comment": "入门级电竞显示器市场迎来高性价比选择。",
         "image": "https://assets-prd.ignimgs.com/2026/04/06/lgmonitorunder100-1775516060854.jpg",
         "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "折叠屏iPhone或下半年发布，微信关停支付优惠小程序",
+        "link": "https://www.ifanr.com/1661108?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AI界出现新词FOBO，OpenAI推出安全研究奖学金，苹果批准英伟达、AMD外接显卡驱动但限制游戏用途。",
+        "comment": "科技巨头动作频频，行业动态密集但实质性突破有限。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际政治",
+        "title": "美国副总统访问匈牙利支持欧尔班连任",
+        "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国副总统JD Vance访问匈牙利，表达白宫对匈牙利总理欧尔班连任竞选的支持，这是近期美方对欧尔班的最新公开支持行动。",
+        "comment": "美国高层直接介入匈牙利选举，显示地缘政治博弈升温。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "两岸关系",
+        "title": "台湾在野党领导人时隔八年访华 称愿作和平桥梁",
+        "link": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+        "summary": "台湾在野党领导人郑丽文接受习近平邀请访华，表示希望成为两岸和平的桥梁。这是自2016年以来台湾主要政党领导人首次正式访问大陆。",
+        "comment": "两岸交流出现新窗口，但政治分歧仍是根本障碍。",
+        "image": "",
+        "score": 87
       }
     ]
   }
