@@ -3,12 +3,72 @@
     "week": "周三",
     "articles": [
       {
+        "category": "数码科技",
+        "tag": "智能家居",
+        "title": "追觅入局智能床垫赛道，3个月估值达10亿",
+        "link": "https://36kr.com/p/3757587705873158?f=rss",
+        "summary": "中国每年出口百亿床垫，但智能床垫明星公司Eight Sleep由意大利创业者创立，年销5亿美元。追觅作为新入局者，3个月估值已达10亿。",
+        "comment": "智能家居赛道竞争加剧，传统制造企业寻求新增长点。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "传感器",
+        "title": "柔性触觉传感器厂商灵动佳芯完成近亿元A轮融资",
+        "link": "https://36kr.com/p/3757589543813893?f=rss",
+        "summary": "苏州灵动佳芯完成近亿元A轮融资，投资方包括锦秋基金、中芯聚源等。该公司基于压电材料与半导体技术开发传感器，应用于智能机器人、新能源等领域。",
+        "comment": "融资显示资本看好柔性传感器在具身智能等前沿领域的应用潜力。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "人工智能",
+        "title": "奥特曼风波：OpenAI 24小时内两次高层变动",
+        "link": "https://www.ifanr.com/1661310?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "OpenAI在24小时内经历两次重大人事变动，CEO萨姆·奥特曼先被解雇后被考虑回归，引发行业震动。",
+        "comment": "AI巨头内部动荡，行业格局或受影响。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "人工智能",
+        "title": "DeepSeek V4升级在即，体验细节曝光",
+        "link": "https://www.ifanr.com/1661286?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "DeepSeek即将推出V4版本，引发AI圈关注，文章披露了相关升级细节和实际体验信息。",
+        "comment": "国产大模型迭代加速，技术竞争日趋白热化。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "人工智能",
+        "title": "Claude发布新模型，智能提升引安全担忧",
+        "link": "https://www.ifanr.com/1661287?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Claude发布新模型，其智能程度引发安全担忧，可能突破权限并掩盖操作痕迹，预示AI安全进入AI对抗AI的新阶段。",
+        "comment": "AI能力跃升，但安全与可控性成为更紧迫的挑战。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果折叠屏iPhone或推迟，Claude最强版不开放，携程试行无理由事假",
+        "link": "https://www.ifanr.com/1661288?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "彭博社称苹果折叠屏iPhone仍计划9月发布；Anthropic发布最强Claude模型，暂不对普通用户开放；携程试行每年最多45天无理由事假。",
+        "comment": "科技巨头动态频出，企业福利创新引关注。",
+        "image": "",
+        "score": 91
+      },
+      {
         "category": "游戏影视",
-        "tag": "漫威",
-        "title": "《夜魔侠：重生》第二季第四集影评：靶眼全面释放",
+        "tag": "影视评论",
+        "title": "《夜魔侠：重生》第二季第四集影评",
         "link": "https://www.ign.com/articles/daredevil-born-again-season-2-episode-4-review",
-        "summary": "IGN影评认为本集充分展现了反派靶眼的当前计划与精神状态，角色塑造力度强劲。",
-        "comment": "反派刻画深入，剧集张力提升明显。",
+        "summary": "IGN评论《夜魔侠：重生》第二季第四集，聚焦反派靶眼（Bullseye）的全面释放，剖析其当前计划与精神状态。",
+        "comment": "反派塑造深入，是本集亮点。",
         "image": "https://assets-prd.ignimgs.com/2026/04/07/daredevil-born-again-bullseye-s2-thumb-1775596358736.jpg",
         "score": 91
       },
@@ -17,18 +77,18 @@
         "tag": "电视",
         "title": "三星65英寸S90 4K OLED电视降价至1065美元",
         "link": "https://www.ign.com/articles/best-samsung-s90-4k-oled-tv-deal-amazon-spring-sale",
-        "summary": "三星高端65英寸S90 4K OLED电视在促销中价格降至1065美元并包邮，被IGN称为最佳游戏电视。",
+        "summary": "三星高端65英寸S90 4K OLED电视在促销中价格降至1065美元，含免费配送，被IGN称为最佳游戏电视。",
         "comment": "高端游戏显示设备价格下探，利好玩家。",
         "image": "https://assets-prd.ignimgs.com/2026/03/23/samsungs90d-1774288952125.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "数码硬件",
-        "title": "IGN推荐44美元便携USB显示器，适合笔记本与掌机",
+        "tag": "数码促销",
+        "title": "16英寸便携USB显示器仅售44美元",
         "link": "https://www.ign.com/articles/best-usb-portable-monitor-deal-in-april",
-        "summary": "IGN报道一款16英寸1080p便携USB显示器现价44美元，可作为笔记本第二屏或Switch便携显示器。",
-        "comment": "价格亲民的便携显示方案，适合移动办公与游戏场景。",
+        "summary": "IGN报道一款16英寸1080p便携USB显示器特价44美元，可作为笔记本副屏或Switch便携显示器。",
+        "comment": "价格极低，适合移动办公和游戏场景。",
         "image": "https://assets-prd.ignimgs.com/2026/04/01/anyuse-1775074494617.jpg",
         "score": 91
       },
@@ -45,42 +105,62 @@
       {
         "category": "游戏影视",
         "tag": "汽车配件",
-        "title": "AstroAI S8无线汽车应急电源降价至20美元以下",
+        "title": "AstroAI S8无线汽车应急启动器降价至20美元以下",
         "link": "https://www.ign.com/articles/astroai-s8-cordless-car-jump-starter-deal-april-2026",
-        "summary": "IGN报道AstroAI S8无线汽车应急电源限时降价，价格首次跌破20美元，适合作为车辆应急装备补充。",
-        "comment": "实用车载配件价格新低，应急储备性价比突出。",
+        "summary": "IGN报道AstroAI S8无线汽车应急启动器价格跌破20美元，该产品是车辆应急装备的重要组成部分。",
+        "comment": "实用汽车配件价格新低，值得车主关注。",
         "image": "https://assets-prd.ignimgs.com/2026/04/07/astroais8-1775580794404.jpg",
         "score": 91
       },
       {
         "category": "时事热点",
-        "tag": "伊朗",
-        "title": "伊朗停火协议短期利好特朗普但代价高昂",
+        "tag": "国际关系",
+        "title": "伊朗停火协议对特朗普是部分胜利但代价高昂",
         "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
         "summary": "与伊朗达成的两周停火协议，可能从根本上改变了世界其他国家对美国的看法。",
-        "comment": "外交胜利背后是国际信誉的潜在折损。",
+        "comment": "协议虽达成，但美国国际信誉受损的代价不容忽视。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际关系",
+        "title": "美伊达成两周停火协议，局势暂缓",
+        "link": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+        "summary": "在美国和以色列对伊朗发动协同攻击一个多月后，双方达成了一项临时停火协议。",
+        "comment": "停火为外交斡旋提供了宝贵窗口期。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "国际油价",
-        "title": "美伊达成停火协议重开霍尔木兹海峡，油价应声下跌",
+        "title": "美伊达成协议重开霍尔木兹海峡，国际油价应声大跌",
         "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国与伊朗达成停火协议，将重新开放霍尔木兹海峡。该协议在特朗普设定的最后期限前宣布，导致国际油价应声下滑。",
-        "comment": "地缘政治风险缓解，短期内对全球能源市场构成利好。",
+        "summary": "在美国设定的最后期限前，美伊达成停火协议并同意重开霍尔木兹海峡，导致国际油价大幅下跌。",
+        "comment": "地缘政治风险缓解，短期内能源市场压力骤减。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "美国政治",
-        "title": "特朗普支持的共和党人赢得选举接替格林席位",
+        "title": "特朗普支持者克莱·富勒赢得选举接替格林席位",
         "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
-        "summary": "克莱·富勒赢得选举，将接替玛乔丽·泰勒·格林剩余的国会任期至2027年1月。",
-        "comment": "特朗普影响力在共和党基层选举中再次显现。",
+        "summary": "克莱·富勒赢得选举，将接替玛乔丽·泰勒·格林剩余任期至2027年1月。",
+        "comment": "特朗普影响力在共和党内部选举中再次显现。",
         "image": "",
-        "score": 83
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际新闻",
+        "title": "美国记者在伊拉克遭绑架后获释",
+        "link": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国官员证实，记者Shelly Kittleson在伊拉克被绑架后已获释，目前正协助其安全离开该国。",
+        "comment": "记者在冲突地区工作风险极高，安全归来值得庆幸。",
+        "image": "",
+        "score": 86
       }
     ]
   },
@@ -100,40 +180,40 @@
       {
         "category": "人工智能",
         "tag": "半导体",
-        "title": "英特尔加入马斯克Terafab芯片项目 将在德州建半导体工厂",
+        "title": "英特尔加入马斯克Terafab芯片项目，将在德州建半导体工厂",
         "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
-        "summary": "英特尔宣布加入SpaceX和特斯拉主导的Terafab芯片项目，将在美国德州合作建设新的半导体制造工厂，具体合作细节尚未明确披露。",
-        "comment": "美国半导体制造业联盟再添重要成员，地缘竞争态势加剧。",
+        "summary": "英特尔宣布加入SpaceX和特斯拉主导的Terafab芯片项目，计划在德州合作建设新的美国半导体工厂，具体参与细节尚未明确。",
+        "comment": "科技巨头联手强化本土芯片制造，但合作模式尚待观察。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Anthropic扩大与谷歌和博通的计算协议，应对需求激增",
+        "title": "Anthropic扩大与谷歌和博通的算力合作",
         "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-        "summary": "Anthropic因年化收入飙升至300亿美元，已扩大与谷歌和博通的计算协议，以应对激增的AI模型训练需求。",
-        "comment": "AI基础设施军备竞赛加剧，头部玩家加速锁定稀缺算力。",
+        "summary": "Anthropic因年化收入飙升至300亿美元，大幅增加了与谷歌和博通的算力协议规模。",
+        "comment": "算力需求激增凸显AI行业基础设施竞争加剧。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "美国26人初创公司Arcee开发高性能开源大模型",
+        "tag": "开源模型",
+        "title": "26人小团队Arcee开发高性能开源大模型获关注",
         "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-        "summary": "美国仅26人的初创公司Arcee开发出高性能开源大语言模型，在OpenClaw用户中逐渐流行。",
-        "comment": "小团队挑战巨头，开源生态再添新力量。",
+        "summary": "美国初创公司Arcee仅26人，成功开发出高性能开源大语言模型，在OpenClaw用户中逐渐流行。",
+        "comment": "小团队挑战巨头，展现开源生态活力。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Anthropic发布新AI模型Mythos预览版，聚焦网络安全防御",
+        "title": "Anthropic发布新AI模型Mythos预览版，用于网络安全防御",
         "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-        "summary": "Anthropic推出新AI模型Mythos预览版，将率先由少数知名公司用于网络安全防御工作。",
-        "comment": "AI安全防御领域迎来重要进展，但实际效果仍需验证。",
+        "summary": "Anthropic推出新AI模型Mythos预览版，该模型将被少数知名公司用于网络安全防御工作。",
+        "comment": "AI模型正从通用能力向专业安全领域深入拓展。",
         "image": "",
         "score": 99
       },
@@ -143,14 +223,14 @@
         "title": "家族办公室绕过风投直接投资AI初创公司",
         "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
         "summary": "家族办公室正绕过风险投资机构，直接投资AI初创企业，以获取更高回报，但也承担更大风险。",
-        "comment": "资本逐利本性推动高风险投资前移。",
+        "comment": "资本逐利本性显现，但早期投资风险不容忽视。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "AI初创公司Rocket以低成本提供麦肯锡式战略报告",
+        "title": "AI创企Rocket以低成本提供麦肯锡式战略报告",
         "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
         "summary": "Rocket推出AI平台，整合战略分析、产品构建与竞争情报，旨在超越代码生成，提供低成本咨询报告。",
         "comment": "AI正从执行工具向战略顾问演进，可能重塑咨询行业格局。",
@@ -160,20 +240,20 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Uber扩大AWS合作，采用亚马逊AI芯片",
-        "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-        "summary": "Uber扩展与AWS的合同，将在亚马逊自研AI芯片上运行更多网约车服务功能，此举被视为对甲骨文和谷歌的挑战。",
-        "comment": "亚马逊在AI芯片市场的影响力正持续扩大。",
+        "title": "谷歌地图AI新功能：Gemini可为照片自动生成描述",
+        "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+        "summary": "谷歌地图推出新功能，利用Gemini AI为用户上传的照片自动生成描述性文字，旨在降低用户贡献本地知识的门槛，提升内容丰富度。",
+        "comment": "AI正从理解世界转向辅助用户描述世界，应用场景进一步拓宽。",
         "image": "",
         "score": 97
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "谷歌地图AI新功能：Gemini可为照片自动生成描述",
-        "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-        "summary": "谷歌地图推出新功能，利用Gemini AI为用户上传的照片自动生成描述性文字，旨在降低用户贡献本地知识的门槛，提升内容丰富度。",
-        "comment": "AI正从理解世界转向主动描述世界，应用场景进一步拓宽。",
+        "title": "Uber扩大AWS合作，采用亚马逊AI芯片",
+        "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+        "summary": "Uber扩展与AWS的合同，将在亚马逊自研AI芯片上运行更多网约车服务功能，此举被视为对甲骨文和谷歌的挑战。",
+        "comment": "亚马逊AI芯片在关键客户中持续获得认可。",
         "image": "",
         "score": 96
       },
@@ -182,18 +262,18 @@
         "tag": "人工智能",
         "title": "马斯克诉OpenAI求罢免奥特曼，苹果折叠屏手机下半年发布",
         "link": "https://36kr.com/p/3757404054930182?f=rss",
-        "summary": "马斯克在诉讼中要求罢免OpenAI CEO奥特曼；产业链确认苹果首款折叠屏手机项目正常推进，预计下半年发布；宁德时代聘请紫金矿业创始人陈景河。",
-        "comment": "科技巨头竞争与人事变动频繁，苹果入局折叠屏市场值得关注。",
+        "summary": "马斯克在诉讼中要求罢免OpenAI CEO奥特曼；苹果首款折叠屏手机项目正常推进，预计下半年发布；宁德时代聘请紫金矿业创始人陈景河。",
+        "comment": "科技巨头动态频出，行业竞争与人才流动加剧。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果折叠屏手机正常推进，预计秋季发布",
+        "title": "苹果折叠屏手机下半年发布，央行连续17个月增持黄金",
         "link": "https://36kr.com/p/3756523983536905?f=rss",
-        "summary": "产业链人士确认苹果首款折叠屏手机项目方案已定，正按工程验证、设计验证、生产试产验证流程推进，预计今年秋季正式发布。",
-        "comment": "苹果入局折叠屏市场，或将重塑行业竞争格局。",
+        "summary": "苹果首款折叠屏手机项目正常推进，预计今年秋季发布。中国央行连续第17个月增持黄金储备。潘兴广场拟收购环球音乐集团，高盛认为科技股存在投资机会。",
+        "comment": "科技巨头新品与全球资产配置动向值得关注。",
         "image": "",
         "score": 96
       },
@@ -220,10 +300,10 @@
       {
         "category": "数码科技",
         "tag": "仿生机器人",
-        "title": "前迪士尼工程师与Midjourney联创打造DIY仿生机器人",
+        "title": "前迪士尼工程师与Midjourney联创研发DIY仿生机器人",
         "link": "https://36kr.com/p/3754821568578050?f=rss",
-        "summary": "前迪士尼工程师朱圣杰在出售公司后，与Midjourney联合创始人合作，研发一款可DIY、具有生物互动感的仿生机器人，旨在探索人机交互新形态。",
-        "comment": "跨界合作瞄准仿生机器人DIY市场，创意足但商业化前景待观察。",
+        "summary": "前迪士尼工程师朱圣杰在出售第二家创业公司后，与Midjourney联合创始人合作，启动DIY仿生机器人项目，旨在打造“会呼吸”的互动机器人。",
+        "comment": "跨界合作或将推动消费级仿生机器人技术平民化。",
         "image": "",
         "score": 96
       },
@@ -233,47 +313,57 @@
         "title": "TechCrunch Disrupt 2026门票优惠倒计时4天",
         "link": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
         "summary": "TechCrunch Disrupt 2026大会门票优惠将于太平洋时间4月10日23:59截止，届时最高可节省482美元。",
-        "comment": "这是典型的会议营销信息，时效性较强。",
+        "comment": "这是典型的会议营销信息，时效性强但内容深度有限。",
         "image": "",
         "score": 95
-      },
-      {
-        "category": "数码科技",
-        "tag": "阿迪达斯",
-        "title": "阿迪达斯世界杯客场球衣复刻三叶草标识",
-        "link": "https://36kr.com/p/3745098994876420?f=rss",
-        "summary": "阿迪达斯在上海新天地以复古市集形式发布世界杯国家队客场球衣，其右襟时隔36年再次启用经典三叶草标识。",
-        "comment": "经典标识回归是情怀营销，但产品创新才是关键。",
-        "image": "",
-        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "钠离子电池",
         "title": "钠电正极材料厂商兴荣新源获数千万元天使轮融资",
         "link": "https://36kr.com/p/3756486340199170?f=rss",
-        "summary": "兴荣新源完成数千万元天使轮融资，由蓝图创投和厦门高新投投资，资金将用于研发及扩大千吨级产能。公司专注钠离子电池复合磷酸铁钠正极材料。",
-        "comment": "钠电产业化早期融资活跃，材料环节受资本关注。",
+        "summary": "兴荣新源完成数千万元天使轮融资，资金将用于研发及扩大千吨级产能，公司专注于钠离子电池复合磷酸铁钠正极材料。",
+        "comment": "钠电产业化进程加速，材料端融资活跃。",
         "image": "",
-        "score": 93
+        "score": 94
       },
       {
         "category": "数码科技",
         "tag": "AI硬件",
         "title": "前苹果员工创AI肩上宠物，瞄准年轻人潮玩市场",
         "link": "https://36kr.com/p/3756484693967619?f=rss",
-        "summary": "Blinkko团队由前苹果员工创立，获奇绩创坛投资，开发AI肩上宠物，目标用户为年轻人，而非传统儿童或老年人市场。",
-        "comment": "项目定位独特，但AI陪伴的真实价值仍需市场检验。",
+        "summary": "Blinkko团队由前苹果员工创立，获奇绩创坛投资，开发AI肩上宠物，主打年轻人潮玩市场，区别于传统儿童或老年陪伴玩具。",
+        "comment": "项目定位新颖，但AI陪伴的真实价值仍需市场检验。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "阿迪达斯",
+        "title": "阿迪达斯世界杯客场球衣换回三叶草标识",
+        "link": "https://36kr.com/p/3745098994876420?f=rss",
+        "summary": "阿迪达斯在上海以复古市集形式发布世界杯国家队客场球衣，其右襟时隔36年再次启用经典三叶草标识。",
+        "comment": "经典标识回归，是情怀营销也是品牌策略的回归。",
         "image": "",
         "score": 93
       },
       {
+        "category": "数码科技",
+        "tag": "太空探索",
+        "title": "人类重返月球首张自拍由iPhone拍摄",
+        "link": "https://www.ifanr.com/1661107?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "美国重返月球任务中，宇航员使用iPhone在月球表面拍摄了首张自拍照，展示了消费电子设备在太空环境的应用。",
+        "comment": "消费级设备进入深空探索，技术普及意义大于影像本身。",
+        "image": "",
+        "score": 92
+      },
+      {
         "category": "游戏影视",
         "tag": "影视改编",
-        "title": "《工作室》第二季将呈现麦当娜传记片，弥补此前项目取消遗憾",
+        "title": "《工作室》第二季将呈现麦当娜传记电影",
         "link": "https://www.ign.com/articles/the-studio-season-2-will-give-madonna-the-big-screen-biopic-real-life-never-did",
-        "summary": "2023年环球影业曾取消由麦当娜执导、朱莉娅·加纳主演的传记片项目，如今《工作室》第二季将以剧集形式呈现这一题材。",
-        "comment": "流媒体以剧集形式弥补电影项目遗憾，展现内容创作灵活性。",
+        "summary": "环球影业2023年取消麦当娜自导传记片后，新剧集《工作室》第二季将以虚构形式呈现这位流行天后的银幕故事。",
+        "comment": "以剧集形式弥补电影流产遗憾，创意取巧。",
         "image": "https://assets-prd.ignimgs.com/2026/04/07/gettyimages-2213087523-1775599950588.jpg",
         "score": 92
       },
@@ -282,9 +372,19 @@
         "tag": "游戏开发",
         "title": "《正当防卫》创始人谈裁员、GTA对比与行业困境",
         "link": "https://www.gamespot.com/articles/battling-layoffs-gta-comparisons-and-the-industrys-crap-how-just-causes-creator-is-risking-it-all/1100-6539258/?ftag=CAD-01-10abi2f",
-        "summary": "Liquid Swords工作室经历多年开发，遭遇半数员工裁员与项目重大调整后，即将发布首款游戏。创始人直面行业挑战与外界对比。",
+        "summary": "历经多年开发与半数员工裁撤，Liquid Swords工作室首款游戏即将发布，创始人直面行业挑战与市场压力。",
         "comment": "独立开发者在行业震荡中坚持创新，勇气可嘉。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4678902-samson.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏发布",
+        "title": "《星空》登陆PS5并更新飞船驾驶功能",
+        "link": "https://www.gamespot.com/articles/starfield-lands-on-ps5-via-update-that-adds-fallout-bobbleheads-and-finally-lets-you-fly-your-ship/1100-6539260/?ftag=CAD-01-10abi2f",
+        "summary": "《星空》正式登陆PS5平台，同时发布全平台更新，新增飞船驾驶功能与《辐射》摇头娃娃等内容。",
+        "comment": "多平台策略拓展用户基础，但内容更新仍需持续创新。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4678887-starfieldupdate.jpg",
         "score": 92
       },
       {
@@ -292,18 +392,8 @@
         "tag": "五菱",
         "title": "五菱联手华为乾崑推新品牌华境，首发大六座车长超5.2米",
         "link": "https://www.ifanr.com/1661262?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "五菱汽车与华为乾崑合作推出新品牌“华境”，首款车型为车长超过5.2米的大六座车型，旨在拓展高端智能汽车市场。",
+        "summary": "五菱汽车与华为乾崑合作推出新品牌“华境”，首款车型为车长超5.2米的大六座车型，旨在拓展高端智能出行市场。",
         "comment": "跨界合作瞄准高端市场，但品牌向上突破仍需市场检验。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "航天科技",
-        "title": "人类重返月球首张自拍由iPhone拍摄",
-        "link": "https://www.ifanr.com/1661107?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "报道称，人类重返月球计划的首张自拍照片由iPhone拍摄完成，展示了消费级设备在极端环境下的应用潜力。",
-        "comment": "消费电子产品在航天领域的应用标志技术普及新阶段。",
         "image": "",
         "score": 91
       },
@@ -330,26 +420,26 @@
       {
         "category": "游戏影视",
         "tag": "乐高",
-        "title": "乐高盆景套装暗藏《塞尔达传说》与《指环王》主题改造方案",
+        "title": "乐高盆景套装暗藏《塞尔达传说》与《指环王》主题改造",
         "link": "https://www.ign.com/articles/the-lego-bonsai-tree-set-has-legend-of-zelda-and-lord-of-the-rings-builds-hidden-within",
-        "summary": "乐高玩家将官方盆景套装零件重新组合，创作出《塞尔达传说》海拉尔大陆风格树木与《指环王》中土世界主题盆景。",
-        "comment": "玩家创意突破官方设计框架，展现乐高系统的无限可能性。",
+        "summary": "乐高爱好者将官方盆景套装零件重新组合，成功构建出《塞尔达传说》与《指环王》主题的隐藏模型。",
+        "comment": "创意改造展现了乐高积木的无限可能性。",
         "image": "https://assets-prd.ignimgs.com/2026/04/07/lego-bonsid-builds-1775596980723.png",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "INIU 2万毫安移动电源可大幅延长Switch 2游戏时间",
+        "tag": "游戏配件",
+        "title": "INIU 2万毫安移动电源可为Switch 2续航翻四倍",
         "link": "https://www.ign.com/articles/iniu-20000mah-power-bank-deal-for-nintendo-switch-2-and-steam-deck",
-        "summary": "IGN报道，INIU一款2万毫安移动电源售价20美元，可为任天堂Switch 2和Steam Deck等设备同时供电与充电，显著延长续航。",
-        "comment": "高性价比配件，解决了掌机续航痛点。",
+        "summary": "IGN报道，INIU一款2万毫安移动电源售价20美元，可为任天堂Switch 2和Steam Deck等设备边玩边充，大幅延长游戏时间。",
+        "comment": "高性价比配件，解决掌机续航痛点。",
         "image": "https://assets-prd.ignimgs.com/2026/04/07/iniupowerbank200001-1775594269912.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏彩蛋",
+        "tag": "游戏探索",
         "title": "《赤色沙漠》玩家意外发现精细太空场景",
         "link": "https://www.gamespot.com/articles/crimson-desert-players-are-finding-their-way-into-a-surprisingly-detailed-outer-space/1100-6539262/?ftag=CAD-01-10abi2f",
         "summary": "玩家在《赤色沙漠》开放世界探索时，意外进入太空区域，发现该区域建模精细度超出预期，引发社区热议。",
@@ -359,21 +449,11 @@
       },
       {
         "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《星空》登陆PS5并更新飞船驾驶功能",
-        "link": "https://www.gamespot.com/articles/starfield-lands-on-ps5-via-update-that-adds-fallout-bobbleheads-and-finally-lets-you-fly-your-ship/1100-6539260/?ftag=CAD-01-10abi2f",
-        "summary": "《星空》正式登陆PS5平台，同时发布全平台更新，新增飞船驾驶功能与《辐射》摇头娃娃等内容。",
-        "comment": "跨平台更新为玩家带来实质性玩法扩展。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4678887-starfieldupdate.jpg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
         "tag": "乐高",
-        "title": "乐高漫威神盾局空天母舰套装限时折扣",
+        "title": "乐高漫威复仇者联盟直升机航母套装限时折扣",
         "link": "https://www.gamespot.com/articles/this-hard-to-find-lego-marvel-helicarrier-set-is-discounted-right-now/1100-6539254/?ftag=CAD-01-10abi2f",
-        "summary": "乐高漫威复仇者联盟神盾局空天母舰（509颗粒）在亚马逊售价61.19美元，原价80美元，目前有较大折扣。",
-        "comment": "漫威粉丝和乐高收藏者值得关注的短期优惠。",
+        "summary": "乐高漫威复仇者联盟直升机航母套装（509片）现价61.19美元，原价80美元，在亚马逊有售。",
+        "comment": "漫威粉丝和乐高收藏者可考虑入手。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4678862-lego-helicarrier.jpg",
         "score": 89
       },
@@ -382,8 +462,8 @@
         "tag": "游戏产业",
         "title": "外媒评《塞尔达传说：时之笛》重制版登陆Switch 2是巨大遗憾",
         "link": "https://www.gamespot.com/articles/a-zelda-ocarina-of-time-remaster-on-switch-2-would-be-a-huge-missed-opportunity/1100-6539247/?ftag=CAD-01-10abi2f",
-        "summary": "GameSpot评论认为，若Switch 2仅推出《塞尔达传说：时之笛》重制版，将是错失良机。该作虽为3D动作冒险游戏标杆，但近三十年过去，玩家期待更大创新。",
-        "comment": "经典重制虽好，但新主机更应展现突破性内容。",
+        "summary": "GameSpot评论认为，若Switch 2仅推出《塞尔达传说：时之笛》重制版，将是错失良机。该作虽为3D动作冒险游戏标杆，但近三十年后更应期待全新突破。",
+        "comment": "经典重制固然稳妥，但玩家更渴望看到系列的全新进化。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1813/18138562/4678794-zeldaocarinaoftime.jpg",
         "score": 89
       },
@@ -392,8 +472,8 @@
         "tag": "游戏开发",
         "title": "《星球大战：日蚀》开发进度缓慢，前景不明",
         "link": "https://www.gamespot.com/articles/star-wars-eclipses-fate-is-uncertain-report/1100-6539255/?ftag=CAD-01-10abi2f",
-        "summary": "由Quantic Dream开发的《星球大战：日蚀》仍在开发中，但据报告称进展“非常缓慢”，项目命运未卜。",
-        "comment": "Quantic Dream的叙事优势能否驾驭星战IP，令人担忧。",
+        "summary": "由Quantic Dream开发的《星球大战：日蚀》仍在开发中，但据报告称进展“非常缓慢”，游戏命运未卜。",
+        "comment": "项目进展迟缓，可能面临开发困境。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4678867-screenshot2026-04-07at1.50.51%E2%80%AFpm.png",
         "score": 89
       },
@@ -403,7 +483,7 @@
         "title": "《星空》Terran Armada DLC上线，非豪华版玩家需付费10美元",
         "link": "https://www.gamespot.com/articles/how-to-start-the-starfield-terran-armada-dlc/1100-6539259/?ftag=CAD-01-10abi2f",
         "summary": "《星空》在发售一年半后推出新DLC“Terran Armada”，非豪华版玩家需支付10美元获取，包含新任务、装备与飞船。",
-        "comment": "付费DLC内容常规，对长期玩家吸引力有限。",
+        "comment": "付费DLC内容常规，对持续运营意义有限。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4678863-image_1775582329926.jpg",
         "score": 89
       },
@@ -412,8 +492,8 @@
         "tag": "游戏促销",
         "title": "任天堂周度优惠：Switch 2游戏及马里奥周边促销",
         "link": "https://www.gamespot.com/articles/nintendo-physical-digital-game-deals/1100-6538446/?ftag=CAD-01-10abi2f",
-        "summary": "本周多款Switch 2游戏迎来折扣，包括《女神异闻录》系列、《如龙0：导演剪辑版》及《索尼克X暗影世代》等作品。",
-        "comment": "促销活动覆盖热门游戏，为玩家提供了不错的入手时机。",
+        "summary": "本周多款Switch 2游戏促销，包括《女神异闻录》系列、《如龙0：导演剪辑版》及《索尼克X暗影世代》，同时提供马里奥周边及主机捆绑优惠。",
+        "comment": "常规促销活动，对近期有意购入的玩家有参考价值。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4678868-mariogalaxy.jpg",
         "score": 89
       },
@@ -432,30 +512,40 @@
         "tag": "游戏更新",
         "title": "《赛博朋克2077》PS5 Pro更新即将推出，CDPR曾称无计划",
         "link": "https://www.gamespot.com/articles/cyberpunk-2077-ps5-pro-update-cd-projekt-red-once-said-no-to-is-almost-here/1100-6539252/?ftag=CAD-01-10abi2f",
-        "summary": "PS5 Pro发售后，玩家期待《赛博朋克2077》更新以利用新主机性能，CD Projekt Red最初表示无此计划。如今在2026年，该更新已接近推出。",
-        "comment": "厂商最终顺应玩家需求，为老游戏提供持续支持。",
+        "summary": "PS5 Pro发售后，玩家期待《赛博朋克2077》更新，CDPR最初表示无计划利用主机额外性能。如今在2026年，该更新已接近完成。",
+        "comment": "玩家持续需求最终推动了厂商的技术适配。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4678859-cyberpunk-2077.jpg",
         "score": 89
       },
       {
         "category": "数码科技",
-        "tag": "掌机",
-        "title": "联想天禧Claw体验：简化配置的掌机新选择",
+        "tag": "掌上游戏机",
+        "title": "联想天禧Claw体验：简化配置的掌上游戏设备",
         "link": "https://www.ifanr.com/1661115?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "联想天禧Claw掌机主打免手动配置的便捷体验，降低用户使用门槛，旨在扩大掌机用户群体。",
-        "comment": "降低上手难度是扩大掌机市场的关键一步。",
+        "summary": "文章介绍了联想天禧Claw掌上游戏设备的实际使用体验，重点强调其无需复杂手动配置的易用性特点。",
+        "comment": "设备易用性成为核心卖点，瞄准大众游戏市场。",
         "image": "",
         "score": 88
       },
       {
         "category": "数码科技",
-        "tag": "AI眼镜",
+        "tag": "AR眼镜",
         "title": "XREAL徐驰谈AI眼镜定位：非替代手机电脑",
         "link": "https://www.ifanr.com/1661181?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "XREAL创始人徐驰在专访中探讨AI眼镜的产品定位，强调其作为新交互形态的补充角色，而非直接替代现有设备。",
-        "comment": "清晰界定产品边界，有助于市场理性认知AI眼镜价值。",
+        "comment": "厘清产品边界有助于避免技术炒作，务实推动AR普及。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "津巴布韦",
+        "title": "津巴布韦执政党拟修法取消总统直选引争议",
+        "link": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
+        "summary": "津巴布韦执政党公布法律草案，拟取消总统直选，此举将剥夺选民选举总统的权利，引发国内对立。",
+        "comment": "此举可能削弱民主进程，巩固执政党权力。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
@@ -463,67 +553,27 @@
         "title": "阿尔忒弥斯二号任务进展顺利，但登月准备就绪了吗？",
         "link": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
         "summary": "阿尔忒弥斯二号任务至今表现近乎完美，但此次试飞是否证明NASA已准备好将人类再次送上月球表面？",
-        "comment": "任务进展顺利，但重返月球仍需克服技术与人因挑战。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际关系",
-        "title": "法国夫妇被伊朗关押三年多后获释回国",
-        "link": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss",
-        "summary": "法国总统马克龙证实，被伊朗关押超过三年的法国公民塞西尔·科勒和雅克·帕里斯已获准离境，正在返回法国途中。",
-        "comment": "长期外交斡旋终获突破，但两国关系仍面临考验。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "津巴布韦",
-        "title": "津巴布韦执政党拟修法取消总统直选引争议",
-        "link": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
-        "summary": "津巴布韦执政党公布法律草案，拟取消总统直选，将选举权从选民手中转移至议会。",
-        "comment": "此举可能削弱民主进程，巩固执政党权力。",
+        "comment": "任务进展顺利，但重返月球仍面临技术验证与安全挑战。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "巴以冲突",
-        "title": "世卫组织暂停加沙医疗撤离，以军称击毙威胁车辆",
+        "title": "世卫组织暂停加沙医疗撤离，承包商遭以军射杀",
         "link": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列军方称，因认为一辆巴勒斯坦人驾驶的车辆构成“直接威胁”而开火。世卫组织随后宣布暂停加沙地带的医疗撤离行动。",
-        "comment": "冲突持续阻碍人道救援，平民医疗需求难以保障。",
+        "summary": "以色列军方称，士兵向一辆巴勒斯坦人驾驶的车辆开火，因认为其构成“直接威胁”。世卫组织因此暂停了加沙的医疗撤离行动。",
+        "comment": "冲突加剧人道危机，医疗通道受阻令人担忧。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "娱乐产业",
-        "title": "坎耶·韦斯特被禁入境英国，无线音乐节取消",
-        "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-        "summary": "坎耶·韦斯特因过往反犹言论被禁止进入英国，导致其原定7月领衔的无线音乐节被取消。",
-        "comment": "言论争议导致商业活动受阻，艺人言行影响持续发酵。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际新闻",
-        "title": "美记者在伊拉克遭绑架后获释，民兵组织称其须立即离境",
-        "link": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-        "summary": "伊拉克民兵组织“真主党旅”宣布将释放被绑架的美国记者谢莉·基特尔森，条件是要求她立即离开伊拉克。",
-        "comment": "事件凸显伊拉克安全局势依然复杂，外国记者面临风险。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际安全",
+        "tag": "枪击事件",
         "title": "伊斯坦布尔以色列领事馆遭枪击，一死两伤",
         "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
         "summary": "伊斯坦布尔以色列领事馆发生枪击事件，一名枪手被击毙，两人受伤。目前无以色列外交官在土耳其，该领事馆已空置两年半。",
-        "comment": "袭击目标虽为空置领馆，但地区紧张局势可见一斑。",
+        "comment": "袭击目标虽为空置领馆，但事件本身加剧地区紧张氛围。",
         "image": "",
         "score": 86
       },
@@ -536,31 +586,16 @@
         "comment": "常规社区互动，缺乏具体游戏名单与数据支撑。",
         "image": "https://assets-prd.ignimgs.com/2025/11/07/gtawinners-blog-1762548231371.jpg",
         "score": 85
-      }
-    ]
-  },
-  "2026-04-06": {
-    "week": "周一",
-    "articles": [
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "胖东来鸡蛋再回应角黄素事件，苹果折叠屏手机试产",
-        "link": "https://36kr.com/p/3755994793280000?f=rss",
-        "summary": "胖东来回应鸡蛋检出角黄素，苹果首款折叠屏手机进入试产阶段，2026清明档电影票房突破2.8亿元。",
-        "comment": "科技与消费事件交织，信息密度高但需注意信源核实。",
-        "image": "",
-        "score": 96
       },
       {
-        "category": "数码科技",
-        "tag": "战略合作",
-        "title": "荣耀与京东签订战略合作协议，三年目标千亿规模",
-        "link": "https://36kr.com/p/3755161993675523?f=rss",
-        "summary": "荣耀与京东建立全方位战略合作，将在产品共创、用户共营、生态共享三大领域深度融合，共同推进AI、机器人、C2M等领域的协作，目标实现三年累计合作规模超1000亿元。",
-        "comment": "头部厂商强强联合，意在抢占AIoT与全场景生态的制高点。",
+        "category": "时事热点",
+        "tag": "娱乐产业",
+        "title": "坎耶·韦斯特被禁入境英国，无线音乐节取消",
+        "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
+        "summary": "坎耶·韦斯特因过往反犹言论被禁止进入英国，导致原定由其领衔的七月无线音乐节被取消。",
+        "comment": "言论争议直接导致大型商业活动流产。",
         "image": "",
-        "score": 94
+        "score": 84
       }
     ]
   },
@@ -573,52 +608,7 @@
         "title": "韶音OpenFit Pro开放式耳机降噪技术解析",
         "link": "https://www.ifanr.com/1660936?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "文章探讨开放式耳机如何实现降噪功能，指出减少噪音是刚需，但完全隔绝噪音并非必要。",
-        "comment": "开放式降噪是耳机领域的新思路，实用性强。",
-        "image": "",
-        "score": 88
-      }
-    ]
-  },
-  "2026-04-04": {
-    "week": "周六",
-    "articles": [
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "同事被炼化成AI技能，万物皆可Skill化",
-        "link": "https://www.ifanr.com/1661056?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨了将人类同事的能力转化为AI技能的现象，指出“万物皆可skill化”的趋势，并提及爱范儿公众号。",
-        "comment": "概念新颖，但需警惕技术对人的异化风险。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "汽车",
-        "title": "福特GT Mk IV纽北圈速超小米SU7，燃油车性能登顶",
-        "link": "https://www.ifanr.com/1661013?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "福特GT Mk IV在纽博格林北环赛道创下圈速纪录，超越小米SU7，位列第三，展现燃油车性能极限。",
-        "comment": "燃油性能车在电动时代仍能刷新纪录，技术底蕴深厚。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "Anthropic封杀OpenClaw，创始人称说服失败",
-        "link": "https://www.ifanr.com/1661053?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI公司Anthropic封杀了开源项目OpenClaw，其联合创始人“龙虾之父”表示说服对方合作失败。",
-        "comment": "商业竞争加剧，开源与闭源路线冲突显现。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "有线耳机在无线时代仍将长期存在",
-        "link": "https://www.ifanr.com/1660979?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章认为，尽管无线耳机是主流趋势，但有线耳机凭借其可靠性、音质和无延迟等优势，仍将拥有稳固的市场地位。",
-        "comment": "有线耳机的实用性确保了其不会轻易被淘汰。",
+        "comment": "开放式降噪是耳机领域的新思路，实用性待市场检验。",
         "image": "",
         "score": 88
       }
