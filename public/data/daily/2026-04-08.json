@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI发布儿童安全蓝图应对AI相关儿童性剥削激增",
+        "title": "OpenAI发布儿童安全蓝图应对AI相关儿童性剥削",
         "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-        "summary": "OpenAI针对AI技术发展导致的儿童性剥削问题上升，发布新的儿童安全应对框架。",
-        "comment": "科技巨头主动回应AI伦理风险，但执行效果仍需观察。",
+        "summary": "OpenAI发布儿童安全蓝图，旨在应对AI技术进步导致的儿童性剥削激增问题。",
+        "comment": "科技巨头主动承担安全责任，是行业发展的必要举措。",
         "image": "",
         "score": 100
       },
@@ -17,7 +17,7 @@
         "tag": "人工智能",
         "title": "Databricks联合创始人获ACM大奖，称AGI已实现",
         "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
-        "summary": "Matei Zaharia获得ACM最高荣誉，目前致力于研究用AI，认为通用人工智能已被误解。",
+        "summary": "Matei Zaharia获得ACM最高荣誉，目前致力于研究用AI，并认为通用人工智能已被误解。",
         "comment": "顶尖学者对AGI的激进判断值得业界深思。",
         "image": "",
         "score": 100
@@ -27,8 +27,8 @@
         "tag": "人工智能",
         "title": "Poke让AI智能体像发短信一样简单",
         "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-        "summary": "Poke通过短信形式向普通用户提供AI智能体服务，无需复杂设置、应用或技术知识即可处理任务和自动化流程。",
-        "comment": "降低AI使用门槛，有望推动智能体普及。",
+        "summary": "Poke通过短信形式为普通用户提供AI智能体服务，无需复杂设置、应用或技术知识即可处理任务和自动化流程。",
+        "comment": "降低AI使用门槛，让智能体技术走向大众化。",
         "image": "",
         "score": 99
       },
@@ -47,8 +47,28 @@
         "tag": "人工智能",
         "title": "Tubi成为首个在ChatGPT内推出原生应用的流媒体",
         "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-        "summary": "Tubi成为首个在ChatGPT人工智能聊天机器人内提供应用集成的流媒体服务，数百万用户可通过ChatGPT直接访问其内容。",
-        "comment": "AI平台正成为新的应用分发与交互入口。",
+        "summary": "Tubi成为首个在ChatGPT内提供应用集成的流媒体服务，用户可直接通过AI聊天机器人访问其内容。",
+        "comment": "AI平台正成为应用分发新入口，生态整合加速。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Atlassian在Confluence推出视觉AI工具与第三方智能体",
+        "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+        "summary": "Confluence用户现可在软件内创建视觉素材，并整合Lovable、Replit和Gamma的第三方智能体，提升协作与内容生成效率。",
+        "comment": "Atlassian通过AI工具强化生态整合，提升企业协作平台竞争力。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "谷歌低调推出离线AI听写应用，采用Gemma模型",
+        "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+        "summary": "谷歌发布了一款优先离线的AI听写应用，采用Gemma模型，旨在与Wispr Flow等应用竞争。",
+        "comment": "离线AI应用是隐私与实用性的重要平衡点。",
         "image": "",
         "score": 99
       },
@@ -58,59 +78,19 @@
         "title": "Astropad推出Workbench：专为AI代理设计的远程桌面工具",
         "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
         "summary": "Astropad发布Workbench，允许用户通过iPhone或iPad远程监控和控制Mac Mini上的AI代理，具备低延迟流媒体和移动访问功能。",
-        "comment": "将远程桌面从IT支持转向AI代理管理，是工具适配新工作流的典型案例。",
+        "comment": "将远程桌面从IT支持转向AI代理管理，是工具适应新工作流的典型案例。",
         "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Atlassian为Confluence推出视觉AI工具与第三方代理",
-        "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
-        "summary": "Confluence用户现可在软件内创建视觉资产，并可使用与Lovable、Replit及Gamma合作的第三方AI代理。",
-        "comment": "Atlassian正通过AI集成强化其协作平台的生产力。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "谷歌低调发布离线优先AI听写应用",
-        "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-        "summary": "谷歌新推出的离线优先听写应用采用Gemma AI模型，旨在与Wispr Flow等应用竞争。",
-        "comment": "离线AI应用是隐私与实用性的重要平衡点。",
-        "image": "",
-        "score": 99
+        "score": 97
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
         "title": "TechCrunch Disrupt 2026大会门票优惠最后三天",
         "link": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-        "summary": "TechCrunch Disrupt 2026大会门票优惠活动将于太平洋时间4月10日23:59截止，最高可节省500美元。",
-        "comment": "这是科技行业年度重要活动的常规促销信息。",
+        "summary": "TechCrunch Disrupt 2026大会门票优惠活动将于太平洋时间4月10日晚11:59截止，最高可节省500美元。",
+        "comment": "这是针对科技行业从业者的重要活动促销信息。",
         "image": "",
-        "score": 95
-      },
-      {
-        "category": "数码科技",
-        "tag": "蔚来",
-        "title": "蔚来ES9租电40万元起，瞄准高端SUV市场",
-        "link": "https://www.ifanr.com/1661245?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来推出ES9，定位旗舰车型，旨在提升品牌高端形象，租电方案起价40万元。",
-        "comment": "蔚来以ES9冲击高端市场，策略大胆但面临激烈竞争。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "动画",
-        "title": "IShowSpeed与《海贼王》编剧合作开发新动画",
-        "link": "https://www.ign.com/articles/ishowspeed-anime-in-the-works-with-one-piece-showrunner-as-its-writer",
-        "summary": "主播IShowSpeed将与《海贼王》真人剧联合制作人马特·欧文斯合作，共同开发一部新的动画系列。",
-        "comment": "网红与专业制作人跨界合作，值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/08/ishowspeed-1775675991360.png",
-        "score": 92
+        "score": 96
       },
       {
         "category": "数码科技",
@@ -134,100 +114,20 @@
       },
       {
         "category": "游戏影视",
-        "tag": "消费电子",
+        "tag": "数码配件",
         "title": "倍思20000mAh 100W快充移动电源降价至39.99美元",
         "link": "https://www.ign.com/articles/baseus-20000mah-100w-power-bank-deal",
-        "summary": "倍思一款配备双USB-C线缆的20000mAh、100W大功率移动电源，现特价至39.99美元，主打高容量与高功率输出的性价比。",
-        "comment": "百瓦快充移动电源价格下探，利好移动设备重度用户。",
+        "summary": "倍思一款具备20000mAh容量和100W高功率输出的移动电源，价格降至39.99美元，主打高性价比。",
+        "comment": "大容量与高功率的结合，价格颇具吸引力。",
         "image": "https://assets-prd.ignimgs.com/2026/04/08/baseuspowerbank20000-1775690753204.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "苹果",
-        "title": "M5芯片版MacBook Air发布未满月降价150美元",
-        "link": "https://www.ign.com/articles/best-apple-macbook-air-m5-laptop-deal",
-        "summary": "搭载苹果M5芯片的2026款MacBook Air在发布后不到一个月，即出现150美元折扣优惠。",
-        "comment": "新品迅速降价，或反映市场需求未达预期。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/06/macbookair-1775498926608.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "科技产品",
-        "title": "BEVA车载充气泵限时五折，现价15美元",
-        "link": "https://www.ign.com/articles/beva-car-tire-inflator-and-air-compressor-deal-on-amazon",
-        "summary": "IGN报道，BEVA车载轮胎充气泵及空气压缩机在亚马逊上限时五折优惠，现价15美元，适用于轮胎补气和应急修补。",
-        "comment": "价格实惠的实用车载工具，适合有车家庭备用。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/08/bevatireinflator-1775686540120.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "联想Legion Glasses 2微OLED个人可穿戴显示器降价40%",
-        "link": "https://www.ign.com/articles/lenovo-legion-glasses-2-deal",
-        "summary": "IGN报道联想Legion Glasses 2微OLED个人可穿戴显示器降价40%，该设备为Legion Go、Steam Deck或华硕ROG Ally等设备提供便携的“房间级”显示体验。",
-        "comment": "便携式大屏显示方案降价，利好移动游戏玩家。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/08/lenovolegionglasses2-1775680525589.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "动画电影",
-        "title": "《未麻的部屋》推出限量版铁盒4K蓝光碟",
-        "link": "https://www.ign.com/articles/perfect-blue-new-limited-edition-4k-bluray-steelbook-preorders-live",
-        "summary": "今敏导演处女作《未麻的部屋》将发行限量铁盒版4K蓝光碟，现已开放预购。",
-        "comment": "经典动画的收藏价值再获提升。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/08/perfectblue-1-1775678296863.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏配件",
-        "title": "10美元移动电源可大幅延长Switch游戏时间",
-        "link": "https://www.ign.com/articles/aaoyun-10000mah-power-bank-deal-for-nintendo-switch-2-and-steam-deck",
-        "summary": "IGN报道一款10000mAh移动电源促销，售价10美元，可为Switch或Switch 2边玩边充，显著延长续航。",
-        "comment": "高性价比配件对掌机玩家是实用选择。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/08/aaoyunpowerbank-1775676509334.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "乐高",
-        "title": "IGN评测：乐高魔戒索隆头盔搭建过程展示",
-        "link": "https://www.ign.com/articles/we-build-lego-the-lord-of-the-rings-saurons-helmet-11373",
-        "summary": "IGN编辑逐步演示乐高魔戒系列索隆头盔模型的拼装过程，该套装为展示性收藏品。",
-        "comment": "细节丰富的收藏级乐高套装，适合魔戒粉丝。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/08/2-1775676228388.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "守望先锋",
-        "title": "《守望先锋》新英雄配备抓钩武器，或拓展世界观剧情",
-        "link": "https://www.gamespot.com/articles/overwatchs-next-hero-comes-with-a-badass-grappling-hook-and-juicy-lore-opportunities/1100-6539284/?ftag=CAD-01-10abi2f",
-        "summary": "《守望先锋》今年新增五名英雄，其中安兰与喷气背包猫已加入。最新英雄将配备强力抓钩武器，并为游戏世界观提供新的剧情发展可能。",
-        "comment": "新机制结合剧情拓展，有望提升游戏长期吸引力。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4679334-owsierra.jpg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏争议",
-        "title": "《宝可梦冠军》玩家抱怨宣传内容未实装",
-        "link": "https://www.gamespot.com/articles/pokemon-champions-players-say-content-from-trailers-isnt-in-game/1100-6539281/?ftag=CAD-01-10abi2f",
-        "summary": "多名玩家反映《宝可梦冠军》未达到竞技标准，游戏缺少宣传片中出现过的宝可梦和道具，引发不满。",
-        "comment": "宣传与实际内容不符损害玩家信任。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4679331-pok%C3%A9monchampionsarrivesin2026%21-0-1-04.jpeg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "蓝光",
-        "title": "《摩登原始人》1994真人电影将推出4K蓝光版",
+        "tag": "蓝光碟",
+        "title": "《摩登原始人》1994真人电影将发行4K蓝光特别版",
         "link": "https://www.gamespot.com/articles/the-flintstones-stonebook-blu-ray-buying-guide/1100-6539271/?ftag=CAD-01-10abi2f",
-        "summary": "《摩登原始人》真人电影将推出限量版4K蓝光铁盒套装，售价33美元，计划于6月2日发售，现已在亚马逊开启预购。",
+        "summary": "《摩登原始人》真人电影将推出限量版“石板书”4K蓝光碟，售价33美元，6月2日发售，现已在亚马逊开启预购。",
         "comment": "经典IP的实体收藏版，满足影迷怀旧需求。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4679277-flintstone-main.jpg",
         "score": 89
@@ -235,10 +135,10 @@
       {
         "category": "游戏影视",
         "tag": "任天堂",
-        "title": "《朋友聚会》玩家提前体验角色编辑器",
+        "title": "《朋友聚会》玩家抢先体验角色创建功能",
         "link": "https://www.gamespot.com/articles/tomodachi-life-fans-are-already-running-wild-with-its-character-creator/1100-6539289/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂在《朋友聚会：新生活》发售前提供试玩版，玩家已开始利用其强大的角色创建工具制作并分享原创角色。",
-        "comment": "角色编辑器提前释放玩家创意，为游戏预热效果显著。",
+        "summary": "任天堂在《朋友聚会：梦想生活》发售前推出试玩版，玩家已利用其强大的角色创建工具制作并分享大量自定义角色。",
+        "comment": "强大的角色创建功能提前点燃了玩家的创作热情。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1748/17481584/4679387-tomodachilife.png",
         "score": 89
       },
@@ -248,8 +148,18 @@
         "title": "索尼State of Play发布会据传4月16日举行",
         "link": "https://www.gamespot.com/articles/next-sony-state-of-play-coming-april-16-report/1100-6539288/?ftag=CAD-01-10abi2f",
         "summary": "知名爆料人Nate the Hate称索尼下一场State of Play发布会可能于4月16日举行，将展示新游戏内容。",
-        "comment": "索尼即将公布新作，玩家可期待近期游戏阵容。",
+        "comment": "索尼发布会临近，玩家期待新作消息。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4679369-ps5.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "守望先锋",
+        "title": "《守望先锋》新英雄配备抓钩武器，或拓展世界观剧情",
+        "link": "https://www.gamespot.com/articles/overwatchs-next-hero-comes-with-a-badass-grappling-hook-and-juicy-lore-opportunities/1100-6539284/?ftag=CAD-01-10abi2f",
+        "summary": "《守望先锋》今年新增五名英雄，其中安兰与喷气背包猫已加入。最新英雄将配备强力抓钩，并为游戏世界观提供新的剧情发展可能。",
+        "comment": "新机制有望提升战术多样性，但需平衡性验证。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4679334-owsierra.jpg",
         "score": 89
       },
       {
@@ -257,8 +167,8 @@
         "tag": "游戏攻略",
         "title": "《星空》泰伦舰队DLC全船员招募指南",
         "link": "https://www.gamespot.com/articles/how-to-recruit-all-terran-armada-crewmates-in-starfield/1100-6539286/?ftag=CAD-01-10abi2f",
-        "summary": "文章详细介绍了《星空》泰伦舰队扩展包中所有新增船员的招募方法与位置，为玩家组建队伍提供实用指引。",
-        "comment": "攻略内容具体，对探索DLC的玩家具有直接帮助。",
+        "summary": "文章详细介绍了《星空》泰伦舰队扩展包中所有新增船员的招募方法与具体位置，为玩家组建队伍提供实用指引。",
+        "comment": "攻略内容具体，对DLC玩家有直接帮助。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4679354-starfieldscreenshot2026.04.08-12.20.22.69.jpg",
         "score": 89
       },
@@ -267,8 +177,8 @@
         "tag": "游戏影视",
         "title": "《忍者神龟》漫画合集25美元发售，含数百期内容",
         "link": "https://www.gamespot.com/articles/teenage-mutant-ninja-turtles-fanatical-bundle-comics/1100-6539287/?ftag=CAD-01-10abi2f",
-        "summary": "GameSpot报道，《忍者神龟》推出大型数字漫画合集，售价25美元，包含该系列数十年来数百期漫画内容，早于其动画和电影改编。",
-        "comment": "经典IP以高性价比合集形式回归，对粉丝颇具吸引力。",
+        "summary": "GameSpot报道，《忍者神龟》推出大型数字漫画合集，售价25美元，包含该系列数十年来数百期漫画内容。",
+        "comment": "经典IP以高性价比方式回归，满足怀旧粉丝需求。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4679366-tmnt-main.jpg",
         "score": 89
       },
@@ -283,22 +193,12 @@
         "score": 89
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Xbox成就系统迎来视觉革新与多项改进",
-        "link": "https://www.gamespot.com/articles/xbox-achievements-are-getting-a-visual-overhaul-and-other-welcome-changes/1100-6539283/?ftag=CAD-01-10abi2f",
-        "summary": "微软宣布对Xbox成就系统进行视觉与功能更新，包括新图标、进度追踪等，Xbox Insider用户自4月8日起可率先测试。",
-        "comment": "界面优化提升用户体验，但核心玩法未变。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4679359-xboxsphere.jpeg",
-        "score": 89
-      },
-      {
         "category": "数码科技",
         "tag": "蔚来",
-        "title": "蔚来萤火虫新款7.98万起，设计升级未背刺老车主",
+        "title": "蔚来萤火虫新款7.98万元起，设计升级未背刺老车主",
         "link": "https://www.ifanr.com/1661380?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来发布新款萤火虫车型，起售价7.98万元，官方称在设计上更精致、功能更好玩，并强调此次更新未损害老车主权益。",
-        "comment": "在入门市场以诚意姿态稳固用户基本盘。",
+        "summary": "蔚来发布新款萤火虫车型，起售价7.98万元，官方称其在精致度和可玩性方面有所提升，并强调未对老车主造成背刺。",
+        "comment": "在入门市场强化产品力，是蔚来扩大基盘的关键一步。",
         "image": "",
         "score": 88
       },
@@ -311,36 +211,6 @@
         "comment": "停火协议刚宣布即遭大规模军事行动，地区局势急剧恶化。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "伊朗",
-        "title": "伊朗警告加剧霍尔木兹海峡航运不确定性",
-        "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC核查分析显示，自美伊停火协议以来，仅有少数船只通过霍尔木兹海峡，航运活动显著减少。",
-        "comment": "地缘政治紧张持续冲击关键航道安全。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "毒品犯罪",
-        "title": "贩毒致马修·派瑞死亡案宣判，主犯获刑15年",
-        "link": "https://www.bbc.com/news/articles/c6258qe1yl0o?at_medium=RSS&at_campaign=rss",
-        "summary": "贾斯文·桑哈因向长期与毒瘾斗争的好友演员马修·派瑞出售致命毒品，被判处15年监禁。",
-        "comment": "毒品交易终受法律严惩，名人悲剧再敲警钟。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "泰格·伍兹",
-        "title": "检方寻求获取伍兹处方药记录 涉佛罗里达被捕案",
-        "link": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
-        "summary": "法庭记录显示，检方将于本月晚些时候发出法律命令，要求获取高尔夫球星泰格·伍兹的处方药记录，包括剂量及药瓶上关于驾驶的警告信息。",
-        "comment": "名人涉药案再引关注，司法程序细节值得追踪。",
-        "image": "",
-        "score": 84
       }
     ]
   }
