@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI发布儿童安全蓝图应对AI相关儿童性剥削",
+        "tag": "人工智能伦理",
+        "title": "OpenAI发布儿童安全蓝图应对AI相关儿童性剥削激增",
         "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-        "summary": "OpenAI发布儿童安全蓝图，旨在应对AI技术进步导致的儿童性剥削激增问题。",
-        "comment": "科技巨头主动承担安全责任，是行业发展的必要举措。",
+        "summary": "OpenAI发布儿童安全蓝图，旨在应对AI技术进步导致的儿童性剥削案件激增问题。",
+        "comment": "科技巨头主动承担伦理责任，但监管落地仍需多方协作。",
         "image": "",
         "score": 100
       },
@@ -25,10 +25,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Poke让AI智能体像发短信一样简单",
+        "title": "Poke让AI代理像发短信一样简单",
         "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-        "summary": "Poke通过短信形式为普通用户提供AI智能体服务，无需复杂设置、应用或技术知识即可处理任务和自动化流程。",
-        "comment": "降低AI使用门槛，让智能体技术走向大众化。",
+        "summary": "Poke通过短信为普通用户提供AI代理服务，无需复杂设置或技术知识即可处理任务和自动化流程。",
+        "comment": "降低AI使用门槛的创新尝试，但实际效果需市场检验。",
         "image": "",
         "score": 99
       },
@@ -48,27 +48,7 @@
         "title": "Tubi成为首个在ChatGPT内推出原生应用的流媒体",
         "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
         "summary": "Tubi成为首个在ChatGPT内提供应用集成的流媒体服务，用户可直接通过AI聊天机器人访问其内容。",
-        "comment": "AI平台正成为应用分发新入口，生态整合加速。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Atlassian在Confluence推出视觉AI工具与第三方智能体",
-        "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
-        "summary": "Confluence用户现可在软件内创建视觉素材，并整合Lovable、Replit和Gamma的第三方智能体，提升协作与内容生成效率。",
-        "comment": "Atlassian通过AI工具强化生态整合，提升企业协作平台竞争力。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "谷歌低调推出离线AI听写应用，采用Gemma模型",
-        "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-        "summary": "谷歌发布了一款优先离线的AI听写应用，采用Gemma模型，旨在与Wispr Flow等应用竞争。",
-        "comment": "离线AI应用是隐私与实用性的重要平衡点。",
+        "comment": "AI平台正成为应用分发的新入口。",
         "image": "",
         "score": 99
       },
@@ -78,9 +58,19 @@
         "title": "Astropad推出Workbench：专为AI代理设计的远程桌面工具",
         "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
         "summary": "Astropad发布Workbench，允许用户通过iPhone或iPad远程监控和控制Mac Mini上的AI代理，具备低延迟流媒体和移动访问功能。",
-        "comment": "将远程桌面从IT支持转向AI代理管理，是工具适应新工作流的典型案例。",
+        "comment": "将远程桌面从IT支持转向AI代理管理，是工具适配新工作流的典型案例。",
         "image": "",
-        "score": 97
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Atlassian为Confluence推出视觉AI工具与第三方智能体",
+        "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+        "summary": "Confluence用户现可在软件内直接创建视觉素材，并整合来自Lovable、Replit和Gamma的第三方AI智能体，提升协作与内容生成效率。",
+        "comment": "AI工具正深度融入企业工作流，提升生产力。",
+        "image": "",
+        "score": 99
       },
       {
         "category": "人工智能",
@@ -95,10 +85,10 @@
       {
         "category": "数码科技",
         "tag": "新能源汽车",
-        "title": "阿维塔12起售29.39万元，华为技术托底",
+        "title": "阿维塔12起售29.39万元，华为技术托底，06T旅行车亮相",
         "link": "https://www.ifanr.com/1661450?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "新款阿维塔12搭载华为智能科技，同时发布科幻感十足的06T旅行车。",
-        "comment": "华为深度赋能，阿维塔产品力与设计感兼具。",
+        "summary": "新款阿维塔12正式上市，起售价29.39万元，搭载华为智能科技。同时，科幻感十足的阿维塔06T旅行车也一同亮相。",
+        "comment": "华为深度赋能，阿维塔产品矩阵与科技感再进阶。",
         "image": "",
         "score": 91
       },
@@ -107,27 +97,17 @@
         "tag": "人工智能",
         "title": "国产模型一天内两次超越Claude Opus 4.6",
         "link": "https://www.ifanr.com/1661343?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "报道称国产AI模型在短时间内两次超越Anthropic的Claude Opus 4.6版本，突显AI研发竞争激烈。",
-        "comment": "国产AI追赶迅速，但需关注实际应用与持续创新。",
+        "summary": "报道称国产AI模型在短时间内两次超越Claude Opus 4.6，强调AI可连续工作8小时的优势。",
+        "comment": "国产AI追赶迅速，但需关注实际性能与可持续性。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "数码配件",
-        "title": "倍思20000mAh 100W快充移动电源降价至39.99美元",
-        "link": "https://www.ign.com/articles/baseus-20000mah-100w-power-bank-deal",
-        "summary": "倍思一款具备20000mAh容量和100W高功率输出的移动电源，价格降至39.99美元，主打高性价比。",
-        "comment": "大容量与高功率的结合，价格颇具吸引力。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/08/baseuspowerbank20000-1775690753204.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "蓝光碟",
-        "title": "《摩登原始人》1994真人电影将发行4K蓝光特别版",
+        "tag": "蓝光",
+        "title": "《摩登原始人》1994真人电影将发行4K蓝光版",
         "link": "https://www.gamespot.com/articles/the-flintstones-stonebook-blu-ray-buying-guide/1100-6539271/?ftag=CAD-01-10abi2f",
-        "summary": "《摩登原始人》真人电影将推出限量版“石板书”4K蓝光碟，售价33美元，6月2日发售，现已在亚马逊开启预购。",
+        "summary": "《摩登原始人》1994年真人电影将推出限量版4K蓝光铁盒套装，售价33美元，6月2日发售，已在亚马逊开启预购。",
         "comment": "经典IP的实体收藏版，满足影迷怀旧需求。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4679277-flintstone-main.jpg",
         "score": 89
@@ -135,10 +115,10 @@
       {
         "category": "游戏影视",
         "tag": "任天堂",
-        "title": "《朋友聚会》玩家抢先体验角色创建功能",
+        "title": "《朋友聚会》玩家提前体验角色编辑器",
         "link": "https://www.gamespot.com/articles/tomodachi-life-fans-are-already-running-wild-with-its-character-creator/1100-6539289/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂在《朋友聚会：梦想生活》发售前推出试玩版，玩家已利用其强大的角色创建工具制作并分享大量自定义角色。",
-        "comment": "强大的角色创建功能提前点燃了玩家的创作热情。",
+        "summary": "任天堂在《朋友聚会：新生活》发售前提供试玩版，玩家已开始利用其强大的角色创建工具制作并分享原创角色。",
+        "comment": "角色编辑器提前释放玩家创意，为游戏预热效果显著。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1748/17481584/4679387-tomodachilife.png",
         "score": 89
       },
@@ -147,68 +127,28 @@
         "tag": "游戏发布会",
         "title": "索尼State of Play发布会据传4月16日举行",
         "link": "https://www.gamespot.com/articles/next-sony-state-of-play-coming-april-16-report/1100-6539288/?ftag=CAD-01-10abi2f",
-        "summary": "知名爆料人Nate the Hate称索尼下一场State of Play发布会可能于4月16日举行，将展示新游戏内容。",
-        "comment": "索尼发布会临近，玩家期待新作消息。",
+        "summary": "知名爆料人Nate the Hate透露，索尼下一场State of Play发布会可能于4月16日举行，将展示新游戏内容。",
+        "comment": "索尼发布会临近，玩家可期待新作情报。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4679369-ps5.jpg",
         "score": 89
       },
       {
-        "category": "游戏影视",
-        "tag": "守望先锋",
-        "title": "《守望先锋》新英雄配备抓钩武器，或拓展世界观剧情",
-        "link": "https://www.gamespot.com/articles/overwatchs-next-hero-comes-with-a-badass-grappling-hook-and-juicy-lore-opportunities/1100-6539284/?ftag=CAD-01-10abi2f",
-        "summary": "《守望先锋》今年新增五名英雄，其中安兰与喷气背包猫已加入。最新英雄将配备强力抓钩，并为游戏世界观提供新的剧情发展可能。",
-        "comment": "新机制有望提升战术多样性，但需平衡性验证。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4679334-owsierra.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏攻略",
-        "title": "《星空》泰伦舰队DLC全船员招募指南",
-        "link": "https://www.gamespot.com/articles/how-to-recruit-all-terran-armada-crewmates-in-starfield/1100-6539286/?ftag=CAD-01-10abi2f",
-        "summary": "文章详细介绍了《星空》泰伦舰队扩展包中所有新增船员的招募方法与具体位置，为玩家组建队伍提供实用指引。",
-        "comment": "攻略内容具体，对DLC玩家有直接帮助。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4679354-starfieldscreenshot2026.04.08-12.20.22.69.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "《忍者神龟》漫画合集25美元发售，含数百期内容",
-        "link": "https://www.gamespot.com/articles/teenage-mutant-ninja-turtles-fanatical-bundle-comics/1100-6539287/?ftag=CAD-01-10abi2f",
-        "summary": "GameSpot报道，《忍者神龟》推出大型数字漫画合集，售价25美元，包含该系列数十年来数百期漫画内容。",
-        "comment": "经典IP以高性价比方式回归，满足怀旧粉丝需求。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4679366-tmnt-main.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "堡垒之夜",
-        "title": "《堡垒之夜》4月9日上线竞技场核心模式",
-        "link": "https://www.gamespot.com/articles/what-you-need-to-know-about-the-new-fortnite-arenas-boxfight-map/1100-6539285/?ftag=CAD-01-10abi2f",
-        "summary": "Epic Games将于4月9日为《堡垒之夜》推出名为“竞技场”的核心模式，支持玩家参与循环箱战锦标赛。",
-        "comment": "新竞技模式有望提升游戏竞技性与玩家粘性。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4679356-fortnitearenas.jpg",
-        "score": 89
-      },
-      {
         "category": "数码科技",
-        "tag": "蔚来",
+        "tag": "新能源汽车",
         "title": "蔚来萤火虫新款7.98万元起，设计升级未背刺老车主",
         "link": "https://www.ifanr.com/1661380?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来发布新款萤火虫车型，起售价7.98万元，官方称其在精致度和可玩性方面有所提升，并强调未对老车主造成背刺。",
-        "comment": "在入门市场强化产品力，是蔚来扩大基盘的关键一步。",
+        "summary": "蔚来发布新款萤火虫车型，起售价7.98万元，官方称在设计上更精致、功能更好玩，并强调此次更新未损害老车主权益。",
+        "comment": "在入门市场以更新维系口碑，是蔚来的务实策略。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "中东冲突",
-        "title": "以色列大规模空袭黎巴嫩致182人死亡",
+        "title": "以色列大规模空袭黎巴嫩致182死，波及贝鲁特南部等地",
         "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列空袭贝鲁特南部郊区、黎巴嫩南部及贝卡谷地东部，造成至少182人死亡，袭击发生在美伊宣布停火数小时后。",
-        "comment": "停火协议刚宣布即遭大规模军事行动，地区局势急剧恶化。",
+        "summary": "以色列空袭黎巴嫩多地，包括贝鲁特南部郊区、黎南部及贝卡谷地东部，造成至少182人死亡。袭击发生在美伊宣布停火数小时后。",
+        "comment": "停火声明后迅速爆发大规模袭击，地区局势依然脆弱。",
         "image": "",
         "score": 88
       }
