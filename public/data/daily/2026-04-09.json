@@ -14,16 +14,6 @@
       },
       {
         "category": "人工智能",
-        "tag": "数据安全",
-        "title": "估值百亿Mercor数据泄露后遭诉讼与客户流失",
-        "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-        "summary": "人工智能初创公司Mercor遭遇黑客攻击后，面临多起诉讼，并传出失去重要客户的消息。",
-        "comment": "数据安全仍是AI企业不可忽视的生命线。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
         "title": "谷歌与英特尔深化AI基础设施合作",
         "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
@@ -34,13 +24,23 @@
       },
       {
         "category": "人工智能",
-        "tag": "亚马逊",
+        "tag": "人工智能",
         "title": "亚马逊CEO在股东信中抨击英伟达、英特尔等竞争对手",
         "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
         "summary": "亚马逊CEO安迪·贾西在年度股东信中为2000亿美元资本支出辩护，并点名批评英伟达、英特尔、星链等多个竞争对手。",
-        "comment": "巨头竞争公开化，云计算与芯片领域火药味渐浓。",
+        "comment": "科技巨头竞争白热化，公开点名凸显行业火药味。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "数据安全",
+        "title": "Mercor数据泄露后遭诉讼及客户流失",
+        "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+        "summary": "估值百亿美元的初创公司Mercor遭黑客攻击后，面临多起诉讼，并已失去部分知名客户。",
+        "comment": "数据安全仍是高估值科技公司的致命软肋。",
+        "image": "",
+        "score": 99
       },
       {
         "category": "人工智能",
@@ -54,7 +54,7 @@
       },
       {
         "category": "人工智能",
-        "tag": "人工智能安全",
+        "tag": "人工智能",
         "title": "Anthropic限制Mythos模型发布引发安全与商业动机争议",
         "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
         "summary": "Anthropic本周表示，因新模型Mythos过于擅长发现软件安全漏洞，可能被滥用，故限制其发布范围。",
@@ -67,8 +67,8 @@
         "tag": "人工智能",
         "title": "Sierra推出Ghostwriter，旨在终结点击按钮时代",
         "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
-        "summary": "Sierra上月发布Ghostwriter，这是一种用于构建其他智能体的服务工具，旨在替代传统点击式网页应用，推动智能体即服务模式。",
-        "comment": "智能体服务化可能重塑人机交互范式。",
+        "summary": "Sierra发布Ghostwriter工具，通过“代理即服务”模式构建AI代理，意图取代传统点击式网页交互方式。",
+        "comment": "AI代理服务或将成为下一代人机交互的核心范式。",
         "image": "",
         "score": 99
       },
@@ -77,18 +77,8 @@
         "tag": "特斯拉",
         "title": "欣旺达动力电池进入特斯拉全球供应链",
         "link": "https://36kr.com/p/3759598959969030?f=rss",
-        "summary": "欣旺达旗下动力电池子公司已进入特斯拉全球供应链，成为其第五家电池供应商，产品已从义乌工厂出货，搭载于上海工厂销往海外的车型。",
-        "comment": "特斯拉供应链多元化再进一步，中国电池企业全球竞争力凸显。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "生物科技",
-        "title": "耀速科技获2亿融资，推进AI+器官芯片新药开发",
-        "link": "https://36kr.com/p/3758982738641670?f=rss",
-        "summary": "FDA鼓励使用类器官/器官芯片等非动物实验方法评审新药，耀速科技获2亿元融资，将AI与器官芯片技术嵌入药物研发流程，推动替代动物实验。",
-        "comment": "政策与技术双轮驱动，新药研发范式变革加速。",
+        "summary": "欣旺达旗下动力电池子公司已进入特斯拉全球供应链，成为其第五家电池供应商，产品已从浙江工厂出货并搭载于上海工厂出口车型。",
+        "comment": "特斯拉供应链本土化再进一步，欣旺达获重要突破。",
         "image": "",
         "score": 97
       },
@@ -97,8 +87,8 @@
         "tag": "人工智能",
         "title": "ChatGPT推出100美元月费专业版计划",
         "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-        "summary": "OpenAI周四宣布推出100美元/月的ChatGPT专业版计划，此前订阅方案仅提供20美元基础版和200美元企业版。",
-        "comment": "定价策略更趋灵活，满足中重度用户需求。",
+        "summary": "OpenAI宣布推出每月100美元的专业版订阅计划，填补了原有20美元与200美元方案之间的价格空白，满足重度用户需求。",
+        "comment": "价格策略更趋灵活，但百美元门槛仍将多数普通用户拒之门外。",
         "image": "",
         "score": 96
       },
@@ -107,7 +97,7 @@
         "tag": "AI浏览器",
         "title": "美团推出AI浏览器Tabbit，探索AI原生增长点",
         "link": "https://36kr.com/p/3759372854706953?f=rss",
-        "summary": "美团GN06团队推出AI浏览器Tabbit并进入公测，旨在主营业务外寻找AI原生增长点，团队并入美团两年半来持续探索新方向。",
+        "summary": "美团GN06团队推出AI浏览器Tabbit并进入公测，旨在主营业务外寻找AI原生增长机会，团队并入美团两年半来持续探索新方向。",
         "comment": "大厂在AI应用层竞争加剧，浏览器成为新试验场。",
         "image": "",
         "score": 96
@@ -115,20 +105,10 @@
       {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "北京亦庄AI未来大会引爆科技圈，展示AI实力",
+        "title": "亦庄AI未来大会启幕，科技圈热度引爆",
         "link": "https://36kr.com/p/3759269095113219?f=rss",
-        "summary": "北京亦庄AI未来大会吸引2000余位精英及34家头部企业参与，罗振宇等行业大佬分享洞见，集中展示区域AI发展成果。",
-        "comment": "亦庄通过大型行业盛会强化其AI产业影响力，成效显著。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "融资",
-        "title": "Inair完成千万美元融资，加速便携空间主机生态拓展",
-        "link": "https://36kr.com/p/3759045427937793?f=rss",
-        "summary": "Inair宣布完成千万美元A+轮融资，资金将用于便携空间主机Inair Pod的生态拓展、空间操作系统研发及行业应用落地。",
-        "comment": "空间计算赛道获资本青睐，便携主机或成AR生态关键一环。",
+        "summary": "北京亦庄AI未来大会4月8日启幕，吸引2000余位业内精英及34家头部企业参与，罗振宇等行业大佬现场分享洞见，密集释放重磅消息。",
+        "comment": "亦庄正以密集活动强化其AI产业聚集地的形象。",
         "image": "",
         "score": 96
       },
@@ -138,7 +118,7 @@
         "title": "TechCrunch Disrupt 2026门票优惠最后两天",
         "link": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
         "summary": "TechCrunch Disrupt 2026大会门票最高500美元折扣将于太平洋时间4月10日23:59结束，此后票价将恢复原价。",
-        "comment": "常规营销通知，对非参会者信息价值有限。",
+        "comment": "常规商业促销信息，时效性较强。",
         "image": "",
         "score": 95
       },
@@ -153,16 +133,6 @@
         "score": 94
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "《马拉松》预算超2亿美元，玩家数下滑但无停服危机",
-        "link": "https://www.ign.com/articles/marathon-reportedly-had-a-budget-of-over-200-million-and-while-the-pressure-is-on-bungie-to-gain-more-players-it-is-not-facing-an-imminent-concord-style-shutdown",
-        "summary": "IGN报道称Bungie的撤离射击游戏《马拉松》开发预算超2亿美元，玩家数量自发布后显著下降，但暂无类似《Concord》的紧急停服风险。",
-        "comment": "高投入未必带来高留存，服务型游戏面临持续运营压力。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/09/ss-0e0f153c268acaa62f40f468f98306a4f8b5dc88-1920x1080-1775776612560.jpg",
-        "score": 94
-      },
-      {
         "category": "数码科技",
         "tag": "直播设备",
         "title": "OBSBOT发布口袋直播摄像头，支持AI跟踪与4K画质",
@@ -170,47 +140,17 @@
         "summary": "新品针对直播与视频会议场景，解决手机过热、传统摄像头画质差、单反设备笨重等痛点，实现便携专业开播。",
         "comment": "便携与专业性能结合，直击移动创作痛点。",
         "image": "",
-        "score": 93
+        "score": 94
       },
       {
-        "category": "游戏影视",
-        "tag": "汽车用品",
-        "title": "Lokithor J400无线汽车启动器降价至35美元以下",
-        "link": "https://www.ign.com/articles/lokithor-j400-cordless-car-jump-starter-deal-on-amazon",
-        "summary": "IGN报道Lokithor J400 12V无线汽车应急启动器在亚马逊降价至35美元以下，用户可独立启动车辆无需借助其他车辆。",
-        "comment": "实用汽车应急设备降价，对车主具有实际价值。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/09/lokithor-1775775153872.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "外星人16X Aurora RTX 5070 Ti游戏本首次开售",
-        "link": "https://www.ign.com/articles/alienware-16x-aurora-rtx-5070-ti-gaming-laptop-deal-for-april-2026",
-        "summary": "搭载英特尔最强移动处理器酷睿Ultra 9 290HX Plus，配备OLED显示屏的2026款外星人游戏本开启首次促销。",
-        "comment": "顶级配置游戏本首发即降价，值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/06/alienware16xaurora-1775496340354.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "科技硬件",
-        "title": "Daran 28000mAh 100W磷酸铁锂移动电源降价至45.59美元",
-        "link": "https://www.ign.com/articles/daran-28000mah-100w-lifepo4-power-station-deal-on-amazon",
-        "summary": "IGN报道，一款符合TSA规定、重约3磅的Daran 28000mAh 100W磷酸铁锂移动电源在亚马逊降价至45.59美元。",
-        "comment": "高容量便携电源价格下探，利好差旅与户外场景。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/02/daranpowerstation-1775147263946.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《合金装备》电影更换导演并重新官宣",
-        "link": "https://www.gamespot.com/articles/metal-gear-solid-movie-gets-new-directors/1100-6539320/?ftag=CAD-01-10abi2f",
-        "summary": "筹备已久的《合金装备》电影项目正式宣布更换导演，原定导演乔丹·沃格特-罗伯茨退出，将由两位新导演接替执导。",
-        "comment": "导演更迭为这部游戏改编电影的前景增添了不确定性。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4679915-screenshot2026-04-09at3.05.39%E2%80%AFpm.png",
-        "score": 90
+        "category": "数码科技",
+        "tag": "融资",
+        "title": "Inair完成千万美元融资，加速便携空间主机生态拓展",
+        "link": "https://36kr.com/p/3759045427937793?f=rss",
+        "summary": "Inair宣布完成千万美元A+轮融资，资金将用于便携空间主机Inair Pod的生态拓展、空间操作系统研发及行业应用落地。",
+        "comment": "便携空间计算设备融资活跃，但市场接受度仍需验证。",
+        "image": "",
+        "score": 94
       },
       {
         "category": "游戏影视",
@@ -218,16 +158,16 @@
         "title": "《刺客信条：英灵殿》领衔四月Humble Choice游戏阵容",
         "link": "https://www.gamespot.com/articles/humble-choice-monthly-games-roundup/1100-6537922/?ftag=CAD-01-10abi2f",
         "summary": "2026年4月Humble Choice游戏阵容公布，包含《刺客信条：英灵殿》等3A大作、独立游戏及小众精品。",
-        "comment": "阵容丰富，为订阅玩家提供了高性价比选择。",
+        "comment": "阵容丰富，为订阅用户提供了高性价比选择。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4680099-untitled-1.jpg",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "电商促销",
-        "title": "亚马逊限时促销：买三款桌游仅付两款价格",
+        "title": "亚马逊限时促销：买二送一桌游活动",
         "link": "https://www.gamespot.com/articles/amazon-3-for-2-select-board-games-and-collectibles/1100-6539312/?ftag=CAD-01-10abi2f",
-        "summary": "亚马逊推出限时桌游促销活动，消费者购买指定桌游可享买三付二优惠，涵盖多款热门产品。",
+        "summary": "亚马逊推出限时桌游买二送一活动，涵盖多款热门桌游与收藏品，消费者可享受优惠价格。",
         "comment": "促销力度较大，适合桌游爱好者趁机囤货。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4679883-board-games.jpg",
         "score": 89
@@ -237,8 +177,8 @@
         "tag": "PS5",
         "title": "PS5价格上调后仍可找到原价机，本周最佳优惠汇总",
         "link": "https://www.gamespot.com/articles/the-best-ps5-deals-this-week-games-accessories-consoles-and-more/1100-6538557/?ftag=CAD-01-10abi2f",
-        "summary": "PS5官方涨价已生效，但部分渠道仍能以原价购买。文章汇总了本周主机、游戏及配件的优惠信息。",
-        "comment": "价格过渡期存在套利空间，消费者需抓紧时间窗口。",
+        "summary": "PS5官方涨价已生效，但部分渠道仍可按原价购买。文章汇总了本周游戏、配件及主机的优惠信息。",
+        "comment": "价格过渡期的市场波动为消费者提供了短暂的原价购买窗口。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4675875-ps5dealsweekmarch31.jpg",
         "score": 89
       },
@@ -248,7 +188,7 @@
         "title": "《后院棒球》发布免费试玩版，帕布罗·桑切斯回归",
         "link": "https://www.gamespot.com/articles/backyard-baseball-gets-free-demo-and-of-course-it-has-pablo-sanchez/1100-6539324/?ftag=CAD-01-10abi2f",
         "summary": "Mega Cat Studios与Playground Productions宣布，今夏将推出多年来的全新《后院棒球》游戏，并已发布免费试玩版。",
-        "comment": "经典体育游戏回归，情怀与新鲜感并存。",
+        "comment": "经典体育游戏重启，情怀与新鲜感并存。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15971423/4680083-backyardbaseballpablo.jpg",
         "score": 89
       },
@@ -264,6 +204,16 @@
       },
       {
         "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "《合金装备》电影更换导演并重新官宣",
+        "link": "https://www.gamespot.com/articles/metal-gear-solid-movie-gets-new-directors/1100-6539320/?ftag=CAD-01-10abi2f",
+        "summary": "筹备已久的《合金装备》电影项目正式宣布更换导演，原定导演乔丹·沃格特-罗伯茨退出，将由两位新导演接替执导。",
+        "comment": "导演更迭为这部游戏改编电影的前景增添了不确定性。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4679915-screenshot2026-04-09at3.05.39%E2%80%AFpm.png",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
         "tag": "宝可梦",
         "title": "《宝可梦冠军》对战前必查隐藏数据菜单",
         "link": "https://www.gamespot.com/articles/before-you-start-battling-in-pokemon-champions-checking-the-battle-data-menu-is-a-must/1100-6539319/?ftag=CAD-01-10abi2f",
@@ -274,11 +224,11 @@
       },
       {
         "category": "游戏影视",
-        "tag": "游戏角色",
+        "tag": "游戏攻略",
         "title": "《赤色沙漠》玩家评选最值得结交的NPC角色",
         "link": "https://www.gamespot.com/articles/crimson-desert-fans-find-the-best-npcs-to-be-besties-with/1100-6539321/?ftag=CAD-01-10abi2f",
-        "summary": "《赤色沙漠》游戏中有各类NPC，从食品装备商到发型师，玩家评选出最值得优先建立友谊的角色。",
-        "comment": "NPC社交设计或成开放世界游戏新亮点。",
+        "summary": "《赤色沙漠》游戏中有各类NPC，玩家发现部分角色如装备商、发型师等建立深厚关系能带来显著游戏优势。",
+        "comment": "NPC社交系统设计巧妙，增强了游戏沉浸感与策略性。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15789366/4679916-cdimage1.jpg",
         "score": 89
       },
@@ -291,26 +241,6 @@
         "comment": "停火只是表象，深层的地缘博弈仍在继续。",
         "image": "",
         "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "俄乌同意东正教复活节期间停火",
-        "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
-        "summary": "普京宣布停火协议，自4月11日周六下午起至复活节周日生效。",
-        "comment": "短暂停火为外交斡旋提供有限窗口。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际安全",
-        "title": "英国称俄潜艇在海底电缆管道附近活动",
-        "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
-        "summary": "英国防大臣称俄罗斯潜艇在大西洋海底电缆和管道附近活动，但表示目前没有证据表明英国基础设施受损。",
-        "comment": "海底关键基础设施安全风险持续引发关注。",
-        "image": "",
-        "score": 86
       }
     ]
   }
