@@ -3,12 +3,22 @@
     "week": "周日",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "任天堂",
+        "title": "任天堂推出含《超级马里奥银河》的Switch 2限时捆绑包",
+        "link": "https://www.ign.com/articles/nintendo-switch-2-super-mario-galaxy-bundle-new-price-hike-avoid",
+        "summary": "任天堂正式推出包含《超级马里奥银河1+2》的Switch 2限时捆绑包，此举被认为是在主机价格波动背景下吸引用户的重要策略。",
+        "comment": "捆绑经典游戏是任天堂应对市场波动的稳健策略。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/10/super-mario-galaxy-switch-2-bundle-now-available-ign-2-1775834113620.png",
+        "score": 91
+      },
+      {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "DeepSeek应卸下低调枷锁，展现技术实力",
+        "title": "DeepSeek应卸下低调枷锁，直面竞争",
         "link": "https://www.ifanr.com/1661836?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章认为DeepSeek作为AI公司过于低调，如同扫地僧般隐藏实力，应当更主动展示技术成果与价值。",
-        "comment": "技术实力需要匹配相应的市场声量。",
+        "summary": "文章认为DeepSeek作为AI公司过于低调，如同扫地僧般隐藏实力，现在应卸下这种束缚，更主动参与市场竞争。",
+        "comment": "技术实力需要匹配市场声量，过度低调可能错失发展机遇。",
         "image": "",
         "score": 88
       },
@@ -18,7 +28,17 @@
         "title": "匈牙利大选投票率创新高，反对派挑战欧尔班政权",
         "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
         "summary": "匈牙利大选投票率创纪录，多数民调显示反对派领袖彼得·马扎尔领导的草根政党领先，可能终结欧尔班长期执政。",
-        "comment": "匈牙利政治格局或迎来重大转折，高投票率反映民意变化。",
+        "comment": "匈牙利政治格局或迎来重大转折。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "人物逝世",
+        "title": "印度宝莱坞传奇歌手阿莎·波斯勒逝世，享年92岁",
+        "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+        "summary": "印度宝莱坞传奇歌手阿莎·波斯勒逝世，享年92岁。她以其极具感染力的嗓音成为几代印度人的共同记忆，作品广为传唱。",
+        "comment": "一个时代的标志性声音就此落幕，其艺术遗产影响深远。",
         "image": "",
         "score": 87
       },
@@ -27,8 +47,8 @@
         "tag": "俄乌冲突",
         "title": "乌俄互相指责对方违反停火协议数百次",
         "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰总统泽连斯基表示，乌克兰军队将对俄罗斯的攻击采取“对称”回应。",
-        "comment": "停火协议脆弱，双方互信缺失，局势依然紧张。",
+        "summary": "乌克兰总统泽连斯基表示，该国军队将对俄罗斯的攻击做出“对称性”回应。双方互相指控对方违反停火协议达数百次。",
+        "comment": "停火协议脆弱，双方互信基础薄弱。",
         "image": "",
         "score": 87
       },
@@ -38,26 +58,16 @@
         "title": "加州州长候选人斯瓦尔韦尔被控性侵，检方介入调查",
         "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
         "summary": "加州州长选举热门民主党候选人斯瓦尔韦尔遭性侵指控，检方已展开调查，本人坚决否认。",
-        "comment": "选举关键期曝出丑闻，可能严重影响选情。",
+        "comment": "选举关键期爆出丑闻，可能影响选情走向。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "印度",
-        "title": "印度宝莱坞传奇歌手阿莎·波斯勒逝世，享年92岁",
-        "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-        "summary": "印度宝莱坞传奇歌手阿莎·波斯勒逝世，享年92岁。她以其极具感染力的嗓音成为几代印度人的共同记忆，作品广为传唱。",
-        "comment": "一个时代的标志性声音就此落幕，留下无数经典旋律。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "国际时事",
-        "title": "海地旅游景点踩踏事故致至少30人遇难",
+        "tag": "海地",
+        "title": "海地旅游景点踩踏事故恐致至少30人死亡",
         "link": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
-        "summary": "海地总理称，事故发生在“有许多年轻人参加的旅游活动”中，目前至少30人恐已死亡。",
+        "summary": "海地总理称，事故发生在“有许多年轻人参加的旅游活动”中，具体地点为海地一处旅游景点。",
         "comment": "大型活动安全管理再次敲响警钟。",
         "image": "",
         "score": 86
@@ -67,18 +77,18 @@
         "tag": "美国政治",
         "title": "特朗普支持者不满前司法部长处理爱泼斯坦文件",
         "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
-        "summary": "部分特朗普支持者对前司法部长帕姆·邦迪处理爱泼斯坦文件的方式表示失望，有支持者花费数小时查阅相关档案。",
-        "comment": "政治忠诚与司法公正的冲突再次凸显。",
+        "summary": "部分特朗普支持者对前司法部长帕姆·邦迪处理爱泼斯坦文件的方式表示失望，有选民花费数小时查阅相关档案。",
+        "comment": "党内分歧凸显司法透明度争议持续发酵。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "娱乐",
-        "title": "贾斯汀·比伯科切拉压轴，怀旧金曲引全场共鸣",
+        "title": "贾斯汀·比伯科切拉音乐节怀旧演出引关注",
         "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
-        "summary": "贾斯汀·比伯在科切拉音乐节压轴演出，通过播放《Baby》等早期热门歌曲的YouTube视频，带领观众重温经典。",
-        "comment": "怀旧营销精准击中粉丝情感，演出形式颇具巧思。",
+        "summary": "贾斯汀·比伯在科切拉音乐节献唱，表演中多次播放《Baby》等早期热门歌曲的YouTube视频并跟唱。",
+        "comment": "怀旧营销策略明显，现场反响热烈。",
         "image": "",
         "score": 83
       }
