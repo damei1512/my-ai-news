@@ -7,8 +7,8 @@
         "tag": "人工智能",
         "title": "奥特曼回应《纽约客》文章及住所遇袭事件",
         "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-        "summary": "OpenAI CEO 萨姆·奥特曼发表博客，回应《纽约客》质疑其可信度的深度报道，同时提及住所遭遇不明袭击。",
-        "comment": "AI领袖陷入舆论与安全双重风波，行业形象面临考验。",
+        "summary": "OpenAI CEO 萨姆·奥特曼发表博客，回应《纽约客》质疑其可信度的深度报道，同时提及住所遭遇袭击事件。",
+        "comment": "科技领袖的公众形象与个人安全同时面临考验。",
         "image": "",
         "score": 99
       },
@@ -27,7 +27,7 @@
         "tag": "低空经济",
         "title": "沃飞长空启动IPO，冲刺A股低空经济第一股",
         "link": "https://36kr.com/p/3761810181210633?f=rss",
-        "summary": "吉利系低空企业沃飞长空在完成股份制改造及融资后，迅速启动A股IPO进程，目标成为低空经济领域首家上市公司。",
+        "summary": "吉利系低空企业沃飞长空在完成大额融资和股份制改造后，迅速启动上市辅导，目标成为A股低空经济领域首家上市公司。",
         "comment": "低空经济赛道资本化进程加速，头部企业争夺上市先机。",
         "image": "",
         "score": 97
@@ -44,30 +44,20 @@
       },
       {
         "category": "数码科技",
-        "tag": "奢侈品",
-        "title": "GUCCI在华关店转战奥莱，奢侈品消费模式生变",
-        "link": "https://36kr.com/p/3762200670077448?f=rss",
-        "summary": "GUCCI两年内在上海关闭三家标志性门店，同时奥特莱斯店却成排队热点，显示品牌正通过渠道调整与降价策略应对市场变化。",
-        "comment": "奢侈品放下身段拥抱奥莱，折射出消费理性化趋势。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
         "tag": "AI创业",
         "title": "明星AI公司Yupp获豪华融资后不到一年倒闭",
         "link": "https://36kr.com/p/3762088319484419?f=rss",
-        "summary": "AI创业公司Yupp宣布4月15日停止服务，距产品上线不足一年。该公司曾获3300万美元种子轮融资，主营AI模型评测业务。",
-        "comment": "资本追捧难掩商业模式脆弱，AI创业需回归价值本质。",
+        "summary": "AI创业公司Yupp宣布4月15日停止服务，距产品上线不足一年。该公司曾获3300万美元种子轮融资，主打AI模型评测业务。",
+        "comment": "资本追捧难掩商业模式脆弱，AI赛道淘汰加速。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "爱马仕Agent走红：AI智能体可闭环学习固化技能",
+        "title": "爱马仕Agent走红：AI智能体具备闭环学习能力",
         "link": "https://36kr.com/p/3761883183530502?f=rss",
-        "summary": "Nous Research发布的Hermes Agent因名称被戏称为爱马仕Agent，其核心是闭环学习系统，完成任务后自动将经验固化为Skill供后续调用。",
+        "summary": "Nous Research发布的Hermes Agent因名称被戏称为爱马仕Agent，其核心卖点为闭环学习系统，能将任务经验固化为技能供后续调用。",
         "comment": "AI智能体向持续学习演进，实用化迈出关键一步。",
         "image": "",
         "score": 96
@@ -94,13 +84,33 @@
       },
       {
         "category": "游戏影视",
+        "tag": "游戏安全",
+        "title": "R星确认第三方数据泄露，黑客威胁泄露GTA6信息",
+        "link": "https://www.ign.com/articles/gta-6-dev-rockstar-confirms-a-limited-amount-of-non-material-company-information-was-accessed-in-third-party-data-breach-as-hackers-issue-ultimatum-pay-or-leak",
+        "summary": "《GTA6》开发商Rockstar确认第三方数据泄露导致公司信息被访问，黑客发出“付款或泄露”最后通牒。",
+        "comment": "游戏行业数据安全再敲警钟，需加强第三方合作风险管理。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/11/gettyimages-1828114513-1775926267194.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
         "tag": "航天",
         "title": "NASA阿尔忒弥斯II号任务乘组安全返回，目光转向月球永久基地",
         "link": "https://www.ign.com/articles/the-crew-of-nasas-artemis-ii-mission-return-to-earth-safely-and-now-thoughts-turn-to-artemis-iii-and-a-permanent-base-on-the-moon",
-        "summary": "NASA阿尔忒弥斯II号绕月任务乘组在太平洋安全溅落，全球瞩目。任务成功后，焦点转向阿尔忒弥斯III号及建立月球永久基地。",
-        "comment": "载人绕月任务成功，为重返月球奠定关键一步。",
+        "summary": "NASA阿尔忒弥斯II号绕月任务乘组在太平洋安全溅落，全球瞩目。任务成功后，焦点转向阿尔忒弥斯III号及月球永久基地建设。",
+        "comment": "载人绕月任务成功为后续登月及常驻奠定关键基础。",
         "image": "https://assets-prd.ignimgs.com/2026/04/11/artemis-main-1775900626743.jpg",
         "score": 95
+      },
+      {
+        "category": "数码科技",
+        "tag": "奢侈品",
+        "title": "GUCCI在华关店转战奥莱，奢侈品消费趋势生变",
+        "link": "https://36kr.com/p/3762200670077448?f=rss",
+        "summary": "GUCCI两年内在上海关闭三家标志性门店，同时奥特莱斯门店却成排队热点，反映奢侈品消费渠道与心态正发生变化。",
+        "comment": "奢侈品市场正从炫耀性消费转向理性追求性价比。",
+        "image": "",
+        "score": 94
       },
       {
         "category": "数码科技",
@@ -113,16 +123,6 @@
         "score": 94
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏安全",
-        "title": "R星确认第三方数据泄露，黑客威胁泄露GTA6信息",
-        "link": "https://www.ign.com/articles/gta-6-dev-rockstar-confirms-a-limited-amount-of-non-material-company-information-was-accessed-in-third-party-data-breach-as-hackers-issue-ultimatum-pay-or-leak",
-        "summary": "《GTA6》开发商Rockstar确认第三方数据泄露导致公司信息被访问，黑客发出“付款或泄露”最后通牒。",
-        "comment": "游戏行业数据安全再敲警钟，需加强第三方合作风险管理。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/11/gettyimages-1828114513-1775926267194.jpg",
-        "score": 94
-      },
-      {
         "category": "数码科技",
         "tag": "平台监管",
         "title": "7家火车票销售平台被约谈，张雪峰直播间赛车秒拍500万",
@@ -130,7 +130,7 @@
         "summary": "36氪早报：7家涉火车票销售第三方平台被约谈；张雪峰直播间冠军复刻赛车45秒拍出500万；亚马逊辟谣5月裁员1.4万人。",
         "comment": "平台监管趋严，直播拍卖展现惊人消费力。",
         "image": "",
-        "score": 93
+        "score": 94
       },
       {
         "category": "数码科技",
@@ -138,37 +138,27 @@
         "title": "奥特曼家遭燃烧瓶袭击，发长文回应AI恐惧",
         "link": "https://www.ifanr.com/1661837?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "OpenAI CEO山姆·奥特曼住宅遭燃烧瓶袭击，其发长文回应公众对AI的恐惧，强调理解担忧但呼吁理性对话。",
-        "comment": "AI发展引发的社会冲突已从舆论场蔓延至现实。",
+        "comment": "技术争议激化至人身攻击，凸显AI治理的紧迫性。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "皮克斯",
-        "title": "皮克斯取消与《K-POP恶魔猎人》相似的女主角动画项目",
-        "link": "https://www.ign.com/articles/pixar-canceled-a-female-led-movie-that-was-similar-to-kpop-demon-hunters",
-        "summary": "皮克斯开发三年的动画音乐电影因与《K-POP恶魔猎人》主题相似，于2023年被迪士尼高层取消。",
-        "comment": "创意撞车导致项目流产，反映内容同质化风险。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/11/kpop-demon-hunters-official-trailer-f1ac-1280-1775872655475.jpeg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
         "tag": "星球大战",
-        "title": "卢卡斯影业将演员尖叫融入达斯·摩尔光剑音效",
+        "title": "《星球大战：摩尔-暗影领主》光剑音效融入演员尖叫",
         "link": "https://www.ign.com/articles/lucasfilm-baked-the-sound-sam-witwers-blood-curdling-screams-into-darth-mauls-lightsaber-for-shadow-lord-tv-series",
-        "summary": "《星球大战：摩尔-暗影之王》制作团队透露，他们将演员萨姆·威特沃的尖叫声融入达斯·摩尔双刃光剑的音效设计中，增强角色愤怒特质。",
-        "comment": "音效设计的细节创新提升了角色塑造的沉浸感。",
+        "summary": "卢卡斯影业为《星球大战：摩尔-暗影领主》剧集制作光剑音效时，将演员萨姆·威特沃的尖叫声融入达斯·摩尔的双刃光剑声音设计中。",
+        "comment": "音效设计创意独特，增强了角色的愤怒特质。",
         "image": "https://assets-prd.ignimgs.com/2026/04/11/darth-maul-shadow-lord-1775935767906.png",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "影视资讯",
-        "title": "《亢奋》第三季回归，HBO公布新集播出时间表",
+        "title": "《亢奋》第三季回归，新集播出时间公布",
         "link": "https://www.ign.com/articles/euphoria-season-3-episode-release-schedule",
-        "summary": "HBO确认《亢奋》第三季各集具体播出日期与时间，剧集将延续前两季风格，继续探讨青少年成长议题。",
-        "comment": "热门剧集回归，青少年题材持续引发社会讨论。",
+        "summary": "HBO确认了《亢奋》新一季各集的具体播出日期与时间。",
+        "comment": "备受期待的剧集回归，粉丝可提前规划追剧日程。",
         "image": "https://assets-prd.ignimgs.com/2026/04/10/euphorias3-1-1775854073486.jpg",
         "score": 91
       },
@@ -177,7 +167,7 @@
         "tag": "漫威",
         "title": "漫威高管回应《夜魔侠》彩蛋争议",
         "link": "https://www.ign.com/articles/always-watching-fans-stunned-after-marvel-tv-boss-acknowledges-apparent-cosmic-level-easter-egg-in-daredevil-born-again",
-        "summary": "漫威电视主管承认《夜魔侠：重生》第二季中疑似观察者彩蛋引发热议，但未明确是否刻意设计。",
+        "summary": "漫威电视主管承认《夜魔侠：重生》第二季中疑似观察者彩蛋引发热议，但未明确是否刻意安排。",
         "comment": "彩蛋营销已成漫威固定互动模式。",
         "image": "https://assets-prd.ignimgs.com/2026/03/24/daredevil-bornagain-season2-review-blogroll-1774394664689.jpg",
         "score": 91
@@ -185,11 +175,21 @@
       {
         "category": "游戏影视",
         "tag": "X档案",
-        "title": "杜楚尼称未知是否出演《X档案》重启版，但已与库格勒沟通",
+        "title": "杜楚尼称未知是否参演《X档案》重启，但已与库格勒沟通",
         "link": "https://www.ign.com/articles/i-have-a-general-sense-of-what-it-is-david-duchovny-says-he-doesnt-know-if-fox-mulder-is-in-the-x-files-reboot-but-he-has-spoken-with-ryan-coogler",
-        "summary": "大卫·杜楚尼表示对《X档案》重启版细节了解有限，但已与导演瑞恩·库格勒进行过初步沟通，目前不确定自己是否会继续出演福克斯·穆德一角。",
-        "comment": "经典IP重启前景不明，主演参与度成疑。",
+        "summary": "大卫·杜楚尼表示对《X档案》重启版细节了解有限，但已与导演瑞恩·库格勒进行过初步交流。",
+        "comment": "主演对项目进展仍不明确，重启前景尚待观察。",
         "image": "https://assets-prd.ignimgs.com/2026/04/11/x-files-fox-mulder-1775921655047.png",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "皮克斯",
+        "title": "皮克斯取消与《K-Pop恶魔猎人》相似的女主角动画电影",
+        "link": "https://www.ign.com/articles/pixar-canceled-a-female-led-movie-that-was-similar-to-kpop-demon-hunters",
+        "summary": "皮克斯开发三年的动画音乐电影因与《K-Pop恶魔猎人》主题相似，于2023年被迪士尼高层取消，据称因内容重叠。",
+        "comment": "创意撞车导致项目流产，反映内容同质化风险。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/11/kpop-demon-hunters-official-trailer-f1ac-1280-1775872655475.jpeg",
         "score": 91
       },
       {
@@ -197,8 +197,8 @@
         "tag": "乐高",
         "title": "乐高泰坦尼克号发售近五年仍供不应求",
         "link": "https://www.ign.com/articles/the-lego-titanic-is-still-on-backorder-almost-5-years-after-release",
-        "summary": "乐高2021年推出的泰坦尼克号套装，作为史上最昂贵乐高产品之一，至今仍处于缺货状态，市场需求持续旺盛。",
-        "comment": "经典IP与收藏价值的结合创造了持久需求。",
+        "summary": "乐高2021年推出的泰坦尼克号套装价格昂贵，至今仍处于缺货状态，市场需求持续旺盛。",
+        "comment": "经典IP与收藏价值共同推高了这款产品的热度。",
         "image": "https://assets-prd.ignimgs.com/2026/04/10/we-build-the-lego-titanic-lego-iceberg-not-included-15cw-1775834629527.png",
         "score": 91
       },
@@ -208,17 +208,27 @@
         "title": "《范马刃牙》第二季导演透露剧情将更恐怖",
         "link": "https://www.ign.com/articles/how-baki-dou-the-invincible-samurai-will-continue-in-a-very-scary-part-2",
         "summary": "《范马刃牙》动画导演平野俊贵透露第二季剧情将更加恐怖，并预告了新角色与关键情节发展。",
-        "comment": "导演亲自造势，暗示续作将升级战斗与氛围。",
+        "comment": "导演亲自造势，暗示续作将升级战斗与恐怖氛围。",
         "image": "https://assets-prd.ignimgs.com/2026/02/27/baki-dou-thumb-1772226605291.jpg",
         "score": 91
       },
       {
+        "category": "数码科技",
+        "tag": "人工智能",
+        "title": "Claude账号被封又解封，华为Pura 90定档4月20日",
+        "link": "https://www.ifanr.com/1661838?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Claude账号因系统误判被封后解封；苹果Mac一季度出货量增长9%；追觅俞浩称要竞争宇树市场。",
+        "comment": "AI与硬件领域动态频发，竞争态势加剧。",
+        "image": "",
+        "score": 89
+      },
+      {
         "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "玻璃炮网络避开D&D，选择小众TTRPG突围",
+        "tag": "游戏播客",
+        "title": "Glass Cannon Network为脱颖而出避开D&D，选择高风险路线",
         "link": "https://www.gamespot.com/articles/to-stand-out-this-ttrpg-podcast-network-chose-the-risky-route-of-avoiding-dd/1100-6539354/?ftag=CAD-01-10abi2f",
-        "summary": "玻璃炮网络自2015年起专注非D&D的桌面角色扮演游戏实况，在年轻领域中开辟差异化路线。",
-        "comment": "避开红海竞争，专注细分领域是明智的差异化策略。",
+        "summary": "自2015年起，Glass Cannon Network作为桌面角色扮演游戏实况领域的早期主要频道之一，在仅约十年历史的领域中，选择避开《龙与地下城》以寻求差异化。",
+        "comment": "避开主流选择小众赛道，是差异化竞争的大胆尝试。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1587/15875866/4680375-screenshot2026-04-10172919.png",
         "score": 89
       },
@@ -227,30 +237,10 @@
         "tag": "游戏争议",
         "title": "前《守望先锋》总监否认削弱猎空臀部模型",
         "link": "https://www.gamespot.com/articles/ex-overwatch-director-says-tracers-butt-was-never-nerfed/1100-6539353/?ftag=CAD-01-10abi2f",
-        "summary": "前《守望先锋》总监Jeff Kaplan澄清，游戏角色猎空的胜利姿势从未因争议而修改模型，相关调整仅为视角优化。",
+        "summary": "前《守望先锋》总监Jeff Kaplan澄清，游戏角色猎空的胜利姿势从未因争议而被削弱模型，相关调整仅为视角优化。",
         "comment": "游戏角色设计争议再被提及，反映社区对角色表现的持续关注。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4680373-overwatchtracer.jpg",
         "score": 89
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "Claude账号被封又解封，华为Pura 90定档4月20日",
-        "link": "https://www.ifanr.com/1661838?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Claude账号因系统误判被封后解封；苹果Mac一季度出货量增长9%；追觅俞浩称要竞争宇树市场。",
-        "comment": "AI领域竞争加剧，厂商动态频繁。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "德国政治",
-        "title": "德国极右翼AfD通过激进纲领 关键选举前民调领先",
-        "link": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
-        "summary": "德国极右翼政党AfD在萨克森-安哈尔特州民调领先，通过激进纲领，引发对政治格局影响的担忧。",
-        "comment": "极右翼势力崛起可能冲击德国政治稳定。",
-        "image": "",
-        "score": 87
       },
       {
         "category": "游戏影视",
@@ -258,8 +248,18 @@
         "title": "IGN今日最佳优惠：生化危机套装、M5 MacBook Air等",
         "link": "https://www.ign.com/articles/best-deals-for-april-11-2026",
         "summary": "IGN汇总了4月11日值得关注的优惠信息，包括《生化危机》系列游戏套装、搭载M5芯片的MacBook Air以及马拉松主题DualSense手柄等产品折扣。",
-        "comment": "折扣信息实用，但时效性强需及时关注。",
+        "comment": "折扣信息实用，但时效性较强需及时关注。",
         "image": "https://assets-prd.ignimgs.com/2026/01/28/tgas-2025-resident-evil-leon-1769613068763.jpg",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "德国政治",
+        "title": "德国极右翼政党通过激进纲领 地方选举前民调领先",
+        "link": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
+        "summary": "德国极右翼政党选择党在萨克森-安哈尔特州民调中支持率领先，并在关键选举前通过了被外界视为激进的纲领。",
+        "comment": "极右翼势力在德国地方政治中持续抬头，值得警惕。",
+        "image": "",
         "score": 86
       },
       {
@@ -268,7 +268,7 @@
         "title": "纽约中央车站发生持刀袭击事件 警方击毙自称'路西法'嫌犯",
         "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
         "summary": "纽约警方称，一名自称'路西法'的男子在中央车站持刀袭击三人，警方多次警告无效后将其击毙。",
-        "comment": "公共场所暴力事件再次引发对公共安全措施的关注。",
+        "comment": "公共场所暴力事件频发，凸显城市安全治理挑战。",
         "image": "",
         "score": 86
       },
@@ -281,16 +281,6 @@
         "comment": "大规模审判显示尼日利亚对极端主义采取强硬司法手段。",
         "image": "",
         "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "音乐节",
-        "title": "科切拉音乐节开幕，强风致DJ演出取消",
-        "link": "https://www.bbc.com/news/articles/cpwjnvrpn8eo?at_medium=RSS&at_campaign=rss",
-        "summary": "科切拉音乐节在加州开幕，萨布丽娜·卡彭特登台表演并有神秘嘉宾助阵。周五因强风天气，DJ Anyma的演出被迫取消。",
-        "comment": "大型户外音乐节仍面临天气等不确定因素挑战。",
-        "image": "",
-        "score": 83
       }
     ]
   }
