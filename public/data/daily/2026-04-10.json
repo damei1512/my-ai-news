@@ -4,31 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "受害者起诉OpenAI，称ChatGPT助长骚扰者妄想",
+        "tag": "人工智能伦理",
+        "title": "受害者起诉OpenAI，称ChatGPT助长施暴者妄想并忽视警告",
         "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-        "summary": "新诉讼指控OpenAI忽视用户危险警告，包括其自身的大规模伤亡标记，导致一名男子利用ChatGPT骚扰前女友。",
-        "comment": "AI平台内容审核与用户安全责任边界亟待厘清。",
+        "summary": "新诉讼指控OpenAI忽视用户危险警告，包括其自身的大规模伤亡标记，导致施暴者利用ChatGPT骚扰前女友。",
+        "comment": "AI平台需建立更有效的危险内容干预机制。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "TechCrunch携创业大赛进军东京，聚焦AI与机器人",
-        "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-        "summary": "TechCrunch宣布将前往东京举办创业大赛，重点关注人工智能、机器人、韧性与娱乐四大重塑社会的技术领域，现场将有人形机器人演示。",
-        "comment": "国际顶级科技媒体东移，凸显亚洲创新生态重要性。",
+        "title": "Anthropic暂时禁止OpenClaw开发者访问Claude",
+        "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+        "summary": "在Claude对OpenClaw用户调整定价后，Anthropic暂时禁止了该工具开发者访问其API。",
+        "comment": "定价调整后的技术封禁，凸显AI服务商业化的边界争议。",
         "image": "",
-        "score": 99
+        "score": 97
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Anthropic暂时禁止OpenClaw创建者访问Claude",
-        "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-        "summary": "在Claude对OpenClaw用户调整定价后，Anthropic暂时禁止了其创建者的访问权限。",
-        "comment": "定价调整引发访问禁令，凸显AI服务商业化的潜在冲突。",
+        "title": "TechCrunch携创业大赛进军东京，聚焦AI与机器人",
+        "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+        "summary": "TechCrunch宣布将前往东京举办创业大赛，重点关注AI、机器人、韧性与娱乐四大重塑社会的技术领域，现场将有人形机器人演示及自动驾驶等议题讨论。",
+        "comment": "国际科技媒体东进，凸显亚洲创新生态重要性。",
         "image": "",
         "score": 96
       },
@@ -38,17 +38,17 @@
         "title": "TechCrunch Disrupt 2026门票优惠最后24小时",
         "link": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
         "summary": "TechCrunch Disrupt 2026大会门票优惠即将结束，太平洋时间今晚11:59前可享最高500美元折扣。",
-        "comment": "常规会议营销信息，时效性较强但内容普通。",
+        "comment": "常规营销活动，对普通读者价值有限。",
         "image": "",
-        "score": 95
+        "score": 94
       },
       {
         "category": "数码科技",
         "tag": "人工智能",
         "title": "Anthropic的AI安全悖论：最惧AI者造最危险AI",
         "link": "https://www.ifanr.com/1661367?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "报道探讨Anthropic公司在推进AI技术时面临的安全责任困境，质疑其能否真正兑现“发现问题即负责到底”的承诺。",
-        "comment": "在AI竞赛中，安全承诺需超越口号，接受现实检验。",
+        "summary": "报道探讨Anthropic公司在AI开发中的安全责任悖论，这家以安全著称的机构正面临其技术可能带来的未知风险。",
+        "comment": "安全承诺与风险创造并存，折射出AI行业的核心矛盾。",
         "image": "",
         "score": 92
       },
@@ -63,32 +63,12 @@
         "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏新闻",
-        "title": "《雷顿教授》系列结束任天堂独占，将登陆多平台",
-        "link": "https://www.gamespot.com/articles/after-years-of-nintendo-exclusivity-this-beloved-puzzle-franchise-is-going-multiplatform/1100-6539342/?ftag=CAD-01-10abi2f",
-        "summary": "Level-5宣布，长期由任天堂平台独占的《雷顿教授》系列新作《雷顿教授与新世界的蒸汽》将结束独占，未来登陆多平台。",
-        "comment": "经典解谜IP扩大受众，对玩家和开发商是双赢。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4680323-prof-layton.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "航空",
-        "title": "美国联邦航空局招募游戏玩家担任空中交通管制员",
-        "link": "https://www.gamespot.com/articles/the-faa-wants-to-recruit-gamers-for-careers-in-air-traffic-control/1100-6539336/?ftag=CAD-01-10abi2f",
-        "summary": "美国联邦航空管理局正式招募视频游戏玩家，作为下一代空中交通管制员的一部分。此举旨在利用玩家的多任务处理与快速反应能力。",
-        "comment": "游戏技能向专业领域转化，体现了跨行业人才需求的新趋势。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4680289-airtrafficcontrol.jpg",
-        "score": 92
-      },
-      {
         "category": "数码科技",
-        "tag": "AI代理",
-        "title": "Hermes Agent成AI新宠，4万星项目不只是OpenClaw平替",
+        "tag": "开源工具",
+        "title": "Hermes Agent狂揽4万星，不只是OpenClaw平替",
         "link": "https://www.ifanr.com/1661725?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI工具Hermes Agent在GitHub获4万星，从自动化养龙虾扩展到爱马仕抢购等复杂任务，展现强大泛化能力。",
-        "comment": "开源社区正推动AI代理从玩具走向实用场景。",
+        "summary": "Hermes Agent在GitHub获4万星，功能从养龙虾扩展到自动化操作，引发关注。",
+        "comment": "开源项目展现强大扩展性，预示自动化工具新方向。",
         "image": "",
         "score": 91
       },
@@ -97,49 +77,29 @@
         "tag": "宝可梦",
         "title": "《宝可梦冠军》免费神秘礼物全收录",
         "link": "https://www.gamespot.com/articles/all-free-mystery-gifts-in-pokemon-champions/1100-6539345/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂Switch新作《宝可梦冠军》上线，为玩家提供免费宝可梦及实用道具，延续系列传统福利。",
-        "comment": "系列惯例福利，有助于玩家初期体验。",
+        "summary": "任天堂Switch新作《宝可梦冠军》上线，为玩家提供免费宝可梦与实用道具，延续系列传统。",
+        "comment": "系列常规福利，有助于玩家初期体验。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15787979/4680359-7611486985-mega-.jpg",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "游戏硬件",
-        "title": "游戏成本攀升，投资高端PC成未来保障",
+        "title": "游戏成本上升，投资高端PC成未来保障",
         "link": "https://www.gamespot.com/articles/as-gaming-grows-more-expensive-investing-in-a-pc-like-this-one-is-a-great-way-to-future-proof-your-hobby/1100-6539347/?ftag=CAD-01-10abi2f",
-        "summary": "文章指出，随着游戏成本不断上涨，投资一台高性能PC是保障游戏爱好长期可持续的明智选择，反驳了玩家必须喜爱硬件的误解。",
-        "comment": "观点务实，点出了主机与PC长期成本差异。",
+        "summary": "文章指出，随着游戏成本日益增加，投资一台高性能PC是保障游戏爱好长期可行的方式，反驳了玩家必须喜爱硬件的误解。",
+        "comment": "观点务实，但PC前期投入较高，需权衡预算。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4680366-gggg%2814%29.jpg",
         "score": 89
       },
       {
         "category": "游戏影视",
-        "tag": "游戏设计",
+        "tag": "游戏文化",
         "title": "游戏媒体盘点游戏中千奇百怪的月亮",
         "link": "https://www.gamespot.com/articles/a-love-letter-to-gamings-many-weird-moons/1100-6539346/?ftag=CAD-01-10abi2f",
-        "summary": "文章以阿耳忒弥斯二号载人航天任务为引，探讨电子游戏中各种奇特月亮设计的魅力，分析其如何同时唤起玩家的敬畏与恐惧感。",
-        "comment": "从现实航天切入游戏设计，视角独特有趣。",
+        "summary": "文章以阿耳忒弥斯二号载人航天任务为引，探讨电子游戏中各种奇特月亮的设计，分析其如何引发玩家的敬畏与恐惧感。",
+        "comment": "从现实航天切入游戏文化，视角独特有趣。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1748/17481584/4680363-pragmatamoon.jpeg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "PUBG总监谈《Highguard》与《Concord》困境：持续成功很难",
-        "link": "https://www.gamespot.com/articles/pubg-dev-on-highguard-and-concord-struggles-its-really-hard-to-succeed-every-time/1100-6539343/?ftag=CAD-01-10abi2f",
-        "summary": "PUBG系列总监张泰硕反思了公司在多人实时服务游戏领域的多次失利，包括《Concord》和《Highguard》等备受关注的项目。",
-        "comment": "实时服务游戏竞争激烈，爆款难续。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4680325-highguard.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《战地6》更新调整复活机制，向经典作品靠拢",
-        "link": "https://www.gamespot.com/articles/battlefield-6-update-makes-a-major-change-to-revives-to-bring-them-in-line-with-classic-games/1100-6539339/?ftag=CAD-01-10abi2f",
-        "summary": "开发商宣布将对《战地6》的复活机制进行重大调整，使其更符合系列经典作品的设定，同时将推出新的限时模式等内容。",
-        "comment": "核心机制回归经典，意在回应老玩家诉求。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15789366/4680297-bf6image.jpg",
         "score": 89
       },
       {
@@ -158,17 +118,7 @@
         "title": "蔚来ES9拒绝被比作揽胜或库里南",
         "link": "https://www.ifanr.com/1661768?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "蔚来ES9强调自身原创性，不愿被简单类比为其他豪华车型，展现品牌独立设计理念。",
-        "comment": "品牌坚持原创值得肯定，但市场认知仍需产品力支撑。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "数码科技",
-        "tag": "奇瑞",
-        "title": "奇瑞发布三款新燃油车，瑞虎系列成销量支柱",
-        "link": "https://www.ifanr.com/1661724?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "奇瑞发布三款新燃油车，强调瑞虎系列是品牌销量核心，燃油车仍是基本盘。",
-        "comment": "传统车企在新能源浪潮下仍坚守燃油车市场。",
+        "comment": "品牌强调原创，但市场仍难免对比。",
         "image": "",
         "score": 88
       }
