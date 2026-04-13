@@ -4,53 +4,43 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "太空计算",
         "title": "全球最大轨道计算集群投入运营，搭载40块GPU",
         "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-        "summary": "Kepler通信公司在地球轨道部署了40块GPU组成的计算集群，其最新客户为Sophia Space公司，标志着太空计算商业化迈出关键一步。",
-        "comment": "太空计算商业化进程加速，或将催生新的空间服务模式。",
+        "summary": "Kepler通信公司在近地轨道部署40块GPU组成计算集群，首个客户为Sophia Space公司，提供太空数据处理服务。",
+        "comment": "太空计算商业化迈出关键一步，技术验证意义重大。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
-        "tag": "AI制药",
-        "title": "智能体临床试验获资本青睐，四个月融资2亿美元",
+        "tag": "人工智能",
+        "title": "智能体临床试验引资本热潮，四个月融资2亿美元",
         "link": "https://36kr.com/p/3757975636050695?f=rss",
-        "summary": "医疗AI公司深度智耀等企业启动IPO，AI在新药研发领域受资本追捧，其中一家公司四个月内估值翻六倍。",
-        "comment": "AI制药赛道热度持续，但临床落地仍需时间验证。",
+        "summary": "医疗AI公司深度智耀等企业受资本追捧，AI在新药研发领域应用加速，部分公司启动IPO进程。",
+        "comment": "AI医疗融资火热，但商业化落地仍需时间验证。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
-        "tag": "AI医疗",
-        "title": "留学生用AI看病省出特斯拉，海外医疗费高昂引关注",
-        "link": "https://36kr.com/p/3764892434711049?f=rss",
-        "summary": "英国留学生牙痛发作，通过AI工具自我诊断并硬扛20天，回国完成根管治疗，对比海外高昂费用节省约一辆二手特斯拉。",
-        "comment": "AI辅助医疗虽能省钱，但延误专业治疗风险不容忽视。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
         "tag": "机器人",
-        "title": "前大疆工程师创业陪伴机器人，李泽湘连投三轮",
+        "title": "前大疆工程师创业做陪伴机器人，李泽湘连投三轮",
         "link": "https://36kr.com/p/3764777930621705?f=rss",
-        "summary": "前大疆工程师团队研发的陪伴机器人COCOMO亮相CES，凭借异质外形、人体温度及分体式设计引发关注，产品即将众筹。",
-        "comment": "差异化设计或为同质化陪伴机器人市场带来新变量。",
+        "summary": "前大疆工程师团队研发的陪伴机器人COCOMO亮相CES，凭借异质化外观、人体温度及分体式设计吸引关注，产品即将众筹。",
+        "comment": "差异化设计是突破同质化竞争的关键尝试。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "人工智能",
-        "title": "2026光幕计划终审阵容公布，探讨AI时代表演艺术",
-        "link": "https://36kr.com/p/3764886161048323?f=rss",
-        "summary": "光幕计划公布终审阵容，由李少红导演领衔。内容聚焦短剧与AI技术冲击下，表演艺术如何坚守源于血肉之躯的真实表达。",
-        "comment": "在技术浪潮中追问表演艺术的本质，立意值得关注。",
+        "tag": "一人公司",
+        "title": "AI浪潮下“一人公司”模式兴起，创业老炮与00后谁更适应",
+        "link": "https://36kr.com/p/3764728843289089?f=rss",
+        "summary": "文章探讨在AI工具赋能下，个人或极小团队实现全链路闭环的“一人公司”新型创业模式，分析不同世代创业者的适应性差异。",
+        "comment": "AI降低了创业门槛，但成功更考验个人综合能力与资源整合。",
         "image": "",
-        "score": 94
+        "score": 96
       },
       {
         "category": "数码科技",
@@ -60,6 +50,16 @@
         "summary": "成立仅4个月的AI潮玩品牌MOMOTOY完成数千万元融资，投后估值2.5亿元。品牌以999足金盲盒与AI情感交互为特色，走高端科技化路线，资金将用于技术迭代与渠道拓展。",
         "comment": "资本持续押注潮玩赛道，高奢与AI结合能否打开新市场有待观察。",
         "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "人工智能",
+        "title": "2026光幕计划终审阵容公布，探讨AI时代表演艺术",
+        "link": "https://36kr.com/p/3764886161048323?f=rss",
+        "summary": "光幕计划公布终审阵容，由李少红导演领衔。内容聚焦短剧与AI技术冲击下，表演艺术如何坚守源于血肉之躯的真实表达。",
+        "comment": "在技术浪潮中追问艺术本真，具有现实思辨价值。",
+        "image": "",
         "score": 94
       },
       {
@@ -68,9 +68,29 @@
         "title": "港中文博士与大疆前负责人创业，获数百万美元融资研发AI积木",
         "link": "https://36kr.com/p/3763919765226240?f=rss",
         "summary": "个性化制造品牌UNICUS完成数百万美元融资，由线性资本领投。资金将用于积木生成大模型训练、AI Agent研发及海外市场拓展。",
-        "comment": "AI与实体制造结合的新尝试，但商业化路径仍需验证。",
+        "comment": "AI与个性化制造结合，有望开辟消费电子新赛道。",
         "image": "",
         "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏发布",
+        "title": "《地铁》新作或于本周微软Xbox发布会亮相",
+        "link": "https://www.ign.com/articles/new-metro-sequel-reportedly-set-for-reveal-at-microsoft-xbox-show-this-week-after-major-gameplay-leak-over-the-weekend",
+        "summary": "据IGN报道，全新《地铁》系列游戏预计将在本周微软Xbox发布会上正式公布，此前周末已有大量游戏玩法内容泄露。",
+        "comment": "系列新作即将揭晓，但泄露事件可能影响发布效果。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/13/ss-f0297eacbfb4266f311a8cb4137e4ef8b7cdd00b-1920x1080-1776070334761.jpg",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI医疗",
+        "title": "留学生用AI看病省下万元牙科费用",
+        "link": "https://36kr.com/p/3764892434711049?f=rss",
+        "summary": "英国留学生牙痛发作，通过AI工具自我诊断并采取临时措施，坚持20天后回国治疗，对比国外高昂费用节省万余元。",
+        "comment": "AI医疗工具虽能应急，但无法替代专业诊疗，需谨慎使用。",
+        "image": "",
+        "score": 93
       },
       {
         "category": "数码科技",
@@ -78,27 +98,17 @@
         "title": "雅诗兰黛CEO司泰峰谈变革：让慢公司变快",
         "link": "https://36kr.com/p/3756542711120640?f=rss",
         "summary": "雅诗兰黛集团总裁兼CEO司泰峰接受专访，探讨在当下消费环境中如何推动这家传统“慢”公司加速变革。",
-        "comment": "传统巨头在快消时代面临转型压力。",
+        "comment": "传统巨头面临转型压力，领导者的温和与冒险特质形成有趣对比。",
         "image": "",
         "score": 93
       },
       {
         "category": "数码科技",
-        "tag": "一人公司",
-        "title": "AI浪潮下的一人公司：创业老炮与00后谁主沉浮",
-        "link": "https://36kr.com/p/3764728843289089?f=rss",
-        "summary": "文章探讨了在AI工具赋能下，一人公司（OPC）如何从法律概念演变为个人或极小团队实现全链路闭环的新型创业模式，并对比了不同代际创业者的适应差异。",
-        "comment": "AI降低了创业门槛，但成功更考验个体对技术与商业的整合能力。",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "企业动态",
-        "title": "海底捞通报员工被费买礼物，王石否认被抓，何超蕸去世",
+        "tag": "企业治理",
+        "title": "海底捞通报员工被费买礼物，王石否认被抓",
         "link": "https://36kr.com/p/3764503979328001?f=rss",
-        "summary": "海底捞通报员工被强制自费购买顾客礼物，已通知千余家门店排查。王石否认被抓传闻。信德集团官网变黑白悼念何超蕸去世。",
-        "comment": "企业舆情频发，凸显内部管理与公众沟通的重要性。",
+        "summary": "海底捞通报员工被强制自费购买顾客礼物，已通知千余家门店内部排查。王石否认被抓传闻。何超蕸去世，信德集团官网变黑白。",
+        "comment": "企业应杜绝转嫁福利成本给员工的行为。",
         "image": "",
         "score": 93
       },
@@ -108,69 +118,109 @@
         "title": "马斯克版微信亮相App Store，宇树机器人跑步刷新纪录",
         "link": "https://www.ifanr.com/1661898?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "马斯克旗下X平台应用上架App Store，周五开放下载；宇树科技人形机器人跑步速度刷新纪录，创始人称年内将超越博尔特；海底捞回应员工自费购买礼物事件。",
-        "comment": "科技巨头跨界竞争与机器人技术突破同步推进。",
+        "comment": "科技巨头跨界竞争与机器人突破性进展并存。",
         "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "影视评测",
+        "tag": "剧集评测",
         "title": "IGN评《The Audacity》首集：最佳可能世界",
         "link": "https://www.ign.com/articles/the-audacity-season-1-episode-1-review-best-of-all-possible-worlds",
-        "summary": "IGN对《The Audacity》第一季第一集进行评测，标题为'最佳可能世界'，评价内容未提供具体细节。",
-        "comment": "首集评测标题引人关注，但缺乏具体评价内容。",
+        "summary": "IGN对《The Audacity》第一季第一集'最佳可能世界'进行评测，认为其展现了独特的叙事风格和世界观构建。",
+        "comment": "首集表现稳健，为后续剧情奠定良好基础。",
         "image": "https://assets-prd.ignimgs.com/2026/04/12/aud-1776036144931.jpg",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "数码科技",
+        "tag": "视频制作",
         "title": "Vidu Q3发布，提升漫剧短剧影视广告制作效率",
         "link": "https://www.ifanr.com/1661883?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Vidu Q3推出，主打出片即交付功能，旨在提升漫剧、短剧及影视广告的制作效率。",
-        "comment": "工具升级有望降低内容创作门槛，推动行业效率提升。",
+        "summary": "Vidu Q3推出，主打出片即交付功能，旨在提升漫剧、短剧及影视广告的内容制作效率。",
+        "comment": "该工具可能显著降低视频内容制作门槛。",
         "image": "",
         "score": 89
       },
       {
         "category": "时事热点",
         "tag": "匈牙利大选",
-        "title": "匈牙利大选变天，欧尔班16年执政终结",
+        "title": "匈牙利大选：欧尔班16年执政终结，前党内人士马扎尔胜选",
         "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
-        "summary": "匈牙利反对派领袖马扎尔以压倒性优势赢得大选，终结欧尔班长达16年的执政。",
-        "comment": "匈牙利政治格局迎来历史性转折。",
+        "summary": "匈牙利总理欧尔班在执政16年后败选，45岁的前党内人士彼得·马扎尔以压倒性优势赢得选举，多数选民选择结束欧尔班时代。",
+        "comment": "匈牙利政治格局发生历史性转变，欧盟内部力量对比或受影响。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "匈牙利",
-        "title": "匈牙利欧尔班实验遇挫，反对派历史性胜选",
-        "link": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
-        "summary": "反对派领导人彼得·马扎尔在选举中取得历史性胜利，为厌倦欧尔班统治下紧张局势的国家带来和平希望。",
-        "comment": "匈牙利政治格局或迎来重要转折点。",
+        "tag": "澳大利亚",
+        "title": "悉尼商场持刀袭击致6死10伤 8人将获英勇奖章",
+        "link": "https://www.bbc.com/news/articles/c1w4539z0y9o?at_medium=RSS&at_campaign=rss",
+        "summary": "澳大利亚悉尼邦迪枢纽购物中心发生持刀袭击事件，造成6人死亡、10人受伤。8名见义勇为者将因勇敢行为获得表彰。",
+        "comment": "恶性公共安全事件再次引发对公共场所安保的反思。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "国际油价",
-        "title": "和谈破裂后美国拟封锁伊朗港口，油价重回100美元上方",
-        "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
-        "summary": "周末谈判破裂引发市场担忧，全球能源危机可能因此加剧，国际油价应声上涨，突破每桶100美元关口。",
-        "comment": "地缘政治风险再度推高能源价格，加剧全球经济不确定性。",
+        "tag": "匈牙利",
+        "title": "匈牙利政局变动引欧洲关注，莫斯科反应冷淡",
+        "link": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC欧洲编辑称，欧洲领导人对匈牙利亲普京盟友下台感到欣喜，但莫斯科方面反应冷淡。",
+        "comment": "匈牙利政局变动或影响欧盟与俄罗斯关系格局。",
         "image": "",
-        "score": 87
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际关系",
+        "title": "特朗普批评教皇对伊朗战争立场",
+        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国总统特朗普指责教皇方济各在犯罪问题上软弱，外交政策糟糕，此前教皇批评了伊朗战争。",
+        "comment": "特朗普再次公开批评宗教领袖，凸显其外交风格。",
+        "image": "",
+        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "美国政治",
         "title": "加州州长竞选领先候选人因性行为不端指控退选",
         "link": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss",
-        "summary": "加州州长竞选中的领先候选人因性行为不端指控面临巨大压力，其党内盟友敦促其退选，最终宣布退出竞选。",
-        "comment": "政治人物的个人操守再次成为影响选情的关键因素。",
+        "summary": "加州州长竞选领先候选人因性行为不端指控宣布退选，民主党盟友施压促其退出竞选。",
+        "comment": "政治人物丑闻再次影响选举进程，凸显舆论监督力量。",
         "image": "",
-        "score": 87
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "印度",
+        "title": "宝莱坞传奇歌手阿莎·博斯勒葬礼在即，民众聚集悼念",
+        "link": "https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss",
+        "summary": "92岁印度传奇歌手阿莎·博斯勒去世，将于周一举行国葬规格的火化仪式，民众提前聚集悼念。",
+        "comment": "一代歌后离世，标志着一个时代的落幕。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "加拿大政治",
+        "title": "加拿大补选自由党有望获多数席位",
+        "link": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss",
+        "summary": "加拿大三场补选投票结束，自由党若再获一席将巩固总理卡尼的多数政府地位，此前多名保守党议员倒戈。",
+        "comment": "补选结果将直接影响加拿大政局稳定性。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "时事热点",
+        "tag": "娱乐新闻",
+        "title": "布兰妮因酒驾被捕后自愿接受康复治疗",
+        "link": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss",
+        "summary": "歌手布兰妮·斯皮尔斯在酒驾被捕后，于开庭前三周自愿进入治疗机构接受康复治疗。",
+        "comment": "明星的自我救赎行为值得关注，但更需反思酒驾危害。",
+        "image": "",
+        "score": 83
       }
     ]
   }
