@@ -7,8 +7,8 @@
         "tag": "人工智能",
         "title": "OpenAI收购个人理财AI初创公司Hiro",
         "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-        "summary": "OpenAI收购AI个人理财初创公司Hiro，此举表明其正为ChatGPT构建金融规划能力。",
-        "comment": "AI巨头加速布局垂直应用，金融领域成新焦点。",
+        "summary": "OpenAI收购AI个人理财初创公司Hiro，此举显示其正为ChatGPT构建金融规划能力。",
+        "comment": "AI巨头向金融领域渗透，技术应用边界持续拓宽。",
         "image": "",
         "score": 99
       },
@@ -17,28 +17,18 @@
         "tag": "存储芯片",
         "title": "远见智存发布HBM3/3e芯片，带宽达819GB/s",
         "link": "https://36kr.com/p/3765986197684736?f=rss",
-        "summary": "深圳远见智存发布HBM3/3e高带宽存储芯片，提供12GB与24GB容量，带宽达819GB/s，符合JEDEC标准，瞄准AI算力需求。",
-        "comment": "国产HBM技术突破，助力AI算力自主化。",
+        "summary": "深圳远见智存发布HBM3/3e高带宽存储芯片，提供12GB与24GB容量，带宽达819GB/s，符合JEDEC标准。HBM是AI算力关键组件。",
+        "comment": "国产HBM技术突破，助力AI算力提升。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
-        "tag": "AI机器人",
-        "title": "庞伯特AI发球机器人半年融资近2亿，解决训练难题",
-        "link": "https://36kr.com/p/3764953900990977?f=rss",
-        "summary": "创始人张海波通过自家发球机器人半年达到网球NTRP 3.0水平，公司致力于用AI机器人解决全球1亿人球类训练资源不足问题。",
-        "comment": "AI+体育硬件赛道正获资本青睐，但商业化落地仍需验证。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "机器人",
-        "title": "高德首款机器人将亮相，日产削减车型冲刺中美市场",
+        "tag": "人工智能",
+        "title": "高德首款具身机器人将亮相，日产削减20%车型冲刺中美市场",
         "link": "https://36kr.com/p/3766487517594377?f=rss",
-        "summary": "高德将展示首款具身机器人；日产发布转型计划，削减20%车型并冲刺中美市场百万销量；OpenAI因战略转向面临8520亿美元估值质疑。",
-        "comment": "科技巨头纷纷调整战略，市场竞争加剧。",
+        "summary": "高德将推出首款具身机器人；日产发布转型计划，削减20%车型并冲刺中美市场百万销量；OpenAI因战略转向遭投资者质疑其8520亿美元估值。",
+        "comment": "科技巨头纷纷调整战略，聚焦核心业务与前沿技术。",
         "image": "",
         "score": 96
       },
@@ -47,8 +37,8 @@
         "tag": "机器人",
         "title": "蓝点触控获超亿元C+轮融资，宁德时代等联合投资",
         "link": "https://36kr.com/p/3766434507440903?f=rss",
-        "summary": "六维力传感器企业蓝点触控完成超亿元C+轮融资，投资方包括宁德时代旗下溥泉资本、智元机器人等。这是该公司近一年内完成的第三轮过亿元融资。",
-        "comment": "机器人核心部件获产业资本密集加注，赛道热度持续攀升。",
+        "summary": "六维力传感器企业蓝点触控完成超亿元C+轮融资，投资方包括宁德时代旗下溥泉资本、智元机器人、银河通用等。这是该公司近一年内完成的第三轮过亿元融资。",
+        "comment": "头部传感器企业获产业资本加持，机器人核心部件赛道热度持续。",
         "image": "",
         "score": 96
       },
@@ -58,38 +48,48 @@
         "title": "美股科技板块领涨，半导体与AI表现突出",
         "link": "https://36kr.com/p/3766410231726855?f=rss",
         "summary": "4月以来美股三大指数持续走强，科技板块成为上涨领头羊，半导体、芯片、AI等细分领域表现尤为突出。",
-        "comment": "科技股仍是市场风向标，但需警惕短期过热风险。",
+        "comment": "科技股仍是市场风向标，短期强势需关注持续性。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI硬件",
+        "title": "庞伯特AI发球机器人半年融资近2亿，解决训练难题",
+        "link": "https://36kr.com/p/3764953900990977?f=rss",
+        "summary": "创始人张海波通过自家发球机器人自学网球，半年达NTRP 3.0水平。公司旨在用AI机器人解决全球1亿人体育训练资源不足问题。",
+        "comment": "AI+体育硬件赛道受资本青睐，但商业化落地仍需验证。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "社交应用",
+        "title": "马斯克XChat 4月17日上线，字节荣耀合作细节未定",
+        "link": "https://36kr.com/p/3765932138103554?f=rss",
+        "summary": "X平台宣布独立社交应用XChat将于4月17日上线；字节与荣耀合作的“豆包手机”细节尚未达成一致；美军开始拦截进出霍尔木兹海峡船只。",
+        "comment": "马斯克社交新品引关注，但跨企合作仍存变数。",
         "image": "",
         "score": 96
       },
       {
         "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《塞尔达传说》电影杀青，索尼CinemaCon 2026公布",
-        "link": "https://www.ign.com/articles/legend-of-zelda-movie-update",
-        "summary": "索尼在CinemaCon 2026上简短更新，《塞尔达传说》真人电影已正式完成拍摄。",
-        "comment": "顶级游戏IP影视化迈出关键一步，期待值拉满。",
-        "image": "https://assets-prd.ignimgs.com/2025/11/18/zelda-1763456029475.png",
-        "score": 95
-      },
-      {
-        "category": "数码科技",
-        "tag": "社交应用",
-        "title": "马斯克XChat将上线，字节荣耀合作未定",
-        "link": "https://36kr.com/p/3765932138103554?f=rss",
-        "summary": "X平台宣布独立社交应用XChat将于4月17日上线；字节与荣耀合作的“豆包手机”细节尚未达成一致；小红书跨境电商平台Redshop将于6月上线。",
-        "comment": "社交应用竞争加剧，跨界合作细节待定。",
-        "image": "",
+        "tag": "漫威",
+        "title": "《复仇者联盟：末日》后期制作中，《秘密战争》进入前期制作",
+        "link": "https://www.ign.com/articles/avengers-doomsday-and-secret-wars-update",
+        "summary": "据IGN报道，《复仇者联盟：末日》已进入后期制作阶段，而《复仇者联盟：秘密战争》项目现已启动前期制作工作。",
+        "comment": "漫威电影宇宙下一阶段的两部核心作品已进入实质性推进阶段。",
+        "image": "https://assets-prd.ignimgs.com/2025/03/27/doomsday-thumb-1743093032166.jpg",
         "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "漫威电影",
-        "title": "《复仇者联盟：末日》后期制作中，《秘密战争》进入前期筹备",
-        "link": "https://www.ign.com/articles/avengers-doomsday-and-secret-wars-update",
-        "summary": "据IGN报道，《复仇者联盟：末日》已进入后期制作阶段，而《复仇者联盟：秘密战争》项目现已启动前期筹备工作。",
-        "comment": "漫威宇宙下一阶段布局逐渐清晰，两部重磅作品稳步推进。",
-        "image": "https://assets-prd.ignimgs.com/2025/03/27/doomsday-thumb-1743093032166.jpg",
+        "tag": "游戏改编",
+        "title": "《塞尔达传说》真人电影杀青，索尼CinemaCon 2026公布",
+        "link": "https://www.ign.com/articles/legend-of-zelda-movie-update",
+        "summary": "索尼在CinemaCon 2026上确认，《塞尔达传说》真人电影已正式完成拍摄工作。",
+        "comment": "备受期待的游戏改编电影迈出关键一步。",
+        "image": "https://assets-prd.ignimgs.com/2025/11/18/zelda-1763456029475.png",
         "score": 94
       },
       {
@@ -97,39 +97,39 @@
         "tag": "游戏安全",
         "title": "R星黑客提前泄露数据，未涉及《GTA6》",
         "link": "https://www.ign.com/articles/rockstar-games-hack-update",
-        "summary": "黑客提前泄露了从Rockstar Games窃取的数据，其中包含《GTA Online》和《荒野大镖客Online》的营收信息，但关键信息是《GTA6》的相关内容并未出现在此次泄露中。",
+        "summary": "黑客提前泄露了从Rockstar Games窃取的数据，其中包含《GTA Online》和《荒野大镖客Online》的营收信息，但关键的是，目前网上并未出现《GTA6》的相关泄露信息。",
         "comment": "核心资产未泄露，对R星而言是不幸中的万幸。",
         "image": "https://assets-prd.ignimgs.com/2026/04/14/gta-online-1776154315216.jpg",
         "score": 94
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《血源诅咒》将推出R级动画电影，JackSepticEye参与制作",
-        "link": "https://www.ign.com/articles/bloodborne-r-rated-animated-movie-in-development-with-jacksepticeye-producing",
-        "summary": "索尼影业宣布正在制作基于游戏《血源诅咒》的R级动画电影，由PlayStation Productions和Lyric制作，知名主播JackSepticEye参与制片。",
-        "comment": "经典魂系IP首次影视化，风格契合值得期待。",
-        "image": "https://assets-prd.ignimgs.com/2024/11/24/bloodborneconcord2-1732446312120.jpg",
-        "score": 94
-      },
-      {
         "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果下场，智能眼镜迎来iPhone时刻",
+        "tag": "智能眼镜",
+        "title": "苹果下场推动智能眼镜迎来iPhone时刻",
         "link": "https://www.ifanr.com/1661905?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果亲自入局智能眼镜领域，被业界视为可能推动该品类像iPhone一样普及的关键转折点。",
-        "comment": "巨头的入局将加速整个生态的成熟与市场教育。",
+        "summary": "苹果亲自入局智能眼镜领域，被业界视为可能推动该品类迎来类似iPhone的突破性发展节点。",
+        "comment": "巨头的入局是行业成熟的关键信号。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《血源诅咒》电影版确认制作，粉丝期待成真",
-        "link": "https://www.gamespot.com/articles/after-eleven-years-bloodborne-is-finally-getting-the-movie-adaptation-it-deserves/1100-6539373/?ftag=CAD-01-10abi2f",
-        "summary": "索尼与From Software的经典恐怖动作游戏《血源诅咒》在发售十一年后，正式确认将推出电影改编作品，结束了长期以来的粉丝猜测与期待。",
-        "comment": "经典IP影视化能否还原游戏精髓，是最大挑战。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1532/15327795/4681657-bloodborne.jpg",
+        "tag": "游戏传闻",
+        "title": "《漫威蜘蛛侠3》疑似开发中，彼得·帕克脸模发图引猜测",
+        "link": "https://www.ign.com/articles/face-model-seemingly-teases-marvels-spider-man-3",
+        "summary": "《漫威蜘蛛侠》系列中彼得·帕克的脸部模特在社交媒体发布图片后迅速删除，引发玩家和媒体对《漫威蜘蛛侠3》可能已在失眠组开发的广泛讨论。",
+        "comment": "蛛丝马迹常是官方预热的前奏，可信度较高。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/14/screenshot-2026-04-14-123813-1776166714931.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "娱乐新闻",
+        "title": "凯蒂·佩里方回应鲁比·罗丝性侵指控",
+        "link": "https://www.ign.com/articles/katy-perry-rep-responds-to-ruby-rose-accusations",
+        "summary": "针对演员鲁比·罗丝提出的性侵指控，歌手凯蒂·佩里的代表发表措辞强硬的声明予以否认。",
+        "comment": "名人间的严重指控，需等待法律程序厘清真相。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/14/gettyimages-633589492-1776159596694.jpg",
         "score": 92
       },
       {
@@ -137,9 +137,39 @@
         "tag": "iOS",
         "title": "iOS 26.5 Beta 2曝光地图广告机制，华为Pura X Max外观公布",
         "link": "https://www.ifanr.com/1662060?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iOS 26.5 Beta 2测试版显示苹果地图将引入广告机制；华为大折叠新机Pura X Max外观设计曝光；OpenAI伦敦办公室明年启用，智元机器人完成首批商用交付。",
-        "comment": "地图广告化趋势明显，用户体验与商业化的平衡面临新考验。",
+        "summary": "iOS 26.5 Beta 2测试版显示苹果地图或将引入广告机制；华为大尺寸折叠屏新机Pura X Max外观设计曝光；OpenAI伦敦首个永久办公室明年启用。",
+        "comment": "地图广告与折叠屏新机是今日两大核心看点。",
         "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "WWE",
+        "title": "IGN评选WWE摔角手前十排名（摔角狂热42前）",
+        "link": "https://www.ign.com/articles/the-top-10-best-wwe-wrestlers-right-now-pre-wrestlemania-42",
+        "summary": "IGN在摔角狂热42大赛前，根据选手表现评选出当前WWE最佳摔角手前十名，罗曼·雷恩斯、CM朋克、雷亚·里普利等明星在列。",
+        "comment": "赛前排名引发粉丝热议，为年度盛事预热。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/14/wwe-top-10-blog-1776162776824.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "海盗冒险游戏《Windrose》今日开启抢先体验",
+        "link": "https://www.ign.com/articles/new-pirate-game-windrose-sets-sail-today",
+        "summary": "海盗冒险游戏《Windrose》（原名《Crosswind》）今日在Steam平台开启抢先体验，目前获得“特别好评”评价。",
+        "comment": "更名后以良好口碑起航，值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/14/art-01-3-1776165403006.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威",
+        "title": "《蜘蛛侠：崭新一天》发布新海报及片段",
+        "link": "https://www.ign.com/articles/new-spider-man-brand-new-day-posters-released",
+        "summary": "索尼影业在CinemaCon 2026上发布了两款《蜘蛛侠：崭新一天》新海报，并展示了新片段。",
+        "comment": "漫威电影宇宙新作预热，物料逐步释出。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/14/spider-man-main-1776161786941.jpg",
         "score": 91
       },
       {
@@ -147,24 +177,14 @@
         "tag": "游戏更新",
         "title": "《动物森友会》发布3.0.2更新，庆祝系列25周年",
         "link": "https://www.ign.com/articles/animal-crossing-new-horizons-update-302-released",
-        "summary": "任天堂为庆祝《动物森友会》系列25周年，在《集合啦！动物森友会》3.0.2更新中为玩家准备了特别的纪念树叶装饰品。",
-        "comment": "周年纪念更新虽小，但情怀十足。",
+        "summary": "任天堂为庆祝《动物森友会》系列25周年，在《集合啦！动物森友会》3.0.2更新中加入了纪念树叶装饰品。",
+        "comment": "周年纪念更新虽小，但体现了对系列粉丝的持续关怀。",
         "image": "https://assets-prd.ignimgs.com/2026/04/14/ade3ba7b18ba4d3392e088da4e2deec3-1776160308617.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "娱乐新闻",
-        "title": "凯蒂·佩里方回应鲁比·罗丝性侵指控",
-        "link": "https://www.ign.com/articles/katy-perry-rep-responds-to-ruby-rose-accusations",
-        "summary": "凯蒂·佩里代表发表措辞严厉声明，否认鲁比·罗丝提出的性侵指控。",
-        "comment": "名人间的指控与回应，真相有待法律厘清。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/14/gettyimages-633589492-1776159596694.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏资讯",
+        "tag": "游戏",
         "title": "Bethesda回应《星空》PS5崩溃问题",
         "link": "https://www.ign.com/articles/bethesda-responds-to-starfield-ps5-crashing-issues",
         "summary": "Bethesda表示已注意到部分玩家在PS5上运行《星空》时报告的崩溃问题，并将在本周晚些时候通过热修复解决。",
@@ -173,41 +193,11 @@
         "score": 91
       },
       {
-        "category": "游戏影视",
-        "tag": "漫威",
-        "title": "《夜魔侠：重生》片场照意外泄露",
-        "link": "https://www.ign.com/articles/potential-spoilers-for-daredevil-born-again",
-        "summary": "演员迈克·科尔特在社交媒体发布与黛博拉·安·沃尔、查理·考克斯的合影后迅速删除，疑似《夜魔侠：重生》片场照提前曝光。",
-        "comment": "漫威保密工作再遭挑战，粉丝热情反成剧透源头。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/13/luke-cage-1776123335241.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "GTA演员评论GTA6：现实比游戏更荒诞",
-        "link": "https://www.ign.com/articles/gta-actor-comments-on-gta-6",
-        "summary": "《GTA5》演员杰伊·克莱茨表示，由于现实世界已足够荒诞，他对《GTA6》的讽刺力度能否超越前作持保留态度。",
-        "comment": "现实与虚拟的边界正在模糊，这或许正是当代讽刺艺术的困境。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/13/grand-theft-auto-6-cal-1776112198715.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "麦当劳",
-        "title": "麦当劳美国将新增能量饮料和手工苏打水",
-        "link": "https://www.ign.com/articles/mcdonalds-expands-drinks-menu",
-        "summary": "麦当劳计划从下个月开始，在美国的菜单中增加能量饮料和手工苏打水，以丰富其饮品选择。",
-        "comment": "快餐巨头拓展饮品线，意在吸引更广泛的消费群体。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/14/mcdonalds-1776151871956.jpg",
-        "score": 91
-      },
-      {
         "category": "数码科技",
         "tag": "马斯克",
         "title": "马斯克版微信看点不在微信本身",
         "link": "https://www.ifanr.com/1662059?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨了马斯克构想的“超级应用”愿景，其核心看点在于整合支付、社交等功能的平台野心，而非简单复制微信。",
+        "summary": "文章探讨了马斯克打造“超级应用”的构想，其核心看点在于超越现有社交与支付功能的整合野心。",
         "comment": "超级应用构想宏大，但落地面临生态与监管双重挑战。",
         "image": "",
         "score": 88
@@ -217,8 +207,8 @@
         "tag": "数字排毒",
         "title": "数字排毒：消费主义下的自我救赎",
         "link": "https://www.ifanr.com/1661961?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨通过消费手段对抗消费主义，反思数字时代人们购买排毒产品以寻求解脱的现象。",
-        "comment": "讽刺现代人用消费解决消费主义问题的悖论。",
+        "summary": "文章探讨通过消费手段对抗消费主义，反思数字时代的生活方式与自我调节。",
+        "comment": "讽刺现代人用消费解决消费主义问题的矛盾循环。",
         "image": "",
         "score": 88
       },
@@ -233,44 +223,84 @@
         "score": 88
       },
       {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "《血源诅咒》电影版官宣，R级制作携手游戏主播",
+        "link": "https://www.gamespot.com/articles/after-eleven-years-bloodborne-is-finally-getting-the-movie-adaptation-it-deserves/1100-6539373/?ftag=CAD-01-10abi2f",
+        "summary": "索尼影业宣布制作《血源诅咒》电影版，定级R级，将与知名游戏主播Jacksepticeye合作。",
+        "comment": "经典魂系IP影视化，粉丝期待与改编风险并存。",
+        "image": "",
+        "score": 88
+      },
+      {
         "category": "时事热点",
         "tag": "移民政策",
         "title": "希腊警方被指雇佣蒙面移民强制遣返其他移民",
         "link": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
         "summary": "BBC调查发现，希腊警方自2020年起雇佣蒙面移民，在边境对移民进行非法的强制遣返行动。",
-        "comment": "欧盟边境管理面临人道与法律的双重拷问。",
+        "comment": "边境管理手段引发人道争议，欧盟移民政策面临考验。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "枪击案",
+        "tag": "土耳其",
         "title": "土耳其高中枪击案致16人受伤 前学生作案",
         "link": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
-        "summary": "土耳其东南部一所高中发生枪击案，一名前学生开枪导致16人受伤，伤者包括学生和教师。",
-        "comment": "校园安全漏洞再次引发社会担忧。",
+        "summary": "土耳其东南部一所高中发生枪击事件，一名前学生开枪导致包括师生在内的16人受伤。",
+        "comment": "校园安全再次因内部人员作案而受到严峻挑战。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "海地",
-        "title": "海地踩踏事件致25死，7名警察被捕",
-        "link": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
-        "summary": "海地拉费里埃城堡发生踩踏事件，造成25人死亡。调查正在进行中，已有7人被捕，其中包括警察。",
-        "comment": "悲剧暴露大型活动安全管理漏洞。",
+        "tag": "移民政策",
+        "title": "86岁法国女子赴美寻爱遭ICE拘留",
+        "link": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
+        "summary": "一名86岁法国女性为与失散多年的爱人团聚移居美国，现被移民与海关执法局拘留于路易斯安那州拘留中心，其子担忧母亲健康状况。",
+        "comment": "高龄跨国寻亲遭遇移民执法困境，凸显程序与人道关怀的冲突。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "跨国犯罪",
-        "title": "韩国90岁老妇因替子洗钱被判一年监禁",
-        "link": "https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&at_campaign=rss",
-        "summary": "一名90岁韩国女性因帮助在柬埔寨服刑的儿子清洗毒品犯罪所得，被判处一年有期徒刑。",
-        "comment": "高龄犯罪凸显跨境毒品资金链的隐蔽性与家庭卷入风险。",
+        "tag": "海地",
+        "title": "海地踩踏致25死，7名警察被捕",
+        "link": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
+        "summary": "海地拉费里埃城堡发生踩踏事件，造成25人死亡。当局已逮捕包括警察在内的7人，并展开调查。",
+        "comment": "大型活动安全管理再次敲响警钟。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "游戏影视",
+        "tag": "生化危机",
+        "title": "《生化危机》新电影追求沉浸式生存恐怖体验",
+        "link": "https://www.gamespot.com/articles/zach-creggers-resident-evil-movie-wants-you-to-feel-to-feel-like-youre-trapped-inside-it/1100-6539375/?ftag=CAD-01-10abi2f",
+        "summary": "导演扎克·克雷格表示，其执导的《生化危机》电影旨在让观众产生身临其境的被困感，打造纯粹的生存恐怖体验。",
+        "comment": "导演意图明确，但最终效果还需成片检验。",
         "image": "",
         "score": 84
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际时事",
+        "title": "喀麦隆分离武装宣布教皇访问期间暂停战斗",
+        "link": "https://www.bbc.com/news/articles/c1d993116q6o?at_medium=RSS&at_campaign=rss",
+        "summary": "喀麦隆英语区分离主义武装宣布，在教皇方济各访问期间暂停战斗，称此举体现了责任、克制和对人类尊严的尊重。",
+        "comment": "武装组织的单方面停火为教皇的和平使命创造了短暂窗口。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "时事热点",
+        "tag": "王室新闻",
+        "title": "哈里梅根澳大利亚之行与上次访问有何不同",
+        "link": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC记者分析哈里王子与梅根此次澳大利亚访问行程，对比两人上次访问的差异，包括行程安排与公众互动方式的变化。",
+        "comment": "王室成员海外访问细节变化反映其公众角色调整。",
+        "image": "",
+        "score": 83
       }
     ]
   },
@@ -279,11 +309,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "全球最大轨道计算集群投入运营，搭载40块GPU",
+        "tag": "太空计算",
+        "title": "全球最大轨道计算集群投入运营，搭载40颗GPU",
         "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-        "summary": "Kepler通信公司在地球轨道部署40块GPU组成计算集群，其最新客户为Sophia Space公司，标志着太空计算商业化迈出关键一步。",
-        "comment": "太空计算商业化进程加速，或将催生新的空间应用生态。",
+        "summary": "Kepler通信公司在地球轨道部署了40颗GPU，构成最大轨道计算集群，已为Sophia Space等客户提供服务。",
+        "comment": "太空计算商业化迈出关键一步，但成本与可靠性仍是挑战。",
         "image": "",
         "score": 100
       },
@@ -292,8 +322,8 @@
         "tag": "人工智能",
         "title": "微软研发企业级OpenClaw类AI代理，强化安全控制",
         "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-        "summary": "微软正开发面向企业客户的新AI代理，其安全控制优于开源且风险较高的OpenClaw代理，旨在满足企业级需求。",
-        "comment": "企业AI安全成竞争焦点，微软此举意在抢占高价值市场。",
+        "summary": "微软正为企业客户开发类似OpenClaw的AI代理，重点提升安全管控能力，以应对开源代理的固有风险。",
+        "comment": "企业市场安全需求驱动AI代理竞争升级。",
         "image": "",
         "score": 99
       },
@@ -313,29 +343,9 @@
         "title": "Vercel CEO暗示IPO准备就绪，AI代理推动收入激增",
         "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
         "summary": "成立十年的开发工具与网站托管平台Vercel，其CEO表示AI代理正推动公司收入大幅增长，并暗示已为IPO做好准备。",
-        "comment": "AI浪潮下，老牌技术公司正通过转型抓住新机遇。",
+        "comment": "AI浪潮下，老牌技术公司成功转型的典型案例。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI PC",
-        "title": "荣耀发布自研AI智能体YOYO Claw，首发搭载于MagicBook",
-        "link": "https://36kr.com/p/3765331768967686?f=rss",
-        "summary": "荣耀正式发布终端侧AI智能体YOYO Claw，将首发于MagicBook系列轻薄本。该智能体是荣耀“龙虾宇宙”计划的第一步，具备控虾、生态养虾、安全养虾三大能力，已于3月开启封测。",
-        "comment": "荣耀以“养虾”为概念切入AI PC赛道，策略新颖但实际效果待市场检验。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "工业机器人",
-        "title": "图速科技发布三款具身智能打磨新品，效率达人工3-4倍",
-        "link": "https://36kr.com/p/3765207394009602?f=rss",
-        "summary": "图速科技发布砺眸具身智能平台、图御2.0路径规划系统及图匠打磨机器人三款新品，其全栈自研的打磨机器人效率为人工3-4倍，瞄准工业打磨自动化拐点。",
-        "comment": "全栈自研方案有望实质性推动工业打磨环节的自动化升级。",
-        "image": "",
-        "score": 96
       },
       {
         "category": "数码科技",
@@ -344,6 +354,26 @@
         "link": "https://36kr.com/p/3765146768376326?f=rss",
         "summary": "马斯克旗下X平台或于本周五上线支付功能，Meta正开发AI数字人项目。金山办公一季度净利润预增超400%，沪电股份预增超50%。",
         "comment": "科技巨头在AI与社交支付领域竞争加剧。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI PC",
+        "title": "荣耀发布自研AI智能体YOYO Claw，首发搭载于MagicBook",
+        "link": "https://36kr.com/p/3765331768967686?f=rss",
+        "summary": "荣耀正式发布终端侧AI智能体YOYO Claw，将首发于MagicBook系列轻薄本。该智能体是荣耀“龙虾宇宙”计划的第一步，具备控虾、生态养虾、安全养虾三大能力，已于3月开启封测。",
+        "comment": "荣耀以“养虾”为喻布局AI PC生态，策略新颖但实际体验待验证。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "工业机器人",
+        "title": "图速科技发布三款具身智能打磨新品，效率达人工3-4倍",
+        "link": "https://36kr.com/p/3765207394009602?f=rss",
+        "summary": "图速科技发布砺眸具身智能平台、图御2.0在线路径规划系统及图匠打磨机器人三款新品，其自研机器人打磨效率为人工3-4倍，旨在革新依赖人工经验的工业打磨工序。",
+        "comment": "具身智能在工业打磨场景落地，显示AI+制造正从感知走向实际作业。",
         "image": "",
         "score": 96
       },
@@ -358,122 +388,32 @@
         "score": 93
       },
       {
-        "category": "游戏影视",
-        "tag": "电影票房",
-        "title": "《超级马里奥银河》电影全球票房破6亿美元，成2026年好莱坞冠军",
-        "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-opens-huge-but-not-expected-to-beat-the-2023-movie/1100-6539174/?ftag=CAD-01-10abi2f",
-        "summary": "《超级马里奥银河》电影北美票房3.08亿美元，海外票房3.21亿美元，全球累计突破6亿美元，成为2026年迄今票房最高的好莱坞电影。",
-        "comment": "经典游戏IP改编电影再次证明其强大的全球票房号召力。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676651-mariomovie.jpg",
-        "score": 93
-      },
-      {
         "category": "数码科技",
         "tag": "人工智能",
         "title": "马斯克版微信亮相App Store，宇树机器人跑步刷新纪录",
         "link": "https://www.ifanr.com/1661898?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "马斯克旗下X平台应用上架App Store，周五开放下载；宇树科技人形机器人跑步速度创纪录，创始人称年内将超越博尔特；海底捞回应员工自费买礼物事件。",
-        "comment": "科技巨头跨界竞争与机器人突破性进展并存。",
+        "summary": "马斯克旗下X平台应用上架App Store；宇树科技人形机器人跑步速度创纪录，创始人称年内将超越博尔特；海底捞回应员工自费买礼物事件。",
+        "comment": "科技巨头与机器人领域同日展现突破性进展。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox CEO承认Game Pass定价过高，承诺将调整",
-        "link": "https://www.gamespot.com/articles/game-pass-is-too-expensive-and-it-will-change-xbox-ceo-says/1100-6539369/?ftag=CAD-01-10abi2f",
-        "summary": "微软游戏新CEO Asha Sharma坦言Xbox Game Pass对玩家而言已过于昂贵，并承诺将进行调整以提供更好的价值。",
-        "comment": "订阅制服务面临定价与用户增长的平衡挑战。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4681148-xboxsphere.jpeg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏泄露",
-        "title": "国际评级机构意外泄露《007 First Light》等多款游戏剧情",
-        "link": "https://www.gamespot.com/articles/huge-spoilers-leaked-for-007-first-light-and-other-games-in-an-unusual-way/1100-6539368/?ftag=CAD-01-10abi2f",
-        "summary": "国际评级机构意外泄露多款未发售游戏的剧情细节，包括5月底上市的詹姆斯·邦德游戏《007 First Light》。",
-        "comment": "评级流程需加强保密措施，避免损害玩家体验。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4681147-screenshot2026-04-13at1.39.21%E2%80%AFpm.png",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《魔兽世界》私服Turtle WoW收到禁令",
-        "link": "https://www.gamespot.com/articles/popular-world-of-warcraft-private-server-turtle-wow-ordered-to-cease-and-desist/1100-6539367/?ftag=CAD-01-10abi2f",
-        "summary": "暴雪与《魔兽世界》知名私服Turtle WoW达成保密和解，该私服将停止运营。",
-        "comment": "暴雪持续打击私服，维护版权与官方生态。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4681136-blizzardwinsturtlewowlawsuit.jpg",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "视频制作",
-        "title": "Vidu Q3发布，提升漫剧短剧影视广告制作效率",
-        "link": "https://www.ifanr.com/1661883?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Vidu Q3推出，主打出片即交付，提升漫剧、短剧及影视广告制作效率。",
-        "comment": "工具迭代加速内容生产，但创意仍是核心。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏促销",
-        "title": "Humble推出含实体书的Pathfinder 2E捆绑包",
-        "link": "https://www.gamespot.com/articles/humbles-massive-pathfinder-2e-bundle-includes-a-physical-book/1100-6539372/?ftag=CAD-01-10abi2f",
-        "summary": "Humble Bundle推出大型Pathfinder第二版捆绑包，包含核心规则书、扩展内容及数字资源，并赠送实体核心规则书，为桌面角色扮演游戏玩家提供超值合集。",
-        "comment": "捆绑包性价比极高，是玩家入坑或扩展收藏的良机。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4681205-pf2e.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤》幽灵角色现身芬达广告，引发2026新作猜测",
-        "link": "https://www.gamespot.com/articles/call-of-dutys-iconic-ghost-shows-up-in-new-fanta-ad-making-people-wonder-about-2026s-call-of-duty/1100-6539370/?ftag=CAD-01-10abi2f",
-        "summary": "《使命召唤》标志性角色“幽灵”出现在芬达新广告中，结合Infinity Ward将开发新《现代战争》的传闻，引发玩家对2026年系列新作的联想。",
-        "comment": "商业联动成为游戏宣发的前哨，营销策略值得关注。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4681151-screenshot2026-04-13at2.33.42%E2%80%AFpm.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏发行",
-        "title": "多款《战锤》游戏突袭登陆Steam平台",
-        "link": "https://www.gamespot.com/articles/a-ton-of-warhammer-games-just-surprise-dropped-on-steam/1100-6539341/?ftag=CAD-01-10abi2f",
-        "summary": "包括《战锤》奇幻与《战锤40K》系列在内，大量此前从未登陆或曾被下架的游戏作品，现以合集形式在Steam平台集中上架。",
-        "comment": "经典IP集中回归，为玩家提供了便捷的补票渠道。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15971423/4680322-whc_bundle1232x706.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏捆绑包",
-        "title": "Fanatical推出自选游戏捆绑包，含20款跨类型游戏",
-        "link": "https://www.gamespot.com/articles/this-months-build-your-own-fanatical-favorites-bundle-has-20-games-from-all-different-genres-to-pick-from/1100-6539365/?ftag=CAD-01-10abi2f",
-        "summary": "Fanatical推出Build Your Own Fanatical Favorites捆绑包，包含20款涵盖多种类型的游戏供玩家自选，为BundleFest 2026活动的一部分。",
-        "comment": "游戏捆绑包提供多样化选择，适合不同口味玩家。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4681207-06649511-db13-4935-8f02-a088be6f1629%281%29.jpeg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏争议",
-        "title": "《Pickmon》更名《Pickmos》仍被指酷似《宝可梦》",
-        "link": "https://www.gamespot.com/articles/pickmon-not-to-be-confused-with-pokemon-changes-its-name-but-still-looks-a-lot-like-pokemon/1100-6539364/?ftag=CAD-01-10abi2f",
-        "summary": "游戏《Pickmon》开发商宣布将游戏名改为《Pickmos》，仅替换一个辅音字母，但游戏画面和玩法仍被指与《宝可梦》高度相似。",
-        "comment": "换名不换皮，山寨争议难消。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4681117-pickmos.jpg",
-        "score": 89
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "Apple Vision Pro转向影视应用，未终结",
+        "title": "Apple Vision Pro转向影视应用，工程问题待解",
         "link": "https://www.ifanr.com/1662019?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章指出Apple Vision Pro的发展重心从解决工程问题转向探索影视内容应用，而非产品失败。",
-        "comment": "从硬件攻坚到内容破局，是XR设备必经之路。",
+        "summary": "Apple Vision Pro面临工程挑战，现转向影视领域寻求突破，关注应用场景拓展。",
+        "comment": "战略调整显示苹果在AR领域仍处探索阶段。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "Vidu Q3发布，提升漫剧短剧影视广告制作效率",
+        "link": "https://www.ifanr.com/1661883?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Vidu Q3推出，强调出片即交付，提升内容制作效率，适用于漫剧、短剧及广告领域。",
+        "comment": "工具升级有望推动短内容行业降本增效。",
         "image": "",
         "score": 88
       },
@@ -482,28 +422,48 @@
         "tag": "医疗安全",
         "title": "巴基斯坦医院被曝重复使用注射器致儿童HIV感染",
         "link": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC暗访视频显示巴基斯坦某医院医护人员未戴手套注射并重复使用注射器，院方拒绝承认视频真实性。该医院此前已被确认为儿童HIV感染暴发中心。",
+        "summary": "BBC暗访视频显示巴基斯坦某医院医护人员未戴手套注射并重复使用注射器，院方拒绝承认视频真实性。该医院此前已被确认为儿童HIV聚集性感染中心。",
         "comment": "医疗安全漏洞触目惊心，监管体系亟待彻查。",
         "image": "",
         "score": 88
       },
       {
+        "category": "游戏影视",
+        "tag": "电影票房",
+        "title": "《超级马里奥银河》电影全球票房破6亿美元，成2026年好莱坞冠军",
+        "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-opens-huge-but-not-expected-to-beat-the-2023-movie/1100-6539174/?ftag=CAD-01-10abi2f",
+        "summary": "《超级马里奥银河》电影全球票房已突破6亿美元，成为2026年迄今票房最高的好莱坞电影。",
+        "comment": "马里奥IP持续展现强大票房号召力。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《魔兽世界》私服Turtle WoW收到禁令",
+        "link": "https://www.gamespot.com/articles/popular-world-of-warcraft-private-server-turtle-wow-ordered-to-cease-and-desist/1100-6539367/?ftag=CAD-01-10abi2f",
+        "summary": "暴雪娱乐已对热门《魔兽世界》私服Turtle WoW发出停止运营令，双方达成保密和解协议。",
+        "comment": "暴雪持续打击私服，维护版权与官方生态。",
+        "image": "",
+        "score": 87
+      },
+      {
         "category": "时事热点",
         "tag": "中东冲突",
-        "title": "黎巴嫩急救人员讲述以军空袭后城市现状",
+        "title": "黎巴嫩急救人员讲述以色列空袭下的工作状况",
         "link": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC记者跟随纳巴提耶市急救人员记录工作实况，该市曾繁荣现遭遗弃，医疗人员描述以军空袭后当地困境。",
-        "comment": "战地一线记录展现冲突对平民生活的直接冲击。",
+        "summary": "BBC记者跟随纳巴提耶市急救人员记录工作实况，该市曾繁荣现遭遗弃，报道呈现空袭后当地紧急救援场景。",
+        "comment": "战地一线记录，呈现冲突对平民救援体系的直接冲击。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "中东局势",
-        "title": "黎巴嫩政府寻求和平，但需先说服真主党",
+        "title": "黎巴嫩寻求和平，但需先说服真主党",
         "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-        "summary": "黎巴嫩政府启动和平谈判，但对真主党影响力有限，谈判进程面临挑战。",
-        "comment": "内部势力掣肘，和平之路依然崎岖。",
+        "summary": "黎巴嫩政府开启和平谈判，但对真主党影响力有限，谈判进程面临挑战。",
+        "comment": "地区和平进程受制于非国家武装力量。",
         "image": "",
         "score": 86
       },
@@ -518,24 +478,64 @@
         "score": 86
       },
       {
-        "category": "时事热点",
-        "tag": "国际关系",
-        "title": "意大利总理谴责特朗普对教皇的批评",
-        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-        "summary": "意大利总理与美国前总统特朗普是盟友，但特朗普拒绝为批评教皇利奥十四世“非常软弱”而道歉。",
-        "comment": "盟友关系因宗教言论出现裂痕，凸显西方政治联盟的复杂性。",
+        "category": "游戏影视",
+        "tag": "Xbox",
+        "title": "Xbox CEO承认Game Pass定价过高，承诺调整",
+        "link": "https://www.gamespot.com/articles/game-pass-is-too-expensive-and-it-will-change-xbox-ceo-says/1100-6539369/?ftag=CAD-01-10abi2f",
+        "summary": "Xbox新任CEO Asha Sharma表示Game Pass订阅服务“已变得过于昂贵”，她希望为玩家创造“更具性价比的方案”。",
+        "comment": "直面定价问题，是服务模式回归理性的信号。",
         "image": "",
-        "score": 86
+        "score": 85
       },
       {
-        "category": "时事热点",
-        "tag": "王室新闻",
-        "title": "澳大利亚民众对哈里梅根访问反应平淡",
-        "link": "https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC在悉尼采访当地民众，多数人对哈里王子与梅根的访问行程表示不关心或不知情。",
-        "comment": "王室成员海外访问的公众关注度正逐渐减弱。",
+        "category": "游戏影视",
+        "tag": "游戏泄露",
+        "title": "《007：第一道光》等多款游戏剧情遭大规模泄露",
+        "link": "https://www.gamespot.com/articles/huge-spoilers-leaked-for-007-first-light-and-other-games-in-an-unusual-way/1100-6539368/?ftag=CAD-01-10abi2f",
+        "summary": "GameSpot报道，包括詹姆斯·邦德新作在内的多款游戏剧情细节通过非寻常方式被大规模泄露，玩家需警惕剧透风险。",
+        "comment": "泄露事件频发，游戏行业保密机制面临考验。",
         "image": "",
-        "score": 82
+        "score": 85
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏促销",
+        "title": "Humble推出含实体书的Pathfinder 2E捆绑包",
+        "link": "https://www.gamespot.com/articles/humbles-massive-pathfinder-2e-bundle-includes-a-physical-book/1100-6539372/?ftag=CAD-01-10abi2f",
+        "summary": "Humble Bundle推出《开拓者》第二版捆绑包，除大量数字内容外还包含实体核心规则书，为桌面角色扮演游戏玩家提供超值组合。",
+        "comment": "实体与数字内容结合，提升了捆绑包的收藏价值。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "游戏影视",
+        "tag": "使命召唤",
+        "title": "《使命召唤》幽灵角色现身芬达广告，引发新作猜测",
+        "link": "https://www.gamespot.com/articles/call-of-dutys-iconic-ghost-shows-up-in-new-fanta-ad-making-people-wonder-about-2026s-call-of-duty/1100-6539370/?ftag=CAD-01-10abi2f",
+        "summary": "《使命召唤》标志性角色“幽灵”出现在芬达新广告中，引发玩家对2026年系列新作或为《现代战争4》的猜测。",
+        "comment": "跨界营销引发猜测，但需等待官方正式公布。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "多款《战锤》游戏突袭登陆Steam平台",
+        "link": "https://www.gamespot.com/articles/a-ton-of-warhammer-games-just-surprise-dropped-on-steam/1100-6539341/?ftag=CAD-01-10abi2f",
+        "summary": "包括《战锤40K：星际战士》在内的多款《战锤》系列游戏在Steam平台突然上架，其中七款为首次登陆该平台。",
+        "comment": "经典IP集中登陆，为玩家提供了便捷的获取渠道。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏促销",
+        "title": "Fanatical游戏捆绑包本月上线，含20款跨类型游戏",
+        "link": "https://www.gamespot.com/articles/this-months-build-your-own-fanatical-favorites-bundle-has-20-games-from-all-different-genres-to-pick-from/1100-6539365/?ftag=CAD-01-10abi2f",
+        "summary": "Fanatical平台推出本月自选游戏捆绑包，包含《失忆症：地堡》等20款跨类型游戏，玩家可按需组合购买。",
+        "comment": "捆绑包选择丰富，适合喜欢尝试多种类型的玩家。",
+        "image": "",
+        "score": 84
       }
     ]
   },
@@ -547,18 +547,18 @@
         "tag": "人工智能",
         "title": "特朗普政府或鼓励银行测试Anthropic的Mythos模型",
         "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-        "summary": "报道称特朗普政府可能鼓励银行测试Anthropic的Mythos模型，这与国防部近期将其列为供应链风险的决定相悖。",
-        "comment": "政策立场出现矛盾，反映AI监管的复杂性。",
+        "summary": "报道称特朗普政府官员可能鼓励银行测试Anthropic的Mythos模型，此前国防部曾将该公司列为供应链风险。",
+        "comment": "政策风向与安全评估出现矛盾，值得关注。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "苹果",
-        "title": "苹果测试四款智能眼镜设计，项目规模缩减",
+        "title": "苹果测试四款智能眼镜设计，计划从混合现实转向",
         "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-        "summary": "苹果正测试四款智能眼镜设计，该项目已从最初计划推出多款混合与增强现实设备的宏大愿景中缩减。",
-        "comment": "苹果AR战略趋于务实，但产品落地仍面临挑战。",
+        "summary": "据报道，苹果正在测试四款智能眼镜设计，这标志着其从最初雄心勃勃的混合与增强现实设备系列计划中有所收缩。",
+        "comment": "苹果产品策略趋于务实，聚焦核心形态。",
         "image": "",
         "score": 99
       },
@@ -577,8 +577,8 @@
         "tag": "人工智能",
         "title": "HumanX大会上Claude成焦点话题",
         "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-        "summary": "在旧金山以AI为中心的大会上，Anthropic公司及其Claude模型成为全场讨论的焦点，显示出行业对该技术的关注度。",
-        "comment": "Claude正成为AI领域的重要竞争者。",
+        "summary": "在旧金山以AI为中心的HumanX大会上，Anthropic公司及其Claude模型成为全场讨论的焦点。",
+        "comment": "行业会议风向反映AI竞争格局变化。",
         "image": "",
         "score": 96
       },
@@ -587,7 +587,7 @@
         "tag": "人工智能",
         "title": "DeepSeek应卸下低调枷锁，直面竞争",
         "link": "https://www.ifanr.com/1661836?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章认为DeepSeek作为AI公司过于低调，如同扫地僧般隐藏实力，在激烈竞争中应更主动展示技术优势。",
+        "summary": "文章认为DeepSeek作为AI公司过于低调，如同扫地僧般隐藏实力，现在应卸下这种束缚，更主动参与市场竞争。",
         "comment": "技术实力需要匹配市场声量，过度低调可能错失发展机遇。",
         "image": "",
         "score": 88
@@ -602,8 +602,8 @@
         "tag": "人工智能",
         "title": "奥特曼回应《纽约客》文章及住所遇袭事件",
         "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-        "summary": "OpenAI CEO 山姆·奥特曼发表博客，回应《纽约客》质疑其可信度的深度报道，同时提及住所近期遭遇不明袭击。",
-        "comment": "AI领军人物陷入舆论与安全双重风波。",
+        "summary": "OpenAI CEO 山姆·奥特曼通过博客回应《纽约客》对其可信度的质疑报道，同时提及住所近期遭遇不明袭击。",
+        "comment": "科技领袖的公众形象与安全风险同时成为焦点。",
         "image": "",
         "score": 99
       },
@@ -612,8 +612,8 @@
         "tag": "人工智能",
         "title": "奥特曼家遭燃烧瓶袭击后发长文回应AI恐惧",
         "link": "https://www.ifanr.com/1661837?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenAI CEO山姆·奥特曼住宅遭燃烧瓶袭击，其发表长文回应公众对人工智能的担忧与恐惧情绪。",
-        "comment": "技术领袖直面社会焦虑，但安全威胁需严肃对待。",
+        "summary": "OpenAI CEO山姆·奥特曼住宅遭燃烧瓶袭击后，发表长文回应公众对人工智能的恐惧与担忧。",
+        "comment": "AI发展引发的社会焦虑已演变为极端行为。",
         "image": "",
         "score": 92
       }

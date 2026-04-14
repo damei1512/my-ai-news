@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "全球最大轨道计算集群投入运营，搭载40块GPU",
+        "tag": "太空计算",
+        "title": "全球最大轨道计算集群投入运营，搭载40颗GPU",
         "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-        "summary": "Kepler通信公司在地球轨道部署40块GPU组成计算集群，其最新客户为Sophia Space公司，标志着太空计算商业化迈出关键一步。",
-        "comment": "太空计算商业化进程加速，或将催生新的空间应用生态。",
+        "summary": "Kepler通信公司在地球轨道部署了40颗GPU，构成最大轨道计算集群，已为Sophia Space等客户提供服务。",
+        "comment": "太空计算商业化迈出关键一步，但成本与可靠性仍是挑战。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "人工智能",
         "title": "微软研发企业级OpenClaw类AI代理，强化安全控制",
         "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-        "summary": "微软正开发面向企业客户的新AI代理，其安全控制优于开源且风险较高的OpenClaw代理，旨在满足企业级需求。",
-        "comment": "企业AI安全成竞争焦点，微软此举意在抢占高价值市场。",
+        "summary": "微软正为企业客户开发类似OpenClaw的AI代理，重点提升安全管控能力，以应对开源代理的固有风险。",
+        "comment": "企业市场安全需求驱动AI代理竞争升级。",
         "image": "",
         "score": 99
       },
@@ -38,29 +38,9 @@
         "title": "Vercel CEO暗示IPO准备就绪，AI代理推动收入激增",
         "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
         "summary": "成立十年的开发工具与网站托管平台Vercel，其CEO表示AI代理正推动公司收入大幅增长，并暗示已为IPO做好准备。",
-        "comment": "AI浪潮下，老牌技术公司正通过转型抓住新机遇。",
+        "comment": "AI浪潮下，老牌技术公司成功转型的典型案例。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI PC",
-        "title": "荣耀发布自研AI智能体YOYO Claw，首发搭载于MagicBook",
-        "link": "https://36kr.com/p/3765331768967686?f=rss",
-        "summary": "荣耀正式发布终端侧AI智能体YOYO Claw，将首发于MagicBook系列轻薄本。该智能体是荣耀“龙虾宇宙”计划的第一步，具备控虾、生态养虾、安全养虾三大能力，已于3月开启封测。",
-        "comment": "荣耀以“养虾”为概念切入AI PC赛道，策略新颖但实际效果待市场检验。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "工业机器人",
-        "title": "图速科技发布三款具身智能打磨新品，效率达人工3-4倍",
-        "link": "https://36kr.com/p/3765207394009602?f=rss",
-        "summary": "图速科技发布砺眸具身智能平台、图御2.0路径规划系统及图匠打磨机器人三款新品，其全栈自研的打磨机器人效率为人工3-4倍，瞄准工业打磨自动化拐点。",
-        "comment": "全栈自研方案有望实质性推动工业打磨环节的自动化升级。",
-        "image": "",
-        "score": 96
       },
       {
         "category": "数码科技",
@@ -69,6 +49,26 @@
         "link": "https://36kr.com/p/3765146768376326?f=rss",
         "summary": "马斯克旗下X平台或于本周五上线支付功能，Meta正开发AI数字人项目。金山办公一季度净利润预增超400%，沪电股份预增超50%。",
         "comment": "科技巨头在AI与社交支付领域竞争加剧。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI PC",
+        "title": "荣耀发布自研AI智能体YOYO Claw，首发搭载于MagicBook",
+        "link": "https://36kr.com/p/3765331768967686?f=rss",
+        "summary": "荣耀正式发布终端侧AI智能体YOYO Claw，将首发于MagicBook系列轻薄本。该智能体是荣耀“龙虾宇宙”计划的第一步，具备控虾、生态养虾、安全养虾三大能力，已于3月开启封测。",
+        "comment": "荣耀以“养虾”为喻布局AI PC生态，策略新颖但实际体验待验证。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "工业机器人",
+        "title": "图速科技发布三款具身智能打磨新品，效率达人工3-4倍",
+        "link": "https://36kr.com/p/3765207394009602?f=rss",
+        "summary": "图速科技发布砺眸具身智能平台、图御2.0在线路径规划系统及图匠打磨机器人三款新品，其自研机器人打磨效率为人工3-4倍，旨在革新依赖人工经验的工业打磨工序。",
+        "comment": "具身智能在工业打磨场景落地，显示AI+制造正从感知走向实际作业。",
         "image": "",
         "score": 96
       },
@@ -83,122 +83,32 @@
         "score": 93
       },
       {
-        "category": "游戏影视",
-        "tag": "电影票房",
-        "title": "《超级马里奥银河》电影全球票房破6亿美元，成2026年好莱坞冠军",
-        "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-opens-huge-but-not-expected-to-beat-the-2023-movie/1100-6539174/?ftag=CAD-01-10abi2f",
-        "summary": "《超级马里奥银河》电影北美票房3.08亿美元，海外票房3.21亿美元，全球累计突破6亿美元，成为2026年迄今票房最高的好莱坞电影。",
-        "comment": "经典游戏IP改编电影再次证明其强大的全球票房号召力。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4676651-mariomovie.jpg",
-        "score": 93
-      },
-      {
         "category": "数码科技",
         "tag": "人工智能",
         "title": "马斯克版微信亮相App Store，宇树机器人跑步刷新纪录",
         "link": "https://www.ifanr.com/1661898?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "马斯克旗下X平台应用上架App Store，周五开放下载；宇树科技人形机器人跑步速度创纪录，创始人称年内将超越博尔特；海底捞回应员工自费买礼物事件。",
-        "comment": "科技巨头跨界竞争与机器人突破性进展并存。",
+        "summary": "马斯克旗下X平台应用上架App Store；宇树科技人形机器人跑步速度创纪录，创始人称年内将超越博尔特；海底捞回应员工自费买礼物事件。",
+        "comment": "科技巨头与机器人领域同日展现突破性进展。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox CEO承认Game Pass定价过高，承诺将调整",
-        "link": "https://www.gamespot.com/articles/game-pass-is-too-expensive-and-it-will-change-xbox-ceo-says/1100-6539369/?ftag=CAD-01-10abi2f",
-        "summary": "微软游戏新CEO Asha Sharma坦言Xbox Game Pass对玩家而言已过于昂贵，并承诺将进行调整以提供更好的价值。",
-        "comment": "订阅制服务面临定价与用户增长的平衡挑战。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4681148-xboxsphere.jpeg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏泄露",
-        "title": "国际评级机构意外泄露《007 First Light》等多款游戏剧情",
-        "link": "https://www.gamespot.com/articles/huge-spoilers-leaked-for-007-first-light-and-other-games-in-an-unusual-way/1100-6539368/?ftag=CAD-01-10abi2f",
-        "summary": "国际评级机构意外泄露多款未发售游戏的剧情细节，包括5月底上市的詹姆斯·邦德游戏《007 First Light》。",
-        "comment": "评级流程需加强保密措施，避免损害玩家体验。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4681147-screenshot2026-04-13at1.39.21%E2%80%AFpm.png",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《魔兽世界》私服Turtle WoW收到禁令",
-        "link": "https://www.gamespot.com/articles/popular-world-of-warcraft-private-server-turtle-wow-ordered-to-cease-and-desist/1100-6539367/?ftag=CAD-01-10abi2f",
-        "summary": "暴雪与《魔兽世界》知名私服Turtle WoW达成保密和解，该私服将停止运营。",
-        "comment": "暴雪持续打击私服，维护版权与官方生态。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4681136-blizzardwinsturtlewowlawsuit.jpg",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "视频制作",
-        "title": "Vidu Q3发布，提升漫剧短剧影视广告制作效率",
-        "link": "https://www.ifanr.com/1661883?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Vidu Q3推出，主打出片即交付，提升漫剧、短剧及影视广告制作效率。",
-        "comment": "工具迭代加速内容生产，但创意仍是核心。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏促销",
-        "title": "Humble推出含实体书的Pathfinder 2E捆绑包",
-        "link": "https://www.gamespot.com/articles/humbles-massive-pathfinder-2e-bundle-includes-a-physical-book/1100-6539372/?ftag=CAD-01-10abi2f",
-        "summary": "Humble Bundle推出大型Pathfinder第二版捆绑包，包含核心规则书、扩展内容及数字资源，并赠送实体核心规则书，为桌面角色扮演游戏玩家提供超值合集。",
-        "comment": "捆绑包性价比极高，是玩家入坑或扩展收藏的良机。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4681205-pf2e.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤》幽灵角色现身芬达广告，引发2026新作猜测",
-        "link": "https://www.gamespot.com/articles/call-of-dutys-iconic-ghost-shows-up-in-new-fanta-ad-making-people-wonder-about-2026s-call-of-duty/1100-6539370/?ftag=CAD-01-10abi2f",
-        "summary": "《使命召唤》标志性角色“幽灵”出现在芬达新广告中，结合Infinity Ward将开发新《现代战争》的传闻，引发玩家对2026年系列新作的联想。",
-        "comment": "商业联动成为游戏宣发的前哨，营销策略值得关注。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4681151-screenshot2026-04-13at2.33.42%E2%80%AFpm.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏发行",
-        "title": "多款《战锤》游戏突袭登陆Steam平台",
-        "link": "https://www.gamespot.com/articles/a-ton-of-warhammer-games-just-surprise-dropped-on-steam/1100-6539341/?ftag=CAD-01-10abi2f",
-        "summary": "包括《战锤》奇幻与《战锤40K》系列在内，大量此前从未登陆或曾被下架的游戏作品，现以合集形式在Steam平台集中上架。",
-        "comment": "经典IP集中回归，为玩家提供了便捷的补票渠道。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15971423/4680322-whc_bundle1232x706.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏捆绑包",
-        "title": "Fanatical推出自选游戏捆绑包，含20款跨类型游戏",
-        "link": "https://www.gamespot.com/articles/this-months-build-your-own-fanatical-favorites-bundle-has-20-games-from-all-different-genres-to-pick-from/1100-6539365/?ftag=CAD-01-10abi2f",
-        "summary": "Fanatical推出Build Your Own Fanatical Favorites捆绑包，包含20款涵盖多种类型的游戏供玩家自选，为BundleFest 2026活动的一部分。",
-        "comment": "游戏捆绑包提供多样化选择，适合不同口味玩家。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4681207-06649511-db13-4935-8f02-a088be6f1629%281%29.jpeg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏争议",
-        "title": "《Pickmon》更名《Pickmos》仍被指酷似《宝可梦》",
-        "link": "https://www.gamespot.com/articles/pickmon-not-to-be-confused-with-pokemon-changes-its-name-but-still-looks-a-lot-like-pokemon/1100-6539364/?ftag=CAD-01-10abi2f",
-        "summary": "游戏《Pickmon》开发商宣布将游戏名改为《Pickmos》，仅替换一个辅音字母，但游戏画面和玩法仍被指与《宝可梦》高度相似。",
-        "comment": "换名不换皮，山寨争议难消。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4681117-pickmos.jpg",
-        "score": 89
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "Apple Vision Pro转向影视应用，未终结",
+        "title": "Apple Vision Pro转向影视应用，工程问题待解",
         "link": "https://www.ifanr.com/1662019?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章指出Apple Vision Pro的发展重心从解决工程问题转向探索影视内容应用，而非产品失败。",
-        "comment": "从硬件攻坚到内容破局，是XR设备必经之路。",
+        "summary": "Apple Vision Pro面临工程挑战，现转向影视领域寻求突破，关注应用场景拓展。",
+        "comment": "战略调整显示苹果在AR领域仍处探索阶段。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "Vidu Q3发布，提升漫剧短剧影视广告制作效率",
+        "link": "https://www.ifanr.com/1661883?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Vidu Q3推出，强调出片即交付，提升内容制作效率，适用于漫剧、短剧及广告领域。",
+        "comment": "工具升级有望推动短内容行业降本增效。",
         "image": "",
         "score": 88
       },
@@ -207,28 +117,48 @@
         "tag": "医疗安全",
         "title": "巴基斯坦医院被曝重复使用注射器致儿童HIV感染",
         "link": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC暗访视频显示巴基斯坦某医院医护人员未戴手套注射并重复使用注射器，院方拒绝承认视频真实性。该医院此前已被确认为儿童HIV感染暴发中心。",
+        "summary": "BBC暗访视频显示巴基斯坦某医院医护人员未戴手套注射并重复使用注射器，院方拒绝承认视频真实性。该医院此前已被确认为儿童HIV聚集性感染中心。",
         "comment": "医疗安全漏洞触目惊心，监管体系亟待彻查。",
         "image": "",
         "score": 88
       },
       {
+        "category": "游戏影视",
+        "tag": "电影票房",
+        "title": "《超级马里奥银河》电影全球票房破6亿美元，成2026年好莱坞冠军",
+        "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-opens-huge-but-not-expected-to-beat-the-2023-movie/1100-6539174/?ftag=CAD-01-10abi2f",
+        "summary": "《超级马里奥银河》电影全球票房已突破6亿美元，成为2026年迄今票房最高的好莱坞电影。",
+        "comment": "马里奥IP持续展现强大票房号召力。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《魔兽世界》私服Turtle WoW收到禁令",
+        "link": "https://www.gamespot.com/articles/popular-world-of-warcraft-private-server-turtle-wow-ordered-to-cease-and-desist/1100-6539367/?ftag=CAD-01-10abi2f",
+        "summary": "暴雪娱乐已对热门《魔兽世界》私服Turtle WoW发出停止运营令，双方达成保密和解协议。",
+        "comment": "暴雪持续打击私服，维护版权与官方生态。",
+        "image": "",
+        "score": 87
+      },
+      {
         "category": "时事热点",
         "tag": "中东冲突",
-        "title": "黎巴嫩急救人员讲述以军空袭后城市现状",
+        "title": "黎巴嫩急救人员讲述以色列空袭下的工作状况",
         "link": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC记者跟随纳巴提耶市急救人员记录工作实况，该市曾繁荣现遭遗弃，医疗人员描述以军空袭后当地困境。",
-        "comment": "战地一线记录展现冲突对平民生活的直接冲击。",
+        "summary": "BBC记者跟随纳巴提耶市急救人员记录工作实况，该市曾繁荣现遭遗弃，报道呈现空袭后当地紧急救援场景。",
+        "comment": "战地一线记录，呈现冲突对平民救援体系的直接冲击。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "中东局势",
-        "title": "黎巴嫩政府寻求和平，但需先说服真主党",
+        "title": "黎巴嫩寻求和平，但需先说服真主党",
         "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-        "summary": "黎巴嫩政府启动和平谈判，但对真主党影响力有限，谈判进程面临挑战。",
-        "comment": "内部势力掣肘，和平之路依然崎岖。",
+        "summary": "黎巴嫩政府开启和平谈判，但对真主党影响力有限，谈判进程面临挑战。",
+        "comment": "地区和平进程受制于非国家武装力量。",
         "image": "",
         "score": 86
       },
@@ -243,24 +173,64 @@
         "score": 86
       },
       {
-        "category": "时事热点",
-        "tag": "国际关系",
-        "title": "意大利总理谴责特朗普对教皇的批评",
-        "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-        "summary": "意大利总理与美国前总统特朗普是盟友，但特朗普拒绝为批评教皇利奥十四世“非常软弱”而道歉。",
-        "comment": "盟友关系因宗教言论出现裂痕，凸显西方政治联盟的复杂性。",
+        "category": "游戏影视",
+        "tag": "Xbox",
+        "title": "Xbox CEO承认Game Pass定价过高，承诺调整",
+        "link": "https://www.gamespot.com/articles/game-pass-is-too-expensive-and-it-will-change-xbox-ceo-says/1100-6539369/?ftag=CAD-01-10abi2f",
+        "summary": "Xbox新任CEO Asha Sharma表示Game Pass订阅服务“已变得过于昂贵”，她希望为玩家创造“更具性价比的方案”。",
+        "comment": "直面定价问题，是服务模式回归理性的信号。",
         "image": "",
-        "score": 86
+        "score": 85
       },
       {
-        "category": "时事热点",
-        "tag": "王室新闻",
-        "title": "澳大利亚民众对哈里梅根访问反应平淡",
-        "link": "https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC在悉尼采访当地民众，多数人对哈里王子与梅根的访问行程表示不关心或不知情。",
-        "comment": "王室成员海外访问的公众关注度正逐渐减弱。",
+        "category": "游戏影视",
+        "tag": "游戏泄露",
+        "title": "《007：第一道光》等多款游戏剧情遭大规模泄露",
+        "link": "https://www.gamespot.com/articles/huge-spoilers-leaked-for-007-first-light-and-other-games-in-an-unusual-way/1100-6539368/?ftag=CAD-01-10abi2f",
+        "summary": "GameSpot报道，包括詹姆斯·邦德新作在内的多款游戏剧情细节通过非寻常方式被大规模泄露，玩家需警惕剧透风险。",
+        "comment": "泄露事件频发，游戏行业保密机制面临考验。",
         "image": "",
-        "score": 82
+        "score": 85
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏促销",
+        "title": "Humble推出含实体书的Pathfinder 2E捆绑包",
+        "link": "https://www.gamespot.com/articles/humbles-massive-pathfinder-2e-bundle-includes-a-physical-book/1100-6539372/?ftag=CAD-01-10abi2f",
+        "summary": "Humble Bundle推出《开拓者》第二版捆绑包，除大量数字内容外还包含实体核心规则书，为桌面角色扮演游戏玩家提供超值组合。",
+        "comment": "实体与数字内容结合，提升了捆绑包的收藏价值。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "游戏影视",
+        "tag": "使命召唤",
+        "title": "《使命召唤》幽灵角色现身芬达广告，引发新作猜测",
+        "link": "https://www.gamespot.com/articles/call-of-dutys-iconic-ghost-shows-up-in-new-fanta-ad-making-people-wonder-about-2026s-call-of-duty/1100-6539370/?ftag=CAD-01-10abi2f",
+        "summary": "《使命召唤》标志性角色“幽灵”出现在芬达新广告中，引发玩家对2026年系列新作或为《现代战争4》的猜测。",
+        "comment": "跨界营销引发猜测，但需等待官方正式公布。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "多款《战锤》游戏突袭登陆Steam平台",
+        "link": "https://www.gamespot.com/articles/a-ton-of-warhammer-games-just-surprise-dropped-on-steam/1100-6539341/?ftag=CAD-01-10abi2f",
+        "summary": "包括《战锤40K：星际战士》在内的多款《战锤》系列游戏在Steam平台突然上架，其中七款为首次登陆该平台。",
+        "comment": "经典IP集中登陆，为玩家提供了便捷的获取渠道。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏促销",
+        "title": "Fanatical游戏捆绑包本月上线，含20款跨类型游戏",
+        "link": "https://www.gamespot.com/articles/this-months-build-your-own-fanatical-favorites-bundle-has-20-games-from-all-different-genres-to-pick-from/1100-6539365/?ftag=CAD-01-10abi2f",
+        "summary": "Fanatical平台推出本月自选游戏捆绑包，包含《失忆症：地堡》等20款跨类型游戏，玩家可按需组合购买。",
+        "comment": "捆绑包选择丰富，适合喜欢尝试多种类型的玩家。",
+        "image": "",
+        "score": 84
       }
     ]
   }
