@@ -4,21 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "特朗普政府或鼓励银行测试Anthropic的Mythos模型",
-        "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-        "summary": "报道称特朗普政府官员可能鼓励银行测试Anthropic的Mythos模型，此前国防部刚将其列为供应链风险。",
-        "comment": "政策风向与风险评估存在矛盾，值得关注。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
         "tag": "苹果",
         "title": "苹果测试四款智能眼镜设计，产品定位趋于务实",
         "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-        "summary": "苹果正测试四款智能眼镜设计，相比此前规划的多种混合与增强现实设备，产品路线已更为聚焦和务实。",
-        "comment": "苹果在AR硬件上转向务实路线，更注重产品可行性。",
+        "summary": "苹果正测试四款智能眼镜设计，相比此前规划的多种混合与增强现实设备，产品路线已趋于务实收敛。",
+        "comment": "苹果在AR硬件上转向务实路线，更注重可行性。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "特朗普官员或鼓励银行测试Anthropic的Mythos模型",
+        "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+        "summary": "报道称特朗普政府官员可能鼓励银行测试Anthropic的Mythos模型，此举令人意外，因国防部近期将Anthropic列为供应链风险。",
+        "comment": "政策风向与安全评估出现矛盾，需关注后续发展。",
         "image": "",
         "score": 99
       },
@@ -35,32 +35,22 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "HumanX大会上Claude成焦点话题",
+        "title": "HumanX大会上Claude成焦点，Anthropic成明星",
         "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-        "summary": "在旧金山以AI为中心的HumanX大会上，Anthropic公司及其Claude模型成为全场讨论的焦点。",
-        "comment": "Claude在专业会议上的热度反映其技术影响力持续扩大。",
+        "summary": "在旧金山以AI为中心的HumanX大会上，Anthropic及其模型Claude成为全场讨论的焦点和明星。",
+        "comment": "行业会议风向显示，Claude正成为OpenAI的有力竞争者。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "DeepSeek需卸下技术枷锁，展现真实实力",
+        "title": "DeepSeek需卸下枷锁展现真正实力",
         "link": "https://www.ifanr.com/1661836?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨DeepSeek作为AI公司面临的自我限制问题，认为其应突破技术保守姿态，更开放地参与竞争。",
-        "comment": "技术公司需在谨慎与进取间找到平衡点。",
+        "summary": "文章探讨DeepSeek作为AI公司面临的自我限制问题，认为其应突破现有框架展现更大潜力。",
+        "comment": "技术公司需在谨慎与突破间找到平衡点。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "能源基建",
-        "title": "荷兰村庄面临拆除为变电站让路",
-        "link": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
-        "summary": "荷兰莫尔代克村被规划拆除，以便为大型变电站建设腾出空间，引发当地居民反对。",
-        "comment": "能源转型的代价再次落在普通社区肩上。",
-        "image": "",
-        "score": 84
       }
     ]
   }
