@@ -3,6 +3,16 @@
     "week": "周三",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Anthropic崛起引发OpenAI投资者重新评估",
+        "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+        "summary": "一位同时投资两家公司的投资者表示，要证明OpenAI最新融资合理，需假设其IPO估值达1.2万亿美元以上，这使Anthropic当前估值显得更具吸引力。",
+        "comment": "AI赛道竞争加剧，资本开始理性审视头部企业估值。",
+        "image": "",
+        "score": 99
+      },
+      {
         "category": "数码科技",
         "tag": "企业动态",
         "title": "许家印当庭认罪悔罪，新能源车牌变色引关注",
@@ -15,22 +25,152 @@
       {
         "category": "数码科技",
         "tag": "游戏产业",
-        "title": "《明末》团队解散引思考，国产单机缺什么？",
+        "title": "《明末》团队解散，国产单机游戏发展引深思",
         "link": "https://36kr.com/p/3766718158324489?f=rss",
-        "summary": "《明末：渊虚之羽》制作组解散，该游戏Steam销量约120万套，总销售额超5亿元。事件引发对国产单机游戏发展瓶颈的讨论。",
-        "comment": "商业成功难掩深层困境，国产单机仍需突破内容与生态瓶颈。",
+        "summary": "国产类魂游戏《明末：渊虚之羽》制作组解散，制作人离职创业。该游戏上线后销量约200万套，销售额超5亿元，成绩不俗但仍难逃团队解散命运。",
+        "comment": "商业成功不等于团队稳定，国产单机生态仍显脆弱。",
         "image": "",
         "score": 96
       },
       {
+        "category": "数码科技",
+        "tag": "融资",
+        "title": "粗门获数千万A+轮融资，AI时代推动线下社交活动",
+        "link": "https://36kr.com/p/3766710136570368?f=rss",
+        "summary": "线下兴趣活动社区粗门完成新一轮融资，投资方为香港家族基金。资金将用于扩大品牌影响力、提升主理人供给及加速社区生态建设。",
+        "comment": "AI时代反推线下社交，资本看好真实连接的价值。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "宠物科技",
+        "title": "追觅生态娲宝科技发布宠物智能项圈，布局数据闭环",
+        "link": "https://36kr.com/p/3767424500171271?f=rss",
+        "summary": "娲宝科技发布新一代宠物智能项圈，披露其技术架构与产品布局，旨在通过“项圈+宠粮”模式构建更全面的宠物健康数据闭环。",
+        "comment": "宠物智能硬件正从单点功能向数据整合的健康管理平台演进。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影视",
+        "title": "华纳确认《权力的游戏》电影《伊耿的征服》正在制作中",
+        "link": "https://www.ign.com/articles/warner-bros-confirms-game-of-thrones-movie-aegons-conquest-is-in-the-works",
+        "summary": "华纳兄弟在近期公布的28部未来电影计划列表中，正式确认了《权力的游戏》电影《伊耿的征服》项目。",
+        "comment": "经典IP再推电影版，能否延续剧集辉煌有待观察。",
+        "image": "https://assets-prd.ignimgs.com/2024/10/31/thrones-1730413494252.jpg",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "微软",
+        "title": "微软拟为Windows电脑预装Copilot助手",
+        "link": "https://www.ifanr.com/1662224?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "微软计划在所有Windows电脑中预装Copilot人工智能助手，以提升系统智能化水平。",
+        "comment": "微软加速AI普及，将深刻改变用户与电脑的交互方式。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "迪士尼",
+        "title": "迪士尼裁员波及漫威，多个部门受影响",
+        "link": "https://www.ign.com/articles/marvel-suffers-layoffs-in-wake-of-new-job-cuts-at-disney",
+        "summary": "迪士尼新一轮裁员已波及旗下漫威娱乐，据报道，此次裁员影响了漫威大部分部门。",
+        "comment": "娱乐巨头成本削减持续，行业震荡加剧。",
+        "image": "http://assets2.ignimgs.com/2014/09/28/marvel-logo-wallpaper-1280x1024jpg-2e425d.jpg",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "汽车科技",
+        "title": "吉利发布i-HEV混动技术，宣称百公里油耗2.22L",
+        "link": "https://www.ifanr.com/1662203?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "吉利汽车发布i-HEV混合动力技术，宣称其百公里油耗可低至2.22升，旨在提升燃油经济性与市场竞争力。",
+        "comment": "技术参数亮眼，但实际路况表现有待市场验证。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "流媒体",
+        "title": "《少年福尔摩斯》获第二季续订，盖·里奇回归执导",
+        "link": "https://www.ign.com/articles/prime-videos-young-sherlock-will-return-for-a-second-season",
+        "summary": "亚马逊Prime Video剧集《少年福尔摩斯》确认续订第二季，导演盖·里奇将回归执导新季首集。",
+        "comment": "热门IP的年轻化改编持续获得平台青睐。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/26/eeydc9qtlz5y-1772125698405.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威剧集",
+        "title": "IGN评《夜魔侠：重生》第二季第5集：本季最佳",
+        "link": "https://www.ign.com/articles/daredevil-born-again-season-2-episode-5-review-the-grand-design",
+        "summary": "《夜魔侠：重生》第二季第5集获评本季最佳，剧情中过去与现在交织，凡妮莎与靶眼的命运悬于一线。",
+        "comment": "关键集数推动主线，角色命运转折点。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/14/daredevil-bornagain-s2-ep-5-thumb-1776193557547.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "消费电子",
+        "title": "倍思Pico AM52 Qi2.2磁吸充电宝上市首降50%",
+        "link": "https://www.ign.com/articles/baseus-pico-am52-qi2-25w-magsafe-power-bank-deal",
+        "summary": "倍思推出首批Qi2.2标准磁吸充电宝Pico AM52，支持最高25W无线充电，较Qi2标准提升67%，目前IGN平台显示其价格直降50%。",
+        "comment": "Qi2.2标准普及加速，高功率无线充电配件开始进入市场。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/15/baseusam52-1776213314280.jpg",
+        "score": 91
+      },
+      {
         "category": "游戏影视",
         "tag": "健身器材",
-        "title": "Yoleo健身凳特价55.49美元，家庭健身房低成本升级",
+        "title": "Yoleo健身凳仅售55.49美元，低价扩展家庭健身房",
         "link": "https://www.ign.com/articles/yoleo-weight-bench-deal",
-        "summary": "Yoleo可调节健身凳现价55.49美元包邮，95%预组装，提供14档位调节，适合家庭健身需求。",
-        "comment": "性价比突出的家庭健身入门装备，适合预算有限的健身爱好者。",
+        "summary": "Yoleo健身凳优惠价55.49美元包邮，95%预组装，提供14档位调节。",
+        "comment": "性价比高的家庭健身入门选择。",
         "image": "https://assets-prd.ignimgs.com/2026/04/14/yoleobench-1776209931127.jpg",
         "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "苹果建议更新iOS保护数据安全，华为苹果一季度领跑手机市场",
+        "link": "https://www.ifanr.com/1662221?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果建议更新iOS以保护iPhone数据安全；华为与苹果在一季度手机市场中逆势领跑；比亚迪回应车库起火事件。",
+        "comment": "科技巨头在安全与市场表现上持续引发关注。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码硬件",
+        "title": "千元录音卡片年费千元引热议",
+        "link": "https://www.ifanr.com/1662079?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿分析高价录音卡片年费模式，指出用户为确定性结果付费的市场逻辑。",
+        "comment": "硬件订阅制争议凸显数码产品服务化趋势。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "移民危机",
+        "title": "印度洋移民船沉没致250人失踪",
+        "link": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&at_campaign=rss",
+        "summary": "联合国称，一艘移民船在印度洋因大风、巨浪及超载沉没，约250人失踪。",
+        "comment": "移民悲剧频发暴露国际救援机制短板。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "美国副总统演讲遭嘘，评论教皇神学言论",
+        "link": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国副总统万斯在Turning Point USA活动演讲时遭现场观众嘘声，他此前评论教皇利奥应在谈论神学议题时保持谨慎。",
+        "comment": "政治人物公开评论宗教领袖引发争议，反映美国社会文化分歧。",
+        "image": "",
+        "score": 83
       }
     ]
   }
