@@ -1,12 +1,12 @@
 {
-  "run_id": 3,
-  "generated_at": "2026-04-16T07:04:56Z",
-  "source_health_path": "/Users/damei/.hermes/repos/my-ai-news/public/data/source-health.json",
+  "run_id": 1,
+  "generated_at": "2026-04-16T07:21:34Z",
+  "source_health_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/source-health.json",
   "summary": {
     "total_sources": 9,
-    "healthy_sources": 6,
+    "healthy_sources": 7,
     "degraded_sources": 1,
-    "unhealthy_sources": 2
+    "unhealthy_sources": 1
   },
   "sources": [
     {
@@ -95,15 +95,15 @@
     {
       "source_id": "ign",
       "source_name": "IGN",
-      "status": "parse_error",
-      "items_fetched": 0,
-      "active_url": null,
+      "status": "success",
+      "items_fetched": 10,
+      "active_url": "https://www.ign.com/rss/articles/feed",
       "attempted_urls": [
         "https://www.ign.com/rss/articles/feed"
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": "bozo parse error: <unknown>:2:495: undefined entity"
+      "error_message": null
     },
     {
       "source_id": "gamespot",
