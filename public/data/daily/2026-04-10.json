@@ -3,24 +3,74 @@
     "week": "周五",
     "articles": [
       {
-        "category": "数码科技",
-        "tag": "平板电脑",
-        "title": "vivo Pad6 Pro体验：4K超大屏是核心卖点",
-        "link": "https://www.ifanr.com/1661796?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "vivo Pad6 Pro主打4K超清高刷大屏，兼具旗舰平板性能，强调影音与生产力体验。",
-        "comment": "以屏幕为核心差异点，定位清晰但面临激烈竞争。",
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "Prompting fundamentals",
+        "link": "https://openai.com/academy/prompting",
+        "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+        "comment": "OpenAI 最新更新，当前为基础模式。",
         "image": "",
-        "score": 88
+        "score": 100
       },
       {
-        "category": "数码科技",
-        "tag": "蔚来",
-        "title": "蔚来ES9拒绝被比作揽胜或库里南",
-        "link": "https://www.ifanr.com/1661768?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来强调ES9是原创设计，不希望被简单类比为其他品牌的豪华车型，以突出其独立创新性。",
-        "comment": "品牌坚持原创设计，有助于建立独特高端形象。",
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "Using projects in ChatGPT",
+        "link": "https://openai.com/academy/projects",
+        "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+        "comment": "OpenAI 最新更新，当前为基础模式。",
         "image": "",
-        "score": 88
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "ChatGPT for research",
+        "link": "https://openai.com/academy/research",
+        "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+        "comment": "OpenAI 最新更新，当前为基础模式。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "ChatGPT for finance teams",
+        "link": "https://openai.com/academy/finance",
+        "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+        "comment": "OpenAI 最新更新，当前为基础模式。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "Using custom GPTs",
+        "link": "https://openai.com/academy/custom-gpts",
+        "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+        "comment": "OpenAI 最新更新，当前为基础模式。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "Working with files in ChatGPT",
+        "link": "https://openai.com/academy/working-with-files",
+        "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+        "comment": "OpenAI 最新更新，当前为基础模式。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "Getting started with ChatGPT",
+        "link": "https://openai.com/academy/getting-started",
+        "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+        "comment": "OpenAI 最新更新，当前为基础模式。",
+        "image": "",
+        "score": 100
       }
     ]
   }

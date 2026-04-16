@@ -30,6 +30,8 @@ Phase 1 focuses on a reliable pipeline:
 
 AI enrichment is optional. The pipeline still runs in deterministic fallback mode if no model key is configured.
 
+Sources can define `backup_urls` (or an explicit `urls` list) so the collector can fail over without building source-specific anti-bot scrapers. Each run also writes `public/data/source-health.json` for diagnostics.
+
 ## Quick Start
 
 1. Create a virtualenv and install dependencies.
@@ -43,7 +45,7 @@ python3 scripts/run_pipeline.py
 To enable AI rewrite and commentary, set:
 
 ```bash
-LLM_API_KEY=...
+LLM_API_KEY=***
 LLM_BASE_URL=https://api.deepseek.com
 LLM_MODEL=deepseek-chat
 ```
@@ -72,6 +74,22 @@ Outputs are written to:
 - `public/data/latest.json`
 - `public/data/daily/YYYY-MM-DD.json`
 - `public/data/status.json`
+- `public/data/source-health.json`
+
+Source config supports a primary URL plus optional backups:
+
+```json
+{
+  "id": "example",
+  "name": "Example Feed",
+  "category": "ai",
+  "type": "rss",
+  "url": "https://primary.example/rss",
+  "backup_urls": [
+    "https://backup.example/rss"
+  ]
+}
+```
 
 For local preview:
 

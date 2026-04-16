@@ -39,12 +39,16 @@ def main() -> int:
     print_check(".env", "OK" if env_path.exists() else "WARN", str(env_path))
     print_check("publish_dir", "OK", str(config.publish_dir))
     print_check("status_path", "OK", str(config.status_path))
+    print_check("source_health_path", "OK", str(config.source_health_path))
 
     if config.llm_enabled and not config.llm_api_key:
         print_check("llm", "FAIL", "LLM_ENABLED=true but no API key was found")
         failures += 1
     elif config.llm_enabled:
-        print_check("llm", "OK", f"enabled with model {config.llm_model}")
+        detail = f"enabled with model {config.llm_model}"
+        if config.llm_base_urls:
+            detail += f" (base URLs: {', '.join(config.llm_base_urls)})"
+        print_check("llm", "OK", detail)
     else:
         print_check("llm", "OK", "fallback mode")
 

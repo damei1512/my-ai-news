@@ -18,10 +18,24 @@ def format_run_summary(result: dict) -> str:
         f"stories: {result.get('stories', 0)}",
     ]
 
+    llm = result.get("llm") or {}
+    if llm:
+        lines.append(f"llm_status: {llm.get('status', 'unknown')}")
+        degraded_items = llm.get("degraded_items")
+        if degraded_items:
+            lines.append(f"llm_degraded_items: {degraded_items}")
+
     source_statuses = result.get("source_statuses") or []
     if source_statuses:
-        failed = [item for item in source_statuses if item.get("status") != "success"]
-        lines.append(f"source_success: {len(source_statuses) - len(failed)}/{len(source_statuses)}")
+        success_statuses = {"success", "empty"}
+        degraded_statuses = {"fallback_success", "fallback_empty"}
+        failed = [item for item in source_statuses if item.get("status") not in success_statuses | degraded_statuses]
+        degraded = [item for item in source_statuses if item.get("status") in degraded_statuses]
+        healthy_count = len(source_statuses) - len(failed) - len(degraded)
+        lines.append(f"source_success: {healthy_count}/{len(source_statuses)}")
+        if degraded:
+            degraded_names = ", ".join(item.get("source_name", item.get("source_id", "unknown")) for item in degraded[:5])
+            lines.append(f"source_degraded: {degraded_names}")
         if failed:
             failed_names = ", ".join(item.get("source_name", item.get("source_id", "unknown")) for item in failed[:5])
             lines.append(f"source_failed: {failed_names}")
@@ -30,6 +44,8 @@ def format_run_summary(result: dict) -> str:
         lines.append(f"publish_dir: {result['publish_dir']}")
     if result.get("status_path"):
         lines.append(f"status_path: {result['status_path']}")
+    if result.get("source_health_path"):
+        lines.append(f"source_health_path: {result['source_health_path']}")
 
     return "\n".join(lines)
 

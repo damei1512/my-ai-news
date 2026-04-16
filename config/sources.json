@@ -6,6 +6,8 @@
       "category": "ai",
       "type": "rss",
       "url": "https://www.jiqizhixin.com/rss",
+      "backup_urls": [],
+      "notes": "官方 RSS 当前返回数据服务落地页，暂未确认稳定备用源。",
       "enabled": true,
       "priority": 90
     },
@@ -23,7 +25,10 @@
       "name": "OpenAI",
       "category": "ai",
       "type": "rss",
-      "url": "https://openai.com/index/rss.xml",
+      "url": "https://openai.com/news/rss.xml",
+      "backup_urls": [
+        "https://openai.com/blog/rss.xml"
+      ],
       "enabled": true,
       "priority": 100
     },
@@ -51,6 +56,9 @@
       "category": "games",
       "type": "rss",
       "url": "https://www.gcores.com/rss",
+      "backup_urls": [
+        "https://www.gcores.com/rss.xml"
+      ],
       "enabled": true,
       "priority": 80
     },
