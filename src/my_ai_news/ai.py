@@ -100,8 +100,8 @@ def build_localized_title(*, source_name: str, category: str, title: str) -> str
 def build_localized_summary(*, source_name: str, category: str, title: str, summary: str) -> str:
     candidate = normalize_spaces(summary or title)
     if contains_cjk(candidate):
-        return f"我刚看到{source_name}提到：{candidate}"[:110]
-    return f"我刚看到{source_name}放出一条新的{category}消息，先帮你整理成卡片；更完整的信息我建议你点开原文继续看。"[:110]
+        return f"这条来自{source_name}的{category}消息主要提到：{candidate}"[:110]
+    return f"这是一条来自{source_name}的{category}消息，已经先整理成中文卡片；如果你想看完整细节，可以继续打开原文。"[:110]
 
 
 def build_editorial_commentary(*, source_name: str, category: str, title: str, summary: str) -> str:
