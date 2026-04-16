@@ -5,10 +5,20 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI升级Agents SDK，新增沙箱执行与模型原生框架",
+        "title": "泰尔投资AI公司欲用算法评判新闻，被指或压制吹哨人",
+        "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+        "summary": "获彼得·泰尔支持的初创公司Objection计划利用AI评判新闻报道，允许用户付费质疑新闻内容。批评者警告此举可能压制吹哨人并重塑媒体问责方式。",
+        "comment": "用算法评判新闻可能威胁调查报道的生存空间。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "OpenAI升级Agents SDK，新增沙盒执行与模型原生框架",
         "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-        "summary": "OpenAI更新Agents SDK，引入原生沙箱执行环境和模型原生框架，帮助开发者构建跨文件与工具的安全、长期运行智能体。",
-        "comment": "此举将显著降低复杂AI代理的开发门槛与安全风险。",
+        "summary": "OpenAI更新Agents SDK，引入原生沙盒执行环境和模型原生框架，帮助开发者构建跨文件和工具的安全、长期运行智能体。",
+        "comment": "此举显著降低了复杂AI代理的开发门槛与安全风险。",
         "image": "",
         "score": 100
       },
@@ -17,7 +27,7 @@
         "tag": "人工智能",
         "title": "OpenAI更新Agents SDK，助力企业构建更安全智能体",
         "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-        "summary": "OpenAI升级其智能体构建工具包，增强企业级AI代理的安全性与能力，以应对日益增长的智能体AI需求。",
+        "summary": "OpenAI升级其智能体构建工具包，增强企业级AI代理的安全性与能力，以应对智能体AI日益增长的应用需求。",
         "comment": "此举将加速企业级AI代理的落地与标准化进程。",
         "image": "",
         "score": 99
@@ -27,7 +37,7 @@
         "tag": "人工智能",
         "title": "Hightouch年经常性收入达1亿美元，AI营销工具成增长引擎",
         "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-        "summary": "初创公司Hightouch推出AI营销代理平台后，在20个月内ARR增长7000万美元，现已达到1亿美元里程碑。",
+        "summary": "初创公司Hightouch推出AI营销代理平台后，在20个月内ARR增长7000万美元，目前总额已达1亿美元。",
         "comment": "AI营销工具正成为SaaS企业规模化增长的关键驱动力。",
         "image": "",
         "score": 99
@@ -45,102 +55,32 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "获Thiel投资的AI新闻评判平台引争议",
-        "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
-        "summary": "Objection公司推出AI评判新闻服务，用户可付费质疑报道。批评者担忧此举可能压制举报人并改变媒体问责机制。",
-        "comment": "技术中立性在新闻监督领域面临伦理考验。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "谷歌推出Mac原生Gemini应用",
-        "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-        "summary": "谷歌发布Mac原生Gemini应用，用户可分享屏幕内容获取实时帮助，支持本地文件分析。",
-        "comment": "谷歌加速AI工具生态布局，提升跨平台体验。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "印度初创公司Emergent推出类OpenClaw的AI智能体Wingman",
-        "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-        "summary": "印度初创公司Emergent推出AI智能体Wingman，用户可通过WhatsApp和Telegram等聊天平台管理和自动化任务，进入类似OpenClaw的AI代理领域。",
-        "comment": "新兴市场AI应用竞争加剧，聊天平台集成成为新趋势。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
         "title": "领英数据：AI暂非招聘下滑主因，高利率才是",
         "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
-        "summary": "领英数据显示，自2022年以来招聘量下降20%，但公司将放缓归因于高利率，而非人工智能技术的影响。",
-        "comment": "数据为AI在招聘中的实际影响提供了客观视角。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "格莱美提名歌手转行生物科技创始人寻求融资",
-        "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
-        "summary": "格莱美提名歌手Aloe Blacc在接种疫苗后仍感染新冠，试图资助研发更优解决方案，但发现生物科技领域融资困难。",
-        "comment": "跨界创业面临专业壁垒，生物科技融资门槛高。",
+        "summary": "领英数据显示，自2022年以来招聘量下降20%，但主要归因于高利率，而非人工智能技术的影响。",
+        "comment": "数据为AI在招聘领域的实际影响提供了客观视角。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "裁员",
+        "tag": "科技动态",
         "title": "Snap裁员千人，字节回购期权，库克增持耐克",
         "link": "https://36kr.com/p/3767970803221251?f=rss",
         "summary": "Snap宣布裁员约1000人并关闭300多个空缺职位，预计到2026年节省超5亿美元成本。字节跳动启动新一轮期权回购。苹果CEO库克斥资106万美元增持耐克股票。",
-        "comment": "科技巨头调整频繁，裁员与资本动作并行。",
+        "comment": "科技巨头调整频繁，裁员与资本动作反映行业新常态。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "宠物科技",
-        "title": "追觅生态企业娲宝科技发布宠物智能项圈",
-        "link": "https://36kr.com/p/3767424500171271?f=rss",
-        "summary": "娲宝科技发布新一代宠物智能项圈，旨在通过“项圈+宠粮”构建宠物健康数据闭环，行业正从基础饲养向精细化健康管理延伸。",
-        "comment": "宠物智能硬件正从单点功能向数据闭环生态演进。",
-        "image": "",
-        "score": 94
       },
       {
         "category": "数码科技",
         "tag": "融资",
-        "title": "粗门获数千万A+轮融资，专注线下兴趣活动社区",
+        "title": "粗门获数千万A+轮融资，AI时代推动线下兴趣活动",
         "link": "https://36kr.com/p/3766710136570368?f=rss",
-        "summary": "线下兴趣活动社区“粗门”完成新一轮融资，投资方为香港家族基金。资金将用于扩大品牌影响力、提升主理人供给及加速社区生态建设。",
-        "comment": "线下社交体验在AI时代或成稀缺价值。",
+        "summary": "线下兴趣活动社区粗门完成新一轮融资，投资方为香港家族基金。资金将用于扩大品牌影响力、提升主理人供给及加速社区生态建设。",
+        "comment": "线下社交需求在AI时代或迎来新机遇。",
         "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "《死亡空间》创作者谈GTA6对行业影响：应避开其档期",
-        "link": "https://www.gamespot.com/articles/dead-space-creator-talks-gta-6s-effect-on-other-games-you-dont-wanna-be-near-it/1100-6539432/?ftag=CAD-01-10abi2f",
-        "summary": "《死亡空间》创作者表示，游戏行业正极力避免与《GTA6》11月19日发售档期撞车，称其影响力过大，其他作品应主动避让。",
-        "comment": "头部3A大作对市场档期的挤压效应日益显著。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4683093-gtaphantomcar.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "微软高管称下一代Xbox项目Helix将受益于软硬件团队协作",
-        "link": "https://www.gamespot.com/articles/next-gen-xbox-project-helix-will-benefit-from-hardware-and-software-teams-working-together-exec-says/1100-6539431/?ftag=CAD-01-10abi2f",
-        "summary": "Xbox负责人Matty Booty在播客中透露，代号Project Helix的下一代PC/主机混合设备正由软硬件团队紧密协作开发，强调协同工作将提升产品体验。",
-        "comment": "软硬件深度整合或成微软下一代游戏设备的关键竞争力。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4683090-helix.jpg",
-        "score": 92
+        "score": 94
       },
       {
         "category": "数码科技",
@@ -153,72 +93,22 @@
         "score": 89
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏促销",
-        "title": "GameFly二手游戏大促，多款热门游戏低价出售",
-        "link": "https://www.gamespot.com/articles/gamefly-pre-played-sale/1100-6538713/?ftag=CAD-01-10abi2f",
-        "summary": "GameFly推出二手游戏促销活动，包含多款近年的热门游戏，为玩家提供了比全新零售价更实惠的选择。",
-        "comment": "二手市场为玩家提供了高性价比的购游渠道。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4683097-4683072-gameflyfinal.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏促销",
-        "title": "2026年4月PS5最佳优惠：二手游戏与低价主机",
-        "link": "https://www.gamespot.com/articles/the-best-ps5-deals-this-week-games-accessories-consoles-and-more/1100-6538557/?ftag=CAD-01-10abi2f",
-        "summary": "GameFly二手游戏促销及主机维持原价，带来多款PS5游戏、配件及整机优惠，包括《最终幻想7：重生》等热门作品折扣。",
-        "comment": "促销力度可观，适合预算有限的玩家入手。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4675875-ps5dealsweekmarch31.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "社会趣闻",
-        "title": "91岁独居老人被警方家访 发现正专注打游戏破纪录",
-        "link": "https://www.gamespot.com/articles/cops-called-to-91-year-old-womans-home-for-welfare-check-find-her-playing-video-games/1100-6539430/?ftag=CAD-01-10abi2f",
-        "summary": "美国警方接报对一名91岁独居老人进行健康检查，发现她正在家中专注玩电子游戏并试图打破个人纪录，确认其健康状况良好。",
-        "comment": "游戏成为老年生活的积极陪伴，反映数字娱乐的跨代价值。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4683087-screenshot2026-04-15at3.28.13%E2%80%AFpm.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界：午夜赛季M+副本难度过低，暴雪增加奖励",
-        "link": "https://www.gamespot.com/articles/wow-midnights-mythic-dungeons-are-too-easy-so-blizzard-is-adding-even-more-rewards/1100-6539428/?ftag=CAD-01-10abi2f",
-        "summary": "《魔兽世界：午夜》第一赛季的M+副本因难度过低，暴雪宣布将增加更高层钥匙的奖励，以激励玩家挑战。",
-        "comment": "暴雪试图用奖励弥补难度设计不足，治标不治本。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4683071-wowmidnightnewmythic%2Brewards.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏攻略",
-        "title": "《Windrose》火药制作指南：剑与枪械战斗系统解析",
-        "link": "https://www.gamespot.com/articles/how-to-make-gunpowder-in-windrose/1100-6539429/?ftag=CAD-01-10abi2f",
-        "summary": "游戏《Windrose》战斗以剑与枪械为核心，玩家可获取长戟、棍棒、火枪等变种武器，本文重点介绍火药制作方法。",
-        "comment": "制作指南实用性强，但未深入探讨战斗平衡性。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4683064-image_1776276412494.jpg",
-        "score": 89
-      },
-      {
         "category": "数码科技",
         "tag": "英特尔",
         "title": "英特尔发布AI高静游戏本标准，兼顾安静与性能",
         "link": "https://www.ifanr.com/1662338?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "英特尔推出AI高静游戏本标准，旨在通过技术手段降低游戏本运行噪音，同时保持高性能输出。",
-        "comment": "游戏本静音技术迈出重要一步，但实际效果需市场检验。",
+        "summary": "英特尔推出AI高静游戏本标准，通过AI技术优化散热与功耗，实现游戏本在保持高性能的同时降低噪音。",
+        "comment": "AI技术正深入硬件体验优化，有望改善游戏本长期痛点。",
         "image": "",
-        "score": 88
+        "score": 89
       },
       {
         "category": "数码科技",
         "tag": "豪车",
-        "title": "劳斯莱斯近亿元定制跑车「夜莺」售罄",
+        "title": "劳斯莱斯近亿元定制跑车「夜莺」100辆售罄",
         "link": "https://www.ifanr.com/1662313?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "劳斯莱斯推出价值近亿元的定制跑车「夜莺」，限量100辆已全部售出。",
-        "comment": "顶级奢侈品市场依然坚挺，限量策略精准收割富豪。",
+        "summary": "劳斯莱斯推出定制跑车「夜莺」，售价近亿元，限量100辆已全部售出。",
+        "comment": "顶级奢侈品市场购买力依然强劲，限量策略奏效。",
         "image": "",
         "score": 88
       }
