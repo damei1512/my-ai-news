@@ -18,6 +18,15 @@ class EnrichmentResult:
     score_delta: int = 0
 
 
+ASCII_STOPWORDS = {
+    "a", "an", "the", "its", "their", "his", "her", "to", "for", "with", "and", "or", "of", "in", "on", "at",
+    "by", "from", "into", "across", "after", "before", "new", "more", "most", "less", "just", "than", "that", "this",
+    "these", "those", "it", "is", "are", "was", "were", "be", "been", "being", "as", "has", "have", "had", "will",
+    "can", "could", "should", "would", "help", "helps", "helping", "build", "builds", "building", "launching",
+    "launched", "says", "said", "grew", "grows", "rose", "reaches", "reached", "fueled", "powered", "too",
+}
+
+
 ASCII_WORD_REPLACEMENTS: list[tuple[str, str]] = [
     (r"\bthe next evolution of\b", "下一阶段演进"),
     (r"\bupdates?\b", "更新"),
@@ -82,33 +91,135 @@ def replace_english_phrases(value: str) -> str:
 
 
 def extract_anchor_terms(value: str) -> list[str]:
-    anchors = re.findall(r"\b(?:[A-Z]{2,}|[A-Z][a-zA-Z0-9.+-]{1,}|\$?\d+[A-Za-z%]*)\b", value)
+    anchors = re.findall(r"\b(?:[A-Z]{2,}|[A-Z][a-zA-Z0-9.+-]{1,}|\$?\d+(?:\.\d+)?[A-Za-z%]*)\b", value)
     deduped: list[str] = []
     for anchor in anchors:
+        if anchor.lower() in ASCII_STOPWORDS:
+            continue
         if anchor not in deduped:
             deduped.append(anchor)
-    return deduped[:2]
+    return deduped[:6]
+
+
+def normalize_anchor_terms(*, source_name: str, anchors: list[str]) -> list[str]:
+    source_parts = {part.lower() for part in re.findall(r"[A-Za-z0-9.+-]+", source_name)}
+    replacements = {
+        "agents": "智能体",
+        "agent": "智能体",
+        "developers": "开发者",
+        "developer": "开发者",
+        "enterprise": "企业",
+        "enterprises": "企业",
+        "models": "模型",
+        "model": "模型",
+        "features": "功能",
+        "feature": "功能",
+        "funding": "融资",
+        "revenue": "营收",
+    }
+    filtered: list[str] = []
+    for anchor in anchors:
+        lowered = anchor.lower().strip()
+        if lowered in source_parts:
+            continue
+        if lowered in {"ai", "news", "latest", "new", "now", "the", "this", "that"}:
+            continue
+        anchor = replacements.get(lowered, anchor)
+        if filtered and filtered[-1] == anchor:
+            continue
+        if anchor not in filtered:
+            filtered.append(anchor)
+    return filtered[:3]
+
+
+def build_anchor_phrase(*, source_name: str, title: str, summary: str) -> str:
+    anchors = normalize_anchor_terms(source_name=source_name, anchors=extract_anchor_terms(f"{title} {summary}"))
+    if anchors:
+        return "、".join(anchors[:2])
+    return "关键信息"
+
+
+def cleanup_mixed_text(value: str) -> str:
+    text = replace_english_phrases(value)
+    text = re.sub(r"[,:;]+", "，", text)
+    parts = re.findall(r"[\u4e00-\u9fffA-Za-z0-9$%+.\-/]+", text)
+    kept: list[str] = []
+    for part in parts:
+        lowered = part.lower()
+        if re.fullmatch(r"[a-z]+", part) and lowered in ASCII_STOPWORDS:
+            continue
+        if re.fullmatch(r"[a-z]+", part):
+            continue
+        if kept and kept[-1] == part:
+            continue
+        kept.append(part)
+    cleaned = " ".join(kept)
+    cleaned = re.sub(r"\s+([，。；：])", r"\1", cleaned)
+    cleaned = re.sub(r"([\u4e00-\u9fff])\s+([\u4e00-\u9fff])", r"\1\2", cleaned)
+    cleaned = re.sub(r"\s+", " ", cleaned).strip(" ，。；：")
+    return cleaned
+
+
+def classify_story_signal(*, title: str, summary: str, category: str) -> str:
+    text = f"{title} {summary}".lower()
+    if any(keyword in text for keyword in ["arr", "funding", "raises", "raised", "revenue", "$", "融资", "营收", "估值"]):
+        return "business"
+    if any(keyword in text for keyword in ["launch", "launched", "update", "updated", "sdk", "feature", "model", "release", "发布", "更新", "上线", "推出"]):
+        return "product"
+    if any(keyword in text for keyword in ["lawsuit", "risk", "ban", "probe", "controvers", "争议", "风险", "调查", "封禁"]):
+        return "risk"
+    if category == "时事热点":
+        return "world"
+    return "general"
 
 
 def build_localized_title(*, source_name: str, category: str, title: str) -> str:
     clean_title = normalize_spaces(title)
     if contains_cjk(clean_title):
         return clean_title[:34]
-    return f"{source_name}发布最新{category}动态"[:34]
+
+    signal = classify_story_signal(title=title, summary=title, category=category)
+    anchor_phrase = build_anchor_phrase(source_name=source_name, title=title, summary=title)
+    if signal == "business":
+        return f"{source_name}：{anchor_phrase}商业进展"[:34]
+    if signal == "product":
+        return f"{source_name}：{anchor_phrase}能力更新"[:34]
+    if signal == "risk":
+        return f"{source_name}：{anchor_phrase}风险动态"[:34]
+    if signal == "world":
+        return f"{source_name}：{anchor_phrase}事件进展"[:34]
+    return f"{source_name}：{anchor_phrase}相关动态"[:34]
 
 
 def build_localized_summary(*, source_name: str, category: str, title: str, summary: str) -> str:
     candidate = normalize_spaces(summary or title)
     if contains_cjk(candidate):
         return f"这条来自{source_name}的{category}消息主要提到：{candidate}"[:110]
-    return f"这是一条来自{source_name}的{category}消息，已经先整理成中文卡片；如果你想看完整细节，可以继续打开原文。"[:110]
+
+    signal = classify_story_signal(title=title, summary=summary, category=category)
+    anchor_phrase = build_anchor_phrase(source_name=source_name, title=title, summary=summary)
+    if signal == "business":
+        return f"这条来自{source_name}的{category}消息，重点围绕{anchor_phrase}等商业进展展开，适合快速判断增长和落地情况。"[:110]
+    if signal == "product":
+        return f"这条来自{source_name}的{category}消息，重点围绕{anchor_phrase}等能力更新展开，适合先快速抓住版本重点。"[:110]
+    if signal == "risk":
+        return f"这条来自{source_name}的{category}消息，重点围绕{anchor_phrase}等风险变化展开，值得继续关注后续回应。"[:110]
+    if signal == "world":
+        return f"这条来自{source_name}的{category}消息，重点围绕{anchor_phrase}等事件进展展开，适合先快速了解局势变化。"[:110]
+    return f"这条来自{source_name}的{category}消息，重点围绕{anchor_phrase}展开，我已先提炼出关键词方便快速浏览。"[:110]
 
 
 def build_editorial_commentary(*, source_name: str, category: str, title: str, summary: str) -> str:
-    candidate = normalize_spaces(summary or title)
-    if contains_cjk(candidate):
-        return f"我的判断：这条来自{source_name}的{category}更新值得先记下，后续如果还有展开，我会继续帮你补充。"[:60]
-    return f"我的判断：这更像是一条需要继续跟进的{category}动态，我先替你标记出来。"[:60]
+    signal = classify_story_signal(title=title, summary=summary, category=category)
+    if signal == "business":
+        return "我的判断：这条更偏商业进展，重点要看它后续能不能真正转化成增长和落地。"[:60]
+    if signal == "product":
+        return "我的判断：这更像是产品能力前推一步，真正值不值得高看还要看后续实际效果。"[:60]
+    if signal == "risk":
+        return "我的判断：这类消息要继续盯后续回应和影响范围，短期内不宜过早下结论。"[:60]
+    if signal == "world":
+        return "我的判断：这类事件的关键不只在当下进展，还要看后续是否持续发酵。"[:60]
+    return f"我的判断：这条来自{source_name}的{category}更新值得先记下，后续如果还有展开，我会继续帮你补充。"[:60]
 
 
 class NoopEnricher(AIEnricher):

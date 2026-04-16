@@ -69,17 +69,24 @@ def test_load_sources_preserves_primary_and_backup_urls(tmp_path: Path) -> None:
 
 
 def test_noop_enricher_localizes_english_content_to_chinese(sample_item: RawItem) -> None:
+    sample_item.source_name = "OpenAI"
+    sample_item.title = "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents"
+    sample_item.summary = "OpenAI has expanded the capabilities of its agent-building toolkit, helping developers build safer long-running agents across files and tools."
+
     story = to_story(sample_item, 90, NoopEnricher())
 
     assert story.title != sample_item.title
     assert any("\u4e00" <= char <= "\u9fff" for char in story.title)
+    assert "SDK" in story.title
     assert any("\u4e00" <= char <= "\u9fff" for char in story.summary)
+    assert "智能体" in story.summary
     assert "我刚看到" not in story.summary
-    assert story.summary.startswith("这是一条来自")
+    assert story.summary.startswith("这条来自")
     assert "我的判断" in story.commentary
 
 
 def test_noop_enricher_keeps_summary_neutral_for_chinese_content(sample_item: RawItem) -> None:
+    sample_item.source_name = "爱范儿"
     sample_item.title = "OpenAI 推出新的智能体能力"
     sample_item.summary = "这次更新重点放在工具调用和长期任务执行。"
 
@@ -90,6 +97,17 @@ def test_noop_enricher_keeps_summary_neutral_for_chinese_content(sample_item: Ra
     assert "这次更新重点放在工具调用和长期任务执行" in story.summary
     assert "我刚看到" not in story.summary
     assert story.commentary.startswith("我的判断：")
+
+
+def test_noop_enricher_commentary_varies_by_business_signal(sample_item: RawItem) -> None:
+    sample_item.source_name = "TechCrunch AI"
+    sample_item.title = "Hightouch reaches $100M ARR fueled by marketing tools powered by AI"
+    sample_item.summary = "The startup says it grew its ARR by $70 million in 20 months after launching an AI agent platform for marketers."
+
+    story = to_story(sample_item, 90, NoopEnricher())
+
+    assert "ARR" in story.title or "融资" in story.commentary or "商业" in story.commentary
+    assert "商业" in story.commentary or "落地" in story.commentary
 
 
 def test_run_pipeline_degrades_llm_and_writes_source_health(tmp_path: Path, monkeypatch: pytest.MonkeyPatch, sample_item: RawItem) -> None:
