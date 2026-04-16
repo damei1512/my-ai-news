@@ -74,7 +74,20 @@ def test_noop_enricher_localizes_english_content_to_chinese(sample_item: RawItem
     assert story.title != sample_item.title
     assert any("\u4e00" <= char <= "\u9fff" for char in story.title)
     assert any("\u4e00" <= char <= "\u9fff" for char in story.summary)
-    assert "基础模式" in story.commentary
+    assert "我刚看到" in story.summary
+    assert "我的判断" in story.commentary
+
+
+def test_noop_enricher_adds_editorial_voice_for_chinese_content(sample_item: RawItem) -> None:
+    sample_item.title = "OpenAI 推出新的智能体能力"
+    sample_item.summary = "这次更新重点放在工具调用和长期任务执行。"
+
+    story = to_story(sample_item, 90, NoopEnricher())
+
+    assert story.title == "OpenAI 推出新的智能体能力"
+    assert story.summary.startswith("我刚看到")
+    assert "这次更新重点放在工具调用和长期任务执行" in story.summary
+    assert story.commentary.startswith("我的判断：")
 
 
 def test_run_pipeline_degrades_llm_and_writes_source_health(tmp_path: Path, monkeypatch: pytest.MonkeyPatch, sample_item: RawItem) -> None:

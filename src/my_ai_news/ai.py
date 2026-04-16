@@ -100,8 +100,15 @@ def build_localized_title(*, source_name: str, category: str, title: str) -> str
 def build_localized_summary(*, source_name: str, category: str, title: str, summary: str) -> str:
     candidate = normalize_spaces(summary or title)
     if contains_cjk(candidate):
-        return candidate[:110]
-    return f"{source_name}发布了一条新的{category}资讯，当前为基础模式，可点击阅读全文查看详细内容。"[:110]
+        return f"我刚看到{source_name}提到：{candidate}"[:110]
+    return f"我刚看到{source_name}放出一条新的{category}消息，先帮你整理成卡片；更完整的信息我建议你点开原文继续看。"[:110]
+
+
+def build_editorial_commentary(*, source_name: str, category: str, title: str, summary: str) -> str:
+    candidate = normalize_spaces(summary or title)
+    if contains_cjk(candidate):
+        return f"我的判断：这条来自{source_name}的{category}更新值得先记下，后续如果还有展开，我会继续帮你补充。"[:60]
+    return f"我的判断：这更像是一条需要继续跟进的{category}动态，我先替你标记出来。"[:60]
 
 
 class NoopEnricher(AIEnricher):
@@ -116,7 +123,12 @@ class NoopEnricher(AIEnricher):
         return EnrichmentResult(
             title=localized_title,
             summary=localized_summary or "暂无摘要",
-            commentary=f"{source_name} 最新更新，当前为基础模式。",
+            commentary=build_editorial_commentary(
+                source_name=source_name,
+                category=category,
+                title=title,
+                summary=summary,
+            ),
             tags=[source_name],
             score_delta=0,
         )
