@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from dataclasses import dataclass
 
 from openai import OpenAI
@@ -17,16 +18,104 @@ class EnrichmentResult:
     score_delta: int = 0
 
 
+ASCII_WORD_REPLACEMENTS: list[tuple[str, str]] = [
+    (r"\bthe next evolution of\b", "下一阶段演进"),
+    (r"\bupdates?\b", "更新"),
+    (r"\bupdated\b", "已更新"),
+    (r"\bhelp(?:ing)?\b", "帮助"),
+    (r"\bbuild(?:ing)?\b", "构建"),
+    (r"\bsafer\b", "更安全"),
+    (r"\bsecure\b", "安全"),
+    (r"\bmore capable\b", "更强大"),
+    (r"\bcapable\b", "强大"),
+    (r"\benterprises?\b", "企业"),
+    (r"\bdevelopers?\b", "开发者"),
+    (r"\bagents?\b", "智能体"),
+    (r"\bsdk\b", "SDK"),
+    (r"\bmodel-native\b", "模型原生"),
+    (r"\bnative sandbox execution\b", "原生沙箱执行"),
+    (r"\bsandbox\b", "沙箱"),
+    (r"\bharness\b", "框架"),
+    (r"\blong-running\b", "长时间运行"),
+    (r"\btools?\b", "工具"),
+    (r"\bfiles?\b", "文件"),
+    (r"\bmarketing\b", "营销"),
+    (r"\bplatform\b", "平台"),
+    (r"\bpowered by ai\b", "由 AI 驱动"),
+    (r"\bfueled by\b", "受益于"),
+    (r"\breaches?\b", "达到"),
+    (r"\bnews\b", "动态"),
+    (r"\blatest\b", "最新"),
+    (r"\bopenai\b", "OpenAI"),
+    (r"\btechcrunch\b", "TechCrunch"),
+    (r"\bai\b", "AI"),
+]
+
+
 class AIEnricher:
     def enrich(self, *, category: str, source_name: str, title: str, summary: str, url: str) -> EnrichmentResult:
         raise NotImplementedError
 
 
+def contains_cjk(value: str) -> bool:
+    return any("\u4e00" <= char <= "\u9fff" for char in value)
+
+
+def normalize_spaces(value: str) -> str:
+    return re.sub(r"\s+", " ", value).strip(" -—:：，,。.\t\n")
+
+
+def replace_english_phrases(value: str) -> str:
+    text = normalize_spaces(value)
+    for pattern, replacement in ASCII_WORD_REPLACEMENTS:
+        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
+    text = re.sub(r"\bto\b", "以", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bwith\b", "结合", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bfor\b", "面向", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bacross\b", "覆盖", text, flags=re.IGNORECASE)
+    text = re.sub(r"\band\b", "与", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bcontinues?\b", "持续", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bgrow(?:ing)?\b", "增长", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bin just\b", "在", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bafter\b", "在…之后", text, flags=re.IGNORECASE)
+    return normalize_spaces(text)
+
+
+def extract_anchor_terms(value: str) -> list[str]:
+    anchors = re.findall(r"\b(?:[A-Z]{2,}|[A-Z][a-zA-Z0-9.+-]{1,}|\$?\d+[A-Za-z%]*)\b", value)
+    deduped: list[str] = []
+    for anchor in anchors:
+        if anchor not in deduped:
+            deduped.append(anchor)
+    return deduped[:2]
+
+
+def build_localized_title(*, source_name: str, category: str, title: str) -> str:
+    clean_title = normalize_spaces(title)
+    if contains_cjk(clean_title):
+        return clean_title[:34]
+    return f"{source_name}发布最新{category}动态"[:34]
+
+
+def build_localized_summary(*, source_name: str, category: str, title: str, summary: str) -> str:
+    candidate = normalize_spaces(summary or title)
+    if contains_cjk(candidate):
+        return candidate[:110]
+    return f"{source_name}发布了一条新的{category}资讯，当前为基础模式，可点击阅读全文查看详细内容。"[:110]
+
+
 class NoopEnricher(AIEnricher):
     def enrich(self, *, category: str, source_name: str, title: str, summary: str, url: str) -> EnrichmentResult:
-        return EnrichmentResult(
+        localized_title = build_localized_title(source_name=source_name, category=category, title=title)
+        localized_summary = build_localized_summary(
+            source_name=source_name,
+            category=category,
             title=title,
-            summary=summary or "暂无摘要",
+            summary=summary,
+        )
+        return EnrichmentResult(
+            title=localized_title,
+            summary=localized_summary or "暂无摘要",
             commentary=f"{source_name} 最新更新，当前为基础模式。",
             tags=[source_name],
             score_delta=0,

@@ -5,11 +5,12 @@ from pathlib import Path
 
 import pytest
 
-from my_ai_news.ai import AIEnricher, EnrichmentResult
+from my_ai_news.ai import AIEnricher, EnrichmentResult, NoopEnricher
 from my_ai_news.cli import format_run_summary
 from my_ai_news.config import load_sources
 from my_ai_news.models import RawItem
 from my_ai_news.pipeline import run_pipeline
+from my_ai_news.processing import to_story
 
 
 class FailingEnricher(AIEnricher):
@@ -65,6 +66,15 @@ def test_load_sources_preserves_primary_and_backup_urls(tmp_path: Path) -> None:
         "https://primary.example/rss",
         "https://backup.example/rss",
     ]
+
+
+def test_noop_enricher_localizes_english_content_to_chinese(sample_item: RawItem) -> None:
+    story = to_story(sample_item, 90, NoopEnricher())
+
+    assert story.title != sample_item.title
+    assert any("\u4e00" <= char <= "\u9fff" for char in story.title)
+    assert any("\u4e00" <= char <= "\u9fff" for char in story.summary)
+    assert "基础模式" in story.commentary
 
 
 def test_run_pipeline_degrades_llm_and_writes_source_health(tmp_path: Path, monkeypatch: pytest.MonkeyPatch, sample_item: RawItem) -> None:
