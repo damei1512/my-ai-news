@@ -1,21 +1,23 @@
 {
-  "run_id": 10,
+  "run_id": 1,
   "status": "success",
-  "finished_at": "2026-04-17T04:07:39Z",
+  "finished_at": "2026-04-17T04:43:51Z",
   "sources": 9,
-  "raw_items": 70,
-  "stories": 70,
-  "database": "/Users/damei/.hermes/repos/my-ai-news/data/app.db",
-  "publish_dir": "/Users/damei/.hermes/repos/my-ai-news/public/data",
-  "status_path": "/Users/damei/.hermes/repos/my-ai-news/public/data/status.json",
-  "source_health_path": "/Users/damei/.hermes/repos/my-ai-news/public/data/source-health.json",
-  "llm_enabled": false,
+  "raw_items": 80,
+  "stories": 80,
+  "database": "/home/runner/work/my-ai-news/my-ai-news/data/app.db",
+  "publish_dir": "/home/runner/work/my-ai-news/my-ai-news/public/data",
+  "status_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/status.json",
+  "source_health_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/source-health.json",
+  "llm_enabled": true,
   "llm": {
-    "enabled": false,
+    "enabled": true,
     "provider": "deepseek",
     "model": "deepseek-chat",
-    "base_urls": [],
-    "status": "disabled",
+    "base_urls": [
+      "https://api.deepseek.com"
+    ],
+    "status": "success",
     "degraded_items": 0,
     "error_counts": {}
   },
@@ -106,15 +108,15 @@
     {
       "source_id": "ign",
       "source_name": "IGN",
-      "status": "parse_error",
-      "items_fetched": 0,
-      "active_url": null,
+      "status": "success",
+      "items_fetched": 10,
+      "active_url": "https://www.ign.com/rss/articles/feed",
       "attempted_urls": [
         "https://www.ign.com/rss/articles/feed"
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": "bozo parse error: <unknown>:2:495: undefined entity"
+      "error_message": null
     },
     {
       "source_id": "gamespot",
