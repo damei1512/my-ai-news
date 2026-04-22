@@ -4,33 +4,123 @@
     "articles": [
       {
         "category": "数码科技",
-        "tag": "基因治疗",
-        "title": "西湖云谷智药将启动AAV体内CAR-T临床研究",
+        "tag": "生物科技",
+        "title": "西湖云谷智药将启动体内CAR-T IIT研究",
         "link": "https://36kr.com/p/3774632804057607?f=rss",
-        "summary": "礼来斥巨资收购环状RNA公司Orna，引发对体内CAR-T疗法关注。西湖云谷智药即将启动IIT研究，探索相较传统CAR-T更具成本潜力的新路径。",
-        "comment": "体内CAR-T有望突破传统疗法成本瓶颈，是CGT领域重要探索方向。",
+        "summary": "礼来斥巨资收购环状RNA企业Orna，引发对CGT领域关注。西湖云谷智药聚焦AAV体内CAR-T疗法，旨在降低成本，即将启动研究者发起的临床试验。",
+        "comment": "体内CAR-T是降低细胞治疗成本的关键探索方向。",
         "image": "",
-        "score": 97
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "电池技术",
+        "title": "宁德时代发布四款新电池，6分钟充满续航1500公里",
+        "link": "https://www.ifanr.com/1663250?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "宁德时代发布四款全新电池，宣称可实现6分钟充满电，续航里程突破1500公里。",
+        "comment": "电池技术突破显著，但量产与成本仍是关键挑战。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "汽车科技",
+        "title": "荣威联手字节跳动推出AI汽车新序列",
+        "link": "https://www.ifanr.com/1663224?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "荣威与字节跳动合作发布全新“家越”序列，展示其对AI汽车形态的探索。",
+        "comment": "跨界合作瞄准智能出行新场景。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "手机评测",
         "title": "OPPO Find X9 Ultra影像评测：拍照性能突出",
         "link": "https://www.ifanr.com/1661925?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "评测显示OPPO Find X9 Ultra在影像方面表现强劲，被称为今年拍照能力突出的手机。",
-        "comment": "影像实力确实出众，但需结合综合体验判断。",
+        "summary": "评测显示OPPO Find X9 Ultra在影像方面表现强劲，被称作今年最不讲道理的拍照手机。",
+        "comment": "影像实力确实突出，但需注意评测的主观性。",
         "image": "",
-        "score": 92
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "GPT Image 2全量上线，OPPO新机发布，长安整合阿维塔深蓝",
+        "title": "GPT Image 2全量上线，OPPO发新机，长安整合阿维塔深蓝",
         "link": "https://www.ifanr.com/1663271?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "GPT Image 2中文渲染能力获突破；OPPO发布新机并预警价格压力；长安汽车宣布整合旗下阿维塔与深蓝品牌。",
+        "summary": "GPT Image 2中文渲染能力获突破；OPPO发布多款新机，刘作虎称无法承诺全年不涨价；长安汽车宣布整合阿维塔与深蓝品牌。",
         "comment": "AI与硬件领域均有重要进展，行业整合趋势明显。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "仰望U9明日登陆《GT赛车7》，成首款中国超跑",
+        "link": "https://www.gcores.com/articles/213601",
+        "summary": "PlayStation宣布，北京时间4月23日14:00，比亚迪旗下超跑仰望U9将作为首款中国超跑正式加入《跑车浪漫旅7》游戏。",
+        "comment": "中国超跑在顶级赛车游戏中实现零的突破。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威剧集",
+        "title": "IGN评《夜魔侠：重生》S2E6：杰西卡·琼斯回归",
+        "link": "https://www.ign.com/articles/daredevil-born-again-season-2-episode-6-review-recap",
+        "summary": "本周剧集中，克里斯滕·里特饰演的杰西卡·琼斯回归获好评，马特·默多克不杀原则成为剧情焦点。",
+        "comment": "角色回归处理得当，核心矛盾刻画扎实。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/21/daredevil-born-again-episode-6-jessica-jones-thumb-1776798177543.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影评分",
+        "title": "《迈克尔·杰克逊：巨星之路》媒体均分仅38，IGN给出4分",
+        "link": "https://www.gcores.com/articles/213602",
+        "summary": "环球影业发行的迈克尔·杰克逊传记片媒体评分汇总，Metacritic均分仅38分，IGN评分低至4分。影片讲述其从杰克逊五人组到全球巨星的旅程，将于4月24日上映。",
+        "comment": "媒体评价惨淡，影片质量恐难匹配巨星传奇。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "《锈湖》新作《Servant of the Lake》公布，2026年8月推出",
+        "link": "https://www.gcores.com/articles/213604",
+        "summary": "《锈湖》系列公布新作《Servant of the Lake》剧情预告，庆祝系列11周年。正式版2026年8月发布，移动端试玩版现已上线。",
+        "comment": "经典解谜系列再推新作，长线开发考验粉丝耐心。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "综艺乱象",
+        "title": "《乘风2026》被指为成熟诈骗，观众无奈",
+        "link": "https://www.gcores.com/radios/213606",
+        "summary": "机核电台批评《乘风2026》节目组为制造话题不择手段，手段恶劣，观众只能被动接受其成熟的操控模式。",
+        "comment": "选秀节目彻底异化为流量机器，观众沦为被算计的对象。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "快闪店",
+        "title": "吉考斯工业双主题快闪店4月底登陆北京朝阳大悦城",
+        "link": "https://www.gcores.com/articles/213575",
+        "summary": "吉考斯工业宣布将于4月30日至5月20日在北京朝阳大悦城举办为期21天的双主题快闪活动，届时将推出新品并与消费者线下见面。",
+        "comment": "品牌线下快闪活动有助于增强用户粘性与体验。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "Steam周销量榜：《风启之旅》登顶，《识质存在》紧随",
+        "link": "https://www.gcores.com/articles/213595",
+        "summary": "V社公布2026年4月第3周Steam全球销量榜，排除免费游戏。《风启之旅》强势登顶，《识质存在》位列第二，《神探杰克鼠》排名第三。",
+        "comment": "新作《风启之旅》表现强劲，成功登顶周销量榜。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "游戏影视",
@@ -41,6 +131,46 @@
         "comment": "传统影业巨头进军游戏领域，值得关注其内容创新。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "美伊关系",
+        "title": "特朗普推迟对伊朗协议决定，争取外交时间",
+        "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国总统特朗普在密集外交活动后，决定暂缓对伊朗协议采取行动，这是两周内第二次推迟升级冲突的威胁。",
+        "comment": "美伊紧张局势暂缓，但根本矛盾未解。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "苏丹冲突",
+        "title": "报告称哥伦比亚雇佣兵通过手机追踪支持苏丹快速支援部队",
+        "link": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+        "summary": "冲突洞察组织报告显示，哥伦比亚雇佣兵通过手机追踪支持苏丹快速支援部队，并揭示了阿联酋的参与程度。",
+        "comment": "报告揭示了外部势力介入苏丹冲突的新证据。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "劳工权益",
+        "title": "印尼立法承认家政工人法律地位 结束22年抗争",
+        "link": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss",
+        "summary": "印尼通过法律承认家政工人合法地位，该国约420万家政工人中近90%为女性，新法将保障其基本劳动权益。",
+        "comment": "迟来的法律保护，对改善数百万女性劳动者处境至关重要。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "弗吉尼亚州批准选区重划，民主党中期选举获优势",
+        "link": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
+        "summary": "弗吉尼亚州通过新的选区划分地图，可能使民主党在11月更容易控制美国众议院。",
+        "comment": "选区重划直接影响美国政治版图，是两党博弈的关键战场。",
+        "image": "",
+        "score": 86
       }
     ]
   }
