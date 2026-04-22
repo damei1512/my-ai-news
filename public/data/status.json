@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-04-22T11:18:29Z",
+  "finished_at": "2026-04-22T12:59:09Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -17,11 +17,9 @@
     "base_urls": [
       "https://api.deepseek.com"
     ],
-    "status": "degraded",
-    "degraded_items": 2,
-    "error_counts": {
-      "unexpected_error": 2
-    }
+    "status": "success",
+    "degraded_items": 0,
+    "error_counts": {}
   },
   "source_statuses": [
     {
