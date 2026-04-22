@@ -1,10 +1,10 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-04-22T09:11:52Z",
+  "finished_at": "2026-04-22T11:18:29Z",
   "sources": 9,
   "raw_items": 80,
-  "stories": 78,
+  "stories": 80,
   "database": "/home/runner/work/my-ai-news/my-ai-news/data/app.db",
   "publish_dir": "/home/runner/work/my-ai-news/my-ai-news/public/data",
   "status_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/status.json",
@@ -17,9 +17,11 @@
     "base_urls": [
       "https://api.deepseek.com"
     ],
-    "status": "success",
-    "degraded_items": 0,
-    "error_counts": {}
+    "status": "degraded",
+    "degraded_items": 2,
+    "error_counts": {
+      "unexpected_error": 2
+    }
   },
   "source_statuses": [
     {
