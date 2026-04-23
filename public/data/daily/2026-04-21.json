@@ -5,40 +5,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Meta将记录员工键盘操作用于AI模型训练",
-        "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-        "summary": "Meta推出内部工具，将员工鼠标移动和按键点击转化为可训练AI模型的数据。",
-        "comment": "企业数据收集边界引发新的隐私伦理讨论。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "SpaceX拟600亿美元收购Cursor，补强AI布局",
-        "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-        "summary": "SpaceX与Cursor达成合作并拥有600亿美元收购期权，双方试图弥补各自在AI模型领域的短板，但均缺乏能与Anthropic等领先者匹敌的专有模型。",
-        "comment": "巨头跨界收购凸显AI军备竞赛升级，但技术短板仍是挑战。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "苹果",
-        "title": "苹果新掌门约翰·特努斯将执掌全球最具影响力公司之一",
-        "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-        "summary": "苹果公司新任CEO约翰·特努斯将执掌这家全球最具影响力的科技企业，职位权力巨大但挑战重重。",
-        "comment": "苹果领导层更迭面临内外压力，考验新任CEO平衡能力。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "NeoCognition获4000万美元种子轮融资，研发类人学习AI智能体",
-        "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-        "summary": "由俄亥俄州立大学研究员创立的人工智能实验室NeoCognition获得4000万美元种子轮融资，致力于开发能够像人类一样学习、并在任何领域成为专家的AI智能体。",
-        "comment": "巨额种子融资显示市场对通用学习能力的AI代理抱有极高期待。",
+        "title": "OpenAI发布ChatGPT Images 2.0图像生成模型",
+        "link": "https://openai.com/index/introducing-chatgpt-images-2-0",
+        "summary": "ChatGPT Images 2.0推出新一代图像生成模型，具备改进的文本渲染、多语言支持和高级视觉推理能力。",
+        "comment": "图像生成技术在多语言和文本渲染上取得重要突破。",
         "image": "",
         "score": 100
       },
@@ -47,130 +17,40 @@
         "tag": "人工智能",
         "title": "OpenAI推出Codex Labs，与埃森哲等合作助力企业部署AI编程",
         "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-        "summary": "OpenAI发布Codex Labs，与埃森哲、普华永道、印孚瑟斯等合作，帮助企业在其软件开发周期中部署和扩展Codex，用户已达400万。",
-        "comment": "AI编程工具正加速渗透企业级市场，生态合作是关键。",
+        "summary": "OpenAI发布Codex Labs，与埃森哲、普华永道、Infosys等机构合作，帮助企业在其软件开发周期中部署和扩展Codex，目前用户已达400万。",
+        "comment": "AI编程工具正加速渗透企业级市场，生态合作成为关键。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "人工智能安全",
-        "title": "Anthropic网络工具Mythos疑遭未授权访问",
-        "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-        "summary": "Anthropic回应称正在调查相关报告，但强调目前没有证据表明其系统受到影响。",
-        "comment": "AI安全工具自身安全受挑战，行业需加强防护体系。",
-        "image": "",
-        "score": 99
-      },
-      {
         "category": "数码科技",
-        "tag": "人事变动",
-        "title": "星巴克否认开放加盟，苹果CEO库克将交棒特纳斯",
-        "link": "https://36kr.com/p/3776458805904129?f=rss",
-        "summary": "星巴克中国回应开放加盟传闻为不实信息。苹果公司宣布特纳斯将接替库克担任CEO。猛士汽车与华为乾崑联合发布智能越野技术，长安汽车目标2030年营收达6000亿元。",
-        "comment": "科技巨头人事变动与汽车智能化合作成今日焦点。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "科技资讯",
-        "title": "MCN回应千万打赏案，苹果CEO更换原因曝光，油价首次下调",
+        "tag": "数码科技",
+        "title": "MCN回应千万打赏案，苹果CEO更换原因曝光，国内油价首次下调",
         "link": "https://36kr.com/p/3777227930224900?f=rss",
-        "summary": "MCN机构回应女孩挪用千万打赏主播事件；苹果CEO更换原因曝光；国内油价2026年首次下调；全国5G基站达495.8万个；猪价回暖，5家公司净利润超亿元。",
-        "comment": "科技与民生热点交织，反映当前社会关注焦点。",
+        "summary": "MCN机构回应女孩挪用千万打赏主播事件；苹果CEO更换原因被披露；国内油价迎来2026年首次下调。",
+        "comment": "科技与民生热点交织，反映监管与市场新动态。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "智界V9",
-        "title": "智界V9获年均12万辆生产指引，供应商积极备产",
+        "tag": "智界",
+        "title": "智界V9获年均12万辆生产指引，供应商积极备货",
         "link": "https://36kr.com/p/3776741071571200?f=rss",
         "summary": "华为与奇瑞联合打造的智界品牌将翻身希望押注于V9车型，已向供应商下达年均约12万辆生产量纲，接近去年别克GL8全年销量。宁德时代与中创新航已准备过万套月产能，部分供应商按1.5万辆/月峰值备件。",
-        "comment": "供应链积极备产显示市场对华为赋能车型抱有较高期待。",
+        "comment": "供应链积极备货显示市场对华为智选车模式信心回升。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "宠物科技",
-        "title": "PettiChat获百万美元种子轮融资，研发宠物AI翻译器",
-        "link": "https://36kr.com/p/3769659305427459?f=rss",
-        "summary": "宠物AI科技公司PettiChat完成100万美元种子轮融资，资金将用于动物行为模型研发、数据集构建及首款硬件产品市场推广。",
-        "comment": "瞄准人宠沟通空白市场，但技术落地与市场需求仍需验证。",
-        "image": "",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "地产中介",
-        "title": "我爱我家去年亏损9663万，租赁业务成支柱",
-        "link": "https://36kr.com/p/3776220864103171?f=rss",
-        "summary": "我爱我家2025年营收104.8亿元，同比下滑16.4%；净利润亏损9663.1万元，同比大幅减少231.63%。",
-        "comment": "地产中介持续承压，租赁业务成关键支撑。",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "人工智能",
-        "title": "四大AI模型建群聊，探索多智能体协作",
-        "link": "https://www.ifanr.com/1663150?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "报道探讨了将DeepSeek、Kimi、智谱和MiniMax等大语言模型置于同一对话环境中的实验，旨在观察多智能体间的互动与协作潜力。",
-        "comment": "多模型交互实验，为AI协作生态提供了有趣视角。",
-        "image": "",
-        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "新能源汽车",
         "title": "乐道L90租电17.98万起，补齐智驾短板",
         "link": "https://www.ifanr.com/1663200?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "乐道L90推出租电方案，起售价17.98万元，重点提升了智能驾驶能力，旨在增强产品竞争力。",
-        "comment": "租电模式与智驾升级，是乐道应对激烈竞争的关键组合拳。",
+        "summary": "乐道L90车型推出租电方案，起售价17.98万元，重点提升了智能驾驶能力，旨在增强产品竞争力。",
+        "comment": "租电模式降低门槛，补齐智驾是提升竞争力的关键一步。",
         "image": "",
         "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "影视周边",
-        "title": "《木乃伊》限定版铁盒4K蓝光开启预购",
-        "link": "https://www.gamespot.com/articles/lee-cronins-the-mummy-buyin-guide/1100-6539471/?ftag=CAD-01-10abi2f",
-        "summary": "GameSpot报道，李·克罗宁执导的恐怖片《木乃伊》将推出限定版铁盒4K蓝光碟，售价38美元，具体发行日期待定，已在亚马逊开启预购。",
-        "comment": "限定版铁盒为影碟收藏者提供了新选择。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4684104-the-mummy.jpg",
-        "score": 89
-      },
-      {
-        "category": "数码科技",
-        "tag": "OPPO",
-        "title": "OPPO Find X9 Ultra发布：主打演唱会拍摄功能",
-        "link": "https://www.ifanr.com/1663069?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OPPO发布Find X9 Ultra手机，重点针对演唱会等远距离、复杂光线场景的拍摄能力进行了优化，提出新的解决方案。",
-        "comment": "在手机影像内卷中，OPPO试图通过细分场景寻找差异化突破。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "数码科技",
-        "tag": "平板电脑",
-        "title": "OPPO Pad mini体验：小尺寸平板的多功能设计",
-        "link": "https://www.ifanr.com/1663122?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OPPO Pad mini作为小尺寸平板，强调多功能性而非仅限游戏，适合便携使用。",
-        "comment": "小尺寸平板市场需要更多差异化产品。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "人工智能",
-        "title": "Meta将追踪员工点击与按键数据用于AI训练",
-        "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Meta公司计划收集员工在工作中的点击和按键数据，用于训练其人工智能模型。",
-        "comment": "此举引发对员工隐私与数据伦理的担忧。",
-        "image": "",
-        "score": 87
       }
     ]
   }
