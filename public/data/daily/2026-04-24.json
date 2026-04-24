@@ -4,51 +4,71 @@
     "articles": [
       {
         "category": "数码科技",
-        "tag": "DeepSeek",
-        "title": "DeepSeek V4发布，性能提升但留下五道难题",
-        "link": "https://36kr.com/p/3780375304312072?f=rss",
-        "summary": "DeepSeek V4正式发布，拥有1.6T参数、1M上下文窗口，针对Agent优化，采用MoE和DSA机制降低计算需求，但仍有五个未解问题。",
-        "comment": "技术突破显著，但未解问题影响落地。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "数码科技",
         "tag": "茅台",
-        "title": "茅台2025年营收净利双降，终结二十余年正增长",
+        "title": "茅台2025年营收净利双降，上市以来首次",
         "link": "https://36kr.com/p/3780191213229314?f=rss",
-        "summary": "贵州茅台发布2025年财报，营收1720.54亿元，同比下降1.2%；归母净利润823.2亿元，同比下降4.53%，为上市以来首次双降，终结二十余年正增长纪录。",
-        "comment": "茅台增长神话破灭，行业调整信号明显。",
+        "summary": "贵州茅台发布2025年财报，营收1720.54亿元，同比下降1.2%；归母净利润823.2亿元，同比下降4.53%，为上市以来首次双降，股价次日一度跌破1400元。",
+        "comment": "茅台增长神话终结，行业调整信号明显。",
         "image": "",
         "score": 98
       },
       {
         "category": "数码科技",
-        "tag": "AI视频编辑",
-        "title": "AI视频编辑平台Buzzy获2000万美元融资，推出视频版Photoshop",
-        "link": "https://36kr.com/p/3780352721851397?f=rss",
-        "summary": "AI内容创作公司感知阶跃旗下视频编辑Agent平台Buzzy获2000万美元融资，其ARR达2000万美元。用户通过自然语言指令即可驱动Agent完成视频背景去除、光线修正等编辑操作，面向C端创作者和中小商家。",
-        "comment": "自然语言驱动视频编辑，降低创作门槛，商业化前景可期。",
+        "tag": "微盟",
+        "title": "微盟AI收入破亿后推行AI First战略，面临B端交付挑战",
+        "link": "https://36kr.com/p/3780556402531330?f=rss",
+        "summary": "微盟在2026年4月22日上海城市峰会上正式发布AI First战略，基于2025年财报显示AI业务收入首次突破亿元，下半年环比增长130%，但面临B端交付挑战。",
+        "comment": "AI收入增长亮眼，但战略落地需克服交付难题。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
-        "tag": "AI电子纸",
+        "tag": "DeepSeek",
+        "title": "DeepSeek V4发布，参数量1.6T上下文1M",
+        "link": "https://36kr.com/p/3780375304312072?f=rss",
+        "summary": "DeepSeek V4正式发布，最大参数量1.6T，上下文窗口1M，针对Agent优化，采用MoE和稀疏注意力机制DSA降低计算需求。",
+        "comment": "性能参数亮眼，但未解问题仍存。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI视频编辑",
+        "title": "AI视频编辑平台Buzzy获2000万美元融资，被称为视频版Photoshop",
+        "link": "https://36kr.com/p/3780352721851397?f=rss",
+        "summary": "AI内容创作公司感知阶跃旗下视频编辑Agent平台Buzzy获2000万美元融资，ARR达2000万美元。用户可通过自然语言指令驱动Agent进行背景去除、光线修正等编辑操作，面向C端创作者和中小商家。",
+        "comment": "自然语言驱动视频编辑，或降低创作门槛。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "电子纸",
         "title": "博裕、经纬、顺为等投资前新石器COO超亿元，押注AI超便携电子纸",
         "link": "https://36kr.com/p/3778175428777218?f=rss",
-        "summary": "AI超便携电子纸品牌阅星曈完成天使轮至A轮累计超亿元融资，投资方包括博裕创投、清流资本、小红书、经纬创投、顺为资本等，资金将用于完善生产制。",
-        "comment": "手机背面闲置空间成新赛道，资本押注AI电子纸。",
+        "summary": "AI超便携电子纸品牌阅星曈完成天使轮至A轮融资，累计超亿元，投资方包括博裕创投、清流资本、小红书、经纬创投、顺为资本等，资金用于完善生产制程。",
+        "comment": "手机背面空间成新战场，电子纸赛道获资本青睐。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
         "tag": "华谊兄弟",
-        "title": "华谊兄弟被申请破产重整；普华永道因恒大审计赔偿10亿港元",
+        "title": "华谊兄弟被申请破产重整；普华永道因恒大审计赔偿10亿港元；伊朗将恢复往返中国的航班",
         "link": "https://36kr.com/p/3780065714148610?f=rss",
-        "summary": "今日热点包括抖音整治AI不当内容、德国汉莎削减航班、大众在美召回车辆、光线传媒3A游戏进展顺利。华谊兄弟被申请破产重整，普华永道因恒大审计赔偿10亿港元，伊朗将恢复往返中国航班。",
+        "summary": "今日热点：抖音整治AI不当内容；德国汉莎拟削减2万架次航班；大众在美召回18853辆汽车；光线传媒3A游戏进展顺利；华谊兄弟被申请破产重整。",
         "comment": "华谊兄弟破产重整申请标志影视行业寒冬加剧。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI4S",
+        "title": "AI4S企业奥明星程获超亿元A轮融资",
+        "link": "https://36kr.com/p/3778831119897600?f=rss",
+        "summary": "AI for Science公司奥明星程完成超亿元A轮融资，由深创投、复星医药等投资，并与深圳湾实验室等机构合作，布局技术研发、临床应用及产业生态。",
+        "comment": "生物智能基础设施赛道获资本青睐，产学研协同加速。",
         "image": "",
         "score": 97
       },
@@ -57,28 +77,28 @@
         "tag": "小红书",
         "title": "小红书用“活人感”做科技社区，能否成功？",
         "link": "https://36kr.com/p/3778772970444033?f=rss",
-        "summary": "文章探讨小红书作为综合社区，如何通过引入KOL和KOC，以“活人感”内容切入科技领域，对比豆包、千问等大公司产品，分析其垂类用户增长挑战。",
-        "comment": "社区做科技，活人感是差异化关键。",
+        "summary": "文章探讨小红书如何通过“活人感”策略打造科技社区，对比豆包、千问等AI应用，分析社区在科技内容上的优势与垂类用户增长瓶颈。",
+        "comment": "活人感或成社区破局关键，但挑战仍存。",
         "image": "",
         "score": 96
       },
       {
-        "category": "数码科技",
-        "tag": "AI for Science",
-        "title": "AI4S企业奥明星程获超亿元A轮融资",
-        "link": "https://36kr.com/p/3778831119897600?f=rss",
-        "summary": "AI for Science公司奥明星程完成超亿元A轮融资，投资方包括深创投、复星医药等，并与深圳湾实验室等机构合作，布局技术研发、临床应用及产业生态。",
-        "comment": "AI4S赛道资本热度持续，产业协同是关键。",
-        "image": "",
-        "score": 96
+        "category": "游戏影视",
+        "tag": "Meta",
+        "title": "Meta将裁员8000人，关闭6000个职位招聘",
+        "link": "https://www.ign.com/articles/meta-to-sack-8000-employees-closing-6000-open-job-listings",
+        "summary": "Meta持续转向AI相关投资，宣布裁员8000人并关闭6000个空缺职位。",
+        "comment": "AI投资加速，传统岗位承压。",
+        "image": "https://assets-prd.ignimgs.com/2023/03/14/meta-zuckerberg-image-1678821492410.jpg",
+        "score": 95
       },
       {
         "category": "数码科技",
         "tag": "DeepSeek",
         "title": "DeepSeek V4首发华为芯片，国产AI打破英伟达垄断",
         "link": "https://www.ifanr.com/1663704?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "DeepSeek V4确认首发搭载华为芯片，支持百万长上下文，优化token利用率，国产AI突破英伟达依赖。",
-        "comment": "国产AI芯片生态迈出关键一步。",
+        "summary": "DeepSeek V4模型首发搭载华为芯片，支持百万长上下文，高效利用每个token，标志国产AI在硬件生态上取得突破。",
+        "comment": "国产AI芯片生态迎来关键里程碑。",
         "image": "",
         "score": 93
       },
@@ -88,27 +108,47 @@
         "title": "GPT-5.5发布，Claude Code修复降智问题",
         "link": "https://www.ifanr.com/1663666?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "GPT-5.5版本正式发布，同时Claude Code连夜修复了降智问题，引发行业关注。",
-        "comment": "AI竞赛持续升级，技术迭代加速。",
+        "comment": "AI竞赛加速，版本迭代频率惊人。",
         "image": "",
         "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "PS5",
+        "title": "《纱罗周期》：PS5独占弹幕射击肉鸽3A新作",
+        "link": "https://www.gcores.com/videos/213725",
+        "summary": "《纱罗周期》将弹幕射击与肉鸽要素融合为3A大作，注重玩法与关卡设计，并充分利用PS5机能，适合喜欢高强度快节奏动作射击的玩家。",
+        "comment": "弹幕射击肉鸽3A化，PS5机能深度结合，玩法导向的诚意之作。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "猛士",
+        "title": "猛士M817 Ultimate亮相：硬派越野兼具强健与智能",
+        "link": "https://www.ifanr.com/1663794?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "猛士M817 Ultimate在北京车展亮相，定位硬派越野，强调既具备强大越野性能，又融入智能科技，打造“四肢发达、头脑聪明”的越野品牌形象。",
+        "comment": "硬派越野智能化趋势明显，猛士布局精准。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "华为",
+        "title": "华为 Pura 90 Pro Max 评测：6499元起影像旗舰",
+        "link": "https://www.ifanr.com/1663707?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "华为 Pura 90 Pro Max 售价6499元起，评测称其为最难绕开的影像旗舰，主打拍照性能。",
+        "comment": "定价有竞争力，但联名配色建议略显随意。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "小米",
         "title": "小米YU7 GT定档5月底，马力超千匹",
         "link": "https://www.ifanr.com/1663691?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米YU7 GT将于5月底发布，马力1003匹，极速300km/h，续航700km，车身更长更宽更低趴。",
-        "comment": "性能参数亮眼，小米汽车高端化再进一步。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "华为",
-        "title": "华为Pura 90 Pro Max评测：6499元起影像旗舰",
-        "link": "https://www.ifanr.com/1663707?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为Pura 90 Pro Max售价6499元起，评测称其为最难绕开的影像旗舰，突出摄影性能。",
-        "comment": "定价合理，影像实力突出，但创新有限。",
+        "summary": "马力1003匹，极速300km/h，续航700km，更长更宽更低趴，将在北京车展亮相。",
+        "comment": "性能参数亮眼，但量产交付仍是关键。",
         "image": "",
         "score": 91
       },
@@ -117,8 +157,8 @@
         "tag": "华为",
         "title": "华为Pura X Max体验：折叠屏手机早该如此",
         "link": "https://www.ifanr.com/1663613?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "折叠屏设计并非为折而折，而是为了提升视觉和使用体验，华为Pura X Max在实用性和体验上做出优化。",
-        "comment": "折叠屏终于回归实用本质，体验升级明显。",
+        "summary": "折叠屏设计旨在提升使用体验，而非仅为折叠或大屏。华为Pura X Max在实用性和体验上做出优化。",
+        "comment": "折叠屏终于回归实用本质。",
         "image": "",
         "score": 91
       },
@@ -135,19 +175,29 @@
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "多人在线陶艺派对乱斗游戏《Kiln》正式上线",
-        "link": "https://www.gcores.com/articles/213708",
-        "summary": "Double Fine 推出的《Kiln》现已登陆 Xbox Series X|S、PC、PS5、Steam，支持 Xbox Game Pass Ultimate，并针对掌机优化。",
-        "comment": "创意玩法结合陶艺，派对乱斗新选择。",
+        "title": "《色系战记》5月7日Steam发售，定价44元",
+        "link": "https://www.gcores.com/articles/213717",
+        "summary": "创新卡组构筑Roguelike游戏《色系战记》将于2026年5月7日登陆Steam，定价44元，首发两周85折，愿望单已破万。",
+        "comment": "创意卡牌玩法值得关注，定价亲民。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "轨道双子星",
+        "title": "《轨道双子星》夏季登陆Switch 2，全新实机演示公开",
+        "link": "https://www.gcores.com/articles/213709",
+        "summary": "开发商Shapefarm与发行商Kepler Interactive今日首度公开双人合作冒险游戏《轨道双子星》全新实机演示，该作受复古动漫启发，将于今年夏季在Nintendo Switch 2独占推出。",
+        "comment": "复古动漫风格的双人合作玩法值得期待。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "流放者柯南",
-        "title": "《流放者柯南》增强版5月5日上线，免费视觉升级",
+        "title": "《流放者柯南》增强版5月5日免费上线，视觉大升级",
         "link": "https://www.gcores.com/articles/213701",
-        "summary": "Funcom宣布《流放者柯南》增强版将于5月5日推出，基于虚幻引擎5进行免费视觉升级，提升画面与性能，现有Steam玩家可免费获取。",
+        "summary": "Funcom宣布《流放者柯南》增强版将于5月5日推出，基于虚幻引擎5进行免费视觉升级，提升画面与性能，现有Steam玩家均可免费获得。",
         "comment": "免费升级诚意足，虚幻5加持值得期待。",
         "image": "",
         "score": 91
@@ -155,112 +205,142 @@
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《斩月封魔录》Steam测试4月27日开启",
-        "link": "https://www.gcores.com/articles/213706",
-        "summary": "国产暗黑神话动作肉鸽《斩月封魔录》将于4月27日在Steam开启十天公开测试，测试报名已于4月24日开放，玩家可前往商店页申请资格。",
-        "comment": "封神题材肉鸽，法宝渡劫系统有特色。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "东映",
-        "title": "东映游戏品牌TOEI GAMES公布首批原创游戏",
-        "link": "https://www.gcores.com/articles/213704",
-        "summary": "东映游戏业务新品牌TOEI GAMES公布首批发行作品，包括3D冒险推理游戏《KILLA》等三款原创游戏，未使用东映现有IP。",
-        "comment": "东映以原创游戏试水，而非依赖IP，策略值得关注。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "异形工厂2",
-        "title": "《异形工厂2》1.0正式版上线，销量破70万",
-        "link": "https://www.gcores.com/articles/213703",
-        "summary": "德国工作室tobspr Games开发、Gamirror Games发行的《异形工厂2》结束抢先体验，在Steam推出1.0正式版，开启八折优惠，前作玩家额外10%折扣，累计销量超70万份，获好评如潮。",
-        "comment": "销量口碑双丰收，自动化品类再添佳作。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "卡普空六年磨一剑，《识质存在》香不香？",
-        "link": "https://www.gcores.com/radios/213698",
-        "summary": "机核与普通玩家联动，主播Even与夜猫子讨论卡普空新作《识质存在》，分享感想与批判，涉及跳票等话题。",
-        "comment": "深度联动评测，但内容略显拖沓。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "领主争锋",
         "title": "《领主争锋》DLC“朝圣战争”登陆PC，主机版稍后",
         "link": "https://www.gcores.com/articles/213713",
-        "summary": "Deck13 Spotlight与Argonwood宣布，回合制策略游戏《领主争锋》官方DLC“朝圣战争”现已上线Steam与GOG，今年晚些时候登陆Xbox和Switch，引入全新国家。",
-        "comment": "DLC拓展游戏世界，策略玩家值得关注。",
+        "summary": "Deck13 Spotlight与Argonwood宣布回合制策略游戏《领主争锋》官方DLC“朝圣战争”现已上线Steam与GOG，今年晚些将登陆Xbox和Switch，引入全新国家。",
+        "comment": "DLC拓展内容扎实，主机玩家需等待。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《困兽之国》登陆移动端，Steam首迎34%折扣",
+        "title": "《崩溃小队》5月28日发售，首发加入Game Pass",
+        "link": "https://www.gcores.com/articles/213710",
+        "summary": "开发商Aggro Crab宣布新作《崩溃小队》将于2026年5月28日发售，登陆PC、Xbox Series X|S及Windows平台，首发加入Game Pass。游戏为1-4人合作，主题是驾驶叉车完成订单。",
+        "comment": "叉车主题合作游戏，玩法新颖但受众有限。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "多人在线陶艺派对乱斗游戏《Kiln》正式上线",
+        "link": "https://www.gcores.com/articles/213708",
+        "summary": "Double Fine推出的《Kiln》现已登陆Xbox Series X|S、PC、PS5、Steam，支持Xbox Play Anywhere，并加入XGP Ultimate，针对掌机优化。",
+        "comment": "创意玩法结合陶艺，派对乱斗新体验。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏评测",
+        "title": "《Saros》评测：野心未竟，动作依旧爽快",
+        "link": "https://www.ign.com/articles/saros-review",
+        "summary": "Housemarque新作《Saros》虽未完全实现其宏大野心，但流畅的动作设计依然令人印象深刻，保持了工作室一贯的高水准。",
+        "comment": "动作体验出色，但叙事深度有待提升。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/23/saros-review-blogroll-a-1776985336612.jpg",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "桌游",
+        "title": "桌游换风味：几张牌如何改变故事？录音笔VOL.687",
+        "link": "https://www.gcores.com/radios/213723",
+        "summary": "GPASS会员专享节目，记录机核办公室日常短小对话，时长约十几分钟，内容包含碎碎念、暴言或真实对话录音，风格随意。",
+        "comment": "桌游机制创新，小改动带来大风味变化。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《光与影：33号远征队》官方艺术设定集中文版发售",
+        "link": "https://www.gcores.com/articles/213711",
+        "summary": "《光与影：33号远征队》官方艺术设定集中文版发售，完整保留法文原版内容，经细致翻译校对，收录奇幻美术风格与创作故事。",
+        "comment": "设定集为游戏美术爱好者提供深度创作解析。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "爱泼斯坦",
+        "title": "BBC揭露：爱泼斯坦在伦敦公寓安置虐待受害者",
+        "link": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC调查发现，爱泼斯坦在伦敦拥有多处公寓，用于安置虐待受害者，这加剧了对警方2015年未调查贩卖指控的担忧。",
+        "comment": "警方失职纵容了系统性犯罪。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《困兽之国》登陆移动端，Steam首次-34%折扣",
         "link": "https://www.gcores.com/articles/213712",
-        "summary": "黑暗奇幻像素RPG《困兽之国》正式登陆iOS与Android，全平台新增波兰语和西班牙语支持。Steam同步开启限时34%折扣，庆祝移动端上线。",
-        "comment": "移动端移植诚意足，折扣力度尚可。",
+        "summary": "Deck13 Spotlight与Just2D宣布黑暗奇幻像素RPG《困兽之国》登陆iOS与Android，全平台新增波兰语与西班牙语支持，Steam同步开启限时-34%折扣。",
+        "comment": "移动端上线配合折扣，利好新玩家入坑。",
         "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "精酿啤酒",
-        "title": "首钢园北京精酿啤酒节，机核请你喝一杯",
-        "link": "https://www.gcores.com/articles/212738",
-        "summary": "亚洲最大精酿啤酒节5月1日至4日于北京首钢园举办，机核网提供免费啤酒兑换券，数量有限先到先得。",
-        "comment": "精酿啤酒节回归，机核福利吸引玩家参与。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "BOOOMJam 公布“视界限”开发主题",
-        "link": "https://www.gcores.com/articles/213478",
-        "summary": "BOOOM x 骁龙游戏创想大赛启动，包含限时主题创作挑战 BOOOMJam 和移动端游戏征集 BOOOMSeek，开发阶段即将开始。",
-        "comment": "主题有创意，期待开发者突破视觉边界。",
-        "image": "",
-        "score": 88
+        "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "美军",
-        "title": "美军士兵因押注马杜罗下台赢40万美元被起诉",
+        "tag": "美国",
+        "title": "美国士兵因押注马杜罗下台赢40万美元被起诉",
         "link": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国司法部称，士兵Gannon Ken Van Dyke涉嫌利用机密信息在Polymarket交易，押注马杜罗下台并获利40万美元。",
-        "comment": "利用机密信息赌博，暴露监管漏洞。",
+        "summary": "美国司法部称，士兵Gannon Ken Van Dyke涉嫌利用机密信息在Polymarket进行交易，赢得40万美元。",
+        "comment": "利用机密信息赌博，性质恶劣。",
         "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "白宫",
-        "title": "白宫备忘录指控中国公司大规模窃取AI技术",
-        "link": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
-        "summary": "白宫科技政策办公室迈克尔·克拉齐奥斯发布备忘录，称中国公司不当蒸馏美国AI模型，构成大规模知识产权盗窃。",
-        "comment": "指控升级但缺乏具体证据，或为政策铺垫。",
-        "image": "",
-        "score": 88
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "特朗普",
-        "title": "特朗普对BBC表示国王访美绝对有助修复英美关系",
+        "title": "特朗普称国王访英绝对有助修复美英关系",
         "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
         "summary": "特朗普在接受BBC北美编辑电话采访时，讨论了国王下周的访问及其与英国首相的关系。",
-        "comment": "特朗普借国王访美释放缓和信号。",
+        "comment": "特朗普对英王室示好，意在缓和外交紧张。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "肯尼亚",
+        "title": "肯尼亚总统嘲笑尼日利亚英语口音引发争议",
+        "link": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
+        "summary": "肯尼亚总统威廉·鲁托称肯尼亚人英语水平世界一流，而尼日利亚人英语难以理解，此言引发尼日利亚民众强烈不满。",
+        "comment": "领导人言论不当，加剧区域紧张。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "韩国",
+        "title": "韩国警方逮捕发布AI合成逃跑狼照片男子",
+        "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss",
+        "summary": "一张广泛传播的AI合成狼照片促使当局调整搜索行动，韩国警方已逮捕发布者。",
+        "comment": "AI虚假信息干扰公共安全，需加强监管。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "原住民",
+        "title": "因插画家评论攻击事件，原住民儿童读物被撤",
+        "link": "https://www.bbc.com/news/articles/c87wzv3lv1vo?at_medium=RSS&at_campaign=rss",
+        "summary": "多位作家因昆士兰大学出版社取消该书而与其断绝关系。",
+        "comment": "言论边界与出版责任引发争议。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "澳洲",
+        "title": "澳洲内陆厕所坍塌，女子被困粪坑三小时",
+        "link": "https://www.bbc.com/news/articles/clyedj166k5o?at_medium=RSS&at_campaign=rss",
+        "summary": "一名女子在澳洲内陆使用坑式厕所时，厕所坍塌，导致她腰部以下陷入粪坑，被困三小时后获救。",
+        "comment": "基础设施隐患凸显偏远地区安全风险。",
+        "image": "",
+        "score": 83
       }
     ]
   }
