@@ -4,31 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "旧金山湾区房产交易要求买家持有Anthropic股权",
-        "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-        "summary": "一处位于米尔谷的13英亩房产挂牌，卖家要求买家以Anthropic股权作为交易条件，而非现金。",
-        "comment": "AI公司股权成硬通货，反映科技资产流动性新趋势。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI发布AGI惠及全人类的五项原则",
         "link": "https://openai.com/index/our-principles",
-        "summary": "OpenAI CEO Sam Altman分享五项工作原则，旨在确保通用人工智能惠及全人类，指导公司发展方向。",
+        "summary": "OpenAI CEO Sam Altman分享五项工作原则，旨在确保通用人工智能（AGI）造福全人类，指导公司发展方向。",
         "comment": "原则明确，但执行细节待观察。",
         "image": "",
         "score": 100
       },
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "旧金山湾区豪宅交易需Anthropic股权",
+        "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+        "summary": "一处位于米尔谷的13英亩房产提出非传统交易条件，要求买家以Anthropic公司股权支付。",
+        "comment": "AI公司股权成房产硬通货，折射科技泡沫新形态。",
+        "image": "",
+        "score": 99
+      },
+      {
         "category": "数码科技",
         "tag": "磁悬浮",
-        "title": "全球唯二中国唯一造出微米级磁悬浮魔毯已大规模量产",
+        "title": "全球唯二中国唯一造出微米级磁悬浮魔毯，已大规模量产",
         "link": "https://36kr.com/p/3782960065108996?f=rss",
-        "summary": "增广智能掌握六自由度平面磁悬浮输送系统核心技术，实现微米级精度，已大规模量产，破解工厂效率与柔性不可兼得痛点。",
-        "comment": "磁悬浮技术落地工业场景，中国制造再添硬核突破。",
+        "summary": "增广智能掌握六自由度平面磁悬浮输送系统核心技术，解决工厂流水线效率与柔性不可兼得痛点，已实现大规模量产。",
+        "comment": "磁悬浮技术突破，中国智造再添硬核实力。",
         "image": "",
         "score": 98
       },
@@ -37,8 +37,8 @@
         "tag": "润芯微",
         "title": "润芯微发布国产软硬一体AI智能基座，推动多端智能变革",
         "link": "https://36kr.com/p/3782901034785801?f=rss",
-        "summary": "4月25日，润芯微在北京车展发布“国产软硬一体AI智能基座”，展示其“芯片+操作系统+AI”全栈方案，覆盖多端场景，并透露车载座舱量产及openvela兼容性认证进展。",
-        "comment": "全栈方案有望缓解行业碎片化难题。",
+        "summary": "4月25日，润芯微在北京车展发布“国产软硬一体AI智能基座”，展示其“芯片+操作系统+AI”全栈方案，涵盖车载座舱等多端场景，已实现百万量产上车。",
+        "comment": "全栈方案填补行业稀缺，多端落地验证技术实力。",
         "image": "",
         "score": 97
       },
@@ -47,8 +47,8 @@
         "tag": "欧莱雅",
         "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题",
         "link": "https://36kr.com/p/3783249100397570?f=rss",
-        "summary": "欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官，聚焦奢华香氛领域，吸引超72000人报名，六支队伍进决赛，三支队伍分获冠亚季军，将赴巴黎参加全球总决赛。",
-        "comment": "AI正成为美妆行业创新与青年人才竞赛的关键驱动力。",
+        "summary": "欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官，聚焦奢华香氛领域，吸引超72000人报名，六支队伍决赛，三支胜出将赴巴黎参加全球总决赛。",
+        "comment": "AI正成为美妆行业创新的核心驱动力。",
         "image": "",
         "score": 96
       },
@@ -57,29 +57,19 @@
         "tag": "Steam",
         "title": "特朗普白宫晚宴枪手疑为独立游戏开发者，其Steam游戏遭差评轰炸",
         "link": "https://www.ign.com/articles/steam-game-allegedly-developed-by-suspected-gunman-at-trump-white-house-press-dinner-is-being-review-bombed",
-        "summary": "试图闯入华盛顿希尔顿酒店白宫记者晚宴的嫌疑人自称独立游戏开发者，其Steam游戏正被大量差评攻击。",
-        "comment": "事件折射游戏开发者身份与极端行为的关联性。",
+        "summary": "试图闯入华盛顿希尔顿酒店白宫记者晚宴的嫌疑人自称独立游戏开发者，其Steam游戏页面正被大量差评攻击。",
+        "comment": "事件将游戏开发者身份与暴力行为关联，引发争议。",
         "image": "https://assets-prd.ignimgs.com/2026/04/26/ss-0a48a7a5c04d220fb2d88363e45675a00face723-1920x1080-1777242371382.jpg",
         "score": 95
       },
       {
         "category": "游戏影视",
         "tag": "电影",
-        "title": "迈克尔传记片全球首周票房2.17亿美元，创传记片开画纪录",
+        "title": "迈克尔传记片全球首周票房2.17亿美元，创传记片纪录",
         "link": "https://www.ign.com/articles/michael-overtakes-oppenheimer-with-biggest-box-office-debut-ever-for-a-biopic",
-        "summary": "迈克尔传记片全球首周票房达2.17亿美元，超越《奥本海默》成为传记片开画纪录新王，表现强劲。",
-        "comment": "传记片票房天花板被刷新，市场对名人故事需求旺盛。",
+        "summary": "迈克尔传记片全球首周票房达2.17亿美元，超越《奥本海默》成为传记片开画纪录新高。",
+        "comment": "传记片市场热度持续攀升，票房潜力被重新定义。",
         "image": "https://assets-prd.ignimgs.com/2026/02/10/michaelbehindthescenesfeaturette-ign-blogroll-1770740444047.jpg",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "刺客信条",
-        "title": "《刺客信条：Hexe》游戏总监离职，项目再遭重创",
-        "link": "https://www.ign.com/articles/assassins-creed-hexe-game-director-benoit-richer-exits-ubisoft-just-months-after-departure-of-previous-creative-director",
-        "summary": "继创意总监离职数月后，《刺客信条：Hexe》游戏总监Benoit Richer宣布离开育碧，项目前景堪忧。",
-        "comment": "核心团队接连出走，项目开发风险加剧。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/26/assassins-creed-hexe-1777221793738.png",
         "score": 95
       },
       {
@@ -87,90 +77,50 @@
         "tag": "漫威",
         "title": "漫威《神奇人》最初是玩笑提案，后成Disney+成功剧集",
         "link": "https://www.ign.com/articles/wonder-man-started-as-an-elaborate-joke-pitch-at-marvel-before-it-found-success-on-disney",
-        "summary": "漫威《神奇人》剧集最初由导演德斯汀·丹尼尔·克雷顿以玩笑提案形式提出，后成为Disney+上最成功的MCU剧集之一。",
-        "comment": "玩笑提案成爆款，漫威创意策略值得关注。",
+        "summary": "漫画电影制作人德斯汀·丹尼尔·克雷顿最初以“玩笑提案”推销《神奇人》，后该剧成为Disney+上最成功的MCU剧集之一。",
+        "comment": "从玩笑到爆款，漫威的创意孵化能力可见一斑。",
         "image": "https://assets-prd.ignimgs.com/2025/10/11/wonderman-vcms-thumbs-1760207102445.jpg",
         "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "泰迪熊",
-        "title": "塞思·麦克法兰：只要孔雀台出钱，《泰迪熊》第三季或电影可成",
-        "link": "https://www.ign.com/articles/its-all-on-the-table-seth-macfarlane-says-ted-season-3-or-movie-can-happen-if-peacock-uses-its-vast-amounts-of-big-scrooge-mcduck-money",
-        "summary": "塞思·麦克法兰表示愿意制作《泰迪熊》第三季或新电影，但需要孔雀台投入“大量史高治·麦克达克式的资金”才能实现。",
-        "comment": "经典IP续作，钱到位就拍。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/26/ted-season-3-1777237577214.png",
+        "tag": "堡垒之夜",
+        "title": "Epic确认《堡垒之夜》D4vd皮肤退款并计划更多调整",
+        "link": "https://www.ign.com/articles/epic-games-confirms-fortnite-refunds-for-d4vd-cosmetics-plans-further-changes",
+        "summary": "Epic Games确认，任何《堡垒之夜》玩家通过客服申请，均可获得D4vd皮肤退款，未来还将有更多改动。",
+        "comment": "玩家维权成功，厂商妥协及时。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/26/gettyimages-2271757386-1777237682658.jpg",
         "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "马修·里拉德",
-        "title": "马修·里拉德：粉丝怀旧助推近期成功",
-        "link": "https://www.ign.com/articles/i-dont-think-anyone-really-likes-me-matthew-lillard-partially-pins-recent-success-on-nostalgia-because-fans-just-miss-the-old-days",
-        "summary": "《惊声尖叫》与《超胆侠：重生》演员马修·里拉德认为，他近期的成功部分归因于“一种奇怪的怀旧情结”，因为粉丝“只是怀念过去的日子”。",
-        "comment": "怀旧是娱乐圈的隐形助推器。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/26/matthew-lillard-1777232017456.png",
+        "tag": "泰迪",
+        "title": "塞思·麦克法兰称《泰迪》第三季或电影有望，但需孔雀台巨额投资",
+        "link": "https://www.ign.com/articles/its-all-on-the-table-seth-macfarlane-says-ted-season-3-or-movie-can-happen-if-peacock-uses-its-vast-amounts-of-big-scrooge-mcduck-money",
+        "summary": "塞思·麦克法兰表示愿意制作《泰迪》第三季或另一部电影，但需要孔雀台投入“大量史高治·麦克达克式的巨额资金”才能实现。",
+        "comment": "经典IP续作需资本推动，谈判结果待观察。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/26/ted-season-3-1777237577214.png",
         "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "奇幻游戏吟游诗人生存指南",
+        "tag": "马修·里拉德",
+        "title": "马修·里拉德：近期成功部分归因于粉丝怀旧",
+        "link": "https://www.ign.com/articles/i-dont-think-anyone-really-likes-me-matthew-lillard-partially-pins-recent-success-on-nostalgia-because-fans-just-miss-the-old-days",
+        "summary": "《惊声尖叫》和《超胆侠：重生》演员马修·里拉德认为，他近期的成功部分源于“一种奇怪的怀旧情结”，因为粉丝们“只是怀念过去的日子”。",
+        "comment": "怀旧是娱乐业的安全牌，但并非长久之计。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/26/matthew-lillard-1777232017456.png",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏盘点",
+        "title": "游戏里的“它”Vol.01：奇幻世界吟游诗人如何生存",
         "link": "https://www.gcores.com/radios/213376",
-        "summary": "本期节目聚焦奇幻游戏中的吟游诗人，探讨他们如何以音乐和口才在凶险世界中生存，与战士、法师等职业形成对比。",
-        "comment": "吟游诗人职业的深度解析，有趣且富有启发性。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "堡垒之夜",
-        "title": "Epic确认《堡垒之夜》D4vd皮肤退款，计划更多调整",
-        "link": "https://www.ign.com/articles/epic-games-confirms-fortnite-refunds-for-d4vd-cosmetics-plans-further-changes",
-        "summary": "Epic Games确认，任何《堡垒之夜》玩家通过客服申请，均可获得D4vd皮肤退款，未来还将有更多调整。",
-        "comment": "玩家权益保障，但退款流程效率待观察。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/26/gettyimages-2271757386-1777237682658.jpg",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "马里",
-        "title": "马里国防部长在叛军袭击浪潮中遇害",
-        "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
-        "summary": "马里遭遇圣战分子和分离主义武装协调袭击，国防部长在袭击中身亡，局势持续恶化。",
-        "comment": "马里安全形势急剧恶化，政府高层遇袭凸显反恐困境。",
+        "summary": "本期节目聚焦奇幻游戏中的吟游诗人，探讨他们如何以音乐和口才在凶险世界中立足，与战士、法师等职业形成对比。",
+        "comment": "选题有趣，深入剖析了非战斗职业的生存逻辑。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "哥伦比亚",
-        "title": "哥伦比亚高速公路巴士炸弹袭击死亡人数升至20人",
-        "link": "https://www.bbc.com/news/articles/ckgx5kyyj8do?at_medium=RSS&at_campaign=rss",
-        "summary": "哥伦比亚总统大选前政治暴力升级，一起针对巴士的炸弹袭击导致至少20人死亡。",
-        "comment": "选举前夕暴力事件凸显该国安全局势恶化。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "以色列",
-        "title": "内塔尼亚胡命令军队在黎巴嫩“猛烈攻击”真主党",
-        "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列总理下令在黎巴嫩对真主党发动猛烈攻击，尽管停火协议延长三周，黎巴嫩仍有六人死于空袭。",
-        "comment": "停火延长难阻冲突升级，局势持续紧张。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏折扣",
-        "title": "今日最佳优惠：勇者斗恶龙7重制、斯普拉遁新作及AMD锐龙9 9900X等",
-        "link": "https://www.ign.com/articles/best-deals-for-april-26-2026",
-        "summary": "IGN汇总今日热门折扣，涵盖《勇者斗恶龙7》重制版、《斯普拉遁》衍生作及AMD锐龙9 9900X处理器等商品，价格优惠力度大。",
-        "comment": "折扣信息丰富，游戏与硬件爱好者可关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/26/dq7-1777231383938.png",
-        "score": 86
       }
     ]
   }
