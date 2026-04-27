@@ -4,20 +4,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI发布GPT-5.5，最强模型登场",
-        "link": "https://openai.com/index/introducing-gpt-5-5",
-        "summary": "OpenAI推出GPT-5.5，号称迄今最智能模型，速度更快、能力更强，专为编程、研究及跨工具数据分析等复杂任务设计。",
-        "comment": "性能跃升，但安全与伦理挑战同步升级。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "GPT-5.5",
         "title": "OpenAI发布GPT-5.5系统卡",
         "link": "https://openai.com/index/gpt-5-5-system-card",
-        "summary": "OpenAI发布GPT-5.5系统卡，详述模型能力、安全评估与限制，为开发者提供技术参考。",
+        "summary": "OpenAI发布GPT-5.5系统卡，详细说明模型能力、安全评估与限制，为开发者提供技术参考。",
         "comment": "模型迭代加速，安全透明度提升。",
         "image": "",
         "score": 100
@@ -25,30 +15,60 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI Codex自动化教程：用调度与触发器创建报告",
-        "link": "https://openai.com/academy/codex-automations",
-        "summary": "本教程介绍如何利用Codex中的调度和触发器自动执行任务，无需人工干预即可生成报告、摘要和重复工作流。",
-        "comment": "降低自动化门槛，提升开发效率。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI发布Codex十大工作应用场景",
-        "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-        "summary": "OpenAI Academy文章介绍了Codex的10个实用用例，涵盖自动化任务、创建交付物、跨工具文件和工作流将输入转化为输出。",
-        "comment": "为开发者提供了清晰的Codex落地指南。",
+        "title": "OpenAI发布GPT-5.5，最强模型登场",
+        "link": "https://openai.com/index/introducing-gpt-5-5",
+        "summary": "OpenAI推出GPT-5.5，号称迄今最智能模型，速度更快、能力更强，专为编程、研究及跨工具数据分析等复杂任务设计。",
+        "comment": "性能提升显著，但需关注实际应用效果。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "Codex",
-        "title": "OpenAI Codex插件与技能：自动化任务与提升结果",
-        "link": "https://openai.com/academy/codex-plugins-and-skills",
-        "summary": "学习如何使用Codex插件和技能连接工具、访问数据并遵循可重复工作流，以自动化任务并改善结果。",
-        "comment": "实用教程，降低AI工具集成门槛。",
+        "title": "OpenAI发布Codex十大工作应用场景",
+        "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+        "summary": "OpenAI Academy介绍了Codex在自动化任务、创建交付物及跨工具文件工作流中将输入转化为输出的10个实用案例。",
+        "comment": "Codex正从实验走向生产力工具。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI Codex入门指南：项目设置与任务完成",
+        "link": "https://openai.com/academy/codex-how-to-start",
+        "summary": "本文提供Codex的入门指导，涵盖项目设置、线程创建及逐步完成首个任务的方法。",
+        "comment": "实用教程，降低开发者使用Codex的门槛。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "OpenAI Codex：超越聊天的自动化工具与文档生成",
+        "link": "https://openai.com/academy/what-is-codex",
+        "summary": "Codex帮助用户通过自动化任务、连接工具并生成文档和仪表盘等实际输出，超越传统聊天功能。",
+        "comment": "Codex将AI从对话扩展到实际工作流，提升效率。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI Codex自动化：用调度与触发器创建报告与工作流",
+        "link": "https://openai.com/academy/codex-automations",
+        "summary": "学习在Codex中使用调度和触发器自动执行任务，无需手动操作即可创建报告、摘要和重复工作流。",
+        "comment": "降低重复劳动门槛，提升AI工具实用价值。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI Codex设置指南：个性化与权限配置",
+        "link": "https://openai.com/academy/codex-settings",
+        "summary": "本文介绍如何配置Codex设置，包括个性化、详细程度和权限，以顺利运行任务并定制工作流程。",
+        "comment": "实用教程，帮助用户高效利用Codex。",
         "image": "",
         "score": 100
       },
@@ -57,48 +77,18 @@
         "tag": "人工智能",
         "title": "OpenAI发布Codex工作指南：设置与任务管理",
         "link": "https://openai.com/academy/working-with-codex",
-        "summary": "学习如何设置Codex工作区、创建线程和项目、管理文件，并通过分步指导开始完成任务。",
+        "summary": "学习如何设置Codex工作区、创建线程和项目、管理文件，并通过逐步指导开始完成任务。",
         "comment": "实用教程，降低Codex使用门槛。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI Codex设置配置指南",
-        "link": "https://openai.com/academy/codex-settings",
-        "summary": "学习如何配置Codex设置，包括个性化、详细级别和权限，以顺利运行任务并自定义工作流程。",
-        "comment": "实用配置教程，提升Codex使用效率。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI Codex：自动化任务与生成文档的AI工具",
-        "link": "https://openai.com/academy/what-is-codex",
-        "summary": "Codex是OpenAI推出的AI工具，能自动化任务、连接工具并生成文档和仪表盘等实际输出，超越传统聊天功能。",
-        "comment": "Codex将AI从对话扩展到实际工作流，提升效率。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI Codex入门指南：项目设置与任务完成",
-        "link": "https://openai.com/academy/codex-how-to-start",
-        "summary": "本文提供Codex的逐步指导，涵盖项目设置、线程创建及首次任务完成，帮助用户快速上手。",
-        "comment": "实用教程，适合开发者快速掌握Codex基础操作。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI推出GPT-5.5生物漏洞赏金计划",
-        "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
-        "summary": "OpenAI发起GPT-5.5生物漏洞赏金挑战，寻找通用越狱方法以防范生物安全风险，最高奖励2.5万美元。",
-        "comment": "主动暴露漏洞比被动修复更有效。",
+        "title": "OpenAI Codex插件与技能使用指南",
+        "link": "https://openai.com/academy/codex-plugins-and-skills",
+        "summary": "学习如何使用Codex插件和技能连接工具、访问数据、遵循可重复工作流以自动化任务并提升效果。",
+        "comment": "实用教程，降低AI工具集成门槛。",
         "image": "",
         "score": 100
       }

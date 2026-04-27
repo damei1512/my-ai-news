@@ -3,12 +3,32 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI发布AGI造福人类的五项原则",
+        "link": "https://openai.com/index/our-principles",
+        "summary": "OpenAI CEO Sam Altman分享五项工作原则，旨在确保通用人工智能（AGI）惠及全人类。",
+        "comment": "原则明确，但执行细节待观察。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "旧金山湾区豪宅交易要求买家持有Anthropic股权",
+        "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+        "summary": "一处位于加州米尔谷的13英亩房产提出非传统交易条件，要求买家以Anthropic公司股权支付，而非现金。",
+        "comment": "AI公司股权成硬通货，折射科技财富新趋势。",
+        "image": "",
+        "score": 99
+      },
+      {
         "category": "数码科技",
         "tag": "磁悬浮",
         "title": "中国公司造出微米级磁悬浮魔毯，已大规模量产",
         "link": "https://36kr.com/p/3782960065108996?f=rss",
         "summary": "增广智能是全球唯二、中国唯一掌握六自由度平面磁悬浮输送系统核心技术的企业，其微米级磁悬浮魔毯已实现大规模量产，破解了传统工厂效率与柔性不可兼得的痛点。",
-        "comment": "核心技术突破，量产能力验证了技术成熟度。",
+        "comment": "技术突破显著，量产能力是关键。",
         "image": "",
         "score": 98
       },
@@ -17,8 +37,8 @@
         "tag": "润芯微",
         "title": "润芯微发布国产软硬一体AI智能基座，推动多端智能变革",
         "link": "https://36kr.com/p/3782901034785801?f=rss",
-        "summary": "4月25日，润芯微在北京车展发布“国产软硬一体AI智能基座”，展示其“芯片+操作系统+AI”全栈方案，涵盖车载座舱等场景，已实现百万量产上车。",
-        "comment": "全栈方案破解行业稀缺难题，多端智能落地加速。",
+        "summary": "4月25日，润芯微在北京车展发布“国产软硬一体AI智能基座”，展示其“芯片+操作系统+AI”全栈方案，涵盖车载座舱等多端场景，并宣布openvela通过兼容性认证。",
+        "comment": "全栈方案填补行业稀缺，多端智能落地提速。",
         "image": "",
         "score": 97
       },
@@ -27,60 +47,150 @@
         "tag": "欧莱雅",
         "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题",
         "link": "https://36kr.com/p/3783249100397570?f=rss",
-        "summary": "欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官，聚焦奢华香氛领域，吸引超72000人报名，三支队伍胜出将赴巴黎参加全球总决赛。",
-        "comment": "AI正成为美妆行业创新的关键驱动力。",
+        "summary": "欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官，聚焦奢华香氛领域，吸引超72000人报名，六支队伍进入决赛，三支胜出将赴巴黎参加全球总决赛。",
+        "comment": "AI正成为美妆行业创新竞赛的关键驱动力。",
         "image": "",
         "score": 96
       },
       {
         "category": "游戏影视",
-        "tag": "异形：隔离2",
-        "title": "世嘉与CA发布新视频，疑似暗示《异形：隔离2》",
+        "tag": "电影",
+        "title": "《迈克尔》全球首周票房2.17亿美元，创传记片纪录",
+        "link": "https://www.ign.com/articles/michael-overtakes-oppenheimer-with-biggest-box-office-debut-ever-for-a-biopic",
+        "summary": "《迈克尔》以2.17亿美元全球首周票房超越《奥本海默》，成为传记片开画纪录新王。",
+        "comment": "传记片市场热度持续攀升，票房潜力被重新定义。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/10/michaelbehindthescenesfeaturette-ign-blogroll-1770740444047.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "异形：隔离",
+        "title": "《异形：隔离》续作疑似被世嘉与CA工作室预告",
         "link": "https://www.ign.com/articles/alien-isolation-2-seemingly-teased-in-new-video-posted-by-sega-and-creative-assembly",
-        "summary": "世嘉和Creative Assembly发布了一段新视频，似乎是《异形：隔离2》的预告片。",
-        "comment": "经典恐怖游戏续作终于有动静了。",
+        "summary": "世嘉与Creative Assembly发布了一段疑似《异形：隔离2》的预告视频，暗示续作即将公布。",
+        "comment": "经典恐怖生存游戏回归，期待值拉满。",
         "image": "https://assets-prd.ignimgs.com/2023/04/25/alien-blog-1682416864943.jpg",
         "score": 95
       },
       {
         "category": "游戏影视",
-        "tag": "暗黑蜘蛛侠",
-        "title": "《暗黑蜘蛛侠》预告片揭1930年代神秘与超能力反派",
+        "tag": "漫威",
+        "title": "漫威《神奇人》最初是玩笑提案，后成Disney+成功剧集",
+        "link": "https://www.ign.com/articles/wonder-man-started-as-an-elaborate-joke-pitch-at-marvel-before-it-found-success-on-disney",
+        "summary": "漫威电影制作人德斯汀·丹尼尔·克雷顿最初将《神奇人》作为“玩笑提案”推销，后来该剧成为Disney+上最成功的MCU剧集之一。",
+        "comment": "从玩笑到爆款，漫威的创意孵化值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2025/10/11/wonderman-vcms-thumbs-1760207102445.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Steam",
+        "title": "特朗普白宫晚宴枪击嫌疑人游戏遭差评轰炸",
+        "link": "https://www.ign.com/articles/steam-game-allegedly-developed-by-suspected-gunman-at-trump-white-house-press-dinner-is-being-review-bombed",
+        "summary": "试图闯入华盛顿希尔顿酒店白宫记者晚宴的嫌疑人自称独立游戏开发者，其Steam游戏正遭大量差评。",
+        "comment": "事件关联游戏开发者身份，引发舆论争议。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/26/ss-0a48a7a5c04d220fb2d88363e45675a00face723-1920x1080-1777242371382.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "刺客信条",
+        "title": "《刺客信条：Hexe》游戏总监离职，项目再遭打击",
+        "link": "https://www.ign.com/articles/assassins-creed-hexe-game-director-benoit-richer-exits-ubisoft-just-months-after-departure-of-previous-creative-director",
+        "summary": "继创意总监离职数月后，《刺客信条：Hexe》游戏总监Benoit Richer宣布离开育碧，神秘新作开发团队动荡加剧。",
+        "comment": "核心岗位接连流失，项目前景堪忧。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/26/assassins-creed-hexe-1777221793738.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "暗影蜘蛛侠",
+        "title": "《暗影蜘蛛侠》预告片揭示1930年代神秘与超能力反派",
         "link": "https://www.ign.com/articles/spider-noir-trailer-sets-the-stage-for-1930s-mystery-and-superpowered-goons",
-        "summary": "亚马逊Prime Video发布《暗黑蜘蛛侠》官方预告，尼古拉斯·凯奇饰演的本·莱利深入调查神秘事件，对抗超能力恶徒。",
-        "comment": "凯奇版蜘蛛侠的黑色电影风格令人期待。",
+        "summary": "亚马逊Prime Video发布《暗影蜘蛛侠》官方预告，尼古拉斯·凯奇饰演的本·莱利深入调查谜团，对抗超能力恶棍。",
+        "comment": "凯奇版蜘蛛侠风格独特，复古 noir 氛围值得期待。",
         "image": "https://assets-prd.ignimgs.com/2026/04/26/spider-noir-nicolas-cage-1777164992387.png",
-        "score": 95
+        "score": 94
       },
       {
-        "category": "时事热点",
-        "tag": "以色列",
-        "title": "内塔尼亚胡下令以军猛烈攻击黎巴嫩真主党",
-        "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
-        "summary": "尽管停火协议延长三周，黎巴嫩仍遭六人死于空袭，以色列总理下令军队对真主党发动猛烈攻击。",
-        "comment": "停火形同虚设，冲突升级风险加剧。",
-        "image": "",
-        "score": 88
+        "category": "游戏影视",
+        "tag": "堡垒之夜",
+        "title": "Epic确认《堡垒之夜》D4vd皮肤退款，计划更多调整",
+        "link": "https://www.ign.com/articles/epic-games-confirms-fortnite-refunds-for-d4vd-cosmetics-plans-further-changes",
+        "summary": "Epic Games确认，任何《堡垒之夜》玩家通过客服申请，均可获得D4vd皮肤退款，未来还将有更多改动。",
+        "comment": "玩家维权成功，厂商快速响应。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/26/gettyimages-2271757386-1777237682658.jpg",
+        "score": 93
       },
       {
-        "category": "时事热点",
-        "tag": "马里",
-        "title": "马里多地遭武装组织协同袭击",
-        "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-        "summary": "目击者称马里中部和北部发生冲突，这是近年来最大规模的圣战分子袭击。",
-        "comment": "马里安全形势急剧恶化，国际社会需关注。",
+        "category": "游戏影视",
+        "tag": "泰迪熊",
+        "title": "塞思·麦克法兰：只要孔雀台出钱，《泰迪熊》第三季或电影可成行",
+        "link": "https://www.ign.com/articles/its-all-on-the-table-seth-macfarlane-says-ted-season-3-or-movie-can-happen-if-peacock-uses-its-vast-amounts-of-big-scrooge-mcduck-money",
+        "summary": "塞思·麦克法兰表示愿意制作《泰迪熊》第三季或新电影，但需要孔雀台投入大量资金。",
+        "comment": "经典IP续作，资金到位即可启动。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/26/ted-season-3-1777237577214.png",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "马修·里拉德",
+        "title": "马修·里拉德将近期成功部分归因于粉丝怀旧",
+        "link": "https://www.ign.com/articles/i-dont-think-anyone-really-likes-me-matthew-lillard-partially-pins-recent-success-on-nostalgia-because-fans-just-miss-the-old-days",
+        "summary": "《惊声尖叫》和《超胆侠：重生》演员马修·里拉德认为，他近期的成功部分源于“一种奇怪的怀旧情结”，因为粉丝“只是怀念过去的日子”。",
+        "comment": "怀旧是娱乐圈的永恒密码。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/26/matthew-lillard-1777232017456.png",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏盘点",
+        "title": "游戏里的“它”：奇幻世界吟游诗人如何生存",
+        "link": "https://www.gcores.com/radios/213376",
+        "summary": "本期节目聚焦奇幻游戏中的吟游诗人，探讨他们如何以音乐和口才在凶险世界中立足，与战士、法师等职业形成对比。",
+        "comment": "选题有趣，深入挖掘了游戏中的边缘职业。",
         "image": "",
-        "score": 88
+        "score": 90
       },
       {
         "category": "时事热点",
         "tag": "特朗普",
         "title": "我在特朗普房间听到低沉枪声",
         "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC记者加里·奥多诺霍描述在特朗普集会现场，枪声响起时他与众人躲避的瞬间。",
-        "comment": "现场记者亲历，还原枪击瞬间细节。",
+        "summary": "BBC记者加里·奥多诺霍描述在特朗普集会现场，枪声响起时他与众人卧倒躲避的瞬间。",
+        "comment": "第一手现场报道，细节真实震撼。",
         "image": "",
-        "score": 87
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "马里",
+        "title": "马里国防部长在叛军袭击浪潮中遇害",
+        "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+        "summary": "圣战分子和分离主义武装发动一系列协调袭击，波及马里全国，国防部长在袭击中丧生。",
+        "comment": "马里安全局势急剧恶化，政府高层遭重创。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "以色列",
+        "title": "内塔尼亚胡下令以军猛烈攻击黎巴嫩真主党",
+        "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+        "summary": "尽管停火协议延长三周，黎巴嫩仍遭空袭致六人死亡，以色列总理下令军队对真主党发动猛烈攻击。",
+        "comment": "停火名存实亡，冲突升级风险加剧。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏优惠",
+        "title": "今日最佳优惠：勇者斗恶龙7重制、斯普拉遁新作、AMD锐龙9 9900X等",
+        "link": "https://www.ign.com/articles/best-deals-for-april-26-2026",
+        "summary": "IGN汇总今日游戏与硬件优惠，包括《勇者斗恶龙7》重制版、《斯普拉遁》新作及AMD锐龙9 9900X处理器等热门商品折扣信息。",
+        "comment": "优惠力度一般，但重制版值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/26/dq7-1777231383938.png",
+        "score": 86
       }
     ]
   }
