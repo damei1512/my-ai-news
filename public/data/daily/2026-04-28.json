@@ -4,21 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AWS",
+        "tag": "亚马逊",
         "title": "亚马逊AWS已上架OpenAI新产品，含代理服务",
         "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-        "summary": "OpenAI与微软结束独家合作次日，AWS宣布提供OpenAI模型系列，包括新代理服务。",
-        "comment": "云巨头争夺AI生态，AWS快速响应抢占先机。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "亚马逊",
-        "title": "亚马逊推出AI音频问答功能，用户可语音提问产品信息",
-        "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-        "summary": "亚马逊在商品页面推出“加入聊天”功能，用户可提问并接收AI生成的音频回答，提升购物体验。",
-        "comment": "AI音频问答或成电商交互新范式。",
+        "summary": "OpenAI与微软结束独家合作次日，亚马逊AWS宣布提供OpenAI模型系列，包括全新代理服务。",
+        "comment": "云巨头争夺AI生态，亚马逊迅速抢占先机。",
         "image": "",
         "score": 100
       },
@@ -27,8 +17,8 @@
         "tag": "谷歌",
         "title": "谷歌扩大五角大楼AI使用权限，继Anthropic拒绝后",
         "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-        "summary": "在Anthropic拒绝允许美国国防部将其AI用于国内大规模监控和自主武器后，谷歌与该部门签署了新合同，扩大了AI访问权限。",
-        "comment": "科技巨头在军事AI合作上的立场分歧加剧。",
+        "summary": "在Anthropic拒绝允许美国国防部将其AI用于国内大规模监控和自主武器后，谷歌与该部门签署了新合同，扩大了其AI的访问权限。",
+        "comment": "科技巨头在军事AI合作上的分歧加剧。",
         "image": "",
         "score": 100
       },
@@ -37,18 +27,18 @@
         "tag": "脑机接口",
         "title": "脑机接口公司Neurable拟授权其非侵入式“读心”技术用于消费级可穿戴设备",
         "link": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-        "summary": "Neurable专注于非侵入式脑机接口技术，通过收集神经数据实现“读心”。CEO希望该技术能广泛应用于消费领域，现正寻求授权合作。",
-        "comment": "非侵入式BCI商业化迈出关键一步，但隐私与伦理挑战仍存。",
+        "summary": "Neurable专注于非侵入式脑机接口技术，通过采集神经数据实现“读心”。CEO希望该技术能广泛应用于消费电子领域，现已寻求对外授权。",
+        "comment": "非侵入式BCI走向消费市场，隐私与伦理挑战不容忽视。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI承诺社区安全：ChatGPT防护措施详解",
+        "title": "OpenAI承诺社区安全：ChatGPT保护措施详解",
         "link": "https://openai.com/index/our-commitment-to-community-safety",
-        "summary": "OpenAI通过模型安全防护、滥用检测、政策执行及与安全专家合作，保护ChatGPT社区安全。",
-        "comment": "安全承诺需持续验证，透明度是关键。",
+        "summary": "OpenAI通过模型防护、滥用检测、政策执行及与安全专家合作，保护ChatGPT社区安全。",
+        "comment": "安全承诺是AI信任基石，但执行细节仍需透明。",
         "image": "",
         "score": 100
       },
@@ -58,127 +48,87 @@
         "title": "OpenAI模型、Codex及托管代理登陆AWS",
         "link": "https://openai.com/index/openai-on-aws",
         "summary": "OpenAI的GPT模型、Codex和托管代理现已在AWS上可用，使企业能在其AWS环境中构建安全的AI应用。",
-        "comment": "云上AI部署门槛进一步降低。",
+        "comment": "云巨头合作加速企业级AI落地。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "亚马逊",
+        "title": "亚马逊推出AI音频问答功能，产品页面新增聊天体验",
+        "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+        "summary": "亚马逊在商品页面推出“加入聊天”功能，用户可提问并获取AI生成的音频回答，提升购物互动性。",
+        "comment": "AI音频问答或成电商新标配，但需警惕回答准确性。",
+        "image": "",
+        "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
         "title": "Lovable 在 iOS 和 Android 推出 vibe-coding 应用",
         "link": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-        "summary": "该应用允许开发者在移动端进行 vibe 编码，快速构建网页应用和网站。",
+        "summary": "该应用允许开发者在移动端通过 vibe-coding 方式快速构建网页应用和网站。",
         "comment": "移动端编码工具进一步降低了开发门槛。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "YouTube",
+        "tag": "AI",
         "title": "YouTube测试AI搜索功能，提供引导式答案",
         "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-        "summary": "YouTube正在美国向Premium订阅者推出新的AI搜索功能，用户可选择加入测试，该功能可提供引导式答案。",
-        "comment": "AI搜索成平台标配，YouTube跟进测试。",
+        "summary": "YouTube正在向美国Premium订阅者推出新的AI搜索功能，用户可选择加入体验。",
+        "comment": "AI搜索正成为平台标配，YouTube跟进测试。",
         "image": "",
         "score": 99
       },
       {
         "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "《巫师3》总监称其吸血鬼新作无法在CDPR等大厂开发",
-        "link": "https://www.gamespot.com/articles/witcher-3-director-says-his-vampire-game-couldnt-be-made-at-cd-projekt-red-or-another-established-studio/1100-6539674/?ftag=CAD-01-10abi2f",
-        "summary": "前《巫师3》开发者团队的新作《黎明行者之血》是一款吸血鬼题材奇幻游戏，总监表示该游戏无法在CD Projekt Red或其他成熟工作室制作，预计2026年发布。",
-        "comment": "独立精神催生创新，大厂体制或限制创意自由。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4689332-screenshot2026-04-28at3.05.57%E2%80%AFpm.png",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
         "tag": "游戏",
-        "title": "《朋友生活：梦想成真》不会因你性欲旺盛而评判你",
+        "title": "《朋友聚会：新生活》不会因你的欲望而评判你",
         "link": "https://www.gamespot.com/articles/tomodachi-life-living-the-dream-wont-judge-you-if-youre-horny/1100-6539683/?ftag=CAD-01-10abi2f",
-        "summary": "文章探讨了互联网时代性观念的矛盾：极端开放与严格限制并存，如“gooning”等小众术语进入主流。游戏《朋友生活》以包容态度对待玩家性欲，引发思考。",
-        "comment": "游戏包容性反映现实性观念矛盾。",
+        "summary": "文章探讨了网络时代性观念的矛盾：极端开放与严格限制并存。小众性癖术语如“gooning”进入主流视野，游戏《朋友聚会：新生活》以包容态度回应这一现象。",
+        "comment": "游戏对性议题的包容态度值得关注。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4689359-gggg%289%29.jpg",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "宝可梦Go",
-        "title": "《宝可梦Go》钢之决心活动：如何获取闪光美录坦",
+        "title": "《宝可梦Go》钢之决心活动：如何获得闪光美录坦",
         "link": "https://www.gamespot.com/articles/how-to-get-shiny-meltan-in-pokemon-go/1100-6539679/?ftag=CAD-01-10abi2f",
-        "summary": "《宝可梦Go》的“钢之决心”活动正在进行，聚焦多种钢属性宝可梦，包括首次登场的拖拖蚓。玩家可通过特定方式获取闪光美录坦。",
-        "comment": "活动机制清晰，闪光美录坦获取方式值得关注。",
+        "summary": "《宝可梦Go》钢之决心活动正在进行，聚焦多种钢属性宝可梦，包括新登场的拖拖蚓。玩家可通过特定方式获得闪光美录坦。",
+        "comment": "活动机制明确，闪光美录坦获取途径清晰。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15787979/4689343-4630070417-34964.jpg",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "XCOM",
-        "title": "《XCOM》将推出桌面战棋游戏，庆祝Firaxis成立30周年",
+        "title": "XCOM将推出微缩模型桌游，庆祝Firaxis成立30周年",
         "link": "https://www.gamespot.com/articles/xcom-to-get-miniatures-focused-tabletop-game-celebrating-30-years-of-firaxis/1100-6539684/?ftag=CAD-01-10abi2f",
-        "summary": "Firaxis宣布为庆祝工作室成立30周年，将推出以《XCOM》为主题的桌面战棋游戏，聚焦微缩模型玩法，让玩家在桌面上体验指挥作战的乐趣。",
-        "comment": "经典策略IP拓展桌游领域，情怀与玩法兼备。",
+        "summary": "Firaxis宣布为庆祝工作室30周年，将推出以XCOM为主题的微缩模型桌游，玩家可在桌面上体验指挥战术、损失特工的经典玩法。",
+        "comment": "桌游化是IP拓展的稳妥选择，但需平衡策略深度与模型收藏性。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1690/16904437/4689358-xcom.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏周边",
-        "title": "马里奥棺材走红：游戏结束后的最后安息",
-        "link": "https://www.gamespot.com/articles/game-over-you-can-be-laid-to-rest-in-a-mario-coffin/1100-6539682/?ftag=CAD-01-10abi2f",
-        "summary": "巴西制造商推出非官方超级马里奥主题棺材，宣传视频在网络上迅速传播，为游戏迷提供了一种独特的葬礼选择。",
-        "comment": "游戏文化渗透至生命终点，创意营销引发热议。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1690/16904437/4689355-mario-game-over.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PlayStation",
-        "title": "GameStop借PS5新在线要求促销",
-        "link": "https://www.gamespot.com/articles/gamestop-is-trying-to-capitalize-on-ps5s-reported-new-online-requirement/1100-6539681/?ftag=CAD-01-10abi2f",
-        "summary": "索尼要求PS4和PS5用户每30天联网一次以验证数字游戏许可，GameStop借此机会推广其实体游戏业务。",
-        "comment": "实体与数字博弈中的营销策略。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4689345-ps5gamestop.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Take-Two CEO暗示《黑色洛城》等续作可能",
-        "link": "https://www.gamespot.com/articles/take-two-boss-gives-hope-for-la-noire-2-and-other-sequels/1100-6539678/?ftag=CAD-01-10abi2f",
-        "summary": "Take-Two CEO Strauss Zelnick在拉斯维加斯iicon活动上发言，对《黑色洛城》等游戏续作表示谨慎乐观，但未给出具体承诺。",
-        "comment": "经典IP续作有望，但玩家仍需耐心等待。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4689349-screenshot2026-04-28at3.54.26%E2%80%AFpm.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战地6",
-        "title": "《战地6》第三季重制经典地图核心特色",
-        "link": "https://www.gamespot.com/articles/battlefield-6-overhauls-a-classic-maps-biggest-feature-for-season-3/1100-6539676/?ftag=CAD-01-10abi2f",
-        "summary": "《战地6》第三季将于下月上线，引入游戏史上最大地图“戈勒姆铁路”，该地图是对《战地4》经典地图的重新构想。",
-        "comment": "经典地图重制是吸引老玩家的有效策略。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4689333-bf6_s3b1_vista_screenshot_railwa.jpg",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "乐道",
-        "title": "乐道L80开启预售，租电15.98万起，五座车最大后备箱",
+        "title": "乐道L80开启预售，租电15.98万元起",
         "link": "https://www.ifanr.com/1664318?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "乐道L80开启预售，主打五座车最大后备箱，租电方案起售价15.98万元，瞄准体量最大的细分市场。",
-        "comment": "乐道以空间差异化切入主流市场，策略精准。",
+        "comment": "乐道以空间优势切入主流市场，策略精准。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "领克",
-        "title": "领克900大五座版25.48万起，交付6万台后更宽敞",
+        "title": "领克900大五座版25.48万起，交付六万台后更宽敞",
         "link": "https://www.ifanr.com/1664258?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "领克900大五座版在原有大空间基础上，优化座舱舒适、智能配置、安全能力和场景拓展，起售价25.48万元。",
-        "comment": "大五座版精准切入家庭用户需求，性价比突出。",
+        "summary": "领克900大五座版在原有大空间基础上，提升座舱舒适、智能配置、安全能力和场景拓展，起售价25.48万元。",
+        "comment": "精准补位大五座SUV市场，性价比突出。",
         "image": "",
         "score": 91
       },
@@ -187,20 +137,10 @@
         "tag": "汽车",
         "title": "中国汽车问题：新车太像且太多",
         "link": "https://www.ifanr.com/1664102?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "汽车作为工业品需要时间沉淀，当前中国汽车市场存在新车设计趋同和数量过剩的问题，影响行业健康发展。",
+        "summary": "汽车作为工业品需要时间沉淀，当前中国汽车市场存在新车设计趋同和数量过剩的问题。",
         "comment": "同质化与过剩是行业浮躁的体现。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏攻略",
-        "title": "《Arc Raiders》碰撞航线任务指南",
-        "link": "https://www.gamespot.com/articles/collision-course-arc-raiders-quest-guide/1100-6539680/?ftag=CAD-01-10abi2f",
-        "summary": "《Arc Raiders》的Riven Tides更新新增了多个任务，聚焦于新地图，帮助玩家熟悉其玩法。部分任务会引导玩家探索特定区域。",
-        "comment": "任务指南实用，但内容较常规。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/679/6794662/4689340-7ry7xg-a.jpeg",
-        "score": 89
       }
     ]
   }
