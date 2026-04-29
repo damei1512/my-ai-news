@@ -5,20 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与微软达成50亿美元亚马逊协议，化解法律风险",
-        "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-        "summary": "OpenAI从最大股东微软获得重大让步，允许其在AWS上销售产品，微软则通过收入分成协议获得更多现金。",
-        "comment": "OpenAI借AWS拓展渠道，微软以让利换增长。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
         "title": "OpenAI获FedRAMP Moderate授权，服务美国联邦机构",
         "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
         "summary": "OpenAI宣布ChatGPT Enterprise和API已获得FedRAMP Moderate授权，美国联邦机构可安全采用其AI服务。",
-        "comment": "联邦安全认证为AI政务应用铺平道路。",
+        "comment": "这是AI进入政府市场的关键合规里程碑。",
         "image": "",
         "score": 100
       },
@@ -27,18 +17,18 @@
         "tag": "人工智能",
         "title": "微软与OpenAI合作进入新阶段",
         "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
-        "summary": "OpenAI与微软宣布修订合作协议，简化合作结构，明确长期目标，并支持大规模AI持续创新。",
-        "comment": "合作深化，为AI发展提供稳定基础。",
+        "summary": "OpenAI与微软宣布修订合作协议，简化合作结构，明确长期方向，支持大规模AI创新。",
+        "comment": "合作深化，但控制权博弈仍是隐忧。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI发布开源编排规范Symphony，将问题追踪器转化为持续运行的智能体系统",
+        "title": "OpenAI发布开源编排规范Symphony",
         "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
-        "summary": "Symphony是OpenAI推出的开源编排规范，用于Codex编排，能将问题追踪器转化为始终在线的智能体系统，提升工程产出并减少上下文切换。",
-        "comment": "开源编排规范有望降低智能体系统部署门槛。",
+        "summary": "Symphony是OpenAI推出的开源编排规范，可将问题追踪器转化为持续运行的智能体系统，提升工程产出并减少上下文切换。",
+        "comment": "开源编排规范或重塑AI开发工作流。",
         "image": "",
         "score": 100
       },
@@ -47,8 +37,8 @@
         "tag": "人工智能",
         "title": "Choco用AI代理自动化食品分销",
         "link": "https://openai.com/index/choco",
-        "summary": "Choco利用OpenAI API优化食品分销流程，提升生产力并推动增长，展示AI在现实世界中的实际影响。",
-        "comment": "AI代理在垂直行业落地效果显著。",
+        "summary": "Choco利用OpenAI API优化食品分销流程，提升生产力并推动增长，展示AI在实际业务中的影响。",
+        "comment": "AI代理在传统行业落地，效率提升显著。",
         "image": "",
         "score": 100
       }
