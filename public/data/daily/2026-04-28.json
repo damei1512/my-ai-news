@@ -4,41 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "亚马逊",
-        "title": "亚马逊AWS已上架OpenAI新产品，含代理服务",
-        "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-        "summary": "OpenAI与微软结束独家合作次日，亚马逊AWS宣布提供OpenAI模型系列，包括全新代理服务。",
-        "comment": "云巨头争夺AI生态，亚马逊迅速抢占先机。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌扩大五角大楼AI使用权限，继Anthropic拒绝后",
-        "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-        "summary": "在Anthropic拒绝允许美国国防部将其AI用于国内大规模监控和自主武器后，谷歌与该部门签署了新合同，扩大了其AI的访问权限。",
-        "comment": "科技巨头在军事AI合作上的分歧加剧。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "脑机接口",
-        "title": "脑机接口公司Neurable拟授权其非侵入式“读心”技术用于消费级可穿戴设备",
-        "link": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-        "summary": "Neurable专注于非侵入式脑机接口技术，通过采集神经数据实现“读心”。CEO希望该技术能广泛应用于消费电子领域，现已寻求对外授权。",
-        "comment": "非侵入式BCI走向消费市场，隐私与伦理挑战不容忽视。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI承诺社区安全：ChatGPT保护措施详解",
+        "title": "OpenAI承诺社区安全：ChatGPT防护措施详解",
         "link": "https://openai.com/index/our-commitment-to-community-safety",
         "summary": "OpenAI通过模型防护、滥用检测、政策执行及与安全专家合作，保护ChatGPT社区安全。",
-        "comment": "安全承诺是AI信任基石，但执行细节仍需透明。",
+        "comment": "安全承诺是AI信任基石，OpenAI此举务实。",
         "image": "",
         "score": 100
       },
@@ -48,69 +18,9 @@
         "title": "OpenAI模型、Codex及托管代理登陆AWS",
         "link": "https://openai.com/index/openai-on-aws",
         "summary": "OpenAI的GPT模型、Codex和托管代理现已在AWS上可用，使企业能在其AWS环境中构建安全的AI应用。",
-        "comment": "云巨头合作加速企业级AI落地。",
+        "comment": "云与AI巨头合作，降低企业部署门槛。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "亚马逊",
-        "title": "亚马逊推出AI音频问答功能，产品页面新增聊天体验",
-        "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-        "summary": "亚马逊在商品页面推出“加入聊天”功能，用户可提问并获取AI生成的音频回答，提升购物互动性。",
-        "comment": "AI音频问答或成电商新标配，但需警惕回答准确性。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Lovable 在 iOS 和 Android 推出 vibe-coding 应用",
-        "link": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-        "summary": "该应用允许开发者在移动端通过 vibe-coding 方式快速构建网页应用和网站。",
-        "comment": "移动端编码工具进一步降低了开发门槛。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "YouTube测试AI搜索功能，提供引导式答案",
-        "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-        "summary": "YouTube正在向美国Premium订阅者推出新的AI搜索功能，用户可选择加入体验。",
-        "comment": "AI搜索正成为平台标配，YouTube跟进测试。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《朋友聚会：新生活》不会因你的欲望而评判你",
-        "link": "https://www.gamespot.com/articles/tomodachi-life-living-the-dream-wont-judge-you-if-youre-horny/1100-6539683/?ftag=CAD-01-10abi2f",
-        "summary": "文章探讨了网络时代性观念的矛盾：极端开放与严格限制并存。小众性癖术语如“gooning”进入主流视野，游戏《朋友聚会：新生活》以包容态度回应这一现象。",
-        "comment": "游戏对性议题的包容态度值得关注。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4689359-gggg%289%29.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "宝可梦Go",
-        "title": "《宝可梦Go》钢之决心活动：如何获得闪光美录坦",
-        "link": "https://www.gamespot.com/articles/how-to-get-shiny-meltan-in-pokemon-go/1100-6539679/?ftag=CAD-01-10abi2f",
-        "summary": "《宝可梦Go》钢之决心活动正在进行，聚焦多种钢属性宝可梦，包括新登场的拖拖蚓。玩家可通过特定方式获得闪光美录坦。",
-        "comment": "活动机制明确，闪光美录坦获取途径清晰。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15787979/4689343-4630070417-34964.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "XCOM",
-        "title": "XCOM将推出微缩模型桌游，庆祝Firaxis成立30周年",
-        "link": "https://www.gamespot.com/articles/xcom-to-get-miniatures-focused-tabletop-game-celebrating-30-years-of-firaxis/1100-6539684/?ftag=CAD-01-10abi2f",
-        "summary": "Firaxis宣布为庆祝工作室30周年，将推出以XCOM为主题的微缩模型桌游，玩家可在桌面上体验指挥战术、损失特工的经典玩法。",
-        "comment": "桌游化是IP拓展的稳妥选择，但需平衡策略深度与模型收藏性。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1690/16904437/4689358-xcom.jpg",
-        "score": 92
       },
       {
         "category": "数码科技",
@@ -118,7 +28,7 @@
         "title": "乐道L80开启预售，租电15.98万元起",
         "link": "https://www.ifanr.com/1664318?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "乐道L80开启预售，主打五座车最大后备箱，租电方案起售价15.98万元，瞄准体量最大的细分市场。",
-        "comment": "乐道以空间优势切入主流市场，策略精准。",
+        "comment": "乐道以空间优势切入主流市场，策略务实。",
         "image": "",
         "score": 91
       },
@@ -127,18 +37,8 @@
         "tag": "领克",
         "title": "领克900大五座版25.48万起，交付六万台后更宽敞",
         "link": "https://www.ifanr.com/1664258?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "领克900大五座版在原有大空间基础上，提升座舱舒适、智能配置、安全能力和场景拓展，起售价25.48万元。",
-        "comment": "精准补位大五座SUV市场，性价比突出。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "汽车",
-        "title": "中国汽车问题：新车太像且太多",
-        "link": "https://www.ifanr.com/1664102?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "汽车作为工业品需要时间沉淀，当前中国汽车市场存在新车设计趋同和数量过剩的问题。",
-        "comment": "同质化与过剩是行业浮躁的体现。",
+        "summary": "领克900大五座版在原有大空间基础上，优化座舱舒适、智能配置、安全能力和场景拓展，起售价25.48万元。",
+        "comment": "大五座版精准切入家庭用户需求，性价比提升明显。",
         "image": "",
         "score": 91
       }
