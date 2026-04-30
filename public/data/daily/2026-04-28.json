@@ -4,21 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI承诺社区安全：ChatGPT防护措施详解",
-        "link": "https://openai.com/index/our-commitment-to-community-safety",
-        "summary": "OpenAI通过模型防护、滥用检测、政策执行及与安全专家合作，保护ChatGPT社区安全。",
-        "comment": "安全承诺是AI信任基石，OpenAI此举务实。",
+        "tag": "OpenAI",
+        "title": "OpenAI模型、Codex与托管智能体登陆AWS",
+        "link": "https://openai.com/index/openai-on-aws",
+        "summary": "OpenAI GPT模型、Codex及托管智能体现在可通过AWS使用，企业可在其AWS环境中构建安全的AI应用。",
+        "comment": "AI巨头与云巨头联手，企业级部署门槛降低。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI模型、Codex及托管代理登陆AWS",
-        "link": "https://openai.com/index/openai-on-aws",
-        "summary": "OpenAI的GPT模型、Codex和托管代理现已在AWS上可用，使企业能在其AWS环境中构建安全的AI应用。",
-        "comment": "云与AI巨头合作，降低企业部署门槛。",
+        "tag": "人工智能",
+        "title": "OpenAI承诺社区安全：ChatGPT防护措施详解",
+        "link": "https://openai.com/index/our-commitment-to-community-safety",
+        "summary": "OpenAI通过模型安全防护、滥用检测、政策执行及与安全专家合作，保护ChatGPT社区安全。",
+        "comment": "安全承诺是AI信任基石，OpenAI此举务实。",
         "image": "",
         "score": 100
       },
@@ -27,18 +27,8 @@
         "tag": "乐道",
         "title": "乐道L80开启预售，租电15.98万元起",
         "link": "https://www.ifanr.com/1664318?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "乐道L80开启预售，主打五座车最大后备箱，租电方案起售价15.98万元，瞄准体量最大的细分市场。",
-        "comment": "乐道以空间优势切入主流市场，策略务实。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "领克",
-        "title": "领克900大五座版25.48万起，交付六万台后更宽敞",
-        "link": "https://www.ifanr.com/1664258?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "领克900大五座版在原有大空间基础上，优化座舱舒适、智能配置、安全能力和场景拓展，起售价25.48万元。",
-        "comment": "大五座版精准切入家庭用户需求，性价比提升明显。",
+        "summary": "乐道L80五座SUV开启预售，主打最大后备箱空间，租电方案起售价15.98万元，瞄准体量最大的细分市场。",
+        "comment": "以空间和租电模式切入主流市场，策略务实。",
         "image": "",
         "score": 91
       }
