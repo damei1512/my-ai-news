@@ -3,22 +3,62 @@
     "week": "周五",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "ChatGPT",
+        "title": "ChatGPT Images 2.0在印度走红，全球反响平平",
+        "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+        "summary": "印度用户大量使用ChatGPT Images 2.0生成创意个人视觉内容，包括头像和电影感肖像，但其他地区尚未形成热潮。",
+        "comment": "区域文化差异影响AI工具采纳速度。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "商业航天",
+        "title": "国内首家落地“筷子夹”塔架回收技术的商业航天公司完成5亿元融资",
+        "link": "https://36kr.com/p/3790141500366085?f=rss",
+        "summary": "上海大航跃迁航天科技有限公司完成5亿元融资，由前海方舟、厚纪资本、普华资本等领投，资金将用于技术研发与产业落地。该公司是国内首家掌握“筷子夹”塔架回收技术的商业航天企业。",
+        "comment": "商业航天回收技术赛道再添新玩家，资本持续加码。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "自然堂",
+        "title": "自然堂借航天展推反向技术输出，探索品牌叙事与科研平衡",
+        "link": "https://36kr.com/p/3787830454787330?f=rss",
+        "summary": "在中国美妆行业竞争加剧、技术叙事升级的背景下，自然堂联合上海天文馆举办航天主题科普展，通过“遇见宇宙 发现更美”展览免费开放，展示本土品牌在科研与品牌叙事间的平衡尝试。",
+        "comment": "品牌叙事与科研结合，差异化竞争新路径。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "葬送的芙莉莲",
+        "title": "《葬送的芙莉莲》限量版蓝光套装64%折扣，含200页画册",
+        "link": "https://www.ign.com/articles/frieren-beyond-journeys-end-limited-edition-part-2-blu-ray-deal-amazon",
+        "summary": "IGN报道，《葬送的芙莉莲》限量版蓝光套装在亚马逊以64%折扣出售，包含200页画册和魔法书，eBay上二手价高昂。",
+        "comment": "粉丝收藏良机，折扣力度罕见。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/30/frierendeal-1777564841587.jpg",
+        "score": 94
+      },
+      {
         "category": "游戏影视",
         "tag": "流媒体",
         "title": "Peacock五月上线新剧及塔伦蒂诺经典电影",
         "link": "https://www.ign.com/articles/whats-new-on-peacock-may-2026",
-        "summary": "Peacock Premium五月片单包括一部新原创剧集，以及昆汀·塔伦蒂诺经典作品的流媒体首播。",
-        "comment": "经典与新作并重，流媒体内容策略稳健。",
+        "summary": "Peacock Premium五月片单包括一部新原创剧集，以及昆汀·塔伦蒂诺杰作的流媒体首播。",
+        "comment": "经典大片首播是本月最大亮点。",
         "image": "https://assets-prd.ignimgs.com/2021/07/30/paramount-peacock-streaming-partnership-1627639200609.jpeg",
-        "score": 93
+        "score": 94
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果警告内存成本压力加大，宇树发布最便宜人形机器人",
+        "title": "苹果预警内存成本压力，宇树发布最便宜人形机器人",
         "link": "https://www.ifanr.com/1664760?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果表示下季度内存成本压力将显著加大；宇树科技发布最便宜人形机器人；5月1日高速车流或创历史纪录。三星Q1芯片利润暴涨49倍，赛力斯一季度新能源车销量同比增长，D加密要求正版玩家每14天联网验证。",
-        "comment": "内存涨价与机器人降价，科技行业两极分化加剧。",
+        "summary": "苹果称下季度内存成本压力将显著加大；宇树发布最便宜人形机器人；5月1日高速车流或创历史纪录。三星Q1芯片利润暴涨49倍，赛力斯一季度新能源车销量78500辆，研发费用增70.7%。D加密要求正版玩家每14天联网验证。",
+        "comment": "内存涨价波及苹果，人形机器人价格战开启。",
         "image": "",
         "score": 91
       },
@@ -27,18 +67,48 @@
         "tag": "游戏",
         "title": "《哥布林维克：窃贼大亨》今日发售，潜行偷宝与奸商经营结合",
         "link": "https://www.gcores.com/articles/213980",
-        "summary": "《哥布林维克：窃贼大亨》今日在Steam发售，主打潜行“搜偷撤”玩法，夜晚潜入地宫偷宝，白天靠口才高价卖出赃物，试玩版获90%特别好评。",
-        "comment": "潜行与经营结合，玩法新颖有趣。",
+        "summary": "《哥布林维克：窃贼大亨》今日在Steam正式发售，主打潜行“搜偷撤”玩法，玩家夜间潜入地宫偷宝，白天高价卖出，试玩版获90%特别好评。",
+        "comment": "潜行与经营结合，玩法新颖，试玩口碑良好。",
         "image": "",
         "score": 91
       },
       {
         "category": "时事热点",
-        "tag": "中非关系",
-        "title": "中国对几乎所有非洲国家取消关税",
+        "tag": "澳大利亚",
+        "title": "澳大利亚小镇因女孩谋杀案逮捕嫌犯后爆发暴力事件",
+        "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+        "summary": "一名涉嫌谋杀五岁女孩的男子在医院接受治疗时，医院外发生骚乱。",
+        "comment": "社区情绪失控，凸显案件引发的社会撕裂。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "缅甸",
+        "title": "缅甸前领导人昂山素季被转移至软禁",
+        "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+        "summary": "诺贝尔和平奖得主昂山素季自2021年军事政变后被拘留，现军方称已将其转移至软禁。",
+        "comment": "软禁象征性大于实质，军政府控制未松。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "中国",
+        "title": "中国取消对几乎所有非洲国家的关税",
         "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
         "summary": "中国对除一国外的所有非洲国家实施零关税政策，分析人士称此举增强了中国的软实力，但可能导致收益不均。",
-        "comment": "零关税强化中国影响力，但非洲内部获益或失衡。",
+        "comment": "零关税提升软实力，但非洲内部收益分化需关注。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "特朗普签署法案结束创纪录政府停摆",
+        "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+        "summary": "因移民执法资金争议，美国机场陷入混乱，特朗普签署法案终结史上最长政府停摆。",
+        "comment": "移民政策分歧仍是美国政治核心矛盾。",
         "image": "",
         "score": 87
       }
