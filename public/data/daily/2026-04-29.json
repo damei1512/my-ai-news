@@ -4,111 +4,41 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "马斯克",
-        "title": "马斯克出庭第二天，无法摆脱自己的推文",
-        "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-        "summary": "埃隆·马斯克连续第二天出庭，试图通过法律手段瓦解OpenAI，但法庭上他过去的推文成为难以回避的证据。",
-        "comment": "推文成法庭利剑，马斯克自食其果。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta AR/VR部门持续亏损，AI投入将加剧支出",
-        "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-        "summary": "Meta旗下Reality Labs每季度亏损数十亿美元，而其在人工智能领域的投入将进一步增加整体开支。",
-        "comment": "烧钱换未来，但AR/VR盈利前景仍不明朗。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "纳德拉称准备“利用”新OpenAI协议",
-        "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-        "summary": "微软将向云客户提供OpenAI技术，且无需支付费用。纳德拉表示将充分利用这一协议。",
-        "comment": "微软借OpenAI技术强化云服务竞争力。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "微软称Copilot付费用户超2000万，使用活跃",
-        "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-        "summary": "尽管外界认为Copilot使用率不高，微软周三表示其付费用户数和参与度正在增长。",
-        "comment": "数据打破质疑，AI助手市场潜力显现。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌云",
-        "title": "谷歌云季度营收首破200亿美元，AI需求激增但受产能限制",
-        "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-        "summary": "谷歌云季度营收首次突破200亿美元，AI需求激增是主要推动力，但产能限制导致增长未能更快。",
-        "comment": "AI红利显著，但基础设施瓶颈成隐忧。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI揭秘GPT-5中“地精输出”的起源与修复",
+        "title": "OpenAI揭秘GPT-5中“哥布林”输出现象的根源与修复",
         "link": "https://openai.com/index/where-the-goblins-came-from",
-        "summary": "本文详细分析了AI模型中“地精输出”现象的传播时间线、根本原因及修复方法，揭示了GPT-5行为中由个性驱动的怪癖。",
-        "comment": "对AI行为偏差的深度剖析，具有重要参考价值。",
+        "summary": "OpenAI发布报告，详细分析了AI模型中“哥布林”输出的传播时间线、根本原因及修复措施，解释了GPT-5行为中个性驱动的怪癖现象。",
+        "comment": "对AI行为偏差的透明化剖析值得行业借鉴。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI扩建Stargate计算基础设施以支撑AGI",
+        "title": "OpenAI扩建星门项目，构建智能时代计算基础设施",
         "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-        "summary": "OpenAI扩大Stargate项目规模，建设支撑通用人工智能的计算基础设施，新增数据中心容量以满足日益增长的AI需求。",
-        "comment": "大规模算力投入是AGI竞争的关键。",
+        "summary": "OpenAI扩大星门项目规模，新增数据中心容量，以建设支撑通用人工智能的计算基础设施，应对日益增长的AI需求。",
+        "comment": "大规模算力投入是AGI竞赛的关键。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "网络安全",
         "title": "OpenAI发布智能时代网络安全行动方案",
         "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-        "summary": "OpenAI提出五部分行动计划，旨在智能时代加强网络安全，重点包括普及AI驱动的网络防御和保护关键系统。",
-        "comment": "AI安全治理进入实操阶段。",
+        "summary": "OpenAI提出五部分行动计划，旨在通过普及AI驱动的网络防御来加强智能时代的网络安全，保护关键系统。",
+        "comment": "AI防御普及化是应对网络威胁的关键一步。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
         "tag": "商汤",
-        "title": "商汤SenseNova U1实测：开源版GPT Image 2，支持信息图与本地部署",
+        "title": "商汤SenseNova U1实测：开源版GPT Image 2全拿下",
         "link": "https://www.ifanr.com/1664423?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "商汤SenseNova U1模型实测，作为开源版GPT Image 2，支持信息图生成、连续图文处理和本地部署，性能强劲。",
-        "comment": "国产开源模型再突破，实用性与创新兼备。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "iOS",
-        "title": "iOS 27发力AI修图，苹果也陷AI焦虑",
-        "link": "https://www.ifanr.com/1664512?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果在iOS 27中重点推出AI修图功能，显示其对AI领域的紧迫感。",
-        "comment": "苹果加速AI布局，但创新力仍待检验。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "云计算",
-        "title": "ChatGPT拎包入住云计算一哥，SaaS转型全说透",
-        "link": "https://www.ifanr.com/1664406?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "云计算一哥发布会详解SaaS转型，ChatGPT可拎包入住，AI或成下一任好同事。",
-        "comment": "AI与云计算深度融合，SaaS转型加速。",
+        "summary": "商汤SenseNova U1实测显示，其开源版GPT Image 2支持信息图、连续图文和本地部署，性能强劲。",
+        "comment": "国产开源模型在图文生成上实现重要突破。",
         "image": "",
         "score": 92
       }
