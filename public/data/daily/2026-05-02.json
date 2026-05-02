@@ -3,14 +3,84 @@
     "week": "周六",
     "articles": [
       {
+        "category": "数码科技",
+        "tag": "马斯克",
+        "title": "马斯克诉OpenAI案爆出：Grok模型蒸馏ChatGPT",
+        "link": "https://36kr.com/p/3791460373929221?f=rss",
+        "summary": "马斯克起诉OpenAI背叛使命，却在法庭上承认自家Grok模型蒸馏了ChatGPT，引发大型翻车现场。",
+        "comment": "诉讼与行为矛盾，马斯克诚信受质疑。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "数码科技",
+        "tag": "威马",
+        "title": "威马破产清算资产拍卖，百元起拍终以9.35万成交",
+        "link": "https://36kr.com/p/3791546608049152?f=rss",
+        "summary": "威马新能源汽车采购公司破产清算后，24笔应收款项合计1.27亿元在阿里拍卖平台以100元起拍，经332次出价后以9.35万元成交。",
+        "comment": "破产资产贱卖折射威马经营困境，市场信心难恢复。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "电影",
+        "title": "《穿普拉达的女王2》续集未翻车，梅姨坦言压力大",
+        "link": "https://36kr.com/p/3791555958922504?f=rss",
+        "summary": "《穿普拉达的女王2》片场，梅丽尔·斯特里普面对粉丝和路障感到紧张，续集未翻车但主演坦言顶不住压力。",
+        "comment": "经典续集难逃压力，梅姨也需适应新阵仗。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "生化危机",
+        "title": "新《生化危机》电影借鉴系列最差游戏",
+        "link": "https://www.gamespot.com/articles/the-new-resident-evil-movie-takes-a-page-from-the-series-least-liked-game/1100-6539756/?ftag=CAD-01-10abi2f",
+        "summary": "2012年发行的《生化危机6》玩家评价不佳，但导演Zach Cregger和制作设计师Tom Hammock从中发现了可取之处，新电影将借鉴该作元素。",
+        "comment": "冷饭新炒，但风险不小。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4691413-residentevilmovie.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "007",
+        "title": "《007 初露锋芒》试玩分享：英国特工的自由行动",
+        "link": "https://www.gcores.com/radios/214000",
+        "summary": "机核主播提前试玩5月27日发售的《007 初露锋芒》，分享试玩感受并盘点5月值得关注的游戏。",
+        "comment": "试玩内容扎实，但缺乏对游戏核心机制的深度分析。",
+        "image": "",
+        "score": 88
+      },
+      {
         "category": "时事热点",
         "tag": "特朗普",
         "title": "特朗普称停火协议意味着无需国会批准对伊战争",
         "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统致信国会，声称因停火协议，敌对状态已终止，因此无需国会授权即可对伊朗采取军事行动。",
+        "summary": "美国总统致信国会，称因停火协议，敌对行动已终止，因此无需国会授权即可对伊朗采取军事行动。",
         "comment": "此举可能加剧行政与立法分支的权力博弈。",
         "image": "",
-        "score": 88
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国",
+        "title": "美国法院限制邮寄堕胎药米非司酮",
+        "link": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国法院裁决限制邮寄堕胎药米非司酮，该药是目前美国最常见的药物流产方式。",
+        "comment": "此举将显著影响美国堕胎可及性。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "特朗普称其他总统违反战争权力法，记录不一",
+        "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+        "summary": "布什父子与里根获得战争授权，而奥巴马与克林顿规避了要求。",
+        "comment": "历史记录显示总统对战争权力的态度各异。",
+        "image": "",
+        "score": 86
       }
     ]
   }
