@@ -4,33 +4,43 @@
     "articles": [
       {
         "category": "游戏影视",
-        "tag": "游戏零售",
-        "title": "GameStop宣布555亿美元收购eBay",
+        "tag": "游戏驿站",
+        "title": "游戏驿站宣布以555亿美元收购eBay",
         "link": "https://www.gamespot.com/articles/gamestop-announces-shocking-buyout-offer-for-ebay-priced-at-56-billion/1100-6539757/?ftag=CAD-01-10abi2f",
-        "summary": "游戏零售商GameStop宣布以555亿美元收购eBay，这是其动荡历史的最新篇章。",
-        "comment": "跨界收购规模惊人，但整合挑战巨大。",
+        "summary": "游戏零售商游戏驿站宣布计划以555亿美元收购电商平台eBay，这是该公司动荡历程中的最新篇章。",
+        "comment": "跨界收购规模惊人，但整合风险极高。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4691581-gamestop.jpg",
         "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "红色沙漠",
-        "title": "《红色沙漠》1.05.00更新：新增再次对决与解放据点",
+        "title": "《红色沙漠》1.05.00更新上线：新增再次对决与解放据点",
         "link": "https://www.gcores.com/articles/214051",
-        "summary": "《红色沙漠》实装1.05.00更新，新增再次对决、再次封锁、全新宠物及传说动物，修复传说坐骑无法召唤、佣兵亲密度重置等问题，旨在缓解战斗内容减少的遗憾。",
-        "comment": "更新缓解内容消耗，但核心玩法仍需打磨。",
+        "summary": "《红色沙漠》1.05.00更新上线，新增再次对决、再次封锁、全新宠物及传说动物，修复传说坐骑无法召唤、佣兵亲密度重置等问题，旨在缓解战斗内容减少的遗憾。",
+        "comment": "更新缓解了后期内容匮乏，但完成度仍需提升。",
         "image": "",
-        "score": 88
+        "score": 91
       },
       {
         "category": "时事热点",
-        "tag": "邮轮",
-        "title": "大西洋邮轮疑似病毒爆发致三人死亡",
+        "tag": "游轮",
+        "title": "大西洋游轮疑似病毒爆发致三人死亡",
         "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
         "summary": "世界卫生组织确认一例汉坦病毒感染，另有五例疑似病例正在调查中。",
-        "comment": "邮轮疫情再现，公共卫生应急需加强。",
+        "comment": "游轮疫情再次敲响公共卫生警钟。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "南非",
+        "title": "尼日利亚计划从南非撤回自愿回国的国民",
+        "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+        "summary": "南非近期爆发反移民抗议浪潮，部分演变为暴力事件，尼日利亚计划撤回愿意离开南非的国民。",
+        "comment": "暴力排外凸显南非社会矛盾。",
+        "image": "",
+        "score": 86
       }
     ]
   }
