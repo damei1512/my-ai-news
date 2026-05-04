@@ -3,24 +3,74 @@
     "week": "周一",
     "articles": [
       {
+        "category": "数码科技",
+        "tag": "豆包",
+        "title": "豆包推出付费订阅，三档月包/年包价格曝光",
+        "link": "https://36kr.com/p/3794799114476809?f=rss",
+        "summary": "豆包在免费版基础上新增付费订阅，提供标准版（68元/月）、加强版（200元/月）、专业版（500元/月）三档，年包价格分别为688元、2048元、5088元，旨在服务专业用户。",
+        "comment": "免费转付费是AI应用商业化的必然路径。",
+        "image": "",
+        "score": 96
+      },
+      {
         "category": "游戏影视",
-        "tag": "游戏驿站",
-        "title": "游戏驿站宣布以555亿美元收购eBay",
+        "tag": "GameStop",
+        "title": "GameStop以555亿美元报价收购eBay",
+        "link": "https://www.ign.com/articles/gamestop-makes-555-billion-offer-to-buy-ebay",
+        "summary": "GameStop宣布以每股125美元现金加股票的方式，向eBay提出555亿美元的收购要约。",
+        "comment": "游戏零售商跨界收购电商巨头，战略意图明显但整合难度大。",
+        "image": "https://assets-prd.ignimgs.com/2026/05/04/gettyimages-2254297714-1777884805882.jpg",
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "GameStop宣布555亿美元收购eBay，挑战亚马逊",
         "link": "https://www.gamespot.com/articles/gamestop-announces-shocking-buyout-offer-for-ebay-priced-at-56-billion/1100-6539757/?ftag=CAD-01-10abi2f",
-        "summary": "游戏零售商游戏驿站宣布计划以555亿美元收购电商平台eBay，这是该公司动荡历程中的最新篇章。",
-        "comment": "跨界收购规模惊人，但整合风险极高。",
+        "summary": "游戏零售商GameStop宣布计划以555亿美元收购eBay，旨在打造亚马逊的合法竞争对手，此举震惊业界。",
+        "comment": "跨界收购野心大，但整合挑战重重。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4691581-gamestop.jpg",
         "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "死或生6",
+        "title": "《死或生6》×《拳皇XIV》联动角色公布",
+        "link": "https://www.gcores.com/articles/214065",
+        "summary": "光荣特库摩宣布，《死或生6 Last Round》将加入《拳皇XIV》的不知火舞和古娜·戴雅门度作为合作角色，随DLC同步推出。",
+        "comment": "经典格斗角色跨界联动，情怀与玩法双赢。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "红色沙漠",
         "title": "《红色沙漠》1.05.00更新上线：新增再次对决与解放据点",
         "link": "https://www.gcores.com/articles/214051",
-        "summary": "《红色沙漠》1.05.00更新上线，新增再次对决、再次封锁、全新宠物及传说动物，修复传说坐骑无法召唤、佣兵亲密度重置等问题，旨在缓解战斗内容减少的遗憾。",
-        "comment": "更新缓解了后期内容匮乏，但完成度仍需提升。",
+        "summary": "《红色沙漠》1.05.00更新实装，新增再次对决、再次封锁、全新宠物及传说动物，修复传说坐骑无法召唤、佣兵亲密度重置等问题，旨在缓解战斗内容减少的遗憾。",
+        "comment": "更新缓解内容消耗，但核心完成度仍需提升。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "时事热点",
+        "tag": "乌克兰",
+        "title": "乌克兰无人机在胜利日前击中莫斯科高档住宅楼",
+        "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+        "summary": "在克里姆林宫准备于周六举行规模缩减的阅兵式之际，乌克兰无人机袭击了莫斯科一栋高档住宅楼。",
+        "comment": "冲突升级，莫斯科安全受直接挑战。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "朱利安尼",
+        "title": "前纽约市长朱利安尼病情危重住院",
+        "link": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普长期支持者、前纽约市长鲁迪·朱利安尼据其发言人透露，目前正在医院接受治疗，情况危急。",
+        "comment": "昔日铁腕市长如今健康告急，令人唏嘘。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
@@ -28,19 +78,29 @@
         "title": "大西洋游轮疑似病毒爆发致三人死亡",
         "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
         "summary": "世界卫生组织确认一例汉坦病毒感染，另有五例疑似病例正在调查中。",
-        "comment": "游轮疫情再次敲响公共卫生警钟。",
+        "comment": "游轮疫情再敲公共卫生警钟。",
         "image": "",
-        "score": 87
+        "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "南非",
-        "title": "尼日利亚计划从南非撤回自愿回国的国民",
-        "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-        "summary": "南非近期爆发反移民抗议浪潮，部分演变为暴力事件，尼日利亚计划撤回愿意离开南非的国民。",
-        "comment": "暴力排外凸显南非社会矛盾。",
+        "tag": "尼日利亚",
+        "title": "尼日利亚政坛重组：前总统候选人转投新党",
+        "link": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
+        "summary": "在上次大选中分别获得第三和第四名的彼得·奥比和拉比乌·克万克瓦索更换政党，此举可能重塑尼日利亚政治格局。",
+        "comment": "关键政治人物转党或影响下届大选格局。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "游戏影视",
+        "tag": "星球大战",
+        "title": "星球大战游戏迎5月4日促销，最佳折扣汇总",
+        "link": "https://www.ign.com/articles/star-wars-video-games-are-on-sale-for-may-the-4th-heres-the-best-deals",
+        "summary": "IGN报道，为庆祝5月4日星球大战日，多款星战游戏打折促销，包括《星球大战绝地：陨落的武士团》等热门作品，折扣力度较大。",
+        "comment": "星战日促销是粉丝入手游戏的好时机。",
+        "image": "https://assets-prd.ignimgs.com/2026/05/01/star-wars-day-game-deals-2026-1777650465547.png",
+        "score": 85
       }
     ]
   }
