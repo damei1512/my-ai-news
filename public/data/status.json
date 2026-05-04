@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-04T11:32:29Z",
+  "finished_at": "2026-05-04T13:18:16Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -33,7 +33,7 @@
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": "bozo parse error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)>"
+      "error_message": "bozo parse error: <unknown>:12:244: mismatched tag"
     },
     {
       "source_id": "techcrunch_ai",
