@@ -4,21 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI揭秘GPT-5中“哥布林”输出的起源与修复",
+        "tag": "GPT-5",
+        "title": "AI模型中的“地精”输出：GPT-5行为怪癖的根源与修复",
         "link": "https://openai.com/index/where-the-goblins-came-from",
-        "summary": "OpenAI发布报告，详细分析了GPT-5中出现的“哥布林”风格输出现象，包括其传播时间线、根本原因以及针对模型个性驱动怪癖的修复措施。",
-        "comment": "模型行为偏差的溯源与修复，体现了AI安全研究的深度。",
+        "summary": "本文追溯了GPT-5中人格驱动怪癖（地精输出）的传播时间线、根本原因及修复措施，揭示了AI模型行为偏差的形成机制。",
+        "comment": "对AI行为偏差的溯源分析具有工程价值。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI扩建Stargate计算基础设施以支持AGI发展",
+        "title": "OpenAI扩建星际之门，构建AGI计算基础设施",
         "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-        "summary": "OpenAI扩大Stargate项目规模，建设支撑AGI的计算基础设施，新增数据中心容量以满足日益增长的AI需求。",
-        "comment": "大规模算力投入是AGI竞争的关键。",
+        "summary": "OpenAI扩大星际之门项目规模，建设支持AGI的计算基础设施，新增数据中心容量以满足日益增长的AI需求。",
+        "comment": "算力军备竞赛升级，AGI落地加速。",
         "image": "",
         "score": 100
       },
@@ -28,7 +28,7 @@
         "title": "OpenAI发布智能时代网络安全行动计划",
         "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
         "summary": "OpenAI提出五部分行动计划，旨在智能时代加强网络安全，重点包括普及AI驱动的网络防御和保护关键系统。",
-        "comment": "AI防御民主化是应对网络威胁的关键一步。",
+        "comment": "AI防御普及化是应对网络威胁的关键一步。",
         "image": "",
         "score": 100
       }
