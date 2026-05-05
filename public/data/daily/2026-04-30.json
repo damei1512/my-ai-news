@@ -4,31 +4,41 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "账户安全",
         "title": "OpenAI推出高级账户安全功能",
         "link": "https://openai.com/index/advanced-account-security",
-        "summary": "OpenAI引入抗钓鱼登录、更强恢复机制及增强保护，以保障敏感数据并防止账户被盗用。",
+        "summary": "OpenAI引入高级账户安全功能，包括防钓鱼登录、更强的恢复机制和增强保护，以保护敏感数据并防止账户被接管。",
         "comment": "安全升级及时，应对日益增长的账户风险。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
+        "tag": "数码",
+        "title": "反AI座机爆火美国家长群，比小天才更猛",
+        "link": "https://www.ifanr.com/1664605?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "一款剥离AI算法与屏幕的座机，仅靠电话线实现真实社交，在美国家长中热销。",
+        "comment": "回归本质的社交工具，反而更受欢迎。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
         "tag": "方程豹",
         "title": "方程豹钛7 EV闪充版上市，19.98万起，9分钟充满",
         "link": "https://www.ifanr.com/1664606?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "方程豹钛7 EV闪充版上市，起售价19.98万元，支持9分钟快充，具备长续航、强操控和高智慧特性，天神之眼B为选装配置。",
-        "comment": "快充技术突破，但高阶智驾需额外付费。",
+        "summary": "方程豹钛7 EV闪充版上市，起售价19.98万元，支持9分钟快充，具备长续航、强操控、高智慧、全地形能力，天神之眼B需额外付费。",
+        "comment": "快充技术突破，但高阶智驾需加钱，性价比待市场检验。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "小米",
-        "title": "小米最新人形机器人会“出汗”的手能比心",
+        "title": "小米最新人形机器人会“出汗”的手",
         "link": "https://www.ifanr.com/1664575?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米发布最新人形机器人，其手部具备“出汗”功能，可进行比心等精细动作，展示技术突破。",
-        "comment": "仿生散热技术让人形机器人更接近人类。",
+        "summary": "小米发布新一代人形机器人，其手部具备“出汗”功能，能模拟人类散热，并可与用户比心互动。",
+        "comment": "仿生散热技术突破，人机交互更自然。",
         "image": "",
         "score": 92
       },
@@ -38,7 +48,7 @@
         "title": "苹果iOS 27或大幅升级照片App，一加realme正式合并",
         "link": "https://www.ifanr.com/1664570?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "苹果iOS 27可能对照片App进行重大升级；一加与realme正式合并；去年我国Token调用量达21100万亿。Anthropic估值或破9000亿美元，Alphabet Q1净利润暴增81%，微软云业务提速。",
-        "comment": "科技巨头财报亮眼，AI竞争白热化。",
+        "comment": "科技巨头财报亮眼，AI竞争持续白热化。",
         "image": "",
         "score": 92
       },
@@ -47,8 +57,8 @@
         "tag": "一加",
         "title": "一加 Ace 6 至尊版体验：手机与掌机二合一",
         "link": "https://www.ifanr.com/1664739?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "一加 Ace 6 至尊版通过独特设计，将手机功能与掌机体验融合，旨在满足游戏与日常使用双重需求。",
-        "comment": "创新融合，但掌机体验仍需市场检验。",
+        "summary": "一加 Ace 6 至尊版将手机与掌机功能融合，提供独特游戏体验，爱范儿详细评测其设计与性能。",
+        "comment": "跨界融合尝试，但实用性待市场检验。",
         "image": "",
         "score": 91
       },
@@ -57,8 +67,8 @@
         "tag": "Steam",
         "title": "十年等一回！Steam 手柄再相见",
         "link": "https://www.ifanr.com/1664641?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "问题的关键，是《半条命 3》。爱范儿报道，Steam 手柄时隔十年或将迎来更新。",
-        "comment": "情怀与实用能否兼得？",
+        "summary": "Steam 手柄时隔十年再度亮相，关键或与《半条命 3》相关。",
+        "comment": "经典回归，游戏生态或迎新变局。",
         "image": "",
         "score": 91
       },
@@ -67,30 +77,20 @@
         "tag": "GPT-5.5",
         "title": "GPT-5.5 为何输出怪异内容？",
         "link": "https://www.ifanr.com/1664679?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "GPT-5.5 模型出现异常输出，引发对其训练数据或内部机制的质疑，爱范儿报道了该现象。",
+        "summary": "GPT-5.5 模型出现异常输出，生成内容逻辑混乱、语义不明，引发对模型训练数据或算法问题的关注。",
         "comment": "模型稳定性仍是AI落地的关键挑战。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "座机",
-        "title": "一台比小天才还猛的「反 AI 座机」，卖爆美国家长群",
-        "link": "https://www.ifanr.com/1664605?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "剥离掉 AI 算法与屏幕，最好的社交也只需要一根电话线，和两个直面彼此的灵魂。",
-        "comment": "反科技潮流下的社交回归，值得关注。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
         "tag": "数码科技",
-        "title": "我测SBTI，但我是skill：低成本可复制",
+        "title": "我测SBTI，但被确诊为skill：低成本可复制",
         "link": "https://www.ifanr.com/1664362?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨了SBTI测试的流行现象，指出其低成本、易复制的特点，并反思了这种标签化自我认知的局限性。",
-        "comment": "标签化自我认知需警惕，技能才是硬通货。",
+        "summary": "文章探讨了SBTI测试现象，指出其低成本、易复制的特点，并反思了这种标签化对个人认知的影响。",
+        "comment": "标签化认知需警惕，自我定义更重要。",
         "image": "",
-        "score": 88
+        "score": 90
       }
     ]
   }

@@ -3,14 +3,94 @@
     "week": "周二",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "英伟达CEO黄仁勋：AI正在创造大量就业机会",
+        "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+        "summary": "针对工人对AI取代工作的担忧，英伟达CEO黄仁勋表示，AI消灭工作的说法被严重夸大，实际上AI正在创造大量新岗位。",
+        "comment": "黄仁勋的乐观表态旨在缓解AI焦虑，但需关注岗位结构变化。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "游戏影视",
+        "tag": "复仇者联盟",
+        "title": "《复仇者联盟：末日》导演谈剧透：过度管控无意义",
+        "link": "https://www.ign.com/articles/avengers-doomsday-director-says-spoilers-can-be-over-policed-as-fans-fear-ruined-surprises",
+        "summary": "《复仇者联盟：末日》联合导演乔·罗素承认，剧透难以避免，因为“你无法控制一切”，并认为对剧透的过度管控可能适得其反。",
+        "comment": "导演坦诚面对剧透现实，但粉丝期待仍存悬念。",
+        "image": "https://assets-prd.ignimgs.com/2022/08/20/avengersendgame-10bestmoments-blogroll-1564703094919-1660966839450.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏影视",
+        "title": "宅月电波第20期：沉溺于腐姬的甘美芳香",
+        "link": "https://www.gcores.com/radios/214079",
+        "summary": "宅月电波第20期庆祝节目，主播深入解读《腐姬》，分享对galgame、爱情、美与生命的感悟，旨在激发听众兴趣去体验这部作品。",
+        "comment": "情感真挚的深度安利，适合腐姬爱好者。",
+        "image": "",
+        "score": 91
+      },
+      {
         "category": "时事热点",
-        "tag": "汉坦病毒",
-        "title": "邮轮疑爆发汉坦病毒，三人死亡后第二例确诊",
-        "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-        "summary": "MV Hondius号邮轮运营商确认，一对荷兰夫妇和一名德国公民死亡，但死因尚未确定。",
-        "comment": "邮轮疫情再敲警钟，汉坦病毒传播风险需警惕。",
+        "tag": "中东局势",
+        "title": "美军打击伊朗快艇，伊朗袭击阿联酋石油设施",
+        "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+        "summary": "马士基航运公司称，其一艘美国籍商船在美国军方保护下成功驶离霍尔木兹海峡。",
+        "comment": "中东局势再度紧张，航运安全面临直接威胁。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "空难",
+        "title": "报告称中国致命空难由燃油切断导致",
+        "link": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss",
+        "summary": "2022年，一架波音737客机在中国坠毁，机上132人全部遇难。最新报告指出，事故原因为燃油切断。",
+        "comment": "调查结果明确，航空安全需持续警惕。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "德国",
+        "title": "德国莱比锡汽车冲撞人群致2死多伤",
+        "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+        "summary": "一名33岁德国公民在事件后被当局拘留，事故造成两人死亡、多人受伤。",
+        "comment": "事件凸显公共安全风险，需警惕类似袭击。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "汉坦病毒",
+        "title": "游轮疑似汉坦病毒爆发致3死，第二例确诊",
+        "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+        "summary": "MV Hondius号邮轮运营商确认，一对荷兰夫妇和一名德国公民死亡，第二例汉坦病毒病例已确诊。",
+        "comment": "游轮疫情再次敲响公共卫生警钟。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "Met Gala",
+        "title": "Met Gala：碧昂丝回归，星光熠熠红毯",
+        "link": "https://www.bbc.com/news/videos/cglpy0d7k5jo?at_medium=RSS&at_campaign=rss",
+        "summary": "安娜·温图尔带来魅力，碧昂丝携家人亮相，海蒂·克鲁姆在今年的筹款活动中造型如雕像。",
+        "comment": "时尚盛会再掀高潮，明星阵容强大。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "Met Gala",
+        "title": "2026年Met Gala主题：服装艺术，时尚作为具身艺术",
+        "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
+        "summary": "2026年Met Gala筹款活动主题定为“服装艺术”，探讨时尚作为一种具身艺术形式。",
+        "comment": "时尚与艺术的边界再次模糊。",
+        "image": "",
+        "score": 85
       }
     ]
   }
