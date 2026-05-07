@@ -4,73 +4,53 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI发布GPT-5.5 Instant：更智能、更准确、更个性化",
+        "link": "https://openai.com/index/gpt-5-5-instant",
+        "summary": "GPT-5.5 Instant更新了ChatGPT默认模型，提供更智能、更准确的回答，减少幻觉，并改进个性化控制。",
+        "comment": "模型迭代聚焦实用性与可靠性，个性化控制是亮点。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
         "tag": "人工智能",
         "title": "OpenAI发布MRC协议提升大规模AI训练网络性能",
         "link": "https://openai.com/index/mrc-supercomputer-networking",
-        "summary": "OpenAI通过OCP发布MRC（多路径可靠连接）协议，这是一种新型超级计算机网络协议，旨在提升大规模AI训练集群的韧性和性能。",
-        "comment": "MRC协议有望解决AI训练网络瓶颈，推动超算效率提升。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "GPT-5.5",
-        "title": "OpenAI发布GPT-5.5即时系统卡",
-        "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-        "summary": "OpenAI发布GPT-5.5系统卡，详细说明模型能力、安全评估与限制，为开发者提供技术参考。",
-        "comment": "系统卡透明度提升，但安全细节仍需关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "GPT-5.5",
-        "title": "OpenAI发布GPT-5.5 Instant：更智能、更准确、更个性化",
-        "link": "https://openai.com/index/gpt-5-5-instant",
-        "summary": "GPT-5.5 Instant成为ChatGPT默认模型，提供更智能准确的回答，减少幻觉，并增强个性化控制。",
-        "comment": "模型迭代聚焦实用性与可靠性，个性化是亮点。",
+        "summary": "OpenAI通过OCP发布新型超算网络协议MRC（多路径可靠连接），旨在提升大规模AI训练集群的韧性和性能。",
+        "comment": "MRC协议有望解决AI训练网络瓶颈。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
+        "title": "OpenAI发布GPT-5.5 Instant系统卡",
+        "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+        "summary": "OpenAI发布GPT-5.5 Instant系统卡，详细说明模型能力、安全评估与部署细节。",
+        "comment": "模型迭代加速，安全透明度提升。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
         "title": "OpenAI推出ChatGPT广告自助购买新方式",
         "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-        "summary": "OpenAI扩展ChatGPT广告业务，推出自助广告管理器测试版、CPC竞价及增强测量工具，注重隐私保护并确保广告与对话分离。",
-        "comment": "商业化加速，但隐私底线守得不错。",
+        "summary": "OpenAI扩展ChatGPT广告业务，推出自助广告管理器测试版、CPC竞价和增强测量工具，注重隐私保护，确保广告与对话分离。",
+        "comment": "广告变现加速，隐私底线仍坚守。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
         "tag": "豆包",
-        "title": "豆包新增付费订阅；苹果2.5亿美元和解Siri诉讼",
+        "title": "豆包新增付费订阅，苹果Siri功能推迟发布",
         "link": "https://36kr.com/p/3797041945304327?f=rss",
-        "summary": "豆包将在免费模式外新增付费订阅，官方已回应；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼；分析师称iPhone 18 Pro定价激进，起步价8999元。",
-        "comment": "AI付费模式探索加速，苹果和解暴露隐私风险。",
+        "summary": "豆包App Store页面出现付费版本，官方回应将在免费模式外新增付费订阅；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼；抖音集团副总裁回应红果短剧付费。",
+        "comment": "付费订阅成趋势，AI功能延迟影响用户体验。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "Take-Two CEO谈GTA 6制作成本：未透露具体数字",
-        "link": "https://www.gamespot.com/articles/how-much-did-gta-6-cost-to-make-heres-what-take-twos-ceo-had-to-say/1100-6539797/?ftag=CAD-01-10abi2f",
-        "summary": "《侠盗猎车手6》制作成本备受关注，但开发商Rockstar及其母公司Take-Two均未公开具体金额。CEO仅表示预算庞大，符合预期。",
-        "comment": "成本保密是行业常态，但GTA 6的规模注定天价。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4691985-grandtheftautovitrailer10-13screenshotlarge.jpeg",
-        "score": 92
-      },
-      {
-        "category": "时事热点",
-        "tag": "以色列",
-        "title": "BBC追踪以色列10分钟轰炸如何摧毁黎巴嫩",
-        "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
-        "summary": "下午2点15分，炸弹开始落下，给黎巴嫩全国带来混乱和破坏。",
-        "comment": "短时密集轰炸造成严重人道危机。",
-        "image": "",
-        "score": 88
       }
     ]
   }
