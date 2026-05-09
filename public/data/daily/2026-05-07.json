@@ -4,60 +4,30 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI在API中推出新语音智能功能",
-        "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-        "summary": "新功能对客服系统有用，但OpenAI表示其应用横跨教育、创作者平台等多个领域。",
-        "comment": "语音交互标准化将加速行业应用落地。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "Voi创始人新AI公司Pit获a16z领投1600万美元种子轮",
-        "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-        "summary": "欧洲滑板车巨头Voi的联合创始人创立了AI初创公司Pit，获得a16z领投的1600万美元种子轮融资，成为斯德哥尔摩新星。",
-        "comment": "明星团队+顶级资本，北欧AI创业生态再添亮点。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出‘可信联系人’机制防范用户自伤风险",
-        "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-        "summary": "OpenAI扩展ChatGPT保护措施，新增‘可信联系人’功能，在对话涉及自伤风险时通知预设联系人。",
-        "comment": "AI安全从技术防护延伸到社会支持网络。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI推出GPT-5.5与GPT-5.5-Cyber，扩展可信网络访问",
+        "title": "OpenAI推出GPT-5.5与GPT-5.5-Cyber扩展可信网络访问",
         "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-        "summary": "OpenAI扩展可信网络访问，推出GPT-5.5和GPT-5.5-Cyber，帮助验证防御者加速漏洞研究并保护关键基础设施。",
-        "comment": "AI安全应用再升级，聚焦关键基础设施防护。",
+        "summary": "OpenAI扩展可信网络访问，推出GPT-5.5和GPT-5.5-Cyber，帮助已验证的防御者加速漏洞研究并保护关键基础设施。",
+        "comment": "强化安全防御，AI赋能漏洞研究新高度。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Parloa利用OpenAI模型打造可扩展语音客服AI",
+        "title": "Parloa借助OpenAI模型打造语音AI客服代理",
         "link": "https://openai.com/index/parloa",
-        "summary": "Parloa借助OpenAI模型，为企业设计、模拟和部署可靠、实时的语音驱动AI客服代理，实现可扩展的客户交互。",
-        "comment": "语音客服AI规模化落地，企业效率与客户体验双提升。",
+        "summary": "Parloa利用OpenAI模型构建可扩展的语音驱动AI客服代理，帮助企业设计、模拟并部署可靠的实时交互服务。",
+        "comment": "语音客服AI正从概念走向规模化落地。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI推出新语音模型，提升API语音智能",
+        "title": "OpenAI API推出新实时语音模型",
         "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-        "summary": "OpenAI在API中推出新的实时语音模型，支持推理、翻译和转录，实现更自然智能的语音交互体验。",
+        "summary": "OpenAI在API中推出新实时语音模型，支持推理、翻译和转录，实现更自然智能的语音交互体验。",
         "comment": "语音AI能力再升级，实时交互更自然。",
         "image": "",
         "score": 100
@@ -67,8 +37,8 @@
         "tag": "OpenAI",
         "title": "OpenAI开始在ChatGPT中测试广告",
         "link": "https://openai.com/index/testing-ads-in-chatgpt",
-        "summary": "OpenAI宣布在ChatGPT中测试广告，以支持免费访问。广告将明确标注，不影响回答独立性，并强调隐私保护和用户控制。",
-        "comment": "广告模式或成免费AI服务可持续化关键。",
+        "summary": "OpenAI宣布在ChatGPT中测试广告，以支持免费访问，广告将明确标注、不影响回答、保护隐私并允许用户控制。",
+        "comment": "商业化探索需平衡用户体验与隐私保护。",
         "image": "",
         "score": 100
       },
@@ -77,28 +47,58 @@
         "tag": "ChatGPT",
         "title": "OpenAI在ChatGPT中引入可信联系人功能",
         "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-        "summary": "OpenAI推出ChatGPT可信联系人功能，这是一项可选安全特性，当检测到严重自伤风险时会通知你信任的人。",
-        "comment": "AI安全从被动防护走向主动干预。",
+        "summary": "OpenAI为ChatGPT推出可选安全功能“可信联系人”，当检测到严重自伤风险时，可通知用户信任的联系人。",
+        "comment": "AI安全从被动监测走向主动干预。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Simplex借助Codex革新软件开发流程",
+        "title": "Simplex借助Codex重新思考软件开发",
         "link": "https://openai.com/index/simplex",
-        "summary": "Simplex利用ChatGPT Enterprise和Codex加速软件开发，显著缩短设计、构建和测试时间，并扩展AI驱动的工作流规模。",
-        "comment": "AI辅助开发从工具走向全流程整合。",
+        "summary": "Simplex利用ChatGPT Enterprise和Codex加速软件开发，显著缩短设计、构建和测试时间，并扩展AI驱动的工作流程。",
+        "comment": "AI正从辅助工具变为开发流程核心。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI在API中推出新语音智能功能",
+        "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "summary": "新功能对客服系统很有用，但OpenAI表示其在教育、创作者平台等多个领域也有应用。",
+        "comment": "语音交互能力增强，应用场景进一步扩展。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
         "tag": "人工智能",
-        "title": "Perplexity个人电脑现已在Mac上向所有人开放",
+        "title": "Voi创始人新AI公司Pit获a16z领投1600万美元",
+        "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+        "summary": "欧洲滑板车巨头Voi的联合创始人创立AI初创公司Pit，获得a16z领投的1600万美元种子轮融资，成为斯德哥尔摩新星。",
+        "comment": "明星创始人+顶级风投，Pit开局即高光。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI推出“信任联系人”功能，防范用户自伤风险",
+        "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+        "summary": "OpenAI扩展ChatGPT用户保护措施，当对话涉及自伤内容时，可触发信任联系人通知机制。",
+        "comment": "AI安全从内容过滤延伸到人际干预，值得肯定。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Perplexity个人电脑现向所有Mac用户开放",
         "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-        "summary": "Perplexity的个人电脑功能将AI代理引入Mac，现已向所有用户开放，无需等待名单。",
-        "comment": "AI代理落地个人电脑，Perplexity加速普及。",
+        "summary": "Perplexity的AI代理功能已集成至Mac平台，即日起向所有用户开放使用。",
+        "comment": "AI代理落地Mac，个人计算体验再升级。",
         "image": "",
         "score": 99
       }
