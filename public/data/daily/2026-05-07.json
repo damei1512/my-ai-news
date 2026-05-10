@@ -4,41 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI在API中推出新语音智能功能",
-        "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-        "summary": "新功能对客服系统很有用，但OpenAI表示其应用涵盖教育、创作者平台等多个领域。",
-        "comment": "语音接口标准化，将加速AI应用落地。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI推出GPT-5.5和GPT-5.5-Cyber，助力网络安全防御",
+        "title": "OpenAI推出GPT-5.5与GPT-5.5-Cyber增强网络安全访问",
         "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-        "summary": "OpenAI扩展可信网络访问，通过GPT-5.5和GPT-5.5-Cyber帮助验证防御者加速漏洞研究，保护关键基础设施。",
-        "comment": "AI安全应用再升级，聚焦实战防御。",
+        "summary": "OpenAI扩展可信网络访问，推出GPT-5.5和GPT-5.5-Cyber，帮助已验证防御者加速漏洞研究并保护关键基础设施。",
+        "comment": "AI安全应用进入更精准的防御阶段。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Parloa利用OpenAI模型打造可扩展语音客服AI",
+        "title": "Parloa利用OpenAI模型打造可扩展语音客服代理",
         "link": "https://openai.com/index/parloa",
-        "summary": "Parloa借助OpenAI模型，为企业设计、模拟和部署可靠、实时的语音驱动AI客服代理，实现可扩展的客户交互。",
-        "comment": "语音客服AI正从概念走向规模化落地。",
+        "summary": "Parloa借助OpenAI模型，为企业构建可扩展的语音驱动AI客服代理，支持设计、模拟和部署可靠的实时交互。",
+        "comment": "语音客服AI落地加速，企业服务体验有望升级。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI API推出新实时语音模型",
+        "tag": "OpenAI",
+        "title": "OpenAI API推出新型实时语音模型",
         "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-        "summary": "OpenAI在API中推出新实时语音模型，具备推理、翻译和转录能力，支持更自然智能的语音交互体验。",
-        "comment": "语音AI能力再升级，实时交互体验显著提升。",
+        "summary": "OpenAI在API中推出新型实时语音模型，具备推理、翻译和转录能力，支持更自然智能的语音交互体验。",
+        "comment": "语音AI能力再升级，实时交互更接近人类。",
         "image": "",
         "score": 100
       },
@@ -47,30 +37,40 @@
         "tag": "OpenAI",
         "title": "OpenAI开始在ChatGPT中测试广告",
         "link": "https://openai.com/index/testing-ads-in-chatgpt",
-        "summary": "OpenAI在ChatGPT中测试广告，以支持免费访问，广告明确标注、不影响回答独立性，并强调隐私保护和用户控制。",
+        "summary": "OpenAI宣布在ChatGPT中测试广告，以支持免费访问，广告将明确标注、不影响回答独立性，并强调隐私保护和用户控制。",
         "comment": "商业化探索需平衡用户体验与隐私。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI在ChatGPT中引入可信联系人功能",
+        "tag": "人工智能",
+        "title": "ChatGPT推出可信联系人安全功能",
         "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-        "summary": "OpenAI为ChatGPT新增可选安全功能“可信联系人”，当检测到严重自残风险时，可通知用户信任的联系人。",
-        "comment": "AI安全从被动防护走向主动干预。",
+        "summary": "OpenAI为ChatGPT引入可选安全功能“可信联系人”，在检测到严重自伤风险时通知用户信任的联系人。",
+        "comment": "AI安全从技术走向人文关怀。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Simplex借助Codex革新软件开发流程",
+        "title": "Simplex借助Codex重塑软件开发流程",
         "link": "https://openai.com/index/simplex",
-        "summary": "Simplex利用ChatGPT Enterprise和Codex加速软件开发，大幅缩短设计、构建和测试时间，并扩展AI驱动的工作流程。",
-        "comment": "AI辅助开发进入规模化落地阶段。",
+        "summary": "Simplex利用ChatGPT Enterprise和Codex加速软件设计、构建与测试，同时扩展AI驱动的工作流，显著缩短开发周期。",
+        "comment": "AI辅助开发进入实用阶段，效率提升可期。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI在API中推出新语音智能功能",
+        "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "summary": "新功能对客服系统有用，但OpenAI表示其应用涵盖教育、创作者平台等多个领域。",
+        "comment": "语音交互能力升级，或加速行业应用落地。",
+        "image": "",
+        "score": 99
       }
     ]
   }
