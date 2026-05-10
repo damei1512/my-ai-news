@@ -3,34 +3,84 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "语音AI",
+        "title": "Wispr Flow押注印度语音AI市场",
+        "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+        "summary": "Wispr Flow推出印地英语混合语音AI后，在印度市场增长加速，尽管语音AI产品仍面临挑战。",
+        "comment": "印度语音AI市场虽难，但Wispr Flow的Hinglish策略初见成效。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "俄罗斯电商",
+        "title": "Ozon总裁：中国卖家涌向俄罗斯，电商高增长背后藏机会",
+        "link": "https://36kr.com/p/3802822550839047?f=rss",
+        "summary": "俄罗斯电商渗透率2025年达23%，Ozon年均复合增长率91%，中国卖家正大量涌入。专访揭示AI时代下，中国卖家如何抓住俄罗斯市场商业机会。",
+        "comment": "俄罗斯电商蓝海，中国卖家需谨慎布局。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "融资",
+        "title": "长曜创新获数千万元A+轮融资，半年累计融资超亿元",
+        "link": "https://36kr.com/p/3801745491943169?f=rss",
+        "summary": "智能庭院机器人公司长曜创新完成数千万元A+轮融资，由盈峰环境领投，老股东跟投。资金将用于技术研发、量产交付及渠道拓展，公司专注户外庭院智能硬件。",
+        "comment": "庭院机器人赛道持续升温，长曜创新融资节奏稳健。",
+        "image": "",
+        "score": 96
+      },
+      {
         "category": "数码科技",
         "tag": "数码科技",
         "title": "中汽协辟谣8家车企锁电被约谈，苹果研发全息iPhone",
         "link": "https://www.ifanr.com/1665336?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "中汽协辟谣8家车企锁电被约谈；曝苹果正在研发全息iPhone；李想回应理想L9四年换代；甲骨文裁员2-3万人；小鹏多款SUV新车亮相；Google修图软件大更新。",
-        "comment": "科技新闻密集，辟谣与创新并存，行业动态值得关注。",
+        "comment": "科技新闻密集，苹果全息技术值得关注。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "时事热点",
+        "tag": "斯里兰卡",
+        "title": "斯里兰卡高僧因涉嫌强奸少女被捕",
+        "link": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
+        "summary": "斯里兰卡佛教界最高领袖之一、尊贵的帕勒格玛·赫马拉塔纳法师因涉嫌强奸一名青少年被捕，引发社会震动。",
+        "comment": "宗教权威不应成为犯罪护身符。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "游轮",
+        "title": "特内里费岛医疗人员准备接收病毒侵袭游轮乘客",
+        "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC记者Sarah Rainsford从特内里费岛港口报道，MV Hondius号游轮因致命汉坦病毒爆发即将靠岸，医疗人员已就绪。",
+        "comment": "游轮疫情再敲警钟，应急响应需提速。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "俄乌冲突",
         "title": "普京称乌克兰冲突“接近尾声”",
         "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-        "summary": "俄罗斯总统普京认为乌克兰冲突可能接近结束，并提及谈判可能性，同时谴责西方对泽连斯基的支持。",
-        "comment": "俄方释放谈判信号，但西方立场仍是关键变量。",
+        "summary": "俄罗斯总统普京认为乌克兰冲突有望通过谈判结束，同时谴责西方对泽连斯基的支持。",
+        "comment": "俄方释放谈判信号，但立场依旧强硬。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "邮轮疫情",
-        "title": "特内里费岛医疗团队准备迎接病毒爆发邮轮",
-        "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC记者Sarah Rainsford从特内里费岛港口报道，MV Hondius号邮轮因致命汉坦病毒爆发即将靠岸，医疗团队已就位。",
-        "comment": "邮轮疫情再敲公共卫生警钟。",
+        "tag": "爆炸",
+        "title": "迈阿密疑似船只爆炸致11人受伤",
+        "link": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
+        "summary": "官员正在调查佛罗里达州南部一处热门码头爆炸的原因，事故造成11人受伤。",
+        "comment": "码头安全监管需加强。",
         "image": "",
-        "score": 87
+        "score": 86
       }
     ]
   }
