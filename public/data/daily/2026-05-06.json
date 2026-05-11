@@ -4,21 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI详解ChatGPT如何保护用户隐私",
+        "tag": "ChatGPT",
+        "title": "ChatGPT如何在保护隐私的同时学习世界知识",
         "link": "https://openai.com/index/how-chatgpt-protects-privacy",
-        "summary": "OpenAI介绍ChatGPT在训练中减少个人数据使用、保障隐私安全，并赋予用户控制对话是否用于改进模型的权利。",
-        "comment": "隐私保护是AI信任基石，OpenAI此举务实。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Uber借助OpenAI提升司机收入与乘客预订效率",
-        "link": "https://openai.com/index/uber",
-        "summary": "Uber利用OpenAI的AI助手和语音功能，帮助司机更智能地赚钱，乘客更快地预订，覆盖全球实时市场。",
-        "comment": "AI赋能共享出行，效率与体验双提升。",
+        "summary": "OpenAI详解ChatGPT如何减少训练中的个人数据、保障用户隐私，并赋予用户对对话是否用于改进模型的控制权。",
+        "comment": "隐私保护与模型进步可兼得，关键在于透明与用户授权。",
         "image": "",
         "score": 100
       }
