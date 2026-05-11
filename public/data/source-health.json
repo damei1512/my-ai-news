@@ -1,11 +1,11 @@
 {
   "run_id": 1,
-  "generated_at": "2026-05-11T01:48:54Z",
+  "generated_at": "2026-05-11T05:48:36Z",
   "source_health_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/source-health.json",
   "summary": {
     "total_sources": 9,
-    "healthy_sources": 7,
-    "degraded_sources": 1,
+    "healthy_sources": 8,
+    "degraded_sources": 0,
     "unhealthy_sources": 1
   },
   "sources": [
@@ -79,17 +79,16 @@
     {
       "source_id": "gcores",
       "source_name": "机核",
-      "status": "fallback_success",
+      "status": "success",
       "items_fetched": 10,
-      "active_url": "https://www.gcores.com/rss.xml",
+      "active_url": "https://www.gcores.com/rss",
       "attempted_urls": [
-        "https://www.gcores.com/rss",
-        "https://www.gcores.com/rss.xml"
+        "https://www.gcores.com/rss"
       ],
       "backup_urls": [
         "https://www.gcores.com/rss.xml"
       ],
-      "fallback_used": true,
+      "fallback_used": false,
       "error_message": null
     },
     {

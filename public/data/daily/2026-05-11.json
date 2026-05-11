@@ -3,22 +3,152 @@
     "week": "周一",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "企业AI",
+        "title": "企业如何规模化部署AI：从实验到复合影响",
+        "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+        "summary": "OpenAI发布指南，阐述企业如何通过信任、治理、工作流设计和规模化质量，将AI从早期实验推进到产生复合影响。",
+        "comment": "企业AI落地的实操框架，强调治理与质量。",
+        "image": "",
+        "score": 100
+      },
+      {
         "category": "数码科技",
-        "tag": "SK海力士",
-        "title": "SK海力士回应人均奖金610万传闻；世界杯转播费腰斩；三星中国裁员补偿N+4",
+        "tag": "AI芯片",
+        "title": "余轶南获行业最大单笔融资后称万里长征才走第一步",
+        "link": "https://36kr.com/p/3804282431659779?f=rss",
+        "summary": "余轶南博士毕业后未入学术圈，而是加入互联网浪潮，2015年因余凯邀请加入地平线创始团队，成为001号员工。地平线逐渐成长为国际知名AI芯片公司，近期获得行业最大单笔融资。",
+        "comment": "余轶南的冒险精神与行业洞察力是地平线成功的关键。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "SK海力士回应人均奖金610万传闻；世界杯中国转播费腰斩；三星家电裁员补偿N+4",
         "link": "https://36kr.com/p/3804132892646919?f=rss",
-        "summary": "今日热点：SK海力士回应员工人均奖金610万传闻；世界杯中国转播费从3亿美元降至1.5亿；三星中国家电部门裁员补偿N+4并送手机。",
-        "comment": "奖金传闻折射半导体行业热度，世界杯转播费腰斩显示市场理性回归。",
+        "summary": "SK海力士回应员工人均奖金610万传闻；世界杯中国转播费从3亿美元降至1.5亿；三星中国家电部门裁员补偿N+4并送手机；一季度全国结婚登记169.7万对；英特尔与苹果达成初步芯片制造协议。",
+        "comment": "热点混杂，SK海力士奖金传闻最吸睛，但需核实。",
         "image": "",
         "score": 96
       },
       {
         "category": "游戏影视",
+        "tag": "公鸡",
+        "title": "《公鸡》第二季剧透：主创称HBO希望一年内播出",
+        "link": "https://www.ign.com/articles/rooster-season-2-spoilers-hbo-release-date-cast",
+        "summary": "《公鸡》主创Bill Lawrence和Matt Tarses透露，第二季将在一年内于HBO播出，确认John C. McGinley回归，并暗示Greg和Dylan的未来。",
+        "comment": "HBO加速续订，剧集热度可见一斑。",
+        "image": "https://assets-prd.ignimgs.com/2026/05/10/steve-1778446506854.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "暗黑破坏神4",
+        "title": "暴雪谈《暗黑破坏神4：憎恨之王》开发幕后",
+        "link": "https://www.ign.com/articles/rebuilding-sanctuary-the-making-of-diablo-iv-lord-of-hatred-with-blizzard",
+        "summary": "IGN发布暴雪开发者访谈，揭秘《暗黑破坏神4：憎恨之王》资料片的制作过程，包括设计理念与挑战。",
+        "comment": "深度幕后内容，粉丝必看。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/20/diablo4-lordofhatred-review-blogroll-1776726548394.jpg",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "川普孙宇晨当AI黄牛，暴利生意水深几何",
+        "link": "https://www.ifanr.com/1665224?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AI技术被滥用，黄牛利用AI生成木马代码，形成暴利产业链，需警惕安全风险。",
+        "comment": "AI黄牛现象暴露技术监管漏洞。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "黄仁勋致2026届毕业生：AI将所有人拉回同一起跑线",
+        "link": "https://www.ifanr.com/1665359?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "英伟达CEO黄仁勋在演讲中鼓励毕业生，AI时代并非威胁，而是重新定义起点的机会，强调学习与适应能力的重要性。",
+        "comment": "AI焦虑的解毒剂，但行动才是关键。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI编程",
+        "title": "第一批用AI写代码的10后被苹果邀请参加WWDC",
+        "link": "https://www.ifanr.com/1664956?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AI时代编程能力更珍贵，第一批用AI写代码的10后已被苹果邀请参加WWDC。",
+        "comment": "AI赋能儿童编程，苹果此举彰显教育前瞻性。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI写作",
+        "title": "我买了这些畅销书，但作者不是人",
+        "link": "https://www.ifanr.com/1665285?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "探讨AI生成书籍泛滥现象，提醒读者关注真正有作者的作品，避免被无灵魂内容误导。",
+        "comment": "AI写作需警惕，内容质量与原创性不可替代。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "大友克洋",
+        "title": "大友克洋成立新动画工作室OVAL GEAR",
+        "link": "https://www.gcores.com/articles/214318",
+        "summary": "5月11日，大友克洋宣布在OVAL GEAR成立新动画工作室，旨在继承其视觉表现力并制作新作，已开始制作，详情待公布，同时启动招聘。",
+        "comment": "大师再出发，动画界期待新作。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "攻壳机动队",
+        "title": "《攻壳机动队》新预告发布，7月7日开播",
+        "link": "https://www.gcores.com/articles/214316",
+        "summary": "《攻壳机动队》新作动画公布最新预告，由Science SARU制作，监督モコちゃん，角色设计半田修平，系列构成円城塔，将于7月7日播出，背景设定在2029年近未来日本。",
+        "comment": "经典IP新作，制作阵容值得期待。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "京都动画",
+        "title": "京阿尼新作动画电影《海波追寻的终幕》2027年上映",
+        "link": "https://www.gcores.com/articles/214311",
+        "summary": "京都动画宣布将改编漫画《海波追寻的终幕》为剧场版动画，预计2027年上映。该漫画曾获《这本漫画真厉害！2022》女性篇第一名，X平台首话点赞超25.8万，引发热议。",
+        "comment": "京阿尼再推口碑漫画改编，期待其细腻制作。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "乡村建设",
+        "title": "90后新村民自述：乡村成为生活新答案",
+        "link": "https://www.gcores.com/radios/214315",
+        "summary": "城市竞争加剧，年轻人重新审视乡村价值。从公益乡建到商业化运营，乡村经历转型，背后有国家战略推动和年轻人对生活方式的反思。",
+        "comment": "乡村转型不仅是经济选择，更是生活哲学的回归。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
         "tag": "PLAYISM",
-        "title": "PLAYISM发布会汇总，《偶像经理人：虚拟星途》公开",
+        "title": "PLAYISM线上发布会消息汇总，《偶像经理人：虚拟星途》公开",
         "link": "https://www.gcores.com/articles/214306",
         "summary": "独立游戏发行商PLAYISM举办线上发布会，公开多款新作及最新情报，包括《蔷薇与椿 ～豪华绚烂版～》6月更新添加线上对战。为纪念成立15周年，Steam与Nintendo eShop同步开启特卖。",
-        "comment": "PLAYISM持续发力，新作与特卖并行，粉丝福利满满。",
+        "comment": "PLAYISM15周年特卖与多款新作同步，诚意十足。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《异星遗航》5月20日开启抢先体验",
+        "link": "https://www.gcores.com/articles/214304",
+        "summary": "集英社游戏宣布，Apog Labs开发的空岛探索冒险游戏《ATMOSFAR-异星遗航》抢先体验版将于2026年5月20日发售，登陆Steam及Epic平台，支持1-4人在线合作，包含两个悬浮岛屿区域及多种生物群落。",
+        "comment": "空岛合作探索玩法值得期待，但抢先体验内容有限。",
         "image": "",
         "score": 91
       },
@@ -28,39 +158,79 @@
         "title": "微信灰测组合支付，苹果或推液态玻璃macOS",
         "link": "https://www.ifanr.com/1665356?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "微信灰度测试组合支付功能；苹果或重新设计macOS采用液态玻璃风格；哈啰回应员工脚踩青桔美团单车事件。",
-        "comment": "科技巨头加速创新，细节体验成竞争焦点。",
+        "comment": "科技巨头持续微创新，细节体验成竞争焦点。",
         "image": "",
-        "score": 90
+        "score": 88
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《异星遗航》5月20日开启抢先体验",
-        "link": "https://www.gcores.com/articles/214304",
-        "summary": "集英社游戏宣布，Apog Labs开发的空岛探索冒险游戏《ATMOSFAR-异星遗航》将于2026年5月20日登陆Steam和Epic平台，支持1-4人合作，抢先体验版包含两个悬浮岛屿区域。",
-        "comment": "合作空岛探索，抢先体验内容值得关注。",
+        "title": "《J-Jump Arena》免费派对游戏新增中文支持",
+        "link": "https://www.gcores.com/articles/214308",
+        "summary": "免费回合制淘汰派对游戏《J-Jump Arena》现已支持中文、韩语、俄语、日语等8种语言。玩家规划动作后同时出手，预测对手行动并灵活反应，混乱中求胜。",
+        "comment": "语言支持升级，混乱乐趣无国界。",
         "image": "",
-        "score": 90
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "美伊关系",
+        "title": "特朗普称伊朗对美停战提议回应完全不可接受",
+        "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+        "summary": "据报道，伊朗要求美国解除海军封锁、承认其对霍尔木兹海峡的主权并赔偿战争损失。",
+        "comment": "美伊博弈升级，和平前景渺茫。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "时事热点",
         "tag": "伊朗",
-        "title": "伊朗病重诺贝尔和平奖得主获保释并转院",
+        "title": "伊朗病重诺贝尔奖得主获保释并转送医院",
         "link": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
         "summary": "伊朗当局批准人权活动家纳尔吉斯·穆罕默迪保释，因对其在狱中健康状况恶化担忧加剧。",
-        "comment": "国际压力下伊朗罕见让步，人权状况仍堪忧。",
+        "comment": "国际压力下罕见让步，但人权状况仍堪忧。",
         "image": "",
-        "score": 87
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "油价",
+        "title": "特朗普拒绝伊朗停火提议，油价飙升",
+        "link": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+        "summary": "霍尔木兹海峡实际上仍处于关闭状态，严重扰乱全球能源运输。",
+        "comment": "地缘政治风险加剧能源市场波动。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "时事热点",
         "tag": "泰国",
         "title": "泰国前总理他信出狱，他信时代是否终结？",
         "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
-        "summary": "他信似乎无法退居幕后，但这次情况可能真的不同。",
-        "comment": "他信出狱或引发泰国政局新变数。",
+        "summary": "他信似乎无法退居幕后，但这一次情况可能真的不同。",
+        "comment": "他信出狱或加剧泰国政局不确定性。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "杜阿·利帕",
+        "title": "杜阿·利帕起诉三星擅用其形象索赔1500万美元",
+        "link": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+        "summary": "流行歌手杜阿·利帕的律师团队指控三星未经许可，在电视包装盒上使用其面部照片，要求赔偿1500万美元。",
+        "comment": "明星维权意识增强，品牌需警惕肖像权风险。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "汉坦病毒",
+        "title": "法国国民从汉坦病毒爆发船只返回后出现症状",
+        "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+        "summary": "法国总理表示，MV Hondius号五名乘客将在巴黎隔离“直至另行通知”。",
+        "comment": "疫情跨境传播风险需警惕。",
+        "image": "",
+        "score": 86
       }
     ]
   }

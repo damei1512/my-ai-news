@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-11T01:48:54Z",
+  "finished_at": "2026-05-11T05:48:36Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -92,17 +92,16 @@
     {
       "source_id": "gcores",
       "source_name": "机核",
-      "status": "fallback_success",
+      "status": "success",
       "items_fetched": 10,
-      "active_url": "https://www.gcores.com/rss.xml",
+      "active_url": "https://www.gcores.com/rss",
       "attempted_urls": [
-        "https://www.gcores.com/rss",
-        "https://www.gcores.com/rss.xml"
+        "https://www.gcores.com/rss"
       ],
       "backup_urls": [
         "https://www.gcores.com/rss.xml"
       ],
-      "fallback_used": true,
+      "fallback_used": false,
       "error_message": null
     },
     {
