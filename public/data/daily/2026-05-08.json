@@ -4,16 +4,6 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "甲骨文",
-        "title": "被裁甲骨文员工谈判遣散费遭拒",
-        "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-        "summary": "部分被裁员工因被归类为远程工作者，不符合WARN法案规定的两个月提前通知保护，遣散费谈判被甲骨文拒绝。",
-        "comment": "远程工作身份成裁员保护漏洞。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "英特尔",
         "title": "英特尔股价一年暴涨490%，华尔街押注远超实际复苏",
         "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
@@ -25,102 +15,32 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Cloudflare称AI导致1100个岗位过时，营收创新高",
+        "title": "Cloudflare称AI导致1100个岗位过时，收入创新高",
         "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-        "summary": "Cloudflare宣布首次大规模裁员，CEO Matthew Prince表示，由于AI带来的效率提升，公司不再需要那么多支持岗位。",
-        "comment": "AI替代效应在科技公司内部开始显现。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "企业AI",
-        "title": "企业AI淘金热：多家公司布局新合资项目",
-        "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-        "summary": "本周多家公司加速企业AI布局，Anthropic和OpenAI等相继宣布新合资项目，瞄准企业级AI市场，争夺市场份额。",
-        "comment": "企业AI赛道竞争白热化，巨头加速卡位。",
+        "summary": "Cloudflare宣布首次大规模裁员，CEO称因AI效率提升，公司不再需要那么多支持岗位。",
+        "comment": "AI提效的代价是就业岗位的减少。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI安全运行Codex：沙箱与审批机制",
+        "title": "OpenAI 安全运行 Codex 的实践",
         "link": "https://openai.com/index/running-codex-safely",
-        "summary": "OpenAI通过沙箱隔离、审批流程、网络策略和代理原生遥测，确保Codex编码代理的安全合规部署。",
-        "comment": "企业级AI安全实践的关键参考。",
+        "summary": "OpenAI 通过沙箱、审批、网络策略和代理原生遥测技术，安全合规地运行 Codex 编码代理。",
+        "comment": "为编码代理安全落地提供了可参考的工程方案。",
         "image": "",
         "score": 100
       },
       {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂传奇制作人手冢卓志宣布退休，结束40年职业生涯",
-        "link": "https://www.gamespot.com/articles/legendary-mario-and-zelda-director-is-retiring-from-nintendo-after-40-years/1100-6539864/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂资深游戏设计师兼总监手冢卓志将在今年晚些时候退休，结束其40年的任天堂生涯。他曾参与《超级马里奥》和《塞尔达传说》等经典系列的制作。",
-        "comment": "一代传奇谢幕，任天堂黄金时代再失一位大师。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4692562-tezuka.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA6",
-        "title": "Take-Two探索用AI降低GTA6开发成本",
-        "link": "https://www.gamespot.com/articles/gta-6-company-exploring-ai-to-help-make-games-smarter-and-possibly-bring-down-costs/1100-6539870/?ftag=CAD-01-10abi2f",
-        "summary": "Take-Two CEO表示，GTA6可能是史上最贵游戏之一，这种投资仅少数公司能承受，因此公司正探索用AI让游戏更智能并降低成本。",
-        "comment": "AI降本或成3A游戏可持续关键。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4692608-gta6image.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《Saros》不喜肉鸽，为何仍成此类游戏？",
-        "link": "https://www.gamespot.com/articles/saros-doesnt-like-being-a-roguelike-so-why-is-it-one/1100-6539868/?ftag=CAD-01-10abi2f",
-        "summary": "Housemarque在2017年《Matterfall》发售后宣布“街机已死”，认为团队在街机风格游戏中看不到未来。然而其新作《Saros》仍是一款肉鸽游戏，引发疑问。",
-        "comment": "开发者矛盾心态暴露行业对肉鸽类型的依赖。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4692597-saros.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战地6",
-        "title": "《战地6》第三赛季补丁详解：载具、网络与装备优化",
-        "link": "https://www.gamespot.com/articles/battlefield-6-season-3-patch-notes-detail-improvements-for-vehicles-netcode-gadgets-and-more/1100-6539867/?ftag=CAD-01-10abi2f",
-        "summary": "《战地6》第三赛季“Redsec”将于5月12日上线，官方提前发布补丁说明，重点改进载具性能、网络代码和装备平衡，并加入新内容。",
-        "comment": "补丁聚焦核心体验，网络优化值得期待。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4692592-s3keyartb.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "玩家cosplay抗议沙特550亿美元收购EA",
-        "link": "https://www.gamespot.com/articles/cosplaying-gamers-will-raid-ea-hq-to-protest-saudi-arabias-55-billion-buyout/1100-6539869/?ftag=CAD-01-10abi2f",
-        "summary": "沙特以550亿美元杠杆收购EA后，不满的玩家计划在加州红木城EA总部进行cosplay抗议。",
-        "comment": "玩家用创意方式表达对资本收购的抵制。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15789366/4692595-eavengers-eassemble-1.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "《天国：拯救》开发者谈AI风险与收益及游戏难度导致玩家流失",
-        "link": "https://www.gamespot.com/articles/kingdom-come-dev-talks-risks-and-benefits-of-ai-and-losing-players-if-games-are-too-difficult/1100-6539863/?ftag=CAD-01-10abi2f",
-        "summary": "《天国：拯救》工作室Warhorse新创意总监Prokop Jirsa评论了游戏开发中使用AI的热点问题，并讨论了游戏难度过高可能导致玩家流失的风险与收益。",
-        "comment": "AI在游戏开发中需平衡创新与玩家体验。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4692563-kingdom.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "原神",
-        "title": "原神6.5与6.6版本更新及卡池信息汇总",
-        "link": "https://www.gamespot.com/articles/genshin-impact-next-update-and-banners/1100-6538678/?ftag=CAD-01-10abi2f",
-        "summary": "原神保持六周更新周期，玩家可通过直播了解新版本发布时间，本文汇总了6.5和6.6版本已知的更新内容与卡池信息。",
-        "comment": "稳定更新节奏下，新版本内容值得期待。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1871/18716585/4692582-genshinimpactnextupdateandbannersversion6.6header.jpg",
-        "score": 91
+        "category": "人工智能",
+        "tag": "甲骨文",
+        "title": "被裁甲骨文员工谈判遣散费遭拒",
+        "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+        "summary": "部分员工因被归类为远程工作者，不符合WARN法案规定的两个月通知期保护，遣散谈判被公司拒绝。",
+        "comment": "远程工作分类成裁员保护漏洞。",
+        "image": "",
+        "score": 99
       }
     ]
   }
