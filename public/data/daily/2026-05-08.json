@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "AI安全",
         "title": "OpenAI 安全运行 Codex 的实践",
         "link": "https://openai.com/index/running-codex-safely",
-        "summary": "OpenAI 通过沙箱隔离、审批机制、网络策略和代理原生遥测技术，确保 Codex 安全合规运行，支持编码代理的安全采用。",
-        "comment": "安全实践为AI编码代理落地提供关键参考。",
+        "summary": "OpenAI 通过沙箱、审批、网络策略和代理原生遥测技术，安全合规地运行 Codex 编码代理。",
+        "comment": "企业级 AI 安全部署的标杆案例。",
         "image": "",
         "score": 100
       }
