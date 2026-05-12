@@ -4,43 +4,13 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "英特尔",
-        "title": "英特尔股价一年暴涨490%，华尔街押注远超实际复苏",
-        "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-        "summary": "英特尔股价在过去一年飙升490%，华尔街的押注可能远超公司实际转型进展。",
-        "comment": "市场预期过热，需警惕泡沫风险。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Cloudflare称AI导致1100个岗位过时，收入创新高",
-        "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-        "summary": "Cloudflare宣布首次大规模裁员，CEO称因AI效率提升，公司不再需要那么多支持岗位。",
-        "comment": "AI提效的代价是就业岗位的减少。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
         "title": "OpenAI 安全运行 Codex 的实践",
         "link": "https://openai.com/index/running-codex-safely",
         "summary": "OpenAI 通过沙箱、审批、网络策略和代理原生遥测技术，安全合规地运行 Codex 编码代理。",
-        "comment": "为编码代理安全落地提供了可参考的工程方案。",
+        "comment": "安全措施是代理落地的关键。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "甲骨文",
-        "title": "被裁甲骨文员工谈判遣散费遭拒",
-        "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-        "summary": "部分员工因被归类为远程工作者，不符合WARN法案规定的两个月通知期保护，遣散谈判被公司拒绝。",
-        "comment": "远程工作分类成裁员保护漏洞。",
-        "image": "",
-        "score": 99
       }
     ]
   }
