@@ -4,31 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "通用汽车",
-        "title": "通用汽车裁员数百IT员工，转向招聘AI技能人才",
-        "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-        "summary": "通用汽车裁减数百名IT员工，同时招聘具备AI原生开发、数据工程、云工程及提示工程等技能的人才，以推动AI转型。",
-        "comment": "传统车企AI转型加速，人才结构重塑信号明显。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "太空数据中心缺火箭，Cowboy Space融资2.75亿美元",
-        "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-        "summary": "AI计算需求激增推动数据中心向太空发展，但火箭运力不足成为瓶颈。Cowboy Space获2.75亿美元融资，计划解决火箭短缺问题。",
-        "comment": "太空数据中心是AI算力扩张的激进尝试。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "ChatGPT",
-        "title": "2026年初ChatGPT用户群体显著扩大",
+        "title": "ChatGPT 2026年Q1用户群体扩大，35岁以上增长最快",
         "link": "https://openai.com/signals/research/2026q1-update",
-        "summary": "2026年第一季度ChatGPT采用率激增，35岁以上用户增长最快，性别使用比例更趋平衡，标志着AI正被更广泛的主流人群接受。",
+        "summary": "2026年第一季度，ChatGPT采用率激增，35岁以上用户增长最快，性别使用比例更趋均衡，标志着AI正被更广泛的主流人群接受。",
         "comment": "AI应用正从早期用户向大众市场渗透。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "企业AI",
+        "title": "企业如何规模化应用AI：从实验到信任与治理",
+        "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+        "summary": "OpenAI发布指南，阐述企业从早期实验到规模化AI的路径，强调信任、治理、工作流设计及质量保障对实现复合影响的关键作用。",
+        "comment": "企业AI规模化需系统性治理，而非仅技术堆叠。",
         "image": "",
         "score": 100
       },
@@ -37,120 +27,20 @@
         "tag": "OpenAI",
         "title": "OpenAI校园网络：学生社团兴趣表开放",
         "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-        "summary": "OpenAI推出校园网络，连接全球学生社团，提供AI工具访问、活动举办支持，共建AI驱动校园社区。",
-        "comment": "此举旨在培养未来AI人才，扩大生态影响力。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI发布企业AI规模化指南",
-        "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-        "summary": "OpenAI发布企业AI规模化指南，涵盖从早期实验到通过信任、治理、工作流设计和规模化质量实现复合影响的路径。",
-        "comment": "为企业AI落地提供了系统方法论。",
+        "summary": "OpenAI推出校园网络，连接全球学生社团，提供AI工具访问、活动举办支持，助力构建AI驱动的校园社区。",
+        "comment": "OpenAI加速布局高校生态，抢占未来人才。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI推出DeployCo助力企业部署前沿AI",
+        "title": "OpenAI推出DeployCo帮助企业部署AI",
         "link": "https://openai.com/index/openai-launches-the-deployment-company",
-        "summary": "OpenAI成立新企业部署公司DeployCo，帮助组织将前沿AI投入生产并转化为可衡量的业务影响。",
-        "comment": "专注落地转化，企业AI应用加速器。",
+        "summary": "OpenAI成立新企业部署公司DeployCo，旨在帮助组织将前沿AI投入生产，转化为可衡量的业务影响。",
+        "comment": "AI落地加速，企业部署成新战场。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Digg",
-        "title": "Digg转型AI新闻聚合器再次尝试",
-        "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-        "summary": "Digg在给测试用户的邮件中表示，新网站旨在追踪领域内最具影响力的声音，并呈现真正值得关注的新闻。",
-        "comment": "经典内容平台借AI重生，但竞争激烈。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "理想汽车",
-        "title": "理想整车研发负责人：说理想不重视技术是误解",
-        "link": "https://36kr.com/p/3804380633554696?f=rss",
-        "summary": "理想汽车整车电动研发高级副总裁刘立国表示，过去4年理想重构底盘系统，联合供应商深度共创EMB刹车、800V主动悬架和线控转向，并布局电池自制，强调公司技术投入。",
-        "comment": "理想正从产品驱动转向技术驱动，底盘自研是关键一步。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI芯片",
-        "title": "硬氪专访：余轶南获行业最大单笔融资，称万里长征才第一步",
-        "link": "https://36kr.com/p/3804282431659779?f=rss",
-        "summary": "余轶南博士毕业后未入学术圈，2015年追随余凯加入地平线成为001号员工，公司成长为国际AI芯片巨头。近日获行业最大单笔融资，他称征程刚起步。",
-        "comment": "冒险家再获资本加持，AI芯片赛道竞争白热化。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI购物",
-        "title": "千问与淘宝打通上线AI购物，泡泡玛特将开业务电话会",
-        "link": "https://36kr.com/p/3804795647729411?f=rss",
-        "summary": "百济神州一季度扭亏为盈，营收105.44亿元增长31%；千问与淘宝打通上线AI购物功能；泡泡玛特将于5月13日举行2026年一季度业务更新电话会。",
-        "comment": "AI购物落地加速，百济神州盈利改善值得关注。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "SK海力士回应人均奖金610万传闻；世界杯转播费腰斩；三星中国裁员补偿N+4",
-        "link": "https://36kr.com/p/3804132892646919?f=rss",
-        "summary": "SK海力士回应员工人均奖金610万传闻；世界杯中国转播费从3亿美元降至1.5亿；三星中国家电部门裁员补偿N+4并送手机。",
-        "comment": "热点集中，但需核实奖金传闻真实性。",
-        "image": "",
-        "score": 95
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果WWDC前瞻：iCloud或升级为iClaw AI平台",
-        "link": "https://www.ifanr.com/1665436?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析苹果WWDC可能推出AI操作系统，iCloud将转型为AI服务载体，推动设备智能化升级。",
-        "comment": "AI OS或成苹果生态新增长点。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《鬼泣》动画制作人给《血源诅咒》电影团队建议",
-        "link": "https://www.gamespot.com/articles/devil-may-cry-netflix-creator-has-good-advice-for-bloodborne-movie-team/1100-6539889/?ftag=CAD-01-10abi2f",
-        "summary": "Adi Shankar成功将多款游戏改编为动画，包括与Konami和Netflix合作的《恶魔城》多季，以及与育碧合作的《Captain》项目。",
-        "comment": "游戏改编动画的成功经验值得借鉴。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/43/434805/4693072-3094320431-hH6Fn.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《Mixtape》访谈：将奇幻故事设定在加州",
-        "link": "https://www.gamespot.com/articles/mixtape-interview-where-do-you-set-your-fantasy-stories-you-set-them-in-places-like-california/1100-6539888/?ftag=CAD-01-10abi2f",
-        "summary": "《Mixtape》游戏通过融合成长故事与Devo、碎南瓜等乐队的震撼配乐，大胆邀请玩家在好音乐中创造回忆。",
-        "comment": "音乐驱动的叙事创新，唤起怀旧情感。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1542/15425433/4693070-8948542976-46921.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "深海迷航2",
-        "title": "《深海迷航2》合作模式详解：与好友共探深海",
-        "link": "https://www.gamespot.com/articles/how-co-op-multiplayer-works-in-subnautica-2/1100-6539887/?ftag=CAD-01-10abi2f",
-        "summary": "《深海迷航2》首次引入合作模式，玩家可与朋友组队探索星球4546B。开发商Unknown Worlds Entertainment详细介绍了合作机制，包括共享进度与资源。",
-        "comment": "合作模式是系列重大突破，但需平衡单人体验。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4693060-ss_16b68b0941ed9c5ac1eea74e478fa726d425bebf.1920x1080%281%29.jpg",
-        "score": 92
       }
     ]
   }
