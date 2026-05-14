@@ -3,32 +3,132 @@
     "week": "周四",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "法律科技",
+        "title": "法律科技公司Clio年收入达5亿美元，Anthropic加码竞争",
+        "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+        "summary": "法律科技初创公司Clio实现5亿美元年经常性收入，客户采用率大幅增长，正值Anthropic加大投入之际。",
+        "comment": "法律AI赛道竞争白热化，Clio里程碑凸显行业潜力。",
+        "image": "",
+        "score": 100
+      },
+      {
         "category": "数码科技",
-        "tag": "AI影像",
-        "title": "九号领投AI智能影像公司XbotGo，年增长近4倍",
-        "link": "https://36kr.com/p/3807831328300549?f=rss",
-        "summary": "智能体育影像品牌XbotGo完成近亿元融资，由九号资本领投，元禾控股、不同资本跟投。公司专注AI体育影像，在美国青少年体育市场年增长近4倍。",
-        "comment": "在巨头夹缝中精准切入细分赛道，AI体育影像潜力可观。",
+        "tag": "AI制药",
+        "title": "MIT博士7年创业，剂泰科技登陆港交所首日涨127%",
+        "link": "https://36kr.com/p/3807162054106624?f=rss",
+        "summary": "5月13日，37岁的赖才达带领剂泰科技在港交所上市，开盘涨170%，收涨127%，市值超270亿港币。公司获贝莱德、高瓴等机构投资，香港公开发售超购6900倍。",
+        "comment": "AI制药赛道迎来又一里程碑，技术壁垒与资本热度并存。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "数码科技",
+        "tag": "万科",
+        "title": "万科最值钱资产普洛斯拟赴港IPO",
+        "link": "https://36kr.com/p/3808685381885700?f=rss",
+        "summary": "万科深陷亏损与瘦身困境，其投资的物流巨头普洛斯计划最快于2026年第二季度向港交所递交上市申请，或成万科重要利好。",
+        "comment": "普洛斯IPO或为万科解困关键一步。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
-        "tag": "职业转型",
-        "title": "耶鲁MBA林琳裸辞转行卖保险：中年觉醒与跨界转型",
-        "link": "https://36kr.com/p/3807535484886786?f=rss",
-        "summary": "林琳，人大本科、耶鲁MBA，从投研到企业咨询培训近十年，35岁后裸辞两次，经历一年迷茫，最终跨界成为保险代理人，称此为“中年觉醒”。",
-        "comment": "高学历转行保险，折射职业价值多元探索。",
+        "tag": "AI影像",
+        "title": "九号领投AI智能影像公司XbotGo，年增长近4倍",
+        "link": "https://36kr.com/p/3807831328300549?f=rss",
+        "summary": "智能体育影像品牌XbotGo完成近亿元融资，由九号资本领投，元禾控股、不同资本跟投。公司聚焦美国青少年体育市场，年增长近4倍，在巨头夹缝中快速发展。",
+        "comment": "精准切入青少年体育影像赛道，差异化竞争策略奏效。",
         "image": "",
-        "score": 95
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "职场转型",
+        "title": "耶鲁MBA林琳裸辞转行卖保险：中年觉醒的财富管理新路",
+        "link": "https://36kr.com/p/3807535484886786?f=rss",
+        "summary": "林琳，人大本科、耶鲁MBA，从投研到企业咨询，35岁后跨界成为保险代理人。她经历两次裸辞和一年迷茫，如今以“中年觉醒”形容自己的转型，切入财富管理赛道。",
+        "comment": "高学历转行保险，折射职场人自我重塑的勇气。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "战地6",
+        "title": "《战地6》新地图修复游戏最大问题：缺乏空域",
+        "link": "https://www.ign.com/articles/battlefield-6s-new-map-fixes-one-of-the-games-biggest-issues",
+        "summary": "《战地6》推出新地图，解决了游戏中最大的问题之一：缺乏空域。",
+        "comment": "新地图精准补足空战短板，值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/05/12/battlefieldthumb-1778599415914.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "Arc Raiders 宣布每年仅两次大更新，玩家不满",
+        "link": "https://www.ign.com/articles/arc-raiders-will-only-get-two-major-updates-a-year-going-forward-and-fans-arent-happy",
+        "summary": "Arc Raiders 宣布未来每年仅进行两次重大内容更新，引发玩家强烈不满。",
+        "comment": "更新频率骤降，玩家社区反应激烈。",
+        "image": "https://assets-prd.ignimgs.com/2025/10/31/arcraiders-review-blogroll-1761948620613.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA6",
+        "title": "《GTA6》解锁时间公布，预购或下周开放",
+        "link": "https://www.gcores.com/articles/214433",
+        "summary": "PlayStation商店公布《GTA6》各地区解锁时间，新西兰玩家最早可于11月18日19:00游玩，中国香港为11月19日00:00。另有消息称预购或于下周开放。",
+        "comment": "解锁时间差异明显，预购消息引发期待。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "智能穿戴",
+        "title": "连时间都没法看的手环，每年敢收1000块，比苹果还火？",
+        "link": "https://www.ifanr.com/1665715?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "让人愿意戴，并且愿意长时间戴，这就是智能穿戴产品最重要的优势。",
+        "comment": "功能简单但用户黏性高，颠覆传统智能穿戴逻辑。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "塔罗斯的法则3",
+        "title": "《塔罗斯的法则3》正式公布，2027年发售",
+        "link": "https://www.gcores.com/articles/214419",
+        "summary": "发行商Devolver Digital宣布《塔罗斯的法则3》正在开发中，登陆PC和PS5平台，预计2027年发售。作为第一人称解谜系列最终章，玩家将穿越十多个世界，迎接全新烧脑挑战。",
+        "comment": "系列终章值得期待，谜题设计或再创新高。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "AI",
-        "title": "元宝推一键总结微信聊天，苹果探索AI引入App Store",
+        "title": "元宝一键总结微信聊天，苹果探索AI引入App Store，小米17 Max本月发布",
         "link": "https://www.ifanr.com/1665809?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "MacBook Neo推高销量，苹果笔记本一季度线上市占升至13%；比亚迪推车机屏幕小换大服务；Charli xcx成Nothing首位全球品牌大使。",
-        "comment": "AI与硬件结合加速，实用功能值得关注。",
+        "summary": "MacBook Neo推高销量，苹果笔记本一季度线上市占升至13%；比亚迪回应推车机屏幕小换大服务；Charli xcx成为Nothing首位全球品牌大使。",
+        "comment": "AI与硬件融合加速，科技巨头布局更务实。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "奥特曼",
+        "title": "奥特曼60周年纪录片预告公开，是枝裕和等大咖参与",
+        "link": "https://www.gcores.com/articles/214431",
+        "summary": "圆谷为纪念奥特曼系列60周年，公布纪录片《THE ORIGIN OF ULTRAMAN》预告片，由是枝裕和企划，小岛秀夫、庵野秀明等多领域创作者探讨奥特曼的本质，7月3日在日本上映。",
+        "comment": "大咖云集，深度挖掘奥特曼文化内核。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "战锤",
+        "title": "战锤颅骨节2026游戏发布会5月22日举行",
+        "link": "https://www.gcores.com/articles/214423",
+        "summary": "《战锤》电子游戏盛会“战锤颅骨节2026”将于5月22日回归，带来特别直播活动，公开《星际战士2》《暗潮》等重磅新消息及多款全球首曝内容，北京时间凌晨0点在B站同步直播。",
+        "comment": "战锤粉丝年度盛宴，新作爆料值得期待。",
         "image": "",
         "score": 91
       },
@@ -38,7 +138,7 @@
         "title": "《塞尔达传说》真人电影提前至2027年4月30日上映",
         "link": "https://www.gcores.com/articles/214416",
         "summary": "任天堂宣布《塞尔达传说》真人电影全球上映日期从2027年5月7日提前至4月30日，团队正加紧制作，距上映不到一年。",
-        "comment": "提前上映显示制作信心，但粉丝期待值需谨慎管理。",
+        "comment": "提前上映显示制作进展顺利，粉丝期待值拉满。",
         "image": "",
         "score": 91
       },
@@ -47,7 +147,7 @@
         "tag": "游戏",
         "title": "《失落星船：马拉松》第2赛季6月3日开启",
         "link": "https://www.gcores.com/articles/214414",
-        "summary": "《失落星船：马拉松》第2赛季“暮夜”6月3日上线，新增夜间沼泽区域、疾行者外壳、武器及自定义系统“摇篮”，优化阵营升级与游玩体验，赛季数据将重置。",
+        "summary": "《失落星船：马拉松》第2赛季“暮夜”6月3日上线，新增夜间沼泽区域、疾行者外壳、武器及自定义系统，优化阵营升级和游玩体验，赛季数据将重置。",
         "comment": "赛季重置机制或引发玩家争议，但内容更新诚意足。",
         "image": "",
         "score": 91
@@ -57,19 +157,49 @@
         "tag": "Steam",
         "title": "Steam周销量榜：《极限竞速：地平线6》登顶",
         "link": "https://www.gcores.com/articles/214415",
-        "summary": "V社公布2026年5月第1周Steam全球销量排行榜，排除免费游戏常青树。《极限竞速：地平线6》预购登顶，《深海迷航2：异星水域》紧随其后。",
-        "comment": "《地平线6》预购强势，赛车游戏热度不减。",
+        "summary": "V社公布2026年5月首周Steam全球销量榜，《极限竞速：地平线6》预购登顶，《深海迷航2：异星水域》紧随其后。",
+        "comment": "地平线系列延续强势，预购即登顶。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《ARC Raiders》更新节奏调整，改为半年一次大型版本",
-        "link": "https://www.gcores.com/articles/214417",
-        "summary": "Embark Studios宣布《ARC Raiders》不再每月更新，改为每年两次大型版本，以减轻开发压力并优化平衡与反作弊系统，日常运营不受影响。",
-        "comment": "合理调整，质量优先于频率。",
+        "title": "《007 初露锋芒》限定版DualSense手柄5月27日发售",
+        "link": "https://www.gcores.com/articles/214424",
+        "summary": "索尼互动娱乐宣布《007 初露锋芒》限定版DualSense无线控制器将于2026年5月27日在中国大陆上市，售价639元，5月15日开启预售。",
+        "comment": "限定手柄设计值得期待，但价格偏高。",
         "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影之刃零",
+        "title": "《影之刃零》辟谣定价传言：358元不实",
+        "link": "https://www.gcores.com/articles/214421",
+        "summary": "《影之刃零》官方辟谣网传定价及预售信息，称均为不实消息。制作人梁其伟表示358元定价太贵，游戏仍在研发中。",
+        "comment": "官方及时辟谣，避免玩家被误导。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《ARC Raiders》改为半年一次大型版本更新",
+        "link": "https://www.gcores.com/articles/214417",
+        "summary": "Embark Studios宣布《ARC Raiders》不再每月更新，改为每年两次大型版本更新，以减轻开发压力并优化平衡与反作弊系统。",
+        "comment": "调整节奏有助于提升游戏质量，但需关注玩家留存。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏影视",
+        "title": "《地牢爬行者卡尔》作者谈角色如何影响新系列",
+        "link": "https://www.ign.com/articles/dungeon-crawler-carl-author-matt-dinniman-explains-how-one-character-could-influence-his-next-book",
+        "summary": "《地牢爬行者卡尔》作者Matt Dinniman解释了一个特定角色如何影响他下一部系列作品的创作方向。",
+        "comment": "角色驱动创作，系列延续性值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/05/13/81glsxp7xbl-sl1500-1778710564605.jpg",
         "score": 88
       },
       {
@@ -77,10 +207,10 @@
         "tag": "美国",
         "title": "亚历克斯·默多谋杀定罪被推翻，法院下令重审",
         "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-        "summary": "法院裁定推翻亚历克斯·默多2021年6月谋杀其妻儿保罗和玛吉的定罪，并下令重新审理此案。",
+        "summary": "法院裁定推翻亚历克斯·默多因2021年6月杀害其妻儿保罗和玛吉的谋杀定罪，并下令进行新的审判。",
         "comment": "此案反转凸显司法程序复杂性。",
         "image": "",
-        "score": 87
+        "score": 88
       }
     ]
   }
