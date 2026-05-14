@@ -4,31 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "Notion",
         "title": "Notion将工作空间转变为AI代理中心",
         "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
         "summary": "Notion推出新开发者平台，允许团队将AI代理、外部数据源和自定义代码直接集成到工作空间中，进一步深入代理型产品领域。",
-        "comment": "Notion此举加速了AI代理在协作工具中的落地。",
+        "comment": "Notion正加速向AI代理平台转型。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "马斯克xAI在密西西比数据中心运行近50台燃气轮机",
-        "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-        "summary": "xAI的Colossus 2数据中心使用移动燃气轮机作为发电设施，引发诉讼，指控其未受监管。",
-        "comment": "AI算力扩张与环保监管的冲突案例。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI预判",
-        "title": "Anthropic产品负责人：AI将提前预判你的需求",
+        "title": "Anthropic高管：AI将提前预判你的需求",
         "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-        "summary": "Anthropic旗下Claude Code与Cowork产品负责人Cat Wu表示，AI的下一个重大进展是主动性，即在用户意识到需求之前就预判并满足需求。",
-        "comment": "AI从被动响应到主动预判，是交互范式的关键跃迁。",
+        "summary": "Anthropic产品负责人Cat Wu表示，AI的下一个重大进步是主动性，未来AI会在用户意识到需求之前就预判并满足这些需求。",
+        "comment": "AI从被动响应到主动预判，是智能进化的关键一步。",
         "image": "",
         "score": 100
       },
@@ -37,27 +27,17 @@
         "tag": "Anthropic",
         "title": "Anthropic瞄准新客户群：小企业主",
         "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-        "summary": "Anthropic推出面向小企业主的新服务，标志着AI平台战争向低端市场扩展，用户获取的下一个主要战场已转移。",
-        "comment": "AI巨头争夺小企业，市场下沉加速。",
+        "summary": "Anthropic推出面向小企业主的新服务，标志着AI平台竞争正向下沉市场扩展，用户获取的下一个主战场已转移至中小企业领域。",
+        "comment": "AI平台战火蔓延至中小企业，市场格局加速重塑。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "亚马逊",
-        "title": "亚马逊推出AI购物助手，由Alexa+驱动",
-        "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-        "summary": "亚马逊在搜索栏推出AI购物助手Alexa for Shopping，支持语音和触控，覆盖移动端、桌面端和Echo Show设备，提供个性化推荐。",
-        "comment": "亚马逊将AI购物助手整合进搜索栏，提升用户体验。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "OpenAI",
         "title": "OpenAI为Windows版Codex构建安全沙箱",
         "link": "https://openai.com/index/building-codex-windows-sandbox",
-        "summary": "OpenAI为Codex在Windows上构建安全沙箱，实现受控文件访问与网络限制，确保编码代理安全高效运行。",
+        "summary": "OpenAI详细介绍了为Windows平台Codex构建的安全沙箱，通过控制文件访问和网络限制，实现安全高效的编码代理。",
         "comment": "安全沙箱是AI编码工具落地的关键基础设施。",
         "image": "",
         "score": 100
@@ -67,10 +47,20 @@
         "tag": "供应链攻击",
         "title": "OpenAI回应TanStack npm供应链攻击详情",
         "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-        "summary": "OpenAI详细说明了针对TanStack“Mini Shai-Hulud”供应链攻击的应对措施，包括系统安全加固、签名证书保护及macOS使用情况说明。",
-        "comment": "供应链攻击频发，OpenAI的透明回应值得借鉴。",
+        "summary": "OpenAI详细说明对TanStack“Mini Shai-Hulud”供应链攻击的应对措施，包括系统安全加固、签名证书保护及macOS使用原因。",
+        "comment": "及时披露细节有助于提升行业供应链安全水平。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "马斯克xAI在密西西比数据中心运行近50台燃气轮机",
+        "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+        "summary": "xAI的Colossus 2数据中心因使用移动燃气轮机作为发电设备而引发诉讼，指控其未经充分监管运行。",
+        "comment": "AI算力扩张与环保监管的矛盾凸显。",
+        "image": "",
+        "score": 99
       },
       {
         "category": "人工智能",
@@ -78,7 +68,7 @@
         "title": "谁信任山姆·奥特曼？",
         "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
         "summary": "奥特曼在联邦法院作证称：“我相信自己是一个诚实可信的商人。”",
-        "comment": "信任危机背后是AI治理的深层博弈。",
+        "comment": "信任危机下，自我辩护难掩争议。",
         "image": "",
         "score": 99
       },
@@ -93,101 +83,91 @@
         "score": 99
       },
       {
-        "category": "数码科技",
-        "tag": "科技创业",
-        "title": "林俊旸新公司估值20亿美金；贾跃亭转战机器人；网红糖果掺伟哥",
-        "link": "https://36kr.com/p/3808362853834502?f=rss",
-        "summary": "前阿里千问大模型技术负责人林俊旸创业，新公司估值约20亿美金；贾跃亭宣布转战机器人业务；网红糖果被曝掺超高剂量伟哥。腾讯称无大裁员计划，韩国支持三星与工会对话，中美经贸磋商在韩举行，宇树科技注册多款机器人商标，TikTok在三国推生活服务品牌。",
-        "comment": "AI创业估值虚高，食品安全问题频发需警惕。",
+        "category": "人工智能",
+        "tag": "亚马逊",
+        "title": "亚马逊推出AI购物助手，由Alexa+驱动",
+        "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+        "summary": "亚马逊在搜索栏推出AI购物助手Alexa for Shopping，支持语音和触控，覆盖移动端、桌面端和Echo Show，提供个性化推荐。",
+        "comment": "亚马逊将AI购物助手嵌入搜索栏，提升用户体验。",
         "image": "",
-        "score": 97
+        "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "TechCrunch",
         "title": "TechCrunch Disrupt 2026推出六大舞台，聚焦初创市场",
         "link": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
-        "summary": "2026年10月13日至15日，TechCrunch Disrupt大会将设六大舞台、200多场会议，由250多位科技领袖主导，现已开放注册，可节省高达410美元。",
-        "comment": "针对当前艰难创业环境，大会内容设计更具实战性。",
+        "summary": "2026年10月13-15日，TechCrunch Disrupt大会将设6大舞台、200多场会议，由250多位科技领袖主导，现已开放注册，最高可省410美元。",
+        "comment": "大会规模升级，精准回应初创企业融资难痛点。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI创业",
+        "title": "林俊旸新公司估值20亿美金；贾跃亭转战机器人业务",
+        "link": "https://36kr.com/p/3808362853834502?f=rss",
+        "summary": "前阿里千问大模型技术负责人林俊旸创业，新公司估值约20亿美金；贾跃亭宣布转战机器人业务；网红糖果被曝掺超高剂量伟哥。",
+        "comment": "AI创业热度不减，跨界转型成新趋势。",
         "image": "",
         "score": 96
       },
       {
         "category": "游戏影视",
-        "tag": "黑袍纠察队",
-        "title": "本周《黑袍纠察队》剧集出现漫威演员客串",
-        "link": "https://www.ign.com/articles/this-weeks-episode-of-the-boys-features-a-foul-mouthed-marvel-studios-actor-cameo",
-        "summary": "Prime Video的《黑袍纠察队》即将完结，本周剧集中，Chace Crawford饰演的The Deep遇到了一位满口脏话的漫威影业演员客串。",
-        "comment": "漫威演员跨界客串，增加剧集话题性。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/13/the-deep-the-boys-thumb-1778711892624.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
         "tag": "刺客信条",
-        "title": "《刺客信条4》重制版现实寻宝活动，奖金50万美元金币",
+        "title": "《刺客信条：黑旗》重制版现实寻宝活动，奖金50万美元",
         "link": "https://www.gamespot.com/articles/real-world-assassins-creed-black-flag-resynced-treasure-hunt-includes-500000-in-gold-coins/1100-6539932/?ftag=CAD-01-10abi2f",
-        "summary": "今年夏天，《刺客信条4：黑旗》重制版将让玩家重返海盗时代，同时现实世界中将有一场价值50万美元金币的寻宝活动等待参与者。",
-        "comment": "游戏与现实结合的营销新高度。",
+        "summary": "今年夏天，《刺客信条：黑旗》重制版将让玩家重返海盗时代，同时现实世界中藏有价值50万美元的金币等待发现。",
+        "comment": "虚实结合，营销创意十足。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4694836-assassin%27screedblackflagresyncedtreasurehunt.jpg",
         "score": 93
       },
       {
         "category": "游戏影视",
+        "tag": "堡垒之夜",
+        "title": "《堡垒之夜》零建造模式本周迎来重大更新",
+        "link": "https://www.gamespot.com/articles/fortnite-zero-build-is-getting-a-much-needed-overhaul-this-week/1100-6539931/?ftag=CAD-01-10abi2f",
+        "summary": "Epic Games将于5月14日对《堡垒之夜》零建造模式进行大规模改造，这是第7章第2赛季的最后一次重大更新。",
+        "comment": "零建造模式终于迎来急需的优化。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1587/15875866/4694832-fortnite.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
         "tag": "宝可梦GO",
-        "title": "《宝可梦GO》究极异兽回归：电束木弱点与闪光获取指南",
+        "title": "《宝可梦GO》究极异兽回归：电束木弱点与攻略",
         "link": "https://www.gamespot.com/articles/xurkitree-pokemon-go-raids-weaknesses-best-counters-and-how-to-get-shiny-xurkitree/1100-6539929/?ftag=CAD-01-10abi2f",
-        "summary": "三只究极异兽电束木、爆肌蚊和费洛美螂作为五星团战Boss限时回归《宝可梦GO》，活动时间为5月13日至19日。本文提供电束木的弱点、最佳应对宝可梦及闪光版获取方法。",
-        "comment": "限时回归活动为玩家提供了收集闪光异兽的良机。",
+        "summary": "三只究极异兽电束木、爆肌蚊和费洛美螂作为五星团战头目于5月13日至19日限时回归《宝可梦GO》。本文介绍电束木的弱点、最佳反制宝可梦及如何获得闪光形态。",
+        "comment": "限时活动值得参与，电束木是强力电系输出。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15787979/4684941-2003797237-2zyq3Hg7jYI3q3tyGpdJK3CzSnKJfqYDR0Ag0IQiwE-7wPfBEg2KYjIu-GuRHItDY3Ey3rE8dkGi_JZInnyyaQeat2u_e48rzuDJjYoDgsycWFc%3Dw1440-e365.jpg",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "堡垒之夜",
-        "title": "《堡垒之夜》零建造模式本周迎来重大改版",
-        "link": "https://www.gamespot.com/articles/fortnite-zero-build-is-getting-a-much-needed-overhaul-this-week/1100-6539931/?ftag=CAD-01-10abi2f",
-        "summary": "Epic Games将于5月14日对《堡垒之夜》零建造模式进行大规模翻新，这是第7章第2赛季的最后一次重大更新。",
-        "comment": "零建造模式终于迎来急需的优化。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1587/15875866/4694832-fortnite.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
         "tag": "卡普空",
-        "title": "卡普空看好生成式AI，持续扩大招聘",
+        "title": "卡普空看好生成式AI，仍在扩大招聘",
         "link": "https://www.gamespot.com/articles/capcom-is-excited-about-genai-is-still-ramping-up-hiring/1100-6539927/?ftag=CAD-01-10abi2f",
-        "summary": "卡普空在最新财报简报中透露，计划将生成式AI融入工作流程，以提升效率，同时公司仍在积极招聘，暗示对AI技术的乐观态度。",
-        "comment": "AI辅助开发或成游戏行业新趋势。",
+        "summary": "卡普空在最新财报简报中透露，计划将生成式AI融入工作流程，以提升效率，同时继续扩大招聘规模。",
+        "comment": "游戏巨头拥抱AI，效率与创意需平衡。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4694826-requiem.jpg",
         "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "极限竞速",
-        "title": "《极限竞速：地平线6》PS5版发售时间未定",
-        "link": "https://www.gamespot.com/articles/forza-horizon-6-ps5-release-date/1100-6539924/?ftag=CAD-01-10abi2f",
-        "summary": "《极限竞速：地平线6》将于下周登陆Xbox Series X|S和PC，但PS5版本不会同步推出，微软和开发商Playground尚未公布具体日期。",
-        "comment": "跨平台策略稳步推进，但PS5玩家仍需等待。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4694823-forza.jpg",
-        "score": 92
-      },
-      {
         "category": "数码科技",
-        "tag": "AI",
+        "tag": "AI代理",
         "title": "MiniMax推出Mavis，Agent管理如“三省六部”",
         "link": "https://www.ifanr.com/1665759?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "MiniMax发布Mavis，一种新型Agent管理框架，借鉴中国古代三省六部制，实现高效任务分配与协作。",
-        "comment": "将官僚体系引入AI管理，创意独特但需验证实用性。",
+        "summary": "MiniMax发布Mavis，一种新型Agent管理框架，借鉴古代官制“三省六部”理念，旨在提升AI代理的协作与效率。",
+        "comment": "将传统治理智慧融入AI，创新但需验证实用性。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "红米",
-        "title": "红米KPad 2体验：3000元价位挑战iPad mini",
+        "title": "红米KPad 2体验：3000元价位能否挑战iPad mini？",
         "link": "https://www.ifanr.com/1665746?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "红米KPad 2以高刷新率屏幕为核心卖点，在3000元价位与iPad mini竞争，体验评测显示其性能与性价比突出。",
+        "summary": "红米KPad 2主打高刷屏幕，以3000元价位对标iPad mini，体验上强调流畅度和性价比。",
         "comment": "高刷是亮点，但生态和品牌溢价仍是短板。",
         "image": "",
         "score": 91
@@ -195,72 +175,52 @@
       {
         "category": "数码科技",
         "tag": "vivo",
-        "title": "vivo Y600 Pro体验：充电宝手机对入门市场的重要性",
+        "title": "vivo Y600 Pro体验：充电宝手机对入门市场意义重大",
         "link": "https://www.ifanr.com/1665702?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Y600 Pro是vivo今年重要产品，代表对入门级市场的重新理解，强调用户需求不再由旗舰定义。",
-        "comment": "重新定义入门级市场，精准定位用户需求。",
+        "summary": "vivo Y600 Pro是今年重要产品，代表对入门级市场的重新理解，强调用户需求不再由旗舰定义。",
+        "comment": "精准定位入门市场，差异化策略值得关注。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "Android Auto",
-        "title": "Android Auto全面更新，向CarPlay看齐并引入Gemini",
+        "title": "Android Auto 全面更新，对标 CarPlay，Gemini 更懂车",
         "link": "https://www.ifanr.com/1665693?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Android Auto和Google Built-in更新，适应不同车型和屏幕，与苹果CarPlay竞争。",
-        "comment": "谷歌加速追赶，Gemini加持提升车载体验。",
+        "summary": "Android Auto 和 Google Built-in 更新，适配不同车型和屏幕，提升与苹果 CarPlay 的竞争力，并引入更智能的 Gemini 功能。",
+        "comment": "谷歌加速追赶，车载系统竞争白热化。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "马拉松",
-        "title": "《马拉松》首次赛季重置几周后到来，这些内容会保留",
-        "link": "https://www.gamespot.com/articles/marathons-first-wipe-is-just-a-few-weeks-away-heres-what-carries-over/1100-6539926/?ftag=CAD-01-10abi2f",
-        "summary": "Bungie 宣布其撤离射击游戏《马拉松》第二赛季将于6月2日开启，带来首次赛季重置，重置游戏环境。官方在最新博客中透露了该消息。",
-        "comment": "赛季重置是维持游戏活力的关键举措。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4694822-marathonseason2startdate.jpg",
+        "tag": "塞尔达传说",
+        "title": "《王国之泪》可操控机甲Mineru的Amiibo将于2026年9月发售",
+        "link": "https://www.gamespot.com/articles/minerus-construct-amiibo-buying-guide/1100-6539912/?ftag=CAD-01-10abi2f",
+        "summary": "任天堂宣布《塞尔达传说：王国之泪》中Mineru的构造体Amiibo将于2026年9月17日发售，售价35美元，现已开启预购。",
+        "comment": "Amiibo收藏价值高，但发售时间距游戏发布已过三年。",
+        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4694770-mineru.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "塞尔达传说",
-        "title": "《王国之泪》可驾驶机甲将推出Amiibo",
-        "link": "https://www.gamespot.com/articles/minerus-construct-amiibo-buying-guide/1100-6539912/?ftag=CAD-01-10abi2f",
-        "summary": "《塞尔达传说：王国之泪》中可驾驶的机甲“米涅鲁的构造体”将推出Amiibo，售价35美元，2026年9月17日发售，现已开启预购。",
-        "comment": "情怀与商业结合的典型操作。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4694770-mineru.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
         "tag": "游戏外设",
-        "title": "Target促销Hori Switch 2手柄及配件最高享75折",
+        "title": "Target促销Hori Switch 2手柄配件最高享75折",
         "link": "https://www.gamespot.com/articles/save-up-to-25-off-horis-switch-2-controllers-and-accessories-at-target/1100-6539913/?ftag=CAD-01-10abi2f",
-        "summary": "Target正在对Hori有线Switch手柄及配件进行促销，最高可享25%折扣，适合偏好柔和色调的用户。",
-        "comment": "促销力度一般，但适合有特定审美需求的玩家。",
+        "summary": "Target推出Hori品牌Switch 2有线手柄及配件促销活动，最高可享25%折扣，适合偏好柔和配色的玩家。",
+        "comment": "促销力度一般，但配色选择有吸引力。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4694833-hori.jpg",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "Xbox",
-        "title": "Xbox CEO询问玩家如何拼写Xbox名称",
+        "title": "Xbox CEO询问玩家如何拼写Xbox品牌名",
         "link": "https://www.gamespot.com/articles/xbox-ceo-wants-to-know-if-you-spell-it-xbox-or-xbox/1100-6539930/?ftag=CAD-01-10abi2f",
-        "summary": "今年是初代Xbox发布25周年，微软CEO发起投票，询问玩家更倾向于使用“Xbox”还是“XBOX”拼写方式。",
-        "comment": "一个有趣的文化现象，反映品牌认知的多样性。",
+        "summary": "为纪念Xbox诞生25周年，Xbox CEO发起投票，询问玩家更倾向于拼写为Xbox还是XBOX，引发社区讨论。",
+        "comment": "品牌拼写争议反映用户情感认同。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4694829-xboxlogo.jpg",
         "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "中美关系",
-        "title": "特朗普抵华与习近平会谈，贸易、伊朗、台湾成焦点",
-        "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统特朗普表示，他对习近平的首要要求是“开放”中国市场，而北京方面预计将就台湾地位问题向特朗普施压。",
-        "comment": "中美博弈进入新阶段，核心议题凸显结构性矛盾。",
-        "image": "",
-        "score": 88
       },
       {
         "category": "时事热点",
@@ -268,7 +228,7 @@
         "title": "黎巴嫩南部遭以色列空袭致22人死亡",
         "link": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
         "summary": "贝鲁特南部遭遇一系列空袭，据黎巴嫩卫生部报告，包括8名儿童在内的22人丧生。",
-        "comment": "冲突升级，平民伤亡惨重。",
+        "comment": "冲突升级，平民伤亡令人痛心。",
         "image": "",
         "score": 88
       },
@@ -277,20 +237,20 @@
         "tag": "菲律宾",
         "title": "菲律宾参议院内响起枪声，国际刑警通缉议员藏身其中",
         "link": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
-        "summary": "前警察总长、参议员罗纳德·德拉罗萨执行了前总统杜特尔特的致命禁毒战争，目前藏身参议院，现场传出枪声。",
-        "comment": "事件凸显菲律宾禁毒战争遗留的司法与政治冲突。",
+        "summary": "前警察总监、参议员罗纳德·德拉罗萨执行了前总统杜特尔特的致命禁毒战争，目前藏身于参议院内，现场传出枪声。",
+        "comment": "事件凸显菲律宾司法与政治危机交织。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "汉坦病毒",
-        "title": "南太平洋英属岛屿一女子因接触汉坦病毒被隔离",
+        "title": "南太平洋英属岛屿一女子因接触汉坦病毒隔离",
         "link": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
-        "summary": "皮特凯恩群岛政府表示，这名曾在一艘受病毒影响的船上的女子未出现任何患病迹象。",
-        "comment": "偏远岛屿防疫面临独特挑战。",
+        "summary": "皮特凯恩群岛政府称，一名曾登上病毒感染船只的女子未出现任何疾病症状，目前正在该英属海外领地隔离。",
+        "comment": "偏远岛屿防疫能力有限，需警惕输入风险。",
         "image": "",
-        "score": 86
+        "score": 83
       }
     ]
   }
