@@ -4,40 +4,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Notion",
-        "title": "Notion将工作空间转变为AI代理中心",
-        "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-        "summary": "Notion推出新开发者平台，允许团队将AI代理、外部数据源和自定义代码直接集成到工作空间中，进一步深入代理型产品领域。",
-        "comment": "Notion正加速向AI代理平台转型。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "马斯克xAI在密西西比数据中心运行近50台燃气轮机",
-        "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-        "summary": "xAI的Colossus 2数据中心因使用“移动”燃气轮机作为发电厂，引发诉讼，指控其未经审查运行。",
-        "comment": "AI算力扩张的环境代价正引发法律争议。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic高管：AI将提前预判你的需求",
-        "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-        "summary": "Anthropic产品负责人Cat Wu表示，AI的下一个重大进步是主动性，未来AI能在用户意识到需求之前就预判并满足需求。",
-        "comment": "AI从被动响应到主动预判，是能力跃迁的关键一步。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI为Windows版Codex构建安全沙箱",
         "link": "https://openai.com/index/building-codex-windows-sandbox",
-        "summary": "OpenAI详细介绍了为Windows平台Codex构建的安全沙箱，通过控制文件访问和网络限制，实现安全高效的编码代理。",
+        "summary": "OpenAI为Windows平台Codex开发安全沙箱，通过控制文件访问和网络限制，实现安全高效的编码代理功能。",
         "comment": "安全沙箱是AI编码工具落地的关键基础设施。",
         "image": "",
         "score": 100
@@ -47,57 +17,27 @@
         "tag": "供应链攻击",
         "title": "OpenAI回应TanStack npm供应链攻击详情",
         "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-        "summary": "OpenAI详细说明对TanStack“Mini Shai-Hulud”供应链攻击的应对措施，包括系统安全加固、签名证书保护及macOS使用情况说明。",
-        "comment": "供应链安全已成AI巨头必答题。",
+        "summary": "OpenAI详细说明了其对TanStack“Mini Shai-Hulud”供应链攻击的应对措施，包括保护系统和签名证书的安全措施，并解释了macOS的使用情况。",
+        "comment": "及时披露细节有助于提升行业安全透明度。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "山姆·奥特曼",
-        "title": "谁信任山姆·奥特曼？",
-        "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-        "summary": "奥特曼在联邦法庭作证称：“我相信自己是一个诚实可信的商人。”",
-        "comment": "信任危机下的自我辩护。",
-        "image": "",
-        "score": 99
-      },
-      {
         "category": "数码科技",
-        "tag": "科技",
-        "title": "林俊旸新公司估值20亿美金；贾跃亭转战机器人业务",
-        "link": "https://36kr.com/p/3808362853834502?f=rss",
-        "summary": "林俊旸创业新公司估值约20亿美金；贾跃亭宣布转战机器人业务；网红糖果被曝掺超高剂量伟哥；腾讯否认大裁员；韩国政府支持三星与工会对话；宇树科技注册多款机器人商标；TikTok在三国推生活服务品牌。",
-        "comment": "AI和机器人赛道持续火热，创业与争议并存。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "Android Auto",
-        "title": "Android Auto全面更新向CarPlay看齐，Gemini更懂车",
-        "link": "https://www.ifanr.com/1665693?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Android Auto和Google Built-in更新，适应不同车型和屏幕，与苹果CarPlay竞争。",
-        "comment": "谷歌终于补齐车载系统短板。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI管理",
+        "tag": "AI代理",
         "title": "MiniMax推出Mavis：Agent管理的“三省六部”",
         "link": "https://www.ifanr.com/1665759?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "MiniMax发布Mavis，一种新型Agent管理框架，借鉴古代官制“三省六部”理念，强调对AI代理的精细化管理。",
-        "comment": "将官僚体系引入AI管理，思路新颖但需验证实效。",
+        "summary": "MiniMax发布Mavis，一种新型Agent管理框架，借鉴古代官制“三省六部”理念，旨在通过类似人事管理的方式优化AI代理协作与效率。",
+        "comment": "将官僚体系引入AI管理，创新但需警惕复杂度。",
         "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "红米",
         "title": "红米KPad 2体验：3000元价位挑战iPad mini",
         "link": "https://www.ifanr.com/1665746?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "红米KPad 2以高刷新率屏幕为核心卖点，定价3000元，与iPad mini展开竞争，体验评测聚焦屏幕流畅度。",
+        "summary": "红米KPad 2以高刷新率屏幕为核心卖点，定价3000元，与iPad mini竞争，体验评测聚焦屏幕表现和性价比。",
         "comment": "高刷是亮点，但生态和品牌溢价仍是短板。",
         "image": "",
         "score": 91
@@ -105,22 +45,12 @@
       {
         "category": "数码科技",
         "tag": "vivo",
-        "title": "vivo Y600 Pro体验：充电宝手机为何对vivo重要",
+        "title": "vivo Y600 Pro体验：充电宝手机对入门市场意义重大",
         "link": "https://www.ifanr.com/1665702?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "vivo Y600 Pro是今年入门级市场的重要产品，重新定义该档位用户需求，不再由旗舰机决定。",
-        "comment": "精准切入入门用户痛点，策略务实。",
+        "summary": "vivo Y600 Pro可能不是最贵或最亮眼的机型，但代表了vivo对入门级市场的重新理解，强调用户需求不再由旗舰定义。",
+        "comment": "入门级市场策略转向务实，Y600 Pro定位精准。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "以色列",
-        "title": "以色列空袭黎巴嫩南部致22人死亡，含8名儿童",
-        "link": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-        "summary": "黎巴嫩卫生部称，以色列对贝鲁特南部发动一系列空袭，造成22人死亡，其中包括8名儿童。",
-        "comment": "冲突升级，平民伤亡令人痛心。",
-        "image": "",
-        "score": 88
       }
     ]
   }
