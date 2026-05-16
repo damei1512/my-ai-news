@@ -1,6 +1,6 @@
 {
   "run_id": 1,
-  "generated_at": "2026-05-16T14:47:29Z",
+  "generated_at": "2026-05-16T16:40:34Z",
   "source_health_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/source-health.json",
   "summary": {
     "total_sources": 9,
@@ -12,15 +12,15 @@
     {
       "source_id": "jiqizhixin",
       "source_name": "机器之心",
-      "status": "parse_error",
+      "status": "invalid_feed",
       "items_fetched": 0,
       "active_url": null,
       "attempted_urls": [
-        "https://www.jiqizhixin.com/rss"
+        "https://www.jiqizhixin.com/industry"
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": "bozo parse error: <unknown>:12:244: mismatched tag"
+      "error_message": "empty html listing"
     },
     {
       "source_id": "techcrunch_ai",
@@ -96,11 +96,13 @@
       "source_name": "IGN",
       "status": "success",
       "items_fetched": 10,
-      "active_url": "https://www.ign.com/rss/articles/feed",
+      "active_url": "https://feeds.feedburner.com/ign/all",
       "attempted_urls": [
+        "https://feeds.feedburner.com/ign/all"
+      ],
+      "backup_urls": [
         "https://www.ign.com/rss/articles/feed"
       ],
-      "backup_urls": [],
       "fallback_used": false,
       "error_message": null
     },

@@ -4,113 +4,163 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI联合创始人Greg Brockman据报接管产品战略",
+        "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+        "summary": "OpenAI最新人事变动，据报道其计划将ChatGPT与编程产品Codex整合。",
+        "comment": "产品整合或加速AI应用落地。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI与马耳他合作，为所有公民提供ChatGPT Plus",
+        "title": "OpenAI与马耳他合作向全体公民提供ChatGPT Plus",
         "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-        "summary": "OpenAI与马耳他政府合作，向全体公民提供ChatGPT Plus订阅及AI技能培训，旨在提升全民AI素养与负责任使用能力。",
+        "summary": "OpenAI与马耳他政府合作，向所有公民提供ChatGPT Plus订阅及AI技能培训，旨在提升全民AI素养并推动负责任使用。",
         "comment": "国家层面普及AI工具，具有示范意义。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
+        "tag": "世界杯版权",
+        "title": "央视6000万美元获世界杯版权；英伟达市值超德国GDP；iPhone 17 Pro系列降价",
+        "link": "https://36kr.com/p/3811265856626440?f=rss",
+        "summary": "今日热点：OpenAI考虑起诉苹果；三星开发下一代HBM封装技术；海南加快培育火箭、卫星、数据链；世界银行首席经济学家将卸任；国家安全部提示海淘智能穿戴设备风险；央视确认6000万美元获2026年世界杯版权。",
+        "comment": "科技巨头动态与政策热点交织，版权和市值变化引人关注。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
         "tag": "骨传导耳机",
-        "title": "前苹果工程师跨界骨传导耳机，索迩电子完成数千万元A+轮融资",
+        "title": "前苹果工程师跨界骨传导耳机，索迩电子获数千万元A+轮融资",
         "link": "https://36kr.com/p/3810520138243593?f=rss",
-        "summary": "索迩电子完成数千万元A+轮融资，由正海资本领投，资金将用于拓展海外线下渠道和推进AI智能化研发。公司由前苹果工程师创立，独创技术路线打破头部企业专利垄断。",
-        "comment": "技术路线创新是破局关键，但海外渠道拓展挑战不小。",
+        "summary": "苏州索迩电子旗下骨传导耳机品牌Mojawa完成数千万元A+轮融资，由正海资本领投，资金将用于拓展海外线下渠道及AI智能化研发。公司由前苹果工程师创立，独创技术路线打破头部企业专利垄断。",
+        "comment": "骨传导耳机赛道竞争加剧，技术差异化是关键。",
         "image": "",
         "score": 96
       },
       {
-        "category": "数码科技",
-        "tag": "世界杯版权",
-        "title": "央视6000万美元获世界杯版权；英伟达市值超德国GDP；iPhone 17 Pro全系降价",
-        "link": "https://36kr.com/p/3811265856626440?f=rss",
-        "summary": "OpenAI考虑起诉苹果；三星开发下一代HBM封装技术；海南加快培育火箭链、卫星链、数据链；世界银行首席经济学家将卸任；国家安全部提示海淘智能穿戴设备风险；央视确认6000万美元获2026年世界杯版权。",
-        "comment": "科技与体育版权动态交织，市场信号复杂。",
-        "image": "",
-        "score": 96
+        "category": "游戏影视",
+        "tag": "刺猬索尼克4",
+        "title": "《刺猬索尼克4》导演分享金属索尼克幕后照，拍摄杀青",
+        "link": "https://www.ign.com/articles/sonic-the-hedgehog-4-director-shares-behind-the-scenes-look-at-metal-sonic-as-filming-wraps",
+        "summary": "《刺猬索尼克4》导演杰夫·福勒在最新电影拍摄结束时，首次公开了金属索尼克造型的幕后照片。",
+        "comment": "金属索尼克亮相，系列反派阵容再添新成员。",
+        "image": "https://assets-prd.ignimgs.com/2026/05/16/sonic-the-hedgehog-4-metal-sonic-1778940983644.png",
+        "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "特斯拉",
-        "title": "特斯拉Cybertruck成电视剧反派标配",
+        "title": "特斯拉Cybertruck成电视反派标配",
         "link": "https://www.ign.com/articles/want-an-easy-tv-villain-give-them-a-cybertruck",
-        "summary": "IGN探讨特斯拉Cybertruck如何成为电视剧中反派角色的标志性道具，回顾其在荧幕上的使用历史。",
-        "comment": "Cybertruck的设计自带反派气质，选角精准。",
+        "summary": "特斯拉Cybertruck如何成为电视剧中反派角色的标志性道具？本文简要回顾了该车型在电视中的使用历史。",
+        "comment": "品牌符号化，反派新标配。",
         "image": "https://assets-prd.ignimgs.com/2026/05/15/the-deep-cybertruck-thumb-2-1778885827310.jpg",
-        "score": 93
+        "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "真人快打",
-        "title": "《真人快打2》修复前作最大缺陷，虽不完美",
+        "title": "《真人快打2》虽不完美，但修复了首部电影最大缺陷",
         "link": "https://www.gamespot.com/articles/mortal-kombat-2-might-not-be-perfect-but-it-fixes-the-first-movies-biggest-flaw/1100-6540004/?ftag=CAD-01-10abi2f",
-        "summary": "游戏改编影视作品常面临挑战，如《最后生还者》获艾美奖提名，或沦为糟糕的参考堆砌。《真人快打2》虽非完美，但解决了首部电影的最大问题。",
-        "comment": "续作聚焦核心问题，值得游戏改编电影学习。",
+        "summary": "游戏改编影视作品常面临挑战，如《最后生还者》获艾美奖提名，或沦为糟糕的参考马拉松。《真人快打2》虽不完美，但解决了前作关键问题。",
+        "comment": "续集聚焦核心问题，值得期待。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4696796-mortalkombat2.jpg",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "华为",
-        "title": "华为Mate X7官方降价1000元，Anthropic估值超OpenAI",
+        "title": "华为Mate X7降价1000元，Anthropic估值超OpenAI",
         "link": "https://www.ifanr.com/1666116?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "华为Mate X7官方降价1000元；Anthropic估值超越OpenAI；国行Switch正式停服；郭明錤称苹果扶持Intel制衡台积电，良率目标50%-60%。",
-        "comment": "折叠屏降价与AI估值变动反映市场竞争加剧。",
+        "comment": "折叠屏降价与AI估值变化反映市场新趋势。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
+        "tag": "三角洲行动",
+        "title": "《三角洲行动》职业联赛首冠诞生，TES战队北京夺冠",
+        "link": "https://www.gcores.com/articles/214552",
+        "summary": "2026年5月16日，2026三角洲行动烽火职业联赛春季赛总决赛在北京五棵松体育馆落幕，TES战队从6支顶尖队伍中胜出，捧起首个春季赛冠军奖杯，标志着该游戏职业联赛从0到1的建设完成。",
+        "comment": "首个职业联赛冠军诞生，电竞生态迈出关键一步。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "黑袍纠察队",
+        "title": "《黑袍纠察队》主创：第五季衍生剧彩蛋非商业植入",
+        "link": "https://www.ign.com/articles/the-boys-showrunner-says-season-5-vought-rising-nods-were-not-the-result-of-craven-commercialism",
+        "summary": "《黑袍纠察队》主创Eric Kripke表示，第五季中关于衍生剧《Vought Rising》的彩蛋并非出于商业目的，而是为了丰富剧情。",
+        "comment": "主创回应商业质疑，强调创作独立性。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/03/theboys-season5-premiere-blogroll-02-1775242585485.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "核周报：战锤发布会、原田胜弘加入SNK、名越工作室停运",
+        "link": "https://www.gcores.com/radios/214235",
+        "summary": "本期核周报涵盖战锤颅骨节发布会、原田胜弘加入SNK、名越稔洋工作室停运、任天堂等公司财报、水银蒸汽裁员等游戏影视动态。",
+        "comment": "行业洗牌加速，降本增效成主旋律。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "机器人动画",
+        "title": "机器人动画黑话指北最终回：解析《苍穹的法芙娜》",
+        "link": "https://www.gcores.com/radios/214124",
+        "summary": "本期节目探讨《苍穹的法芙娜》作为机器人动画的转折点，分析其为何被称为“第三类接触科幻作品”，区别于其他人类对抗外星人的同类题材。",
+        "comment": "深度解析了《苍穹的法芙娜》的独特科幻价值。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
         "tag": "Xbox",
-        "title": "Xbox品牌标识或将统一为大写XBOX",
+        "title": "Xbox 品牌标识或将统一为大写 XBOX",
         "link": "https://www.gamespot.com/articles/xbox-is-rebranding-itself-sort-of/1100-6540005/?ftag=CAD-01-10abi2f",
-        "summary": "Xbox CEO Asha Sharma在社交媒体发起投票，询问粉丝偏好“Xbox”还是“XBOX”。在19,176票中，全大写XBOX以明显优势胜出，暗示品牌标识可能调整。",
-        "comment": "品牌微调，粉丝参与感营销。",
+        "summary": "Xbox CEO Asha Sharma 在社交媒体发起投票，询问粉丝偏好“Xbox”还是“XBOX”。在 19,176 票中，全大写 XBOX 以明显优势胜出，暗示品牌标识可能调整。",
+        "comment": "品牌微调，粉丝参与决策值得关注。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4697357-xboxlogo2.jpg",
         "score": 89
       },
       {
         "category": "游戏影视",
-        "tag": "游戏设计",
-        "title": "游戏厂商别再做这样的玩法了！核电波播客讨论",
+        "tag": "游戏玩法",
+        "title": "游戏厂商别再做的玩法：核电波播客讨论",
         "link": "https://www.gcores.com/radios/214133",
-        "summary": "核电波播客分享主播们难以接受的游戏玩法，探讨设计缺陷与个人偏好，并推荐B站视频版。",
-        "comment": "玩家吐槽有理，但设计需平衡创新与体验。",
+        "summary": "本期核电波播客中，主播Nadya、西蒙和Ryoma分享了一些个人难以接受的游戏玩法，探讨为何这些设计让玩家感到不适。",
+        "comment": "玩家口味各异，但设计应避免普遍痛点。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "反恐",
+        "tag": "IS",
         "title": "美尼联合行动击毙IS高级头目",
         "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统特朗普称，此次行动消灭了“世界上最活跃的恐怖分子”阿布-比拉勒·米努基。",
-        "comment": "反恐行动再获重要成果，但IS残余势力仍不容忽视。",
+        "summary": "美国总统特朗普称，此次行动消灭了“世界上最活跃的恐怖分子”阿布-比拉尔·米努基。",
+        "comment": "反恐行动精准打击，IS势力再遭重创。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "尼日利亚",
-        "title": "尼日利亚50多名学童被绑架，包括幼儿",
+        "title": "尼日利亚超50名学童遭绑架，含幼童",
         "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-        "summary": "袭击发生在博尔诺州穆萨镇，目前尚无组织声称负责，事件给当地社区带来巨大冲击。",
-        "comment": "安全形势恶化，教育系统再遭重创。",
+        "summary": "博尔诺州穆萨镇发生袭击，超过50名学童被绑架，其中包括幼儿，目前尚无组织宣称负责。",
+        "comment": "校园安全再遭重创，当地局势令人揪心。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国",
-        "title": "美国计划起诉前古巴领导人劳尔·卡斯特罗",
-        "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-        "summary": "据BBC报道，美国可能最早下周对劳尔·卡斯特罗提起指控，案件聚焦于1996年古巴击落两架飞机事件。",
-        "comment": "历史旧案再掀波澜，美古关系或再受冲击。",
-        "image": "",
-        "score": 87
       },
       {
         "category": "时事热点",
@@ -118,7 +168,37 @@
         "title": "特朗普警告台湾勿宣布独立，与习近平峰会后数小时",
         "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
         "summary": "美国总统特朗普表示，希望北京和台北就自治岛屿的紧张局势“降温”。",
-        "comment": "美方重申一中立场，台海局势或趋稳。",
+        "comment": "美方表态意在平衡台海局势。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "埃博拉",
+        "title": "刚果（金）东部埃博拉疫情再爆发，已致80人死亡",
+        "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+        "summary": "非洲最高卫生机构报告约246例病例，乌干达也出现一例。",
+        "comment": "疫情跨境传播风险上升，需加强区域联防。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "马尔代夫",
+        "title": "马尔代夫救援潜水员在搜寻意大利遇难者时殉职",
+        "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+        "summary": "马尔代夫政府向BBC证实，警长穆罕默德·马赫迪在搜寻意大利游客遗体时潜水身亡。",
+        "comment": "救援者牺牲令人痛心，凸显洞穴潜水高风险。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国",
+        "title": "美国计划起诉前古巴领导人劳尔·卡斯特罗",
+        "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+        "summary": "据报道，美国最快下周将对劳尔·卡斯特罗提起诉讼，案件聚焦于1996年古巴击落两架飞机的事件。",
+        "comment": "此举可能加剧美古关系紧张。",
         "image": "",
         "score": 87
       },
@@ -127,40 +207,20 @@
         "tag": "曼谷",
         "title": "曼谷货运列车与巴士相撞致至少8人死亡",
         "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
-        "summary": "警方和救援官员称，碰撞引发大火，吞噬了巴士。",
-        "comment": "事故暴露曼谷交通管理漏洞。",
+        "summary": "警方和救援官员称，碰撞引发大火吞噬了巴士。",
+        "comment": "事故暴露出泰国交通管理漏洞。",
         "image": "",
         "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "埃博拉",
-        "title": "刚果（金）东部埃博拉疫情再起，已致80人死亡",
-        "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-        "summary": "非洲最高卫生机构报告约246例病例，乌干达也出现一例。",
-        "comment": "疫情跨境传播风险升高，需警惕。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "马尔代夫",
-        "title": "马尔代夫洞穴搜救意大利遇难者，一名潜水员殉职",
-        "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-        "summary": "马尔代夫政府向BBC证实，警长穆罕默德·马赫迪在搜寻两名意大利游客遗体时，于水下洞穴潜水作业中不幸身亡。",
-        "comment": "搜救行动再添悲剧，凸显水下救援高风险。",
-        "image": "",
-        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "鲨鱼袭击",
-        "title": "西澳大利亚男子遭4米大白鲨袭击身亡",
+        "title": "西澳大利亚男子遭13英尺鲨鱼袭击身亡",
         "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-        "summary": "当地警方称，该男子在珀斯附近罗特尼斯岛西北的马蹄礁被鲨鱼咬伤，事发时间约为当地时间上午10点。",
-        "comment": "鲨鱼袭击事件再次引发海洋安全关注。",
+        "summary": "据当地警方称，袭击发生在珀斯附近热门旅游地罗特尼斯岛西北的蹄铁礁。",
+        "comment": "鲨鱼袭击事件再次引发对海洋安全的关注。",
         "image": "",
-        "score": 83
+        "score": 86
       }
     ]
   }
