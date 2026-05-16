@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI为Codex构建Windows安全沙箱",
+        "tag": "人工智能",
+        "title": "OpenAI为Windows版Codex构建安全沙盒",
         "link": "https://openai.com/index/building-codex-windows-sandbox",
-        "summary": "OpenAI开发了Windows版Codex的安全沙箱，通过控制文件访问和网络限制，实现安全高效的编码代理。",
-        "comment": "安全沙箱是AI编码工具落地的关键一步。",
+        "summary": "OpenAI详解如何为Windows上的Codex构建安全沙盒，通过控制文件访问和网络限制，实现安全高效的编码代理。",
+        "comment": "安全沙盒是AI编码工具落地的关键一步。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "供应链攻击",
         "title": "OpenAI回应TanStack npm供应链攻击详情",
         "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-        "summary": "OpenAI详细说明对TanStack“Mini Shai-Hulud”供应链攻击的应对措施，包括系统安全加固和签名证书保护，并解释macOS使用情况。",
-        "comment": "供应链安全已成AI公司核心挑战。",
+        "summary": "OpenAI详细说明对TanStack“Mini Shai-Hulud”供应链攻击的应对措施，包括系统安全加固、签名证书保护及macOS使用情况解释。",
+        "comment": "供应链安全已成AI巨头必修课。",
         "image": "",
         "score": 100
       }
