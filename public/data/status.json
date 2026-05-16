@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-16T16:40:34Z",
+  "finished_at": "2026-05-16T16:55:33Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,18 +23,66 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 20,
-    "accounts": 4,
+    "items": 42,
+    "accounts": 15,
     "account_statuses": [
+      {
+        "account_id": "elonmusk",
+        "handle": "elonmusk",
+        "name": "Elon Musk",
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/elonmusk",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/elonmusk"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "realdonaldtrump",
+        "handle": "realDonaldTrump",
+        "name": "Donald J. Trump",
+        "status": "success",
+        "items_fetched": 2,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump"
+        ],
+        "error_message": null
+      },
       {
         "account_id": "sama",
         "handle": "sama",
         "name": "Sam Altman",
         "status": "success",
-        "items_fetched": 5,
+        "items_fetched": 3,
         "active_url": "https://rsshub-boost.23751.net/twitter/user/sama",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/sama"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "gdb",
+        "handle": "gdb",
+        "name": "Greg Brockman",
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/gdb",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/gdb"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "openai",
+        "handle": "OpenAI",
+        "name": "OpenAI",
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/OpenAI",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/OpenAI"
         ],
         "error_message": null
       },
@@ -43,10 +91,34 @@
         "handle": "karpathy",
         "name": "Andrej Karpathy",
         "status": "success",
-        "items_fetched": 5,
+        "items_fetched": 3,
         "active_url": "https://rsshub-boost.23751.net/twitter/user/karpathy",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/karpathy"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "anthropicai",
+        "handle": "AnthropicAI",
+        "name": "Anthropic",
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/AnthropicAI",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/AnthropicAI"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "googledeepmind",
+        "handle": "GoogleDeepMind",
+        "name": "Google DeepMind",
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind"
         ],
         "error_message": null
       },
@@ -55,7 +127,7 @@
         "handle": "ylecun",
         "name": "Yann LeCun",
         "status": "success",
-        "items_fetched": 5,
+        "items_fetched": 3,
         "active_url": "https://rsshub-boost.23751.net/twitter/user/ylecun",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/ylecun"
@@ -67,10 +139,70 @@
         "handle": "demishassabis",
         "name": "Demis Hassabis",
         "status": "success",
-        "items_fetched": 5,
+        "items_fetched": 3,
         "active_url": "https://rsshub-boost.23751.net/twitter/user/demishassabis",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/demishassabis"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "satyanadella",
+        "handle": "satyanadella",
+        "name": "Satya Nadella",
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/satyanadella",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/satyanadella"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "pmarca",
+        "handle": "pmarca",
+        "name": "Marc Andreessen",
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/pmarca",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/pmarca"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "bindureddy",
+        "handle": "bindureddy",
+        "name": "Bindu Reddy",
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/bindureddy",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/bindureddy"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "rauchg",
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/rauchg",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/rauchg"
+        ],
+        "error_message": null
+      },
+      {
+        "account_id": "perplexity_ai",
+        "handle": "perplexity_ai",
+        "name": "Perplexity",
+        "status": "success",
+        "items_fetched": 1,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/perplexity_ai",
+        "attempted_urls": [
+          "https://rsshub-boost.23751.net/twitter/user/perplexity_ai"
         ],
         "error_message": null
       }
