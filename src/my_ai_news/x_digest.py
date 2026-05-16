@@ -265,7 +265,7 @@ def publish_x_digest(posts: list[XPost], statuses: list[dict], output_path: Path
     return payload
 
 
-def run_x_digest(config: AppConfig, *, per_account_limit: int = 5) -> dict:
+def run_x_digest(config: AppConfig, *, per_account_limit: int = 3) -> dict:
     accounts = load_x_accounts(config.x_config)
     translator = XPostTranslator(config)
     all_posts: list[XPost] = []

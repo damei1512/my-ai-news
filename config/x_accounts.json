@@ -1,6 +1,24 @@
 {
   "accounts": [
     {
+      "id": "elonmusk",
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "role": "xAI / Tesla / SpaceX",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/elonmusk",
+      "enabled": true,
+      "priority": 98
+    },
+    {
+      "id": "realdonaldtrump",
+      "handle": "realDonaldTrump",
+      "name": "Donald J. Trump",
+      "role": "U.S. President",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump",
+      "enabled": true,
+      "priority": 94
+    },
+    {
       "id": "sama",
       "handle": "sama",
       "name": "Sam Altman",
@@ -11,6 +29,24 @@
       "notes": "Set X_RSS_BASE_URL to a compatible RSSHub instance, or set rss_url directly."
     },
     {
+      "id": "gdb",
+      "handle": "gdb",
+      "name": "Greg Brockman",
+      "role": "OpenAI President",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/gdb",
+      "enabled": true,
+      "priority": 92
+    },
+    {
+      "id": "openai",
+      "handle": "OpenAI",
+      "name": "OpenAI",
+      "role": "AI lab",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/OpenAI",
+      "enabled": true,
+      "priority": 96
+    },
+    {
       "id": "karpathy",
       "handle": "karpathy",
       "name": "Andrej Karpathy",
@@ -18,6 +54,24 @@
       "rss_url": "https://rsshub-boost.23751.net/twitter/user/karpathy",
       "enabled": true,
       "priority": 95
+    },
+    {
+      "id": "anthropicai",
+      "handle": "AnthropicAI",
+      "name": "Anthropic",
+      "role": "AI lab",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/AnthropicAI",
+      "enabled": true,
+      "priority": 92
+    },
+    {
+      "id": "googledeepmind",
+      "handle": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "role": "AI lab",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind",
+      "enabled": true,
+      "priority": 91
     },
     {
       "id": "ylecun",
@@ -36,6 +90,51 @@
       "rss_url": "https://rsshub-boost.23751.net/twitter/user/demishassabis",
       "enabled": true,
       "priority": 90
+    },
+    {
+      "id": "satyanadella",
+      "handle": "satyanadella",
+      "name": "Satya Nadella",
+      "role": "Microsoft CEO",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/satyanadella",
+      "enabled": true,
+      "priority": 88
+    },
+    {
+      "id": "pmarca",
+      "handle": "pmarca",
+      "name": "Marc Andreessen",
+      "role": "a16z cofounder",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/pmarca",
+      "enabled": true,
+      "priority": 84
+    },
+    {
+      "id": "bindureddy",
+      "handle": "bindureddy",
+      "name": "Bindu Reddy",
+      "role": "AI builder",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/bindureddy",
+      "enabled": true,
+      "priority": 82
+    },
+    {
+      "id": "rauchg",
+      "handle": "rauchg",
+      "name": "Guillermo Rauch",
+      "role": "Vercel CEO",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/rauchg",
+      "enabled": true,
+      "priority": 80
+    },
+    {
+      "id": "perplexity_ai",
+      "handle": "perplexity_ai",
+      "name": "Perplexity",
+      "role": "AI search",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/perplexity_ai",
+      "enabled": true,
+      "priority": 78
     }
   ]
 }
