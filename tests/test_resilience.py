@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+from types import SimpleNamespace
 from pathlib import Path
 
 import pytest
@@ -8,9 +9,12 @@ import pytest
 from my_ai_news.ai import AIEnricher, EnrichmentResult, NoopEnricher
 from my_ai_news.cli import format_run_summary
 from my_ai_news.config import load_sources
+from my_ai_news.fetchers import fetch_source
 from my_ai_news.models import RawItem
 from my_ai_news.pipeline import run_pipeline
 from my_ai_news.processing import to_story
+from my_ai_news.publish import publish
+from my_ai_news.x_digest import build_account_feed_urls, run_x_digest
 
 
 class FailingEnricher(AIEnricher):
@@ -167,6 +171,149 @@ def test_run_pipeline_degrades_llm_and_writes_source_health(tmp_path: Path, monk
     assert health_payload["summary"]["degraded_sources"] == 0
     assert health_payload["summary"]["healthy_sources"] == 1
     assert health_payload["sources"][0]["active_url"] == "https://primary.example/rss"
+
+
+def test_publish_skips_invalid_story_dates_and_cleans_bad_daily_files(tmp_path: Path, sample_item: RawItem) -> None:
+    publish_dir = tmp_path / "public" / "data"
+    daily_dir = publish_dir / "daily"
+    daily_dir.mkdir(parents=True)
+    bad_daily_path = daily_dir / "Fri, 13 Ma.json"
+    bad_daily_path.write_text("{}", encoding="utf-8")
+
+    valid_story = to_story(sample_item, 90, NoopEnricher())
+    invalid_item = RawItem(**sample_item.to_dict())
+    invalid_item.published_date = "Fri, 13 Ma"
+    invalid_story = to_story(invalid_item, 90, NoopEnricher())
+
+    publish([valid_story, invalid_story], publish_dir)
+
+    latest_payload = json.loads((publish_dir / "latest.json").read_text(encoding="utf-8"))
+    assert list(latest_payload) == ["2026-04-15"]
+    assert (daily_dir / "2026-04-15.json").exists()
+    assert not bad_daily_path.exists()
+    assert not (daily_dir / "Fri, 13 Ma.json").exists()
+
+
+def test_fetch_source_supports_html_article_lists(monkeypatch: pytest.MonkeyPatch) -> None:
+    html = """
+    <article class="article-item__container">
+      <a href="/articles/2026-05-15-14"><img alt="备用标题" src="https://cdn.example/image.jpg"></a>
+      <a class="article-item__title t-strong" href="/articles/2026-05-15-14">机器之心 HTML 源恢复</a>
+      <p class="u-text-limit--two article-item__summary">服务端页面列表可作为 RSS 备用。</p>
+    </article>
+    """
+
+    class FakeResponse:
+        def __enter__(self) -> "FakeResponse":
+            return self
+
+        def __exit__(self, *args: object) -> None:
+            return None
+
+        def read(self) -> bytes:
+            return html.encode("utf-8")
+
+    monkeypatch.setattr("my_ai_news.fetchers.urlopen", lambda request, timeout: FakeResponse())
+
+    result = fetch_source(
+        {
+            "id": "jiqizhixin",
+            "name": "机器之心",
+            "category": "ai",
+            "type": "html",
+            "url": "https://www.jiqizhixin.com/industry",
+        }
+    )
+
+    assert result.status == "success"
+    assert len(result.items) == 1
+    [item] = result.items
+    assert item.title == "机器之心 HTML 源恢复"
+    assert item.summary == "服务端页面列表可作为 RSS 备用。"
+    assert item.url == "https://www.jiqizhixin.com/articles/2026-05-15-14"
+    assert item.published_date == "2026-05-15"
+
+
+def test_x_digest_fetches_posts_from_configured_rss(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
+    entry = SimpleNamespace(
+        title="",
+        summary='<p>AI agents are becoming useful in real workflows.</p><img src="https://pbs.twimg.com/media/demo.jpg?format=jpg&amp;name=orig">',
+        link="https://x.com/example/status/1",
+        published="Fri, 15 May 2026 08:00:00 GMT",
+        published_parsed=None,
+    )
+    feed = SimpleNamespace(
+        feed={"image": {"href": "https://pbs.twimg.com/profile_images/example.jpg"}},
+        entries=[entry],
+    )
+    monkeypatch.setattr("my_ai_news.x_digest.feedparser.parse", lambda url: feed)
+
+    config = SimpleNamespace(
+        llm_enabled=False,
+        llm_api_key=None,
+        llm_model="test-model",
+        llm_base_url=None,
+        x_config=tmp_path / "x_accounts.json",
+        x_digest_path=tmp_path / "x-digest.json",
+    )
+    config.x_config.write_text(
+        json.dumps(
+            {
+                "accounts": [
+                    {
+                        "id": "example",
+                        "handle": "example",
+                        "name": "Example",
+                        "role": "AI builder",
+                        "rss_url": "https://rss.example/user/example",
+                    }
+                ]
+            }
+        ),
+        encoding="utf-8",
+    )
+
+    payload = run_x_digest(config)
+
+    assert payload["total"] == 1
+    [item] = payload["items"]
+    assert item["author_name"] == "Example"
+    assert item["original_text"] == "AI agents are becoming useful in real workflows."
+    assert item["avatar_url"] == "https://pbs.twimg.com/profile_images/example.jpg"
+    assert item["media_urls"] == ["https://pbs.twimg.com/media/demo.jpg?format=jpg&name=orig"]
+    assert item["zh_text"] == ""
+    assert item["url"] == "https://x.com/example/status/1"
+    assert item["published_date"] == "2026-05-15"
+    assert json.loads(config.x_digest_path.read_text(encoding="utf-8"))["total"] == 1
+
+
+def test_x_digest_reports_unconfigured_accounts(tmp_path: Path) -> None:
+    config = SimpleNamespace(
+        llm_enabled=False,
+        llm_api_key=None,
+        llm_model="test-model",
+        llm_base_url=None,
+        x_config=tmp_path / "x_accounts.json",
+        x_digest_path=tmp_path / "x-digest.json",
+    )
+    config.x_config.write_text(
+        json.dumps({"accounts": [{"id": "example", "handle": "example", "name": "Example"}]}),
+        encoding="utf-8",
+    )
+
+    payload = run_x_digest(config)
+
+    assert payload["total"] == 0
+    assert payload["accounts"][0]["status"] == "not_configured"
+    assert config.x_digest_path.exists()
+
+
+def test_x_digest_builds_rsshub_url_from_env(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("X_RSS_BASE_URL", "https://rss.example.com/")
+
+    urls = build_account_feed_urls({"handle": "sama"})
+
+    assert urls == ["https://rss.example.com/twitter/user/sama"]
 
 
 def test_format_run_summary_includes_llm_and_backup_context() -> None:

@@ -1,13 +1,16 @@
 from __future__ import annotations
 
 import hashlib
+import html
 import json
 import re
 import socket
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
-from urllib.parse import urlparse
+from html.parser import HTMLParser
+from urllib.parse import urljoin, urlparse
+from urllib.request import Request, urlopen
 
 import feedparser
 
@@ -110,7 +113,130 @@ def extract_published_values(entry: object) -> tuple[str, str]:
     return raw_value, ""
 
 
+class ArticleListParser(HTMLParser):
+    def __init__(self, base_url: str):
+        super().__init__()
+        self.base_url = base_url
+        self.articles: list[dict] = []
+        self._current: dict | None = None
+        self._in_title = False
+        self._in_summary = False
+        self._title_parts: list[str] = []
+        self._summary_parts: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        values = {key: value or "" for key, value in attrs}
+        classes = set(values.get("class", "").split())
+
+        if tag == "article" and "article-item__container" in classes:
+            self._current = {"href": "", "image": "", "image_alt": ""}
+            self._title_parts = []
+            self._summary_parts = []
+            return
+
+        if self._current is None:
+            return
+
+        href = values.get("href", "")
+        if tag == "a" and "/articles/" in href:
+            self._current["href"] = self._current.get("href") or urljoin(self.base_url, href)
+            if "article-item__title" in classes:
+                self._in_title = True
+                self._title_parts = []
+            return
+
+        if tag == "img" and not self._current.get("image"):
+            src = values.get("src", "")
+            if src:
+                self._current["image"] = urljoin(self.base_url, src)
+            self._current["image_alt"] = values.get("alt", "")
+
+        if tag == "p" and "article-item__summary" in classes:
+            self._in_summary = True
+            self._summary_parts = []
+
+    def handle_data(self, data: str) -> None:
+        if self._in_title:
+            self._title_parts.append(data)
+        if self._in_summary:
+            self._summary_parts.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag == "a" and self._in_title:
+            self._in_title = False
+        if tag == "p" and self._in_summary:
+            self._in_summary = False
+        if tag == "article" and self._current is not None:
+            title = normalize_text("".join(self._title_parts)) or normalize_text(self._current.get("image_alt", ""))
+            href = self._current.get("href", "")
+            if title and href:
+                self.articles.append(
+                    {
+                        "title": title,
+                        "url": href,
+                        "summary": normalize_text("".join(self._summary_parts)),
+                        "image_url": self._current.get("image", ""),
+                    }
+                )
+            self._current = None
+
+
+def normalize_text(value: str) -> str:
+    return re.sub(r"\s+", " ", html.unescape(value or "")).strip()
+
+
+def published_date_from_url(url: str) -> str:
+    match = re.search(r"/articles/(\d{4}-\d{2}-\d{2})", url)
+    return match.group(1) if match else ""
+
+
+def _fetch_html_listing(source: dict, url: str) -> list[RawItem]:
+    request = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; my-ai-news/1.0)"})
+    with urlopen(request, timeout=20) as response:
+        content = response.read().decode("utf-8", "replace")
+
+    parser = ArticleListParser(url)
+    parser.feed(content)
+
+    fetched_at = utc_now_iso()
+    items: list[RawItem] = []
+    seen_urls: set[str] = set()
+    for entry in parser.articles[:10]:
+        item_url = entry["url"].strip()
+        if not item_url or item_url in seen_urls:
+            continue
+        seen_urls.add(item_url)
+        title = entry["title"].strip()
+        summary = entry["summary"].strip()
+        published_date = published_date_from_url(item_url)
+
+        items.append(
+            RawItem(
+                source_id=source["id"],
+                source_name=source["name"],
+                category=source["category"],
+                title=title,
+                url=item_url,
+                canonical_url=canonicalize_url(item_url),
+                summary=summary,
+                image_url=entry.get("image_url", ""),
+                published_at=published_date,
+                published_date=published_date,
+                fetched_at=fetched_at,
+                fingerprint=fingerprint_text(title, summary),
+                payload_json=json.dumps(entry, ensure_ascii=False),
+            )
+        )
+
+    if not items:
+        raise ValueError("empty html listing")
+    return items
+
+
 def _fetch_from_url(source: dict, url: str) -> list[RawItem]:
+    if source.get("type") == "html":
+        return _fetch_html_listing(source, url)
+
     feed = feedparser.parse(url)
     bozo_exception = getattr(feed, "bozo_exception", None)
     if getattr(feed, "bozo", 0) and bozo_exception and not getattr(feed, "entries", None):

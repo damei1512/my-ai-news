@@ -3,11 +3,11 @@ name: Update Site Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0,2,4,6,8,10,12,14 * * *"
+    - cron: "0 0,6,12,18 * * *"
 
 concurrency:
   group: update-site-data
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -36,6 +36,7 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL || 'https://api.deepseek.com' }}
           LLM_MODEL: ${{ secrets.LLM_MODEL || 'deepseek-chat' }}
+          X_RSS_BASE_URL: ${{ secrets.X_RSS_BASE_URL }}
         run: python scripts/run_pipeline.py --json
 
       - name: Show Latest Status

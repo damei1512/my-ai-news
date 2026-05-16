@@ -1,0 +1,41 @@
+{
+  "accounts": [
+    {
+      "id": "sama",
+      "handle": "sama",
+      "name": "Sam Altman",
+      "role": "OpenAI CEO",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/sama",
+      "enabled": true,
+      "priority": 100,
+      "notes": "Set X_RSS_BASE_URL to a compatible RSSHub instance, or set rss_url directly."
+    },
+    {
+      "id": "karpathy",
+      "handle": "karpathy",
+      "name": "Andrej Karpathy",
+      "role": "AI researcher",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/karpathy",
+      "enabled": true,
+      "priority": 95
+    },
+    {
+      "id": "ylecun",
+      "handle": "ylecun",
+      "name": "Yann LeCun",
+      "role": "Meta AI chief scientist",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/ylecun",
+      "enabled": true,
+      "priority": 90
+    },
+    {
+      "id": "demishassabis",
+      "handle": "demishassabis",
+      "name": "Demis Hassabis",
+      "role": "Google DeepMind CEO",
+      "rss_url": "https://rsshub-boost.23751.net/twitter/user/demishassabis",
+      "enabled": true,
+      "priority": 90
+    }
+  ]
+}

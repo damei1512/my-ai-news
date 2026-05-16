@@ -11,6 +11,7 @@ from .models import Story, utc_now_iso
 from .processing import deduplicate, to_story
 from .publish import publish
 from .status import write_status
+from .x_digest import run_x_digest
 
 
 def classify_llm_error(exc: Exception) -> str:
@@ -232,6 +233,7 @@ def run_pipeline(project_root: Path) -> dict:
 
         store_stories(connection, run_id, stories)
         publish(stories, config.publish_dir)
+        x_digest_payload = run_x_digest(config)
 
         stories_total = len(stories)
         finish_run(connection, run_id, "success", raw_items_total, stories_total)
@@ -265,6 +267,12 @@ def run_pipeline(project_root: Path) -> dict:
             "source_health_path": str(config.source_health_path),
             "llm_enabled": llm_enabled,
             "llm": llm_payload,
+            "x_digest": {
+                "path": str(config.x_digest_path),
+                "items": x_digest_payload.get("total", 0),
+                "accounts": len(x_digest_payload.get("accounts", [])),
+                "account_statuses": x_digest_payload.get("accounts", []),
+            },
             "source_statuses": source_statuses,
         }
         write_status(config.status_path, result)
@@ -299,6 +307,12 @@ def run_pipeline(project_root: Path) -> dict:
                 "status": "failed" if llm_enabled else "disabled",
                 "degraded_items": llm_degraded_items,
                 "error_counts": llm_errors,
+            },
+            "x_digest": {
+                "path": str(config.x_digest_path),
+                "items": 0,
+                "accounts": 0,
+                "account_statuses": [],
             },
             "status": "failed",
             "error_message": str(exc),

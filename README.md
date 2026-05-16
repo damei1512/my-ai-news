@@ -39,6 +39,8 @@ Sources can define `backup_urls` (or an explicit `urls` list) so the collector c
 3. Run the pipeline:
 
 ```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
 python3 scripts/run_pipeline.py
 ```
 
@@ -73,6 +75,7 @@ Outputs are written to:
 - `data/app.db`
 - `public/data/latest.json`
 - `public/data/daily/YYYY-MM-DD.json`
+- `public/data/x-digest.json`
 - `public/data/status.json`
 - `public/data/source-health.json`
 
@@ -91,6 +94,13 @@ Source config supports a primary URL plus optional backups:
 }
 ```
 
+X digest accounts live in `config/x_accounts.json`. Because X does not provide a simple public RSS feed, configure either:
+
+- `X_RSS_BASE_URL`, for example your own RSSHub-compatible instance
+- per-account `rss_url` or `rss_urls`
+
+Each run writes bilingual X items to `public/data/x-digest.json`. If no X feed is configured, the file is still written with an empty list and the main news pipeline continues normally.
+
 For local preview:
 
 ```bash
@@ -101,6 +111,13 @@ Run a setup check before the first live run:
 
 ```bash
 python3 scripts/check_setup.py
+```
+
+For development and tests:
+
+```bash
+.venv/bin/python -m pip install -r requirements-dev.txt
+.venv/bin/python -m pytest -q
 ```
 
 ## Docs

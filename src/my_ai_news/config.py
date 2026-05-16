@@ -16,6 +16,8 @@ class AppConfig:
     status_path: Path
     source_health_path: Path
     source_config: Path
+    x_config: Path
+    x_digest_path: Path
     llm_enabled: bool
     llm_provider: str
     llm_model: str
@@ -73,6 +75,8 @@ def load_config(project_root: Path) -> AppConfig:
     status_path = project_root / os.getenv("STATUS_PATH", "public/data/status.json")
     source_health_path = project_root / os.getenv("SOURCE_HEALTH_PATH", "public/data/source-health.json")
     source_config = project_root / os.getenv("SOURCE_CONFIG", "config/sources.json")
+    x_config = project_root / os.getenv("X_CONFIG", "config/x_accounts.json")
+    x_digest_path = project_root / os.getenv("X_DIGEST_PATH", "public/data/x-digest.json")
     llm_api_key = os.getenv("LLM_API_KEY") or os.getenv("DEEPSEEK_API_KEY") or os.getenv("OPENAI_API_KEY") or None
     llm_enabled_raw = os.getenv("LLM_ENABLED")
     llm_enabled = (llm_enabled_raw.lower() == "true") if llm_enabled_raw is not None else bool(llm_api_key)
@@ -93,6 +97,8 @@ def load_config(project_root: Path) -> AppConfig:
         status_path=status_path,
         source_health_path=source_health_path,
         source_config=source_config,
+        x_config=x_config,
+        x_digest_path=x_digest_path,
         llm_enabled=llm_enabled,
         llm_provider=llm_provider,
         llm_model=llm_model,
@@ -106,3 +112,11 @@ def load_sources(config_path: Path) -> list[dict]:
     with config_path.open("r", encoding="utf-8") as handle:
         payload = json.load(handle)
     return [_normalize_source(source) for source in payload.get("sources", []) if source.get("enabled", True)]
+
+
+def load_x_accounts(config_path: Path) -> list[dict]:
+    if not config_path.exists():
+        return []
+    with config_path.open("r", encoding="utf-8") as handle:
+        payload = json.load(handle)
+    return [dict(account) for account in payload.get("accounts", []) if account.get("enabled", True)]

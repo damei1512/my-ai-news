@@ -25,6 +25,12 @@ def format_run_summary(result: dict) -> str:
         if degraded_items:
             lines.append(f"llm_degraded_items: {degraded_items}")
 
+    x_digest = result.get("x_digest") or {}
+    if x_digest:
+        lines.append(f"x_digest_items: {x_digest.get('items', 0)}")
+        if x_digest.get("path"):
+            lines.append(f"x_digest_path: {x_digest['path']}")
+
     source_statuses = result.get("source_statuses") or []
     if source_statuses:
         success_statuses = {"success", "empty"}

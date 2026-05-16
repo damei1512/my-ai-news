@@ -544,6 +544,10 @@
             background: linear-gradient(135deg, #f87171 0%, #dc2626 100%);
             box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4), inset 0 1px 0 rgba(255,255,255,0.3);
         }
+        .category-btn[data-cat="X动态"].active {
+            background: linear-gradient(135deg, #111827 0%, #0ea5e9 100%);
+            box-shadow: 0 4px 15px rgba(14, 165, 233, 0.35), inset 0 1px 0 rgba(255,255,255,0.3);
+        }
 
         /* 选中状态 - 柔和发光效果 */
         .category-btn.active {
@@ -610,6 +614,114 @@
             box-shadow:
                 0 8px 32px rgba(0, 0, 0, 0.15),
                 inset 0 1px 0 rgba(255, 255, 255, 0.8);
+        }
+
+        .x-card .card-content { gap: 12px; }
+        .x-author {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            min-width: 0;
+        }
+        .x-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #111827, #0ea5e9);
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 800;
+            flex-shrink: 0;
+            overflow: hidden;
+        }
+        .x-avatar img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+        .x-author-name {
+            font-weight: 700;
+            color: var(--text-main);
+            line-height: 1.2;
+        }
+        .x-author-meta {
+            font-size: 12px;
+            color: var(--text-sub);
+            line-height: 1.3;
+        }
+        .x-section-label {
+            font-size: 12px;
+            color: var(--text-sub);
+            margin-bottom: 4px;
+        }
+        .x-copy-toolbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            margin-bottom: 6px;
+        }
+        .x-language-toggle {
+            display: inline-flex;
+            padding: 2px;
+            border-radius: 999px;
+            border: 1px solid rgba(148, 163, 184, 0.28);
+            background: rgba(255, 255, 255, 0.3);
+            flex-shrink: 0;
+        }
+        .x-language-toggle button {
+            border: 0;
+            border-radius: 999px;
+            background: transparent;
+            color: var(--text-sub);
+            cursor: pointer;
+            font-size: 12px;
+            padding: 4px 9px;
+            line-height: 1;
+        }
+        .x-language-toggle button.active {
+            background: rgba(14, 165, 233, 0.16);
+            color: var(--text-main);
+            font-weight: 700;
+        }
+        .x-language-toggle button:disabled {
+            opacity: 0.45;
+            cursor: not-allowed;
+        }
+        .x-original,
+        .x-translation {
+            font-size: 14px;
+            line-height: 1.7;
+            color: var(--text-main);
+            word-break: break-word;
+        }
+        .x-translation {
+            padding: 12px 14px;
+            border-radius: 14px;
+            background: rgba(14, 165, 233, 0.08);
+            border: 1px solid rgba(14, 165, 233, 0.16);
+        }
+        .x-media-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 8px;
+        }
+        .x-media {
+            width: 100%;
+            max-height: 420px;
+            object-fit: cover;
+            border-radius: 14px;
+            border: 1px solid rgba(148, 163, 184, 0.22);
+            background: rgba(15, 23, 42, 0.08);
+        }
+        .x-empty-detail {
+            margin-top: 8px;
+            color: var(--text-sub);
+            font-size: 13px;
+            line-height: 1.6;
         }
 
         /* 暗色模式下的卡片 */
@@ -1184,7 +1296,7 @@
                             </div>
                         </div>
                     </div>
-                    <p>人工智能 · 数码科技 · 游戏影视 · 时事热点</p>
+                    <p>人工智能 · 数码科技 · 游戏影视 · 时事热点 · X动态</p>
                 </div>
             </div>
             <div class="header-controls">
@@ -1220,6 +1332,7 @@
             <button class="category-btn" data-cat="数码科技" onclick="setCategory('数码科技', this)">数码科技</button>
             <button class="category-btn" data-cat="游戏影视" onclick="setCategory('游戏影视', this)">游戏影视</button>
             <button class="category-btn" data-cat="时事热点" onclick="setCategory('时事热点', this)">时事热点</button>
+            <button class="category-btn" data-cat="X动态" onclick="setCategory('X动态', this)">X动态</button>
         </div>
 
         <!-- 新闻列表 -->
@@ -1232,6 +1345,7 @@
 
     <script>
         let archiveData = {};
+        let xDigestData = { items: [] };
         let currentCategory = '人工智能';
         let searchQuery = '';
 
@@ -1239,7 +1353,8 @@
             '人工智能': 'ai',
             '数码科技': 'tech',
             '游戏影视': 'game',
-            '时事热点': 'hot'
+            '时事热点': 'hot',
+            'X动态': 'tech'
         };
         
         const categoryDisplayNames = {
@@ -1248,6 +1363,7 @@
             '数码科技': '数码科技',
             '游戏影视': '游戏影视',
             '时事热点': '时事热点',
+            'X动态': 'X动态',
             // 旧分类映射（兼容历史数据）
             'AI': '人工智能',
             'AI Agent': '人工智能',
@@ -1608,6 +1724,284 @@
             return null;
         }
 
+        function getSafeLink(value) {
+            try {
+                const url = new URL(value, window.location.href);
+                if (url.protocol === 'http:' || url.protocol === 'https:') {
+                    return url.href;
+                }
+            } catch (err) {
+                return '#';
+            }
+            return '#';
+        }
+
+        function createNewsCard(item) {
+            const cat = categoryDisplayNames[item.category] || item.category;
+            const tagClass = categoryClasses[cat] || 'tech';
+            const catIcon = categoryIcons[cat] || '';
+            const imageUrl = getImageUrl(item);
+            const dateLabel = formatDate(item._date);
+            const linkUrl = getSafeLink(item.link);
+
+            const article = document.createElement('article');
+            article.className = 'card';
+
+            const body = document.createElement('div');
+            body.className = 'card-body';
+            article.appendChild(body);
+
+            if (imageUrl) {
+                const imageWrap = document.createElement('div');
+                imageWrap.className = 'card-image';
+                const image = document.createElement('img');
+                image.src = imageUrl;
+                image.alt = item.title || '';
+                image.loading = 'lazy';
+                imageWrap.appendChild(image);
+                body.appendChild(imageWrap);
+            }
+
+            const content = document.createElement('div');
+            content.className = 'card-content';
+            body.appendChild(content);
+
+            const header = document.createElement('div');
+            header.className = 'card-header';
+            content.appendChild(header);
+
+            const tags = document.createElement('div');
+            tags.className = 'tags';
+            header.appendChild(tags);
+
+            const categoryTag = document.createElement('span');
+            categoryTag.className = `tag ${tagClass}`;
+            categoryTag.innerHTML = catIcon;
+            categoryTag.append(document.createTextNode(cat));
+            tags.appendChild(categoryTag);
+
+            const sourceTag = document.createElement('span');
+            sourceTag.className = 'tag';
+            sourceTag.textContent = item.tag || '资讯';
+            tags.appendChild(sourceTag);
+
+            const dateTag = document.createElement('span');
+            dateTag.className = 'date-tag';
+            dateTag.style.marginLeft = 'auto';
+            dateTag.textContent = dateLabel;
+            header.appendChild(dateTag);
+
+            const title = document.createElement('h2');
+            title.className = 'card-title';
+            const titleLink = document.createElement('a');
+            titleLink.href = linkUrl;
+            titleLink.target = '_blank';
+            titleLink.rel = 'noopener noreferrer';
+            titleLink.textContent = item.title || '未命名资讯';
+            title.appendChild(titleLink);
+            content.appendChild(title);
+
+            const summary = document.createElement('p');
+            summary.className = 'card-summary';
+            summary.textContent = item.summary || '暂无摘要';
+            content.appendChild(summary);
+
+            const footer = document.createElement('div');
+            footer.className = 'card-footer';
+            content.appendChild(footer);
+
+            const comment = document.createElement('div');
+            comment.className = 'comment-box';
+            comment.textContent = `💬 ${item.comment || '暂无点评'}`;
+            footer.appendChild(comment);
+
+            const readLink = document.createElement('a');
+            readLink.href = linkUrl;
+            readLink.target = '_blank';
+            readLink.rel = 'noopener noreferrer';
+            readLink.className = 'btn-read';
+            readLink.textContent = '阅读全文 →';
+            footer.appendChild(readLink);
+
+            return article;
+        }
+
+        function hasXTranslation(item) {
+            const zh = (item.zh_text || '').trim();
+            const original = (item.original_text || '').trim();
+            return Boolean(zh && zh !== original && zh !== '未配置翻译模型，先保留原文。');
+        }
+
+        function createXPostCard(item) {
+            const article = document.createElement('article');
+            article.className = 'card x-card';
+
+            const body = document.createElement('div');
+            body.className = 'card-body';
+            article.appendChild(body);
+
+            const content = document.createElement('div');
+            content.className = 'card-content';
+            body.appendChild(content);
+
+            const header = document.createElement('div');
+            header.className = 'card-header';
+            content.appendChild(header);
+
+            const author = document.createElement('div');
+            author.className = 'x-author';
+            header.appendChild(author);
+
+            const avatar = document.createElement('div');
+            avatar.className = 'x-avatar';
+            if (item.avatar_url) {
+                const avatarImage = document.createElement('img');
+                avatarImage.src = item.avatar_url;
+                avatarImage.alt = item.author_name || item.handle || 'X';
+                avatarImage.loading = 'lazy';
+                avatar.appendChild(avatarImage);
+            } else {
+                avatar.textContent = (item.author_name || item.handle || 'X').slice(0, 1).toUpperCase();
+            }
+            author.appendChild(avatar);
+
+            const authorText = document.createElement('div');
+            author.appendChild(authorText);
+
+            const authorName = document.createElement('div');
+            authorName.className = 'x-author-name';
+            authorName.textContent = item.author_name || item.handle || 'X';
+            authorText.appendChild(authorName);
+
+            const authorMeta = document.createElement('div');
+            authorMeta.className = 'x-author-meta';
+            const role = item.role ? ` · ${item.role}` : '';
+            authorMeta.textContent = `@${item.handle || 'unknown'}${role}`;
+            authorText.appendChild(authorMeta);
+
+            const dateTag = document.createElement('span');
+            dateTag.className = 'date-tag';
+            dateTag.style.marginLeft = 'auto';
+            dateTag.textContent = item.published_at || item.published_date || '最新';
+            header.appendChild(dateTag);
+
+            const textBlock = document.createElement('div');
+            const toolbar = document.createElement('div');
+            toolbar.className = 'x-copy-toolbar';
+            textBlock.appendChild(toolbar);
+
+            const textLabel = document.createElement('div');
+            textLabel.className = 'x-section-label';
+            toolbar.appendChild(textLabel);
+
+            const toggle = document.createElement('div');
+            toggle.className = 'x-language-toggle';
+            toolbar.appendChild(toggle);
+
+            const zhButton = document.createElement('button');
+            zhButton.type = 'button';
+            zhButton.textContent = '中文';
+            toggle.appendChild(zhButton);
+
+            const originalButton = document.createElement('button');
+            originalButton.type = 'button';
+            originalButton.textContent = '原文';
+            toggle.appendChild(originalButton);
+
+            const textCopy = document.createElement('p');
+            textBlock.appendChild(textCopy);
+            content.appendChild(textBlock);
+
+            const translationReady = hasXTranslation(item);
+            let currentLanguage = translationReady ? 'zh' : 'original';
+
+            function updateLanguage() {
+                const showZh = currentLanguage === 'zh' && translationReady;
+                textLabel.textContent = showZh ? '中文' : '原文';
+                textCopy.className = showZh ? 'x-translation' : 'x-original';
+                textCopy.textContent = showZh ? item.zh_text : (item.original_text || '');
+                zhButton.classList.toggle('active', showZh);
+                originalButton.classList.toggle('active', !showZh);
+                zhButton.disabled = !translationReady;
+                zhButton.title = translationReady ? '显示中文翻译' : '需要配置 LLM_API_KEY 后生成中文翻译';
+            }
+
+            zhButton.onclick = () => {
+                currentLanguage = 'zh';
+                updateLanguage();
+            };
+            originalButton.onclick = () => {
+                currentLanguage = 'original';
+                updateLanguage();
+            };
+            updateLanguage();
+
+            const mediaUrls = Array.isArray(item.media_urls) ? item.media_urls.filter(Boolean).slice(0, 4) : [];
+            if (mediaUrls.length > 0) {
+                const mediaGrid = document.createElement('div');
+                mediaGrid.className = 'x-media-grid';
+                mediaUrls.forEach(url => {
+                    const image = document.createElement('img');
+                    image.className = 'x-media';
+                    image.src = url;
+                    image.alt = 'X 配图';
+                    image.loading = 'lazy';
+                    mediaGrid.appendChild(image);
+                });
+                content.appendChild(mediaGrid);
+            }
+
+            const footer = document.createElement('div');
+            footer.className = 'card-footer';
+            content.appendChild(footer);
+
+            const readLink = document.createElement('a');
+            readLink.href = getSafeLink(item.url);
+            readLink.target = '_blank';
+            readLink.rel = 'noopener noreferrer';
+            readLink.className = 'btn-read';
+            readLink.textContent = '查看原帖 →';
+            footer.appendChild(readLink);
+
+            return article;
+        }
+
+        function renderXDigest(container) {
+            const items = Array.isArray(xDigestData.items) ? [...xDigestData.items] : [];
+            let filtered = items;
+            if (searchQuery) {
+                filtered = filtered.filter(item =>
+                    (item.original_text || '').toLowerCase().includes(searchQuery) ||
+                    (item.zh_text || '').toLowerCase().includes(searchQuery) ||
+                    (item.author_name || '').toLowerCase().includes(searchQuery) ||
+                    (item.handle || '').toLowerCase().includes(searchQuery)
+                );
+            }
+
+            if (filtered.length === 0) {
+                const accounts = Array.isArray(xDigestData.accounts) ? xDigestData.accounts : [];
+                const configured = accounts.filter(item => item.status !== 'not_configured');
+                const failed = accounts.filter(item => item.status && item.status !== 'success' && item.status !== 'empty');
+                const failedNames = failed.slice(0, 4).map(item => item.name || item.handle).filter(Boolean).join('、');
+                const detail = accounts.length
+                    ? `已配置 ${accounts.length} 个账号，${configured.length} 个有数据源${failedNames ? `；待处理：${failedNames}` : ''}`
+                    : '还没有账号配置';
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="icon">𝕏</div>
+                        <p>暂无 X 动态，请配置 X_RSS_BASE_URL 或账号 rss_url</p>
+                        <div class="x-empty-detail">${detail}</div>
+                    </div>`;
+                return;
+            }
+
+            const fragment = document.createDocumentFragment();
+            filtered.forEach(item => {
+                fragment.appendChild(createXPostCard(item));
+            });
+            container.appendChild(fragment);
+        }
+
         // 渲染新闻
         function renderNews() {
             const container = document.getElementById('news-container');
@@ -1616,6 +2010,12 @@
             
             setTimeout(() => {
                 container.innerHTML = '';
+
+                if (currentCategory === 'X动态') {
+                    renderXDigest(container);
+                    container.style.opacity = '1';
+                    return;
+                }
                 
                 // 合并所有日期的新闻
                 let allArticles = [];
@@ -1669,49 +2069,11 @@
                     return;
                 }
 
+                const fragment = document.createDocumentFragment();
                 filtered.forEach(item => {
-                    const cat = categoryDisplayNames[item.category] || item.category;
-                    const tagClass = categoryClasses[cat] || 'tech';
-                    const catIcon = categoryIcons[cat] || '';
-                    const imageUrl = getImageUrl(item);
-                    const dateLabel = formatDate(item._date);
-                    
-                    // 有图时左图右文，无图时纯文字
-                    const imageHtml = imageUrl 
-                        ? `<div class="card-image"><img src="${imageUrl}" alt="${item.title}" loading="lazy"></div>`
-                        : '';
-                    
-                    const html = `
-                        <article class="card">
-                            <div class="card-body">
-                                ${imageHtml}
-                                <div class="card-content">
-                                    <div class="card-header">
-                                        <div class="tags">
-                                            <span class="tag ${tagClass}">${catIcon}${cat}</span>
-                                            <span class="tag">${item.tag || '资讯'}</span>
-                                        </div>
-                                        <span class="date-tag" style="margin-left: auto;">${dateLabel}</span>
-                                    </div>
-
-                                    <h2 class="card-title">
-                                        <a href="${item.link}" target="_blank">${item.title}</a>
-                                    </h2>
-                                    
-                                    <p class="card-summary">${item.summary}</p>
-                                    
-                                    <div class="card-footer">
-                                        <div class="comment-box">
-                                            💬 ${item.comment || '暂无点评'}
-                                        </div>
-                                        <a href="${item.link}" target="_blank" class="btn-read">阅读全文 →</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
-                    `;
-                    container.innerHTML += html;
+                    fragment.appendChild(createNewsCard(item));
                 });
+                container.appendChild(fragment);
                 
                 container.style.opacity = '1';
             }, 100);
@@ -1731,6 +2093,13 @@
             const data = await response.json();
             if (!data || Object.keys(data).length === 0) throw new Error('Empty status');
             return data;
+        }
+
+        async function loadXDigestData() {
+            const response = await fetch('public/data/x-digest.json?v=' + Date.now());
+            if (!response.ok) return { items: [] };
+            const data = await response.json();
+            return data || { items: [] };
         }
 
         function formatStatusTime(value) {
@@ -1789,14 +2158,16 @@
         }
 
         // 加载数据
-        Promise.allSettled([loadArchiveData(), loadStatusData()])
+        Promise.allSettled([loadArchiveData(), loadStatusData(), loadXDigestData()])
             .then(results => {
                 const archiveResult = results[0];
                 const statusResult = results[1];
+                const xDigestResult = results[2];
                 if (archiveResult.status !== 'fulfilled') {
                     throw archiveResult.reason || new Error('Archive unavailable');
                 }
                 archiveData = archiveResult.value;
+                xDigestData = xDigestResult.status === 'fulfilled' ? xDigestResult.value : { items: [] };
                 applyStatusData(statusResult.status === 'fulfilled' ? statusResult.value : null);
                 renderNews();
             })

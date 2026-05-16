@@ -4,10 +4,10 @@
       "id": "jiqizhixin",
       "name": "机器之心",
       "category": "ai",
-      "type": "rss",
-      "url": "https://www.jiqizhixin.com/rss",
+      "type": "html",
+      "url": "https://www.jiqizhixin.com/industry",
       "backup_urls": [],
-      "notes": "官方 RSS 当前返回数据服务落地页，暂未确认稳定备用源。",
+      "notes": "官方 RSS 当前解析失败，使用产业资讯页面的服务端渲染文章列表。",
       "enabled": true,
       "priority": 90
     },
@@ -67,7 +67,10 @@
       "name": "IGN",
       "category": "games",
       "type": "rss",
-      "url": "https://www.ign.com/rss/articles/feed",
+      "url": "https://feeds.feedburner.com/ign/all",
+      "backup_urls": [
+        "https://www.ign.com/rss/articles/feed"
+      ],
       "enabled": true,
       "priority": 78
     },
