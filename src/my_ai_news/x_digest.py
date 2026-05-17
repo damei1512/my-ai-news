@@ -30,6 +30,9 @@ class XPost:
     zh_text: str
     commentary: str
     media_urls: list[str]
+    image_urls: list[str]
+    video_urls: list[str]
+    media_note: str
     url: str
     canonical_url: str
     published_at: str
@@ -51,24 +54,68 @@ def normalize_post_text(value: str) -> str:
     return text
 
 
-class ImageExtractor(HTMLParser):
+class MediaExtractor(HTMLParser):
     def __init__(self):
         super().__init__()
-        self.urls: list[str] = []
+        self.image_urls: list[str] = []
+        self.video_urls: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        if tag != "img":
-            return
         values = {key: value or "" for key, value in attrs}
         src = values.get("src", "").strip()
-        if src and src not in self.urls:
-            self.urls.append(src)
+        if not src:
+            return
+        if tag == "img" and src not in self.image_urls:
+            self.image_urls.append(src)
+        if tag in {"video", "source"} and src not in self.video_urls:
+            self.video_urls.append(src)
 
 
 def extract_image_urls(value: str) -> list[str]:
-    parser = ImageExtractor()
+    parser = MediaExtractor()
     parser.feed(value or "")
-    return parser.urls
+    return parser.image_urls
+
+
+def extract_html_video_urls(value: str) -> list[str]:
+    parser = MediaExtractor()
+    parser.feed(value or "")
+    return parser.video_urls
+
+
+def extract_entry_video_urls(entry: object) -> list[str]:
+    urls: list[str] = []
+    candidates = []
+    candidates.extend(getattr(entry, "media_content", []) or [])
+    candidates.extend(getattr(entry, "enclosures", []) or [])
+    candidates.extend(getattr(entry, "links", []) or [])
+
+    for item in candidates:
+        href = ""
+        media_type = ""
+        if isinstance(item, dict):
+            href = str(item.get("url") or item.get("href") or "").strip()
+            media_type = str(item.get("type") or item.get("medium") or "").lower()
+        else:
+            href = str(getattr(item, "url", "") or getattr(item, "href", "") or "").strip()
+            media_type = str(getattr(item, "type", "") or getattr(item, "medium", "") or "").lower()
+        if not href:
+            continue
+        parsed_path = urlparse(href).path.lower()
+        if media_type.startswith("video/") or parsed_path.endswith((".mp4", ".m3u8", ".mov", ".webm")):
+            if href not in urls:
+                urls.append(href)
+    return urls
+
+
+def media_note_for_text(text: str, image_urls: list[str], video_urls: list[str]) -> str:
+    if image_urls or video_urls:
+        return ""
+    lowered = text.lower()
+    media_signals = ["grok imagine", "video", "watch", "demo", "trailer", "livestream", "直播", "视频", "演示"]
+    if any(signal in lowered for signal in media_signals):
+        return "该动态可能包含 X 原生媒体，当前 RSS 未提供视频文件，请打开原帖观看。"
+    return ""
 
 
 def feed_avatar_url(feed: object) -> str:
@@ -212,6 +259,8 @@ def fetch_account_posts(account: dict, translator: XPostTranslator, limit: int) 
                 continue
             link = str(getattr(entry, "link", "")).strip() or x_url_from_handle(handle)
             published_at, published_date = published_values(entry)
+            image_urls = extract_image_urls(summary_html)
+            video_urls = [*extract_html_video_urls(summary_html), *extract_entry_video_urls(entry)]
             try:
                 zh_text, commentary = translator.translate(author_name=str(account.get("name", handle)), text=raw_text)
             except Exception:
@@ -227,7 +276,10 @@ def fetch_account_posts(account: dict, translator: XPostTranslator, limit: int) 
                     original_text=raw_text,
                     zh_text=zh_text,
                     commentary=commentary,
-                    media_urls=extract_image_urls(summary_html),
+                    media_urls=image_urls,
+                    image_urls=image_urls,
+                    video_urls=video_urls,
+                    media_note=media_note_for_text(raw_text, image_urls, video_urls),
                     url=link,
                     canonical_url=canonicalize_url(link) if urlparse(link).scheme else link,
                     published_at=published_at,

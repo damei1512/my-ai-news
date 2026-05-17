@@ -237,10 +237,11 @@ def test_fetch_source_supports_html_article_lists(monkeypatch: pytest.MonkeyPatc
 def test_x_digest_fetches_posts_from_configured_rss(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
     entry = SimpleNamespace(
         title="",
-        summary='<p>AI agents are becoming useful in real workflows.</p><img src="https://pbs.twimg.com/media/demo.jpg?format=jpg&amp;name=orig">',
+        summary='<p>AI agents are becoming useful in real workflows.</p><img src="https://pbs.twimg.com/media/demo.jpg?format=jpg&amp;name=orig"><video src="https://video.twimg.com/demo.mp4"></video>',
         link="https://x.com/example/status/1",
         published="Fri, 15 May 2026 08:00:00 GMT",
         published_parsed=None,
+        links=[{"href": "https://video.twimg.com/enclosure.mp4", "type": "video/mp4"}],
     )
     feed = SimpleNamespace(
         feed={"image": {"href": "https://pbs.twimg.com/profile_images/example.jpg"}},
@@ -281,6 +282,9 @@ def test_x_digest_fetches_posts_from_configured_rss(monkeypatch: pytest.MonkeyPa
     assert item["original_text"] == "AI agents are becoming useful in real workflows."
     assert item["avatar_url"] == "https://pbs.twimg.com/profile_images/example.jpg"
     assert item["media_urls"] == ["https://pbs.twimg.com/media/demo.jpg?format=jpg&name=orig"]
+    assert item["image_urls"] == ["https://pbs.twimg.com/media/demo.jpg?format=jpg&name=orig"]
+    assert item["video_urls"] == ["https://video.twimg.com/demo.mp4", "https://video.twimg.com/enclosure.mp4"]
+    assert item["media_note"] == ""
     assert item["zh_text"] == ""
     assert item["url"] == "https://x.com/example/status/1"
     assert item["published_date"] == "2026-05-15"
@@ -314,6 +318,34 @@ def test_x_digest_builds_rsshub_url_from_env(monkeypatch: pytest.MonkeyPatch) ->
     urls = build_account_feed_urls({"handle": "sama"})
 
     assert urls == ["https://rss.example.com/twitter/user/sama"]
+
+
+def test_x_digest_flags_likely_unavailable_native_media(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
+    entry = SimpleNamespace(
+        title="Grok Imagine",
+        summary="Grok Imagine",
+        link="https://x.com/elonmusk/status/1",
+        published="Fri, 15 May 2026 08:00:00 GMT",
+        published_parsed=None,
+    )
+    monkeypatch.setattr("my_ai_news.x_digest.feedparser.parse", lambda url: SimpleNamespace(feed={}, entries=[entry]))
+
+    config = SimpleNamespace(
+        llm_enabled=False,
+        llm_api_key=None,
+        llm_model="test-model",
+        llm_base_url=None,
+        x_config=tmp_path / "x_accounts.json",
+        x_digest_path=tmp_path / "x-digest.json",
+    )
+    config.x_config.write_text(
+        json.dumps({"accounts": [{"id": "elonmusk", "handle": "elonmusk", "name": "Elon Musk", "rss_url": "https://rss.example/elonmusk"}]}),
+        encoding="utf-8",
+    )
+
+    payload = run_x_digest(config)
+
+    assert payload["items"][0]["media_note"].startswith("该动态可能包含 X 原生媒体")
 
 
 def test_format_run_summary_includes_llm_and_backup_context() -> None:

@@ -616,16 +616,33 @@
                 inset 0 1px 0 rgba(255, 255, 255, 0.8);
         }
 
-        .x-card .card-content { gap: 12px; }
+        .x-card {
+            background: rgba(255, 255, 255, 0.52);
+            box-shadow:
+                0 2px 14px rgba(15, 23, 42, 0.08),
+                inset 0 1px 0 rgba(255, 255, 255, 0.55);
+        }
+        .x-card:hover {
+            transform: translateY(-1px);
+            background: rgba(255, 255, 255, 0.64);
+        }
+        .x-card .card-body { padding: 14px 16px; }
+        .x-card .card-content { gap: 10px; }
+        .x-layout {
+            display: grid;
+            grid-template-columns: 42px minmax(0, 1fr);
+            gap: 10px;
+        }
         .x-author {
             display: flex;
-            align-items: center;
-            gap: 10px;
+            align-items: baseline;
+            gap: 7px;
             min-width: 0;
+            flex-wrap: wrap;
         }
         .x-avatar {
-            width: 40px;
-            height: 40px;
+            width: 38px;
+            height: 38px;
             border-radius: 50%;
             background: linear-gradient(135deg, #111827, #0ea5e9);
             color: #fff;
@@ -651,6 +668,12 @@
             font-size: 12px;
             color: var(--text-sub);
             line-height: 1.3;
+        }
+        .x-time {
+            color: var(--text-sub);
+            font-size: 12px;
+            line-height: 1.3;
+            white-space: nowrap;
         }
         .x-section-label {
             font-size: 12px;
@@ -683,15 +706,32 @@
         .x-original,
         .x-translation {
             font-size: 14px;
-            line-height: 1.7;
+            line-height: 1.65;
             color: var(--text-main);
             word-break: break-word;
+            margin: 0;
         }
         .x-translation {
-            padding: 12px 14px;
-            border-radius: 14px;
-            background: rgba(14, 165, 233, 0.08);
-            border: 1px solid rgba(14, 165, 233, 0.16);
+            padding: 10px 12px;
+            border-radius: 12px;
+            background: rgba(14, 165, 233, 0.07);
+            border: 1px solid rgba(14, 165, 233, 0.13);
+        }
+        .x-copy-collapsed {
+            display: -webkit-box;
+            -webkit-line-clamp: 5;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .x-expand-btn {
+            align-self: flex-start;
+            border: 0;
+            background: transparent;
+            color: #2563eb;
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 700;
+            padding: 2px 0 0;
         }
         .x-media-grid {
             display: grid;
@@ -705,6 +745,32 @@
             border-radius: 14px;
             border: 1px solid rgba(148, 163, 184, 0.22);
             background: rgba(15, 23, 42, 0.08);
+        }
+        .x-video {
+            width: 100%;
+            max-height: 460px;
+            border-radius: 14px;
+            border: 1px solid rgba(148, 163, 184, 0.22);
+            background: #000;
+        }
+        .x-media-note {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            padding: 10px 12px;
+            border-radius: 12px;
+            border: 1px solid rgba(14, 165, 233, 0.18);
+            background: rgba(14, 165, 233, 0.08);
+            color: var(--text-sub);
+            font-size: 13px;
+            line-height: 1.5;
+        }
+        .x-footer {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding-top: 2px;
         }
         .x-empty-detail {
             margin-top: 8px;
@@ -720,6 +786,10 @@
             box-shadow:
                 0 4px 24px rgba(0, 0, 0, 0.3),
                 inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        }
+        [data-theme="dark"] .x-card {
+            background: rgba(15, 23, 42, 0.56);
+            border-color: rgba(255, 255, 255, 0.12);
         }
         [data-theme="dark"] .card:hover {
             background: rgba(30, 41, 59, 0.75);
@@ -1410,6 +1480,27 @@
             return `${month}月${day}日 ${weekDay}`;
         }
 
+        function formatXTime(value) {
+            if (!value) return '最新';
+            const date = new Date(value);
+            if (Number.isNaN(date.getTime())) return value;
+
+            const diffMs = Date.now() - date.getTime();
+            const minute = 60 * 1000;
+            const hour = 60 * minute;
+            const day = 24 * hour;
+            if (diffMs >= 0 && diffMs < minute) return '刚刚';
+            if (diffMs >= minute && diffMs < hour) return `${Math.floor(diffMs / minute)}分钟前`;
+            if (diffMs >= hour && diffMs < day) return `${Math.floor(diffMs / hour)}小时前`;
+
+            return date.toLocaleString('zh-CN', {
+                month: 'numeric',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
         // 搜索框切换
         function toggleSearch() {
             const searchBox = document.getElementById('search-box');
@@ -1821,6 +1912,17 @@
             return Boolean(zh && zh !== original && zh !== '未配置翻译模型，先保留原文。');
         }
 
+        function getXMediaNote(item, hasImages, hasVideos) {
+            if (hasImages || hasVideos) return '';
+            if (item.media_note) return item.media_note;
+            const text = `${item.original_text || ''} ${item.zh_text || ''}`.toLowerCase();
+            const mediaSignals = ['grok imagine', 'video', 'watch', 'demo', 'trailer', 'livestream', '直播', '视频', '演示'];
+            if (mediaSignals.some(signal => text.includes(signal))) {
+                return '该动态可能包含 X 原生媒体，当前 RSS 未提供视频文件，请打开原帖观看。';
+            }
+            return '';
+        }
+
         function createXPostCard(item) {
             const article = document.createElement('article');
             article.className = 'card x-card';
@@ -1829,20 +1931,17 @@
             body.className = 'card-body';
             article.appendChild(body);
 
-            const content = document.createElement('div');
-            content.className = 'card-content';
-            body.appendChild(content);
+            const layout = document.createElement('div');
+            layout.className = 'x-layout';
+            body.appendChild(layout);
 
-            const header = document.createElement('div');
-            header.className = 'card-header';
-            content.appendChild(header);
-
-            const author = document.createElement('div');
-            author.className = 'x-author';
-            header.appendChild(author);
+            const avatarWrap = document.createElement('div');
+            layout.appendChild(avatarWrap);
 
             const avatar = document.createElement('div');
             avatar.className = 'x-avatar';
+            avatarWrap.appendChild(avatar);
+
             if (item.avatar_url) {
                 const avatarImage = document.createElement('img');
                 avatarImage.src = item.avatar_url;
@@ -1852,27 +1951,35 @@
             } else {
                 avatar.textContent = (item.author_name || item.handle || 'X').slice(0, 1).toUpperCase();
             }
-            author.appendChild(avatar);
 
-            const authorText = document.createElement('div');
-            author.appendChild(authorText);
+            const content = document.createElement('div');
+            content.className = 'card-content';
+            layout.appendChild(content);
+
+            const header = document.createElement('div');
+            header.className = 'card-header';
+            content.appendChild(header);
+
+            const author = document.createElement('div');
+            author.className = 'x-author';
+            header.appendChild(author);
 
             const authorName = document.createElement('div');
             authorName.className = 'x-author-name';
             authorName.textContent = item.author_name || item.handle || 'X';
-            authorText.appendChild(authorName);
+            author.appendChild(authorName);
 
             const authorMeta = document.createElement('div');
             authorMeta.className = 'x-author-meta';
             const role = item.role ? ` · ${item.role}` : '';
             authorMeta.textContent = `@${item.handle || 'unknown'}${role}`;
-            authorText.appendChild(authorMeta);
+            author.appendChild(authorMeta);
 
-            const dateTag = document.createElement('span');
-            dateTag.className = 'date-tag';
-            dateTag.style.marginLeft = 'auto';
-            dateTag.textContent = item.published_at || item.published_date || '最新';
-            header.appendChild(dateTag);
+            const timeTag = document.createElement('span');
+            timeTag.className = 'x-time';
+            timeTag.title = item.published_at || item.published_date || '';
+            timeTag.textContent = formatXTime(item.published_at || item.published_date);
+            author.appendChild(timeTag);
 
             const textBlock = document.createElement('div');
             const toolbar = document.createElement('div');
@@ -1894,12 +2001,14 @@
 
             const translationReady = hasXTranslation(item);
             let currentLanguage = translationReady ? 'zh' : 'original';
+            let expanded = false;
 
             function updateLanguage() {
                 const showZh = currentLanguage === 'zh' && translationReady;
                 textLabel.textContent = showZh ? '中文' : '原文';
                 textCopy.className = showZh ? 'x-translation' : 'x-original';
                 textCopy.textContent = showZh ? item.zh_text : (item.original_text || '');
+                textCopy.classList.toggle('x-copy-collapsed', !expanded);
                 toggle.textContent = showZh ? '看原文' : '看中文';
                 toggle.disabled = !translationReady;
                 toggle.title = translationReady ? '切换中英文' : '需要配置 LLM_API_KEY 后生成中文翻译';
@@ -1911,7 +2020,35 @@
             };
             updateLanguage();
 
-            const mediaUrls = Array.isArray(item.media_urls) ? item.media_urls.filter(Boolean).slice(0, 4) : [];
+            const expandButton = document.createElement('button');
+            expandButton.type = 'button';
+            expandButton.className = 'x-expand-btn';
+            expandButton.textContent = '展开全文';
+            expandButton.onclick = () => {
+                expanded = !expanded;
+                expandButton.textContent = expanded ? '收起' : '展开全文';
+                updateLanguage();
+            };
+            textBlock.appendChild(expandButton);
+            requestAnimationFrame(() => {
+                const isOverflowing = textCopy.scrollHeight > textCopy.clientHeight + 2;
+                expandButton.style.display = isOverflowing ? 'inline-block' : 'none';
+            });
+
+            const videoUrls = Array.isArray(item.video_urls) ? item.video_urls.filter(Boolean).slice(0, 2) : [];
+            videoUrls.forEach(url => {
+                const video = document.createElement('video');
+                video.className = 'x-video';
+                video.src = url;
+                video.controls = true;
+                video.preload = 'metadata';
+                content.appendChild(video);
+            });
+
+            const imageUrls = Array.isArray(item.image_urls) && item.image_urls.length
+                ? item.image_urls
+                : Array.isArray(item.media_urls) ? item.media_urls : [];
+            const mediaUrls = imageUrls.filter(Boolean).slice(0, 4);
             if (mediaUrls.length > 0) {
                 const mediaGrid = document.createElement('div');
                 mediaGrid.className = 'x-media-grid';
@@ -1926,8 +2063,25 @@
                 content.appendChild(mediaGrid);
             }
 
+            const mediaNoteText = getXMediaNote(item, mediaUrls.length > 0, videoUrls.length > 0);
+            if (mediaNoteText) {
+                const mediaNote = document.createElement('div');
+                mediaNote.className = 'x-media-note';
+                const noteText = document.createElement('span');
+                noteText.textContent = mediaNoteText;
+                mediaNote.appendChild(noteText);
+                const noteLink = document.createElement('a');
+                noteLink.href = getSafeLink(item.url);
+                noteLink.target = '_blank';
+                noteLink.rel = 'noopener noreferrer';
+                noteLink.className = 'btn-read';
+                noteLink.textContent = '打开原帖 →';
+                mediaNote.appendChild(noteLink);
+                content.appendChild(mediaNote);
+            }
+
             const footer = document.createElement('div');
-            footer.className = 'card-footer';
+            footer.className = 'x-footer';
             content.appendChild(footer);
 
             const readLink = document.createElement('a');
