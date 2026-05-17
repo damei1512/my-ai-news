@@ -4,61 +4,41 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "马斯克",
-        "title": "马斯克诉奥特曼案：陪审团将裁决什么",
-        "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-        "summary": "年度最大科技法庭案件的核心争议：马斯克与奥特曼之间的法律纠纷，陪审团将就关键事实作出裁决。",
-        "comment": "科技巨头法律战升级，影响AI行业格局。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
         "title": "Sea Limited CPO谈用Codex加速亚洲AI原生软件开发",
         "link": "https://openai.com/index/sea-david-chen",
-        "summary": "Sea Limited CPO解释为何公司在工程团队中部署Codex，以在亚洲加速AI原生软件开发。",
-        "comment": "企业级AI工具落地，效率提升是关键。",
+        "summary": "Sea Limited首席产品官解释为何公司在工程团队中部署Codex，以加速亚洲的AI原生软件开发。",
+        "comment": "AI工具在亚洲企业中的规模化应用正在加速。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI发布Codex移动端，随时随地编程协作",
+        "title": "随时随地使用Codex：ChatGPT移动应用支持远程编码",
         "link": "https://openai.com/index/work-with-codex-from-anywhere",
-        "summary": "OpenAI推出Codex与ChatGPT移动应用集成，支持用户跨设备实时监控、引导和批准编程任务，实现远程环境下的高效协作。",
-        "comment": "移动端编程协作是AI工具落地的关键一步。",
+        "summary": "OpenAI发布新功能，用户可通过ChatGPT移动应用在任何设备上实时监控、引导和批准Codex的编码任务，支持远程环境操作。",
+        "comment": "移动端赋能AI编程，提升远程协作效率。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "ChatGPT",
-        "title": "OpenAI更新ChatGPT敏感对话上下文识别能力",
+        "title": "ChatGPT更新提升敏感对话上下文识别能力",
         "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-        "summary": "OpenAI发布ChatGPT安全更新，提升其在敏感对话中的上下文感知能力，可随时间检测风险并更安全地回应。",
-        "comment": "安全更新聚焦长对话风险识别，是实用改进。",
+        "summary": "OpenAI发布ChatGPT安全更新，增强在敏感对话中的上下文感知能力，可随时间检测风险并更安全地回应。",
+        "comment": "安全改进是AI落地的关键一步。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "SpaceXAI合并后员工大量流失，超50人离职",
-        "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-        "summary": "自2月以来，马斯克新合并的SpaceXAI已有超过50名员工离职，引发对倦怠、领导层变动及人才挖角的质疑。",
-        "comment": "合并后人才流失加剧，管理挑战凸显。",
-        "image": "",
-        "score": 99
-      },
-      {
         "category": "数码科技",
         "tag": "AI交互",
-        "title": "杀死ChatGPT聊天框的，是鼠标",
+        "title": "杀死ChatGPT聊天框的是鼠标，AI交互迎来十字路口",
         "link": "https://www.ifanr.com/1665672?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI人机交互迎来十字路口，鼠标操作可能取代传统聊天框，改变用户与AI的互动方式。",
-        "comment": "交互范式变革，鼠标或成新入口。",
+        "summary": "AI人机交互正面临变革，鼠标等传统输入设备可能取代聊天框成为新交互方式，爱范儿报道这一趋势。",
+        "comment": "交互方式迭代，鼠标或成AI新入口。",
         "image": "",
         "score": 92
       },
@@ -67,10 +47,10 @@
         "tag": "尊界",
         "title": "传尊界联手玛莎拉蒂打造新车，或迎品牌新时刻",
         "link": "https://www.ifanr.com/1665861?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "传闻尊界与玛莎拉蒂合作开发新车，可能标志着品牌进入新阶段，引发市场关注。",
-        "comment": "跨界合作或为品牌注入新活力。",
+        "summary": "传闻尊界与玛莎拉蒂合作开发新车，可能为品牌带来类似Pura系列的转型契机，引发市场关注。",
+        "comment": "跨界合作或成尊界破局关键。",
         "image": "",
-        "score": 91
+        "score": 92
       }
     ]
   }
