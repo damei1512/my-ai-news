@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "苹果",
-        "title": "苹果Siri大改版或加入自动删除聊天功能",
-        "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-        "summary": "苹果在推出新版Siri时，隐私保护将成为重要主题，可能包括自动删除聊天记录的功能。",
-        "comment": "隐私功能升级是苹果差异化竞争的关键。",
+        "tag": "人工智能",
+        "title": "马斯克诉OpenAI案：信任成为核心问题",
+        "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "summary": "在马斯克诉OpenAI案的最后阶段，一个核心主题是OpenAI CEO Sam Altman是否值得信任。",
+        "comment": "信任危机折射出AI治理的深层矛盾。",
         "image": "",
         "score": 100
       },
@@ -17,220 +17,80 @@
         "tag": "人工智能",
         "title": "AI技能军备竞赛席卷汽车行业",
         "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-        "summary": "TechCrunch Mobility报道，AI技能竞争正进入汽车领域，未来交通将依赖人工智能人才。",
-        "comment": "汽车业AI人才争夺战已白热化。",
+        "summary": "TechCrunch Mobility报道，AI技能竞争正加速进入汽车领域，未来交通转型面临人才与技术的双重挑战。",
+        "comment": "汽车行业AI人才争夺战已白热化。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "马斯克",
-        "title": "马斯克诉OpenAI案：信任成庭审焦点",
-        "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-        "summary": "庭审最后阶段，核心议题是OpenAI CEO Sam Altman是否值得信任，这成为案件关键。",
-        "comment": "信任危机折射AI治理深层矛盾。",
+        "tag": "苹果",
+        "title": "苹果Siri升级或包含自动删除聊天记录功能",
+        "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+        "summary": "苹果在推出新版Siri时，隐私将成为重要主题，可能包含自动删除聊天记录功能。",
+        "comment": "隐私功能成Siri升级亮点。",
         "image": "",
         "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "2026年毕业典礼演讲慎提AI",
+        "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+        "summary": "TechCrunch指出，在2026年的毕业典礼演讲中提及AI可能难以激发毕业生对未来的热情，建议演讲者避免这一话题。",
+        "comment": "AI热潮降温，毕业生更需务实关怀。",
+        "image": "",
+        "score": 98
       },
       {
         "category": "数码科技",
         "tag": "开放式耳机",
         "title": "对话韶音高层：开放式耳机如何颠覆TWS？",
         "link": "https://36kr.com/p/3813305543794440?f=rss",
-        "summary": "韶音在媒体专访会上阐述其开放式耳机战略，强调骨传导技术优势与运动场景深耕，旨在引领音频品类革命，应对行业增长瓶颈。",
+        "summary": "韶音高层在媒体专访会上阐述，开放式耳机凭借骨传导技术和运动场景优势，正推动音频市场结构性变革，有望成为TWS后的下一场品类革命。",
         "comment": "开放式耳机或成TWS之后的下一个增长点。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
-        "tag": "AI",
-        "title": "3人带100个AI程序员月耗130万美元，OpenAI买单",
-        "link": "https://36kr.com/p/3812925591887368?f=rss",
-        "summary": "OpenClaw之父Peter Steinberger用3人管理100个AI agent，月耗130万美元（约900万人民币），OpenAI承担费用，将软件开发变为AI流水线。",
-        "comment": "AI开发成本惊人，但OpenAI的买单策略值得关注。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "2026年毕业演讲慎提AI",
-        "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-        "summary": "毕业生对AI塑造的未来缺乏热情，建议演讲者避免提及人工智能。",
-        "comment": "AI话题已引发毕业生焦虑。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "燃油车",
-        "title": "多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品",
+        "tag": "燃油车降价",
+        "title": "多款燃油车大降价，蜜雪冰城上线黄仁勋同款饮品",
         "link": "https://36kr.com/p/3814030630084354?f=rss",
-        "summary": "长安逸动经典版上市，限时优惠2.3万元；蜜雪冰城推出黄仁勋同款饮品；巴菲特慈善午餐回归，拍得900万美元。",
-        "comment": "燃油车降价潮持续，新能源冲击下传统车企承压。",
+        "summary": "长安逸动等燃油车降价近30%；蜜雪冰城推出黄仁勋同款饮品；巴菲特慈善午餐拍卖900万美元；三星电子会长就内部问题道歉。",
+        "comment": "燃油车降价潮加速，新能源冲击明显。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "立讯精密",
-        "title": "立讯精密股价创新高，王来春成千亿女富豪",
+        "title": "立讯精密股价大涨，王来春成千亿女富豪",
         "link": "https://36kr.com/p/3813040859258373?f=rss",
-        "summary": "立讯精密股价自4月初上涨超55%，市值达5542亿元创新高，创始人王来春持股18.75%，身价突破千亿，成为又一位白手起家的千亿女富豪。近期股价受收购公告提振。",
-        "comment": "科技制造造富效应显著，收购预期助推市值。",
+        "summary": "自4月初以来，立讯精密股价上涨超55%，市值创历史新高达5542亿元。掌舵者王来春持股18.75%，身价突破千亿，成为又一位白手起家的千亿女富豪。近期股价大涨或与收购京西智行集团全部股权的公告有关。",
+        "comment": "收购消息推动股价，但需关注后续整合风险。",
         "image": "",
         "score": 96
       },
       {
         "category": "游戏影视",
-        "tag": "基努·里维斯",
-        "title": "基努·里维斯主演日本定格木雕武士电影《Hidari》",
-        "link": "https://www.ign.com/articles/wake-up-samurai-keanu-reeves-carves-out-lead-role-in-japanese-stop-motion-wood-sculpture-film-hidari",
-        "summary": "基努·里维斯将主演日本定格动画电影《Hidari》，该片采用木雕风格，三年前的概念视频曾在YouTube爆红。",
-        "comment": "木雕定格与基努的组合颇具艺术野心。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/17/hidari-1779050168718.png",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "黑袍纠察队",
-        "title": "《黑袍纠察队》第五季第八集预告：星光与深海对决，布彻尔焦土策略",
-        "link": "https://www.ign.com/articles/the-boys-season-5-episode-8-teaser-sets-up-showdown-for-starlight-and-the-deep-as-butcher-goes-scorched-earth",
-        "summary": "Prime Video发布《黑袍纠察队》第五季第八集预告片，展示布彻尔、休伊、星光等角色在最终决战前的最后亮相，布彻尔采取焦土策略，星光与深海的对决即将展开。",
-        "comment": "预告片悬念十足，焦土策略预示结局惨烈。",
-        "image": "https://assets-prd.ignimgs.com/2023/01/13/the-boys-season-4-content-1673619629477.jpeg",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox玩家福利：77英镑享10个月Game Pass终极版",
-        "link": "https://www.ign.com/articles/10-months-xbox-game-pass-ultimate-77-pounds-trick",
-        "summary": "通过EA Play转换技巧，仅需76.96英镑即可获得10个月Xbox Game Pass终极版，相比月费节省92.94英镑。",
-        "comment": "省钱技巧实用，但需注意转换规则可能变动。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/16/xbox-game-pass-trick-cover-2-1778945736257.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "AI",
-        "title": "Seth Rogen 批评用AI写剧本：建议创作者另寻他路",
-        "link": "https://www.ign.com/articles/seth-rogen-tells-filmmakers-using-ai-to-write-scripts-to-go-do-something-else",
-        "summary": "Seth Rogen 反对在电影中使用AI，他告诉那些用AI写剧本的编剧们“去做点别的事情”。",
-        "comment": "AI创作引发争议，Rogen 坚守人类创意核心。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/17/seth-rogen-1779037954957.png",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "教父",
-        "title": "《教父》系列新书《康妮》2027年出版",
-        "link": "https://www.ign.com/articles/the-godfather-book-series-to-continue-with-new-story-about-connie-corleone-in-2027",
-        "summary": "《教父》系列将推出新书《康妮》，聚焦康妮·柯里昂的故事，计划于2027年出版。",
-        "comment": "经典IP延续，女性视角或带来新意。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/17/the-godfather-1779054144823.png",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "对马岛之魂",
-        "title": "《对马岛之魂》传奇模式4月迎来最终重大更新",
-        "link": "https://www.ign.com/articles/ghost-of-yotei-legends-received-its-final-major-update-in-april-dev-confirms",
-        "summary": "《对马岛之魂》开发商Sucker Punch确认，其传奇多人模式未来将不再获得任何重大更新。",
-        "comment": "传奇模式终章，玩家社区需适应无更新状态。",
-        "image": "https://assets-prd.ignimgs.com/2024/09/24/ghost-of-yotai-1727217918872.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "超人",
-        "title": "《超人：明日之人》反派演员称布莱尼亚克如撒旦化身",
-        "link": "https://www.ign.com/articles/man-of-tomorrow-brainiac-actor-compares-his-superman-villain-to-an-incarnation-of-satan",
-        "summary": "《超人：明日之人》演员Lars Eidinger描述其饰演的超人反派布莱尼亚克如同“撒旦的化身”，强调角色的邪恶本质。",
-        "comment": "演员的比喻强化了反派深度，但需看实际表现。",
-        "image": "http://assets1.ignimgs.com/2015/01/16/brainiac-jpg-eb5d4a1280wjpg-78d081.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
         "tag": "巫师2",
-        "title": "《巫师2：国王刺客》十五周年：为何它独一无二",
+        "title": "《巫师2：国王刺客》15周年：为何它成为绝唱",
         "link": "https://www.gamespot.com/articles/well-never-see-another-game-like-the-witcher-2-assassins-of-kings-again/1100-6539976/?ftag=CAD-01-10abi2f",
-        "summary": "《巫师2：国王刺客》于2026年5月17日迎来15周年纪念。本文回顾了这款游戏如何反映特定游戏历史时期，并探讨其独特性的原因。",
-        "comment": "一款定义时代的RPG，其深度与勇气至今难被超越。",
+        "summary": "《巫师2：国王刺客》于2026年5月17日迎来15周年纪念。本文回顾了其发行背景，探讨了这款游戏如何代表特定游戏历史时期，并分析其独特地位难以被复制。",
+        "comment": "一款定义时代的RPG，其设计哲学已成过往。",
         "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15855271/4695953-ss_50472c40c90b4771382458f8e1c691793c63e1b0.1920x1080.jpg",
-        "score": 92
+        "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "异度神剑",
-        "title": "漫谈异度神剑X终极版：遗珠之作焕发新生",
+        "title": "漫谈异度神剑X终极版：遗珠之作登陆NS2焕新生",
         "link": "https://www.gcores.com/radios/214595",
         "summary": "本期节目Red与福贵聊《异度神剑X终极版》，Monolith Soft开发、任天堂发行的科幻开放世界JRPG，2015年登陆Wii U，现终极版登陆NS2，画质帧率升级，流畅度质变，让遗珠之作焕发新生。",
-        "comment": "NS2版升级显著，值得老玩家重温。",
+        "comment": "NS2版画质帧率升级，流畅度质变，值得JRPG爱好者关注。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "小岛秀夫",
-        "title": "小岛秀夫为何钟爱《白鲸》？解读其时代关怀",
-        "link": "https://www.gcores.com/radios/214236",
-        "summary": "小岛秀夫喜爱《白鲸记》，该书承载19世纪美国捕鲸业的时代关怀，痛苦与挣扎至今可感。本期节目通过再读《白鲸》，回望历史，探讨其趣味与感触。",
-        "comment": "经典文学与游戏文化的跨界解读，视角独特。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "埃博拉",
-        "title": "刚果埃博拉疫情有多令人担忧？",
-        "link": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
-        "summary": "刚果爆发埃博拉疫情，已报告近250例疑似病例，被宣布为卫生紧急事件。",
-        "comment": "疫情规模需高度警惕，国际协作是关键。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "伊朗",
-        "title": "伊朗政治处决激增，联合国确认至少32人被执行",
-        "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-        "summary": "自2月28日美以攻击伊朗以来，联合国已核实至少32名政治犯被处决，处决数量激增。",
-        "comment": "战争阴影下，伊朗人权状况急剧恶化。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "俄称乌大规模无人机袭击致莫斯科州三人死亡",
-        "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰总统称，此次袭击是对俄军致命攻击乌克兰城市的“正当”回应。",
-        "comment": "冲突升级，双方互攻加剧平民伤亡。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "阿联酋",
-        "title": "阿联酋报告阿布扎比核电站附近遭袭击",
-        "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-        "summary": "阿联酋正在调查袭击来源，称此为“危险升级”。",
-        "comment": "核设施安全受威胁，地区紧张加剧。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏优惠",
-        "title": "今日最佳优惠：超级马里奥RPG、塞尔达无双等",
-        "link": "https://www.ign.com/articles/best-deals-for-may-17-2026",
-        "summary": "IGN汇总了5月17日游戏影视优惠，包括《超级马里奥RPG》《塞尔达无双：封印战记》及《阿基拉》4K蓝光等折扣信息。",
-        "comment": "游戏与经典动画影碟同步促销，适合收藏党关注。",
-        "image": "https://assets-prd.ignimgs.com/2023/11/02/supermariorpgremakejapanesetrailer-ign-blogroll-1698946743251.jpg",
-        "score": 86
       }
     ]
   }
