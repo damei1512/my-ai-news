@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI为Codex构建Windows安全沙盒",
+        "title": "OpenAI为Windows版Codex构建安全沙箱",
         "link": "https://openai.com/index/building-codex-windows-sandbox",
-        "summary": "OpenAI详细介绍如何为Codex在Windows上构建安全沙盒，实现受控文件访问和网络限制，确保编码代理安全高效运行。",
-        "comment": "安全沙盒是AI编码工具落地的关键一步。",
+        "summary": "OpenAI为Windows平台上的Codex开发了安全沙箱，通过控制文件访问和网络限制，实现了安全高效的编码代理功能。",
+        "comment": "沙箱设计是AI编程工具落地的关键安全屏障。",
         "image": "",
         "score": 100
       }
