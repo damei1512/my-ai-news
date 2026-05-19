@@ -4,101 +4,51 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "SandboxAQ将药物发现模型引入Claude，无需计算博士学位",
-        "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-        "summary": "SandboxAQ将其药物发现模型集成到Claude平台，降低使用门槛，认为访问障碍比模型性能更重要。其他风投公司如Chai Discovery和Isomorphic Labs也在竞相构建更好的模型。",
-        "comment": "降低AI药物发现门槛是务实之举。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "收购",
-        "title": "Anthropic收购为OpenAI、谷歌等提供开发工具的新创公司Stainless",
-        "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-        "summary": "Anthropic收购了纽约初创公司Stainless，该公司成立于2022年，专注于自动化软件开发工具包（SDK）的创建与维护，客户包括OpenAI、谷歌和Cloudflare。",
-        "comment": "Anthropic通过收购补齐工具链，加速AI生态布局。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "马斯克诉奥特曼及OpenAI案败诉",
-        "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-        "summary": "九名加州陪审员一致裁定，马斯克对OpenAI联合创始人的诉讼因超过时效而败诉，其声称遭受不公待遇的主张未获支持。",
-        "comment": "诉讼时效成关键，马斯克法律策略受挫。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI眼镜",
-        "title": "韩国LetinAR打造AI眼镜光学核心",
-        "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-        "summary": "一家韩国初创公司LetinAR开发出拇指大小的镜片，可能成为AI眼镜时代的光学支柱。",
-        "comment": "光学突破是AI眼镜落地的关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与戴尔合作将Codex引入混合及本地企业环境",
+        "title": "OpenAI与戴尔合作将Codex引入混合与本地企业环境",
         "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-        "summary": "OpenAI与戴尔合作，将Codex引入混合和本地环境，帮助企业跨数据和工作流安全部署AI编码代理。",
-        "comment": "企业级AI编码部署迈出关键一步。",
+        "summary": "OpenAI与戴尔合作，将Codex引入混合和本地环境，帮助企业在数据和工作流中安全部署AI编码代理。",
+        "comment": "企业级AI编码工具落地加速，安全部署是关键。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "亚马逊",
-        "title": "亚马逊Alexa+新增AI生成播客功能",
-        "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-        "summary": "亚马逊Alexa+现可按需生成定制AI播客，将语音助手扩展为个性化AI内容平台。",
-        "comment": "语音助手从工具向内容平台转型的又一尝试。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "数码科技",
         "tag": "番茄小说",
         "title": "番茄小说推动AI动漫上院线，开放头部IP改编权限",
         "link": "https://36kr.com/p/3810598875307780?f=rss",
-        "summary": "字节跳动旗下番茄小说正推动AI动漫上院线，并开放头部IP改编权限，以挖掘IP潜力和商业价值，解决文字IP缺乏视觉形象、变现形式单一的问题。",
-        "comment": "AI动漫上院线是内容变现的新尝试，但IP视觉化挑战不小。",
+        "summary": "字节跳动旗下番茄小说正推动AI动漫上院线，并开放头部IP改编权限，以挖掘IP潜力和商业价值，解决文字IP缺乏视觉形象和变现难题。",
+        "comment": "AI动漫上院线是IP变现新尝试，但质量与市场接受度待考。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此",
+        "link": "https://36kr.com/p/3814408307711492?f=rss",
+        "summary": "2026年AI加速发展，峰会聚焦Agent、多模态、应用与算力，探讨AI创业、融资机会及个人如何有效使用AI，解决用户对AI趋势的困惑。",
+        "comment": "AI落地关键期，峰会为从业者提供实用指引。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
         "tag": "百度",
-        "title": "百度一季度AI收入136亿元，马斯克预测美国今年广泛使用自动驾驶",
+        "title": "百度一季度营收321亿元，AI业务收入136亿元",
         "link": "https://36kr.com/p/3814695536336387?f=rss",
-        "summary": "百度一季度营收321亿元，AI业务收入136亿元；马斯克预测今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销。索辰科技公告股票交易异常波动，物理AI业务尚处布局初期。",
-        "comment": "AI业务成百度增长引擎，但自动驾驶落地仍需观察。",
+        "summary": "百度一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销。索辰科技称物理AI业务尚处布局初期。",
+        "comment": "AI业务成百度核心增长引擎，但自动驾驶落地仍需时间。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "红魔",
+        "tag": "红魔11S Pro",
         "title": "红魔11S Pro系列深度体验：性能极限与跨界尝试",
         "link": "https://36kr.com/p/3814570248412677?f=rss",
-        "summary": "在手机镜头凸出、内部空间受限的背景下，红魔11S Pro系列通过软硬件垂直堆叠，探索移动终端性能上限。本文从设计、理论性能释放和实际体验三方面进行深度拆解。",
-        "comment": "电竞旗舰的工业设计激进，但性能释放值得关注。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI峰会",
-        "title": "AI峰会亮点：Agent、多模态、应用与算力全解析",
-        "link": "https://36kr.com/p/3814408307711492?f=rss",
-        "summary": "2026年AI发展加速，峰会聚焦Agent、多模态、应用和算力，探讨AI新事物与个人关系、创业融资机会及实际应用方法，解答如何有效使用AI。",
-        "comment": "峰会为AI从业者提供实用指南，但需警惕信息过载。",
+        "summary": "在手机镜头凸出、内部空间受限的背景下，电竞旗舰红魔11S Pro系列通过软硬件垂直堆叠，探索移动终端性能上限。本文从设计、理论性能释放和实际体验三方面进行深度拆解。",
+        "comment": "电竞手机在散热和功耗上确实更激进，但跨界尝试仍需市场检验。",
         "image": "",
         "score": 96
       },
@@ -107,29 +57,19 @@
         "tag": "马斯克",
         "title": "马斯克花100亿想清楚：不做coding agent就是等死",
         "link": "https://www.ifanr.com/1666191?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "明面上算力是关键，暗地里其实是数据。马斯克投入100亿后意识到，不做编码代理将面临淘汰。",
-        "comment": "算力竞赛背后，数据才是真正的护城河。",
+        "summary": "马斯克投入100亿后意识到，算力并非唯一关键，数据才是核心。不做coding agent将面临淘汰。",
+        "comment": "数据比算力更关键，马斯克的选择揭示行业趋势。",
         "image": "",
         "score": 93
       },
       {
         "category": "数码科技",
         "tag": "英特尔",
-        "title": "英特尔将旗舰制程下放至入门产品，野猫架构接招MacBook Neo",
+        "title": "英特尔入门级处理器或采用旗舰制程，野猫计划曝光",
         "link": "https://www.ifanr.com/1666225?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "英特尔计划将旗舰制程技术下放到入门级产品，以应对MacBook Neo的竞争，此举可能改变低端处理器市场格局。",
-        "comment": "下放旗舰制程是明智但风险并存的策略。",
+        "summary": "英特尔计划将旗舰制程下放到入门级产品，推出代号“野猫”的新系列，以应对MacBook Neo的竞争，此举或改变低端市场格局。",
+        "comment": "英特尔以旗舰技术下放，意在重塑入门市场竞争力。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂Switch 2“自选游戏套装”开启预购",
-        "link": "https://www.gamespot.com/articles/nintendo-switch-2-choose-your-game-bundle-deal/1100-6539895/?ftag=CAD-01-10abi2f",
-        "summary": "任天堂Switch 2推出“自选游戏套装”，售价500美元，玩家可自选一款游戏捆绑购买，预计2026年6月7日发售，现已在亚马逊开启预购。",
-        "comment": "捆绑销售策略灵活，但定价偏高。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1873/18732937/4693786-choice_lead.jpg",
         "score": 92
       },
       {
@@ -137,60 +77,30 @@
         "tag": "魏牌",
         "title": "魏牌V9X直降两万，34.98万起标配空悬",
         "link": "https://www.ifanr.com/1666192?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "魏牌V9X售价34.98万元起，标配空气悬架，提供六年整车质保，以品质承诺决战高端新能源市场。",
-        "comment": "降价增配，魏牌以质保策略强化高端定位。",
+        "summary": "魏牌V9X售价34.98万元起，标配空气悬架，提供六年整车质保，展现魏建军决战高端新能源的决心。",
+        "comment": "降价增配，质保加码，魏牌冲击高端诚意足。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "AI",
-        "title": "一个月烧掉930万元Token，仍未找到答案",
+        "title": "一个月烧掉930万元Token，仍无答案",
         "link": "https://www.ifanr.com/1666146?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨了高额Token消耗现象，指出有人一个月花费930万元Token却未获得预期结果，引发对AI资源浪费的反思。",
-        "comment": "巨额投入未必带来回报，AI应用需理性评估。",
+        "summary": "用户一个月内消耗价值930万元的Token，但未获得预期结果，引发对AI资源浪费的讨论。",
+        "comment": "高投入未必高回报，AI应用需理性规划。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "昊铂",
-        "title": "昊铂S600预售20万起，四驱双腔空悬成亮点",
+        "title": "昊铂S600预售发布，20万起配四驱双腔空悬",
         "link": "https://www.ifanr.com/1666139?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "昊铂S600开启预售，起售价20万元，配备四驱系统和双腔空气悬架，旨在提升产品知名度。",
-        "comment": "低价高配策略能否打开市场？",
+        "summary": "昊铂S600开启预售，起售价20万元，提供四驱系统和双腔空气悬架，旨在提升产品市场认知度。",
+        "comment": "低价高配策略能否打开市场仍需观察。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "真人快打",
-        "title": "McFarlane推出《真人快打》经典零度与蜥蜴人可动人偶",
-        "link": "https://www.gamespot.com/articles/mortal-kombat-klassic-sub-zero-and-reptile-buying-guide/1100-6540007/?ftag=CAD-01-10abi2f",
-        "summary": "McFarlane Toys发布《真人快打》经典系列零度与蜥蜴人可动人偶，售价32美元，8月23日发售，现已开启预购。",
-        "comment": "经典角色人偶化，粉丝收藏佳选。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4697613-mk-main.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏促销",
-        "title": "Fanatical五月疯狂促销：多款新PC游戏折扣",
-        "link": "https://www.gamespot.com/articles/fanaticals-may-madness-sale-has-dozens-of-brand-new-games-and-preorders-discounted/1100-6540018/?ftag=CAD-01-10abi2f",
-        "summary": "Fanatical年度五月促销活动正在进行，持续至5月31日，涵盖数十款全新PC游戏及预购折扣。",
-        "comment": "促销力度不错，适合游戏玩家囤货。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4697702-007.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "深海迷航2",
-        "title": "《深海迷航2》黄金获取位置指南",
-        "link": "https://www.gamespot.com/articles/where-to-find-gold-in-subnautica-2/1100-6540015/?ftag=CAD-01-10abi2f",
-        "summary": "在《深海迷航2》的普罗透斯星球上，玩家需要寻找多种矿物资源，其中黄金是最难找到的之一。本文提供了黄金的具体位置和获取方法。",
-        "comment": "实用攻略，对新手玩家很有帮助。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4697656-66fdc7e20fc6503847fa184dbcd0807e.jpg",
-        "score": 89
       }
     ]
   }
