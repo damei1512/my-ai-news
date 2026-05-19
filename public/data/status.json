@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-19T09:46:58Z",
+  "finished_at": "2026-05-19T15:25:36Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,7 +23,7 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 42,
+    "items": 43,
     "accounts": 15,
     "account_statuses": [
       {
@@ -199,7 +199,7 @@
         "handle": "perplexity_ai",
         "name": "Perplexity",
         "status": "success",
-        "items_fetched": 1,
+        "items_fetched": 2,
         "active_url": "https://rsshub-boost.23751.net/twitter/user/perplexity_ai",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/perplexity_ai"
