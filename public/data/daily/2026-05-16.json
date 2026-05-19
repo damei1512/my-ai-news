@@ -4,53 +4,33 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "ArXiv",
-        "title": "ArXiv将禁止完全由AI撰写的论文作者一年",
-        "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-        "summary": "预印本平台ArXiv加强监管，对在科学论文中滥用大型语言模型的行为实施更严格处罚，违规作者将被禁投一年。",
-        "comment": "学术诚信需坚守，AI辅助应有度。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI与马耳他合作向全体公民提供ChatGPT Plus",
         "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-        "summary": "OpenAI与马耳他政府合作，为所有公民提供ChatGPT Plus订阅及AI技能培训，旨在提升全民AI素养与负责任使用能力。",
-        "comment": "国家层面普及AI工具，具有标杆意义。",
+        "summary": "OpenAI与马耳他政府合作，为所有公民提供ChatGPT Plus访问权限及AI技能培训，旨在提升全民AI素养与负责任使用能力。",
+        "comment": "国家层面普及AI工具，具有示范意义。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI",
+        "tag": "人工智能",
         "title": "AI淘金热中的赢家与输家",
         "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-        "summary": "当前AI热潮的氛围并不乐观，即使在科技行业内部，也出现了明显的分化与不安。",
-        "comment": "繁荣表象下暗藏隐忧。",
+        "summary": "当前AI热潮的氛围并不乐观，即使在科技行业内部，也出现了明显的分化。",
+        "comment": "AI发展加剧了行业内部的不平等。",
         "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "地狱男爵",
-        "title": "《地狱男爵》百部漫画合集出版，米格诺拉亲笔创作",
-        "link": "https://www.gamespot.com/articles/this-giant-hellboy-collection-includes-over-100-comics-written-and-illustrated-by-mike-mignola/1100-6539968/?ftag=CAD-01-10abi2f",
-        "summary": "GameSpot报道，知名漫画作家兼插画家迈克·米格诺拉创作的《地狱男爵》系列，将推出包含100多部漫画的巨型合集，涵盖其亲自编写和绘制的作品。",
-        "comment": "粉丝收藏必备，米格诺拉亲笔作品集大成。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4696789-hbcollect.jpg",
-        "score": 92
+        "score": 99
       },
       {
         "category": "数码科技",
         "tag": "华为",
-        "title": "华为Mate X7官方降价1000元，Anthropic估值超OpenAI",
+        "title": "华为Mate X7降价1000元，Anthropic估值超OpenAI",
         "link": "https://www.ifanr.com/1666116?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "郭明錤称苹果扶持Intel制衡台积电，良率目标50%-60%；华为Mate X7官方降价1000元；百度成立模型委员会BMC。",
-        "comment": "华为降价刺激市场，AI估值格局生变。",
+        "summary": "华为Mate X7官方降价1000元；Anthropic估值超越OpenAI；国行Switch正式停服；郭明錤称苹果扶持Intel制衡台积电，良率目标50%-60%；百度成立模型委员会BMC。",
+        "comment": "科技巨头动态密集，市场格局加速重塑。",
         "image": "",
-        "score": 91
+        "score": 92
       }
     ]
   }
