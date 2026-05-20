@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-19T19:55:20Z",
+  "finished_at": "2026-05-20T03:38:15Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,7 +23,7 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 43,
+    "items": 42,
     "accounts": 15,
     "account_statuses": [
       {
@@ -43,7 +43,7 @@
         "handle": "realDonaldTrump",
         "name": "Donald J. Trump",
         "status": "success",
-        "items_fetched": 2,
+        "items_fetched": 1,
         "active_url": "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump"
