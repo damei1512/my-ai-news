@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-20T20:17:55Z",
+  "finished_at": "2026-05-21T03:47:56Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,7 +23,7 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 42,
+    "items": 28,
     "accounts": 15,
     "account_statuses": [
       {
@@ -150,61 +150,61 @@
         "account_id": "satyanadella",
         "handle": "satyanadella",
         "name": "Satya Nadella",
-        "status": "success",
-        "items_fetched": 3,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/satyanadella",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/satyanadella"
         ],
-        "error_message": null
+        "error_message": "empty feed"
       },
       {
         "account_id": "pmarca",
         "handle": "pmarca",
         "name": "Marc Andreessen",
-        "status": "success",
-        "items_fetched": 3,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/pmarca",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/pmarca"
         ],
-        "error_message": null
+        "error_message": "empty feed"
       },
       {
         "account_id": "bindureddy",
         "handle": "bindureddy",
         "name": "Bindu Reddy",
-        "status": "success",
-        "items_fetched": 3,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/bindureddy",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/bindureddy"
         ],
-        "error_message": null
+        "error_message": "empty feed"
       },
       {
         "account_id": "rauchg",
         "handle": "rauchg",
         "name": "Guillermo Rauch",
-        "status": "success",
-        "items_fetched": 3,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/rauchg",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/rauchg"
         ],
-        "error_message": null
+        "error_message": "empty feed"
       },
       {
         "account_id": "perplexity_ai",
         "handle": "perplexity_ai",
         "name": "Perplexity",
-        "status": "success",
-        "items_fetched": 2,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/perplexity_ai",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/perplexity_ai"
         ],
-        "error_message": null
+        "error_message": "empty feed"
       }
     ]
   },

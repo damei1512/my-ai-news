@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Codex",
-        "title": "数据科学团队如何利用Codex提升工作效率",
+        "tag": "人工智能",
+        "title": "数据科学团队如何使用Codex",
         "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-        "summary": "OpenAI展示了数据科学团队如何使用Codex从实际工作输入中构建根因简报、影响报告、KPI备忘录、范围分析和仪表盘规范。",
-        "comment": "Codex正将AI从对话工具升级为数据工作流核心引擎。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "ChatGPT为美国Pro用户推出个人理财体验",
-        "link": "https://openai.com/index/personal-finance-chatgpt",
-        "summary": "OpenAI为美国ChatGPT Pro用户预览新个人理财功能，可安全连接金融账户，获取基于AI的洞察与指导。",
-        "comment": "AI理财助手落地，但隐私与合规仍是关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "销售团队如何利用Codex提升工作效率",
-        "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-        "summary": "本文展示了销售团队如何利用Codex从实际工作输入中创建管道简报、会议准备包、预测审查、客户计划和停滞交易诊断。",
-        "comment": "AI工具正深度融入销售流程，提升效率。",
+        "summary": "本文展示了数据科学团队如何利用Codex从实际工作输入中构建根本原因简报、影响报告、KPI备忘录、范围分析和仪表盘规范。",
+        "comment": "Codex为数据科学工作流提供了高效自动化工具。",
         "image": "",
         "score": 100
       },
@@ -37,8 +17,18 @@
         "tag": "人工智能",
         "title": "Databricks将GPT-5.5引入企业智能体工作流",
         "link": "https://openai.com/index/databricks",
-        "summary": "Databricks采用GPT-5.5构建企业智能体工作流，该模型在OfficeQA Pro基准测试中创下新纪录。",
+        "summary": "Databricks在企业智能体工作流中采用GPT-5.5，该模型在OfficeQA Pro基准测试上创下新纪录。",
         "comment": "企业级AI应用再获突破，GPT-5.5性能领先。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "ChatGPT为美国Pro用户推出个人理财体验",
+        "link": "https://openai.com/index/personal-finance-chatgpt",
+        "summary": "OpenAI预览ChatGPT新个人理财功能，面向美国Pro用户，可安全连接金融账户，获取基于AI的洞察与指导。",
+        "comment": "AI金融助手落地，隐私与合规是关键挑战。",
         "image": "",
         "score": 100
       }

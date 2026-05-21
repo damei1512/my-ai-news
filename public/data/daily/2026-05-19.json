@@ -4,71 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌在IO 2026宣布全面进军AI设计领域",
-        "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-        "summary": "谷歌表示其AI设计工具面向所有人，从教师到小企业主，旨在降低使用门槛。",
-        "comment": "谷歌正式加入AI设计工具竞争，意图明确。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Google",
-        "title": "Google IO 2026：Gmail 新增语音对话搜索功能",
-        "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-        "summary": "Google 在 IO 2026 上扩展 Gmail 的 AI 收件箱，引入对话式语音搜索，用户可通过 Gemini 查找深埋邮件中的细节。",
-        "comment": "语音搜索让邮件查找更自然，但隐私与准确度仍是挑战。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌推出AI信息代理，主动监控并推送更新",
-        "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-        "summary": "谷歌发布AI驱动的“信息代理”，可在后台监控主题，主动向用户推送更新和变化，超越传统搜索模式。",
-        "comment": "从被动搜索到主动推送，AI代理将重塑信息获取方式。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI 启动新加坡多年期 AI 合作计划",
+        "title": "OpenAI启动新加坡AI合作计划",
         "link": "https://openai.com/index/introducing-openai-for-singapore",
-        "summary": "OpenAI 宣布与新加坡建立多年期 AI 合作伙伴关系，旨在扩大 AI 部署、培养本地人才，并支持企业和公共服务应用 AI。",
-        "comment": "新加坡成为 OpenAI 亚洲战略的关键节点。",
+        "summary": "OpenAI宣布与新加坡建立多年AI合作伙伴关系，旨在扩大AI部署、培养本地人才，并支持企业和公共服务应用AI技术。",
+        "comment": "OpenAI加速亚太布局，新加坡成关键枢纽。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "OpenAI推进AI内容溯源，提升安全与透明度",
+        "title": "OpenAI推进内容溯源，构建更安全透明的AI生态系统",
         "link": "https://openai.com/index/advancing-content-provenance",
-        "summary": "OpenAI通过Content Credentials、SynthID及验证工具，推进AI内容溯源技术，帮助用户识别和信任AI生成媒体。",
-        "comment": "此举强化了AI内容可信度，但实际效果待观察。",
+        "summary": "OpenAI推出内容凭证、SynthID和验证工具，推进AI内容溯源，帮助用户识别和信任AI生成的媒体内容。",
+        "comment": "内容溯源是AI信任的关键一步。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
-        "tag": "SpaceX",
-        "title": "SpaceX将成马斯克旗下第二家上市公司；京东等成立10亿股权基金",
-        "link": "https://36kr.com/p/3816109626138119?f=rss",
-        "summary": "圆通速递4月快递收入60.71亿元，同比增长5.49%；B站一季度营收74.7亿元，日均活跃用户1.15亿。",
-        "comment": "SpaceX上市将重塑航天商业格局。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
         "tag": "谷歌",
-        "title": "谷歌用AI「杀死」谷歌，发布会新品密集",
+        "title": "谷歌用AI革新自身，发布会新品密集亮相",
         "link": "https://www.ifanr.com/1666329?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "谷歌发布Gemini 3.5、Agent产品和视频模型，AI战略全面升级，引发行业关注。",
-        "comment": "谷歌自我革命，AI产品矩阵加速落地。",
+        "summary": "谷歌发布Gemini 3.5、Agent产品和视频模型，AI技术全面升级，引发行业关注。",
+        "comment": "谷歌自我革命，AI竞争白热化。",
         "image": "",
         "score": 93
       },
@@ -77,7 +37,7 @@
         "tag": "腾讯",
         "title": "体验腾讯Marvis助手：个人AI的尽头是操作系统",
         "link": "https://www.ifanr.com/1666242?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "腾讯发布Marvis助手，让PC真正开始理解人，标志着个人AI向操作系统演进。",
+        "summary": "腾讯发布Marvis助手，让PC真正开始理解用户，标志着个人AI向操作系统演进。",
         "comment": "AI助手正从工具升级为系统级交互入口。",
         "image": "",
         "score": 92
@@ -87,8 +47,8 @@
         "tag": "苹果",
         "title": "苹果WWDC剧透：折叠iPhone与AI准备就绪",
         "link": "https://www.ifanr.com/1666255?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果WWDC将于6月9日举行，预计将展示折叠iPhone和AI相关进展，为未来产品布局。",
-        "comment": "苹果加速折叠屏与AI融合，创新节奏加快。",
+        "summary": "6月9日苹果WWDC将召开，预计展示折叠iPhone和苹果AI的最新进展，为未来产品线做足技术准备。",
+        "comment": "折叠屏与AI双线并进，苹果生态再升级。",
         "image": "",
         "score": 92
       },
@@ -97,18 +57,8 @@
         "tag": "宝马",
         "title": "宝马发布六缸新车：手工铝壳六出排气",
         "link": "https://www.ifanr.com/1666178?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "宝马复古家族新成员，采用全手工铝制外壳和六出排气设计，排量同步提升。",
-        "comment": "手工工艺与性能升级兼具，复古风潮再添力作。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "宝马Z4",
-        "title": "最后一辆宝马Z4下线，BBA双座敞篷跑车终结",
-        "link": "https://www.ifanr.com/1665941?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "宝马Z4最后一辆下线，标志着BBA双座敞篷跑车时代落幕，经典车型告别市场。",
-        "comment": "燃油跑车时代终结，电动化转型加速。",
+        "summary": "宝马推出复古风格六缸新车，采用全手工铝制外壳和六出排气设计，排量同步提升。",
+        "comment": "手工工艺与复古设计结合，彰显品牌高端定位。",
         "image": "",
         "score": 91
       }
