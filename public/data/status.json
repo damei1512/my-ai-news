@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-21T09:48:53Z",
+  "finished_at": "2026-05-21T15:34:03Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,20 +23,20 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 3,
+    "items": 0,
     "accounts": 15,
     "account_statuses": [
       {
         "account_id": "elonmusk",
         "handle": "elonmusk",
         "name": "Elon Musk",
-        "status": "success",
-        "items_fetched": 3,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/elonmusk",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/elonmusk"
         ],
-        "error_message": null
+        "error_message": "empty feed"
       },
       {
         "account_id": "realdonaldtrump",
@@ -48,7 +48,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": "empty feed"
       },
       {
         "account_id": "sama",
@@ -72,7 +72,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/gdb"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "openai",
@@ -84,7 +84,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/OpenAI"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "karpathy",
@@ -108,7 +108,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/AnthropicAI"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "googledeepmind",
@@ -120,7 +120,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "ylecun",

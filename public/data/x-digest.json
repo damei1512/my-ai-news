@@ -1,88 +1,19 @@
 {
-  "generated_at": "2026-05-21T09:48:53Z",
-  "total": 3,
-  "items": [
-    {
-      "account_id": "elonmusk",
-      "handle": "elonmusk",
-      "author_name": "Elon Musk",
-      "role": "xAI / Tesla / SpaceX",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
-      "original_text": "Try Composer 2.5 BridgeMind: New CursorBench results just dropped. Two big takeaways. Composer 2.5 is way better than most people think. 63.2% score at $0.55 per task. Nearly matching Opus 4.7 Max and GPT 5.5 Extra High at 20x less cost. This is insane value. Gemini 3.5 Flash is #10 at 49.8%.",
-      "zh_text": "试试 Composer 2.5 BridgeMind：新的 CursorBench 结果刚刚出炉。两大要点。Composer 2.5 比大多数人想象的要好得多。每项任务 0.55 美元，得分 63.2%。以 20 倍更低的成本，几乎与 Opus 4.7 Max 和 GPT 5.5 Extra High 持平。这性价比太疯狂了。Gemini 3.5 Flash 以 49.8% 排名第 10。",
-      "commentary": "",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HIxGTqQWsAArZI4?format=jpg&name=orig"
-      ],
-      "image_urls": [
-        "https://pbs.twimg.com/media/HIxGTqQWsAArZI4?format=jpg&name=orig"
-      ],
-      "video_urls": [],
-      "media_note": "",
-      "url": "https://x.com/elonmusk/status/2057374408918945882",
-      "canonical_url": "https://x.com/elonmusk/status/2057374408918945882",
-      "published_at": "Thu, 21 May 2026 08:14:17 GMT",
-      "published_date": "2026-05-21",
-      "kind": "post",
-      "score": 98
-    },
-    {
-      "account_id": "elonmusk",
-      "handle": "elonmusk",
-      "author_name": "Elon Musk",
-      "role": "xAI / Tesla / SpaceX",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
-      "original_text": "Something is deeply wrong Libs of TikTok: Reuters stories on Henry Nowak: 0 Reuters stories on George Floyd: 1,087 Do you see what’s happening?",
-      "zh_text": "有些地方严重不对劲，Libs of TikTok：路透社关于亨利·诺瓦克的报道：0 篇，路透社关于乔治·弗洛伊德的报道：1,087 篇。你看到正在发生什么了吗？",
-      "commentary": "",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HIyWmUxWYAAe_qG?format=jpg&name=orig"
-      ],
-      "image_urls": [
-        "https://pbs.twimg.com/media/HIyWmUxWYAAe_qG?format=jpg&name=orig"
-      ],
-      "video_urls": [],
-      "media_note": "",
-      "url": "https://x.com/elonmusk/status/2057361980780871960",
-      "canonical_url": "https://x.com/elonmusk/status/2057361980780871960",
-      "published_at": "Thu, 21 May 2026 07:24:54 GMT",
-      "published_date": "2026-05-21",
-      "kind": "post",
-      "score": 98
-    },
-    {
-      "account_id": "elonmusk",
-      "handle": "elonmusk",
-      "author_name": "Elon Musk",
-      "role": "xAI / Tesla / SpaceX",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
-      "original_text": "Tips for using Grok Build Yun-Ta Tsai: If you are managing multiple machines across clusters and farms, you could ask Grok Build to spin off a sub-agent SSH tunnel into the machines while interacting with tmux sessions for you. Thanks to @skcd42 for the tips. Now I can fully live inside the main Grok Build instance",
-      "zh_text": "使用Grok Build的提示（蔡昀达）：如果你正在跨集群和服务器群管理多台机器，你可以让Grok Build生成一个子代理，通过SSH隧道进入这些机器，同时为你与tmux会话进行交互。感谢@skcd42提供的提示。现在我可以完全生活在主Grok Build实例中了。",
-      "commentary": "",
-      "media_urls": [],
-      "image_urls": [],
-      "video_urls": [],
-      "media_note": "",
-      "url": "https://x.com/elonmusk/status/2057346643398128079",
-      "canonical_url": "https://x.com/elonmusk/status/2057346643398128079",
-      "published_at": "Thu, 21 May 2026 06:23:58 GMT",
-      "published_date": "2026-05-21",
-      "kind": "post",
-      "score": 98
-    }
-  ],
+  "generated_at": "2026-05-21T15:34:03Z",
+  "total": 0,
+  "items": [],
   "accounts": [
     {
       "account_id": "elonmusk",
       "handle": "elonmusk",
       "name": "Elon Musk",
-      "status": "success",
-      "items_fetched": 3,
-      "active_url": "https://rsshub-boost.23751.net/twitter/user/elonmusk",
+      "status": "fetch_error",
+      "items_fetched": 0,
+      "active_url": null,
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/elonmusk"
       ],
-      "error_message": null
+      "error_message": "empty feed"
     },
     {
       "account_id": "realdonaldtrump",
@@ -94,7 +25,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump"
       ],
-      "error_message": "text/html; charset=UTF-8 is not an XML media type"
+      "error_message": "empty feed"
     },
     {
       "account_id": "sama",
@@ -118,7 +49,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/gdb"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "openai",
@@ -130,7 +61,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/OpenAI"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "karpathy",
@@ -154,7 +85,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/AnthropicAI"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "googledeepmind",
@@ -166,7 +97,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "ylecun",
