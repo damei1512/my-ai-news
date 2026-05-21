@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "xAI",
-        "title": "xAI去年亏损64亿美元，SpaceX IPO文件揭示支出远未结束",
-        "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-        "summary": "SpaceX的IPO文件首次公开了xAI的财务状况：2025年亏损64亿美元，同时计划大规模扩展Grok模型。文件还提供了更多细节，显示其高昂投入仍在持续。",
-        "comment": "xAI烧钱速度惊人，但Grok扩张计划表明马斯克押注未减。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达再创季度营收纪录，披露持有初创公司430亿美元",
-        "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-        "summary": "英伟达周三盘后公布又一创纪录营收，但预测下一季度收入增长将放缓。",
-        "comment": "增长放缓信号值得关注，但持仓规模显示其生态布局深远。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "马斯克xAI因数据中心发电机被诉，再购28亿美元燃气轮机",
-        "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-        "summary": "据SpaceX IPO文件，马斯克的xAI称未来三年将购买价值28亿美元的天然气涡轮机，此前因数据中心发电机问题被起诉。",
-        "comment": "AI算力扩张背后的能源争议持续升级。",
+        "title": "OpenAI推进国家教育计划，扩大AI在学校应用",
+        "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+        "summary": "OpenAI推进国家教育计划，通过新合作伙伴关系、教师培训和工具，扩大AI在学校中的应用，以改善全球学习成果。",
+        "comment": "AI教育落地需平衡技术赋能与伦理风险。",
         "image": "",
         "score": 100
       },
@@ -37,48 +17,28 @@
         "tag": "人工智能",
         "title": "OpenAI模型推翻离散几何80年猜想",
         "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-        "summary": "OpenAI模型解决了单位距离问题，推翻了离散几何中一项持续80年的核心猜想，标志着AI驱动数学研究的重要里程碑。",
+        "summary": "OpenAI模型解决了80年历史的单位距离问题，推翻离散几何核心猜想，标志AI驱动数学的里程碑。",
         "comment": "AI在数学证明领域取得突破性进展。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "代码审查",
         "title": "Ramp工程师用Codex加速代码审查",
         "link": "https://openai.com/index/ramp",
-        "summary": "Ramp工程师利用OpenAI的Codex与GPT-5.5进行代码审查，将反馈时间从数小时缩短至几分钟，显著提升开发效率。",
-        "comment": "AI辅助代码审查正成为工程效率新标杆。",
+        "summary": "Ramp工程师利用OpenAI Codex与GPT-5.5进行代码审查，将反馈时间从数小时缩短至几分钟，提升开发效率。",
+        "comment": "AI代码审查正从辅助走向核心流程。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI推进国家教育计划，扩大AI在学校应用",
-        "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-        "summary": "OpenAI推进国家教育计划，通过新合作、教师培训和工具扩大AI在学校应用，以改善全球学习成果。",
-        "comment": "AI教育落地需平衡创新与公平。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Clouted获700万美元种子轮，用AI让短视频走红",
-        "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-        "summary": "视频剪辑初创公司Clouted完成700万美元种子轮融资，由Slow Ventures领投，旨在通过AI技术消除短视频制作中的不确定性，帮助内容创作者更高效地制作爆款视频。",
-        "comment": "AI赋能短视频创作，精准解决创作者痛点。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "数码科技",
         "tag": "Google",
-        "title": "Google重塑搜索框，改变50亿人上网习惯",
+        "title": "Google 重塑搜索框，进化 50 亿人的上网习惯",
         "link": "https://www.ifanr.com/1666447?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Google通过整合Gemini技术，对搜索框进行重大升级，旨在提升用户体验，改变数十亿人的上网方式。",
-        "comment": "AI搜索的里程碑，但隐私与准确性仍是挑战。",
+        "summary": "Google 对搜索框进行重大更新，旨在改变数十亿用户的上网习惯，提升搜索体验。",
+        "comment": "搜索巨头的自我革命，AI 整合是关键。",
         "image": "",
         "score": 93
       },
@@ -87,49 +47,9 @@
         "tag": "华为",
         "title": "华为打造全球最薄大平板，内置鸿蒙电脑系统",
         "link": "https://www.ifanr.com/1666491?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为推出全球最薄大平板，硬件设计扎实，系统优化出色，搭载鸿蒙电脑系统，兼顾轻薄与性能。",
+        "summary": "华为推出全球最薄大平板，硬件设计扎实，并搭载鸿蒙电脑系统，实现系统优化与轻薄兼顾。",
         "comment": "轻薄与性能兼得，鸿蒙生态再进一步。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "Google AI更新、华为领跑市场、小米YU7 GT刷新纽北纪录",
-        "link": "https://www.ifanr.com/1666368?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iOS27快捷指令或迎大改版，一句话即可制作；DeepSeek回应模型异常回复；AMD AI开发者大会首次登陆中国，苏妈提出“智能体主机”新品类。",
-        "comment": "科技巨头密集发布，AI与硬件竞争白热化。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Embracer拆分或重启《杀出重围》《时空分裂者》等IP",
-        "link": "https://www.gamespot.com/articles/embracer-could-bring-back-franchises-like-deus-ex-timesplitters/1100-6540070/?ftag=CAD-01-10abi2f",
-        "summary": "Embracer集团宣布2027年拆分为Fellowship Entertainment和Embracer两家公司，前者将保留大部分主要IP，可能重启《杀出重围》《时空分裂者》等经典系列。",
-        "comment": "IP重启有望，但需关注执行细节。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4698762-legacyofkain.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "新Xbox手柄缺失关键功能，暗示永久性改变",
-        "link": "https://www.gamespot.com/articles/new-xbox-controller-is-missing-one-key-feature-suggesting-a-permanent-change/1100-6540067/?ftag=CAD-01-10abi2f",
-        "summary": "自2013年Xbox One推出以来，微软对Xbox手柄设计进行了细微调整。最新版本的一项改动暗示了永久性变化。",
-        "comment": "微软在逐步简化手柄设计。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15853545/4698760-9250183292-394587762-B_Image-Buy-Box-0_01_2000x2000.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "分裂之门",
-        "title": "《分裂之门2》开发者类《泰坦陨落》新作现身Steam",
-        "link": "https://www.gamespot.com/articles/splitgate-2-devs-titanfall-style-game-pops-up-on-steam/1100-6540068/?ftag=CAD-01-10abi2f",
-        "summary": "《分裂之门》开发商1047 Games的新作意外提前曝光，该游戏风格类似《泰坦陨落》，已出现在Steam平台。",
-        "comment": "意外曝光或为营销策略，类《泰坦陨落》玩法值得期待。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4698748-empulse.jpg",
         "score": 92
       },
       {
@@ -137,19 +57,19 @@
         "tag": "iQOO",
         "title": "iQOO 15T与Pad 6 Pro体验：竞技与沉浸的生态组合",
         "link": "https://www.ifanr.com/1666474?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iQOO推出15T手机和Pad 6 Pro平板，两者组成生态方案，兼顾竞技游戏和沉浸式体验，满足玩家多场景需求。",
-        "comment": "生态协同是亮点，但需看实际体验能否兑现。",
+        "summary": "iQOO推出15T手机和Pad 6 Pro平板，构成兼顾竞技与沉浸体验的生态方案，满足玩家不同场景需求。",
+        "comment": "双设备协同，精准定位游戏与影音用户。",
         "image": "",
         "score": 91
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《极限竞速：地平线6》音效可能触发玩家痛苦回忆",
-        "link": "https://www.gamespot.com/articles/a-forza-horizon-6-sound-effect-might-just-trigger-some-awful-memories-for-you/1100-6540071/?ftag=CAD-01-10abi2f",
-        "summary": "时隔近五年，《极限竞速：地平线6》本周发售，玩家探索日本开放世界时发现某些音效可能唤起不愉快记忆。",
-        "comment": "音效设计巧妙但需注意玩家体验。",
-        "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4698771-forzahorizon6featured.jpg",
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "Google AI更新、华为领跑手机市场、小米YU7 GT刷新纽北纪录",
+        "link": "https://www.ifanr.com/1666368?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Google发布多项AI更新；华为五一假期领跑中国手机市场；小米YU7 GT刷新纽北纪录。iOS27快捷指令或迎大改版，DeepSeek回应模型异常回复，AMD AI开发者大会首次登陆中国。",
+        "comment": "科技巨头密集更新，AI与硬件竞争白热化。",
+        "image": "",
         "score": 91
       },
       {
@@ -157,20 +77,10 @@
         "tag": "vivo",
         "title": "vivo S60系列发布：把星星海握在手里",
         "link": "https://www.ifanr.com/1666399?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "vivo S60系列正式发布，主打星空主题设计，强调用户可握持“星星海”的独特体验。",
-        "comment": "星空设计成卖点，但需看实际体验。",
+        "summary": "vivo S60系列新品发布，主打星空主题设计，强调用户个性表达，将星星海握在手中。",
+        "comment": "设计语言独特，但需关注实际体验。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "时事热点",
-        "tag": "埃博拉",
-        "title": "世卫警告：埃博拉疫苗研发或需九个月，死亡人数上升",
-        "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-        "summary": "世界卫生组织最新更新显示，埃博拉疫情已导致139例疑似死亡和600例病例，疫苗研发可能需要九个月。",
-        "comment": "疫情紧迫，疫苗研发周期过长令人担忧。",
-        "image": "",
-        "score": 88
       }
     ]
   }
