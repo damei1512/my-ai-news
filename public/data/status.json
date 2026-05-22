@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-22T14:47:09Z",
+  "finished_at": "2026-05-22T19:51:58Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,20 +23,20 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 0,
+    "items": 3,
     "accounts": 15,
     "account_statuses": [
       {
         "account_id": "elonmusk",
         "handle": "elonmusk",
         "name": "Elon Musk",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/elonmusk",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/elonmusk"
         ],
-        "error_message": "empty feed"
+        "error_message": null
       },
       {
         "account_id": "realdonaldtrump",
@@ -72,7 +72,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/gdb"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "openai",
@@ -84,7 +84,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/OpenAI"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "karpathy",
@@ -108,7 +108,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/AnthropicAI"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "googledeepmind",
@@ -120,7 +120,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "ylecun",

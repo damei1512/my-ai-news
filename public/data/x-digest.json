@@ -1,19 +1,82 @@
 {
-  "generated_at": "2026-05-22T14:47:09Z",
-  "total": 0,
-  "items": [],
+  "generated_at": "2026-05-22T19:51:58Z",
+  "total": 3,
+  "items": [
+    {
+      "account_id": "elonmusk",
+      "handle": "elonmusk",
+      "author_name": "Elon Musk",
+      "role": "xAI / Tesla / SpaceX",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
+      "original_text": "RT Arthur MacWaters America is unironically the greatest civilization to ever exist. On every axis. And it’s worth celebrating with all the zeal and love of this old Coca Cola commercial 🇺🇸🇺🇸🇺🇸",
+      "zh_text": "转发 Arthur MacWaters：美国毫不讽刺地是有史以来最伟大的文明。在每一个维度上。而且它值得用这则老可口可乐广告中的所有热情和爱来庆祝 🇺🇸🇺🇸🇺🇸",
+      "commentary": "",
+      "media_urls": [],
+      "image_urls": [],
+      "video_urls": [
+        "https://video.twimg.com/amplify_video/2057578858275123200/vid/avc1/1410x1080/eKriq-YyViKR3ZBU.mp4?tag=27"
+      ],
+      "media_note": "",
+      "url": "https://x.com/elonmusk/status/2057847090680631485",
+      "canonical_url": "https://x.com/elonmusk/status/2057847090680631485",
+      "published_at": "Fri, 22 May 2026 15:25:48 GMT",
+      "published_date": "2026-05-22",
+      "kind": "post",
+      "score": 98
+    },
+    {
+      "account_id": "elonmusk",
+      "handle": "elonmusk",
+      "author_name": "Elon Musk",
+      "role": "xAI / Tesla / SpaceX",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
+      "original_text": "RT SpaceX Watch Starship's twelfth flight test https://x.com/i/broadcasts/1pKkOykQRgNKj",
+      "zh_text": "转发 SpaceX 观看星舰第十二次飞行测试 https://x.com/i/broadcasts/1pKkOykQRgNKj",
+      "commentary": "",
+      "media_urls": [],
+      "image_urls": [],
+      "video_urls": [],
+      "media_note": "该动态可能包含 X 原生媒体，当前 RSS 未提供视频文件，请打开原帖观看。",
+      "url": "https://x.com/elonmusk/status/2057846756453277791",
+      "canonical_url": "https://x.com/elonmusk/status/2057846756453277791",
+      "published_at": "Fri, 22 May 2026 15:19:33 GMT",
+      "published_date": "2026-05-22",
+      "kind": "post",
+      "score": 98
+    },
+    {
+      "account_id": "elonmusk",
+      "handle": "elonmusk",
+      "author_name": "Elon Musk",
+      "role": "xAI / Tesla / SpaceX",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
+      "original_text": "Try it out! Eyad Kelleh: Spent the whole night in Composer 2.Spent the whole night in Composer 2.5, just waking up now and honestly, hard to go back. The pace this thing moves at is something else. Same outputs as Codex and Opus, but way faster. Someone explain @cursor_ai ?",
+      "zh_text": "试试看！Eyad Kelleh：在Composer 2里熬了一整夜。在Composer 2.5里熬了一整夜，刚醒，老实说，很难回到过去。这东西的速度非同一般。输出和Codex、Opus一样，但快得多。谁来解释一下@cursor_ai？",
+      "commentary": "",
+      "media_urls": [],
+      "image_urls": [],
+      "video_urls": [],
+      "media_note": "",
+      "url": "https://x.com/elonmusk/status/2057842724649209878",
+      "canonical_url": "https://x.com/elonmusk/status/2057842724649209878",
+      "published_at": "Fri, 22 May 2026 15:15:13 GMT",
+      "published_date": "2026-05-22",
+      "kind": "post",
+      "score": 98
+    }
+  ],
   "accounts": [
     {
       "account_id": "elonmusk",
       "handle": "elonmusk",
       "name": "Elon Musk",
-      "status": "fetch_error",
-      "items_fetched": 0,
-      "active_url": null,
+      "status": "success",
+      "items_fetched": 3,
+      "active_url": "https://rsshub-boost.23751.net/twitter/user/elonmusk",
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/elonmusk"
       ],
-      "error_message": "empty feed"
+      "error_message": null
     },
     {
       "account_id": "realdonaldtrump",
@@ -49,7 +112,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/gdb"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "openai",
@@ -61,7 +124,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/OpenAI"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "karpathy",
@@ -85,7 +148,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/AnthropicAI"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "googledeepmind",
@@ -97,7 +160,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "ylecun",
