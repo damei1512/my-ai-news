@@ -4,71 +4,41 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "马斯克",
-        "title": "马斯克放弃地球太阳能，转向天然气与轨道数据中心",
-        "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-        "summary": "马斯克的xAI全力押注天然气，SpaceX则痴迷于轨道数据中心。他曾经承诺的“太阳能电力经济”发生了什么？",
-        "comment": "理想主义让位于商业现实，能源转型路径生变。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
         "title": "法拉利利用IBM AI打造F1超级粉丝体验",
         "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-        "summary": "IBM与法拉利F1车队合作，通过AI技术重新定义粉丝互动体验，提升观赛参与感与个性化服务。",
-        "comment": "AI赋能体育营销，精准提升粉丝黏性。",
+        "summary": "IBM与法拉利F1车队合作，通过AI技术重新定义粉丝体验，提供个性化互动与数据分析，提升观赛参与度。",
+        "comment": "AI正重塑体育粉丝经济，法拉利此举是精准营销的典范。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "马斯克",
+        "title": "马斯克放弃地球太阳能，转向天然气与轨道数据中心",
+        "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+        "summary": "xAI全力投入天然气，SpaceX专注轨道数据中心，马斯克曾承诺的“太阳能电力经济”被搁置。",
+        "comment": "理想让位于现实，能源战略转向务实。",
         "image": "",
         "score": 99
       },
       {
         "category": "数码科技",
         "tag": "AI产品",
-        "title": "圆桌对话：下一个杀手级AI产品将出现在哪个赛道",
+        "title": "圆桌对话：下一个杀手级AI产品赛道在哪",
         "link": "https://36kr.com/p/3821714896408713?f=rss",
-        "summary": "下一个杀手级AI产品是眼镜、Agent还是物理世界入口？圆桌共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为百亿级赛道。",
-        "comment": "入口之争已打响，硬件与生态需协同。",
+        "summary": "下一个杀手级AI产品是眼镜、Agent还是物理世界入口？圆桌达成共识：单纯套壳大模型应用注定短命，只有长期在线、连接物理世界、完成真实交互闭环的产品才可能成为百亿级赛道。",
+        "comment": "入口之争已打响，套壳应用无出路。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
         "tag": "AI人才",
-        "title": "AI产业大会：未来最稀缺的是懂业务的人",
+        "title": "圆桌对话：AI进入产业前线，未来最稀缺人才是谁",
         "link": "https://36kr.com/p/3821542483857801?f=rss",
-        "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？一个反直觉的判断——懂AI正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复工作最易被AI替代，但在打造爆品、建立品牌等低频高影响力决策上，人的判断不可替代。企业AI转型最大卡点不是技术或数据，而是想不到应用场景。",
-        "comment": "AI贬值，业务判断力才是稀缺资产。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "百川智能",
-        "title": "王小川谈百川智能转型：All in医疗大模型",
-        "link": "https://36kr.com/p/3821521291038856?f=rss",
-        "summary": "王小川表示，百川智能从通用大模型转向医疗大模型，是回归创业初心，造AI医生。尽管行业热闹，但转型让他摆脱焦虑。",
-        "comment": "医疗垂直赛道或成AI新突破口。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "机器人芯片",
-        "title": "北大孵化机器人芯片企业维泛智能获数亿元种子轮融资",
-        "link": "https://36kr.com/p/3821371042877575?f=rss",
-        "summary": "维泛智能完成数亿元种子轮融资，由中关村资本等领投，公司孵化自北大类脑芯片实验室，专注具身智能“大小脑”融合芯片研发。",
-        "comment": "类脑芯片赛道再获资本加码，具身智能硬件突破值得关注。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "Moka推出三款AI HR工具，覆盖招聘、人事与人才管理",
-        "link": "https://36kr.com/p/3819979202253189?f=rss",
-        "summary": "Moka作为AI人力资源软件服务商，从招聘管理系统扩展至完整HR系统，5月上线招聘Eva、人事Eva和BPEva三款产品，分别覆盖招聘全流程、重复事务处理和人才画像动态更新。",
-        "comment": "AI正从单一环节渗透到HR全链条管理。",
+        "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？一个反直觉的判断——懂AI正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复工作最易被AI替代，但在打造爆品、建立品牌等低频高影响力决策上，人的判断不可替代。企业AI转型最大卡点不是技术或数据，而是“想不到应用场景”。当前AI利润大头仍在基础设施层，应用端ROI尚未显现。",
+        "comment": "AI人才价值转向业务判断，应用场景想象力成关键瓶颈。",
         "image": "",
         "score": 97
       },
@@ -78,69 +48,49 @@
         "title": "AI原生人才与产业老炮共生手册",
         "link": "https://36kr.com/p/3821533415985283?f=rss",
         "summary": "圆桌探讨企业招AI人才的焦虑、通过黑客松内部挖掘人才的方法，以及事业留人、文化留人的留存策略，指出仅1%企业为AI原生，20%积极转型。",
-        "comment": "实战手册聚焦转型企业的人才痛点与解法。",
+        "comment": "实战经验比理论更重要，内部挖潜是破局关键。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "王小川谈转型：All in医疗大模型，造AI医生",
+        "link": "https://36kr.com/p/3821521291038856?f=rss",
+        "summary": "王小川表示，百川智能大幅缩减通用模型团队，关闭金融等多条行业线，全面转向医疗大模型，这让他回归创业初心：造AI医生。",
+        "comment": "医疗赛道或成AI创业新突破口。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "机器人芯片",
+        "title": "北大孵化机器人芯片企业维泛智能获数亿元融资",
+        "link": "https://36kr.com/p/3821371042877575?f=rss",
+        "summary": "维泛智能完成数亿元种子轮融资，由中关村资本等领投，公司孵化自北京大学类脑芯片实验室，专注具身智能芯片研发。",
+        "comment": "类脑芯片赛道再获资本加码，技术落地前景可期。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "AI浓度与转化率：数字体验的实战增长法则",
+        "link": "https://36kr.com/p/3821519307591811?f=rss",
+        "summary": "AI浓度并非越高越好，转化率关键在于人机共生平衡。针对亲子游客和老年群体，将AI浓度降至50%可实现超50%转化率，强调以人为本、文化温度先行。",
+        "comment": "AI应用需因地制宜，人性化设计比技术堆砌更有效。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "AI",
-        "title": "AI浓度与转化率：数字体验的人机共生法则",
-        "link": "https://36kr.com/p/3821519307591811?f=rss",
-        "summary": "圆桌对话指出AI浓度并非越高越好，亲子游客和老年群体中，将AI浓度降至50%可实现超50%转化率，关键在于以人为本、文化温度先行。",
-        "comment": "AI应用需精准匹配场景，而非盲目堆砌。",
+        "title": "Moka推出三款AI HR工具，覆盖招聘、人事与人才画像",
+        "link": "https://36kr.com/p/3819979202253189?f=rss",
+        "summary": "Moka作为AI人力资源软件服务商，从招聘管理系统起步，现扩展至完整HR系统。5月上线招聘Eva、人事Eva和BPEva三款AI产品，分别覆盖招聘全流程、重复事务处理和人才画像动态更新。",
+        "comment": "AI正从招聘切入，重塑HR全链路效率。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "黎明杀机",
-        "title": "《黎明杀机》确认杰森·沃赫斯为新杀手，玩家反应激烈",
-        "link": "https://www.ign.com/articles/dead-by-daylight-players-react-after-traumatizing-cabin-stream-confirms-jason-voorhees-as-new-killer",
-        "summary": "开发商Behaviour Interactive在长达13小时的直播后，正式宣布《黎明杀机》将加入杰森·沃赫斯作为新杀手，玩家等待了10年之久。",
-        "comment": "经典恐怖角色加盟，粉丝情怀与游戏热度双赢。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/23/dead-by-daylight-jason-1779559537807.png",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "黑袍纠察队",
-        "title": "《黑袍纠察队》演员安东尼·斯塔尔发剧透照告别祖国人",
-        "link": "https://www.ign.com/articles/the-boys-actor-antony-starr-says-goodbye-to-homelander-with-spoiler-heavy-behind-the-scenes-photos",
-        "summary": "随着《黑袍纠察队》完结，演员安东尼·斯塔尔在Instagram上发布大量剧透幕后照，正式告别其饰演的祖国人角色。",
-        "comment": "剧透照引发粉丝热议，告别意味浓厚。",
-        "image": "https://assets-prd.ignimgs.com/2023/12/04/homelander-blogroll-1701719364218.png",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "天国：拯救",
-        "title": "《天国：拯救》开发商确认新作为开放世界RPG，下财年发布",
-        "link": "https://www.ign.com/articles/kingdom-come-dev-confirms-next-installment-is-an-open-world-rpg-set-to-launch-next-fiscal-year",
-        "summary": "Warhorse Studios确认其下一款《天国：拯救》游戏将是“开放世界RPG”，预计在下一个财年推出。",
-        "comment": "续作延续开放世界路线，值得期待。",
-        "image": "https://assets-prd.ignimgs.com/2025/02/03/kcd2-review-blogroll-1738560654844.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "《生化危机》导演称照搬游戏剧情会让粉丝失望",
-        "link": "https://www.ign.com/articles/resident-evil-movie-director-says-fans-would-be-bummed-if-he-just-did-the-story-of-the-games",
-        "summary": "《生化危机》电影导演扎克·克雷格回应粉丝期待，表示完全照搬游戏剧情并非最佳选择，他有充分理由讲述自己的故事。",
-        "comment": "改编需平衡粉丝期待与创作自由。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/28/residentevil-thumb-1777417521520.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影",
-        "title": "杰斯·弗兰科两部经典影片获4K修复版评测",
-        "link": "https://www.ign.com/articles/vampyros-lesbos-she-killed-in-ecstasy-review-jess-franco-soledad-miranda",
-        "summary": "IGN发布《吸血鬼莱斯博斯》与《狂喜杀戮》4K修复版评测，称赞其画质惊艳，是杰斯·弗兰科电影作品的重要呈现。",
-        "comment": "4K修复让邪典经典焕发新生。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/18/soledadtimestwoa-1779142285788.jpg",
-        "score": 94
       },
       {
         "category": "游戏影视",
@@ -148,37 +98,37 @@
         "title": "《黎明杀机》终于加入玩家期待已久的杰森·沃赫斯",
         "link": "https://www.gamespot.com/articles/dead-by-daylight-finally-adds-the-slasher-everyones-been-waiting-for/",
         "summary": "《黎明杀机》将加入《十三号星期五》中的杰森·沃赫斯。这款4v1非对称恐怖游戏拥有堪比Funko Pop收藏架的恶棍与怪物画廊。",
-        "comment": "经典恐怖角色联动，进一步丰富游戏内容。",
+        "comment": "经典恐怖角色加盟，游戏吸引力再升级。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/05/3705754-jasonvoorhees.jpg?w=300",
         "score": 93
       },
       {
         "category": "数码科技",
         "tag": "吉利",
-        "title": "吉利银河星耀7 MAX双电机四驱10万元级上市",
+        "title": "吉利银河星耀7 MAX双电机四驱10万元级",
         "link": "https://www.ifanr.com/1666802?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "吉利银河星耀7 MAX以10万元级价格搭载双电机四驱系统，旨在提升通勤体验，给同级车型带来竞争压力。",
-        "comment": "性价比突出，四驱普及化信号明显。",
+        "summary": "吉利银河星耀7 MAX以10万元级价格提供双电机四驱，提升通勤冗余与驾驶体验。",
+        "comment": "性价比突出，或重塑入门四驱市场格局。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "手机降价",
-        "title": "国产手机618前集体降价，微信解释2分钟内可撤回",
-        "link": "https://www.ifanr.com/1666843?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "国产手机在618前集体降价促销；微信官方解释消息2分钟内可撤回功能；医保不再支持购买智能手表。",
-        "comment": "科技消费与政策调整同步，用户需留意变化。",
-        "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "战锤",
         "title": "战锤颅骨节十周年发布会多款新作亮相",
         "link": "https://www.gcores.com/radios/214516",
-        "summary": "本期核周报涵盖战锤颅骨节十周年发布会多款新作、英灵神殿首席设计师新作Starpath公开、战马工作室两款新作开发中、SE游戏竞赛、Steam标签更新、索尼State of Play定档6月3日及PS Plus涨价、任天堂手游等要闻。",
-        "comment": "游戏影视资讯密集，战锤与索尼动态值得关注。",
+        "summary": "本周要闻包括战锤颅骨节十周年发布会多款新作亮相，《英灵神殿》首席设计师新作《Starpath》公开，战马工作室确认开发两款新作，SE举办游戏竞赛，Steam更新标签，索尼State of Play发布会6月3日举行，PS Plus新用户价格上调，任天堂手游揭晓。",
+        "comment": "战锤IP持续发力，游戏行业动态密集。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏影视",
+        "title": "西区杰克攀废都：远星物语新作EA人气高",
+        "link": "https://www.gcores.com/radios/214906",
+        "summary": "本期节目介绍《远星物语》开发组新作EA阶段人气高，以及独特设定种田游戏《Besmirch》获100%好评，值得关注。",
+        "comment": "EA阶段高人气需谨慎，种田游戏全好评值得一试。",
         "image": "",
         "score": 91
       },
@@ -187,60 +137,30 @@
         "tag": "刺客信条",
         "title": "《刺客信条：黑旗》重制版确认保留醉酒加载画面",
         "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-confirmed-to-feature-drunk-load-screen-after-ubisoft-post-confuses-fans",
-        "summary": "育碧确认《刺客信条：黑旗》重制版仍将包含爱德华·肯威在Animus加载画面中醉酒摇晃的经典场景，此前官方帖子曾引发玩家担忧。",
+        "summary": "育碧确认《刺客信条：黑旗》重制版仍将保留爱德华·肯威在Animus加载画面中醉酒摇晃的经典场景，此前官方帖子曾引发玩家担忧。",
         "comment": "经典彩蛋保留，玩家可以放心了。",
         "image": "https://assets-prd.ignimgs.com/2026/05/23/assassins-creed-black-flag-resynced-1779576150195.png",
         "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "手机降价",
+        "title": "国产手机618前集体降价，微信解释2分钟内可撤回",
+        "link": "https://www.ifanr.com/1666843?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "国产手机在618前集体降价促销；微信官方解释消息2分钟内可撤回功能；医保局规定买智能手表不再能用医保支付。",
+        "comment": "科技消费与政策调整同步，用户需留意规则变化。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "PS4",
         "title": "用5款游戏代表PS4时代，机核播客盘点推荐",
         "link": "https://www.gcores.com/radios/214898",
-        "summary": "机核播客节目音频版，主播Nadya、西蒙、Ryoma讨论PS4生命末期，选出5款代表该平台的好游戏，并分享体验与观点。",
-        "comment": "PS4时代经典回顾，选品值得玩家参考。",
+        "summary": "机核播客节目音频版，主播Nadya、西蒙、Ryoma讨论PS4生命末期，选出5款代表该平台的好游戏，并附视频版链接。",
+        "comment": "怀旧盘点，适合PS4玩家回顾经典。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏资讯",
-        "title": "机核290期：西区杰克攀废都，游戏资讯与评测",
-        "link": "https://www.gcores.com/radios/214906",
-        "summary": "本期节目讨论《远星物语》开发组新作EA版人气高，以及独特设定种田游戏《Besmirch》获100%好评，值得关注。",
-        "comment": "内容聚焦小众游戏，信息实用但时效性一般。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "加州",
-        "title": "加州因有毒物质泄漏宣布紧急状态",
-        "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-        "summary": "官员警告一个装有约7000加仑甲基丙烯酸甲酯的储罐可能爆炸，数千人已被疏散。",
-        "comment": "泄漏事件凸显工业安全管理漏洞。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "数码优惠",
-        "title": "今日最佳优惠：M5 MacBook Air、AirPods Pro 3等",
-        "link": "https://www.ign.com/articles/best-deals-for-may-23-2026",
-        "summary": "IGN汇总今日热门数码与游戏折扣，涵盖M5 MacBook Air、AirPods Pro 3及《怪物猎人物语3》等商品，为消费者提供最新优惠信息。",
-        "comment": "优惠信息实用，但缺乏独家深度。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/06/macbookair-1775498926608.jpg",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "法国",
-        "title": "法国母亲与伴侣因弃子于葡萄牙路边被拘留候审",
-        "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-        "summary": "这对夫妇涉嫌将女子的儿子遗弃在葡萄牙南部路边，现被拘留直至审判。",
-        "comment": "跨国弃子案引发对父母责任的深刻反思。",
-        "image": "",
-        "score": 86
       }
     ]
   }

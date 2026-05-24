@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-24T13:31:24Z",
+  "finished_at": "2026-05-24T19:21:24Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,7 +23,7 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 29,
+    "items": 33,
     "accounts": 15,
     "account_statuses": [
       {
@@ -48,43 +48,43 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "sama",
         "handle": "sama",
         "name": "Sam Altman",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/sama",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/sama"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "gdb",
         "handle": "gdb",
         "name": "Greg Brockman",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/gdb",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/gdb"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "openai",
         "handle": "OpenAI",
         "name": "OpenAI",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/OpenAI",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/OpenAI"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "karpathy",
@@ -186,25 +186,25 @@
         "account_id": "rauchg",
         "handle": "rauchg",
         "name": "Guillermo Rauch",
-        "status": "success",
-        "items_fetched": 3,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/rauchg",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/rauchg"
         ],
-        "error_message": null
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "perplexity_ai",
         "handle": "perplexity_ai",
         "name": "Perplexity",
-        "status": "success",
-        "items_fetched": 2,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/perplexity_ai",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/perplexity_ai"
         ],
-        "error_message": null
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       }
     ]
   },
