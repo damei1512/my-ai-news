@@ -4,7 +4,7 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI音乐",
+        "tag": "人工智能",
         "title": "Spotify与环球音乐达成协议，允许粉丝制作AI翻唱和混音",
         "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
         "summary": "Spotify与环球音乐集团合作，允许Premium用户使用AI生成歌曲翻唱和混音，参与艺术家将获得收入分成。",
@@ -14,13 +14,23 @@
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "医疗AI",
         "title": "AdventHealth利用OpenAI推进全人护理",
         "link": "https://openai.com/index/adventhealth",
-        "summary": "AdventHealth采用ChatGPT for Healthcare简化工作流程，减轻行政负担，将更多时间归还给患者护理。",
-        "comment": "医疗AI落地案例，聚焦效率提升。",
+        "summary": "AdventHealth采用ChatGPT for Healthcare优化工作流程，减轻行政负担，将更多时间回归患者护理。",
+        "comment": "医疗AI落地，效率提升是关键。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "Take-Two重申GTA 6仍按计划11月发售",
+        "link": "https://www.gamespot.com/articles/no-gta-6-is-not-delayed-again-and-still-set-to-launch-this-november/",
+        "summary": "Take-Two在2026财年业绩简报中再次确认，《侠盗猎车手VI》仍定于今年11月19日发售，距上次确认约一年。",
+        "comment": "官方辟谣延期传闻，稳定玩家信心。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Vice_City_04.jpeg?w=300",
+        "score": 93
       },
       {
         "category": "数码科技",
@@ -28,56 +38,46 @@
         "title": "小米YU7 GT发布，38.99万起，纽北最速SUV",
         "link": "https://www.ifanr.com/1666613?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "小米发布YU7 GT，起售价38.99万元，定位跑车级SUV，兼顾性能与实用性，成为纽北赛道最快SUV车型。",
-        "comment": "性能与实用兼备，但定价能否打动市场？",
+        "comment": "性能与实用平衡，但价格偏高。",
         "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "Take-Two重申GTA 6仍将于今年11月发布",
-        "link": "https://www.gamespot.com/articles/no-gta-6-is-not-delayed-again-and-still-set-to-launch-this-november/",
-        "summary": "Take-Two Interactive在2026财年业绩简报中再次确认，《侠盗猎车手VI》仍计划于11月19日发售，距上次确认约一年。",
-        "comment": "官方辟谣延期传闻，稳定玩家预期。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Vice_City_04.jpeg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "命运2",
-        "title": "《命运2》即将迎来最终内容更新，Bungie转向新作",
-        "link": "https://www.gamespot.com/articles/destiny-2-is-getting-last-content-update-soon-as-bungie-moves-onto-its-next-big-game/1100-6540084/",
-        "summary": "《命运2》上线近九年后，Bungie宣布将发布其最后一个内容更新，结束对该游戏的持续服务支持，团队重心转向下一款大型游戏。",
-        "comment": "一个时代的终结，Bungie的下一站值得期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/4699048-6442126964-desti.jpg?w=300",
-        "score": 93
+        "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "AI",
-        "title": "AI分身24小时在线社交，比真人更会交朋友",
+        "tag": "AI分身",
+        "title": "AI分身24小时在线社交，交友能力超真人",
         "link": "https://www.ifanr.com/1666415?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，AI分身技术即将上线，能24小时在线社交，其交友能力可能超越真人，引发对数字身份与社交未来的讨论。",
+        "summary": "AI分身技术让用户拥有24小时在线社交的虚拟化身，其交友能力可能超越真人，引发对数字身份和社交关系的思考。",
         "comment": "AI社交分身或重塑人际互动模式。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "地狱潜者2",
-        "title": "《地狱潜者2》新传奇战争债券联动战锤40K，但无星际战士",
+        "tag": "游戏影视",
+        "title": "《地狱潜者2》新传奇债券联动战锤40K，但不会有星际战士",
         "link": "https://www.gamespot.com/articles/helldivers-2s-next-legendary-warbond-is-warhammer-40k-but-dont-expect-space-marines/1100-6540085/",
-        "summary": "《地狱潜者2》下一款传奇战争债券将引入战锤40K宇宙的黑暗未来元素，但不会包含星际战士，这是一次合作射击游戏与经典IP的跨界联动。",
-        "comment": "联动战锤40K是惊喜，但缺星际战士略显遗憾。",
+        "summary": "《地狱潜者2》下一款传奇债券将引入战锤40K宇宙的黑暗未来风格，这是开发商Arrowhead合作射击游戏的一次跨界合作，但玩家不应期待星际战士的出现。",
+        "comment": "联动战锤40K是惊喜，但无星际战士可能让粉丝失望。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Helldivers-2-Warhammer-40K-Crossover-Announced.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
+        "tag": "命运2",
+        "title": "《命运2》即将迎来最终内容更新，Bungie转向新作",
+        "link": "https://www.gamespot.com/articles/destiny-2-is-getting-last-content-update-soon-as-bungie-moves-onto-its-next-big-game/1100-6540084/",
+        "summary": "《命运2》上线近九年后，Bungie宣布将发布其最后一个内容更新，标志着这款在线服务游戏的支持即将结束，团队将全力投入下一款大型游戏的开发。",
+        "comment": "经典长线运营游戏终章，玩家情怀与厂商转型并存。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/4699048-6442126964-desti.jpg?w=300",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
         "tag": "战锤",
-        "title": "《战锤西格玛时代：死亡大师》明年登陆PC与主机",
+        "title": "《战锤西格玛时代：死亡大师》明年登陆PC和主机",
         "link": "https://www.gamespot.com/articles/warhammer-age-of-sigmar-deathmaster-brings-sneaky-assassinations-to-pc-and-consoles-next-year/1100-6540075/",
-        "summary": "《战锤西格玛时代：死亡大师》是一款潜行动作游戏，将于明年登陆PC和主机平台，带来出人意料的暗杀体验。",
+        "summary": "《战锤西格玛时代：死亡大师》是一款潜行动作游戏，将于明年登陆PC和主机，带来出人意料的暗杀体验。",
         "comment": "潜行玩法为战锤系列注入新意。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/05/WH_DM_MS_Titled-Hero-Art_1920x1080.jpg?w=300",
         "score": 92
@@ -85,10 +85,10 @@
       {
         "category": "游戏影视",
         "tag": "007",
-        "title": "007新作中詹姆斯·邦德的欧米茄手表成真，价格不菲",
+        "title": "《007 First Light》中詹姆斯·邦德的欧米茄手表现已推出实物版",
         "link": "https://www.gamespot.com/articles/james-bonds-omega-from-007-first-light-is-now-a-real-watch-you-probably-cant-afford/1100-6540083/",
-        "summary": "IO Interactive的《007：初光》中詹姆斯·邦德佩戴的欧米茄手表现已推出实体版，但价格高昂，普通消费者难以负担。",
-        "comment": "游戏周边高端化，粉丝钱包遭考验。",
+        "summary": "IO Interactive的詹姆斯·邦德游戏《007 First Light》首次亮相时，手表爱好者注意到邦德佩戴的新款欧米茄手表。如今这款手表已作为实物产品发布，但价格昂贵。",
+        "comment": "虚拟道具成真，但价格令人望而却步。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/05/4699047-4157975748-seama.jpg?w=300",
         "score": 89
       }
