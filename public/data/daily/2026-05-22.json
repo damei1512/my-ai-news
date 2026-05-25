@@ -5,9 +5,9 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "AI技术被用于复活已故飞行员声音",
+        "title": "AI技术被用于复活遇难飞行员声音",
         "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-        "summary": "人们利用AI处理驾驶舱录音的频谱图，重建声音，迫使美国国家运输安全委员会暂时封锁其案卷系统。",
+        "summary": "人们利用AI对驾驶舱录音的频谱图进行重建，迫使美国国家运输安全委员会暂时封锁其案卷系统访问权限。",
         "comment": "技术伦理边界再受挑战。",
         "image": "",
         "score": 100
@@ -15,49 +15,39 @@
       {
         "category": "人工智能",
         "tag": "AI初创",
-        "title": "VC与创始人如何用虚高ARR为AI初创公司加冕",
+        "title": "VC与创始人如何用虚增ARR为AI初创加冕",
         "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-        "summary": "一些AI初创公司在公开谈论进展时，正在拉伸传统收入指标，而他们的投资者对此心知肚明。",
-        "comment": "虚报ARR已成行业潜规则，需警惕泡沫风险。",
+        "summary": "部分AI初创公司在公开谈论进展时，正在扭曲传统收入指标，而它们的投资者对此心知肚明。",
+        "comment": "虚报ARR正成为AI圈心照不宣的融资手段。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "SpaceX",
-        "title": "马斯克1.75万亿美元IPO：SpaceX文件揭示宏大野心",
+        "title": "马斯克1.75万亿美元IPO：SpaceX文件揭示远超火箭的野心",
         "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-        "summary": "SpaceX S-1文件终于公布，内容远超火箭本身，仅风险因素就达36页，数字与雄心相匹配。",
-        "comment": "SpaceX估值惊人，但风险因素篇幅暗示挑战不小。",
+        "summary": "SpaceX提交S-1文件，IPO估值达1.75万亿美元，风险因素长达36页，数字与雄心匹配。",
+        "comment": "SpaceX IPO规模惊人，风险披露详尽。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌AI眼镜试用：几乎完美",
-        "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-        "summary": "谷歌展示了原型Android XR眼镜，可将Gemini驱动的翻译、导航等信息直接叠加在视野中。",
-        "comment": "AI眼镜体验接近实用，但仍有改进空间。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "OpenAI",
         "title": "OpenAI被Gartner评为企业编码代理领导者",
         "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-        "summary": "OpenAI在2026年Gartner企业AI编码代理魔力象限中被列为领导者，其Codex因创新和企业级部署能力获得认可。",
-        "comment": "Gartner认可巩固了OpenAI在AI编码领域的领先地位。",
+        "summary": "OpenAI在2026年Gartner企业AI编码代理魔力象限中被列为领导者，其Codex因创新和企业级部署能力获认可。",
+        "comment": "Gartner背书强化了OpenAI在AI编码领域的领先地位。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "OpenAI",
         "title": "维珍航空借助OpenAI Codex加速应用开发",
         "link": "https://openai.com/index/virgin-atlantic",
-        "summary": "维珍航空利用OpenAI Codex在固定假期截止日期前完成移动应用改版，实现近乎全覆盖的单元测试和零P1缺陷。",
+        "summary": "维珍航空利用OpenAI Codex在固定假期旅行截止日期前完成移动应用改版，实现了近乎全面的单元测试覆盖和零P1缺陷。",
         "comment": "AI辅助开发显著提升交付效率与质量。",
         "image": "",
         "score": 100
@@ -65,20 +55,10 @@
       {
         "category": "人工智能",
         "tag": "谷歌",
-        "title": "谷歌搜索AI更新后“disregard”一词导致界面崩溃",
-        "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-        "summary": "谷歌搜索AI更新后，输入单词“disregard”会破坏搜索界面，用户无法正常使用该功能。",
-        "comment": "AI更新意外引入漏洞，暴露系统稳定性问题。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌为Pixel主屏添加迪斯科球图标：你们确定还要这个？",
+        "title": "谷歌推出迪斯科球图标：你们确定还想要这个？",
         "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-        "summary": "谷歌为Pixel主屏推出迪斯科球图标，用户可一键将整个主屏装饰成闪亮风格。",
-        "comment": "谷歌用趣味图标回应老用户呼声，但实用性存疑。",
+        "summary": "谷歌为Pixel手机主屏提供迪斯科球风格图标，用户可一键切换整个界面为闪亮主题。",
+        "comment": "谷歌用趣味设计试探用户偏好，但实用性存疑。",
         "image": "",
         "score": 96
       },
@@ -94,20 +74,40 @@
       },
       {
         "category": "数码科技",
-        "tag": "Codex",
+        "tag": "安克",
+        "title": "安克消噪耳机体验：重塑旗舰新标准",
+        "link": "https://www.ifanr.com/1666783?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "安克推出2026年旗舰消噪耳机，体验评测显示其在降噪、音质与功能集成上实现突破，不再只是耳机。",
+        "comment": "安克以技术整合重新定义旗舰耳机价值。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "OpenAI",
         "title": "Codex大更新提升Mac含金量",
         "link": "https://www.ifanr.com/1666706?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenAI的Codex迎来重大更新，有望成为其最赚钱产品，Mac用户受益显著。",
-        "comment": "AI工具生态竞争加剧，Mac平台优势凸显。",
+        "summary": "OpenAI的Codex产品迎来重大更新，有望成为其最赚钱的产品，Mac设备价值随之提升。",
+        "comment": "AI工具迭代加速，硬件生态受益明显。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "元PLUS",
+        "title": "第三代元 PLUS 上市，12万级纯电SUV瞄准全球市场",
+        "link": "https://www.ifanr.com/1666705?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "第三代元 PLUS 作为12万级纯电SUV上市，旨在成为世界级“六边形战士”，并计划出口至莱茵河流域市场。",
+        "comment": "性价比突出，全球化布局值得关注。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "欧盟议员借“停止杀害游戏”议题抨击“觉醒文化”",
+        "title": "欧盟议员借“停止杀死游戏”议题抨击觉醒文化",
         "link": "https://www.gamespot.com/articles/eu-politician-muddies-waters-on-stop-killing-games-with-rant-on-wokeness/",
-        "summary": "欧盟议会就“停止杀害游戏”运动展开辩论，讨论游戏发行商是否有责任在停服后保持游戏可玩性。一名议员借机发表关于“觉醒文化”的言论，引发争议。",
+        "summary": "欧洲议会就“停止杀死游戏”运动展开辩论，讨论游戏发行商是否有责任在停服后保持游戏可玩性，但一名议员将话题转向对觉醒文化的攻击，引发争议。",
         "comment": "议题被政治化，偏离了玩家权益核心。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/05/acshadowsstopkillinggames.jpg?w=300",
         "score": 92
@@ -117,38 +117,18 @@
         "tag": "游戏",
         "title": "《苍穹浩瀚》RPG因玩家不满更换主角配音演员",
         "link": "https://www.gamespot.com/articles/the-expanse-rpg-recasts-its-protagonist-after-player-complaints/",
-        "summary": "Owlcat Games宣布，因玩家对男性主角配音表现不满，将重新选角，更换《苍穹浩瀚：奥西里斯重生》的主角配音演员。",
-        "comment": "玩家反馈推动游戏品质改进，值得肯定。",
+        "summary": "Owlcat Games宣布，由于玩家对男性主角配音表现不满，将重新选角并录制《苍穹浩瀚：奥西里斯重生》的主角语音。",
+        "comment": "玩家反馈驱动开发调整，体现社区影响力。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/05/OsirisReborn-1.jpg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "岚图",
-        "title": "岚图泰山X8上市，28.29万元起，大五座SUV空间升级",
+        "title": "岚图泰山X8上市：28.29万元起，大五座SUV",
         "link": "https://www.ifanr.com/1666785?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "岚图泰山X8正式上市，起售价28.29万元，定位大五座SUV，强调空间从“够坐”到“够住”的体验提升。",
+        "summary": "岚图泰山X8正式上市，起售价28.29万元，定位大五座SUV，强调空间从“够坐”升级为“够住”。",
         "comment": "空间升级是亮点，但定价需市场检验。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "安克消噪耳机体验：旗舰耳机不能只是耳机",
-        "link": "https://www.ifanr.com/1666783?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "安克推出2026年旗舰消噪耳机，强调功能集成与体验升级，不止于降噪，更注重智能交互与音质优化。",
-        "comment": "安克以耳机重塑品牌定位，创新值得关注。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "比亚迪",
-        "title": "第三代元PLUS上市：12万级纯电SUV瞄准全球市场",
-        "link": "https://www.ifanr.com/1666705?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪第三代元PLUS正式上市，定位12万级纯电SUV，旨在成为世界级“六边形战士”，并计划出口至欧洲市场。",
-        "comment": "性价比突出，全球化战略清晰。",
         "image": "",
         "score": 91
       },
@@ -157,30 +137,30 @@
         "tag": "小米",
         "title": "小米17Max评测：苹果放弃的大屏手机，小米为何坚持",
         "link": "https://www.ifanr.com/1666662?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米17Max评测显示，这是一台“平平无奇”的好手机，在苹果放弃大屏市场后，小米仍坚持推出大屏机型。",
-        "comment": "大屏市场仍有需求，小米差异化策略值得关注。",
+        "summary": "小米17Max评测：一台“平平无奇”的好手机，探讨小米在苹果放弃大屏市场后的坚持与策略。",
+        "comment": "小米逆势而为，大屏手机仍有细分市场。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "雷军",
-        "title": "雷军建议趁早换机，特斯拉FSD将入华，努比亚豆包手机可订餐",
+        "tag": "数码科技",
+        "title": "雷军建议趁早换机，特斯拉FSD将入华",
         "link": "https://www.ifanr.com/1666659?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "Antigravity永久上调三倍Gemini限额，CapCut接入Gemini实现聊天剪视频，拉勾网进入破产程序。",
-        "comment": "科技圈动态密集，AI与汽车仍是焦点。",
+        "comment": "科技巨头加速AI落地，旧势力淘汰加速。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "堡垒之夜",
-        "title": "《堡垒之夜》泄密内容为何消失？",
+        "title": "《堡垒之夜》泄露信息为何消失？",
         "link": "https://www.gamespot.com/articles/where-did-all-the-fortnite-leaks-go/",
-        "summary": "尽管作者以关注游戏资讯为生，也差点没注意到《堡垒之夜》第7章第3赛季即将到来，仅剩两周时间。",
-        "comment": "泄密减少或反映官方管控加强。",
+        "summary": "尽管专业关注游戏资讯，但《堡垒之夜》第7章第3赛季即将到来，仅剩两周，泄露信息却显著减少。",
+        "comment": "泄露减少或反映Epic加强管控。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/05/fortnite-laufey.jpeg?w=300",
-        "score": 89
+        "score": 91
       }
     ]
   }
