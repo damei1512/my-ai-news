@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-26T03:36:10Z",
+  "finished_at": "2026-05-26T10:02:15Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,7 +23,7 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 38,
+    "items": 31,
     "accounts": 15,
     "account_statuses": [
       {
@@ -42,37 +42,37 @@
         "account_id": "realdonaldtrump",
         "handle": "realDonaldTrump",
         "name": "Donald J. Trump",
-        "status": "success",
-        "items_fetched": 1,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump"
         ],
-        "error_message": null
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "sama",
         "handle": "sama",
         "name": "Sam Altman",
-        "status": "success",
-        "items_fetched": 3,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/sama",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/sama"
         ],
-        "error_message": null
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "gdb",
         "handle": "gdb",
         "name": "Greg Brockman",
-        "status": "success",
-        "items_fetched": 3,
-        "active_url": "https://rsshub-boost.23751.net/twitter/user/gdb",
+        "status": "fetch_error",
+        "items_fetched": 0,
+        "active_url": null,
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/gdb"
         ],
-        "error_message": null
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "openai",
