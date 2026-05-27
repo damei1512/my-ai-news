@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-27T03:56:39Z",
+  "finished_at": "2026-05-27T09:54:51Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,140 +23,140 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 0,
+    "items": 31,
     "accounts": 15,
     "account_statuses": [
       {
         "account_id": "elonmusk",
         "handle": "elonmusk",
         "name": "Elon Musk",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/elonmusk",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/elonmusk"
         ],
-        "error_message": "empty feed"
+        "error_message": null
       },
       {
         "account_id": "realdonaldtrump",
         "handle": "realDonaldTrump",
         "name": "Donald J. Trump",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 1,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump"
         ],
-        "error_message": "empty feed"
+        "error_message": null
       },
       {
         "account_id": "sama",
         "handle": "sama",
         "name": "Sam Altman",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/sama",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/sama"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "gdb",
         "handle": "gdb",
         "name": "Greg Brockman",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/gdb",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/gdb"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "openai",
         "handle": "OpenAI",
         "name": "OpenAI",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/OpenAI",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/OpenAI"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "karpathy",
         "handle": "karpathy",
         "name": "Andrej Karpathy",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/karpathy",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/karpathy"
         ],
-        "error_message": "empty feed"
+        "error_message": null
       },
       {
         "account_id": "anthropicai",
         "handle": "AnthropicAI",
         "name": "Anthropic",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/AnthropicAI",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/AnthropicAI"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "googledeepmind",
         "handle": "GoogleDeepMind",
         "name": "Google DeepMind",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "ylecun",
         "handle": "ylecun",
         "name": "Yann LeCun",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/ylecun",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/ylecun"
         ],
-        "error_message": "empty feed"
+        "error_message": null
       },
       {
         "account_id": "demishassabis",
         "handle": "demishassabis",
         "name": "Demis Hassabis",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/demishassabis",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/demishassabis"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "satyanadella",
         "handle": "satyanadella",
         "name": "Satya Nadella",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/satyanadella",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/satyanadella"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "pmarca",
