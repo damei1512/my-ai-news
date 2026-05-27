@@ -3,123 +3,53 @@
     "week": "周二",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "DuckDuckGo",
-        "title": "DuckDuckGo安装量飙升30%，用户拒绝谷歌AI搜索",
-        "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-        "summary": "谷歌在I/O 2026大会上用AI代理取代蓝色链接，引发用户强烈反弹。DuckDuckGo应用安装量因此激增30%，用户纷纷寻求替代方案。",
-        "comment": "用户用脚投票，AI搜索并非人人买账。",
-        "image": "",
-        "score": 100
-      },
-      {
         "category": "数码科技",
         "tag": "强化学习",
         "title": "机器人启蒙需“犯错”幼儿园，强化学习奠基人获图灵奖",
         "link": "https://36kr.com/p/3825969453699970?f=rss",
-        "summary": "2024年，强化学习奠基人理查德·萨顿与导师安德鲁·巴托获图灵奖。其三十年前理论支撑AlphaGo、ChatGPT，如今被具身智能行业重新理解：智能体需从试错中学习。2023年萨顿参与创办Openmind。",
-        "comment": "理论超前三十年，具身智能终于跟上。",
+        "summary": "2024年，强化学习奠基人理查德·萨顿与导师安德鲁·巴托获图灵奖。其三十年前理论支撑AlphaGo、ChatGPT，如今被具身智能行业理解：智能体需从试错中学习。2023年萨顿参与创办Openmind。",
+        "comment": "迟来的认可，印证了试错学习在AI进化中的核心地位。",
         "image": "",
-        "score": 98
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "36氪",
-        "title": "36氪企业全情报新版本上线，优化炒股信息获取体验",
+        "title": "36氪企业全情报新版本上线，优化股民舆情工具",
         "link": "https://36kr.com/p/3826003757437573?f=rss",
-        "summary": "36氪企业全情报小程序新版本上线，针对股民信息过载痛点，优化功能和体验，帮助用户高效获取可靠情报，减少信息差。",
-        "comment": "工具化数据服务是财经资讯的实用方向。",
+        "summary": "36氪企业全情报小程序新版本上线，针对股民信息过载痛点，优化体验和功能，帮助用户高效获取可靠情报，避免被信息差影响操作。",
+        "comment": "精准切中股民信息焦虑，实用价值高。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "星际公民",
-        "title": "《星际公民》众筹突破10亿美元，开发商推出5000美元不可用飞船",
-        "link": "https://www.gamespot.com/articles/star-citizen-passes-1-billion-in-community-funding-creator-says-game-is-in-closing-stages/",
-        "summary": "《星际公民》众筹金额突破10亿美元，开发商推出售价5000美元但无法使用的飞船，引发争议。",
-        "comment": "众筹神话背后的信任危机。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/star.png?w=300",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "Codex",
-        "title": "用Codex优化网速实测狂飙900Mbps，发现隐藏玩法",
-        "link": "https://www.ifanr.com/1666874?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "实测通过Codex优化网络，网速提升至900Mbps，并发现可破解家用电器、释放C盘空间等隐藏功能。",
-        "comment": "Codex的实用潜力远超预期，值得尝试。",
-        "image": "",
-        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "华为",
         "title": "华为提出「韬定律」，探索国产芯片自主进化路径",
         "link": "https://www.ifanr.com/1666860?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为提出「韬定律」，旨在为国产芯片寻找不同于传统摩尔定律的自主进化方向，推动半导体技术独立发展。",
-        "comment": "国产芯片需突破路径依赖，韬定律或成新突破口。",
+        "summary": "华为提出「韬定律」，旨在为国产芯片寻找不同于摩尔定律的自主进化方向，推动技术独立与创新。",
+        "comment": "国产芯片自主路线的重要探索。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "华为",
-        "title": "华为公布韬定律，Mate 90有望搭载更强芯片",
-        "link": "https://www.ifanr.com/1666931?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Gurman称Apple Watch需重启健康叙事；银河证券指钠离子电池规模化节点临近；美团、腾讯参投天机智能10亿元融资。",
-        "comment": "华为芯片突破与AI竞争加剧，科技格局再洗牌。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Epic Games",
-        "title": "Epic Games移除疑似AI生成的保时捷概念图",
-        "link": "https://www.gamespot.com/articles/epic-games-removes-porsche-concept-image-that-sure-looks-like-ai/",
-        "summary": "Epic Games本周发布了一张保时捷车辆降落《堡垒之夜》的概念图，但因玩家质疑其疑似AI生成而迅速删除。",
-        "comment": "AI生成内容争议再起，游戏公司需更谨慎。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/epicgamesporsche.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PS5",
-        "title": "索尼PS5早期独占游戏《毁灭全明星》下架并停服",
-        "link": "https://www.gamespot.com/articles/one-of-sonys-first-ps5-exclusives-is-now-delisted-multiplayer-shutdown/",
-        "summary": "《毁灭全明星》是一款以多人载具对战为核心的索尼第一方独占游戏，原计划作为PS5首发作品，后改为PS Plus会免游戏，现已从商店下架并关闭多人服务器。",
-        "comment": "索尼早期独占策略的失败案例，服务型游戏生命周期短暂。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Destruction-AllStars-Shutdown.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《MLB The Show Mobile》现已上线，随时随地打出全垒打",
-        "link": "https://www.gamespot.com/articles/mlb-the-show-mobile-is-out-now-so-you-can-hit-dingers-anywhere/",
-        "summary": "索尼正式发布《MLB The Show Mobile》，玩家可在移动设备上体验棒球游戏，随时随地打出精彩全垒打。",
-        "comment": "移动端棒球体验再升级，值得一试。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/mlbtheshowmobile.jpeg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "AI耳机",
-        "title": "带摄像头的AI耳机能否替代iPhone？72小时体验给出答案",
+        "title": "AI耳机能否替代iPhone？72小时体验给出答案",
         "link": "https://www.ifanr.com/1666435?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "新产品的出现，总是伴随着新问题的出现。本文通过72小时实际佩戴体验，探讨带摄像头的AI耳机是否可能替代iPhone。",
-        "comment": "创新尝试，但替代iPhone尚需时日。",
+        "summary": "爱范儿体验带摄像头的AI耳机72小时，探讨其能否替代iPhone，发现新产品带来新问题。",
+        "comment": "AI耳机创新但难撼动手机地位。",
         "image": "",
         "score": 91
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "007 First Light结局暗示续作",
-        "link": "https://www.gamespot.com/articles/007-first-light-ending-teases-a-sequel/",
-        "summary": "新詹姆斯·邦德游戏《007 First Light》将于5月27日发售，但付费玩家已可提前游玩，部分玩家通关后上传了结局内容，暗示续作存在。",
-        "comment": "提前解锁暴露剧情，营销策略需谨慎。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/FL.jpg?w=300",
+        "category": "数码科技",
+        "tag": "Codex",
+        "title": "用Codex优化网速实测狂飙900Mbps，发现隐藏玩法",
+        "link": "https://www.ifanr.com/1666874?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "实测Codex优化网速可达900Mbps，还能破解家用电器、释放C盘空间，探索更多隐藏功能。",
+        "comment": "技术潜力大，但需注意安全风险。",
+        "image": "",
         "score": 91
       }
     ]
