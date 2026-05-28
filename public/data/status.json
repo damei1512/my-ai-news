@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-27T20:22:00Z",
+  "finished_at": "2026-05-28T03:39:34Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,7 +23,7 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 28,
+    "items": 43,
     "accounts": 15,
     "account_statuses": [
       {
@@ -150,61 +150,61 @@
         "account_id": "satyanadella",
         "handle": "satyanadella",
         "name": "Satya Nadella",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/satyanadella",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/satyanadella"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "pmarca",
         "handle": "pmarca",
         "name": "Marc Andreessen",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/pmarca",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/pmarca"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "bindureddy",
         "handle": "bindureddy",
         "name": "Bindu Reddy",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/bindureddy",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/bindureddy"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "rauchg",
         "handle": "rauchg",
         "name": "Guillermo Rauch",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/rauchg",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/rauchg"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "perplexity_ai",
         "handle": "perplexity_ai",
         "name": "Perplexity",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/perplexity_ai",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/perplexity_ai"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       }
     ]
   },
