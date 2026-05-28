@@ -4,13 +4,43 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌AI无法正确拼写“Google”的原因分析",
-        "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-        "summary": "谷歌AI在拼写测试中表现不佳，甚至无法正确拼写自身品牌名，引发外界对其技术可靠性的质疑。",
-        "comment": "基础能力缺陷暴露AI训练短板。",
+        "tag": "AI手机",
+        "title": "Vertu推AI折叠手机，CEO专属起售价6880美元",
+        "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+        "summary": "基于开源Hermes项目，Vertu新款折叠手机融合AI代理工作流、企业集成与超豪华工艺，面向CEO市场。",
+        "comment": "奢侈手机品牌押注AI办公场景，定价策略激进。",
         "image": "",
         "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "谷歌",
+        "title": "谷歌AI无法正确拼写“Google”及更多词汇",
+        "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+        "summary": "谷歌AI在拼写测试中表现不佳，甚至无法正确拼写公司名称“Google”，引发对其可靠性的质疑。",
+        "comment": "基础能力缺失暴露AI训练短板。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "多模态模型",
+        "title": "智象未来CEO：多模态模型Token毛利率远高于语言模型",
+        "link": "https://36kr.com/p/3820602297208966?f=rss",
+        "summary": "智象未来CEO梅涛在开放日表示，多模态模型Token毛利率远高于语言模型，原生多模态是实现AGI的必经之路。公司已参与具身智能和世界模型热潮。",
+        "comment": "多模态商业价值凸显，但技术落地仍需验证。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "智能船艇",
+        "title": "前逸动员工创智能船艇公司，半年内再获数千万融资",
+        "link": "https://36kr.com/p/3820713545846917?f=rss",
+        "summary": "安澜动力科技完成数千万天使++轮融资，由南山战新投独家投资，成立不足一年内完成第三轮融资，资金用于研发、量产团队及海外渠道建设。",
+        "comment": "智能船艇赛道获资本持续加注，国产替代蓝海初现。",
+        "image": "",
+        "score": 96
       },
       {
         "category": "数码科技",
@@ -25,102 +55,282 @@
       {
         "category": "数码科技",
         "tag": "AI工具",
-        "title": "高考期间AI工具禁用？豆包等回应；亚朵提供检测仪；三星工会同意新薪酬方案",
+        "title": "高考期间AI工具禁用？豆包等回应；亚朵提供隐藏摄像头检测仪；三星工会同意新薪酬方案",
         "link": "https://36kr.com/p/3828191630348934?f=rss",
-        "summary": "今日热点：阿里员工十三薪并入年终奖；小红书获世界杯转播权；微信小游戏月活超5亿；市场监管总局部署整治内卷式竞争；SpaceX上市消息引燃太空股票；长鑫科技科创板IPO过会。",
-        "comment": "高考AI工具禁用争议凸显技术伦理监管需求。",
+        "summary": "今日热点包括：阿里员工十三薪并入年终奖；小红书获世界杯转播权；微信小游戏月活超5亿；市场监管总局部署整治内卷式竞争；SpaceX上市消息引燃太空股票；长鑫科技科创板IPO过会。",
+        "comment": "科技与消费热点交织，AI监管与员工福利成焦点。",
         "image": "",
-        "score": 93
+        "score": 96
       },
       {
         "category": "游戏影视",
-        "tag": "挖掘者米娜",
+        "tag": "法拉利",
+        "title": "法拉利发布64万美元电动新车Luce，口碑崩盘",
+        "link": "https://www.ign.com/articles/ferarri-reveals-new-640k-electric-car-and-everyone-seems-to-hate-it",
+        "summary": "法拉利推出售价64万美元的电动车型Luce，但这款车似乎严重损害了这家传奇公司的声誉。",
+        "comment": "高价电动化尝试遭遇市场冷遇，品牌转型风险凸显。",
+        "image": "https://assets-prd.ignimgs.com/2026/05/27/hjmnrycwwaaoy46-1779923986157.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
         "title": "《挖掘者米娜》媒体评分解禁，PC版MC均分92",
         "link": "https://www.gcores.com/articles/215066",
-        "summary": "《挖掘者米娜》媒体评分解禁，PC版Metacritic均分92分，共44家媒体评价；NS2版均分86分，PS5版均分92分。游戏为铲子骑士团队新作，玩家扮演挖掘者米娜拯救被诅咒岛屿。",
+        "summary": "《挖掘者米娜》媒体评分解禁，PC版Metacritic均分92分（44家媒体），NS2版86分（13家），PS5版92分（5家）。玩家扮演挖掘者米娜，拯救被诅咒岛屿。",
         "comment": "铲子骑士团队新作口碑出色，值得关注。",
         "image": "",
         "score": 93
       },
       {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "007 First Light 首次内容更新预告",
+        "link": "https://www.ign.com/articles/007-first-light-teases-first-content-update",
+        "summary": "IO Interactive 透露了《007 First Light》首次内容更新的细节，将为玩家带来惊喜内容。",
+        "comment": "更新内容值得期待，但具体细节仍需观望。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/30/007-first-light-bond-1777563160166.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "Bungie限时免费开放《马拉松》试玩",
+        "link": "https://www.ign.com/articles/bungie-is-letting-players-try-marathon-for-free-for-a-limited-time",
+        "summary": "Bungie将于下周限时免费开放《马拉松》游戏，玩家可免费参与体验。",
+        "comment": "免费试玩策略或为吸引新玩家。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/27/marathon-reviewsofar-blogroll-1772235737503.jpg",
+        "score": 93
+      },
+      {
         "category": "数码科技",
         "tag": "问界M9",
-        "title": "余承东发布新问界M9：地球最强SUV；海力士市值破万亿；小红书获世界杯独家转播",
+        "title": "余承东发布新问界M9：地球最强SUV，海力士市值破万亿",
         "link": "https://www.ifanr.com/1667176?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "伯克利法学院收紧学生使用AI规则；快手一季度收入337亿元，可灵AI同比增长超300%；保时捷拟将年产能压至约20万辆。",
-        "comment": "问界M9定位高端，海力士市值新高，科技与体育跨界竞争加剧。",
+        "comment": "问界M9定位高端，海力士市值突破显示存储芯片需求强劲。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "小岛秀夫",
-        "title": "小岛秀夫与雷弗恩合作AI科幻短片引争议",
+        "title": "小岛秀夫与雷弗恩用AI制作科幻短片引争议",
         "link": "https://www.gcores.com/articles/215060",
-        "summary": "小岛秀夫与丹麦导演尼古拉斯·温丁·雷弗恩在戛纳电影节联合公开为Prada Mode活动制作的AI科幻短片预览，因使用生成式AI技术引发争议，完整版即将发布。",
-        "comment": "AI创作边界再受挑战，艺术与技术的平衡引深思。",
+        "summary": "小岛秀夫与丹麦导演尼古拉斯·温丁·雷弗恩在戛纳电影节公开为Prada Mode活动制作的AI科幻短片预览，完整版即将发布，因使用生成式AI引发争议。",
+        "comment": "AI创作边界再受挑战，艺术与技术的碰撞引发热议。",
         "image": "",
         "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "无人深空",
-        "title": "《无人深空》实装“虫群”更新，聚焦太空战斗",
-        "link": "https://www.gcores.com/articles/215059",
-        "summary": "《无人深空》今年第三次大更新“虫群”已免费实装，重点强化太空战斗。制作人Sean称，游戏即将迎来10岁生日，团队仍充满热情。",
-        "comment": "持续免费更新彰显诚意，太空战斗玩法再升级。",
+        "category": "数码科技",
+        "tag": "讯飞",
+        "title": "讯飞首款AI眼镜：40克轻量设计撬动AI工作流",
+        "link": "https://www.ifanr.com/1667281?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "讯飞推出首款AI眼镜，重量仅40克，通过轻量化设计集成AI工作流，探索智能穿戴设备在办公与日常场景中的应用。",
+        "comment": "轻量化是AI眼镜落地的关键一步。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "扫地机器人",
+        "title": "对话云鲸创始人：两年后扫地机器人将有“手”",
+        "link": "https://www.ifanr.com/1667261?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "云鲸创始人张峻彬分享创业思考，预测两年后扫地机器人将具备机械手功能，能完成更多家务任务。",
+        "comment": "机器人从扫地到干活的进化，值得期待。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "极狐",
+        "title": "极狐问道V9发布，卓驭完成全品类舱驾一体量产验证",
+        "link": "https://www.ifanr.com/1667242?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "极狐问道V9发布，卓驭从SUV、轿车到MPV完成全品类舱驾一体量产验证，主打性价比。",
+        "comment": "舱驾一体技术加速普及，性价比成关键。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI编程",
+        "title": "国产AI编程全球第二，五大模型实测对比",
+        "link": "https://www.ifanr.com/1667180?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "国产AI编程工具在全球排名中升至第二，本文对五大模型进行实测，评估其作为Vibe Coding神器的表现。",
+        "comment": "国产AI编程进步显著，但实际应用仍需优化。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "Steam Deck",
-        "title": "V社调整Steam Deck OLED版售价，平均涨幅45%",
-        "link": "https://www.gcores.com/articles/215057",
-        "summary": "V社宣布调整Steam Deck OLED版售价，平均涨幅45%，因内存及存储价格上涨和全球物流挑战，512GB版由549美元上涨。",
-        "comment": "涨价反映成本压力，但玩家需权衡性价比。",
+        "tag": "宝可梦",
+        "title": "宝可梦游戏全球销量突破5.15亿份",
+        "link": "https://www.gcores.com/articles/215100",
+        "summary": "宝可梦公司最新财报显示，电子游戏全球销量达5.15亿份，去年售出2600万份，其中《宝可梦 Pokopia》贡献至少400万份。集换式卡牌生产超850亿张。",
+        "comment": "IP生命力强劲，卡牌增长尤为惊人。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "米哈游",
+        "title": "米哈游多款UE5新作预研中，招聘情报曝光",
+        "link": "https://www.gcores.com/articles/215097",
+        "summary": "米哈游招聘公众号公布多款预研项目情报，包括已公布的《星布谷地》《崩坏：因缘精灵》《Varsapura》及多款UE5新作。",
+        "comment": "米哈游加速布局UE5，新作储备丰富。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "伊藤润二",
+        "title": "日剧《怪奇-伊藤润二令人彻夜难眠的奇妙故事》7月3日开播",
+        "link": "https://www.gcores.com/articles/215089",
+        "summary": "改编自伊藤润二《至死不渝的爱》等13部作品的日剧将于7月3日播出，以单元剧形式呈现，涵盖《幻痛宅邸》《欺凌女》等经典恐怖故事。",
+        "comment": "伊藤润二粉丝的夏日恐怖盛宴，单元剧形式值得期待。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "守望先锋",
+        "title": "《守望先锋》与YOASOBI联动，新曲及皮肤2026年上线",
+        "link": "https://www.gcores.com/articles/215084",
+        "summary": "暴雪宣布《守望先锋》与日本音乐组合YOASOBI联动，推出合作单曲及原创短片《地に堕ちた雀》，游戏内上线雾子、源氏、半藏等英雄联动皮肤，2026年6月30日上线。",
+        "comment": "跨界联动精准，但上线时间过远，热度难持续。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "风暴崛起",
+        "title": "《风暴崛起》新阵营维提多人模式公测开启",
+        "link": "https://www.gcores.com/articles/215083",
+        "summary": "《风暴崛起》维提势力多人模式公开测试现已开启，至6月10日免费开放，所有玩家可使用第三阵营维提，在26张地图上体验即时战略对战。",
+        "comment": "新阵营加入为RTS玩家带来新鲜策略选择。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "后室",
+        "title": "后室导演回应幽灵导演传闻",
+        "link": "https://www.ign.com/articles/backrooms-director-kane-parsons-and-actor-mark-duplass-address-ghost-director-rumors",
+        "summary": "后室导演Kane Parsons与演员Mark Duplass回应近期关于他并非真正导演的奇怪说法。",
+        "comment": "谣言止于公开回应，真相需作品自证。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/31/backroomstrailer-ign-blogroll-1774973769155.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "识质存在",
+        "title": "《识质存在》休与戴安娜1/7比例模型明年1月发售",
+        "link": "https://www.gcores.com/articles/215079",
+        "summary": "Capcom Figure Build Creators系列推出《识质存在》休和戴安娜1/7比例模型，明年1月28日发售，现已开启预定。",
+        "comment": "模型细节值得期待，粉丝可关注预定。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "游戏影视",
         "tag": "游戏发售",
-        "title": "《薛定谔的电话》今日发售，开启10%折扣优惠",
+        "title": "《薛定谔的电话》今日发售，同步开启10%折扣优惠",
         "link": "https://www.gcores.com/articles/215062",
-        "summary": "集英社游戏宣布文字冒险游戏《薛定谔的电话》于5月28日正式发售，同步开启限时10%折扣优惠活动，并公开最新预告视频。",
-        "comment": "绘本风格叙事游戏，折扣期适合入手。",
+        "summary": "集英社游戏宣布文字冒险游戏《薛定谔的电话》于5月28日发售，同步开启限时10%折扣优惠活动，并公开最新预告视频。",
+        "comment": "绘本风格叙事与折扣活动结合，吸引玩家关注。",
         "image": "",
-        "score": 90
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "伊朗",
+        "title": "伊朗称袭击美军基地以回应美国最新打击",
+        "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+        "summary": "在美国与伊朗脆弱停火期间，双方冲突再起。伊朗声称袭击美军基地，报复美国最新空袭，同时结束三个月战争的谈判仍在进行。",
+        "comment": "停火脆弱，冲突升级风险加剧。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "肯尼亚",
+        "title": "肯尼亚学校火灾致16名学生遇难",
+        "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+        "summary": "肯尼亚一所学校发生火灾，造成16名学生死亡，数十人受伤，火灾原因尚不明确。",
+        "comment": "校园安全警钟再响，需彻查原因并加强防范。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "以色列",
+        "title": "以色列大规模撤离令后猛烈空袭黎巴嫩南部",
+        "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+        "summary": "以色列军方下令黎巴嫩居民撤离该国约17%的领土，随后对黎巴嫩南部发动猛烈空袭。",
+        "comment": "冲突升级，人道危机风险加剧。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "游戏影视",
-        "tag": "核聚变",
-        "title": "多款精品独游亮相核聚变2026深圳站",
-        "link": "https://www.gcores.com/articles/215048",
-        "summary": "核聚变游戏嘉年华深圳站将于6月27-28日在深圳国际会展中心举行，IndieArk携多款精品独立游戏参展，提供试玩、舞台活动和限定周边。",
-        "comment": "独立游戏阵容值得关注，玩家可提前体验潜力作品。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国",
-        "title": "美国三天内第二次打击伊朗目标",
-        "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-        "summary": "在美国与伊朗脆弱的停火期间，以及为结束三个月战争而进行的长期谈判中，敌对行动再次升级。",
-        "comment": "停火脆弱，谈判艰难，冲突风险持续升高。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "拜登",
-        "title": "吉尔·拜登称2024年辩论中以为丈夫中风",
-        "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-        "summary": "美国前第一夫人吉尔·拜登告诉CBS新闻，她对乔·拜登与特朗普辩论时的表现感到害怕。",
-        "comment": "第一夫人的担忧凸显拜登健康问题。",
+        "tag": "游戏",
+        "title": "玩游戏得让自己高兴：机核录音笔VOL.709",
+        "link": "https://www.gcores.com/radios/215082",
+        "summary": "GPASS会员专享节目，记录机核办公室日常对话与工作片段，时长约十几分钟，内容包含碎碎念、暴言或真实对话录音，风格随意。",
+        "comment": "轻松闲聊，适合粉丝消遣。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "吉尔·拜登称2024年辩论中以为丈夫中风",
+        "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+        "summary": "美国前第一夫人吉尔·拜登告诉CBS新闻，她对乔·拜登在对抗唐纳德·特朗普时的表现感到害怕。",
+        "comment": "第一夫人的担忧反映拜登健康问题引发关注。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "澳大利亚",
+        "title": "澳大利亚起诉3M公司消防泡沫含永久化学物质",
+        "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+        "summary": "澳大利亚政府就国防基地污染问题起诉美国3M公司，索赔20亿澳元，为该国史上最大规模诉讼。",
+        "comment": "环保诉讼升级，跨国企业面临巨额索赔。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "谷歌",
+        "title": "谷歌员工被控利用内部数据押注获利120万美元",
+        "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+        "summary": "一名长期在谷歌工作的员工在纽约被指控涉嫌违反内幕交易法，利用公司内部数据在押注中获利120万美元。",
+        "comment": "科技巨头内部数据滥用再敲警钟。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "技嘉",
+        "title": "技嘉Aero X16笔记本澳洲降价至2199澳元",
+        "link": "https://www.ign.com/articles/snag-a-gigabyte-aero-x16-for-2199-au-deals",
+        "summary": "IGN报道，技嘉Aero X16笔记本在澳洲促销，售价2199澳元，适合高性能需求用户。",
+        "comment": "价格有竞争力，但需注意地区限制。",
+        "image": "https://assets-prd.ignimgs.com/2026/05/25/ign-x-gigabyte-aero-x16-1779671112054.jpg",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "澳大利亚",
+        "title": "澳大利亚指控从叙利亚返回女子加入伊斯兰国",
+        "link": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+        "summary": "近几个月，多批在叙利亚营地滞留多年的妇女和儿童已返回，一名女子被控加入伊斯兰国。",
+        "comment": "回国人员面临法律追责，安全审查仍需加强。",
+        "image": "",
+        "score": 86
       }
     ]
   }
