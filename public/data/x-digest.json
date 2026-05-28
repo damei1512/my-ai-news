@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T16:03:07Z",
+  "generated_at": "2026-05-28T20:32:27Z",
   "total": 0,
   "items": [],
   "accounts": [
@@ -73,7 +73,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/karpathy"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "anthropicai",
@@ -97,7 +97,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "ylecun",
