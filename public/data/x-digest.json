@@ -1,7 +1,136 @@
 {
-  "generated_at": "2026-05-29T03:43:54Z",
-  "total": 0,
-  "items": [],
+  "generated_at": "2026-05-29T10:01:46Z",
+  "total": 6,
+  "items": [
+    {
+      "account_id": "rauchg",
+      "handle": "rauchg",
+      "author_name": "Guillermo Rauch",
+      "role": "Vercel CEO",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r.jpg",
+      "original_text": "Vercel CLI as a self-updating binary with zero external dependencies. Our CLI is one of the key interfaces enabling the 'cloud for agents'. This solves a huge bottleneck, as we ship changes to our CLI more than ever, and it's embedded in more places than ever. Fun fact: we built 𝚙𝚔𝚐¹ yeaaars ago in service of this vision. I didn't want customers to have to worry about Node.js over here, and the CLI package over there. We deprioritized it because Git and Web took off massively, and CLI usage was more sporadic. Now the situation is inverted. Every day, I hear from customers discovering Vercel after OpenClaw, Claude Code, or Codex not only introduce, but also onboard users to our agentic infrastructure. Our CLI (as well as our MCP and SDKs) is a key enabler of this new wave. ¹ http://github.com/vercel/pkg Vercel Developers: Vercel CLI now ships experimental native binaries. Opt in for improved credential security, faster startup, and an ~80% smaller footprint. ▲ ~/ 𝚙𝚗𝚙𝚖 𝚒 -𝚐 @𝚟𝚎𝚛𝚌𝚎𝚕/𝚟𝚌-𝚗𝚊𝚝𝚒𝚟𝚎 https://vercel.com/changelog/experimental-native-binaries-for-vercel-cli",
+      "zh_text": "Vercel CLI 作为一个零外部依赖、可自我更新的二进制文件。我们的 CLI 是实现‘面向代理的云’的关键接口之一。这解决了一个巨大的瓶颈，因为我们比以往任何时候都更频繁地向 CLI 推送更改，并且它被嵌入到比以往更多的地方。有趣的事实：我们早在多年前就构建了 𝚙𝚔𝚐¹ 来服务于这一愿景。我不希望客户既要担心这里的 Node.js，又要担心那边的 CLI 包。我们曾降低其优先级，因为 Git 和 Web 大规模兴起，而 CLI 的使用更为零星。现在情况反过来了。每天，我都听到客户在 OpenClaw、Claude Code 或 Codex 不仅介绍而且引导用户使用我们的代理基础设施后，发现 Vercel。我们的 CLI（以及我们的 MCP 和 SDK）是这一新浪潮的关键推动者。¹ http://github.com/vercel/pkg Vercel Developers：Vercel CLI 现在提供实验性的原生二进制文件。选择加入以获得改进的凭证安全性、更快的启动速度以及约 80% 的更小体积。▲ ~/ 𝚙𝚗𝚙𝚖 𝚒 -𝚐 @𝚟𝚎𝚛𝚌𝚎𝚕/𝚟𝚌-𝚗𝚊𝚝𝚒𝚟𝚎 https://vercel.com/changelog/experimental-native-binaries-for-vercel-cli",
+      "commentary": "",
+      "media_urls": [],
+      "image_urls": [],
+      "video_urls": [],
+      "media_note": "",
+      "url": "https://x.com/rauchg/status/2060105470460010993",
+      "canonical_url": "https://x.com/rauchg/status/2060105470460010993",
+      "published_at": "Thu, 28 May 2026 21:06:33 GMT",
+      "published_date": "2026-05-28",
+      "kind": "post",
+      "score": 80
+    },
+    {
+      "account_id": "rauchg",
+      "handle": "rauchg",
+      "author_name": "Guillermo Rauch",
+      "role": "Vercel CEO",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r.jpg",
+      "original_text": "Excellent model, particularly impressive in visual tasks. Give it a try v0: You can now use Claude Opus 4.8 in v0. Try it at https://v0.app",
+      "zh_text": "出色的模型，在视觉任务中尤其令人印象深刻。在 v0 中试试看：你现在可以在 v0 中使用 Claude Opus 4.8。在 https://v0.app 上试试吧。",
+      "commentary": "",
+      "media_urls": [],
+      "image_urls": [],
+      "video_urls": [
+        "https://video.twimg.com/amplify_video/2060046366735556608/vid/avc1/1280x720/rqtxETdJ0qQXHyay.mp4?tag=14"
+      ],
+      "media_note": "",
+      "url": "https://x.com/rauchg/status/2060059726172520564",
+      "canonical_url": "https://x.com/rauchg/status/2060059726172520564",
+      "published_at": "Thu, 28 May 2026 18:04:47 GMT",
+      "published_date": "2026-05-28",
+      "kind": "post",
+      "score": 80
+    },
+    {
+      "account_id": "rauchg",
+      "handle": "rauchg",
+      "author_name": "Guillermo Rauch",
+      "role": "Vercel CEO",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r.jpg",
+      "original_text": "I watched the team dream up a static design with AI, then bring it to life in WebGPU shaders in less than a day. How can you not be excited about software development in 2026 😁 You can just ship beautiful things. http://nextjs.org/nights",
+      "zh_text": "我看着团队用AI构思出一个静态设计，然后在不到一天的时间里用WebGPU着色器将其变为现实。你怎么能不对2026年的软件开发感到兴奋呢😁 你完全可以交付美丽的东西。http://nextjs.org/nights",
+      "commentary": "",
+      "media_urls": [],
+      "image_urls": [],
+      "video_urls": [
+        "https://video.twimg.com/amplify_video/2060038412057624576/vid/avc1/2998x1556/FB4cKf8yxPyjwGBn.mp4?tag=27"
+      ],
+      "media_note": "",
+      "url": "https://x.com/rauchg/status/2060039205561254097",
+      "canonical_url": "https://x.com/rauchg/status/2060039205561254097",
+      "published_at": "Thu, 28 May 2026 16:43:14 GMT",
+      "published_date": "2026-05-28",
+      "kind": "post",
+      "score": 80
+    },
+    {
+      "account_id": "perplexity_ai",
+      "handle": "perplexity_ai",
+      "author_name": "Perplexity",
+      "role": "AI search",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib.jpg",
+      "original_text": "Claude Opus 4.8 is now available for Max subscribers on Perplexity and Computer.",
+      "zh_text": "Claude Opus 4.8 现已面向 Perplexity 和 Computer 上的 Max 订阅用户开放。",
+      "commentary": "",
+      "media_urls": [],
+      "image_urls": [],
+      "video_urls": [
+        "https://video.twimg.com/amplify_video/2060049592075587584/vid/avc1/1280x720/oDJ1q93qxO0CgG49.mp4?tag=14"
+      ],
+      "media_note": "",
+      "url": "https://x.com/perplexity_ai/status/2060049662044962858",
+      "canonical_url": "https://x.com/perplexity_ai/status/2060049662044962858",
+      "published_at": "Thu, 28 May 2026 17:24:47 GMT",
+      "published_date": "2026-05-28",
+      "kind": "post",
+      "score": 78
+    },
+    {
+      "account_id": "perplexity_ai",
+      "handle": "perplexity_ai",
+      "author_name": "Perplexity",
+      "role": "AI search",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib.jpg",
+      "original_text": "RT Shopify manage your store with @perplexity_ai Computer do market research, generate product images, and design a theme in parallel another day, another agent where you can run your business",
+      "zh_text": "转发 Shopify：使用 @perplexity_ai 计算机管理您的商店，进行市场调研、生成产品图片并同时设计主题。又是新的一天，又一个能让您运营业务的智能体。",
+      "commentary": "",
+      "media_urls": [],
+      "image_urls": [],
+      "video_urls": [
+        "https://video.twimg.com/amplify_video/2059289225053319168/vid/avc1/1080x1080/iLgTD85WF1onoj_g.mp4?tag=27"
+      ],
+      "media_note": "",
+      "url": "https://x.com/perplexity_ai/status/2059364537837527332",
+      "canonical_url": "https://x.com/perplexity_ai/status/2059364537837527332",
+      "published_at": "Tue, 26 May 2026 15:05:15 GMT",
+      "published_date": "2026-05-26",
+      "kind": "post",
+      "score": 78
+    },
+    {
+      "account_id": "perplexity_ai",
+      "handle": "perplexity_ai",
+      "author_name": "Perplexity",
+      "role": "AI search",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2009310641165660160/XArF3_Ib.jpg",
+      "original_text": "Rho cut weekly meeting time by 90% with Perplexity Computer. Computer checks Slack, Notion, Jira, Figma, and Google Docs, then flags missing tasks and changes the team needs to see. 120 work hours saved during a 12-week project. Read the customer story: https://www.perplexity.ai/enterprise/customers/rho",
+      "zh_text": "Rho 借助 Perplexity Computer 将每周会议时间减少了 90%。Computer 会检查 Slack、Notion、Jira、Figma 和 Google Docs，然后标记团队需要关注的遗漏任务和变更。在一个 12 周的项目中节省了 120 个工时。阅读客户案例：https://www.perplexity.ai/enterprise/customers/rho",
+      "commentary": "",
+      "media_urls": [],
+      "image_urls": [],
+      "video_urls": [],
+      "media_note": "",
+      "url": "https://x.com/perplexity_ai/status/2056749555346235704",
+      "canonical_url": "https://x.com/perplexity_ai/status/2056749555346235704",
+      "published_at": "Tue, 19 May 2026 14:51:21 GMT",
+      "published_date": "2026-05-19",
+      "kind": "post",
+      "score": 78
+    }
+  ],
   "accounts": [
     {
       "account_id": "elonmusk",
@@ -109,7 +238,7 @@
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/ylecun"
       ],
-      "error_message": "empty feed"
+      "error_message": "text/html; charset=UTF-8 is not an XML media type"
     },
     {
       "account_id": "demishassabis",
@@ -163,25 +292,25 @@
       "account_id": "rauchg",
       "handle": "rauchg",
       "name": "Guillermo Rauch",
-      "status": "fetch_error",
-      "items_fetched": 0,
-      "active_url": null,
+      "status": "success",
+      "items_fetched": 3,
+      "active_url": "https://rsshub-boost.23751.net/twitter/user/rauchg",
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/rauchg"
       ],
-      "error_message": "text/html; charset=UTF-8 is not an XML media type"
+      "error_message": null
     },
     {
       "account_id": "perplexity_ai",
       "handle": "perplexity_ai",
       "name": "Perplexity",
-      "status": "fetch_error",
-      "items_fetched": 0,
-      "active_url": null,
+      "status": "success",
+      "items_fetched": 3,
+      "active_url": "https://rsshub-boost.23751.net/twitter/user/perplexity_ai",
       "attempted_urls": [
         "https://rsshub-boost.23751.net/twitter/user/perplexity_ai"
       ],
-      "error_message": "text/html; charset=UTF-8 is not an XML media type"
+      "error_message": null
     }
   ]
 }

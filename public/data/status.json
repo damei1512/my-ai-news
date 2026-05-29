@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-29T03:43:54Z",
+  "finished_at": "2026-05-29T10:01:46Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -23,7 +23,7 @@
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 0,
+    "items": 6,
     "accounts": 15,
     "account_statuses": [
       {
@@ -132,7 +132,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/ylecun"
         ],
-        "error_message": "empty feed"
+        "error_message": "text/html; charset=UTF-8 is not an XML media type"
       },
       {
         "account_id": "demishassabis",
@@ -186,25 +186,25 @@
         "account_id": "rauchg",
         "handle": "rauchg",
         "name": "Guillermo Rauch",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/rauchg",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/rauchg"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       },
       {
         "account_id": "perplexity_ai",
         "handle": "perplexity_ai",
         "name": "Perplexity",
-        "status": "fetch_error",
-        "items_fetched": 0,
-        "active_url": null,
+        "status": "success",
+        "items_fetched": 3,
+        "active_url": "https://rsshub-boost.23751.net/twitter/user/perplexity_ai",
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/perplexity_ai"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": null
       }
     ]
   },
