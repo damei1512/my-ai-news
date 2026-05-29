@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-28T20:32:27Z",
+  "finished_at": "2026-05-29T03:43:54Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -96,7 +96,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/karpathy"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": "empty feed"
       },
       {
         "account_id": "anthropicai",
@@ -132,7 +132,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/ylecun"
         ],
-        "error_message": "text/html; charset=UTF-8 is not an XML media type"
+        "error_message": "empty feed"
       },
       {
         "account_id": "demishassabis",
