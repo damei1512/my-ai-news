@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-05-30T08:40:22Z",
+  "finished_at": "2026-05-30T13:40:20Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -17,11 +17,9 @@
     "base_urls": [
       "https://api.deepseek.com"
     ],
-    "status": "degraded",
-    "degraded_items": 1,
-    "error_counts": {
-      "unexpected_error": 1
-    }
+    "status": "success",
+    "degraded_items": 0,
+    "error_counts": {}
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
