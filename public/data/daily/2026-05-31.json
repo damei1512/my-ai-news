@@ -3,22 +3,42 @@
     "week": "周日",
     "articles": [
       {
+        "category": "时事热点",
+        "tag": "埃博拉",
+        "title": "刚果（金）埃博拉疫情蔓延，无国界医生警告“令人深感担忧”",
+        "link": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+        "summary": "无国界医生组织对刚果（金）埃博拉疫情扩散表示“深感担忧”，正值世界卫生组织总干事访问疫情最严重地区。",
+        "comment": "国际援助组织与世卫组织同步关注，凸显疫情严峻性。",
+        "image": "",
+        "score": 88
+      },
+      {
         "category": "游戏影视",
         "tag": "游戏影视",
-        "title": "机核夏日新品清凉上架，加入喝水俱乐部",
+        "title": "机核推出「机组成员」夏日新品，618优惠季同步开启",
         "link": "https://www.gcores.com/articles/215144",
-        "summary": "吉考斯工业推出「机组成员」系列夏季新品，涵盖多种主题设计，通过服装表达生活主张。618期间可领券优惠。",
-        "comment": "用服装传递日常趣味，设计有巧思。",
+        "summary": "吉考斯工业发布「机组成员」系列夏季新品，涵盖多种主题设计，通过服装表达生活主张。5月31日至6月21日期间可领券享受618优惠。",
+        "comment": "以日常主题切入，设计有趣，但商业推广意图明显。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "法国",
-        "title": "法国欧冠庆祝活动致数百人被捕",
+        "title": "法国欧冠庆祝活动引发大规模骚乱，数百人被捕",
         "link": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
-        "summary": "数千名警察试图平息骚乱，大批球迷（部分发射信号弹）庆祝巴黎圣日耳曼战胜阿森纳。",
-        "comment": "庆祝失控暴露公共秩序管理漏洞。",
+        "summary": "数千名警察试图平息骚乱，大量球迷（部分发射信号弹）庆祝巴黎圣日耳曼战胜阿森纳，导致数百人被捕。",
+        "comment": "狂欢失控，警方强力介入凸显公共秩序维护难题。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "日本",
+        "title": "日本防卫大臣否认军国主义，批评中国“庞大武库”",
+        "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+        "summary": "小泉进次郎就日本军事扩张争议发表迄今最尖锐言论，否认军国主义倾向，并批评中国拥有“庞大武库”。",
+        "comment": "日方强硬表态，东亚安全博弈升级。",
         "image": "",
         "score": 86
       }
