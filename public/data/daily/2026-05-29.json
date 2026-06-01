@@ -5,19 +5,9 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "公司过度依赖AI会怎样？Box创始人警告",
-        "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-        "summary": "Box创始人Aaron Levie指出，决定用AI替代你工作的人往往最不了解你的工作实质，揭示了企业盲目AI化的风险。",
-        "comment": "AI替代决策需基于深度理解，而非盲目跟风。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
         "title": "波士顿儿童医院用AI解锁新诊断方法",
         "link": "https://openai.com/index/boston-childrens-hospital",
-        "summary": "波士顿儿童医院利用OpenAI技术改善患者护理、减轻运营负担，并帮助诊断了40多例罕见病。",
+        "summary": "波士顿儿童医院利用OpenAI技术改善患者护理、减轻运营负担，并帮助诊断了40多例罕见疾病。",
         "comment": "AI在医疗诊断中展现实际价值。",
         "image": "",
         "score": 100
@@ -25,10 +15,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Braintrust利用Codex将客户请求转化为代码",
+        "title": "Braintrust利用Codex将客户需求转化为代码",
         "link": "https://openai.com/index/braintrust",
-        "summary": "Braintrust工程师借助OpenAI的Codex与GPT-5.5，加速实验与代码编写，提升开发效率。",
-        "comment": "AI辅助编码正从概念走向实际生产力。",
+        "summary": "Braintrust工程师使用OpenAI的Codex与GPT-5.5，加速实验和编码过程，将客户请求高效转化为代码。",
+        "comment": "AI辅助编码正从概念走向实际生产力提升。",
         "image": "",
         "score": 100
       },
@@ -37,8 +27,8 @@
         "tag": "人工智能",
         "title": "OpenAI推出Rosalind生物防御计划",
         "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-        "summary": "OpenAI启动Rosalind Biodefense项目，向经过审核的开发者和美国政府合作伙伴扩展GPT-Rosalind的信任访问，以推进生物防御、公共卫生和流行病预防。",
-        "comment": "AI在生物安全领域的务实应用，强化公共健康防御。",
+        "summary": "OpenAI启动Rosalind Biodefense，向经过审核的开发者和美国政府合作伙伴扩展GPT-Rosalind的信任访问，以推进生物防御、公共卫生和流行病预防。",
+        "comment": "AI赋能生物安全，关键在信任与管控。",
         "image": "",
         "score": 100
       },
@@ -47,130 +37,40 @@
         "tag": "人工智能",
         "title": "OpenAI发布第三方AI评估指南",
         "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-        "summary": "OpenAI发布第三方AI评估指南，涵盖如何评估前沿系统的模型能力、安全防护及有效性。",
-        "comment": "为行业提供了可操作的评估框架。",
+        "summary": "OpenAI发布第三方AI评估指南，涵盖评估前沿系统能力、安全防护和有效性的方法。",
+        "comment": "为AI安全评估提供标准化框架。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "程序员拒绝无AI工作，研究警告长期隐患",
-        "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-        "summary": "研究人员警告，AI虽助程序员更快产出代码，但未必提升代码质量，长期可能带来问题。",
-        "comment": "效率提升需警惕质量隐忧。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AI术语泛滥，一文帮你厘清常见词汇",
-        "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "summary": "随着AI兴起，新术语和俚语层出不穷。本文提供了一份词汇表，定义了你可能遇到的一些最重要词汇和短语。",
-        "comment": "实用术语指南，适合入门者快速扫盲。",
-        "image": "",
-        "score": 96
-      },
-      {
         "category": "数码科技",
         "tag": "比亚迪",
-        "title": "比亚迪为智驾兜底，车企角色转变",
+        "title": "比亚迪为智驾兜底，不再只是车企",
         "link": "https://www.ifanr.com/1667523?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪作为中国最懂芯片的车企，开始为智能驾驶兜底，这标志着其从传统车企向科技服务商的转型。",
-        "comment": "智驾兜底是车企向科技公司进化的关键一步。",
+        "summary": "比亚迪凭借对芯片的深度理解，开始为智能驾驶提供保障，这标志着其角色已超越传统车企，向科技公司转型。",
+        "comment": "智驾兜底是车企科技化的关键一步。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤：现代战争4》或提供战役模式抢先体验",
-        "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-may-get-campaign-early-access-report/",
-        "summary": "据GameSpot报道，今年的年度《使命召唤》系列新作《现代战争4》可能在正式发售前几个月，允许玩家提前体验战役模式。",
-        "comment": "抢先体验战役模式或为吸引预购的营销策略。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Call-of-Duty-Modern-Warfare-4.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神4",
-        "title": "《暗黑破坏神4》第14赛季将推出期待已久的单人模式",
-        "link": "https://www.gamespot.com/articles/diablo-4-is-getting-a-long-awaited-solo-mode-next-season/",
-        "summary": "《暗黑破坏神4》第14赛季将引入“独狼自建”模式，玩家可创建单人角色，挑战更高难度。暴雪已公布该模式细节。",
-        "comment": "单人模式满足硬核玩家需求，提升游戏可玩性。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Diablo-4-Adding-SSF-S14.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神4",
-        "title": "《暗黑破坏神4》第14赛季将大幅改动神话独特装备",
-        "link": "https://www.gamespot.com/articles/diablo-4-is-making-mythic-uniques-nothing-special/",
-        "summary": "《暗黑破坏神4》第14赛季将彻底重塑神话独特装备的运作方式，这一改动似乎并未获得玩家社区的好评。",
-        "comment": "削弱稀有度可能降低玩家追求动力。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Diablo-4-Mythic-Unique-S14-Changes.jpg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "启境GT7",
-        "title": "启境GT7预售21.99万起，华为技术深度植入",
-        "link": "https://www.ifanr.com/1667482?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "启境GT7开启预售，起售价21.99万元，车辆从系统到硬件大量采用华为技术，被称为“含华量”极高的车型。",
-        "comment": "华为技术加持或成新车核心卖点。",
+        "tag": "vivo",
+        "title": "vivo S60体验：手机就该少想多用",
+        "link": "https://www.ifanr.com/1667541?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "vivo S60以实用体验为核心，强调减少用户思考、提升操作效率，适合追求便捷的日常使用场景。",
+        "comment": "回归手机本质，体验优先的设计思路值得肯定。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "CD Projekt Red",
-        "title": "CDPR与沙特Scopely合作新作不会很快发布",
-        "link": "https://www.gamespot.com/articles/witcher-devs-new-game-with-saudi-arabias-scopely/",
-        "summary": "《巫师》开发商CD Projekt Red与沙特阿拉伯旗下游戏开发商Scopely合作开发一款新手机游戏，但该游戏不会很快发布。",
-        "comment": "合作方背景敏感，但项目尚处早期。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-2.30.37-PM.png?w=300",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《神鬼寓言》延期至2027年2月",
-        "link": "https://www.gamespot.com/articles/fable-has-been-delayed-to-february-2027/",
-        "summary": "Xbox确认《神鬼寓言》延期至2027年2月，原计划2026年底发布，由《极限竞速：地平线6》开发商Playground Games制作。",
-        "comment": "延期虽遗憾，但质量优先值得肯定。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Fable-2027.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "007",
-        "title": "007 First Light游戏服装对比电影经典造型",
-        "link": "https://www.gamespot.com/articles/see-how-007-first-lights-iconic-outfits-compare-to-the-james-bond-movies/",
-        "summary": "《007 First Light》游戏展示了詹姆斯·邦德的多款标志性服装，与电影系列中的经典造型进行对比，凸显了角色时尚风格的演变。",
-        "comment": "游戏服装还原度高，邦德迷值得一看。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/28_007_TacSim-UnlockedOutfits_PC_2K.mp4_.00_00_09_29.Still001.jpg?w=300",
+        "title": "CD Projekt Red与Scopely合作新手游，短期内不会发布",
+        "link": "https://www.gamespot.com/articles/witcher-devs-new-game-with-saudi-arabias-scopely/",
+        "summary": "《巫师》开发商CD Projekt Red与游戏开发商Scopely合作开发一款新手机游戏，但在最新财报电话会议上表示，该游戏不会很快发布。",
+        "comment": "合作手游尚在早期，玩家需耐心等待。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Screenshot-2026-05-29-at-2.30.37-PM.png?w=300",
         "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox发布会6月7日无下一代主机消息",
-        "link": "https://www.gamespot.com/articles/xbox-showcase-wont-have-next-gen-helix-news/",
-        "summary": "Xbox内容主管Matt Booty在最新播客中确认，6月7日的Xbox游戏展示会将不会公布关于Project Helix主机的任何消息。",
-        "comment": "专注游戏内容，硬件留待后续。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Helix.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "数码科技",
-        "tag": "vivo",
-        "title": "vivo S60 体验：手机就该少想多用",
-        "link": "https://www.ifanr.com/1667541?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "vivo S60 上手体验，强调手机设计应简化用户思考，提升实际使用体验。",
-        "comment": "回归实用主义，但创新点不足。",
-        "image": "",
-        "score": 88
       }
     ]
   }
