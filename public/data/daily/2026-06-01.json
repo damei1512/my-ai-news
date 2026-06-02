@@ -4,81 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Alphabet",
-        "title": "Alphabet计划筹集800亿美元用于AI基础设施建设",
-        "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-        "summary": "Alphabet表示企业和消费者对其AI解决方案和服务的需求强劲，超出公司现有供应能力，因此计划筹集800亿美元以扩大AI基础设施。",
-        "comment": "巨额投资反映AI需求爆发，但需警惕资本回报风险。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达联手微软戴尔惠普，以AI智能体PC进军2000亿美元CPU市场",
-        "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-        "summary": "英伟达若成功将AI智能体以简单、安全、实用的方式带给大众，有望撬动2000亿美元CPU市场，影响深远。",
-        "comment": "AI智能体PC或成英伟达新增长极。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "佛罗里达州起诉OpenAI及奥特曼，涉暴力事件首例诉讼",
-        "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-        "summary": "诉讼部分涉及去年佛罗里达州立大学枪击案，指控ChatGPT在该事件中扮演角色。",
-        "comment": "AI责任边界首次被司法系统直接挑战。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "SpaceX",
-        "title": "SpaceX IPO面临水资源获取风险",
-        "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-        "summary": "SpaceX表示，冷却数据中心需要大量水资源，而获取充足且廉价的水资源是一大挑战，这已成为其IPO的风险因素。",
-        "comment": "水资源短缺正成为科技巨头的新瓶颈。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic提交IPO申请，从AI挑战者到上市巨头",
-        "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-        "summary": "Anthropic，这家曾被视为大语言模型领域后起之秀的AI公司，如今已赢得顶级企业客户，并正式提交上市申请。",
-        "comment": "AI独角兽加速上市，行业竞争进入新阶段。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "AI政策",
-        "title": "OpenAI阐述AI政策与政治倡导立场",
+        "title": "OpenAI发布AI政策与政治倡导立场",
         "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-        "summary": "OpenAI发布其AI政策与政治倡导方法，强调透明度、支持审慎监管和AI安全，并声明无外部政治团体代表公司发言。",
-        "comment": "明确立场，强化安全与透明，为行业树立标杆。",
+        "summary": "OpenAI阐述其在AI政策与政治倡导中的透明度、支持审慎监管及AI安全，并强调无外部政治团体代表公司发言。",
+        "comment": "明确立场有助于行业规范发展。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI在密歇根启动1GW数据中心项目",
+        "title": "OpenAI在密歇根启动1GW数据中心建设",
         "link": "https://openai.com/index/stargate-michigan-data-center",
-        "summary": "OpenAI在密歇根破土动工建设1GW数据中心，作为Stargate项目的一部分，旨在扩展AI基础设施、创造就业并支持社区发展。",
-        "comment": "大规模AI基建落地，加速智能时代布局。",
+        "summary": "OpenAI作为Stargate项目的一部分，在密歇根破土动工建设1GW数据中心，旨在扩展AI基础设施、创造就业并支持社区。",
+        "comment": "大规模基建加速AI落地，但需关注能源与环境影响。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI前沿模型与Codex登陆AWS",
+        "title": "OpenAI前沿模型与Codex正式登陆AWS",
         "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-        "summary": "OpenAI前沿模型与Codex现已在AWS上全面可用，为企业通过AWS环境、控制和采购流程使用OpenAI提供了新途径。",
-        "comment": "云合作加速企业AI部署。",
+        "summary": "OpenAI前沿模型和Codex现已在AWS上全面可用，企业可通过AWS环境、控制和采购流程使用OpenAI构建应用。",
+        "comment": "云合作加速AI企业级部署。",
         "image": "",
         "score": 100
       },
@@ -87,38 +37,38 @@
         "tag": "豆包",
         "title": "豆包6月下旬正式付费，加速打通抖音电商",
         "link": "https://36kr.com/p/3834544830721671?f=rss",
-        "summary": "豆包将于6月下旬推出付费订阅服务，四档月费分别为免费、68元、200元、500元，年费对应免费、688元、2048元、5088元，并加速与抖音电商打通。",
-        "comment": "付费模式是AI产品商业化的关键一步。",
+        "summary": "豆包将于6月下旬推出付费订阅服务，四档收费标准分别为免费、68元、200元、500元每月，年费对应免费、688元、2048元、5088元。官方称免费服务不变，增值服务待探索。",
+        "comment": "豆包付费模式或为AI工具商业化试水。",
         "image": "",
         "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI模型",
+        "title": "阶跃Flash模型任务成本仅为Claude Opus 4.6的1/9",
+        "link": "https://www.ifanr.com/1667680?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "阶跃发布Flash模型，任务成本仅为Claude Opus 4.6的1/9，大幅提升AI模型效率，降低使用门槛。",
+        "comment": "成本优势显著，或加速AI应用普及。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "世界模型",
+        "title": "VAST在世界模型赛道开辟无人走过的路",
+        "link": "https://www.ifanr.com/1667604?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "VAST选择了一条尚未有人涉足的路径，致力于构建真正运转的世界模型，而非仅追求画面质量。",
+        "comment": "VAST的创新路径或为世界模型带来突破。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "英伟达",
         "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
         "link": "https://www.ifanr.com/1667641?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "英伟达推出新平台，Windows PC 将具备真正 AI 能力，或成 Mac mini 最强对手。",
-        "comment": "英伟达入局，AI PC 竞争格局生变。",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI模型",
-        "title": "阶跃Flash模型任务成本仅为Claude Opus 1/9",
-        "link": "https://www.ifanr.com/1667680?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "阶跃发布Flash模型，任务成本仅为Claude Opus的1/9，大幅提升AI模型效率。",
-        "comment": "成本优势显著，Flash模型或成行业新标杆。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "VAST",
-        "title": "VAST在世界模型赛道开辟全新路径",
-        "link": "https://www.ifanr.com/1667604?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "VAST在世界模型领域选择了一条尚未有人走过的创新路径，旨在解决当前模型缺乏真正运转世界的问题。",
-        "comment": "VAST的差异化路线或为世界模型带来突破。",
+        "summary": "英伟达推出新方案，推动Windows平台AI PC发展，或成Mac mini强劲对手。",
+        "comment": "英伟达入局，AI PC竞争格局生变。",
         "image": "",
         "score": 92
       },
@@ -127,8 +77,8 @@
         "tag": "智能电源",
         "title": "制糖工厂发布AI小电拼Mirror：全球首款智能体电源",
         "link": "https://www.ifanr.com/1667606?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "新增0.5寸琥珀屏，160W高能巡航，4×140W盲插，支持小米120W澎湃秒充，搭载CanOS 2.0与OTW云桥，从桌面电站到差旅随行充，重新定义AI时代万能充。",
-        "comment": "智能体电源概念落地，充电头开始具备AI原生能力。",
+        "summary": "新增0.5寸ingBar琥珀屏，160W高能巡航，4×140W盲插，支持小米120W澎湃秒充，CanOS 2.0如意系统+OTW云桥，从桌面电站到差旅随行充，定义AI时代万能充。",
+        "comment": "智能体电源概念落地，充电头开始进化。",
         "image": "",
         "score": 92
       },
@@ -137,20 +87,20 @@
         "tag": "华为",
         "title": "华为发布nova 16系列：2亿主摄与红枫影像",
         "link": "https://www.ifanr.com/1667771?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为nova 16系列发布，搭载2亿像素主摄和红枫影像技术，兼顾影像升级与设计传承。",
-        "comment": "影像堆料显著，但创新仍需观察。",
+        "summary": "华为nova 16系列发布，主打2亿像素主摄和红枫影像技术，延续时尚定位并提升拍照体验。",
+        "comment": "影像升级显著，但创新力度有限。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "iOS 27",
-        "title": "WWDC26前瞻：新iPhone系统iOS 27稳中向好",
+        "tag": "iOS",
+        "title": "WWDC26前瞻：今年新iPhone系统长什么样",
         "link": "https://www.ifanr.com/1667454?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，iOS 27系统在WWDC26上亮相，整体表现稳定，功能优化为主，为用户带来更流畅体验。",
-        "comment": "iOS 27延续稳健路线，缺乏突破性创新。",
+        "summary": "iOS 27预计在WWDC26上亮相，系统更新稳中向好，带来新功能与优化。",
+        "comment": "iOS 27迭代稳健，但创新力度待观察。",
         "image": "",
-        "score": 88
+        "score": 91
       }
     ]
   }
