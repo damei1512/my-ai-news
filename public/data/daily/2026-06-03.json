@@ -7,68 +7,38 @@
         "tag": "Alphabet",
         "title": "Alphabet创纪录850亿美元融资，为谷歌AI业务注入强心剂",
         "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-        "summary": "Alphabet通过发行股票筹集850亿美元，创历史纪录，用于支持谷歌AI业务。此举表明投资者对AI相关投资兴趣浓厚，市场信心强劲。",
-        "comment": "巨额融资凸显AI赛道资本热度，谷歌战略布局加速。",
+        "summary": "Alphabet通过发行股票筹集850亿美元，创历史纪录，用于支持谷歌AI业务。此举显示投资者对AI相关投资兴趣浓厚，市场信心强劲。",
+        "comment": "巨额融资印证AI赛道资本热度不减。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "谷歌",
-        "title": "谷歌Dreambeans：用AI将个人数据变成卡通故事",
+        "title": "谷歌Dreambeans：将个人数据转为AI卡通故事",
         "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
         "summary": "Dreambeans是谷歌推出的AI工具，能从用户Google账户中提取个人数据，生成AI插图的“故事”列表，将生活变成卡通风格。",
-        "comment": "谷歌用AI把隐私数据变成娱乐，创意与风险并存。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "语音AI",
-        "title": "前高盛与Meta创始人打造面向非洲中东的语音AI",
-        "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-        "summary": "该初创公司自研语音AI堆栈，在非洲和中东市场每日处理超1.7万通电话，专注被忽视的市场需求。",
-        "comment": "精准切入蓝海市场，差异化竞争策略值得关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI监控",
-        "title": "Coralogix获2亿美元融资，押注AI代理监控需求",
-        "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-        "summary": "Coralogix是众多基础设施公司之一，押注随着AI系统投入生产，监控其行为、故障排查的工具需求将上升。",
-        "comment": "AI监控赛道正成为资本新热点。",
+        "comment": "数据隐私与创意结合的激进尝试。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI为GPT-Rosalind新增生物推理与化学分析能力",
+        "title": "OpenAI为GPT-Rosalind新增生物推理与基因组分析能力",
         "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "summary": "GPT-Rosalind获得增强，具备更深入的生物推理、药物化学专业知识、基因组学分析和实验工作流能力，推动生命科学研究。",
-        "comment": "AI在生命科学垂直领域的专业化迈出关键一步。",
+        "summary": "GPT-Rosalind获得增强，具备生物推理、药物化学、基因组分析和实验流程能力，推动生命科学研究。",
+        "comment": "AI在生命科学领域迈出关键一步。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Wasmer利用Codex加速构建边缘Node.js运行时",
+        "title": "Wasmer利用Codex构建边缘Node.js运行时",
         "link": "https://openai.com/index/wasmer",
-        "summary": "Wasmer借助OpenAI的Codex和GPT-5.5，将边缘Node.js运行时的开发效率提升10到20倍，交付周期从数月缩短至数周。",
-        "comment": "AI辅助开发正从辅助走向核心生产力。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI提出前沿AI民主治理蓝图",
-        "link": "https://openai.com/index/frontier-safety-blueprint",
-        "summary": "OpenAI发布美国前沿AI治理蓝图，提议建立联邦框架，涵盖安全、韧性和国家安全。",
-        "comment": "为AI监管提供具体路径，但实施挑战大。",
+        "summary": "Wasmer借助OpenAI Codex和GPT-5.5，将边缘Node.js运行时开发速度提升10至20倍，数周内完成交付。",
+        "comment": "AI辅助编程显著加速边缘计算基础设施开发。",
         "image": "",
         "score": 100
       },
@@ -85,40 +55,30 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Lovable与Google Cloud签署多年协议，使用量将增5倍",
+        "title": "OpenAI提出前沿AI民主治理蓝图",
+        "link": "https://openai.com/index/frontier-safety-blueprint",
+        "summary": "OpenAI发布美国前沿AI治理蓝图，提议建立联邦框架以保障安全性、韧性和国家安全。",
+        "comment": "为AI监管提供了具体可操作的联邦级方案。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Lovable与谷歌云签多年协议，使用量将增5倍",
         "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-        "summary": "Lovable与Google Cloud签署扩大后的多年协议，将其在Google Cloud上的使用量扩大5倍，并增加对Anthropic Claude的访问权限。",
-        "comment": "AI初创公司加速云合作，资源整合成趋势。",
+        "summary": "Lovable与谷歌云签署了扩大后的多年协议，将其在谷歌云上的使用量扩大5倍，并扩展对Anthropic Claude的访问权限。",
+        "comment": "AI初创公司加速云合作，资源整合成关键。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "亚马逊",
-        "title": "亚马逊搜索将展示AI生成的产品图像",
+        "title": "亚马逊搜索将展示AI生成产品图像",
         "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-        "summary": "亚马逊将利用视觉搜索和AI技术，根据用户查询生成并展示AI产品图像，以帮助引导用户找到合适商品。",
+        "summary": "亚马逊将利用视觉搜索和AI技术，根据用户查询生成匹配的产品图像，以帮助引导用户找到商品。",
         "comment": "AI图像搜索或提升购物体验，但需警惕误导风险。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI搜索",
-        "title": "英国监管要求谷歌提供AI搜索退出工具",
-        "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-        "summary": "英国监管机构要求谷歌提供工具，允许网站发布者选择退出生成式AI搜索功能。该选项将在英国测试后全球推广。",
-        "comment": "监管介入平衡AI发展与内容权益。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Meta为WhatsApp商业版推出全球AI代理服务",
-        "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-        "summary": "WhatsApp将根据令牌使用量向企业收取AI代理服务费用，该功能已全球上线。",
-        "comment": "按量计费模式或推动中小企业AI应用普及。",
         "image": "",
         "score": 99
       },
@@ -127,8 +87,8 @@
         "tag": "火山引擎",
         "title": "火山引擎MaaS营收目标上调至150亿元，Seedance 2.0月入超10亿",
         "link": "https://36kr.com/p/3836973710423429?f=rss",
-        "summary": "字节跳动火山引擎将2026年MaaS营收目标上调至150亿元，为去年实际营收15亿元的10倍，Seedance 2.0单月营收已超10亿元。",
-        "comment": "目标激进，反映AI云服务需求爆发。",
+        "summary": "36氪独家获悉，字节跳动火山引擎2026年MaaS营收目标上调至150亿元，较2025年实际营收15亿元增长10倍，且目标每月上调。Seedance 2.0单月营收已超10亿元。",
+        "comment": "营收目标激增十倍，显示AI云服务需求爆发。",
         "image": "",
         "score": 98
       },
@@ -137,10 +97,10 @@
         "tag": "A股",
         "title": "A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
         "link": "https://36kr.com/p/3838091144464644?f=rss",
-        "summary": "今日热点：名创优品会员买单仅限潮玩商品；谷歌扩大Quick Share与AirDrop互传适配范围；Meta扩大青少年内容管控；多家银行下架3年期5年期定期存款；联讯仪器股价冲破2000元，成A股第4只两千元股。",
+        "summary": "今日热点：联讯仪器盘中股价冲破2000元，成为A股第4只两千元股；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元。此外，名创优品会员买单仅限潮玩商品，谷歌扩大Quick Share与AirDrop互传适配范围，Meta扩大青少年内容管控，多家银行下架3年期5年期定期存款。",
         "comment": "科技与金融热点交织，市场情绪分化明显。",
         "image": "",
-        "score": 96
+        "score": 97
       },
       {
         "category": "数码科技",
@@ -148,58 +108,38 @@
         "title": "曲美家居境外发债；段永平增持泡泡玛特；白银跌破74美元",
         "link": "https://36kr.com/p/3837330582008963?f=rss",
         "summary": "曲美家居境外子公司拟发行不超9亿挪威克朗债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司。瑞典AI初创Lovable与Google Cloud扩大合作，美银预计英伟达Vera CPU销售额达200亿美元。",
-        "comment": "科技与消费市场动态交织，关注AI合作与贵金属走势。",
+        "comment": "科技与消费动态交织，市场信号分化明显。",
         "image": "",
         "score": 95
       },
       {
         "category": "数码科技",
         "tag": "微软",
-        "title": "微软自研模型MAI发布，PC变身AI Agent工位",
+        "title": "微软发布自研MAI模型，PC变身AI Agent工位",
         "link": "https://www.ifanr.com/1667971?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微软发布自研模型MAI，补上AI供应链关键一环，将PC转化为AI Agent工位。",
+        "summary": "微软发布自研MAI模型，补上AI供应链关键一环，让PC成为AI Agent工位。",
         "comment": "微软自研模型补齐AI生态，PC智能化再进一步。",
         "image": "",
-        "score": 93
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "ChatGPT",
-        "title": "ChatGPT一夜变身Claude，Agent之争从Coding开始",
+        "title": "一夜之间，ChatGPT 变成第二个 Claude",
         "link": "https://www.ifanr.com/1667898?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "ChatGPT在Agent能力上突然向Claude靠拢，竞争焦点转向编程领域，引发行业关注。",
-        "comment": "AI助手竞争进入深水区，编程能力成关键战场。",
+        "summary": "Agent 之争从 Coding 开始，ChatGPT 更新后与 Claude 功能趋同。",
+        "comment": "AI 助手同质化加速，差异化竞争成关键。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "AI",
+        "tag": "微软",
         "title": "微软发布Windows梦中神机，腾讯云DeepSeek-V4降价97.5%",
         "link": "https://www.ifanr.com/1667902?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "Alphabet拟融资800亿美元投入AI基建，字节Seed机器人团队转向周畅汇报，Codex免费账号配额缩水，重置周期从7天变30天。",
-        "comment": "AI基建融资激增，云服务价格战加剧。",
+        "comment": "科技巨头AI投入加速，但免费服务却在收紧。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战神",
-        "title": "《战神》开发者解释劳菲在系列中的地位",
-        "link": "https://www.gamespot.com/articles/god-of-war-devs-explain-laufeys-place-in-the-franchise/",
-        "summary": "《战神》新作《战神：劳菲》被确认为聚焦克拉托斯亡妻菲的衍生作品，开发者阐述了她在系列中的角色与意义。",
-        "comment": "衍生作聚焦菲，拓展世界观的新尝试。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/God-of-War-Laufey-featured.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤》第4赛季补丁详情：SG-12削弱与反作弊更新",
-        "link": "https://www.gamespot.com/articles/cod-season-4-patch-notes-detail-sg-12-nerf-anti-cheat-updates-and-more/",
-        "summary": "《黑色行动7》和《战区》第4赛季于6月4日上线，开发者补丁说明揭示了《使命召唤》各模式的主要调整，包括SG-12削弱和反作弊更新。",
-        "comment": "反作弊更新是长期痛点，值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/COD-BO7-S04-PATCH-NOTES-TOUT.jpg?w=300",
         "score": 92
       },
       {
@@ -208,7 +148,7 @@
         "title": "云台相机2026大乱斗：起源与未来",
         "link": "https://www.ifanr.com/1667991?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "云台相机市场在2026年迎来激烈竞争，文章探讨其发展历程与未来趋势，强调多样性是行业健康标志。",
-        "comment": "云台相机竞争加剧，创新才是出路。",
+        "comment": "云台相机竞争加剧，创新才是突围关键。",
         "image": "",
         "score": 91
       },
@@ -217,48 +157,18 @@
         "tag": "数码科技",
         "title": "制糖工厂发布AI小电拼Mirror，支持AI Agent原生接入",
         "link": "https://www.ifanr.com/1667908?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂CANDYSIGN推出AI小电拼Mirror，采用4C1A五口设计，支持AI Agent原生接入，是新一代智能电源产品。",
-        "comment": "AI与电源结合，探索智能硬件新场景。",
+        "summary": "制糖工厂CANDYSIGN推出AI小电拼Mirror，新一代产品采用4C1A五接口设计，支持AI Agent原生接入，提升智能充电体验。",
+        "comment": "AI与充电设备结合，探索智能硬件新方向。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "辟谣",
-        "title": "礼让行人挥手被判赔30%？营销号造谣别信",
+        "title": "礼让行人挥手被判赔30%？纯属胡扯！",
         "link": "https://www.ifanr.com/1667889?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "营销号散布“礼让行人挥手被判赔30%”谣言，误导公众不敢做好事，爱范儿辟谣并呼吁理性看待交通法规。",
+        "summary": "营销号散布谣言称礼让行人挥手致意被判赔30%，爱范儿辟谣指出这是虚假信息，提醒公众不要被误导。",
         "comment": "谣言止于智者，别让营销号绑架善意。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《第三次世界大战》服务器即将关闭",
-        "link": "https://www.gamespot.com/articles/world-war-3-servers-shutting-down-soon/",
-        "summary": "免费军事FPS游戏《第三次世界大战》即将下线，开发商New Generation Games宣布经过慎重考虑后将停止对该游戏的支持。",
-        "comment": "一款免费FPS的落幕，市场选择的结果。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/WW3.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战神",
-        "title": "《战神》新作遭达美乐调侃，圣莫尼卡工作室回应",
-        "link": "https://www.gamespot.com/articles/god-of-war-laufey-dev-responds-to-pizza-companys-dumb-tweet-about-new-game/",
-        "summary": "达美乐英国账号在社交媒体上调侃《战神：劳菲》新作，圣莫尼卡工作室随后作出回应，引发玩家热议。",
-        "comment": "品牌蹭热度需谨慎，游戏社区反应敏感。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/pizza.png?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "特朗普",
-        "title": "特朗普与内塔尼亚胡“疯狂”通话使伊朗谈判复杂化",
-        "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列总理内塔尼亚胡对摩擦报道一笑置之，但他此前已多次考验其他美国总统的耐心。此次通话加剧了美以在伊朗问题上的分歧。",
-        "comment": "美以关系裂痕公开化，伊朗谈判前景堪忧。",
         "image": "",
         "score": 87
       }
