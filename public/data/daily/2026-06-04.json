@@ -5,10 +5,40 @@
       {
         "category": "人工智能",
         "tag": "Anthropic",
-        "title": "Anthropic IPO前夕：年化收入达470亿美元，高管无视AI回报质疑",
+        "title": "Anthropic IPO前夕，联合创始人淡化AI回报疑虑",
         "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-        "summary": "Anthropic在IPO前公布年化收入达470亿美元，较2025年底的90亿美元大幅增长，联合创始人Daniela Amodei对AI投资回报的质疑不以为意。",
-        "comment": "收入暴增5倍，但IPO前仍需证明盈利可持续性。",
+        "summary": "Anthropic增长迅猛，5月年化收入突破470亿美元，较2025年底的约90亿美元大幅攀升。",
+        "comment": "高增长数据为IPO叙事提供有力支撑。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI代理",
+        "title": "Endava围绕AI代理重塑软件交付流程",
+        "link": "https://openai.com/index/endava-frontiers",
+        "summary": "Endava利用AI代理、ChatGPT Enterprise和Codex加速软件交付、自动化工作流，并在企业内构建AI原生文化。",
+        "comment": "传统软件交付模式正被AI代理彻底重构。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "ChatGPT",
+        "title": "ChatGPT推出记忆系统“Dreaming”提升个性化体验",
+        "link": "https://openai.com/index/chatgpt-memory-dreaming",
+        "summary": "OpenAI为ChatGPT引入新记忆系统，能记住用户偏好，跨对话保持上下文新鲜与相关，提升助手实用性。",
+        "comment": "记忆功能是AI助手迈向个性化的重要一步。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "OpenAI发布智能时代生物防御行动计划",
+        "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+        "summary": "OpenAI提出利用人工智能增强生物弹性的行动方案，涵盖监测、预警与应对策略。",
+        "comment": "AI在生物安全领域的应用值得关注。",
         "image": "",
         "score": 100
       },
@@ -18,49 +48,29 @@
         "title": "Airbnb CEO计划成立新AI实验室",
         "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
         "summary": "Airbnb CEO Brian Chesky去年表示，因现有大语言模型产品尚未成熟，公司未达成相关合作。",
-        "comment": "自研AI实验室或为突破合作瓶颈。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Endava围绕AI代理重新设计软件交付",
-        "link": "https://openai.com/index/endava-frontiers",
-        "summary": "Endava利用AI代理、ChatGPT企业版和Codex加速软件交付、自动化工作流，并在全公司构建AI原生文化。",
-        "comment": "AI代理正从工具升级为交付流程核心。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "ChatGPT",
-        "title": "OpenAI为ChatGPT引入新记忆系统提升上下文连贯性",
-        "link": "https://openai.com/index/chatgpt-memory-dreaming",
-        "summary": "ChatGPT推出新记忆系统，能更好记住用户偏好，保持对话上下文新鲜和相关，提升跨会话体验。",
-        "comment": "记忆增强是AI助手实用化的关键一步。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI发布智能时代生物防御行动计划",
-        "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
-        "summary": "OpenAI提出利用人工智能增强生物弹性的行动方案，涵盖监测、响应与预防，以应对未来生物威胁。",
-        "comment": "AI与生物安全的结合是前瞻性布局。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "StrictlyVC洛杉矶大会聚焦国防科技、AI与融资",
-        "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-        "summary": "6月18日，投资者、创始人和科技领袖将在航空航天公司园区聚会，探讨国防科技、人工智能和融资等关键议题。",
-        "comment": "AI与国防融合成投资新热点。",
+        "comment": "AI布局加速，Airbnb寻求自主技术突破。",
         "image": "",
         "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "防务科技",
+        "title": "StrictlyVC洛杉矶6月18日聚焦防务科技、AI与融资",
+        "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+        "summary": "6月18日周四，在航空航天公司园区，投资者、创始人和科技领袖将齐聚一堂，探讨防务科技、人工智能及融资等关键议题。",
+        "comment": "防务与AI结合成创投新热点。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "今年最值得升级的生产力工具：AI工位",
+        "link": "https://www.ifanr.com/1667995?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AI工位整合智能助手与自动化工具，提升工作效率，是数码科技领域的重要创新。",
+        "comment": "AI工位或成未来办公标配。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
@@ -68,27 +78,17 @@
         "title": "曝苹果Vision Pro系列被砍，DeepSeek首轮融资约500亿元",
         "link": "https://www.ifanr.com/1668044?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "荣耀YOYO智能体可直接操控微信，苹果公布2026设计大奖得主，Google允许网站退出AI搜索。",
-        "comment": "科技巨头调整战略，AI与硬件竞争加剧。",
+        "comment": "科技巨头动态密集，AI与硬件调整成焦点。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "AI",
-        "title": "今年最值得升级的生产力工具，可能是一整张AI工位",
-        "link": "https://www.ifanr.com/1667995?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI时代，照顾好自己就是最实在的生产力，爱范儿探讨如何通过AI工位提升工作效率与生活品质。",
-        "comment": "AI工位概念务实，聚焦个人效率与健康平衡。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
         "tag": "充电器",
-        "title": "制糖工厂发布AI小电拼Mirror：多口充电进入功率复用时代",
+        "title": "制糖工厂发布AI小电拼Mirror，多口充电进入功率复用时代",
         "link": "https://www.ifanr.com/1667933?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂推出AI小电拼Mirror，4个USB-C口均支持140W输出，通过FluxAI自由流算法实现多设备功率实时回收与动态再分配。",
-        "comment": "功率复用算法是充电器差异化竞争的关键创新。",
+        "summary": "制糖工厂CANDYSIGN推出AI小电拼Mirror旗舰充电器，延续4C五口设计，每个USB-C口支持最高140W输出，通过FluxAI自由流算法实现多设备功率实时回收与动态再分配。",
+        "comment": "功率复用算法让多口充电效率显著提升。",
         "image": "",
         "score": 91
       }
