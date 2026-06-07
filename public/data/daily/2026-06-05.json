@@ -4,41 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌每月向SpaceX支付9.2亿美元获取算力",
+        "tag": "人工智能",
+        "title": "谷歌每月向SpaceX支付9.2亿美元算力费用",
         "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-        "summary": "谷歌代表称，该协议源于其近期AI产品需求超出预期，需借助SpaceX的算力支持。",
-        "comment": "AI算力需求激增，谷歌押注外部资源。",
+        "summary": "谷歌代表称，该协议源于其近期推出的AI产品需求意外激增。",
+        "comment": "AI算力需求推动巨头巨额投资。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "AI行业疯狂扩张后，算力成本账单到期引发管控急转弯",
+        "title": "AI行业疯狂扩张后，Token成本账单到期引发管控急转弯",
         "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-        "summary": "AI行业从追求速度和规模转向关注成本控制与安全护栏，行业对话焦点从“token最大化”和“快速推进”变为“我们需要护栏，如何控制成本”。",
-        "comment": "算力成本失控倒逼行业理性回归，管控成新共识。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "共聚科技",
-        "title": "“共聚科技”浪潮或成2026年最有趣创业赌注",
-        "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-        "summary": "在AI融资不断刷新纪录之际，部分创始人反向而行。Mirror创始人Brynn Putnam为Board融资，该初创公司聚焦“共聚科技”方向。",
-        "comment": "逆向思维或开辟新赛道。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI数据中心",
-        "title": "AirTrunk承诺300亿美元在印度建设5GW AI数据中心",
-        "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-        "summary": "澳大利亚数据中心运营商计划在印度部署5GW容量，以支持AI基础设施需求。",
-        "comment": "巨额投资显示印度AI基建市场吸引力。",
+        "summary": "行业焦点从追求Token最大化和快速迭代，转向如何建立护栏和控制成本，内部正紧急应对AI的失控成本问题。",
+        "comment": "AI烧钱竞赛进入清算期，行业理性回归。",
         "image": "",
         "score": 100
       },
@@ -47,40 +27,10 @@
         "tag": "人工智能",
         "title": "最有趣的初创公司正试图让你远离手机",
         "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-        "summary": "在AI融资热潮不断刷新纪录的同时，一些创始人反其道而行之。Mirror创始人Brynn Putnam为初创公司Board融资，旨在减少用户手机使用时间。",
-        "comment": "反手机趋势或成新风口，但挑战用户习惯不易。",
+        "summary": "在AI融资热潮中，一些创始人反其道而行之。Mirror创始人Brynn Putnam为Board项目融资，旨在减少用户手机使用时间。",
+        "comment": "反手机趋势或成新蓝海。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "库里",
-        "title": "库里为何未续约安踏，转投李宁签十年长约",
-        "link": "https://36kr.com/p/3836116289877385?f=rss",
-        "summary": "2026年6月2日，NBA球星斯蒂芬·库里宣布其个人品牌与李宁正式签约，合同有效期十年，涵盖篮球、运动休闲、高尔夫等产品线及签约运动员权利，具体金额未披露。",
-        "comment": "李宁签下库里，国产运动品牌竞争格局再升级。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "数码科技",
-        "tag": "高端新能源",
-        "title": "探店13家：理想蔚来问界如何征服50万客群",
-        "link": "https://36kr.com/p/3839803361741313?f=rss",
-        "summary": "一周内三款旗舰SUV密集上市，理想L9、蔚来ES9、问界M9起售价均近50万元，高端新能源市场竞争升级，各品牌通过技术配置和空间设计争夺用户。",
-        "comment": "高端SUV市场进入白热化，技术差异化成关键。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "具身智能",
-        "title": "唐文斌创立的原力灵机获智谱商汤等投资，并并购物流机器人公司",
-        "link": "https://36kr.com/p/3838835333253385?f=rss",
-        "summary": "具身智能企业原力灵机完成新一轮融资，资方包括智谱、阶跃星辰、商汤科技等大模型公司，华勤、上汽恒旭等产业方跟投。公司由旷视科技联合创始人唐文斌于2025年3月创立，团队为旷视原班人马，同时并购了一家物流机器人公司。",
-        "comment": "大模型公司集体押注具身智能，产业资本跟进，赛道热度可见一斑。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "人工智能",
@@ -88,116 +38,146 @@
         "title": "初创公司Battlefield 200申请3天后截止",
         "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
         "summary": "初创公司Battlefield 200的申请将于6月8日太平洋时间晚上11:59正式截止，请尽快提交，争取在TechCrunch Disrupt的舞台上竞争。",
-        "comment": "机会窗口即将关闭，初创企业需抓紧最后时机。",
+        "comment": "机会窗口即将关闭，初创企业需抓紧。",
         "image": "",
-        "score": 96
+        "score": 98
+      },
+      {
+        "category": "数码科技",
+        "tag": "NBA",
+        "title": "库里未选安踏，与李宁签十年长约",
+        "link": "https://36kr.com/p/3836116289877385?f=rss",
+        "summary": "NBA球星斯蒂芬·库里宣布个人品牌与李宁正式签约，合同有效期十年，涵盖篮球产品、运动休闲服饰、签约运动员权利及高尔夫球杆产品线，具体金额未披露。",
+        "comment": "李宁签下库里，品牌国际化再进一步。",
+        "image": "",
+        "score": 98
       },
       {
         "category": "数码科技",
         "tag": "华为云",
-        "title": "华为云在Token大战中选择第三条路：关注国产算力健康度",
+        "title": "华为云在Token大战中走第三条路，聚焦国产算力健康度",
         "link": "https://36kr.com/p/3840016255126016?f=rss",
-        "summary": "华为云CEO周跃峰在2026华为云创想者大会上表示，华为云不在乎Token总量和收入，而是关注国产化算力系统生产出的Token健康度，代表生产力提升而非情绪价值。",
-        "comment": "华为云差异化竞争，聚焦国产算力生态。",
+        "summary": "华为云CEO周跃峰在2026华为云INSPIRE创想者大会上表示，华为云不在乎Token总量和收入，更关注国产化算力系统生产出的Tokens健康度，强调生产力提升而非情绪价值。",
+        "comment": "华为云差异化策略，务实聚焦国产算力生态。",
         "image": "",
-        "score": 96
+        "score": 97
       },
       {
         "category": "数码科技",
-        "tag": "入境游",
-        "title": "携程梁建章谈中国入境游：喜马拉雅与桂林是顶级资源",
-        "link": "https://36kr.com/p/3840001908361472?f=rss",
-        "summary": "携程集团联合创始人梁建章在入境游研讨会上表示，中国拥有喜马拉雅和桂林喀斯特地貌等世界级旅游资源，并宣布携程将推出新战略计划，推动全球游客来华旅行。",
-        "comment": "中国入境游潜力巨大，需将顶级资源转化为可及体验。",
+        "tag": "新能源汽车",
+        "title": "探店13家：理想、蔚来、问界如何争夺50万级市场",
+        "link": "https://36kr.com/p/3839803361741313?f=rss",
+        "summary": "一周内三款“9系”旗舰SUV密集上市，理想L9、蔚来ES9、问界M9起售价均逼近50万元，高端新能源市场竞争升级。",
+        "comment": "三强争霸，50万级市场格局初现。",
         "image": "",
-        "score": 96
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "微信",
         "title": "微信AI与手机厂商合作推出A2A助手能力",
         "link": "https://36kr.com/p/3839575253993985?f=rss",
-        "summary": "微信正与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，支持通过手机AI助手发起微信音视频通话或发送消息，数据安全通过双重授权机制保障。",
-        "comment": "微信AI开放接口，手机厂商生态竞争加剧。",
+        "summary": "微信与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，支持通过手机AI助手发起微信音视频通话或发送消息，基于A2A协作机制保障数据安全。",
+        "comment": "微信开放AI接口，手机厂商生态竞争升级。",
         "image": "",
-        "score": 96
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "线控底盘",
         "title": "前华为员工创业线控底盘，获松禾、苏高新投资",
         "link": "https://36kr.com/p/3839600052898054?f=rss",
-        "summary": "毫秒智控完成数千万元天使+轮融资，由松禾资本和苏高新融晟投资。公司专注线控转向系统及电控部件研发，核心团队来自华为等企业，曾参编国标。",
+        "summary": "线控底盘供应商毫秒智控完成数千万元天使+轮融资，由松禾资本和苏高新融晟投资。公司2025年4月成立，专注线控转向系统研发，团队背景稀缺。",
         "comment": "团队背景稀缺，融资节奏快，线控底盘赛道竞争加剧。",
         "image": "",
-        "score": 96
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "具身智能",
+        "title": "原力灵机获智谱商汤等投资，并购物流机器人公司",
+        "link": "https://36kr.com/p/3838835333253385?f=rss",
+        "summary": "具身智能企业原力灵机完成新一轮融资，资方包括智谱、阶跃星辰、商汤科技，华勤、上汽恒旭等产业投资方跟投。公司由旷视科技联合创始人唐文斌创立，核心团队来自旷视。",
+        "comment": "大模型公司加码具身智能，产业协同加速落地。",
+        "image": "",
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "AI虚拟细胞",
-        "title": "百曜科技获数千万元融资，国家队领投AI虚拟细胞",
+        "title": "国家队领投AI虚拟细胞公司百曜科技完成数千万元融资",
         "link": "https://36kr.com/p/3835460873385348?f=rss",
-        "summary": "AI虚拟细胞平台百曜科技完成数千万元新一轮融资，由国新创投基金领投，道彤资本、云启资本跟投，老股东峰瑞资本和百度风投追加。资金将用于算法模型迭代、数据平台建设和产业化落地。",
-        "comment": "国家队入局AI虚拟细胞，加速生物计算产业化。",
+        "summary": "AI虚拟细胞平台百曜科技完成数千万元新一轮融资，由国新创投基金领投，道彤资本、云启资本跟投，老股东峰瑞资本和百度风投追加。资金用于算法迭代、数据平台建设和产业化落地。",
+        "comment": "国家队入场AI虚拟细胞赛道，加速生物计算产业化。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "科技投资",
+        "title": "日本或抛美债为汇市干预筹资，追觅俞浩称继续做实业",
+        "link": "https://36kr.com/p/3840267945969929?f=rss",
+        "summary": "英诺科创三期基金完成首轮关账15亿元，聚焦早期科技投资；比特币下跌致相关公司市值蒸发620亿美元；追觅科技创始人俞浩内部发文，表示未来将继续心无旁骛做实业。",
+        "comment": "科技投资与实业坚守并行，市场波动中显定力。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "科技投资",
-        "title": "日本或抛售美债为汇市干预筹资，追觅科技称继续做实业",
-        "link": "https://36kr.com/p/3840267945969929?f=rss",
-        "summary": "英诺科创三期基金完成首轮关账15亿元，聚焦早期科技及人工智能投资。比特币下跌致相关公司市值蒸发620亿美元。追觅科技创始人俞浩发文称未来将继续专注实业。",
-        "comment": "科技投资与实业表态并存，市场波动中企业需保持定力。",
+        "tag": "入境游",
+        "title": "携程梁建章谈中国入境游：有世界最高和最美的山",
+        "link": "https://36kr.com/p/3840001908361472?f=rss",
+        "summary": "携程集团联合创始人梁建章在入境游研讨会上表示，中国拥有世界最高的喜马拉雅山和最美的桂林喀斯特地貌，并宣布携程将推出新战略计划，推动全球旅行者来华旅游。",
+        "comment": "以自然景观为切入点，携程战略或助力入境游突破。",
         "image": "",
-        "score": 95
+        "score": 96
       },
       {
         "category": "数码科技",
         "tag": "奥迪",
         "title": "奥迪R8继任者发布：大V8千匹马力复古风",
         "link": "https://www.ifanr.com/1668220?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "奥迪发布R8继任车型，搭载大V8发动机，马力达千匹，设计走复古路线，强调运动基因回归。",
-        "comment": "复古设计与千匹马力结合，奥迪运动精神再升级。",
+        "summary": "奥迪发布R8继任车型，搭载大V8发动机，马力达千匹，设计走复古风格，强调运动性能回归。",
+        "comment": "性能强劲但复古设计能否打动市场存疑。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "游戏掌机",
-        "title": "史上最强游戏掌机性能堪比PS5但价格过万",
+        "title": "史上最强游戏掌机性能堪比PS5",
         "link": "https://www.ifanr.com/1668193?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "一款性能堪比PS5的游戏掌机发布，但售价超过1万元，引发关注。",
-        "comment": "性能虽强，但高价或限制普及。",
+        "summary": "一款性能堪比PS5的游戏掌机发布，但价格高达1万块，引发关注。",
+        "comment": "性能虽强，但价格门槛过高。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "AI",
-        "title": "是时候造一台AI时代的手机了｜AIDONE第五期",
-        "link": "https://www.ifanr.com/1668163?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "下周将邀请AI专家探讨手机未来发展方向，关注爱范儿获取更多内容。",
-        "comment": "AI与手机融合趋势明确，值得关注。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "B站野生AI造产品：垃圾桶捡零件，弹幕接需求",
+        "title": "B站用户用AI野生造产品，垃圾桶捡零件弹幕接需求",
         "link": "https://www.ifanr.com/1668088?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "一群B站用户利用废弃零件和弹幕需求，通过AI技术自发创造产品，强调真诚动机对创新的重要性。",
-        "comment": "草根创新展现AI民主化潜力。",
+        "summary": "B站一群创作者利用AI技术，从垃圾桶捡零件、弹幕收集需求，自发制造产品，强调真诚动机对创造的重要性。",
+        "comment": "草根创新展现AI民主化潜力，但需警惕质量与安全。",
         "image": "",
-        "score": 91
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI手机",
+        "title": "是时候造一台AI时代的手机了",
+        "link": "https://www.ifanr.com/1668163?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "下周，和最懂AI的人，聊聊手机的未来。爱范儿AIDONE第五期即将举办。",
+        "comment": "AI重塑手机形态，行业变革在即。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
         "title": "苹果App Store四成头部应用已支持AI",
         "link": "https://www.ifanr.com/1668169?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果App Store中约40%的头部应用已集成AI功能；字节AI今年押注世界模型、Coding和豆包商业化；联合国大学报告称AI扩张推高能源和水资源压力；中国信通院将启动高质量Token服务能力计划。",
+        "summary": "字节AI今年押注世界模型、Coding和豆包商业化；联合国大学报告称AI扩张推高能源和水资源压力；中国信通院将启动高质量Token服务能力计划。",
         "comment": "AI应用渗透加速，但资源消耗问题需警惕。",
         "image": "",
         "score": 91
