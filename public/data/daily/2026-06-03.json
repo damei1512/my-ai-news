@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI为GPT-Rosalind新增生物学与基因组学能力",
+        "title": "OpenAI为GPT-Rosalind新增生物推理与基因组分析能力",
         "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "summary": "GPT-Rosalind获得增强，具备更强大的生物推理、药物化学、基因组分析和实验工作流能力，推动生命科学研究。",
-        "comment": "AI在生命科学领域的垂直深化值得关注。",
+        "summary": "GPT-Rosalind获得增强，具备更强大的生物推理、药物化学专业知识、基因组分析及实验工作流能力，推动生命科学研究。",
+        "comment": "AI在生命科学领域的垂直深化，加速科研效率。",
         "image": "",
         "score": 100
       },
@@ -17,18 +17,8 @@
         "tag": "人工智能",
         "title": "Wasmer利用Codex构建边缘Node.js运行时",
         "link": "https://openai.com/index/wasmer",
-        "summary": "Wasmer借助OpenAI Codex与GPT-5.5，将边缘Node.js运行时开发效率提升10至20倍，数周内完成交付。",
-        "comment": "AI辅助开发显著加速了边缘计算基础设施的落地。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI发布AI公共政策议程",
-        "link": "https://openai.com/index/public-policy-agenda",
-        "summary": "OpenAI提出AI公共政策议程，涵盖安全、青少年保护、劳动力转型及全球标准，旨在确保AI惠及社会。",
-        "comment": "政策框架务实，聚焦安全与包容。",
+        "summary": "Wasmer使用OpenAI的Codex与GPT-5.5，将边缘Node.js运行时开发速度提升10到20倍，数周内完成交付。",
+        "comment": "AI辅助开发显著加速边缘计算部署。",
         "image": "",
         "score": 100
       },
@@ -37,8 +27,18 @@
         "tag": "人工智能",
         "title": "OpenAI提出前沿AI民主治理蓝图",
         "link": "https://openai.com/index/frontier-safety-blueprint",
-        "summary": "OpenAI发布前沿AI治理蓝图，提议建立联邦框架，确保安全性、韧性和国家安全。",
-        "comment": "为AI监管提供了务实路径。",
+        "summary": "OpenAI发布美国前沿AI治理蓝图，提出联邦框架以确保安全性、韧性和国家安全。",
+        "comment": "为AI监管提供了具体路径，但实施挑战巨大。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "OpenAI发布AI公共政策议程",
+        "link": "https://openai.com/index/public-policy-agenda",
+        "summary": "OpenAI提出AI公共政策议程，涵盖安全、青少年保护、劳动力转型及全球标准，旨在确保AI造福社会。",
+        "comment": "政策框架务实，但执行细节待观察。",
         "image": "",
         "score": 100
       }
