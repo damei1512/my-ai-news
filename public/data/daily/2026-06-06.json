@@ -7,47 +7,37 @@
         "tag": "OpenAI",
         "title": "OpenAI推出锁定模式防御提示注入攻击",
         "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-        "summary": "OpenAI发布锁定模式以减少提示注入攻击中敏感数据泄露的风险，但该模式无法完全消除漏洞。",
-        "comment": "防御措施虽好，但提示注入仍是AI安全顽疾。",
+        "summary": "OpenAI发布锁定模式，旨在减少提示注入攻击中敏感数据泄露的风险，但ChatGPT仍可能面临此类攻击。",
+        "comment": "防御措施虽好，但提示注入仍是棘手问题。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "苹果",
-        "title": "WWDC 2026前瞻：Siri重大改版与苹果智能更新",
-        "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-        "summary": "苹果WWDC 2026临近，Siri将迎来备受期待的全面革新，同时苹果智能（Apple Intelligence）也将获得多项更新。",
-        "comment": "Siri改版是苹果AI战略的关键一步。",
+        "tag": "AI政策",
+        "title": "白宫AI顾问斯里拉姆·克里希南离职",
+        "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+        "summary": "克里希南据报将成立新机构，继续影响特朗普政府的AI政策方向。",
+        "comment": "离职后仍主导政策，显示其影响力未减。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "特朗普",
+        "tag": "人工智能",
         "title": "特朗普政府或考虑入股OpenAI",
         "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-        "summary": "美国总统特朗普表示，正在讨论让美国人民从人工智能成功中受益的交易，可能涉及政府持有OpenAI股权。",
+        "summary": "特朗普总统表示，正在讨论让美国人民从AI成功中获益的交易，可能涉及政府持有OpenAI股权。",
         "comment": "政府入股AI巨头，政策与商业深度绑定。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "白宫",
-        "title": "白宫AI顾问斯里拉姆·克里希南离职",
-        "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-        "summary": "据报道，克里希南将创办新机构，继续影响特朗普政府的AI政策方向。",
-        "comment": "AI政策圈核心人物转战智库，影响深远。",
-        "image": "",
-        "score": 99
-      },
-      {
         "category": "数码科技",
         "tag": "豆包",
-        "title": "豆包付费后月活减少610万；Anthropic警告AI风险；罗永浩卸任锤子职务",
+        "title": "豆包付费后月活减少610万；Anthropic警告AI风险；罗永浩卸任",
         "link": "https://36kr.com/p/3840996342073604?f=rss",
-        "summary": "豆包推出订阅后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI自我改进风险；罗永浩卸任锤子软件公司执行董事。另有SpaceX日本融资、楼市数据、B站AI赛事等热点。",
+        "summary": "豆包推出订阅后月活减少610万；Anthropic呼吁放缓AI开发，警告自我改进风险；罗永浩卸任锤子软件公司执行董事。此外，SpaceX日本融资目标提至25亿美元，楼市供需向好，B站启动AI创作赛。",
         "comment": "付费模式对用户增长影响显著，AI安全争议持续升温。",
         "image": "",
         "score": 96
@@ -55,10 +45,10 @@
       {
         "category": "数码科技",
         "tag": "高通",
-        "title": "高通汽车中国布局深化：从感知智能到智能体AI",
+        "title": "高通汽车中国布局深化：从感知智能到智能体AI加速",
         "link": "https://www.ifanr.com/1668242?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "汽车行业迎来智能体时代，高通加速在中国深化布局，推动从感知智能向智能体AI的演进。",
-        "comment": "高通布局智能体AI，汽车智能化竞争升级。",
+        "summary": "汽车行业正迈向智能体时代，高通在中国深化布局，推动从感知智能到智能体AI的加速发展。",
+        "comment": "高通加速汽车AI布局，智能体时代竞争升级。",
         "image": "",
         "score": 92
       },
@@ -67,10 +57,10 @@
         "tag": "黄仁勋",
         "title": "黄仁勋访韩首站T1网吧，腾讯AI下半场引关注",
         "link": "https://www.ifanr.com/1668239?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "黄仁勋访韩首站前往T1网吧；姚顺雨谈腾讯AI下半场；三大运营商提醒高考考点屏蔽信号；追觅俞浩微博被禁言；可灵AI用户破亿；新浪推出AI写实相机。",
-        "comment": "科技巨头动态密集，AI应用加速落地。",
+        "summary": "黄仁勋访韩首站前往T1网吧，引发关注；腾讯AI负责人姚顺雨谈AI下半场战略；三大运营商提醒高考考点将屏蔽信号，周边可能无法上网。",
+        "comment": "科技巨头动态密集，高考信号屏蔽影响需提前应对。",
         "image": "",
-        "score": 92
+        "score": 91
       }
     ]
   }
