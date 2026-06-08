@@ -4,20 +4,20 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI智能体",
-        "title": "Endava 围绕 AI 智能体重构软件交付流程",
+        "tag": "AI代理",
+        "title": "Endava围绕AI代理重塑软件交付流程",
         "link": "https://openai.com/index/endava-frontiers",
-        "summary": "Endava 利用 AI 智能体、ChatGPT Enterprise 和 Codex 加速软件交付、自动化工作流，并在企业内部构建 AI 原生文化。",
-        "comment": "AI 智能体正从辅助工具演变为交付核心。",
+        "summary": "Endava利用AI代理、ChatGPT企业版和Codex加速软件交付、自动化工作流，并在全公司构建AI原生文化。",
+        "comment": "AI代理正从工具演变为交付流程的核心驱动力。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI为ChatGPT引入记忆系统提升对话连贯性",
+        "tag": "ChatGPT",
+        "title": "OpenAI推出ChatGPT记忆系统“Dreaming”",
         "link": "https://openai.com/index/chatgpt-memory-dreaming",
-        "summary": "OpenAI推出ChatGPT新记忆系统，能记住用户偏好并在对话中保持上下文新鲜与相关，提升助手实用性。",
+        "summary": "ChatGPT引入新记忆系统，能记住用户偏好，在对话中保持上下文新鲜与相关，提升助手实用性。",
         "comment": "记忆功能是AI助手迈向个性化的重要一步。",
         "image": "",
         "score": 100
@@ -27,30 +27,10 @@
         "tag": "人工智能",
         "title": "OpenAI发布智能时代生物防御行动计划",
         "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
-        "summary": "OpenAI提出利用AI技术增强生物防御能力的行动计划，旨在提升对生物威胁的预警、响应和恢复能力，构建智能时代的生物韧性。",
-        "comment": "AI赋能生物安全，前瞻性布局值得关注。",
+        "summary": "OpenAI提出利用AI技术增强生物防御能力的行动方案，旨在提升对生物威胁的预警、检测与响应效率。",
+        "comment": "AI在生物安全领域的应用前景广阔，但需警惕技术滥用。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "今年最值得升级的生产力工具：AI工位",
-        "link": "https://www.ifanr.com/1667995?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI工位整合智能工具，提升工作效率，是AI时代最实在的生产力升级选择。",
-        "comment": "AI工位或成未来办公标配，值得关注。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "充电器",
-        "title": "制糖工厂发布AI小电拼Mirror，多口充电进入功率复用时代",
-        "link": "https://www.ifanr.com/1667933?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂推出AI小电拼Mirror旗舰充电器，4C五口设计，每个USB-C口支持最高140W输出，通过FluxAI自由流算法实现多设备功率实时回收与动态再分配。",
-        "comment": "功率复用算法是充电器智能化的关键一步。",
-        "image": "",
-        "score": 91
       }
     ]
   }
