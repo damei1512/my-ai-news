@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "xAI",
-        "title": "前工程师因质疑Grok安全被xAI解雇，提起诉讼",
+        "title": "xAI工程师因担忧Grok安全被解雇，提起诉讼",
         "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
         "summary": "前xAI工程师起诉公司和SpaceX，称其在SpaceX历史性IPO前几天因提出Grok AI安全问题被解雇。",
-        "comment": "AI安全与商业利益冲突再引关注。",
+        "comment": "AI安全争议再起，企业责任与员工权益冲突。",
         "image": "",
         "score": 100
       },
@@ -17,78 +17,8 @@
         "tag": "亚马逊",
         "title": "亚马逊刚发债又向银行借款175亿美元，AI支出持续攀升",
         "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-        "summary": "为在AI军备竞赛中保持领先，企业正烧掉巨额资金，债务水平不断上升。亚马逊在完成债券发行后，又从银行借款175亿美元。",
-        "comment": "AI烧钱竞赛加剧，巨头债务风险需警惕。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "记忆工具如何使AI模型表现更差",
-        "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-        "summary": "新研究表明，AI记忆系统可能降低模型性能，并助长讨好用户的倾向。",
-        "comment": "记忆增强并非万能，需警惕副作用。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI编码",
-        "title": "Datadog老兵创立AI编码初创公司Niteshift，押注对抗大模型锁定",
-        "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-        "summary": "AI编码代理初创公司Niteshift获得700万美元种子轮融资，由多位知名天使投资人参与。公司押注企业将希望拥有对模型的控制权，而非被模型制造商锁定。",
-        "comment": "反锁定策略或成AI工具市场新趋势。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "SpaceX",
-        "title": "SpaceX IPO背后的三项硬科技登月计划",
-        "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-        "summary": "SpaceX IPO的大部分价值实际上是对其雄心勃勃的太空数据中心计划的看涨期权。",
-        "comment": "太空数据中心或成SpaceX估值新引擎。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "华纳音乐",
-        "title": "华纳音乐收购AI归属初创公司Sureel AI",
-        "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-        "summary": "华纳音乐集团收购Sureel AI，旨在更好追踪其艺人作品在AI生成内容或训练AI模型中的使用情况。",
-        "comment": "音乐巨头加速布局AI版权追踪。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI模型与Codex可通过Oracle云承诺访问",
-        "link": "https://openai.com/index/openai-on-oracle-cloud",
-        "summary": "用户可通过Oracle云现有承诺访问OpenAI模型和Codex，利用企业级安全与治理构建和部署AI。",
-        "comment": "云厂商与AI深度绑定，企业部署门槛降低。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI报告：中国关联影响力行动瞄准美国AI辩论",
-        "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-        "summary": "OpenAI发布新报告，详述中国关联影响力行动利用AI技术，针对美国科技辩论、数据中心叙事、关税及关于ChatGPT的虚假声明进行干预。",
-        "comment": "AI工具正成为地缘信息战的新载体。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "LSEG借助OpenAI扩展可信AI应用",
-        "link": "https://openai.com/index/lseg",
-        "summary": "LSEG在全球业务中利用OpenAI扩展可信AI，加速洞察、缩短发布周期，并赋能4000名员工。",
-        "comment": "企业级AI规模化落地的典型案例。",
+        "summary": "为在AI军备竞赛中保持领先，企业正消耗巨额资金，债务水平不断上升。亚马逊继债券发行后，再向银行借款175亿美元。",
+        "comment": "AI烧钱战加剧，科技巨头债务扩张成新常态。",
         "image": "",
         "score": 100
       },
@@ -97,18 +27,68 @@
         "tag": "人工智能",
         "title": "AI重度企业每月为每位员工花费7500美元",
         "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-        "summary": "根据Ramp AI指数，最痴迷AI的公司每月为每位员工在AI上花费约7500美元，但这仍低于一名工程师的月薪。",
-        "comment": "AI投入虽高，但尚未超过人力成本，企业仍在试探性投资。",
+        "summary": "根据Ramp AI指数，最痴迷AI的公司每月为每位员工在AI上花费约7500美元，这仍未超过工程师的薪资水平。",
+        "comment": "AI投入已接近人力成本，企业需权衡效率与支出。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI模型与Codex可通过Oracle云承诺访问",
+        "link": "https://openai.com/index/openai-on-oracle-cloud",
+        "summary": "用户可利用Oracle云现有承诺访问OpenAI模型和Codex，以企业级安全与治理构建和部署AI应用。",
+        "comment": "云承诺整合AI能力，降低企业部署门槛。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI报告：中国关联影响力行动瞄准美国AI辩论",
+        "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+        "summary": "OpenAI发布新报告，详述与中国关联的影响力行动利用AI技术，针对美国科技辩论、数据中心叙事、关税政策及关于ChatGPT的虚假信息进行操纵。",
+        "comment": "AI成为地缘政治博弈的新工具。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "LSEG借助OpenAI扩展可信AI，加速洞察并赋能4000员工",
+        "link": "https://openai.com/index/lseg",
+        "summary": "LSEG利用OpenAI在其全球业务中扩展可信AI，加速洞察、缩短发布周期，并赋能4000名员工。",
+        "comment": "企业级AI规模化应用案例，强调信任与效率。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI",
+        "title": "记忆工具如何使AI模型表现更差",
+        "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+        "summary": "新研究表明，AI记忆系统可能降低模型性能，并助长讨好用户的倾向。",
+        "comment": "记忆并非万能，需警惕其副作用。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "网络安全研究者不满Anthropic Fable护栏过严",
+        "title": "网络安全研究人员不满Anthropic Fable护栏过严",
         "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-        "summary": "网络安全研究者抱怨Anthropic新模型Fable的护栏过于严格，无法用于任何网络安全工作。",
+        "summary": "网络安全研究人员抱怨Anthropic新模型Fable的护栏过于严格，无法用于任何网络安全工作。",
         "comment": "安全与可用性的平衡仍是AI落地的关键挑战。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI编码",
+        "title": "Datadog老兵创办AI编码创企Niteshift，挑战大模型锁定",
+        "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+        "summary": "AI编码代理初创公司Niteshift完成700万美元种子轮融资，由多位知名天使投资人参与。该公司押注企业将更倾向于掌控模型选择权，而非被模型厂商锁定。",
+        "comment": "反锁定策略契合企业AI自主化趋势。",
         "image": "",
         "score": 99
       },
@@ -117,260 +97,80 @@
         "tag": "Kakao",
         "title": "韩IT巨头Kakao工会首次局部罢工，三星考虑新建先进芯片封装厂",
         "link": "https://36kr.com/p/3847079661193733?f=rss",
-        "summary": "韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂以满足全球需求；SK海力士最早8月在美国上市。瑞斯康达董事长李月杰因个人原因辞职，韩猛接任。",
-        "comment": "韩国科技巨头动态密集，芯片与劳资议题并进。",
+        "summary": "韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂以满足全球需求；SK海力士最早将于8月在美国上市。瑞斯康达董事长李月杰辞职，韩猛接任。",
+        "comment": "韩国科技巨头动态密集，芯片竞争加剧。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
         "tag": "字节跳动",
-        "title": "字节跳动AI制药业务启动拆分融资，AI4S产业化加速",
+        "title": "字节跳动AI制药业务拆分融资，AI4S产业化加速",
         "link": "https://36kr.com/p/3846956646124036?f=rss",
-        "summary": "字节跳动AI制药业务线启动拆分与独立融资，字节仍将控股新公司，核心团队、算法、技术平台及管线资产整体进入新主体，继续从火山引擎获得算力支持。",
-        "comment": "AI制药拆分融资，标志字节在AI4S领域迈出产业化关键一步。",
+        "summary": "字节跳动AI制药业务线启动拆分与独立融资，字节仍将控股，核心团队、算法、技术平台及管线资产整体进入新公司，继续从火山引擎获得算力支持。",
+        "comment": "AI制药从实验室走向产业化的关键一步。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
-        "tag": "跨境电商",
-        "title": "AI跨境电商工具混战，StoreClaw用“一个大脑”接管卖家店",
-        "link": "https://36kr.com/p/3846793046133257?f=rss",
-        "summary": "跨境电商多渠道布局成标配，但人力与管理成本高。StoreClaw推出AI工具，旨在统一管理Shopify、亚马逊、TikTok Shop等平台，降低运营成本。",
-        "comment": "AI整合多平台运营，或成降本增效关键。",
+        "tag": "世界杯",
+        "title": "世界杯门票遇冷，台积电涨价，但斌回应被拉黑",
+        "link": "https://36kr.com/p/3848000003953926?f=rss",
+        "summary": "2026世界杯近18万张门票待转售；台积电释放涨价信号；但斌回应被段永平拉黑；花旗警告金价或跌至3500美元；韩国股市熔断；何小鹏带队冲刺机器人量产；伊朗关闭霍尔木兹海峡；SpaceX认购超2500亿美元。",
+        "comment": "热点混杂，科技与地缘风险交织，市场情绪偏谨慎。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "世界杯",
-        "title": "世界杯门票遇冷，近18万张待转售；台积电涨价；但斌回应被拉黑",
-        "link": "https://36kr.com/p/3848000003953926?f=rss",
-        "summary": "2026世界杯门票销售不佳，近18万张待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”；花旗警告金价或跌至3500美元；韩国股市熔断；何小鹏带队冲刺机器人量产；伊朗关闭霍尔木兹海峡；SpaceX认购超2500亿美元。",
-        "comment": "科技与体育热点交织，市场信号复杂。",
-        "image": "",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox计划重大裁员及营销预算削减",
-        "link": "https://www.ign.com/articles/xbox-reportedly-planning-significant-layoffs-budget-cuts-for-marketing-and-more",
-        "summary": "Xbox CEO Asha Sharma概述了业务“重置”计划，涉及重大裁员和营销预算削减，以应对市场挑战。",
-        "comment": "微软游戏业务调整信号明显，行业寒冬持续。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox Project Helix 据传瞄准2027年假期发布",
-        "link": "https://www.ign.com/articles/new-xbox-memo-holiday-2027-project-helix-rumors",
-        "summary": "Xbox CEO Asha Sharma 的一份新备忘录显示，Project Helix 的发布窗口可能定在2027年假期，引发业界关注。",
-        "comment": "提前三年规划，Xbox 在下一代主机布局上显得谨慎而长远。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/11/xbox-project-helix-gdc-blogroll-1-1773251677515.jpg",
-        "score": 94
       },
       {
         "category": "数码科技",
         "tag": "雅典表",
         "title": "雅典表180周年发布2026新品，加码机械创新与艺术合作",
         "link": "https://36kr.com/p/3847339087140104?f=rss",
-        "summary": "2026年6月，雅典表在上海举办新品品鉴会，展出全新Super Freak奇想超级腕表及与中国艺术家刘人岛合作的鎏金系列联名腕表，强化机械创新与艺术跨界。",
-        "comment": "独立制表商以艺术合作拓宽品牌边界，策略稳健。",
+        "summary": "雅典表在180周年之际于上海举办2026新品品鉴会，推出Super Freak奇想超级腕表及与中国艺术家刘人岛合作的鎏金系列联名腕表，展示机械创新与艺术融合。",
+        "comment": "独立制表商以艺术合作强化品牌独特性。",
         "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "微软",
-        "title": "Xbox下月计划大规模裁员",
-        "link": "https://www.gamespot.com/articles/xbox-reportedly-planning-big-layoffs-for-next-month/",
-        "summary": "据报道，微软计划下月对Xbox部门进行大规模裁员，新任CEO Asha Sharma近期承认业务表现不佳。",
-        "comment": "裁员潮蔓延至游戏巨头，行业寒冬持续。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/4689246-xbox-11.jpeg?w=300",
-        "score": 93
+        "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "AI模型",
-        "title": "实测Claude史上最强模型Fable 5，AI终于数清6根手指",
+        "tag": "AI",
+        "title": "实测Claude史上最强模型Fable 5，普通人慎用",
         "link": "https://www.ifanr.com/1668542?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI模型Claude Fable 5在实测中展现出强大能力，包括准确数清6根手指，但普通用户需谨慎使用。",
-        "comment": "技术进步显著，但普通人仍需警惕其潜在风险。",
+        "summary": "AI终于数清了6根手指，实测Claude史上最强模型Fable 5，但建议普通人谨慎使用。",
+        "comment": "模型进步显著，但实用门槛仍高。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "《生化危机：代号维罗妮卡》确认第三人称视角",
-        "link": "https://www.gamespot.com/articles/yes-resident-evil-veronica-is-a-third-person-game/",
-        "summary": "与2000年原版游戏类似，《生化危机：代号维罗妮卡》将采用第三人称视角。该消息在GameSpot的群访中确认。",
-        "comment": "经典视角回归，情怀与操作体验并重。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/ss_223fa1c550ecb0037d8b3b562603c9e2e0168484.1920x1080-1.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox CEO称主机太贵，需“根本不同”计划",
-        "link": "https://www.gamespot.com/articles/xbox-ceo-believes-consoles-are-too-expensive-and-radically-different-plans-are-needed/",
-        "summary": "Xbox CEO Asha Sharma上任后推出下一代Xbox“Project Helix”，认为当前主机价格过高，需要根本性变革。",
-        "comment": "主机价格战升级，微软或推新策略应对。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox-Showcase-2026.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "《光环1》重制版支持第三人称，效果惊艳",
-        "link": "https://www.gamespot.com/articles/halo-1-remake-lets-you-play-in-third-person-and-it-looks-great/",
-        "summary": "《光环：战役进化》重制版引入特殊模组，允许玩家以第三人称视角游玩，这对以第一人称著称的系列而言是重大变化。",
-        "comment": "第三人称视角为经典注入新活力。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/thirdperson.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战争机器",
-        "title": "《战争机器：E-Day》跳过PS5，微软接受玩家减少",
-        "link": "https://www.gamespot.com/articles/gears-of-war-e-day-skipping-ps5-means-reaching-fewer-players-and-microsoft-is-ok-with-that/",
-        "summary": "据报道，《战争机器：E-Day》原计划登陆PS5，但微软最终决定放弃索尼平台版本，且该决定并非临时做出。微软对此表示接受，认为这符合其战略。",
-        "comment": "微软坚持独占策略，牺牲用户覆盖面。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Eday_54ab8a.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "上古卷轴6",
-        "title": "《上古卷轴6》公布8周年，未在Xbox发布会亮相原因解析",
-        "link": "https://www.gamespot.com/articles/elder-scrolls-6-was-announced-8-years-ago-today-heres-why-it-didnt-show-up-at-xbox-showcase/",
-        "summary": "《上古卷轴6》于2018年6月10日公布，至今已满8年。期间Bethesda未发布任何新图像或预告片，缺席Xbox发布会引发玩家讨论。",
-        "comment": "长期沉默考验玩家耐心，开发进度成谜。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/ES6.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PlayStation Plus",
-        "title": "索尼公布2026年6月PS Plus Extra/Premium游戏阵容",
-        "link": "https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-june-2026-revealed/",
-        "summary": "索尼公布了2026年6月PlayStation Plus Extra和Premium会员的游戏目录新增内容，同时调整了新游戏的发布计划。",
-        "comment": "阵容更新节奏调整，或影响订阅吸引力。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/FF16.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏价格",
-        "title": "80美元游戏已成现实，GTA 6定价引关注",
-        "link": "https://www.gamespot.com/articles/80-games-are-already-here/",
-        "summary": "尽管许多人关注Rockstar是否会将GTA 6定价为80美元或更高，但市场上已有游戏达到这一价位，只是相对低调。",
-        "comment": "高价游戏已悄然存在，GTA 6定价只是时间问题。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/GTA6_5be08c.jpg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "微信",
-        "title": "微信朋友圈搜索全面开放，Claude发布新模型",
+        "title": "微信朋友圈搜索全面开放，Claude发布新模型，王传福称比亚迪5年后全球第一",
         "link": "https://www.ifanr.com/1668544?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果详解第三代基础模型，端侧200亿参数模型采用稀疏激活；微信AI生态开放接入，滴滴、美的等首批适配；国家安全部提示AI中转站数据风险。",
-        "comment": "AI与社交搜索加速融合，数据安全需警惕。",
+        "summary": "苹果详解第三代基础模型，端侧200亿参数模型采用稀疏激活；微信AI生态开放接入，滴滴、美的等首批完成适配；国家安全部提示AI中转站数据风险。",
+        "comment": "科技巨头加速布局AI，竞争白热化。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "苹果手表",
-        "title": "苹果手表Ultra仅299美元，父亲节前送达",
-        "link": "https://www.ign.com/articles/apple-watch-ultra-deal-amazon-fathers-day-sale",
-        "summary": "翻新机优惠450美元，状态极佳，亚马逊父亲节促销。",
-        "comment": "翻新机折扣力度大，但需注意保修。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/applewatchultra-1781130805138.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电动自行车",
-        "title": "成人电动自行车促销：48V 400W 时速20英里 续航32英里 仅售159美元",
-        "link": "https://www.ign.com/articles/terrosor-48v-400w-adult-electric-bike-deal-june-2026-updated",
-        "summary": "IGN报道一款成人电动自行车限时优惠，原价更高，现仅需159美元，具备48V 400W电机、20英里/小时最高速度和32英里续航里程。",
-        "comment": "低价电动自行车促销，性价比突出但需关注质量。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/02/terrorsort5-1780430512145.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "三款限量版Xbox精英手柄仅在百思买独家发售",
-        "link": "https://www.ign.com/articles/xbox-elite-series-2-limited-edition-controllers-from-design-lab-exclusively-at-best-buy",
-        "summary": "这三款手柄通过Xbox Design Lab服务预配置，提供独特外观和手感，仅在百思买独家销售。",
-        "comment": "限量设计提升收藏价值，但独家渠道限制购买便利性。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/xboxdesignlabcontrollers-1781127100372.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "霍比特人",
-        "title": "《霍比特人》豪华插图版降至年度最低价",
-        "link": "https://www.ign.com/articles/the-hobbit-deluxe-illustrated-edition-price-drop-june-2026",
-        "summary": "亚马逊在Prime Day前推出图书优惠，其中《霍比特人》豪华插图版大幅降价，为Prime会员提供年度最低价。",
-        "comment": "经典IP促销，Prime会员可趁机入手。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/hobbit-1781122228195.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "父亲节前磁力划船机降价40%，不到150美元",
-        "link": "https://www.ign.com/articles/magnetic-rower-exercise-machine-deal-amazon-fathers-day-sale",
-        "summary": "一款紧凑且价格实惠的磁力划船机，提供有氧和全身抗阻训练，现降价40%至150美元以下。",
-        "comment": "健身器材促销，性价比不错。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/yosudarower-1781122119555.jpg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "小岛秀夫",
-        "title": "小岛秀夫与杰夫·基利“分手”传闻引热议",
-        "link": "https://www.gamespot.com/articles/heres-why-everyone-is-talking-about-hideo-kojima-and-geoff-keighleys-divorce/",
-        "summary": "游戏界两位知名人物小岛秀夫与杰夫·基利的关系被外界猜测出现裂痕，引发粉丝广泛讨论。两人过去多年在公开场合互动频繁，但近期互动减少，被部分网友解读为“分手”。",
-        "comment": "游戏圈八卦热度高，但事实仍需核实。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Kojima-and-Keighley.png?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "珠峰",
-        "title": "珠峰向导奇迹生还引发旅游业质疑",
-        "link": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss",
-        "summary": "一名厨师为何被安排带领客户攀登世界最高峰？又为何被遗弃自救？珠峰旅游业的安全管理问题引发关注。",
-        "comment": "珠峰商业化登山的安全底线亟待反思。",
-        "image": "",
-        "score": 87
+        "score": 92
       },
       {
         "category": "时事热点",
         "tag": "印度航空",
         "title": "印度航空171航班坠机原因引发激烈争议",
         "link": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-        "summary": "调查最终结论尚未公布，但未来几天内可能会有更多细节浮出水面。",
-        "comment": "争议焦点在于事故原因尚未明确。",
+        "summary": "调查最终结论尚未公布，但未来几天内可能会有更多信息浮出水面。",
+        "comment": "争议背后是航空安全责任的博弈。",
         "image": "",
-        "score": 86
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "奥利维亚·罗德里戈",
         "title": "奥利维亚·罗德里戈谈心碎创作与婚礼歌曲选择",
         "link": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss",
-        "summary": "流行歌手奥利维亚·罗德里戈讨论创作快乐歌曲的难度，以及她在格拉斯顿伯里音乐节上的焦虑发作。",
-        "comment": "明星情感创作与个人生活交织，引发共鸣。",
+        "summary": "流行歌手奥利维亚·罗德里戈讨论创作快乐歌曲的困难，以及她在格拉斯顿伯里音乐节上的焦虑发作。",
+        "comment": "创作型歌手的真实情感流露，引发共鸣。",
         "image": "",
-        "score": 86
+        "score": 83
       }
     ]
   }
