@@ -1,26 +1,26 @@
 {
   "run_id": 1,
-  "generated_at": "2026-06-12T07:15:34Z",
-  "source_health_path": "/Users/damei/Ai_News/my-ai-news/public/data/source-health.json",
+  "generated_at": "2026-06-12T10:16:02Z",
+  "source_health_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/source-health.json",
   "summary": {
     "total_sources": 9,
-    "healthy_sources": 9,
+    "healthy_sources": 8,
     "degraded_sources": 0,
-    "unhealthy_sources": 0
+    "unhealthy_sources": 1
   },
   "sources": [
     {
       "source_id": "jiqizhixin",
       "source_name": "机器之心",
-      "status": "success",
-      "items_fetched": 10,
-      "active_url": "https://www.jiqizhixin.com/industry",
+      "status": "invalid_feed",
+      "items_fetched": 0,
+      "active_url": null,
       "attempted_urls": [
         "https://www.jiqizhixin.com/industry"
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": null
+      "error_message": "empty html listing"
     },
     {
       "source_id": "techcrunch_ai",
