@@ -28,6 +28,10 @@ def format_run_summary(result: dict) -> str:
     x_digest = result.get("x_digest") or {}
     if x_digest:
         lines.append(f"x_digest_items: {x_digest.get('items', 0)}")
+        if x_digest.get("stale"):
+            lines.append("x_digest_stale: true")
+        if x_digest.get("last_success_at"):
+            lines.append(f"x_digest_last_success_at: {x_digest['last_success_at']}")
         if x_digest.get("path"):
             lines.append(f"x_digest_path: {x_digest['path']}")
 

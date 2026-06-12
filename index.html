@@ -2137,7 +2137,8 @@
             if (xDigestData.stale) {
                 const banner = document.createElement('div');
                 banner.className = 'x-stale-banner';
-                banner.textContent = 'X 抓取源暂时没有返回新内容，当前显示的是上一次成功更新的数据。';
+                const lastSuccess = xDigestData.last_success_at ? formatXTime(xDigestData.last_success_at) : '上一次';
+                banner.textContent = `X 抓取源暂时没有返回新内容，当前显示的是 ${lastSuccess} 成功更新的数据。`;
                 fragment.appendChild(banner);
             }
             filtered.forEach(item => {

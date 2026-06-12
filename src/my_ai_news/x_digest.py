@@ -309,6 +309,7 @@ def publish_x_digest(posts: list[XPost], statuses: list[dict], output_path: Path
     )
     stale = False
     previous_payload: dict | None = None
+    last_success_at = utc_now_iso()
     if not sorted_posts and output_path.exists():
         try:
             previous_payload = json.loads(output_path.read_text(encoding="utf-8"))
@@ -318,6 +319,11 @@ def publish_x_digest(posts: list[XPost], statuses: list[dict], output_path: Path
         if previous_items:
             stale = True
             sorted_item_payloads = previous_items[:50]
+            last_success_at = (
+                previous_payload.get("last_success_at")
+                or previous_payload.get("generated_at")
+                or ""
+            )
         else:
             sorted_item_payloads = []
     else:
@@ -325,6 +331,7 @@ def publish_x_digest(posts: list[XPost], statuses: list[dict], output_path: Path
 
     payload = {
         "generated_at": utc_now_iso(),
+        "last_success_at": last_success_at,
         "total": len(sorted_item_payloads),
         "items": sorted_item_payloads,
         "accounts": statuses,

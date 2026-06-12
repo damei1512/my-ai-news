@@ -1,29 +1,27 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-06-12T03:59:44Z",
+  "finished_at": "2026-06-12T07:15:34Z",
   "sources": 9,
-  "raw_items": 80,
-  "stories": 80,
-  "database": "/home/runner/work/my-ai-news/my-ai-news/data/app.db",
-  "publish_dir": "/home/runner/work/my-ai-news/my-ai-news/public/data",
-  "status_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/status.json",
-  "source_health_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/source-health.json",
-  "llm_enabled": true,
+  "raw_items": 90,
+  "stories": 90,
+  "database": "/Users/damei/Ai_News/my-ai-news/data/app.db",
+  "publish_dir": "/Users/damei/Ai_News/my-ai-news/public/data",
+  "status_path": "/Users/damei/Ai_News/my-ai-news/public/data/status.json",
+  "source_health_path": "/Users/damei/Ai_News/my-ai-news/public/data/source-health.json",
+  "llm_enabled": false,
   "llm": {
-    "enabled": true,
+    "enabled": false,
     "provider": "deepseek",
     "model": "deepseek-chat",
-    "base_urls": [
-      "https://api.deepseek.com"
-    ],
-    "status": "success",
+    "base_urls": [],
+    "status": "disabled",
     "degraded_items": 0,
     "error_counts": {}
   },
   "x_digest": {
-    "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
-    "items": 0,
+    "path": "/Users/damei/Ai_News/my-ai-news/public/data/x-digest.json",
+    "items": 42,
     "accounts": 15,
     "account_statuses": [
       {
@@ -144,7 +142,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/demishassabis"
         ],
-        "error_message": "empty feed"
+        "error_message": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
       },
       {
         "account_id": "satyanadella",
@@ -168,7 +166,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/pmarca"
         ],
-        "error_message": "empty feed"
+        "error_message": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
       },
       {
         "account_id": "bindureddy",
@@ -206,21 +204,25 @@
         ],
         "error_message": "empty feed"
       }
-    ]
+    ],
+    "stale": true,
+    "stale_reason": "X feeds returned no new items; preserved previous digest.",
+    "generated_at": "2026-06-12T07:15:34Z",
+    "last_success_at": "2026-05-17T08:25:41Z"
   },
   "source_statuses": [
     {
       "source_id": "jiqizhixin",
       "source_name": "机器之心",
-      "status": "invalid_feed",
-      "items_fetched": 0,
-      "active_url": null,
+      "status": "success",
+      "items_fetched": 10,
+      "active_url": "https://www.jiqizhixin.com/industry",
       "attempted_urls": [
         "https://www.jiqizhixin.com/industry"
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": "empty html listing"
+      "error_message": null
     },
     {
       "source_id": "techcrunch_ai",
