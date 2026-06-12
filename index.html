@@ -778,6 +778,15 @@
             font-size: 13px;
             line-height: 1.6;
         }
+        .x-stale-banner {
+            padding: 10px 12px;
+            border-radius: 12px;
+            border: 1px solid rgba(245, 158, 11, 0.24);
+            background: rgba(245, 158, 11, 0.1);
+            color: var(--text-sub);
+            font-size: 13px;
+            line-height: 1.5;
+        }
 
         /* 暗色模式下的卡片 */
         [data-theme="dark"] .card {
@@ -2125,6 +2134,12 @@
             }
 
             const fragment = document.createDocumentFragment();
+            if (xDigestData.stale) {
+                const banner = document.createElement('div');
+                banner.className = 'x-stale-banner';
+                banner.textContent = 'X 抓取源暂时没有返回新内容，当前显示的是上一次成功更新的数据。';
+                fragment.appendChild(banner);
+            }
             filtered.forEach(item => {
                 fragment.appendChild(createXPostCard(item));
             });

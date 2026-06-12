@@ -307,11 +307,29 @@ def publish_x_digest(posts: list[XPost], statuses: list[dict], output_path: Path
         key=lambda item: (item.published_date, item.score),
         reverse=True,
     )
+    stale = False
+    previous_payload: dict | None = None
+    if not sorted_posts and output_path.exists():
+        try:
+            previous_payload = json.loads(output_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            previous_payload = None
+        previous_items = previous_payload.get("items", []) if previous_payload else []
+        if previous_items:
+            stale = True
+            sorted_item_payloads = previous_items[:50]
+        else:
+            sorted_item_payloads = []
+    else:
+        sorted_item_payloads = [post.to_dict() for post in sorted_posts[:50]]
+
     payload = {
         "generated_at": utc_now_iso(),
-        "total": len(sorted_posts),
-        "items": [post.to_dict() for post in sorted_posts[:50]],
+        "total": len(sorted_item_payloads),
+        "items": sorted_item_payloads,
         "accounts": statuses,
+        "stale": stale,
+        "stale_reason": "X feeds returned no new items; preserved previous digest." if stale else "",
     }
     output_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     return payload

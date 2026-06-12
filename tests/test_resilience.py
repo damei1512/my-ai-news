@@ -312,6 +312,41 @@ def test_x_digest_reports_unconfigured_accounts(tmp_path: Path) -> None:
     assert config.x_digest_path.exists()
 
 
+def test_x_digest_preserves_previous_items_when_feeds_return_empty(monkeypatch: pytest.MonkeyPatch, tmp_path: Path) -> None:
+    monkeypatch.setattr("my_ai_news.x_digest.feedparser.parse", lambda url: SimpleNamespace(feed={}, entries=[]))
+
+    config = SimpleNamespace(
+        llm_enabled=False,
+        llm_api_key=None,
+        llm_model="test-model",
+        llm_base_url=None,
+        x_config=tmp_path / "x_accounts.json",
+        x_digest_path=tmp_path / "x-digest.json",
+    )
+    config.x_config.write_text(
+        json.dumps({"accounts": [{"id": "example", "handle": "example", "name": "Example", "rss_url": "https://rss.example/user/example"}]}),
+        encoding="utf-8",
+    )
+    config.x_digest_path.write_text(
+        json.dumps(
+            {
+                "generated_at": "2026-05-15T00:00:00Z",
+                "total": 1,
+                "items": [{"author_name": "Example", "url": "https://x.com/example/status/1"}],
+                "accounts": [],
+            }
+        ),
+        encoding="utf-8",
+    )
+
+    payload = run_x_digest(config)
+
+    assert payload["stale"] is True
+    assert payload["total"] == 1
+    assert payload["items"][0]["url"] == "https://x.com/example/status/1"
+    assert payload["accounts"][0]["status"] == "fetch_error"
+
+
 def test_x_digest_builds_rsshub_url_from_env(monkeypatch: pytest.MonkeyPatch) -> None:
     monkeypatch.setenv("X_RSS_BASE_URL", "https://rss.example.com/")
 
