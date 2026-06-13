@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "SpaceX",
-        "title": "SpaceX IPO定价每股135美元，规模史上最大",
-        "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-        "summary": "SpaceX正式公布IPO定价，每股135美元，启动史上最大规模首次公开募股。",
-        "comment": "定价落地标志SpaceX进入公开市场新阶段。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI收购Ona以扩展Codex云环境",
-        "link": "https://openai.com/index/openai-to-acquire-ona",
-        "summary": "OpenAI计划收购Ona，为Codex平台增加安全持久的云环境，支持企业工作流中的长期运行AI代理。",
-        "comment": "强化企业AI代理基础设施，布局持久化云服务。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "天体物理学家用Codex模拟黑洞",
-        "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-        "summary": "天体物理学家Chi-kwan Chan利用OpenAI Codex构建黑洞模拟，帮助科学家研究极端物理并检验爱因斯坦广义相对论。",
-        "comment": "AI辅助科学模拟，加速理论验证。",
+        "title": "OpenAI支持欧盟AI实践准则，推动内容透明度",
+        "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+        "summary": "OpenAI支持欧盟AI实践准则，推进内容来源标准和工具，帮助人们理解AI生成内容，确保可信AI生态系统。",
+        "comment": "OpenAI积极回应欧盟监管，强化AI透明度。",
         "image": "",
         "score": 100
       },
@@ -37,100 +17,40 @@
         "tag": "人工智能",
         "title": "BBVA将AI置于银行业核心，与OpenAI合作",
         "link": "https://openai.com/index/bbva",
-        "summary": "BBVA将ChatGPT Enterprise推广至10万名员工，并与OpenAI合作，加速全球AI驱动的银行业转型。",
-        "comment": "银行业AI规模化应用的重要里程碑。",
+        "summary": "BBVA将ChatGPT Enterprise扩展至10万名员工，并与OpenAI合作，加速全球AI驱动银行业转型。",
+        "comment": "银行业AI规模化应用的标杆案例。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI支持欧盟AI内容透明度实践准则",
-        "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-        "summary": "OpenAI支持欧盟AI内容透明度实践准则，推进来源标准与工具，帮助人们理解AI生成内容。",
-        "comment": "此举强化AI信任，但执行细节待观察。",
+        "title": "OpenAI收购Ona以扩展Codex企业AI代理能力",
+        "link": "https://openai.com/index/openai-to-acquire-ona",
+        "summary": "OpenAI计划收购Ona，通过安全、持久的云环境扩展Codex，支持跨企业工作流的长时间运行AI代理。",
+        "comment": "此举强化了OpenAI在企业级AI代理领域的布局。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "SpaceX",
-        "title": "SpaceX SPV投资者在IPO锁定期后才能知晓真实持股",
-        "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-        "summary": "SpaceX上市后，次级SPV投资者面临隐藏费用、漫长支付延迟和欺诈风险。",
-        "comment": "SPV结构加剧信息不对称，散户需警惕。",
+        "tag": "人工智能",
+        "title": "天体物理学家用Codex模拟黑洞",
+        "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+        "summary": "天体物理学家Chi-kwan Chan利用OpenAI的Codex构建黑洞模拟，帮助科学家研究极端物理并检验爱因斯坦广义相对论。",
+        "comment": "AI辅助科学模拟，加速理论验证。",
         "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "水上飞行器",
-        "title": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X",
-        "link": "https://36kr.com/p/3848476414792709?f=rss",
-        "summary": "坦途科技在苏州发布全球首款消费级载人水上飞行器WaveFly 5X并完成首飞，将硬件布局从陆地短交通延伸至水域与低空出行，填补低空经济消费端产品空白。",
-        "comment": "水域飞行器开辟低空经济新赛道，消费级市场潜力巨大。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "ChinaJoy",
-        "title": "ChinaJoy Vision Future前沿科技展区与36氪直播间开启预约",
-        "link": "https://36kr.com/p/3848564910036229?f=rss",
-        "summary": "两个月后ChinaJoy将在上海浦东举办，汇聚全国关注前沿科技的年轻人。作为二十年数字娱乐展会，它已成为科技+数字娱乐行业的年度线下交汇点，展示最新产品和趋势，聚集年轻创业者和行业脉搏。",
-        "comment": "ChinaJoy正从游戏展会升级为科技行业风向标。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "独立游戏",
-        "title": "48元日游《梦幻魔法公主》热销，揭示国产单机困境",
-        "link": "https://36kr.com/p/3848383082222849?f=rss",
-        "summary": "日本独立游戏《梦幻魔法公主》售价48元，发售12天销量超20万份，开发商Neotro此前作品《NeverAwake》表现平平，此现象凸显国产单机游戏在定价与市场接受度上的挑战。",
-        "comment": "低价策略成功，但国产单机需突破品质与认知瓶颈。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "算力",
-        "title": "算力价格持续下降，OpenAI考虑降价，儿童可购铁路计次票",
-        "link": "https://36kr.com/p/3848516305605892?f=rss",
-        "summary": "算力价格持续下降，百万Token仅需几元；OpenAI正考虑大幅下调产品价格；7月1日起儿童旅客可购买铁路旅游计次票，票价为成人5折。",
-        "comment": "算力降价利好AI应用，铁路儿童票新政便民。",
-        "image": "",
-        "score": 95
+        "score": 100
       },
       {
         "category": "数码科技",
         "tag": "smart",
         "title": "smart首款轿车续航超1800公里，17.79万元起",
         "link": "https://www.ifanr.com/1668668?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "smart发布旗下首款轿车，续航超1800公里，起售价17.79万元，从精致大玩具转型为5米大轿车。",
-        "comment": "续航突破是亮点，但品牌转型能否成功待观察。",
+        "summary": "smart发布旗下首款轿车，续航超1800公里，起售价17.79万元，从精致小车转型为5米大轿车。",
+        "comment": "续航突破性提升，但品牌定位转型需市场验证。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "Agent时代需要能折叠的移动工作台：AIDONE 5.0全记录",
-        "link": "https://www.ifanr.com/1668634?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道AIDONE 5.0，强调AI时代人仍是主角，介绍一款可折叠移动工作台，适应Agent时代需求。",
-        "comment": "折叠设计契合移动办公趋势，但AI角色定位需更清晰。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox高管澄清游戏内广告言论",
-        "link": "https://www.gamespot.com/articles/new-xbox-exec-advocates-for-something-everyone-hates-to-help-save-gaming/",
-        "summary": "Xbox首席战略官Matthew Ball澄清了关于游戏内广告的评论，表示他是在回应加入公司前的言论。",
-        "comment": "广告策略需谨慎，玩家体验优先。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-1.54.05-PM.png?w=300",
-        "score": 89
       }
     ]
   }
