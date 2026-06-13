@@ -4,21 +4,41 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI安全",
+        "tag": "人工智能",
         "title": "Anthropic安全警告反噬：政府叫停其最强AI模型",
         "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-        "summary": "Anthropic的安全警告引发政府干预，其最强大AI模型因潜在越狱风险被召回。公司对基于狭窄发现召回商业模型表示不满。",
-        "comment": "安全过度警示反成监管靶心。",
+        "summary": "Anthropic的安全警告引发政府担忧，导致其最强大AI模型被召回。公司对基于窄域越狱测试结果就要求召回商业模型表示不满。",
+        "comment": "安全透明与监管过严的平衡难题。",
         "image": "",
         "score": 100
       },
       {
+        "category": "人工智能",
+        "tag": "创业",
+        "title": "杨安泽：降低生活成本是下一个创业风口",
+        "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+        "summary": "杨安泽列出美国人超额支付的住房、食品、无线通信等项目，认为下一个创业热潮在于将这些成本返还给消费者。",
+        "comment": "从AI到民生，创业方向转向务实。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "SpaceX",
+        "title": "SpaceX上市：马斯克如何提前布局每一步棋",
+        "link": "https://36kr.com/p/3851073239372809?f=rss",
+        "summary": "SpaceX正式登陆纳斯达克，发行价135美元。马斯克在星舰基地远程敲钟，回顾创业艰辛，认为公司能走到今天是奇迹。文章分析其战略布局与远见。",
+        "comment": "马斯克的每一步都像精心设计的棋局。",
+        "image": "",
+        "score": 98
+      },
+      {
         "category": "数码科技",
         "tag": "Anthropic",
-        "title": "Anthropic全球停用Claude 5，最强AI紧急下架",
+        "title": "Anthropic全球停用Claude 5，外籍员工亦受限",
         "link": "https://36kr.com/p/3851015329027336?f=rss",
-        "summary": "Anthropic突然宣布全球禁用外籍人士访问Claude Fable 5和Mythos 5，上线仅72小时即被下架，原因不明。",
-        "comment": "突发禁令凸显AI安全与地缘政治风险交织。",
+        "summary": "Anthropic突然宣布全球禁用外籍人士访问Claude Fable 5和Mythos 5，上线仅72小时即遭下架，原因未明。",
+        "comment": "突发禁令凸显AI安全与地缘政治风险。",
         "image": "",
         "score": 98
       },
@@ -28,7 +48,7 @@
         "title": "SpaceX市值破2万亿美元，中国商业航天十年冷暖回顾",
         "link": "https://36kr.com/p/3850902095336449?f=rss",
         "summary": "SpaceX以史上最大估值完成IPO，股价冲高至176美元，市值突破2万亿美元，马斯克成首位万亿美元富豪。国内商业航天赛道随之升温，投资人排队约见创始人，地方政府争抢项目落地。",
-        "comment": "SpaceX的成就映射出中国商业航天的巨大潜力与差距。",
+        "comment": "SpaceX的市值神话为中国商业航天注入强心剂。",
         "image": "",
         "score": 98
       },
@@ -37,38 +57,88 @@
         "tag": "SpaceX",
         "title": "SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍",
         "link": "https://36kr.com/p/3850898430989577?f=rss",
-        "summary": "今日热点：SpaceX上市市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应员工薪资争议；FIFA联名款labubu世界杯销量暴涨30倍。",
-        "comment": "SpaceX上市引爆市场，马斯克财富神话再升级。",
+        "summary": "今日热点：SpaceX上市市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应员工薪资争议；FIFA联名labubu世界杯销量暴涨30倍；韩美半导体投资SpaceX；SK海力士火灾；杭州小龙虾降价超50%。",
+        "comment": "SpaceX上市引爆市场，马斯克财富神话再刷新纪录。",
         "image": "",
         "score": 98
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "AI时代留学就业白皮书：中国留学生全球趋势与人才价值重塑",
+        "link": "https://36kr.com/p/3846972367866119?f=rss",
+        "summary": "AI浪潮重塑全球产业逻辑，传统留学学历溢价与信息差失效，高薪专业基础任务面临替代风险。70/80后家长遭遇教育投资回报率骤降，05后陷入人机协同时代身份焦虑。36氪研究院与新通教育联合发布白皮书。",
+        "comment": "留学价值体系面临重构，白皮书揭示关键转型信号。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "宁德时代",
+        "title": "宁德时代战略投资中恒电气，CVC排队IPO",
+        "link": "https://36kr.com/p/3851106394117383?f=rss",
+        "summary": "宁德时代拟以约41亿元战略投资中恒电气，推动CVC布局。越来越多产业资本（CVC）排队IPO，显示科技投资活跃。",
+        "comment": "宁王系资本版图再扩张，CVC成科技投资新趋势。",
+        "image": "",
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "电致变色",
         "title": "电致变色技术厂商中科电墨获数千万元Pre-A轮融资",
         "link": "https://36kr.com/p/3850904887268611?f=rss",
-        "summary": "中科电墨完成数千万元Pre-A轮融资，由龙鼎投资独家投资，资金将用于车规级电致变色产线建设、核心材料研发及汽车市场拓展。该技术可降低核心材料成本至进口五分之一，助力调光玻璃成为新能源汽车差异化配置。",
+        "summary": "中科电墨完成数千万元Pre-A轮融资，由龙鼎投资独家投资，资金用于车规级电致变色产线建设、核心材料研发及汽车市场拓展。该技术可将核心材料成本降至进口五分之一，助力调光玻璃在新能源汽车中普及。",
         "comment": "成本突破是电致变色技术商业化的关键一步。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
+        "tag": "曼联",
+        "title": "曼联或被出售，格雷泽家族讨论转让",
+        "link": "https://36kr.com/p/3851350342325504?f=rss",
+        "summary": "彭博社消息，掌控曼联超20年的格雷泽家族内部正讨论出售事宜。与此同时，史上最盛大世界杯正上演，48支球队、39天、104场比赛，总奖金8.71亿美元。",
+        "comment": "足球豪门易主，折射体育产业资本洗牌。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "2026年AI长出四个轮子，驶向物理世界",
+        "link": "https://www.ifanr.com/1668845?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "车不再是拼凑出来的机械，而是从AI里长出来的载体，预示智能汽车与人工智能深度融合的新趋势。",
+        "comment": "AI驱动汽车进化，从工具到智能体。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
         "tag": "SpaceX",
-        "title": "SpaceX上市首日暴涨，苹果高管称Siri非情感伴侣",
+        "title": "SpaceX上市首日暴涨，苹果高管称Siri不做情感伴侣",
         "link": "https://www.ifanr.com/1668871?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "SpaceX上市首日股价暴涨；苹果高管表示Siri不想做用户的情感伴侣；华为余承东称要带盘古大模型从中国第一走向世界第一。",
-        "comment": "科技巨头各显神通，AI与太空竞争白热化。",
+        "summary": "SpaceX上市首日股价暴涨；苹果高管表示Siri定位为工具而非情感伴侣；华为余承东称盘古大模型要从中国第一走向世界第一。",
+        "comment": "科技巨头各显神通，AI与航天仍是焦点。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "鸣潮",
+        "title": "找百万UP主畅聊《鸣潮》：从群嘲到封神联动",
+        "link": "https://www.gcores.com/radios/215866",
+        "summary": "机核视频播客音频版，邀请两位百万粉丝UP主，讨论《鸣潮》与《赛博朋克：边缘行者》联动内容，回顾游戏从全网群嘲到封神联动的转变。",
+        "comment": "深度复盘《鸣潮》逆袭之路，联动内容成关键转折。",
         "image": "",
         "score": 92
       },
       {
         "category": "时事热点",
-        "tag": "霍尔木兹海峡",
+        "tag": "伊朗",
         "title": "伊朗称结束冲突的协议将导致霍尔木兹海峡重新开放",
         "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国、伊朗及调解方巴基斯坦表示，旨在结束敌对状态的协议即将最终敲定，这将为霍尔木兹海峡重新开放铺平道路。",
-        "comment": "协议若达成，全球能源供应紧张将缓解。",
+        "summary": "美国、伊朗及调解方巴基斯坦表示，结束敌对行动的协议即将最终敲定，将为霍尔木兹海峡重新开放铺平道路。",
+        "comment": "协议若达成，将显著缓解中东紧张局势。",
         "image": "",
         "score": 88
       }
