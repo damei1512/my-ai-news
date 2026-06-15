@@ -3,92 +3,22 @@
     "week": "周六",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "毕马威因AI幻觉撤回AI使用报告",
-        "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-        "summary": "毕马威发布的一份关于AI使用的报告被发现包含由AI生成的虚假信息，公司随后撤回该报告，再次凸显AI作为信息来源的不可靠性。",
-        "comment": "AI自证其不可靠，讽刺至极。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "亚马逊",
-        "title": "亚马逊CEO据报在政府打压前提出Anthropic模型担忧",
-        "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-        "summary": "亚马逊CEO Andy Jassy可能是引发安全担忧的源头，导致Anthropic上周五切断两款模型的全球访问。",
-        "comment": "内部担忧先于外部监管，凸显企业安全责任。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI遭美国多州总检察长调查",
-        "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-        "summary": "调查涉及OpenAI的广告政策及健康数据处理等多个方面，但具体参与州份尚未明确。",
-        "comment": "监管压力持续升级，OpenAI合规风险加剧。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic安全警告反噬：政府叫停其最强AI",
-        "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-        "summary": "Anthropic的安全警告引发政府干预，其最强大AI模型因潜在越狱风险被召回，公司对此表示不满。",
-        "comment": "安全透明与监管风险之间的平衡难题。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "创业",
-        "title": "杨安泽：降低生活成本是下一个创业风口",
-        "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-        "summary": "杨安泽列出美国人过度支付的领域——住房、食品、无线通信——认为下一个创业热潮是帮人们省回这些钱。",
-        "comment": "从AI到民生，创业方向转向务实。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "AI时代留学就业白皮书：中国留学生全球趋势与人才价值重塑",
-        "link": "https://36kr.com/p/3846972367866119?f=rss",
-        "summary": "AI浪潮重塑全球产业逻辑，传统留学学历溢价与信息差失效，高薪专业基础任务面临被替代风险。70/80后家长遭遇教育投资回报率骤降，05后陷入人机协同时代身份焦虑。36氪研究院与新通教育联合发布白皮书。",
-        "comment": "留学价值重估，AI时代人才标准亟待更新。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "宁德时代",
-        "title": "宁德时代战略投资中恒电气，CVC排队IPO",
-        "link": "https://36kr.com/p/3851106394117383?f=rss",
-        "summary": "宁德时代拟以约41亿元战略投资中恒电气，推动控股股东合作。越来越多企业风险投资（CVC）正排队IPO，显示产业资本活跃。",
-        "comment": "宁王系资本布局加速，CVC成新趋势。",
-        "image": "",
-        "score": 97
-      },
-      {
         "category": "数码科技",
         "tag": "曼联",
         "title": "曼联或被出售，格雷泽家族讨论转让事宜",
         "link": "https://36kr.com/p/3851350342325504?f=rss",
-        "summary": "据彭博社消息，掌控曼联超20年的格雷泽家族内部正讨论出售事宜。与此同时，史上最盛大世界杯正上演，48支球队、39天、104场比赛，总奖金8.71亿美元。",
-        "comment": "豪门易主，足球商业版图或生变。",
+        "summary": "据彭博社消息，掌控曼联超20年的格雷泽家族内部正讨论出售事宜。与此同时，史上最盛大世界杯正在上演，48支球队、39天、104场比赛，总奖金达8.71亿美元。",
+        "comment": "豪门易主，足球商业格局或生变。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "AI",
+        "tag": "人工智能",
         "title": "2026年AI长出四个轮子，驶向物理世界",
         "link": "https://www.ifanr.com/1668845?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "车不再是拼凑出来的机械，而是从AI里长出来的载体，标志着AI向物理世界延伸。",
-        "comment": "AI与汽车深度融合，开启智能出行新纪元。",
+        "summary": "车不再是拼凑出来的机械，而是从AI里长出来的载体，预示智能汽车与人工智能深度融合的新趋势。",
+        "comment": "AI与汽车融合，开启物理世界新入口。",
         "image": "",
         "score": 93
       },
@@ -97,8 +27,8 @@
         "tag": "SpaceX",
         "title": "SpaceX上市首日暴涨，苹果高管称Siri非情感伴侣",
         "link": "https://www.ifanr.com/1668871?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "SpaceX上市首日股价暴涨；苹果高管表示Siri并非用户的情感伴侣；华为余承东称将带领盘古大模型从中国第一走向世界第一。",
-        "comment": "科技巨头各显神通，AI与商业齐头并进。",
+        "summary": "SpaceX上市首日股价暴涨；苹果高管表示Siri不想成为用户情感伴侣；华为余承东称要带盘古大模型从中国第一走向世界第一。",
+        "comment": "科技巨头各显神通，AI与太空竞争白热化。",
         "image": "",
         "score": 92
       }
