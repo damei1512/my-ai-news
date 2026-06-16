@@ -4,101 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI伦理",
-        "title": "皮查伊在斯坦福毕业典礼遭嘘声与退场抗议",
+        "tag": "谷歌",
+        "title": "皮查伊在斯坦福毕业典礼遭嘘声和退场抗议",
         "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-        "summary": "因谷歌与以色列及ICE的国防合同涉及AI技术，斯坦福毕业典礼上，CEO皮查伊遭学生嘘声与退场抗议。",
-        "comment": "AI伦理争议再次冲击科技领袖公开场合。",
+        "summary": "因谷歌与以色列及ICE的国防合同涉及AI技术，斯坦福毕业典礼上，CEO皮查伊遭学生嘘声和退场抗议。",
+        "comment": "AI伦理争议再升级，科技巨头面临校园信任危机。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI监管",
-        "title": "美国政府禁Anthropic模型并非因AI越狱",
-        "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-        "summary": "特朗普政府迫使Anthropic撤回最新网络安全模型，此举可能出于反应性或报复性，但信号明确：AI行业面临更严监管。",
-        "comment": "监管信号大于技术风险。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta在Facebook推出AI模式，整合全平台公开信息",
-        "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-        "summary": "Meta周一宣布在Facebook推出新AI功能，整合旗下平台公开信息，旨在追赶AI竞争并提升用户参与度。",
-        "comment": "Meta加速AI布局，但隐私风险值得关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "SpaceX",
-        "title": "SpaceX上市：你需要知道的一切",
-        "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-        "summary": "TechCrunch从早期开始跟踪SpaceX的起步、挣扎和成功，现推出IPO报道包，涵盖创始团队、财务数据和未来规划。",
-        "comment": "商业航天里程碑，市场关注度高。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "网络安全专家抗议美国政府禁止Anthropic最强模型",
-        "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-        "summary": "数十名网络安全专家联名敦促白宫取消对Anthropic的Fable和Mythos模型的出口管制限制，认为该禁令将削弱美国在AI安全领域的竞争力。",
-        "comment": "禁令可能适得其反，削弱美国AI安全优势。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Salesforce 36亿美元收购AI客服平台Fin",
-        "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-        "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin，旨在利用其团队和技术增强Agentforce，帮助企业构建定制AI代理以自动化任务。",
-        "comment": "高额收购凸显企业AI客服赛道竞争白热化。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "NewCore获6600万美元融资，为AI代理打造企业身份",
-        "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-        "summary": "NewCore认为企业安全的下一个挑战将是管理AI代理而非人类，并获6600万美元融资以开发相关身份管理方案。",
-        "comment": "AI代理身份管理或成企业安全新战场。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "地球观测卫星首次自主发现目标",
-        "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-        "summary": "今年4月，一颗地球观测卫星首次完全自主地找到了它要寻找的目标，标志着卫星自主能力的重要突破。",
-        "comment": "卫星自主感知能力迈出关键一步。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Sarvam获2.34亿美元融资成印度AI新独角兽",
-        "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-        "summary": "印度IT服务公司HCLTech领投1.5亿美元，班加罗尔初创公司Sarvam成为印度最新AI独角兽。",
-        "comment": "印度AI生态再添独角兽，企业级应用前景可期。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "数码科技",
         "tag": "海洋机器人",
-        "title": "海洋具身智能公司世航智能获10亿融资，朱啸虎押注",
+        "title": "海洋具身智能公司世航智能获10亿A轮融资，朱啸虎押注",
         "link": "https://36kr.com/p/3853011900142848?f=rss",
-        "summary": "海洋具身智能公司世航智能完成A轮融资，金额超10亿元，为全球海洋机器人领域最大单轮融资。投资方包括上河动量基金、Vertex Growth、大洋电机等，金沙江创投追加投资。",
-        "comment": "海洋机器人赛道获资本重注，产业协同价值凸显。",
+        "summary": "海洋具身智能公司世航智能完成超10亿元A轮融资，为全球海洋机器人领域最大单轮融资，投资方包括摩尔线程、昆仑芯产业基金、新加坡Vertex Growth、大洋电机等，金沙江创投追加投资。",
+        "comment": "海洋机器人赛道获资本重注，具身智能落地场景拓宽。",
         "image": "",
         "score": 98
       },
@@ -107,7 +27,7 @@
         "tag": "食品安全",
         "title": "山姆总部因食品安全被约谈；智谱股价创新高；美伊达成协议油价下跌",
         "link": "https://36kr.com/p/3855082873476102?f=rss",
-        "summary": "市场监管总局约谈山姆总部，要求整改食品安全问题；智谱股价创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌。",
+        "summary": "市场监管总局约谈山姆总部，针对其多发的食品安全问题；智谱股价暴涨创单日新高；美伊确认达成协议，国际油价显著下跌。",
         "comment": "食品安全监管趋严，科技股波动加剧。",
         "image": "",
         "score": 97
@@ -115,30 +35,30 @@
       {
         "category": "数码科技",
         "tag": "大疆",
-        "title": "大疆发布Pocket 4P双摄口袋电影机",
+        "title": "大疆发布Osmo Pocket 4P双摄口袋电影机",
         "link": "https://36kr.com/p/3854510160549124?f=rss",
-        "summary": "大疆发布Osmo Pocket 4P，搭载双摄系统、17级动态范围与D-Log 2色彩曲线，定位为口袋级专业电影机，回应手机影像逼近专业设备背景下独立影像设备的存在价值。",
-        "comment": "大疆在口袋设备上实现了专业级影像能力。",
+        "summary": "大疆发布Osmo Pocket 4P，搭载双摄系统、17级动态范围与D-Log 2专业色彩曲线，定位为口袋级电影机，回应手机影像逼近专业设备后独立影像设备的存在价值。",
+        "comment": "大疆在口袋设备上堆专业影像，差异化定位清晰。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
         "tag": "世界模型",
-        "title": "智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+        "title": "智源研究院院长王仲远：VLA不会死，世界模型是未来",
         "link": "https://36kr.com/p/3853016586359817?f=rss",
-        "summary": "世界模型成为AI和机器人行业关键词，暴露了具身智能在物理世界中的短板，如机器人无法预判动作力度。智源研究院院长王仲远认为VLA不会消亡，但世界模型是未来方向。",
-        "comment": "世界模型是补足具身智能物理短板的关键。",
+        "summary": "作者邱晓芬、编辑袁斯来报道，世界模型从学术黑话变为AI和机器人行业关键词，背后是具身智能暴露的短板：机器人能识别物体但不懂物理规律，能听懂指令但无法预判力度。",
+        "comment": "世界模型是补足具身智能物理认知短板的关键。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
         "tag": "卫星发射",
-        "title": "我国成功发射8颗卫星；小红书或本月提交IPO；智谱推GLM-5.2",
+        "title": "我国成功发射吉星高分07C04星等8颗卫星；小红书或本月在港提交IPO；智谱推出GLM-5.2",
         "link": "https://36kr.com/p/3854486447510535?f=rss",
         "summary": "支付宝政务AI助手“晓政”服务突破1亿次，覆盖16000项服务事项；小雨智造与地瓜机器人达成战略合作。",
-        "comment": "AI政务落地加速，商业航天与AI模型竞争白热化。",
+        "comment": "科技与政务融合加速，AI落地民生领域成效显著。",
         "image": "",
         "score": 96
       },
@@ -147,59 +67,19 @@
         "tag": "HarmonyOS",
         "title": "HarmonyOS创新赛极客赛道决赛落幕，年轻开发者用代码实现生活观察",
         "link": "https://36kr.com/p/3854243718550528?f=rss",
-        "summary": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC 2026落幕。20支队伍在36小时内使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向比拼，最终获奖名单揭晓。作品背后展现了年轻开发者关注的生活议题。",
-        "comment": "年轻开发者将生活观察转化为代码，是技术落地的鲜活样本。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "EBike",
-        "title": "EBike变速器供应商洛梵狄获数千万元B+轮融资",
-        "link": "https://36kr.com/p/3853252135654660?f=rss",
-        "summary": "洛梵狄智能科技完成数千万元B+轮融资，投资方包括国泰海通、达晨财智等，资金将用于研发、产能扩张及全球销售网络建设。",
-        "comment": "国产EBike核心零部件企业正加速打破海外垄断。",
+        "summary": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC 2026结束。20支队伍在36小时内使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向比拼，最终获奖名单揭晓，展现了年轻开发者的关注焦点。",
+        "comment": "年轻开发者将生活洞察转化为技术实践，值得鼓励。",
         "image": "",
         "score": 96
       },
       {
         "category": "游戏影视",
         "tag": "Xbox",
-        "title": "多家Xbox工作室寻求独立，包括《脑航员》开发商",
+        "title": "多家Xbox工作室寻求独立，包括Double Fine和Ninja Theory",
         "link": "https://www.gamespot.com/articles/double-fine-ninja-theory-and-more-reportedly-trying-to-spin-off-from-xbox-game-studios/",
-        "summary": "据GameSpot报道，微软计划关闭《午夜以南》开发商Compulsion Games，同时Double Fine、Ninja Theory等工作室正试图从Xbox游戏工作室独立出来。",
-        "comment": "微软游戏业务收缩，工作室独立潮或影响未来独占阵容。",
+        "summary": "据报道，微软计划关闭《午夜以南》开发商Compulsion Games，作为更大规模重组的一部分，同时Double Fine、Ninja Theory等工作室正试图从Xbox游戏工作室独立出来。",
+        "comment": "Xbox工作室动荡加剧，独立潮或影响未来独占策略。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/04/Kiln.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "微软",
-        "title": "微软据报将关闭《少数幸运儿》开发商Compulsion Games",
-        "link": "https://www.gamespot.com/articles/xbox-closing-we-happy-few-south-of-midnight-developer-compulsion-games-report/",
-        "summary": "据Kotaku报道，微软计划关闭加拿大工作室Compulsion Games，该团队曾开发《对比》《少数幸运儿》及即将推出的《南半夜》。裁员细节尚未公布。",
-        "comment": "微软收购后整合动作频繁，工作室命运堪忧。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xboxreset.png?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "微软",
-        "title": "Xbox游戏工作室负责人离职，微软或进行大规模重组",
-        "link": "https://www.gamespot.com/articles/xbox-game-studios-boss-is-out-ahead-of-reported-layoffs-and-other-major-changes-to-reset-xbox/",
-        "summary": "Xbox游戏工作室负责人Craig Duncan在微软任职15年后离职，其幕僚长也同时离开。此举发生在微软可能进行裁员和重大调整之前，旨在“重置”Xbox业务。",
-        "comment": "高层变动预示Xbox战略转型加速。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox.png?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Capcom",
-        "title": "Capcom称押注团队而非远见者改变了公司",
-        "link": "https://www.gamespot.com/articles/capcom-says-betting-on-teams-instead-of-visionaries-changed-the-company/",
-        "summary": "2026年过半，Capcom凭借《生化危机：安魂曲》《怪物猎人物语3：扭曲之镜》和《Pragmata》等热门游戏表现强劲，公司表示转向团队合作而非依赖个别远见者是成功关键。",
-        "comment": "团队协作模式助力Capcom持续产出爆款。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/CApcom-2026.jpg?w=300",
         "score": 93
       },
       {
@@ -208,7 +88,7 @@
         "title": "实测鸿蒙7开发者Beta：AI强大，小艺跨设备取文件",
         "link": "https://www.ifanr.com/1668998?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "在HDC 2026现场实测全新小艺，一句话即可跨设备取文件、做旅游搭子，AI能力显著提升。",
-        "comment": "小艺的跨设备能力是鸿蒙生态的关键突破。",
+        "comment": "鸿蒙7的AI能力让手机真正开始自主干活。",
         "image": "",
         "score": 92
       },
@@ -217,59 +97,19 @@
         "tag": "华为",
         "title": "华为乾崑智驾ADS Pro上车深蓝S07增程版，限时15.49万起",
         "link": "https://www.ifanr.com/1668957?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "全新深蓝S07增程版搭载华为乾崑智驾ADS Pro，限时售价15.49万元起，将高阶智驾功能引入平价市场。",
-        "comment": "华为智驾下探至15万级，加速普及。",
+        "summary": "全新深蓝S07增程版搭载华为乾崑智驾ADS Pro，限时售价15.49万元起，提供平价高阶智驾选择。",
+        "comment": "华为智驾下放至15万级，性价比突出。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "亚马逊",
-        "title": "亚马逊买二送一书促回归，为夏日阅读清单备货",
-        "link": "https://www.gamespot.com/articles/amazons-b1g1-half-off-sale-books/1100-6538075/",
-        "summary": "亚马逊提前开启Prime Day促销，推出买二送一图书优惠活动，帮助用户充实夏日阅读清单。只需添加三本符合条件的书籍即可享受折扣。",
-        "comment": "亚马逊图书促销力度大，适合囤书爱好者。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/02/book-header.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
         "tag": "游戏改编",
-        "title": "《着魔》导演有意执导游戏改编电影",
+        "title": "《着迷》导演有意执导游戏改编电影",
         "link": "https://www.gamespot.com/articles/obsession-director-would-be-up-for-a-video-game-movie/",
-        "summary": "恐怖片《着魔》以75万美元成本全球票房超2.2亿美元，导演库里·巴克表示对执导游戏改编电影持开放态度。",
-        "comment": "低成本高回报或成游戏改编新契机。",
+        "summary": "恐怖片《着迷》以75万美元预算斩获2.2亿美元票房，导演Curry Barker表示有兴趣执导游戏改编电影。",
+        "comment": "低成本高回报或成游戏改编新思路。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-15-at-5.07.12-PM.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暴雪",
-        "title": "暴雪起诉魔兽私服Ascension WoW，指控其牟利数百万",
-        "link": "https://www.gamespot.com/articles/blizzard-sues-wow-private-server-it-alleges-raked-in-millions/",
-        "summary": "暴雪娱乐对《魔兽世界》私服Ascension WoW提起法律诉讼，指控其侵犯版权、敲诈勒索，并从中获利数百万美元。",
-        "comment": "暴雪持续打击私服，维权力度不减。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Blizzard-Sues-WoW-Private-Server-Project-Ascension-1.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "《光环：战役进化》全球发售时间公布",
-        "link": "https://www.gamespot.com/articles/halo-campaign-evolved-release-date-and-global-launch-times-revealed/",
-        "summary": "微软宣布《光环：战役进化》将于7月底登陆Xbox、PlayStation和PC平台，并公布了全球各地区的具体解锁时间。",
-        "comment": "跨平台发售是微软扩大受众的关键一步。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/HALO_dab438.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "微软",
-        "title": "微软CEO要求Xbox部门财务上自给自足",
-        "link": "https://www.gamespot.com/articles/microsoft-boss-wants-xbox-to-start-pulling-its-weight-financially/",
-        "summary": "在CEO Asha Sharma领导下，Xbox新领导层近期展开魅力攻势，同时承诺部门“重置”，暗示裁员可能即将到来。",
-        "comment": "微软对Xbox的盈利压力加大，重组信号明显。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox-2026.jpg?w=300",
         "score": 92
       },
       {
@@ -277,50 +117,30 @@
         "tag": "鸿蒙",
         "title": "头部应用撑起天际线后，鸿蒙还需什么",
         "link": "https://www.ifanr.com/1668873?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小团队能干大事，是鸿蒙在AI时代的新标签，头部应用已撑起生态天际线。",
-        "comment": "鸿蒙生态需更多中小开发者参与。",
+        "summary": "小团队能干大事，是鸿蒙在AI时代的新标签，探讨其生态发展需求。",
+        "comment": "鸿蒙需更多中小应用丰富生态。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "昊铂",
-        "title": "昊铂S600上市，20万级SUV竞争进入新阶段",
+        "title": "昊铂S600上市：20万级SUV竞争进入新阶段",
         "link": "https://www.ifanr.com/1668976?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "昊铂S600上市，定位20万级SUV市场，强调减少用户选择困难，爱范儿分析其能否成为品牌爆款。",
-        "comment": "昊铂以简化选择策略切入红海市场，考验产品力与品牌力。",
+        "summary": "昊铂S600上市，定位20万级SUV市场，旨在打造爆款车型，推动品牌在竞争激烈的细分市场中脱颖而出。",
+        "comment": "昊铂S600以高性价比切入市场，但品牌力仍是挑战。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "亚马逊",
-        "title": "亚马逊3张4K蓝光碟33美元促销本月回归",
-        "link": "https://www.gamespot.com/articles/amazons-3-for-33-deal-makes-4k-blu-rays-a-bargain-again/1100-6539391/",
-        "summary": "尽管流媒体成为家庭观影新标准，但实体电影收藏无可替代。亚马逊本月推出3张4K蓝光碟仅33美元促销活动，适合扩充蓝光收藏。",
-        "comment": "实体碟促销回归，收藏党可趁机补货。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/04/Amazon-3-for-33-June-2026.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "加州",
-        "title": "加州州长纽森指控司法部调查其妻子与前幕僚",
-        "link": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss",
-        "summary": "知情人士透露，相关调查已持续约一年。纽森称司法部针对其妻子及前工作人员展开调查。",
-        "comment": "政治博弈升级，调查时机耐人寻味。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "真人秀",
-        "title": "澳大利亚《一见钟情结婚》被指“令人不安”，监管机构回应",
-        "link": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
-        "summary": "节目《一见钟情结婚》澳大利亚版被曝出多项指控，引发该国监管机构关注，称其“令人不安”。英国通信管理局也回应称指控“令人深感担忧”。",
-        "comment": "真人秀伦理边界再受拷问。",
-        "image": "",
-        "score": 86
+        "title": "亚马逊买二送一图书促销回归",
+        "link": "https://www.gamespot.com/articles/amazons-b1g1-half-off-sale-books/1100-6538075/",
+        "summary": "亚马逊提前开启Prime Day活动，推出买二送一图书促销，适合补充夏季阅读清单，需添加三本符合条件的书籍。",
+        "comment": "经典促销回归，图书爱好者可趁机囤货。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/02/book-header.jpg?w=300",
+        "score": 89
       }
     ]
   }
