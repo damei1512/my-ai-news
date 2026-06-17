@@ -4,121 +4,41 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "SpaceX",
-        "title": "SpaceX估值飙升至2.6万亿美元，短暂超越亚马逊",
-        "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-        "summary": "自上周五股票开始交易以来，SpaceX估值增加了1万亿美元，达到2.6万亿美元，一度超过亚马逊。",
-        "comment": "估值飙升反映市场对太空商业化的极高预期。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI用部署模拟预测模型行为提升安全性",
+        "title": "OpenAI发布部署模拟方法预测模型行为",
         "link": "https://openai.com/index/deployment-simulation",
-        "summary": "OpenAI推出部署模拟方法，利用真实对话数据在发布前预测AI模型行为，以提高安全性和评估准确性。",
-        "comment": "模拟部署是AI安全评估的务实创新。",
+        "summary": "OpenAI推出部署模拟方法，利用真实对话数据在发布前预测AI模型行为，提升安全性与评估准确性。",
+        "comment": "提前模拟部署是AI安全评估的关键一步。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic与特朗普政府争端或助其商业增长",
-        "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-        "summary": "Ramp数据显示，Anthropic在企业用户中受欢迎程度持续上升，与政府的最新争端可能反而推动其业务增长。",
-        "comment": "争议有时是商业催化剂。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Android 17",
-        "title": "Android 17发布：新增多任务工具，谷歌扩展Gemini功能",
-        "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-        "summary": "谷歌发布Android 17和Wear OS 7，引入新多任务功能、家长控制、安全工具及智能手表升级，同时扩展Gemini功能。",
-        "comment": "系统更新聚焦实用性与AI整合，但创新力度有限。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "六成美国消费者反感品牌消息中提及AI",
-        "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-        "summary": "WordPress VIP最新调查显示，消费者对AI生成答案持谨慎态度，尽管企业日益将AI搜索视为重要推荐渠道。",
-        "comment": "品牌需谨慎使用AI标签，避免消费者反感。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "我们扒遍iOS 27，发现苹果官宣折叠iPhone",
+        "title": "苹果iOS 27代码暗示折叠iPhone即将到来",
         "link": "https://www.ifanr.com/1669089?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "通过分析iOS 27代码细节，发现苹果可能已为折叠屏iPhone做准备，暗示产品即将到来。",
-        "comment": "折叠iPhone终于有实锤迹象。",
+        "summary": "爱范儿通过分析iOS 27代码，发现苹果可能正在开发折叠屏iPhone，相关线索指向未来产品发布。",
+        "comment": "折叠iPhone或成苹果下一个增长点。",
         "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "激战3",
-        "title": "《激战3》确认无订阅制及战斗通行证",
-        "link": "https://www.gamespot.com/articles/guild-wars-3-wont-have-hidden-subscriptions-like-battle-passes/",
-        "summary": "《激战3》作为ArenaNet开发的下一款MMORPG，将不设付费订阅，也不包含战斗通行证或其他付费季节性系统。官方在博客中明确表态。",
-        "comment": "回归传统付费模式，或成MMO市场新趋势。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Guild-Wars-3-Wont-Have-A-Battle-Pass.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "Gemini",
-        "title": "起猛了，看见Gemini上长了个手机",
-        "link": "https://www.ifanr.com/1669022?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Android不再是重点，Gemini成为新核心，爱范儿探讨科技趋势转变。",
-        "comment": "AI取代系统成为焦点，生态重塑在即。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Luna Abyss开发商在游戏上线数周后裁员",
-        "link": "https://www.gamespot.com/articles/luna-abyss-developers-laid-off-just-weeks-after-launch/",
-        "summary": "Kwalee Labs在Xbox、PS5和PC上发布恐怖射击游戏Luna Abyss，并加入Game Pass首日阵容，但数周后却裁减了开发团队。",
-        "comment": "Game Pass首日上线也难保工作室稳定。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Luna-Abyss.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "博德之门",
-        "title": "《博德之门》剧集选角获积极更新",
-        "link": "https://www.gamespot.com/articles/baldurs-gate-tv-show-gets-a-positive-sounding-update-about-the-cast/",
-        "summary": "2025年宣布的《博德之门》电视剧因开发商Larian未参与引发质疑，近日演员Samantha Bé透露选角进展积极。",
-        "comment": "无Larian参与，剧集质量存疑。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/BG3.png?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "世界杯",
-        "title": "世界杯营销新玩法：京东如何借超级赛事引流",
+        "title": "世界杯营销新玩法：京东如何借势超级赛事流量",
         "link": "https://www.ifanr.com/1668975?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "超级赛事的流量正在进入京东，通过世界杯营销探索新玩法，吸引用户关注和参与。",
-        "comment": "赛事营销需创新，京东借势世界杯提升品牌曝光。",
+        "summary": "超级赛事的流量正在进入京东，爱范儿探讨了世界杯期间品牌如何通过创新营销策略吸引用户关注。",
+        "comment": "赛事营销需跳出传统套路，京东的尝试值得关注。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "鸿蒙",
-        "title": "搞鸿蒙还有戏吗？00后月入50万",
+        "title": "搞鸿蒙还有戏吗？00后月入50万…",
         "link": "https://www.ifanr.com/1669079?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "HDC 2026实地考察，多位开发者证实鸿蒙生态能赚钱，00后开发者月入50万，展现鸿蒙平台商业潜力。",
-        "comment": "鸿蒙生态盈利案例证实其商业价值。",
+        "summary": "HDC 2026实地考察显示，鸿蒙开发者确实能赚钱，多位开发者证实了这一趋势。",
+        "comment": "鸿蒙生态盈利潜力初显，但需持续观察。",
         "image": "",
         "score": 91
       },
@@ -127,18 +47,28 @@
         "tag": "华为",
         "title": "华为小艺：藏器于身，待时而动",
         "link": "https://www.ifanr.com/1669043?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为小艺在软硬件上表现扎实，但机型适配仍需跟进，以发挥AI助手潜力。",
-        "comment": "功能扎实，适配是短板。",
+        "summary": "华为小艺在软硬件上表现扎实，但机型适配仍需跟进，以发挥AI功能潜力。",
+        "comment": "技术储备充足，落地节奏需加快。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "支付宝",
+        "tag": "Gemini",
+        "title": "起猛了，看见 Gemini 上长了个手机",
+        "link": "https://www.ifanr.com/1669022?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Android 不再是重点了，然后呢？爱范儿报道，Gemini 与手机融合引发关注。",
+        "comment": "AI与硬件融合趋势加速，但生态平衡待观察。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
         "title": "AI版支付宝内测、小红书世界杯直播创新高、大疆Pocket 4P发布",
         "link": "https://www.ifanr.com/1669019?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI版支付宝启动内测，界面曝光；微信支付发布AI接入工具箱2.0；智元远征A3机器人实现全自主乒乓对抗。",
-        "comment": "科技巨头加速AI落地，竞争白热化。",
+        "summary": "AI版支付宝启动内测，对话助手界面曝光；微信支付发布AI接入工具箱2.0，Token消耗减半；智元远征A3机器人实现全自主乒乓对抗。",
+        "comment": "AI应用加速落地，支付与机器人领域创新频出。",
         "image": "",
         "score": 91
       }
