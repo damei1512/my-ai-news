@@ -3,22 +3,62 @@
     "week": "周六",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "Xbox",
+        "title": "Xbox游戏取消风波：哪些作品面临风险？",
+        "link": "https://www.ign.com/articles/what-xbox-games-are-being-cancelled",
+        "summary": "Xbox正在进行业务重置，多个工作室面临关闭风险，这对其正在开发的游戏意味着什么？我们分析了可能被取消的Xbox游戏。",
+        "comment": "Xbox的调整或影响玩家期待，需关注后续官方声明。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/19/xbox-risk-blog-1781861448913.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "迪士尼",
+        "title": "CG如何终结迪士尼手绘动画艺术",
+        "link": "https://www.ign.com/articles/lost-art-how-cg-killed-hand-drawn-animation-at-disney",
+        "summary": "在《玩具总动员5》等CG动画大片主导银幕的今天，回顾手绘动画如何被这种新形式取代。",
+        "comment": "技术迭代的必然，但艺术传承不应被遗忘。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/18/illustration-thumb-cropped-1781819583997.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏PC",
+        "title": "本月最酷的5款手持游戏PC配件",
+        "link": "https://www.ign.com/articles/the-5-coolest-handheld-gaming-pc-accessories-you-can-get-this-month",
+        "summary": "从XR眼镜到强力游戏底座，这些酷炫外设不容错过。",
+        "comment": "配件创新推动手持游戏体验升级。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/18/rayneo-1781819302423.jpg",
+        "score": 93
+      },
+      {
         "category": "数码科技",
-        "tag": "谷歌",
+        "tag": "AI",
         "title": "诺奖得主转投Anthropic，谷歌48小时连失两大牛",
         "link": "https://www.ifanr.com/1669460?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "大公司在AI时代可能成为过去式，谷歌48小时内失去两位顶尖人才，包括一位诺奖得主，引发内部信仰危机。",
-        "comment": "人才流失加速，谷歌AI战略面临挑战。",
+        "summary": "大公司在AI时代可能面临人才流失，谷歌48小时内两位顶尖科学家离职加入Anthropic，引发内部信仰危机。",
+        "comment": "人才流动折射AI巨头竞争白热化。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "再硬的人也会被游戏戳到软肉：核电波聊玩哭的游戏",
+        "title": "再硬的人也会被游戏戳到软肉：核电波聊玩哭了的游戏",
         "link": "https://www.gcores.com/radios/216124",
-        "summary": "机核播客《核电波》邀请嘉宾STN，与主播Nadya、Ryoma探讨那些令人流泪的游戏经历，分享情感触动瞬间。",
-        "comment": "硬汉也有泪点，游戏情感共鸣无界限。",
+        "summary": "机核播客邀请嘉宾STN，与主播Nadya、Ryoma分享那些让人流泪的游戏经历，探讨游戏情感触动。",
+        "comment": "硬汉也逃不过游戏催泪弹，情感共鸣无界限。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "以色列",
+        "title": "以色列与真主党停火后仍持续交火",
+        "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+        "summary": "黎巴嫩南部出现伤亡，以色列国防军称打击了真主党目标，此前该组织向以军发射超50枚火箭弹。",
+        "comment": "停火协议脆弱，双方互信严重缺失。",
         "image": "",
         "score": 88
       },
@@ -27,38 +67,48 @@
         "tag": "詹姆斯·伯罗斯",
         "title": "《欢乐酒店》《老友记》传奇导演詹姆斯·伯罗斯去世，享年85岁",
         "link": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
-        "summary": "伯罗斯以联合创作《欢乐酒店》闻名，执导了超过1000集经典剧集，包括《生活大爆炸》和《威尔与格蕾丝》。",
+        "summary": "伯罗斯以联合创作情景喜剧《欢乐酒店》闻名，执导了超过1000集经典剧集，包括《生活大爆炸》和《威尔与格蕾丝》。",
         "comment": "一位定义了美国情景喜剧黄金时代的巨匠。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "世界杯",
-        "title": "美国队2-0击败澳大利亚晋级世界杯淘汰赛，球迷反应不一",
-        "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国队以2-0战胜澳大利亚队晋级世界杯淘汰赛，美国球迷欣喜若狂，澳大利亚球迷虽失望但仍抱有希望。",
-        "comment": "美国队表现稳健，澳大利亚队需反思。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
         "tag": "禽流感",
-        "title": "澳大利亚确认首例H5N1禽流感病例，病毒已传遍各大洲",
+        "title": "澳大利亚确认首例H5N1禽流感病例，病毒已遍布各大洲",
         "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
-        "summary": "澳大利亚此前是唯一未发现H5N1禽流感病毒的大洲，如今该国确认首例病例，标志着病毒已传播至全球所有大洲。",
-        "comment": "全球禽流感防控面临新挑战。",
+        "summary": "澳大利亚此前是唯一未发现H5N1禽流感毒株的大洲，如今该病毒已扩散至全球所有大陆。",
+        "comment": "禽流感全球蔓延，澳大利亚失守敲响警钟。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "奴隶贸易",
-        "title": "非洲与加勒比国家要求为跨大西洋奴隶贸易正式道歉",
+        "tag": "奴隶制",
+        "title": "非加国家要求跨大西洋奴隶制正式道歉",
         "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-        "summary": "非洲与加勒比国家领导人要求曾受益于奴隶贸易的国家正式道歉，并呼吁债务减免和财政补偿。",
-        "comment": "历史正义的诉求，但实际推进面临阻力。",
+        "summary": "非洲和加勒比国家领导人要求从奴隶贸易中受益的国家正式道歉，并寻求债务减免和财务补偿。",
+        "comment": "历史正义诉求再升级，补偿议题考验国际共识。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "多米尼加",
+        "title": "多米尼加豪华度假村火灾致一名游客死亡",
+        "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+        "summary": "近1700人从位于巴亚希贝的Viva Wyndham Dominicus Beach大火中疏散，该地是加勒比海岸热门度假小镇。",
+        "comment": "旅游安全警钟再响，度假村消防管理需严查。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "世界杯",
+        "title": "美国2-0胜澳大利亚晋级世界杯淘汰赛，球迷反应不一",
+        "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国队以2-0击败澳大利亚队晋级世界杯淘汰赛，美国球迷欣喜若狂，澳大利亚球迷虽失望但仍抱希望。",
+        "comment": "美国队表现稳健，澳大利亚队需反思进攻效率。",
         "image": "",
         "score": 86
       }
