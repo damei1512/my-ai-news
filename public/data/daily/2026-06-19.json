@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "出口管制",
-        "title": "从PGP到Mythos：出口管制未能阻止技术传播的历史",
-        "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-        "summary": "过去30年，阻止网络安全相关软件流动的尝试被证明无效。目前对Anthropic的网络安全模型Mythos实施出口管制，效果同样存疑。",
-        "comment": "历史反复证明，技术封锁往往徒劳。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "美国政府禁售Anthropic新模型或反助品牌",
-        "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-        "summary": "美国政府以国家安全为由，强制Anthropic撤回其最新模型Fable 5和Mythos 5，此举可能意外提升品牌知名度。",
-        "comment": "禁令反而可能成为品牌营销的催化剂。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "印度富豪安巴尼欲将AI融入每一通电话、应用和家庭",
+        "title": "印度富豪安巴尼欲将AI融入每通电话、应用与家庭",
         "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-        "summary": "Reliance正将AI整合进其电信服务，该服务覆盖超过5亿用户，旨在实现AI在通话、应用和家庭中的全面渗透。",
-        "comment": "AI落地场景从企业走向大众消费，印度市场潜力巨大。",
+        "summary": "Reliance正将人工智能整合进其电信服务，该服务覆盖超过5亿用户，旨在实现AI在通话、应用和家庭中的全面渗透。",
+        "comment": "AI大规模落地需基础设施与用户基数支撑。",
         "image": "",
         "score": 100
       },
@@ -37,58 +17,78 @@
         "tag": "ASML",
         "title": "美国称ASML顶级芯片设备或已流入中国，ASML否认",
         "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-        "summary": "美国指控ASML顶级光刻机可能已进入中国，但ASML否认。商业逻辑上，ASML不太可能冒险违反出口许可为中国客户提供设备。",
-        "comment": "商业利益与地缘政治博弈的典型案例。",
+        "summary": "美国声称ASML最先进的芯片制造设备可能已进入中国，但ASML否认。商业逻辑上，ASML不太可能冒险违反出口许可证来武装中国客户。",
+        "comment": "商业利益与地缘政治博弈的典型冲突。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "从PGP到Mythos：出口管制未能阻止技术传播的历史",
+        "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "summary": "过去30年，阻止网络安全软件流动的出口管制被证明无效。现在对Anthropic的网络安全模型Mythos实施类似管制，效果存疑。",
+        "comment": "历史证明技术出口管制往往徒劳。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "美国政府禁止Anthropic新模型或意外助其品牌",
+        "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "summary": "美国政府以国家安全为由，要求Anthropic撤回其最新模型Fable 5和Mythos 5，此举可能反而提升其品牌知名度。",
+        "comment": "禁令反而可能成为品牌营销的催化剂。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "美国政府禁止Anthropic发布Fable 5，市场反应平淡",
+        "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+        "summary": "美国政府以国家安全为由，要求Anthropic撤回其最新模型Fable 5和Mythos 5，此前亚马逊研究人员曾参与相关评估。市场对此禁令反应冷淡，未出现显著波动。",
+        "comment": "禁令未引发市场恐慌，显示AI监管影响有限。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Allbirds前CEO新AI公司：有融资无团队",
+        "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+        "summary": "Allbirds前CEO启动AI新业务，已完成大额种子轮融资，但尚未组建团队，未来方向不明。",
+        "comment": "空有蓝图，执行存疑。",
+        "image": "",
+        "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
         "title": "Elastic拟8500万美元收购AI初创公司Deductive AI",
         "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-        "summary": "Deductive AI是一家利用人工智能检测并修复软件漏洞的初创公司，成立仅三年，获CRV投资。Elastic同意以最高8500万美元收购该公司。",
-        "comment": "AI修复漏洞赛道获巨头认可，收购金额可观。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "美国政府禁止Anthropic发布Fable 5，市场反应冷淡",
-        "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-        "summary": "美国政府以国家安全为由，强制Anthropic撤回其最新模型Fable 5和Mythos 5，此前亚马逊研究人员已发现潜在风险。",
-        "comment": "监管干预未引发市场恐慌，行业韧性显现。",
+        "summary": "Deductive AI是一家成立仅三年的初创公司，利用人工智能技术检测并修复软件中的漏洞。Elastic已同意以最高8500万美元收购该公司。",
+        "comment": "AI修复漏洞赛道加速整合，Elastic补全DevOps能力。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Allbirds前CEO新AI公司有规划但无团队",
-        "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-        "summary": "这家仅有创始人的AI初创公司获得巨额种子轮融资，但后续发展路径尚不明朗。",
-        "comment": "单枪匹马获大额融资，执行力存疑。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "安踏",
-        "title": "安踏发布折纸科技，从结构设计探索跑鞋缓震新路径",
-        "link": "https://36kr.com/p/3859469888508933?f=rss",
-        "summary": "6月16日，安踏在上海发布全新跑鞋技术平台“折纸科技”，并推出首款搭载该技术的跑鞋折纸H1。该技术从结构设计入手，探索缓震新方向，以应对材料性能瓶颈。",
-        "comment": "结构创新或成运动鞋行业新突破口。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "AI陪伴机器人",
         "title": "moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投数千万",
         "link": "https://36kr.com/p/3859926114161665?f=rss",
-        "summary": "AI-Native科技潮玩品牌ZuzuZoos完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投，资金用于AI大模型迭代、硬件扩建、IP生态深化及全球市场拓展。",
-        "comment": "跨界团队切入AI陪伴赛道，资本看好情感消费新场景。",
+        "summary": "AI-Native科技潮玩品牌ZuzuZoos完成数千万元Pre-A轮融资，由锦秋领投、上海复容跟投，资金将用于AI大模型迭代、硬件扩建、IP生态深化及全球市场拓展。",
+        "comment": "AI陪伴机器人赛道再获资本加注，团队背景亮眼。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "安踏",
+        "title": "安踏发布折纸科技，从结构设计探索跑鞋缓震新路径",
+        "link": "https://36kr.com/p/3859469888508933?f=rss",
+        "summary": "36氪获悉，6月16日，安踏在上海发布全新跑鞋技术平台“折纸科技”，并推出首款搭载该技术的跑鞋折纸H1。该技术从结构设计入手，试图突破材料性能瓶颈，为跑鞋缓震提供新方向。",
+        "comment": "结构创新或成运动鞋行业新突破口。",
         "image": "",
         "score": 96
       },
@@ -97,90 +97,50 @@
         "tag": "Codex",
         "title": "Codex大更新：人类操作软件经验成AI技能",
         "link": "https://www.ifanr.com/1669204?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Codex迎来重大更新，将人类操作软件的经验转化为AI技能，提升AI在软件交互中的能力。",
-        "comment": "AI学习人类操作，软件交互将迎来变革。",
+        "summary": "Codex迎来重大更新，人类操作软件的经验正转化为AI技能，提升自动化能力。",
+        "comment": "AI学习人类操作，效率革命或将来临。",
         "image": "",
-        "score": 92
+        "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "Steam手柄",
-        "title": "Steam手柄订单积压，新订单需等到明年",
+        "title": "Steam手柄供不应求，新订单需等到明年",
         "link": "https://www.gamespot.com/articles/if-you-havent-reserved-a-steam-controller-yet-youll-have-to-wait-until-next-year/",
-        "summary": "Valve上月推出Steam手柄，需求远超供应。今日起新订单将无法在年内发货，需等到明年。",
-        "comment": "产能不足暴露了硬件供应链的挑战。",
+        "summary": "Valve上月推出Steam手柄，需求远超供应，目前新订单将无法在年内发货。",
+        "comment": "供需失衡凸显硬件市场热度。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/05/steam-controller.jpeg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "数码科技",
-        "title": "追觅组织调整取消未落地业务，DeepSeek识图模式上线",
+        "tag": "科技",
+        "title": "追觅组织调整，DeepSeek识图模式上线，GTA6预购官宣",
         "link": "https://www.ifanr.com/1669442?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "Counterpoint数据显示第20周全球手机销量同比下降8%，华为逆势增长23%。曹操出行宣布RoboX战略，计划2030年部署10万辆Robotaxi。ChatGPT推出定时任务功能。",
-        "comment": "科技巨头调整与AI功能更新并行，市场分化明显。",
+        "comment": "科技行业调整与增长并存，AI应用加速落地。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "CDPR",
-        "title": "CDPR高管谈《巫师4》：希望赢回因《赛博朋克2077》流失的粉丝",
+        "title": "CDPR高管谈《巫师4》目标：赢回因《赛博朋克2077》首发问题流失的粉丝",
         "link": "https://www.gcores.com/articles/216148",
-        "summary": "CD Projekt Red联合CEO Michał Nowakowski在访谈中承认，《赛博朋克2077》首发问题对玩家信任造成长期损伤，不确信已走完救赎之路，希望《巫师4》能赢回部分流失粉丝。",
-        "comment": "信任重建仍需时间，作品质量是唯一解药。",
+        "summary": "CD Projekt Red联合CEO Michał Nowakowski在访谈中承认，《赛博朋克2077》2020年首发问题对玩家信任造成长期损伤，表示并不确信公司已走完救赎之路，希望《巫师4》能赢回部分流失粉丝。",
+        "comment": "坦诚面对过去，但救赎之路仍需作品证明。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "饿狼传说",
-        "title": "《饿狼传说：群狼之城》季票2 DLC角色拳四郎预告公开",
-        "link": "https://www.gcores.com/articles/216142",
-        "summary": "作为《北斗神拳》与《饿狼传说》合作的一部分，季票2最后一位DLC角色“拳四郎”将在南镇登场，预告片已公开。",
-        "comment": "经典联动，情怀拉满，格斗迷值得期待。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电锯人",
-        "title": "《电锯人 刺客篇》新PV公开，暗之恶魔确认登场",
-        "link": "https://www.gcores.com/articles/216141",
-        "summary": "《电锯人》动画续作“刺客篇”于2026年6月19日MAPPA 15周年发布会上公开先导PV第2弹，同步释出主创阵容与声优名单，暗之恶魔等关键角色确认登场。",
-        "comment": "MAPPA持续加码，暗之恶魔登场引爆期待。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "为什么我们喜欢重温、二刷、三刷？",
-        "link": "https://www.gcores.com/radios/215849",
-        "summary": "本期节目探讨76.4%年轻人有N刷经历的现象，分析重温作品的心理动机，包括单纯曝光效应和个人情感支持。",
-        "comment": "从心理学角度解析重复消费行为，引发共鸣。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国",
-        "title": "美国将停止资助南非艾滋病项目",
-        "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
-        "summary": "南非有超过800万艾滋病感染者，人数全球最多。美国决定停止资助该国的HIV项目。",
-        "comment": "此举对南非艾滋病防治影响重大。",
-        "image": "",
-        "score": 88
       },
       {
         "category": "游戏影视",
         "tag": "英雄无敌",
-        "title": "《魔法门之英雄无敌：上古纪元》播客讨论阿凡达元素",
+        "title": "《魔法门之英雄无敌：上古纪元》阿凡达元素解析",
         "link": "https://www.gcores.com/radios/216153",
-        "summary": "主播金花、野人、驰子、蛋挞、小朱在机核播客中继续讨论《英雄无敌上古纪元》，聚焦游戏中的阿凡达元素，并提及上期考公真题。",
-        "comment": "播客内容聚焦游戏特色，但信息量有限。",
+        "summary": "机核主播金花、野人、驰子、蛋挞、小朱讨论《英雄无敌上古纪元》中的阿凡达元素，延续上期考公话题，节目已上线。",
+        "comment": "怀旧情怀与创新结合，值得关注。",
         "image": "",
-        "score": 87
+        "score": 88
       }
     ]
   }
