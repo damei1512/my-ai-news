@@ -3,12 +3,52 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "特朗普",
+        "title": "特朗普政府打击Anthropic，谁将受益？",
+        "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "summary": "本期Equity节目探讨了特朗普政府最新针对Anthropic的行动背后原因，以及对AI生态系统可能产生的影响。",
+        "comment": "政治干预或重塑AI竞争格局。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "iOS 27",
+        "title": "iOS 27实用AI功能盘点：不止Siri升级",
+        "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "summary": "苹果在WWDC上展示了Siri的AI改造，但iOS 27中更多实用AI功能将分布在系统各处，提升用户体验。",
+        "comment": "苹果AI布局务实，系统级整合是关键。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "游戏影视",
+        "tag": "高达",
+        "title": "《高达：流浪轨道》专访：聚焦驾驶员体验的高达游戏",
+        "link": "https://www.ign.com/articles/gundam-rogue-orbit-interview-a-gundam-game-with-a-focus-on-how-it-feels-to-be-the-pilot",
+        "summary": "《高达：流浪轨道》主制作人富山佑也及首席制作人佐竹真也接受专访，探讨如何以游戏为首开启高达新纪元，并分享其目标。",
+        "comment": "从驾驶员视角切入，有望带来沉浸式高达体验。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/18/gundam-1781826814969.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "复仇者联盟",
+        "title": "《复仇者联盟：末日》泄露片段被下架，但已在社交媒体疯传",
+        "link": "https://www.ign.com/articles/avengers-doomsday-leak-pulled-offline-just-as-it-spreads-across-social-media",
+        "summary": "一段疑似《复仇者联盟：末日》中X战警的短片被下架，但已在社交媒体上如野火般传播。",
+        "comment": "泄露事件再次凸显社交媒体时代内容管控的挑战。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/17/doom-thumb-1776455418882.jpg",
+        "score": 94
+      },
+      {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《Stranger Than Heaven》试玩：战斗更难但更好",
+        "title": "《Stranger Than Heaven》试玩：战斗难度提升是好事",
         "link": "https://www.ign.com/articles/stranger-than-heaven-second-take-preview-stranger-than-heavens-combat-seems-harder-than-hell-and-thats-a-good-thing",
-        "summary": "IGN预览显示，《Stranger Than Heaven》的战斗系统比《如龙》系列标准格斗更具挑战性，但灵活的设计让难度提升成为积极信号。",
-        "comment": "难度提升是RGG Studio的明智选择。",
+        "summary": "《Stranger Than Heaven》的战斗系统比《如龙》系列标准格斗更具挑战性，但灵活的设计让难度增加成为积极信号，表明RGG Studio在创新。",
+        "comment": "难度提升未必劝退，灵活系统才是关键。",
         "image": "https://assets-prd.ignimgs.com/2026/06/19/strangerthanheaven-blogroll-1781848855496.jpg",
         "score": 94
       },
@@ -17,18 +57,18 @@
         "tag": "寒蝉鸣泣之时",
         "title": "《寒蝉鸣泣之时》新作TV动画由Studio DEEN制作",
         "link": "https://www.gcores.com/articles/216183",
-        "summary": "《寒蝉鸣泣之时》新作TV动画制作决定，由Studio DEEN制作，声优阵容与原作动画一致，原作者龙骑士07发布评论。",
-        "comment": "经典回归，原班人马值得期待。",
+        "summary": "《寒蝉鸣泣之时》新作TV动画制作决定，由Studio DEEN制作。声优阵容与原作动画系列保持一致，原作者龙骑士07发布评论。",
+        "comment": "经典重启，情怀与期待并存。",
         "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "游戏影视",
         "title": "《STRANGER THAN HEAVEN》试玩前瞻：厚重与爽快并存",
         "link": "https://www.gcores.com/articles/216143",
-        "summary": "机核受Bilibili“游先看”活动及SEGA邀请，提前体验RGG工作室新作《STRANGER THAN HEAVEN》。游戏聚焦主角大东真与挚友新庄优跨越五十年、五座城市的传奇人生，参演演员包括城田优等。本文为试玩内容详细阐述，正式版为准。",
-        "comment": "RGG工作室新作跨越五十年，叙事野心与动作爽感兼备。",
+        "summary": "机核受邀提前体验RGG工作室新作《STRANGER THAN HEAVEN》，游戏为动作冒险类型，讲述主角大东真与挚友新庄优跨越五十年、五个时代与五座城市的传奇故事，参演演员包括城田优、藤等。本文为试玩前瞻，实际内容以正式版为准。",
+        "comment": "RGG工作室新作延续高水准，叙事与动作结合值得期待。",
         "image": "",
         "score": 91
       },
@@ -37,18 +77,48 @@
         "tag": "游戏",
         "title": "机核采访《STRANGER THAN HEAVEN》制作人阪本宽之",
         "link": "https://www.gcores.com/articles/216140",
-        "summary": "机核受Bilibili游先看及SEGA邀请，体验《STRANGER THAN HEAVEN》部分内容并采访制作人阪本宽之，了解特色玩法与战斗系统设计理念。",
-        "comment": "制作人深度解读，玩法设计值得期待。",
+        "summary": "机核受Bilibili游先看及SEGA邀请，体验《STRANGER THAN HEAVEN》部分内容并采访制作人阪本宽之，了解其特色玩法与战斗系统设计理念。",
+        "comment": "深度访谈揭示游戏设计内核，值得关注。",
         "image": "",
         "score": 91
       },
       {
+        "category": "游戏影视",
+        "tag": "光环",
+        "title": "光环官方澄清：本地合作无需PS Plus订阅",
+        "link": "https://www.gcores.com/articles/216186",
+        "summary": "《光环：战斗进化》本地分屏合作功能引发争议，最初Halo Waypoint称需双方订阅PS Plus，引发玩家不满。官方随后澄清，本地分屏合作不要求PS Plus订阅。",
+        "comment": "及时纠正错误，维护玩家权益。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏影视",
+        "title": "机核电台聊出差：衣食住行全涵盖",
+        "link": "https://www.gcores.com/radios/216095",
+        "summary": "机核电台“常规节目复刻”系列讨论出差话题，邀请有丰富出差经历的同事，从衣食住行等宏观与细节角度畅聊出差的方方面面。",
+        "comment": "出差话题虽泛化，但细节丰富，值得一听。",
+        "image": "",
+        "score": 88
+      },
+      {
         "category": "时事热点",
         "tag": "美伊关系",
-        "title": "美伊在瑞士开始谈判，伊朗称已关闭霍尔木兹海峡",
-        "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国否认伊朗关于该水道已关闭的说法，伊朗称此举是对以色列在黎巴嫩袭击的回应。",
-        "comment": "局势紧张升级，谈判与威胁并行。",
+        "title": "特朗普与伊朗谈判代表在瑞士会谈期间相互警告",
+        "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+        "summary": "未参与会谈的美国总统特朗普威胁称，若伊朗不约束黎巴嫩真主党，美国将对其发动攻击。",
+        "comment": "美伊博弈升级，瑞士会谈成关键转折点。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "大卫·霍克尼",
+        "title": "艺术巨匠大卫·霍克尼低调葬礼举行",
+        "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
+        "summary": "本月早些时候在伦敦家中去世的艺术家大卫·霍克尼，要求仅由其伴侣和侄孙出席葬礼。",
+        "comment": "霍克尼的离世标志着一个艺术时代的落幕。",
         "image": "",
         "score": 88
       },
@@ -57,58 +127,58 @@
         "tag": "乌克兰",
         "title": "乌克兰袭击俄占区油库，克里米亚燃油销售暂停",
         "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-        "summary": "因乌克兰对俄占区补给线发动攻击，克里米亚燃油已实行配给，现进一步暂停销售。",
-        "comment": "乌方精准打击削弱俄后勤能力。",
+        "summary": "由于乌克兰对俄占区供应路线的攻击导致短缺，燃油已实行配给，现销售全面暂停。",
+        "comment": "乌方精准打击加剧俄占区后勤危机。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "埃塞俄比亚",
+        "title": "埃塞俄比亚总理政党压倒性胜选，新冲突担忧加剧",
+        "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+        "summary": "尽管埃塞俄比亚多地出现动荡且与邻国关系紧张，阿比·艾哈迈德领导的政党仍保持绝对多数席位。",
+        "comment": "选举结果加剧了国内外的紧张局势。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "法国",
-        "title": "法国红色高温预警下禁止音乐节活动饮酒",
+        "title": "法国半数地区红色高温预警 街头音乐节禁售酒精",
         "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-        "summary": "法国在40摄氏度高温下，要求年度街头派对活动协助“保护”医疗服务，禁止饮酒。",
-        "comment": "高温下禁酒是务实之举，但需平衡公众情绪。",
+        "summary": "法国半数地区发布红色高温预警，预计周一气温将达到峰值，当局警告可能追平历史最高纪录。",
+        "comment": "极端高温下禁酒措施务实，但节日氛围或受影响。",
         "image": "",
-        "score": 86
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "印度",
-        "title": "印度医考泄题后重考，考生需接受生物识别与安检",
+        "title": "印度医考泄题后重考，安保严密部署空军",
         "link": "https://www.bbc.com/news/articles/cwy0gjqv783o?at_medium=RSS&at_campaign=rss",
-        "summary": "印度数百万考生在医学考试重考中面临生物识别检查和搜身，空军被部署以确保试卷安全。",
-        "comment": "泄题事件暴露印度考试系统漏洞，重考措施严苛但必要。",
+        "summary": "数百万考生面临生物识别检查和搜身，印度空军被部署以确保试卷安全。",
+        "comment": "泄题事件暴露教育系统漏洞，重考安保措施升级。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "时事热点",
-        "title": "前奥运选手否认破坏华盛顿倒影池",
+        "title": "前奥运选手否认破坏华盛顿倒影池，称只是触碰新漆",
         "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Davey Hearn称自己只是出于好奇触摸了现场的新油漆，并未移除或改变它。",
-        "comment": "好奇心不能成为破坏公共财产的理由。",
+        "summary": "戴维·赫恩表示，他出于好奇触碰了现场的新漆，并未移除或改动。此前他因涉嫌破坏华盛顿倒影池被捕。",
+        "comment": "好奇心不能成为破坏公共财产的借口。",
         "image": "",
         "score": 85
       },
       {
         "category": "时事热点",
         "tag": "荷兰",
-        "title": "荷兰王室一日内见证两支球队世界杯胜利",
+        "title": "荷兰王室一日内观战两场世界杯比赛",
         "link": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
-        "summary": "荷兰与库拉索相距约5000英里，但荷兰王室成员在周六同时观看了两支球队的比赛。",
-        "comment": "王室跨界观赛，展现体育外交魅力。",
-        "image": "",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "大卫·霍克尼",
-        "title": "艺术巨匠大卫·霍克尼低调葬礼举行",
-        "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
-        "summary": "本月早些时候在伦敦家中去世的艺术家大卫·霍克尼，仅要求伴侣和侄孙出席其葬礼。",
-        "comment": "霍克尼以极简仪式告别，彰显其一生低调风格。",
+        "summary": "荷兰与库拉索相距约5000英里，但荷兰王室成员在周六成功观看了两支球队的比赛。",
+        "comment": "王室行程安排巧妙，展现对足球的热爱。",
         "image": "",
         "score": 83
       }
