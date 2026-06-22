@@ -3,62 +3,22 @@
     "week": "周五",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "美国政府禁止Anthropic发布Fable 5模型",
-        "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-        "summary": "美国政府以国家安全为由，强制Anthropic撤回其最新模型Fable 5和Mythos 5，此前亚马逊研究人员发现相关技术存在潜在风险。",
-        "comment": "监管干预未影响市场对AI模型的信心。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "出口管制",
-        "title": "从PGP到Mythos：出口管制未能阻止技术传播的历史",
-        "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-        "summary": "过去30年，阻止网络安全软件流动的出口管制被证明无效。如今对Anthropic的网络安全模型Mythos实施类似管制，效果存疑。",
-        "comment": "历史反复证明，技术出口管制往往徒劳。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "美国政府禁售Anthropic新模型或反助品牌曝光",
-        "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-        "summary": "美国政府以国家安全为由，要求Anthropic撤回Fable 5和Mythos 5两款新模型，此举可能意外提升其品牌知名度。",
-        "comment": "禁令反而可能成为免费广告。",
-        "image": "",
-        "score": 99
-      },
-      {
         "category": "数码科技",
-        "tag": "AI",
+        "tag": "Codex",
         "title": "Codex大更新：人类电脑操作成AI经验包",
         "link": "https://www.ifanr.com/1669204?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI模型Codex迎来重大更新，人类操作软件的经验正被转化为AI技能，提升自动化能力。",
-        "comment": "AI学习人类操作，自动化门槛再降低。",
+        "summary": "AI模型Codex迎来重大更新，能够学习并模仿人类在电脑上的操作经验，提升自动化能力。",
+        "comment": "AI从观察中学习，人机交互范式正在被改写。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Steam手柄",
-        "title": "Steam手柄供不应求，新订单需等到明年",
-        "link": "https://www.gamespot.com/articles/if-you-havent-reserved-a-steam-controller-yet-youll-have-to-wait-until-next-year/",
-        "summary": "Valve上月推出Steam手柄，需求远超供应，目前新订单将无法在年内发货。",
-        "comment": "供需失衡凸显产品热度，但产能瓶颈需警惕。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/steam-controller.jpeg?w=300",
-        "score": 92
+        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "数码科技",
-        "title": "追觅组织调整，DeepSeek识图模式上线，《GTA6》预购时间官宣",
+        "title": "追觅组织调整，DeepSeek识图模式上线，GTA6预购官宣",
         "link": "https://www.ifanr.com/1669442?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "Counterpoint数据显示第20周全球手机销量同比下降8%，华为逆势增长23%；曹操出行宣布RoboX战略，计划2030年部署10万辆Robotaxi；ChatGPT推出定时任务功能。",
-        "comment": "科技行业调整与创新并行，华为增长亮眼。",
+        "comment": "科技行业调整与增长并存，AI和自动驾驶仍是热点。",
         "image": "",
         "score": 91
       }
