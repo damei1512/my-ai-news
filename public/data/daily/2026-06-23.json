@@ -5,20 +5,30 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Anthropic Claude Tag：通过Slack消息学习公司上下文",
-        "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-        "summary": "Anthropic推出Claude Tag，作为始终在线的AI队友集成到Slack中。该功能不仅提升生产力，更旨在通过持续交互捕获组织上下文和机构知识，是战略性的数据获取举措。",
-        "comment": "以生产力之名，行知识捕获之实。",
+        "title": "印度MoEngage押注AI代理将重塑营销未来",
+        "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+        "summary": "MoEngage通过全现金交易获得技术，可为每位客户分配专属AI代理，推动个性化营销。",
+        "comment": "AI代理个性化营销或成行业新趋势。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI",
+        "tag": "人工智能",
+        "title": "Anthropic Claude Tag：通过Slack消息学习企业知识",
+        "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+        "summary": "Anthropic推出Claude Tag，作为Slack中始终在线的AI队友，旨在提升生产力，同时战略性捕获组织上下文和机构知识。",
+        "comment": "这是AI深度嵌入企业协作的典型尝试。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI裁员",
         "title": "2026年科技公司因AI裁员名单汇总",
         "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-        "summary": "按时间倒序梳理2026年因AI因素宣布重大裁员的科技公司，持续更新中。",
-        "comment": "AI替代效应加速，科技就业市场面临结构性调整。",
+        "summary": "TechCrunch按时间倒序整理了2026年因AI因素宣布大规模裁员的科技公司名单，涵盖多家知名企业。",
+        "comment": "AI替代效应加速，科技行业结构性调整已至。",
         "image": "",
         "score": 100
       },
@@ -27,7 +37,7 @@
         "tag": "OpenAI",
         "title": "OpenAI启动新计划，用AI帮助发现并修复开源漏洞",
         "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-        "summary": "OpenAI利用人工智能技术，协助开源社区更有效地识别和修补安全漏洞，提升整体防护能力。",
+        "summary": "OpenAI利用人工智能技术，帮助开源社区更有效地发现和修复安全漏洞，提升整体防护能力。",
         "comment": "AI赋能开源安全，实用价值显著。",
         "image": "",
         "score": 100
@@ -38,17 +48,17 @@
         "title": "OpenAI助力构建先进AI共享标准",
         "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
         "summary": "OpenAI通过Appia基金会支持评估框架、安全实践和全球合作，推动先进AI共享标准的建立。",
-        "comment": "行业巨头牵头标准制定，有利于AI安全发展。",
+        "comment": "行业巨头牵头标准制定，利于AI安全发展。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "GPT-5",
+        "tag": "人工智能",
         "title": "GPT-5助力免疫学家破解三年未解之谜",
         "link": "https://openai.com/index/gpt-5-immunology-mystery",
         "summary": "GPT-5 Pro帮助免疫学家Derya Unutmaz解决了一个持续三年的免疫学谜题，揭示了T细胞行为的新见解，有望推动癌症和自身免疫研究。",
-        "comment": "AI在基础科研中的价值再次被验证。",
+        "comment": "AI在基础科学中展现突破性辅助能力。",
         "image": "",
         "score": 100
       },
@@ -57,69 +67,39 @@
         "tag": "人工智能",
         "title": "Omio借助OpenAI打造对话式旅行未来",
         "link": "https://openai.com/index/omio",
-        "summary": "Omio利用OpenAI技术推动对话式旅行体验，加速产品开发，转型为AI原生公司。",
+        "summary": "Omio利用OpenAI技术驱动对话式旅行体验，加速产品开发，转型为AI原生公司。",
         "comment": "AI原生转型是旅行行业的关键趋势。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "印度MoEngage押注AI代理重塑营销未来",
-        "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-        "summary": "全现金交易使MoEngage获得为每位客户分配AI代理的技术，旨在通过个性化AI代理推动营销变革。",
-        "comment": "AI代理个性化营销或成新趋势。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
         "tag": "AI招聘",
         "title": "Fika Jobs获400万美元融资，打造AI面试视频招聘平台",
         "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-        "summary": "斯德哥尔摩初创公司Fika Jobs开发视频优先招聘平台，结合AI面试代理与短视频简历，获400万美元融资。",
-        "comment": "AI面试+短视频模式或重塑招聘流程。",
+        "summary": "斯德哥尔摩初创公司Fika Jobs开发视频优先招聘平台，结合AI面试代理与短视频简介，重塑招聘体验。",
+        "comment": "AI面试+短视频，招聘效率或大幅提升。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "科技峰会",
-        "title": "TechCrunch创始人峰会早鸟票4天后截止",
+        "tag": "创始人峰会",
+        "title": "TechCrunch创始人峰会2026早鸟票4天后截止",
         "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-        "summary": "TechCrunch创始人峰会2026早鸟票将于6月26日截止，可节省高达190美元。",
-        "comment": "早鸟优惠是参会者的关键决策点。",
+        "summary": "TechCrunch创始人峰会2026早鸟票优惠将于6月26日23:59（太平洋时间）结束，可节省高达190美元。",
+        "comment": "早鸟优惠是参会者降低成本的好机会。",
         "image": "",
-        "score": 96
+        "score": 95
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏PC",
-        "title": "戴尔奥特莱斯Alienware Aurora RTX 5070游戏PC仅售1433美元",
-        "link": "https://www.ign.com/articles/alienware-aurora-rtx-5070-gaming-pc-deal-at-dell-outlet",
-        "summary": "戴尔奥特莱斯推出Alienware Aurora RTX 5070游戏PC，售价1433美元，性价比优于亚马逊Prime Day促销，库存有限。",
-        "comment": "高端游戏PC折扣力度大，值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/23/alienwareaurorar16-1782256257436.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "DC",
-        "title": "《超级少女》制片人称派拉蒙CEO是DC粉丝，合并传闻再起",
-        "link": "https://www.ign.com/articles/supergirl-producer-says-david-ellison-is-a-big-fan-of-dc-studios-as-paramount-and-warner-bros-merger-looms",
-        "summary": "派拉蒙Skydance CEO David Ellison对DC Studios正在开发的内容表示高度赞赏，引发外界对派拉蒙与华纳兄弟可能合并的猜测。",
-        "comment": "高层表态或为合并预热，DC内容吸引力是关键。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/31/sprgrl-vert-main-2764x4096-dom-2-thumb-1774988214106.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神4",
-        "title": "暴雪承认《暗黑4》第14赛季神话改动有争议，但为长期健康",
-        "link": "https://www.gamespot.com/articles/blizzard-knows-diablo-4-season-14s-mythic-changes-are-controversial-but-its-for-the-games-long-term-health/",
-        "summary": "《暗黑4》第14赛季将带来重大变革，暴雪承认改动有争议，但强调这是为了游戏的长期健康，并正在处理“问题叠加问题”的困境。",
-        "comment": "短期阵痛换长期健康，暴雪赌玩家信任。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Diablo-4-Season-14-Changes-Interview.jpg?w=300",
+        "category": "数码科技",
+        "tag": "视频模型",
+        "title": "Seedance 2.5发布，国产视频模型再突破",
+        "link": "https://www.ifanr.com/1669752?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "国产视频模型Seedance 2.5正式发布，实现SOTA性能与高性价比，推动视频生成技术新高度。",
+        "comment": "国产模型在视频领域持续发力，性价比优势明显。",
+        "image": "",
         "score": 93
       },
       {
@@ -127,39 +107,29 @@
         "tag": "微信",
         "title": "微信AI全网最细体验：重新爱上刷朋友圈",
         "link": "https://www.ifanr.com/1669694?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿深度体验微信AI功能，展示14亿用户如何通过Agent技术提升朋友圈互动体验，涵盖智能推荐与交互优化。",
-        "comment": "微信AI落地社交场景，用户体验升级显著。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "视频模型",
-        "title": "Seedance 2.5发布，国产视频模型再突破",
-        "link": "https://www.ifanr.com/1669752?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Seedance 2.5正式发布，在视频生成领域达到SOTA水平，同时保持高性价比，进一步推动国产视频模型发展。",
-        "comment": "性能与成本兼顾，国产模型竞争力再升级。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "豆包联合曹操出行推打车，淘宝闪测高端外卖家宴，TOTO投800亿日元做1nm芯片",
-        "link": "https://www.ifanr.com/1669656?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "豆包与曹操出行合作推出打车功能；淘宝闪购灰测高端外卖「家宴」；日本卫浴厂商TOTO计划投资800亿日元研发1nm芯片。",
-        "comment": "跨界投资芯片，传统企业转型信号强烈。",
+        "summary": "微信AI Agent功能深度体验，覆盖14亿用户，提升朋友圈互动与内容推荐效率，爱范儿独家评测。",
+        "comment": "AI赋能社交，微信Agent体验值得关注。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "Valve",
-        "title": "Valve被迫对Steam Machine做出奇怪硬件决策",
+        "title": "Valve因内存危机被迫对Steam Machine做出奇怪硬件决策",
         "link": "https://www.gamespot.com/articles/valve-was-forced-into-making-a-weird-hardware-decision-with-steam-machine/",
-        "summary": "Valve的Steam Machine将于下周发布，但过程并不顺利。这款客厅PC因持续的RAM危机而成为焦点。",
-        "comment": "硬件短缺迫使Valve做出妥协。",
+        "summary": "Valve的Steam Machine即将于下周发布，但过程并不顺利。这款客厅PC因持续的内存危机而陷入困境，迫使Valve做出不寻常的硬件选择。",
+        "comment": "内存短缺暴露了硬件供应链的脆弱性。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/e51b47185fd84e741312abd680f3da86fbdf4b4337b2adb91a42233b4156fbce.jpeg?w=300",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏延期",
+        "title": "堕落之主2延期至2027年Q1，避让GTA6并优化品质",
+        "link": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-to-avoid-gta-6-and-get-more-enhancements/",
+        "summary": "开发商CI Games宣布《堕落之主2》从原定2026年推迟至2027年第一季度发售，旨在避开《GTA6》的竞争并增加更多游戏增强内容。",
+        "comment": "明智的避让策略，但延期能否真正提升品质仍需观察。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/lordsofthefallen.jpg?w=300",
         "score": 92
       },
       {
@@ -167,38 +137,28 @@
         "tag": "AI",
         "title": "EA高管称开发者拥抱AI后创造力显著提升",
         "link": "https://www.gamespot.com/articles/ea-exec-says-there-has-been-a-real-rise-of-creativity-after-developers-embraced-ai/",
-        "summary": "EA企业发展总裁Laura Miele在采访中表示，AI在游戏开发中的应用带来了创造力的真实提升，开发者已开始积极拥抱这一技术。",
-        "comment": "AI赋能游戏开发，但需警惕创意同质化风险。",
+        "summary": "EA企业发展总裁Laura Miele在采访中表示，开发者采用AI工具后，公司见证了创造力的真实增长，AI正改变游戏开发流程。",
+        "comment": "AI助力创意，但需警惕技术依赖风险。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-23-at-2.25.37-PM.png?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "暗黑破坏神4",
-        "title": "暗黑4与守望先锋联动，引入英雄外观",
+        "title": "《暗黑破坏神4》与《守望先锋》联动，风格转向轻松",
         "link": "https://www.gamespot.com/articles/diablo-4s-next-crossover-is-its-least-dark-yet-as-blizzard-broadens-tone-for-collabs/",
-        "summary": "暗黑破坏神4的下一个跨界合作将与暴雪自家的守望先锋联动，将莱因哈特、天使、雾子等标志性英雄的外观引入这款黑暗奇幻ARPG。",
-        "comment": "暴雪试图为暗黑4注入轻松元素。",
+        "summary": "《暗黑破坏神4》的下一个跨界合作将与暴雪自家的《守望先锋》联动，将莱因哈特、天使、雾子等标志性英雄的外观引入黑暗奇幻ARPG。",
+        "comment": "暴雪试图用轻松联动拓宽暗黑系列基调。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Diablo-4-Overwatch-Crossover.jpg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "荣耀",
-        "title": "荣耀600 Pro体验：超高清Live图新玩法",
+        "title": "荣耀600 Pro体验：超高清Live图玩法探索",
         "link": "https://www.ifanr.com/1669249?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "荣耀600 Pro体验显示，超高清已成基础，Live图在分辨率和解析力之后，探索更多创意玩法。",
-        "comment": "Live图从参数竞争转向体验创新。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "Steam Machine",
-        "title": "7000块的Steam Machine，革不了游戏机的命",
-        "link": "https://www.ifanr.com/1669691?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "最贵的主机，最诚实的PC，分析其为何无法撼动传统游戏机市场。",
-        "comment": "硬件虽强，生态不足，难成主流。",
+        "summary": "荣耀600 Pro体验显示，在分辨率和解析力竞争后，Live图正探索新玩法，如超高清功能，带来更丰富影像体验。",
+        "comment": "Live图创新需超越参数，聚焦实用场景。",
         "image": "",
         "score": 91
       },
@@ -207,20 +167,20 @@
         "tag": "蔚来",
         "title": "蔚来任少卿：一个世界模型适配两套芯片四个平台十几款车",
         "link": "https://www.ifanr.com/1669670?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来高级副总裁任少卿分享如何将世界模型适配到两套芯片、四个平台和十几款车型上，解决多平台统一技术挑战。",
-        "comment": "蔚来技术整合能力突出，但落地效果待验证。",
+        "summary": "蔚来高级副总裁任少卿分享如何将统一世界模型适配不同芯片、平台和车型，实现技术复用与规模化。",
+        "comment": "技术整合能力是蔚来智能化的关键挑战。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "产品设计",
-        "title": "第二属性大于AI能力，像编剧一样做产品｜对话美图AKA小白",
-        "link": "https://www.ifanr.com/1669611?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "美图产品经理分享将编剧思维融入产品设计，强调第二属性比AI能力更重要。",
-        "comment": "产品创新需超越技术，回归用户故事。",
+        "tag": "Steam Machine",
+        "title": "7000块的Steam Machine，革不了游戏机的命",
+        "link": "https://www.ifanr.com/1669691?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "最贵的主机，最诚实的PC，探讨Steam Machine在游戏机市场的定位与挑战。",
+        "comment": "高价PC难撼主机市场根基。",
         "image": "",
-        "score": 91
+        "score": 90
       },
       {
         "category": "游戏影视",
@@ -228,69 +188,9 @@
         "title": "索尼克35周年ARG游戏《混沌狩猎》含重要细则",
         "link": "https://www.gamespot.com/articles/sonics-new-chaos-hunt-game-includes-some-fine-print-you-shouldnt-skip/",
         "summary": "为庆祝索尼克35周年，世嘉推出ARG游戏《混沌狩猎》，玩家需注意其中包含的细则条款。",
-        "comment": "粉丝参与前务必阅读细则，避免误解。",
+        "comment": "粉丝参与前务必细读规则，避免误解。",
         "image": "https://www.gamespot.com/wp-content/uploads/original/1585/15855271/4603729-3853205-sonic-cu.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏延期",
-        "title": "堕落之主2延期至2027年，避让GTA6并优化",
-        "link": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-to-avoid-gta-6-and-get-more-enhancements/",
-        "summary": "CI Games宣布《堕落之主2》从2026年推迟至2027年第一季度，以避免与GTA6竞争，并增加更多游戏增强内容。",
-        "comment": "明智避让，但延期需确保质量提升。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/lordsofthefallen.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "宝可梦",
-        "title": "《宝可梦传说 Z-A》Switch 2版在亚马逊首次大幅降价",
-        "link": "https://www.ign.com/articles/pokmon-legends-z-a-switch-2-edition-gets-its-first-major-price-cut-at-amazon-for-prime-day",
-        "summary": "《宝可梦传说 Z-A》Switch 2版在亚马逊Prime Day迎来首次重大价格下调，折扣力度显著，吸引玩家关注。",
-        "comment": "首发即降价，市场反应或不如预期。",
-        "image": "https://assets-prd.ignimgs.com/2025/06/13/pokemon-nintendo-switch-2-preorders-exclusive-uk-1749814527129.png",
         "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "《超级马里奥银河》电影版耀西玩具五折促销",
-        "link": "https://www.gamespot.com/articles/super-mario-galaxy-movie-hatchin-yoshi-toy-is-50-off-right-now/",
-        "summary": "亚马逊Prime Day大促正在进行，沃尔玛也同步推出Deals & More活动，其中《超级马里奥银河》电影版耀西玩具享受50%折扣。",
-        "comment": "电影周边趁热促销，粉丝可趁机入手。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/yoshi_e426df.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "霍尔木兹海峡",
-        "title": "联合国将撤离霍尔木兹海峡被困船员，鲁比奥警告伊朗勿收通行费",
-        "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国国务卿鲁比奥警告伊朗，任何国家都无权对通过霍尔木兹海峡的船只收费。联合国表示将撤离该海域被困的船员。",
-        "comment": "美伊对峙升级，关键航道安全受威胁。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "美伊协议",
-        "title": "美伊协议后数十艘船只通过霍尔木兹海峡",
-        "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-        "summary": "自美国和伊朗签署旨在结束战争的协议后，该水道交通量上升，仅周六就有42艘船只通过。",
-        "comment": "协议初步缓解了地区航运紧张局势。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "德国",
-        "title": "德国铁路因IT故障全国停运超两小时",
-        "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-        "summary": "德国铁路公司因IT故障被迫暂停全国列车服务超过两个半小时。",
-        "comment": "关键基础设施的脆弱性再次暴露。",
-        "image": "",
-        "score": 87
       }
     ]
   }

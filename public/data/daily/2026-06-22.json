@@ -5,40 +5,20 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "AI世界正变得“循环”：代理集群持续后台运行",
+        "title": "AI世界变得“循环”：代理群持续后台工作",
         "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-        "summary": "Loop技术将代理AI推进至新阶段，授权一群AI代理在后台持续、无休止地工作，实现自动化循环操作。",
-        "comment": "从单次响应到持续运行，AI自主性迈出关键一步。",
+        "summary": "Loop技术将代理AI推进，授权一群代理在后台持续工作，实现无限循环运行。",
+        "comment": "这是AI自主化的重要一步，但需关注资源消耗。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "Groq",
-        "title": "AI芯片公司Groq确认融资6.5亿美元，重组团队",
+        "tag": "AI芯片",
+        "title": "AI芯片公司Groq确认6.5亿美元融资，重组团队",
         "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-        "summary": "Groq在经历英伟达200亿美元非收购式人才吸纳后，完成新一轮融资，并加强其云业务及高管团队。",
-        "comment": "Groq正从人才流失中恢复，转向云服务突围。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "谷歌DeepMind与A24合作，投资7500万美元开发AI电影工具",
-        "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-        "summary": "谷歌DeepMind与独立电影公司A24合作，共同开发AI电影制作工具，旨在推动人工智能在好莱坞的应用。",
-        "comment": "AI与电影产业的深度结合，或将重塑影视创作流程。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI发布Daybreak工具集，助力全球组织安全防护",
-        "link": "https://openai.com/index/daybreak-securing-the-world",
-        "summary": "OpenAI推出Daybreak工具集，包括Codex Security和GPT-5.5-Cyber，帮助组织大规模发现、验证和修补漏洞。",
-        "comment": "AI安全工具规模化落地，企业防护能力有望提升。",
+        "summary": "在英伟达200亿美元非收购式招聘交易后，Groq完成融资，强化其neocloud业务并招聘新高管。",
+        "comment": "Groq在巨头阴影下找到差异化路径。",
         "image": "",
         "score": 100
       },
@@ -47,27 +27,37 @@
         "tag": "人工智能",
         "title": "OpenAI推出Patch the Planet计划支持开源维护者",
         "link": "https://openai.com/index/patch-the-planet",
-        "summary": "OpenAI启动Daybreak计划下的Patch the Planet项目，通过AI和专家评审帮助开源维护者发现、验证并修复漏洞。",
-        "comment": "AI赋能开源安全，专家审核确保质量。",
+        "summary": "OpenAI启动Daybreak倡议下的Patch the Planet项目，利用AI和专家评审帮助开源维护者发现、验证和修复漏洞。",
+        "comment": "AI赋能开源安全，专家评审确保质量。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "OpenAI发布Daybreak工具集，助力全球组织安全",
+        "link": "https://openai.com/index/daybreak-securing-the-world",
+        "summary": "OpenAI推出Daybreak工具集，包括Codex Security和GPT-5.5-Cyber，帮助组织大规模发现、验证和修补漏洞。",
+        "comment": "AI安全工具规模化落地，企业防护迎来新利器。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "Codex",
-        "title": "OpenAI分享Codex在长周期项目中的上下文保持技巧",
+        "title": "OpenAI分享Codex在长时项目中的上下文保持技巧",
         "link": "https://openai.com/index/codex-maxxing-long-running-work",
-        "summary": "Jason Liu展示了如何使用Codex在长周期工作中保持上下文、管理复杂项目，使工作超越单次提示的限制。",
-        "comment": "实用案例，展示AI在复杂任务中的持续协作潜力。",
+        "summary": "Jason Liu演示如何利用Codex在长期运行工作中保持上下文、管理复杂项目，使工作超越单次提示的限制。",
+        "comment": "实用技巧，提升AI在复杂任务中的连贯性。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "英伟达",
-        "title": "英伟达新冷却系统减少数据中心用水，但未解决AI耗水核心问题",
+        "title": "英伟达新冷却系统减少数据中心用水，但未解决AI耗水根本问题",
         "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-        "summary": "英伟达推出新型冷却系统，可减少数据中心内部用水，但未触及AI最大的耗水来源——化石燃料发电厂的冷却用水。",
+        "summary": "英伟达推出新型冷却系统，可减少数据中心内部用水。但该方案未触及AI最大的耗水来源——化石燃料发电厂的冷却用水。",
         "comment": "治标不治本，AI的耗水问题远不止数据中心。",
         "image": "",
         "score": 99
@@ -77,8 +67,8 @@
         "tag": "GTA 6",
         "title": "GTA 6泄露高价或为占位符，但可能合理",
         "link": "https://www.gamespot.com/articles/gta-6s-leaked-prices-are-probably-bogus-reliable-insider-says/",
-        "summary": "GTA 6预购将于6月25日开启，一家零售商提前列出高于预期的价格。可靠记者称这些价格可能是占位符，但并非不可能。",
-        "comment": "价格猜测引发热议，但官方未确认。",
+        "summary": "GTA 6预购将于6月25日开启，有零售商提前列出高于预期的价格。可靠记者称这些价格可能是占位符，但并非不可能。",
+        "comment": "价格争议反映玩家对GTA 6定价的敏感。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Port_Gellhorn_05.jpg?w=300",
         "score": 92
       }
