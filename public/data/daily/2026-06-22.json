@@ -4,153 +4,83 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI硬件",
-        "title": "AI硬件618热销，钉钉A1获多平台销量冠军",
-        "link": "https://www.jiqizhixin.com/articles/2026-06-22-10",
-        "summary": "618期间，AI硬件产品表现抢眼，钉钉A1智能硬件在天猫、抖音、京东三大平台均夺得销量冠军，显示AI消费级市场加速渗透。",
-        "comment": "AI硬件从概念走向爆款，钉钉A1成办公场景标杆。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/5df88f12-a0ba-4f6f-9fe1-d380d33bcdd7/%E5%9B%BE%E7%89%872(2).png?imageView2/1/w/390/h/282",
+        "tag": "人工智能",
+        "title": "AI世界正变得“循环”",
+        "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+        "summary": "Loop技术将自主AI推进至新阶段，授权一群智能体在后台持续工作，实现无休止的迭代与任务处理。",
+        "comment": "持续后台运行或引发效率与伦理新挑战。",
+        "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI芯片",
-        "title": "国产AI芯片黑马智子芯元两月内完成两轮融资",
-        "link": "https://www.jiqizhixin.com/articles/2026-06-22-7",
-        "summary": "智子芯元在AI for Computing领域取得突破，两个月内连续完成两轮融资，成为国产芯片赛道备受关注的黑马企业。",
-        "comment": "资本加速布局，国产AI芯片竞争白热化。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/18ccf5ef-57c2-4691-b277-e8ee57c6d080/0__40_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AI世界正变得“循环”：代理集群持续后台运行",
-        "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-        "summary": "Loop技术将代理AI推进到新阶段，授权一群代理在后台持续、无休止地工作，实现自动化任务处理。",
-        "comment": "从单次响应到持续运行，AI自主性迈出关键一步。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Groq",
         "title": "AI芯片公司Groq确认融资6.5亿美元，重组团队",
         "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-        "summary": "在英伟达放弃以200亿美元收购后，Groq完成新一轮融资，并加强其云服务业务，同时招募新高管。",
-        "comment": "Groq在巨头阴影下另辟蹊径，云服务或成突破口。",
+        "summary": "在英伟达200亿美元非收购式招聘交易后，Groq完成融资，加强其云业务并招募新高管。",
+        "comment": "Groq借融资重塑战略，避开收购依赖。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "谷歌DeepMind与A24合作，投资7500万美元开发AI电影工具",
+        "title": "Google DeepMind 7500万美元投资A24，押注AI电影制作",
         "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-        "summary": "谷歌DeepMind与独立电影公司A24合作，投入7500万美元，共同开发AI电影制作工具，探索人工智能在好莱坞的应用前景。",
-        "comment": "AI与好莱坞的深度合作，预示影视制作新变革。",
+        "summary": "Google DeepMind与独立电影公司A24合作，共同开发AI电影制作工具，旨在推动AI在好莱坞的应用。",
+        "comment": "AI与好莱坞的深度合作，预示影视制作新范式。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "人工智能",
+        "title": "OpenAI推出Daybreak安全工具，助力全球组织漏洞防护",
+        "link": "https://openai.com/index/daybreak-securing-the-world",
+        "summary": "OpenAI发布Daybreak系列工具，包括Codex Security和GPT-5.5-Cyber，旨在帮助组织大规模发现、验证和修补漏洞。",
+        "comment": "AI安全工具规模化落地，企业防护能力有望提升。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
         "title": "OpenAI推出Patch the Planet计划支持开源维护者",
         "link": "https://openai.com/index/patch-the-planet",
-        "summary": "OpenAI启动Daybreak倡议下的Patch the Planet项目，利用AI和专家评审帮助开源维护者发现、验证并修复漏洞。",
-        "comment": "AI赋能开源安全，精准解决维护者痛点。",
+        "summary": "OpenAI启动Daybreak计划下的Patch the Planet项目，利用AI和专家评审帮助开源维护者发现、验证和修复漏洞。",
+        "comment": "AI赋能开源安全，专家评审确保质量。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI发布Daybreak工具集，助力全球组织大规模安全防护",
-        "link": "https://openai.com/index/daybreak-securing-the-world",
-        "summary": "OpenAI推出Daybreak工具集，包含Codex Security和GPT-5.5-Cyber，帮助组织大规模发现、验证和修复漏洞。",
-        "comment": "AI安全工具规模化落地，企业防护能力有望跃升。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI分享Codex用于长期项目管理的技巧",
+        "title": "OpenAI分享Codex在长时工作中的上下文保持技巧",
         "link": "https://openai.com/index/codex-maxxing-long-running-work",
-        "summary": "Jason Liu展示如何使用Codex保持上下文、管理复杂项目，使工作超越单次提示持续进行。",
-        "comment": "实用技巧，提升AI在长期任务中的效率。",
+        "summary": "Jason Liu展示了如何利用Codex在复杂项目中保持上下文，使工作超越单次提示的限制，提升效率。",
+        "comment": "实用案例，展示了AI在项目管理中的潜力。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "英伟达",
-        "title": "英伟达新冷却系统降低数据中心用水，但未解决AI的化石燃料用水问题",
+        "title": "英伟达新冷却系统减少数据中心用水，但未解决AI的化石燃料电厂用水问题",
         "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-        "summary": "英伟达宣布新冷却系统可减少数据中心内部用水，但未触及AI最大的用水来源——化石燃料发电厂。",
-        "comment": "治标不治本，AI的能耗水耗问题仍需系统性解决。",
+        "summary": "英伟达宣布新冷却系统可减少数据中心内部用水，但未触及AI最大的用水来源——化石燃料发电厂，后者消耗大量水资源用于冷却。",
+        "comment": "治标不治本，AI的用水问题根源在能源结构。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "亚马逊",
-        "title": "亚马逊在印度测试支持印地语的Alexa+",
-        "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-        "summary": "亚马逊计划将新对话式AI助手Alexa+扩展至印度，并邀请当地用户测试印地语版本。",
-        "comment": "本地化语言支持是AI助手全球扩张的关键一步。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "华为与Google竞逐手机小组件，AI成必争之地",
-        "link": "https://www.ifanr.com/1669508?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "手机小组件正成为AI技术的关键入口，华为和Google等巨头纷纷布局，推动操作系统实现真正的个性化体验。",
-        "comment": "小组件是AI落地的理想场景，竞争将加速创新。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "微信",
-        "title": "微信终于要给 AI 手机开门了｜AI 器物志",
-        "link": "https://www.ifanr.com/1669522?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微信可能开放A2A接口，允许AI手机直接调用微信功能，但有限度使用为宜，过度或强行接入可能带来风险。",
-        "comment": "微信开放AI接口是双刃剑，需谨慎平衡体验与安全。",
-        "image": "",
-        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6泄露高价或为占位符，但业内认为可能合理",
+        "title": "GTA 6泄露高价或为占位符，但可能合理",
         "link": "https://www.gamespot.com/articles/gta-6s-leaked-prices-are-probably-bogus-reliable-insider-says/",
-        "summary": "GTA 6预购将于6月25日开启，一家零售商提前列出高于预期的价格。知名可靠记者表示，这些价格可能是占位符，但并非完全不可能。",
+        "summary": "GTA 6预购将于6月25日开启，有零售商提前列出高于预期的价格。但可靠记者称这些价格很可能是占位符，不过最终定价也可能与此接近。",
         "comment": "泄露价格虽假，但高价趋势值得关注。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Port_Gellhorn_05.jpg?w=300",
         "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "AMD",
-        "title": "AMD FSR 4.1 支持旧款GPU，即将登陆Steam Machine和Xbox",
-        "link": "https://www.gamespot.com/articles/amds-fsr-upscaling-4-1-comes-to-older-gpus-steam-machine-and-xbox-rog-ally-support-on-the-way/",
-        "summary": "AMD宣布RDNA 3 GPU用户现可体验最新AI超分技术FSR 4.1，比原计划7月提前数周推出。",
-        "comment": "提前适配旧卡，扩大生态覆盖。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/AMD-Radeon-RX-7900-XTX_10.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "奇瑞",
-        "title": "奇瑞生活馆首店汕头开业，汽车品牌融合生活新尝试",
-        "link": "https://www.ifanr.com/1669565?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "奇瑞在汕头开设首家生活馆，旨在购车前提供更多体验，探索汽车品牌与生活场景的结合。",
-        "comment": "汽车零售向生活方式延伸，或成行业新趋势。",
-        "image": "",
-        "score": 90
       }
     ]
   }
