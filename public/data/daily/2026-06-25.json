@@ -4,53 +4,43 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI代理",
-        "title": "OpenAI研究：AI代理如何变革工作方式",
+        "tag": "人工智能",
+        "title": "OpenAI研究：AI代理如何改变工作方式",
         "link": "https://openai.com/index/how-agents-are-transforming-work",
-        "summary": "OpenAI新研究论文显示，AI代理正在改变工作方式，能够执行更长、更复杂的任务，并提升各角色的生产力。",
-        "comment": "AI代理正从辅助工具向自主执行者演进。",
+        "summary": "OpenAI新研究论文展示AI代理如何改变工作，支持更长、更复杂的任务，并提升各角色的生产力。",
+        "comment": "AI代理正从辅助工具演变为核心生产力引擎。",
         "image": "",
         "score": 100
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "GTA 6定价80美元开启预购，Take-Two股价预计飙升",
+        "tag": "GTA 6",
+        "title": "GTA 6定价80美元并开启预购，Take-Two股价预计飙升",
         "link": "https://www.gamespot.com/articles/after-confirming-80-price-for-gta-6-and-preorders-take-two-stock-is-predicted-to-rip/",
-        "summary": "在GTA 6开启预购并确认80美元定价后，股票分析师对Rockstar母公司Take-Two的股价给出了目标价预测。",
-        "comment": "定价策略与预购热度推动股价预期。",
+        "summary": "在《GTA 6》开启预购并确认80美元定价后，股票分析师对Rockstar母公司Take-Two的股价给出了目标价预测。",
+        "comment": "高定价策略或推动行业涨价潮。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_VICE_CITY_STYLE_05.jpg?w=300",
         "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "孤岛惊魂",
-        "title": "《孤岛惊魂》剧集新加盟演员：丽兹·卡潘",
-        "link": "https://www.gamespot.com/articles/far-cry-tv-show-adds-a-fantastic-actor/",
-        "summary": "丽兹·卡潘（《性爱大师》《贱女孩》）加入FX与Hulu的《孤岛惊魂》选集剧集，成为第二位确认的演员。",
-        "comment": "选角有看点，剧集期待值提升。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/farcry.png?w=300",
+        "tag": "Xbox",
+        "title": "Xbox Series S价格追平六年前Series X",
+        "link": "https://www.gamespot.com/articles/xbox-series-s-the-cheap-option-now-costs-as-much-as-series-x-did-six-years-ago/",
+        "summary": "Xbox Series S作为廉价版主机，如今售价已与六年前Xbox Series X首发价持平，性价比优势减弱。",
+        "comment": "低价策略失效，市场竞争力受挑战。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/series-s.webp?w=300",
         "score": 92
       },
       {
-        "category": "数码科技",
-        "tag": "卫星通信",
-        "title": "网翎发布卫星通信边缘智算系统OneLinQ Edge和新上网机",
-        "link": "https://www.ifanr.com/1670000?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "网翎推出边缘智算系统OneLinQ Edge及新上网机，旨在将卫星通信从“连得上”提升至“用得好”，增强连接价值。",
-        "comment": "从连接到智能，网翎推动卫星通信实用化。",
-        "image": "",
-        "score": 91
-      },
-      {
         "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox Series S价格涨至六年前Series X水平",
-        "link": "https://www.gamespot.com/articles/xbox-series-s-the-cheap-option-now-costs-as-much-as-series-x-did-six-years-ago/",
-        "summary": "Xbox Series S作为廉价版主机，如今价格已与六年前Xbox Series X首发价持平，性能与视觉表现却较低。",
-        "comment": "性价比优势不再，微软定价策略引争议。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/series-s.webp?w=300",
-        "score": 91
+        "tag": "孤岛惊魂",
+        "title": "《孤岛惊魂》剧集新加盟演员丽兹·卡普兰",
+        "link": "https://www.gamespot.com/articles/far-cry-tv-show-adds-a-fantastic-actor/",
+        "summary": "丽兹·卡普兰（《性爱大师》《贱女孩》）加盟FX和Hulu的《孤岛惊魂》选集剧集，成为继《小丑回魂》演员后的第二位确认卡司。",
+        "comment": "选角扎实，剧集阵容渐显实力。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/farcry.png?w=300",
+        "score": 92
       }
     ]
   }
