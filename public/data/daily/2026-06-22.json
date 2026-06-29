@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "OpenAI",
         "title": "OpenAI推出Patch the Planet计划支持开源维护者",
         "link": "https://openai.com/index/patch-the-planet",
-        "summary": "OpenAI启动Daybreak计划下的Patch the Planet项目，通过AI和专家评审帮助开源维护者发现、验证并修复漏洞。",
-        "comment": "AI赋能开源安全，但专家评审不可或缺。",
+        "summary": "OpenAI启动Daybreak计划下的Patch the Planet项目，利用AI和专家审查帮助开源维护者发现、验证并修复漏洞。",
+        "comment": "AI赋能开源安全，专家审查确保质量。",
         "image": "",
         "score": 100
       },
@@ -24,11 +24,11 @@
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI分享Codex在长时项目中的上下文保持技巧",
+        "tag": "Codex",
+        "title": "OpenAI分享Codex在长周期项目中的上下文保持技巧",
         "link": "https://openai.com/index/codex-maxxing-long-running-work",
-        "summary": "Jason Liu演示如何利用Codex在长时间运行的工作中保持上下文、管理复杂项目，使工作超越单次提示的限制。",
-        "comment": "实用技巧，提升AI在复杂任务中的连贯性。",
+        "summary": "Jason Liu演示了如何利用Codex在长时间运行的工作中保持上下文、管理复杂项目，并让工作超越单次提示的限制。",
+        "comment": "实用案例，展示了AI辅助长周期工作的潜力。",
         "image": "",
         "score": 100
       }

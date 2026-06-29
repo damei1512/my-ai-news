@@ -4,21 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI应政府要求限制GPT-5.6发布，称限制不应成常态",
+        "tag": "人工智能",
+        "title": "OpenAI应政府要求限制GPT-5.6发布，称限制不应成为常态",
         "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-        "summary": "OpenAI在政府要求后限制GPT-5.6的发布，表示此类政府介入不应成为长期默认做法，否则会阻碍最佳工具惠及用户、开发者、企业和网络防御者。",
-        "comment": "政府干预AI发布引发行业担忧，平衡安全与开放成关键。",
+        "summary": "OpenAI在政府要求后限制GPT-5.6的发布，表示这种政府介入不应成为长期默认做法，否则会阻碍最佳工具惠及用户、开发者、企业和网络安全领域。",
+        "comment": "政府干预AI发布引发行业对开放与监管平衡的担忧。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI挖角Uber印度负责人，拓展美国以外最大市场",
+        "title": "OpenAI 挖角 Uber 印度负责人，领导美国以外最大市场",
         "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-        "summary": "OpenAI任命Uber印度前负责人领导其美国以外最大市场，同时扩大在印度的办公室、合作与招聘。",
-        "comment": "印度市场争夺战升级，OpenAI加速本地化布局。",
+        "summary": "OpenAI 聘请 Uber 印度负责人，以加强在印度的办公室、合作伙伴关系和招聘，推动其在美国以外最大市场的扩张。",
+        "comment": "此举显示 OpenAI 加速全球化布局，印度市场战略地位凸显。",
         "image": "",
         "score": 100
       },
@@ -27,128 +27,68 @@
         "tag": "AI芯片",
         "title": "从OpenAI到SpaceX纷纷自研芯片，英伟达面临挑战",
         "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-        "summary": "英伟达长期主导AI芯片市场，但依赖格局或生变。OpenAI公布其定制推理芯片Jalapeño计划，多家科技巨头加入自研芯片行列，加剧市场竞争。",
-        "comment": "自研芯片成趋势，英伟达垄断地位受冲击。",
+        "summary": "英伟达长期主导AI芯片市场，但依赖格局或生变。OpenAI公布其定制推理芯片Jalapeño计划，意图打破垄断。",
+        "comment": "自研芯片浪潮预示AI硬件生态正走向多元化。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI预览GPT-5.6 Sol：新一代模型",
+        "title": "OpenAI预览GPT-5.6 Sol：下一代模型",
         "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "summary": "OpenAI预览GPT-5.6 Sol，该模型在编程、科学和网络安全方面能力更强，并配备了最先进的安全堆栈。",
-        "comment": "技术迭代加速，安全与能力并重。",
+        "summary": "OpenAI预览了下一代模型GPT-5.6 Sol，在编程、科学和网络安全方面能力更强，并配备了最先进的安全堆栈。",
+        "comment": "安全与能力同步升级，值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
-        "tag": "智能驾驶",
-        "title": "理想追赶FSD V14，智能驾驶竞争转向模型与数据",
-        "link": "https://36kr.com/p/3870292939658242?f=rss",
-        "summary": "智能驾驶竞争从硬件比拼转向端到端、VLA、世界模型等路线，理想汽车正追赶FSD V14，发现仅靠大模型不足以形成代际优势，数据与工程能力成为新上限。",
-        "comment": "智能驾驶进入数据驱动深水区，模型规模不再是唯一壁垒。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "智元",
-        "title": "智元灵巧手估值10亿美元，DeepSeek计划规模翻倍",
-        "link": "https://36kr.com/p/3869884559332356?f=rss",
-        "summary": "智元旗下灵巧手公司成立仅5个月，首季实现盈利，估值达10亿美元；DeepSeek计划将所有部门规模扩大至少一倍。",
-        "comment": "AI硬件与模型双线突破，行业竞争加速。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "中科闻歌",
-        "title": "中科闻歌港股上市开盘暴涨81%",
-        "link": "https://36kr.com/p/3869622921041156?f=rss",
-        "summary": "中科闻歌6月26日在港交所上市，开盘涨81.2%，报110港元，市值190亿港元，盘中最高125港元，一手账面浮盈1.08万港元。",
-        "comment": "硬科技IPO热度不减，市场信心强劲。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "理想汽车",
-        "title": "理想首谈电池品牌争议：无论谁家电池，理想汽车兜底",
-        "link": "https://36kr.com/p/3866946087867394?f=rss",
-        "summary": "动力电池占新能源车BOM成本30%-40%，直接影响续航、补能、安全等核心体验。理想汽车首次回应电池品牌争议，强调无论供应商是谁，最终由理想汽车负责。",
-        "comment": "理想此举意在消除用户对电池品牌的顾虑，强化品牌信任。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "智能制造",
-        "title": "AIE电子展成全球智能制造核心舞台",
-        "link": "https://36kr.com/p/3869838577620231?f=rss",
-        "summary": "AIE电子展依托粤港澳大湾区产业生态，打造中国智能制造首发平台，链接全球龙头企业与科研院所，推动技术创新与实战检验。",
-        "comment": "AIE展会加速智能制造产业演进。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
         "tag": "AI",
-        "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
-        "link": "https://36kr.com/p/3866837793952769?f=rss",
-        "summary": "张亚勤院士在清华无锡研究院访谈中表示，AI技术本身并非泡沫，但当前AI投资和创业存在过热现象，建议行业冷静、不要急躁。",
-        "comment": "AI行业需降温，理性看待泡沫与价值。",
+        "title": "Codex仅解锁1%潜力，大神让它一天工作71小时",
+        "link": "https://www.ifanr.com/1670118?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "GPT-5.6未发布即受限，Codex报告揭示其能力远超预期，仅解锁1%潜力，大神通过优化让其一天高效运行71小时。",
+        "comment": "AI潜力挖掘远超想象，限制反而激发创新。",
         "image": "",
-        "score": 96
+        "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "零售商泄露GTA 6游戏玩法细节",
+        "title": "零售商泄露《GTA 6》玩法细节",
         "link": "https://www.gamespot.com/articles/some-retailers-reportedly-spill-the-tea-on-gta-6-gameplay-details/",
-        "summary": "随着《侠盗猎车手6》预计11月19日发售，部分零售商疑似提前泄露了游戏玩法细节，引发玩家热议。",
-        "comment": "泄露信息可信度待验证，但热度已拉满。",
+        "summary": "距离《侠盗猎车手6》11月19日发售还有数月，部分零售商疑似提前泄露游戏玩法细节，引发网络热议。",
+        "comment": "泄露信息可信度存疑，需官方确认。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/gta6-image.jpg?w=300",
-        "score": 94
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏开发",
+        "title": "《Haunted Chocolatier》开发漫长，追求完美成主因",
+        "link": "https://www.gamespot.com/articles/haunted-chocolatier-long-development-comes-down-to-chasing-perfection/",
+        "summary": "随着GTA 6即将发布，Eric Barone的《Haunted Chocolatier》成为下一个备受期待的未定发售日游戏。该作已公布五年，开发者追求完美导致开发周期延长。",
+        "comment": "完美主义是双刃剑，玩家期待值已拉满。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Haunted-Chocolatier.jpg?w=300",
+        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "折叠屏",
-        "title": "MWC上折叠屏的终极形态：原子工作台",
+        "title": "MWC上折叠屏最该有的样子：原子工作台",
         "link": "https://www.ifanr.com/1670141?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿在MWC上发现折叠屏新形态，展开后不再是简单放大手机，而是可个性化定制的“原子工作台”，实现千人千面的高效工作体验。",
-        "comment": "折叠屏从手机到工作台的进化，值得期待。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "Codex",
-        "title": "Codex仅解锁1%能力，大神让其一天运行71小时",
-        "link": "https://www.ifanr.com/1670118?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "GPT-5.6未发布即受限，Codex报告揭示其潜力远超预期，用户通过优化可大幅提升效率。",
-        "comment": "技术潜力挖掘需突破常规限制。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暴雪",
-        "title": "暴雪崩塌：一个帝国的三层崩塌",
-        "link": "https://www.gcores.com/radios/216507",
-        "summary": "暴雪娱乐从神坛跌落，六年三任CEO均遭差评。节目从产品、文化、管理三层拆解：OW2、暗黑不朽等消耗玩家耐心，加州歧视诉讼暴露文化崩坏。",
-        "comment": "暴雪崩塌是产品、文化、管理三重溃败的必然结果。",
+        "summary": "折叠屏展开后不再只是大号手机，而是千人千面的「原子工作台」，实现个性化多任务处理。",
+        "comment": "折叠屏从形态创新转向场景定义，方向对了。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "Steam Machine",
-        "title": "Steam Machine预购即将开始，eBay已现高价转售",
+        "title": "Steam Machine预购将启，eBay已现高价转售",
         "link": "https://www.gamespot.com/articles/steam-machine-preorders-are-about-to-begin-so-of-course-theyre-already-on-ebay/",
-        "summary": "Valve开始发送关于Steam Machine排队或等待名单的混乱邮件，设备尚未正式发售，但eBay上已出现高价转售。",
-        "comment": "预购未启，黄牛先行，Valve需优化发售流程。",
+        "summary": "Valve开始发送关于Steam Machine排队或等候名单的混乱邮件，设备尚未发布，但eBay上已出现高价转售。",
+        "comment": "炒作先行，Valve管理混乱可见一斑。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/sm-image-2.jpg?w=300",
         "score": 92
       },
@@ -157,19 +97,9 @@
         "tag": "游戏主机",
         "title": "PS5与Xbox Series X|S五月销量大幅下滑",
         "link": "https://www.gamespot.com/articles/ps5-and-xbox-series-x-both-didnt-sell-very-well-in-may/",
-        "summary": "根据Circana数据，PS5和Xbox Series X|S在5月的美国销量显著下降，反映出市场需求疲软。",
-        "comment": "次世代主机增长乏力，市场或进入调整期。",
+        "summary": "根据Circana最新数据，PlayStation 5和Xbox Series X|S在五月的美国销量显著下降，反映出市场需求疲软。",
+        "comment": "次世代主机销量放缓，市场进入调整期。",
         "image": "https://www.gamespot.com/wp-content/uploads/original/1581/15811374/3742293-ps5-_xbox-series-x-don't-seem-to-have-interesting-ideas-promothumbv4.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "《Haunted Chocolatier》开发追求完美，成玩家期待新作",
-        "link": "https://www.gamespot.com/articles/haunted-chocolatier-long-development-comes-down-to-chasing-perfection/",
-        "summary": "《星露谷物语》开发者Eric Barone的新作《Haunted Chocolatier》已公布五年，因追求完美而开发缓慢，有望成为继《GTA 6》后的又一款备受期待的游戏。",
-        "comment": "完美主义是双刃剑，但玩家愿意等待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Haunted-Chocolatier.jpg?w=300",
         "score": 92
       },
       {
@@ -177,49 +107,29 @@
         "tag": "卫星通信",
         "title": "对话网翎CEO刘宇：卫星通信应人人可用",
         "link": "https://www.ifanr.com/1670070?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "网翎CEO刘宇表示，卫星通信技术应普及至大众，而非仅限专业剧组使用，旨在降低门槛让更多人受益。",
-        "comment": "卫星通信平民化愿景务实，但落地仍需突破成本与覆盖。",
+        "summary": "网翎CEO刘宇表示，卫星通信技术应普及至大众，而非仅限专业剧组如《镖人》使用，旨在降低门槛让更多人受益。",
+        "comment": "卫星通信平民化愿景务实，但需突破成本与覆盖瓶颈。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "美图",
-        "title": "美图发布8款产品，聚焦AI影像能力交付",
-        "link": "https://www.ifanr.com/1670054?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "美图一次性推出8款产品，均围绕AI影像技术，旨在提升用户直接交付的创作能力，覆盖拍照、修图、视频等多场景。",
-        "comment": "AI影像进入实用化阶段，美图加速产品矩阵整合。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "刺客信条",
-        "title": "《刺客信条：黑旗》最佳部分海歌现已可在线播放",
-        "link": "https://www.gamespot.com/articles/you-can-now-stream-the-best-part-of-assassins-creed-black-flag-resynced-its-sea-shanties/",
-        "summary": "育碧在《刺客信条：黑旗：重制版》发布前，在线推出了可播放的海上船歌，让玩家提前体验游戏音乐魅力。",
-        "comment": "海歌是游戏灵魂，此举精准击中粉丝怀旧点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/AC-Black-Flag-Resynced.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "健康AI",
-        "title": "健康AI的KPI是“斤”",
-        "link": "https://www.ifanr.com/1670032?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "阿福想通了，健康AI以体重斤数为关键绩效指标，关注用户健康管理。",
-        "comment": "以斤为KPI，健康AI更接地气。",
-        "image": "",
-        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "Steam Machine",
         "title": "Steam Machine预购邮件令人困惑",
         "link": "https://www.gamespot.com/articles/steam-machine-preorder-emails-are-super-confusing/",
-        "summary": "Valve的Steam Machine将于6月29日发售，但预购邮件信息混乱，导致用户对实际购买时间产生疑惑。",
-        "comment": "Valve的沟通策略再次引发混乱。",
+        "summary": "Valve的Steam Machine将于6月29日发售，但预购邮件内容混乱，导致用户不清楚实际购买时间。",
+        "comment": "预购流程混乱影响用户体验。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/sm-image.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "刺客信条",
+        "title": "《刺客信条4：黑旗》重制版海员歌谣可在线播放",
+        "link": "https://www.gamespot.com/articles/you-can-now-stream-the-best-part-of-assassins-creed-black-flag-resynced-its-sea-shanties/",
+        "summary": "育碧在《刺客信条4：黑旗》重制版下月发布前，上线了可播放的海员歌谣部分，玩家可在线体验这一经典元素。",
+        "comment": "情怀营销，精准击中老玩家怀旧点。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/AC-Black-Flag-Resynced.jpg?w=300",
         "score": 89
       }
     ]
