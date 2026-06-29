@@ -4,103 +4,73 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "苹果",
-        "title": "苹果Vision Pro高管据报将离职加入OpenAI",
-        "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-        "summary": "负责Vision Pro头显的苹果副总裁Paul Meade据报将离开公司，加入OpenAI硬件团队。",
-        "comment": "苹果AR核心人才流失，OpenAI硬件野心凸显。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "AI医疗",
-        "title": "最健康创始人患癌，用AI对抗病魔",
+        "title": "最健康创始人患癌，用AI分析数据对抗疾病",
         "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-        "summary": "Connor Christou确诊癌症后，将血液结果、扫描数据、可穿戴设备输出和日记条目全部输入Claude，利用AI分析辅助治疗。",
-        "comment": "AI在个性化医疗中的实用案例，值得关注。",
+        "summary": "Connor Christou确诊癌症后，将血液结果、扫描数据、可穿戴设备输出和日记输入Claude，利用AI分析个人健康数据辅助治疗。",
+        "comment": "AI在个性化医疗中的实用案例，数据整合是关键。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "亚洲AI初创推出类Mythos模型，应对Anthropic出口禁令",
+        "title": "亚洲AI初创推Mythos级模型，应对Anthropic出口禁令",
         "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-        "summary": "亚洲AI初创公司推出具备类似Mythos能力的模型，规避出口禁令风险。美国AI实验室可能永久失去这一巨大市场。",
-        "comment": "出口禁令加速亚洲AI自主创新，美国或失主导地位。",
+        "summary": "亚洲AI初创公司推出具备Mythos级别能力的模型，规避美国出口禁令影响。此举可能使美国AI实验室永久失去这一巨大市场。",
+        "comment": "出口禁令反而加速了亚洲AI自主创新。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "特朗普政府批准Anthropic Mythos供超100家美国企业及机构使用",
+        "title": "特朗普政府批准Anthropic Mythos供超100家美国企业与机构使用",
         "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-        "summary": "据报道，超过100家美国企业和政府机构获授权使用Mythos 5，包括其非美国员工。",
-        "comment": "AI技术应用加速，政府推动产业落地。",
+        "summary": "据报道，超过100家美国公司和政府机构获授权使用Mythos 5，包括其非美国员工。",
+        "comment": "AI模型大规模商用化迈出关键一步。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "马斯克",
-        "title": "软银CEO质疑马斯克轨道数据中心愿景",
+        "title": "软银CEO质疑马斯克轨道数据中心炒作",
         "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-        "summary": "软银CEO并非唯一对马斯克轨道数据中心计划持怀疑态度的人，行业内外对该愿景的可行性提出疑问。",
-        "comment": "轨道数据中心概念仍面临技术和成本挑战。",
+        "summary": "并非所有人都相信马斯克关于轨道数据中心的愿景，软银CEO也对此提出疑问。",
+        "comment": "轨道数据中心可行性存疑，炒作需降温。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "苹果",
+        "title": "苹果Vision Pro高管据报将跳槽OpenAI",
+        "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+        "summary": "负责Vision Pro头显的苹果副总裁Paul Meade据称将离职，加入OpenAI硬件团队。",
+        "comment": "苹果AR人才流失，OpenAI硬件野心再显。",
         "image": "",
         "score": 99
       },
       {
         "category": "数码科技",
-        "tag": "储能",
-        "title": "大秦储能冲港股IPO：锂价高位囤货致亏本三年",
-        "link": "https://36kr.com/p/3871109381035011?f=rss",
-        "summary": "大秦数字能源冲刺港股IPO，招股书揭示其在锂价50万元/吨高位大量囤货，导致连续三年亏损，直至近期才清完库存。",
-        "comment": "锂价周期波动下的典型教训，储能企业需警惕库存风险。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "物流科技",
-        "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」",
-        "link": "https://36kr.com/p/3869740772316162?f=rss",
-        "summary": "G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”，重30克，磁吸设计，熄火后佩戴胸前自动录制，放回底座自动上传云端，实现从“看见车上”到“看见车下”的跨越。",
-        "comment": "物流AI从车载向穿戴延伸，填补交付盲区。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
         "tag": "GPT-5.6",
-        "title": "GPT-5.6发布，史上最强却因自身问题受困",
+        "title": "GPT-5.6正式发布，史上最强但被自己坑惨了",
         "link": "https://www.ifanr.com/1670225?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "GPT-5.6正式发布，模型能力逼近关键阈值，但使用资格和方式成为更受关注的问题，性能提升伴随新挑战。",
-        "comment": "能力越强，门槛越高，AI的普及之路不平坦。",
+        "summary": "当模型能力逼近关键阈值，使用资格与使用方式，将成为比性能更为关注的事项。",
+        "comment": "能力越强，限制越多，AI治理成新焦点。",
         "image": "",
         "score": 93
       },
       {
         "category": "数码科技",
         "tag": "GPT-5.6",
-        "title": "GPT-5.6正式亮相，微软上调Xbox价格，大疆Pocket 4P秒空",
+        "title": "GPT-5.6亮相、微软上调Xbox价格、大疆Pocket 4P秒空",
         "link": "https://www.ifanr.com/1670246?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "GPT-5.6发布但使用受限；微软计划上调Xbox主机价格；大疆回应Pocket 4P开售即售罄。苹果或跳过M6 Pro/Max，M7系列主打AI性能；微信公布删除好友后朋友圈互动显示逻辑；何小鹏称年底自动驾驶可合法进入全球市场。",
-        "comment": "科技巨头密集动作，AI与硬件市场再掀波澜。",
+        "summary": "GPT-5.6正式发布但使用受限；微软计划上调Xbox主机价格；大疆回应Pocket 4P开售秒空。此外，苹果或跳过M6 Pro/Max，M7系列主打AI性能；微信公布删除好友后朋友圈互动显示逻辑；何小鹏称年底自动驾驶可合法进入全球市场。",
+        "comment": "科技巨头密集动作，AI与硬件市场持续升温。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "时事热点",
-        "tag": "委内瑞拉",
-        "title": "加拉加斯：委内瑞拉现代史上最艰难时刻",
-        "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
-        "summary": "救援队正不懈努力营救废墟下的被困者，但随着希望逐渐破灭，民众的愤怒情绪日益高涨。",
-        "comment": "人道危机加剧，社会矛盾激化。",
-        "image": "",
-        "score": 88
+        "score": 91
       }
     ]
   }
