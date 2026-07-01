@@ -4,91 +4,51 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "开源",
+        "title": "开源智能体程序OpenClaw登陆安卓与iOS",
+        "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+        "summary": "免费开源智能体程序OpenClaw正式上线安卓和iOS平台，用户可在手机上使用其自主任务执行功能。",
+        "comment": "开源智能体进入移动端，加速AI民主化进程。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
         "tag": "人工智能",
         "title": "前DeepMind三人组创办AI实验室，估值超5亿美元",
         "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-        "summary": "由三位前DeepMind研究员创立的布拉格AI实验室EquiLibre Technologies，目前估值超过5亿美元，其技术已用于量化对冲基金盈利。",
-        "comment": "从游戏AI到量化交易，技术落地路径清晰。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌推出更快更便宜的图像生成器Nano Banana 2 Lite",
-        "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-        "summary": "谷歌更新其图像生成器，提升速度并降低成本，使其成为创作者制作AI内容时更实用的工具。",
-        "comment": "性价比提升，但创意质量仍是关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI芯片",
-        "title": "英伟达对手Etched估值50亿美元，AI芯片订单达10亿",
-        "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-        "summary": "英伟达AI芯片竞争对手Etched宣布，其基于自研芯片的推理系统已获得10亿美元合同订单。",
-        "comment": "AI芯片赛道竞争加剧，Etched订单量显示市场对推理专用芯片需求旺盛。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic发布Claude Sonnet 5：更便宜的智能体运行方案",
-        "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-        "summary": "Anthropic推出Claude Sonnet 5，具备更强智能体能力、更低价格和更好安全性，定位为Opus、GPT-5.5和Gemini Pro的廉价替代品。",
-        "comment": "降价不降质，智能体赛道竞争白热化。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "Acti将AI代理直接嵌入智能手机键盘",
-        "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-        "summary": "Acti押注智能手机键盘将成为AI助手的新主场。其面向iOS和Android的新键盘可跨应用运行，并允许用户创建自定义AI功能。",
-        "comment": "键盘作为AI入口，实用但隐私风险需警惕。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic推Claude Science工作台，以工作流而非新模型吸引科学家",
-        "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-        "summary": "Anthropic发布Claude Science工作台，为科学家提供统一计算研究环境，避免在数据库、流水线等工具间频繁切换，提升研究效率。",
-        "comment": "工作流整合比模型迭代更务实，直击科研痛点。",
+        "summary": "由三位前DeepMind研究员创立的布拉格AI实验室EquiLibre Technologies，目前估值已超过5亿美元，其技术正用于量化对冲基金盈利。",
+        "comment": "从扑克AI到量化金融，技术落地路径清晰。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "ChatGPT",
-        "title": "OpenAI数据揭示ChatGPT全球采用率增长",
+        "title": "OpenAI数据揭示ChatGPT全球采用增长趋势",
         "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-        "summary": "OpenAI新发布的Signals数据显示，ChatGPT全球采用率持续增长，用户使用频率提升，功能探索增多，推动各地区和语言的使用扩展。",
-        "comment": "数据证实ChatGPT正向多场景渗透。",
+        "summary": "OpenAI Signals数据显示，ChatGPT全球采用率持续增长，用户使用频率提升，功能探索增多，推动各地区和语言市场的扩张。",
+        "comment": "数据证实ChatGPT正从尝鲜走向深度使用。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI推出GeneBench-Pro基准测试",
+        "title": "OpenAI发布GeneBench-Pro基准测试",
         "link": "https://openai.com/index/introducing-genebench-pro",
-        "summary": "OpenAI发布GeneBench-Pro，这是一个利用复杂真实世界数据集测试AI在基因组学、生物学和科学研究中性能的新基准。",
-        "comment": "推动AI在生命科学领域的实用化评估。",
+        "summary": "OpenAI推出GeneBench-Pro，这是一个利用复杂真实世界数据集评估AI在基因组学、生物学和科学研究中表现的新基准。",
+        "comment": "推动AI在生命科学领域应用的关键评估工具。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI用核心转储分析修复18年旧漏洞",
+        "title": "OpenAI通过大规模核心转储分析修复18年旧漏洞",
         "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-        "summary": "OpenAI工程师通过大规模核心转储分析，排查罕见基础设施崩溃，发现硬件故障与一个存在18年的软件漏洞。",
-        "comment": "大规模数据分析在基础设施排障中展现关键价值。",
+        "summary": "OpenAI工程师利用大规模核心转储分析调试罕见基础设施崩溃，发现硬件故障与一个存在18年的软件漏洞。",
+        "comment": "大规模数据分析在基础设施排障中展现强大威力。",
         "image": "",
         "score": 100
       },
@@ -97,124 +57,34 @@
         "tag": "人工智能",
         "title": "OpenAI发布Genebench-Pro内部研究",
         "link": "https://openai.com/index/genebench-pro/case-studies",
-        "summary": "OpenAI公开Genebench-Pro案例研究，展示其在基因基准测试中的最新进展与应用。",
-        "comment": "基因AI基准测试新标杆，推动生物信息学发展。",
+        "summary": "OpenAI公开Genebench-Pro案例研究，展示其在基因基准测试中的最新进展与评估方法。",
+        "comment": "基准测试推动AI在基因领域应用标准化。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "开源",
-        "title": "开源代理程序OpenClaw终登安卓与iOS平台",
-        "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-        "summary": "免费开源代理程序OpenClaw正式登陆安卓和iOS移动端，用户可在手机端使用其功能。",
-        "comment": "移动端部署将加速开源AI代理普及。",
+        "tag": "谷歌",
+        "title": "谷歌推出更快更便宜的图像生成器Nano Banana 2 Lite",
+        "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+        "summary": "谷歌更新其图像生成器，提升速度并降低成本，使其成为创作者制作AI内容更实用的工具。",
+        "comment": "性价比提升或加速AI图像生成普及。",
         "image": "",
         "score": 99
       },
       {
-        "category": "数码科技",
-        "tag": "电池安全",
-        "title": "史上最严电池安全令施行，苹果机密泄露，OpenAI硬件曝光",
-        "link": "https://36kr.com/p/3876318522077442?f=rss",
-        "summary": "今日热点：蔚来APP闪退、字节跳动辞退80人、兆易创新提示风险、董明珠谈出口、黄金跌破4000美元、优必选机器人售价公布。最严电池安全令7月1日起正式施行。",
-        "comment": "电池安全新规落地，行业洗牌加速。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "Kimi",
-        "title": "Kimi估值315亿美元，ARR破3亿；优艾智合发布具身智能新品",
-        "link": "https://36kr.com/p/3873626697470985?f=rss",
-        "summary": "Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，计划3年赋能10000个工业现场；国家航天局宣布将建立近地小行星天地协同监测体系。",
-        "comment": "AI估值飙升，工业智能化加速落地。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "红魔",
-        "title": "红魔游戏平板5 Pro发布：水冷RGB+185Hz OLED屏",
-        "link": "https://36kr.com/p/3875513946206216?f=rss",
-        "summary": "2025年6月30日，红魔发布游戏平板5 Pro，全球首款主动水冷散热+RGB水冷灯效平板，配备185Hz OLED屏幕，支持PC模拟器，可秒变台式主机，主打小尺寸高性能。",
-        "comment": "水冷散热上平板，性能释放值得期待。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PlayStation",
-        "title": "前PlayStation高管为索尼PC策略辩护",
-        "link": "https://www.ign.com/articles/ex-playstation-boss-defends-pc-strategy-as-sony-pivots-away-from-multiplatform-releases",
-        "summary": "前索尼互动娱乐美国总裁Shawn Layden解释为何PlayStation的PC策略是合理的，尽管索尼正转向减少多平台发布。",
-        "comment": "PC策略是索尼平衡平台独占与市场扩张的关键。",
-        "image": "https://assets-prd.ignimgs.com/2021/05/26/playstation-logo-1622026665954.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "文明7",
-        "title": "《文明7》更新评测：一年半改进有得有失",
-        "link": "https://www.ign.com/articles/civilization-7-review-update",
-        "summary": "经过一年半的更新，《文明7》在游戏性上取得了有意义的改进，但也出现了一些倒退。",
-        "comment": "长期更新效果喜忧参半。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/30/civilization7-reviewupdate-blogroll-1782857316320.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "街霸6",
-        "title": "梅原大吾谈《街霸6》：随机性利好休闲玩家，但难定最强",
-        "link": "https://www.ign.com/articles/daigo-says-random-state-of-street-fighter-6-is-good-for-casuals-but-makes-it-hard-to-crown-a-goat",
-        "summary": "梅原大吾表示对《街头霸王6》现状并非不满，但认为其“随机”风格让现代赛事中难以决出最佳选手。",
-        "comment": "高手视角揭示竞技与休闲平衡的深层矛盾。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/30/daigo-ign-interview-evo-2026-street-fighter-6-1782853539581.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "诺兰",
-        "title": "诺兰《奥德赛》推出官方Roblox联动游戏",
-        "link": "https://www.ign.com/articles/christopher-nolans-the-odyssey-gets-official-roblox-tie-in-game",
-        "summary": "克里斯托弗·诺兰执导的《奥德赛》电影与Roblox合作，推出官方联动游戏，现已可游玩。",
-        "comment": "电影与游戏跨界联动，拓展IP影响力。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/30/the-odyssey-roblox-1782852962261.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "IO Interactive裁员，幻想RPG项目受挫",
-        "link": "https://www.gamespot.com/articles/hitman-007-first-light-studio-begins-layoffs-as-its-fantasy-rpg-project-suffers-setbacks/",
-        "summary": "《杀手》与《007 First Light》开发商IO Interactive因幻想RPG项目遭遇挫折而开始裁员，成为最新一家受行业裁员潮影响的工作室。",
-        "comment": "行业寒冬持续，IO Interactive也未能幸免。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/project-fantasy-art-io-interactive-cropped.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "微软",
-        "title": "微软或取消漫威刀锋战士游戏并关闭开发商",
-        "link": "https://www.gamespot.com/articles/microsoft-could-cancel-marvels-blade-and-close-its-developer/",
-        "summary": "据The Verge报道，微软正考虑取消即将推出的漫威刀锋战士游戏，并关闭其开发商。",
-        "comment": "微软战略调整或影响漫威IP游戏布局。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/bladegame.png?w=300",
-        "score": 93
-      },
-      {
         "category": "游戏影视",
         "tag": "恋与深空",
-        "title": "《恋与深空》因粉丝反对取消新角色瓦尔科",
+        "title": "《恋与深空》因粉丝反对取消新恋爱角色",
         "link": "https://www.gamespot.com/articles/love-and-deepspace-cancels-its-new-love-interest-after-fan-backlash/",
-        "summary": "《恋与深空》开发商Papergames宣布新增恋爱对象瓦尔科后，遭遇粉丝强烈抵制，最终决定取消该角色。",
-        "comment": "粉丝意见主导游戏内容走向。",
+        "summary": "《恋与深空》开发商Papergames宣布新增恋爱角色Valko后，遭粉丝强烈反对，最终取消该角色。",
+        "comment": "粉丝意见主导游戏内容调整。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Love-and-Deepspace-Valko.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏立法",
+        "tag": "游戏",
         "title": "ESA代表称《我的世界》《使命召唤》社区服务器“非法”",
         "link": "https://www.gamespot.com/articles/minecraft-call-of-duty-community-servers-are-illegal-claims-esa-rep/",
         "summary": "加州州参议院否决了《保护我们的游戏法案》，该法案由“停止扼杀游戏”运动支持。ESA代表声称社区服务器非法，引发争议。",
@@ -227,7 +97,7 @@
         "tag": "GTA 6",
         "title": "GTA 6粉丝确信游戏有健身系统，原因在此",
         "link": "https://www.gamespot.com/articles/gta-6-fans-are-convinced-the-game-has-a-bodybuilding-system-and-heres-why/",
-        "summary": "在等待GTA 6下一支预告片期间，粉丝们仔细研究了最新一批截图中的细节，发现游戏可能包含健身系统。",
+        "summary": "在等待GTA 6下一部预告片期间，粉丝们仔细研究了最新截图中的细节，其中一项信息让他们相信游戏将包含健身系统。",
         "comment": "粉丝挖掘细节，健身系统或成新亮点。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Jason_Duval_06.jpg?w=300",
         "score": 92
@@ -237,100 +107,50 @@
         "tag": "小岛秀夫",
         "title": "小岛秀夫Xbox独占恐怖游戏OD据报不受微软裁员影响",
         "link": "https://www.gamespot.com/articles/hideo-kojimas-od-is-reportedly-safe-from-upcoming-xbox-cuts/",
-        "summary": "据GameSpot报道，小岛秀夫为Xbox开发的独占恐怖游戏OD，在近期微软工作室关闭、裁员和游戏取消的传闻中，据称安全无虞。",
-        "comment": "OD项目幸存，但Xbox生态动荡未止。",
+        "summary": "据报道，在微软Xbox部门面临工作室关闭、裁员和游戏取消的背景下，小岛秀夫的Xbox主机独占恐怖游戏OD未受影响，项目安全。",
+        "comment": "OD项目安全，但Xbox整体调整仍需关注。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/OD-Not-Canceled.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox聚焦最高优先级，称未削减游戏总支出",
-        "link": "https://www.gamespot.com/articles/xbox-focusing-on-highest-priorities-claims-its-not-cutting-back-overall-spending-on-games/",
-        "summary": "微软确认退出资助《杀手》开发商IO Interactive的新奇幻游戏，原因是公司正重新调整支出，聚焦于最高优先级项目。",
-        "comment": "战略调整而非缩减，Xbox资源分配更聚焦。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xboxlogo_1ca9b6.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "地狱潜者2",
-        "title": "《地狱潜者2》发起“建墙”行动，政治隐喻引热议",
-        "link": "https://www.gamespot.com/articles/helldivers-2-gets-closer-to-modern-politics-with-campaign-to-build-a-wall/",
-        "summary": "《地狱潜者2》最新战役要求玩家协助建造“天界围栏”，以抵御Terminid威胁，此举被指影射现代政治议题。",
-        "comment": "游戏政治讽刺再升级，玩家参与感强。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Helldivers-2-Wall-Building-Campaign.jpg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "vivo",
-        "title": "vivo TWS 5 Pro耳机体验：Hi-Fi音质回归",
+        "title": "vivo TWS 5 Pro耳机体验：Hi-Fi手机回归之作",
         "link": "https://www.ifanr.com/1670431?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "vivo推出TWS 5 Pro耳机，延续其在Hi-Fi音频领域的传统，带来高品质无线音频体验。",
-        "comment": "vivo的Hi-Fi基因在无线耳机上重现，值得期待。",
+        "summary": "vivo TWS 5 Pro耳机以Hi-Fi音质为核心卖点，延续品牌音频技术优势，带来沉浸式听感体验。",
+        "comment": "vivo借TWS 5 Pro重拾Hi-Fi招牌，音频赛道再添变数。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "红魔",
-        "title": "红魔游戏平板5 Pro体验：9英寸掌机般的游戏平板",
-        "link": "https://www.ifanr.com/1670318?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "红魔游戏平板5 Pro以9英寸屏幕和游戏性能为核心，定位为便携游戏设备，兼顾平板功能，体验上优先满足游戏需求。",
-        "comment": "精准切入细分市场，游戏平板差异化竞争策略成功。",
+        "tag": "仿生机器人",
+        "title": "花99万买个仿生机器人谈恋爱，贵吗？",
+        "link": "https://www.ifanr.com/1670720?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "人形机器人，最难的不是像人，而是情感交互与成本控制。",
+        "comment": "高价仿生机器人仍是小众玩具。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI硬件",
-        "title": "Codex首款硬件曝光，AI务实与祛魅",
-        "link": "https://www.ifanr.com/1670396?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI公司Codex推出首款硬件产品，标志着AI技术从软件向硬件延伸，务实与祛魅成为关键词。",
-        "comment": "硬件化是AI落地的关键一步。",
-        "image": "",
-        "score": 91
+        "score": 90
       },
       {
         "category": "数码科技",
         "tag": "苹果",
         "title": "苹果涨价后很贵，但未来iPhone可能更贵",
         "link": "https://www.ifanr.com/1670412?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果产品价格持续上涨，未来iPhone可能进一步提价，消费者等待降价或难如愿。",
-        "comment": "涨价趋势下，等等党策略失效。",
+        "summary": "苹果iPhone持续涨价，但受成本上升等因素影响，未来价格可能进一步攀升，消费者等待降价或难实现。",
+        "comment": "涨价趋势难逆，消费者需理性看待。",
         "image": "",
-        "score": 90
+        "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "飞机事故",
-        "title": "北京一飞机撞上大楼，中国未公布详情",
+        "tag": "北京",
+        "title": "北京一飞机撞上大楼，中方未公布详情",
         "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
-        "summary": "碰撞导致大楼侧面留下孔洞，但北京已清除其他可见痕迹。",
-        "comment": "信息管控引发外界猜测。",
+        "summary": "碰撞导致大楼侧面出现孔洞，但北京已清除其他可见痕迹。",
+        "comment": "事件透明度不足，引发外界猜测。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "巴基斯坦",
-        "title": "巴基斯坦补习中心屋顶坍塌致14名儿童死亡",
-        "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
-        "summary": "拉合尔卡纳郊区一补习中心屋顶坍塌，造成14名儿童死亡，两人已被拘留。",
-        "comment": "安全监管缺失再次酿成惨剧。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国最高法院",
-        "title": "美国最高法院重挫特朗普，同时扩大其权力",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
-        "summary": "出生地公民权裁决为最高法院本任期画上句号，该任期给总统带来了一些关键胜利。",
-        "comment": "裁决凸显司法与行政的微妙博弈。",
-        "image": "",
-        "score": 87
       },
       {
         "category": "时事热点",
@@ -341,46 +161,6 @@
         "comment": "边境冲突加剧，地区安全风险上升。",
         "image": "",
         "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "瑞克和莫蒂",
-        "title": "瑞克和莫蒂新珠宝系列发布，腌黄瓜瑞克吊坠已售罄",
-        "link": "https://www.ign.com/articles/the-new-rick-morty-gld-jewelry-drop-is-here-and-the-pickle-pendant-is-already-sold",
-        "summary": "IGN报道，瑞克和莫蒂与GLD合作推出新珠宝系列，其中腌黄瓜瑞克造型吊坠迅速售罄，引发粉丝抢购热潮。",
-        "comment": "热门IP周边营销成功，限量策略见效。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/30/rick-and-morty-jewlery-blogroll-hp-1-1782863557587.png",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "亚马逊",
-        "title": "亚马逊Prime Video七月新内容上线",
-        "link": "https://www.ign.com/articles/whats-new-on-amazon-prime-video-july-2026",
-        "summary": "IGN报道亚马逊Prime Video将在2026年7月上线多部新影视作品，涵盖电影与剧集，具体片单待官方公布。",
-        "comment": "流媒体内容更新节奏稳定，但缺乏爆款预告。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/24/batmanthumb-1782309827201.png",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "迪士尼+",
-        "title": "迪士尼+七月新内容上线一览",
-        "link": "https://www.ign.com/articles/whats-new-on-disney-plus-july-2026",
-        "summary": "IGN报道迪士尼+平台2026年7月新增影视作品清单，包括多部原创剧集与经典电影，具体片单待官方公布。",
-        "comment": "暑期档内容储备，但缺乏爆款预告。",
-        "image": "https://assets-prd.ignimgs.com/2024/02/08/disney-plus-logo-background-1660165113633-1694375348278-1707353069577.jpg",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "美伊关系",
-        "title": "美国特使在多哈会见调解方，但不会见伊朗人",
-        "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
-        "summary": "卡塔尔外交部发言人表示，美伊之间未安排高层会晤或直接对话。",
-        "comment": "间接接触显示美伊关系仍处僵局。",
-        "image": "",
-        "score": 86
       }
     ]
   }
