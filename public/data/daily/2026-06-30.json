@@ -4,163 +4,73 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "开源",
-        "title": "开源智能体程序OpenClaw登陆安卓与iOS",
-        "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-        "summary": "免费开源智能体程序OpenClaw正式上线安卓和iOS平台，用户可在手机上使用其自主任务执行功能。",
-        "comment": "开源智能体进入移动端，加速AI民主化进程。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "前DeepMind三人组创办AI实验室，估值超5亿美元",
-        "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-        "summary": "由三位前DeepMind研究员创立的布拉格AI实验室EquiLibre Technologies，目前估值已超过5亿美元，其技术正用于量化对冲基金盈利。",
-        "comment": "从扑克AI到量化金融，技术落地路径清晰。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "ChatGPT",
-        "title": "OpenAI数据揭示ChatGPT全球采用增长趋势",
+        "title": "OpenAI数据揭示ChatGPT全球采用率增长",
         "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-        "summary": "OpenAI Signals数据显示，ChatGPT全球采用率持续增长，用户使用频率提升，功能探索增多，推动各地区和语言市场的扩张。",
-        "comment": "数据证实ChatGPT正从尝鲜走向深度使用。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI发布GeneBench-Pro基准测试",
-        "link": "https://openai.com/index/introducing-genebench-pro",
-        "summary": "OpenAI推出GeneBench-Pro，这是一个利用复杂真实世界数据集评估AI在基因组学、生物学和科学研究中表现的新基准。",
-        "comment": "推动AI在生命科学领域应用的关键评估工具。",
+        "summary": "OpenAI Signals数据显示，ChatGPT全球采用率持续增长，用户使用频率提升，功能探索增多，推动各地区和语言用户增长。",
+        "comment": "ChatGPT正从尝鲜走向深度使用。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI通过大规模核心转储分析修复18年旧漏洞",
-        "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-        "summary": "OpenAI工程师利用大规模核心转储分析调试罕见基础设施崩溃，发现硬件故障与一个存在18年的软件漏洞。",
-        "comment": "大规模数据分析在基础设施排障中展现强大威力。",
+        "title": "OpenAI发布Genebench-Pro内部研究",
+        "link": "https://openai.com/index/genebench-pro/case-studies",
+        "summary": "OpenAI公开Genebench-Pro基准测试案例研究，展示其评估生成模型性能的方法与结果。",
+        "comment": "基准测试透明度提升，利于行业对比。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI发布Genebench-Pro内部研究",
-        "link": "https://openai.com/index/genebench-pro/case-studies",
-        "summary": "OpenAI公开Genebench-Pro案例研究，展示其在基因基准测试中的最新进展与评估方法。",
-        "comment": "基准测试推动AI在基因领域应用标准化。",
+        "title": "OpenAI推出GeneBench-Pro基准测试",
+        "link": "https://openai.com/index/introducing-genebench-pro",
+        "summary": "OpenAI发布GeneBench-Pro，这是一个利用复杂真实世界数据集评估AI在基因组学、生物学和科学研究中表现的新基准。",
+        "comment": "推动AI在生命科学领域的实用化评估。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌推出更快更便宜的图像生成器Nano Banana 2 Lite",
-        "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-        "summary": "谷歌更新其图像生成器，提升速度并降低成本，使其成为创作者制作AI内容更实用的工具。",
-        "comment": "性价比提升或加速AI图像生成普及。",
+        "tag": "OpenAI",
+        "title": "OpenAI用大规模核心转储分析修复18年老漏洞",
+        "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+        "summary": "OpenAI工程师通过大规模核心转储分析，排查罕见基础设施崩溃，发现硬件故障与一个存在18年的软件漏洞。",
+        "comment": "系统化数据驱动调试的典范。",
         "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "恋与深空",
-        "title": "《恋与深空》因粉丝反对取消新恋爱角色",
-        "link": "https://www.gamespot.com/articles/love-and-deepspace-cancels-its-new-love-interest-after-fan-backlash/",
-        "summary": "《恋与深空》开发商Papergames宣布新增恋爱角色Valko后，遭粉丝强烈反对，最终取消该角色。",
-        "comment": "粉丝意见主导游戏内容调整。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Love-and-Deepspace-Valko.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "ESA代表称《我的世界》《使命召唤》社区服务器“非法”",
-        "link": "https://www.gamespot.com/articles/minecraft-call-of-duty-community-servers-are-illegal-claims-esa-rep/",
-        "summary": "加州州参议院否决了《保护我们的游戏法案》，该法案由“停止扼杀游戏”运动支持。ESA代表声称社区服务器非法，引发争议。",
-        "comment": "游戏社区服务器合法性争议再起，立法受挫。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1859/18599218/4655872-minecraft.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6粉丝确信游戏有健身系统，原因在此",
-        "link": "https://www.gamespot.com/articles/gta-6-fans-are-convinced-the-game-has-a-bodybuilding-system-and-heres-why/",
-        "summary": "在等待GTA 6下一部预告片期间，粉丝们仔细研究了最新截图中的细节，其中一项信息让他们相信游戏将包含健身系统。",
-        "comment": "粉丝挖掘细节，健身系统或成新亮点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Jason_Duval_06.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "小岛秀夫",
-        "title": "小岛秀夫Xbox独占恐怖游戏OD据报不受微软裁员影响",
-        "link": "https://www.gamespot.com/articles/hideo-kojimas-od-is-reportedly-safe-from-upcoming-xbox-cuts/",
-        "summary": "据报道，在微软Xbox部门面临工作室关闭、裁员和游戏取消的背景下，小岛秀夫的Xbox主机独占恐怖游戏OD未受影响，项目安全。",
-        "comment": "OD项目安全，但Xbox整体调整仍需关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/OD-Not-Canceled.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "vivo",
-        "title": "vivo TWS 5 Pro耳机体验：Hi-Fi手机回归之作",
-        "link": "https://www.ifanr.com/1670431?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "vivo TWS 5 Pro耳机以Hi-Fi音质为核心卖点，延续品牌音频技术优势，带来沉浸式听感体验。",
-        "comment": "vivo借TWS 5 Pro重拾Hi-Fi招牌，音频赛道再添变数。",
-        "image": "",
-        "score": 91
+        "score": 100
       },
       {
         "category": "数码科技",
         "tag": "仿生机器人",
         "title": "花99万买个仿生机器人谈恋爱，贵吗？",
         "link": "https://www.ifanr.com/1670720?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "人形机器人，最难的不是像人，而是情感交互与成本控制。",
-        "comment": "高价仿生机器人仍是小众玩具。",
+        "summary": "人形机器人，最难的不是像人，而是情感交互。爱范儿探讨仿生机器人作为伴侣的可行性与成本。",
+        "comment": "技术门槛高，情感价值更难量化。",
         "image": "",
-        "score": 90
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "vivo",
+        "title": "vivo TWS 5 Pro耳机体验：Hi-Fi音质回归",
+        "link": "https://www.ifanr.com/1670431?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "vivo TWS 5 Pro耳机以Hi-Fi音质为核心卖点，延续品牌音频技术优势，带来沉浸式听感体验。",
+        "comment": "vivo重拾Hi-Fi基因，耳机市场再添实力选手。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果涨价后很贵，但未来iPhone可能更贵",
+        "title": "苹果涨价后很贵，但以后的 iPhone 可能会更贵",
         "link": "https://www.ifanr.com/1670412?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果iPhone持续涨价，但受成本上升等因素影响，未来价格可能进一步攀升，消费者等待降价或难实现。",
-        "comment": "涨价趋势难逆，消费者需理性看待。",
+        "summary": "苹果产品价格持续上涨，未来iPhone可能进一步提价，消费者等待降价策略或难奏效。",
+        "comment": "涨价趋势下，等待降价可能不现实。",
         "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "北京",
-        "title": "北京一飞机撞上大楼，中方未公布详情",
-        "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
-        "summary": "碰撞导致大楼侧面出现孔洞，但北京已清除其他可见痕迹。",
-        "comment": "事件透明度不足，引发外界猜测。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "阿富汗",
-        "title": "阿富汗塔利班在巴阿边境发动袭击，紧张局势升级",
-        "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
-        "summary": "巴基斯坦军方称击落四架简易无人机，并警告将对任何进一步挑衅作出回应。",
-        "comment": "边境冲突加剧，地区安全风险上升。",
-        "image": "",
-        "score": 87
+        "score": 90
       }
     ]
   }
