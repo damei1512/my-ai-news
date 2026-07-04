@@ -4,11 +4,21 @@
     "articles": [
       {
         "category": "数码科技",
+        "tag": "外骨骼",
+        "title": "傲鲨创始人谈外骨骼：从科幻到户外装备，重新定义人机关系",
+        "link": "https://36kr.com/p/3880770270425089?f=rss",
+        "summary": "《流浪地球2》中的外骨骼正成为户外装备。7月4日，阳澄湖半岛，十几人身穿傲鲨VIATRIX外骨骼徒步，设备学习行走姿态后提供推力，使6公里徒步如City walk般轻松。",
+        "comment": "外骨骼从科幻走向现实，户外场景或成首个爆发点。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
         "tag": "阿里",
-        "title": "阿里内部全面禁用Claude Code；FF洛杉矶总部回应不实；微软砸25亿美元建AI新公司",
+        "title": "阿里内部禁用Claude Code；FF否认总部人去楼空；微软砸250亿美元建AI公司",
         "link": "https://36kr.com/p/3880629882679301?f=rss",
-        "summary": "阿里因植入后门风险全面禁用Claude Code；FF回应洛杉矶总部人去楼空传闻不实；微软投资25亿美元组建6000人AI新公司。三部门调整节能车、新能源车船税优惠，三星传获Meta超10万亿韩元AI芯片代工订单。",
-        "comment": "科技巨头AI布局加速，安全与合规成焦点。",
+        "summary": "阿里因后门风险全面禁用Claude Code；FF回应总部人去楼空传闻不实；微软投资250亿美元组建6000人AI新公司。",
+        "comment": "科技巨头加速AI布局，安全与合规成焦点。",
         "image": "",
         "score": 97
       },
@@ -17,20 +27,30 @@
         "tag": "硅光芯片",
         "title": "剑桥副教授创业硅光芯片，获一亿融资，已合作欧莱雅华为",
         "link": "https://36kr.com/p/3879991356157952?f=rss",
-        "summary": "硅基光电子集成芯片研发商光引科技完成1亿元Pre-A轮融资，投资方包括光子强链基金等，资金用于上海新实验室建设、人才招募及量产推进。公司2021年成立于徐州，核心团队孵化自剑桥大学。",
-        "comment": "产学研结合典范，硅光芯片商业化加速。",
+        "summary": "硅基光电子集成芯片研发商光引科技完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资等。资金用于上海新实验室建设、人才招募及量产推进。公司2021年成立于徐州，核心团队来自剑桥大学。",
+        "comment": "剑桥学术背景+产业巨头合作，硅光芯片赛道再获资本加持。",
         "image": "",
         "score": 97
       },
       {
+        "category": "游戏影视",
+        "tag": "DC",
+        "title": "DC开发《超人》衍生剧《了不起先生》",
+        "link": "https://www.ign.com/articles/mr-terrific-tv-show-in-the-works-with-pilot-from-the-sandman-alum",
+        "summary": "DC影业正基于超人配角、超级英雄天才“了不起先生”开发一部电视剧衍生作品，由《睡魔》编剧执笔试播集。",
+        "comment": "DC拓展宇宙边缘角色，策略值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/04/mr-terrific-tv-show-1783148509877.png",
+        "score": 94
+      },
+      {
         "category": "数码科技",
-        "tag": "MacBook",
-        "title": "史上最强MacBook即将发布，苹果全面押注AI",
+        "tag": "MacBook Pro",
+        "title": "史上最强MacBook Pro将至，苹果全面押注AI",
         "link": "https://www.ifanr.com/1670819?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "近5年MacBook Pro最大升级即将到来，苹果将全面投入AI领域，新机型性能与AI能力显著提升。",
-        "comment": "苹果AI战略加速，MacBook升级或成转折点。",
+        "summary": "苹果即将推出近5年最大升级的MacBook Pro，性能与AI能力大幅提升，标志其全面转向AI战略。",
+        "comment": "苹果AI布局加速，MacBook Pro成关键载体。",
         "image": "",
-        "score": 92
+        "score": 93
       },
       {
         "category": "数码科技",
@@ -38,9 +58,79 @@
         "title": "大疆影石专利战回国，阿里禁用Claude Code",
         "link": "https://www.ifanr.com/1670957?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "大疆与影石专利战蔓延至国内；阿里内部全面禁用Claude Code；茉莉奶白被判赔LV 1030万后月薪4万招法务。",
-        "comment": "科技与商业合规博弈加剧，企业需警惕专利与AI工具风险。",
+        "comment": "科技与商业纠纷频发，企业合规成本上升。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "K-pop",
+        "title": "Vol.124 摇摆听歌会：夏日女团大战深度解析",
+        "link": "https://www.gcores.com/radios/216753",
+        "summary": "本期节目通过观看预告、MV并综合评分，探讨K-pop女团大战的产业生态，剖析其作为行业风向标或毒瘤的不同视角。",
+        "comment": "K-pop生态的深度剖析，女团大战背后的产业逻辑。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "时事热点",
+        "tag": "伊朗",
+        "title": "伊朗开始为二月遇袭身亡的哈梅内伊举行公开哀悼",
+        "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+        "summary": "阿里·哈梅内伊的遗体将于周五在德黑兰大清真寺停放，随后进行为期数天的葬礼活动。",
+        "comment": "事件凸显伊朗高层权力交接的敏感性。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "热浪",
+        "title": "致命热浪席卷美国，独立日活动取消",
+        "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+        "summary": "超过1.65亿美国人正经历危险的高温高湿天气，气温预计将持续数日达到38摄氏度（100华氏度），华盛顿至费城等多地独立日庆祝活动被迫取消。",
+        "comment": "极端天气正成为公共活动的新常态威胁。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "阿尔巴尼亚",
+        "title": "“火烈鸟革命”席卷阿尔巴尼亚，数千人要求总理辞职",
+        "link": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
+        "summary": "因反对一项豪华开发项目，火烈鸟成为抗议的国家象征，引发大规模示威要求总理下台。",
+        "comment": "环保与政治诉求结合，抗议活动升级。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "秘鲁",
+        "title": "藤森庆子宣布赢得秘鲁总统大选",
+        "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+        "summary": "在投票近一个月后，前总统阿尔贝托·藤森的女儿藤森庆子被宣布赢得势均力敌的秘鲁总统选举。",
+        "comment": "秘鲁政局或面临新变数。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "印度",
+        "title": "印度西孟加拉邦学校午餐取消鸡蛋引发争议",
+        "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+        "summary": "西孟加拉邦决定在一些学校餐食中取消鸡蛋，引发关于营养与选择的广泛辩论。",
+        "comment": "营养政策不应被政治化，儿童健康优先。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "泰勒·斯威夫特",
+        "title": "泰勒·斯威夫特与特拉维斯·凯尔西在纽约完婚，亚当·桑德勒主持",
+        "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+        "summary": "这场世纪婚礼群星璀璨，歌手本森·布恩、演员休·格兰特、模特吉吉·哈迪德、演员伊桑·霍克等名人出席。",
+        "comment": "名人效应拉满，但新闻价值有限。",
+        "image": "",
+        "score": 82
       }
     ]
   }
