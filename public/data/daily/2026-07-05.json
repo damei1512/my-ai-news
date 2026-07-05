@@ -3,11 +3,21 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "亚马逊",
+        "title": "亚马逊将停止接受Mechanical Turk新客户",
+        "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+        "summary": "亚马逊宣布不再接受Mechanical Turk新客户注册，该众包平台可能面临终结。",
+        "comment": "众包数据标注模式或将迎来转折点。",
+        "image": "",
+        "score": 100
+      },
+      {
         "category": "数码科技",
         "tag": "机器人",
         "title": "忆生科技获数亿天使轮融资，为机器人造记忆系统",
         "link": "https://36kr.com/p/3882365879005186?f=rss",
-        "summary": "港大教授创立的忆生科技完成数亿元天使轮融资，投资方包括正大、浦东创投等。公司致力于从科学第一性原理出发，构建机器人“大脑+小脑”统一系统，实现感知-预测-交互闭环。",
+        "summary": "忆生科技完成数亿元天使轮融资，投资方包括正大旗下中生制药、浦东创投等。公司致力于从科学第一性原理出发，构建机器人“大脑+小脑”统一系统，探索下一代可解释自。",
         "comment": "机器人记忆系统赛道获资本青睐，技术路径值得关注。",
         "image": "",
         "score": 97
@@ -15,9 +25,9 @@
       {
         "category": "数码科技",
         "tag": "具身智能",
-        "title": "清华师兄弟创具身智能公司光象科技获数亿元天使融资",
+        "title": "清华师兄弟创具身智能公司光象科技，获数亿元天使融资",
         "link": "https://36kr.com/p/3882364132077577?f=rss",
-        "summary": "具身智能公司光象科技完成数亿元天使轮融资，由珠海科技产业集团、兴证资本等多家机构投资，资金将用于物理原生基座模型研发及具身智能机器人落地汽车产业。",
+        "summary": "具身智能公司光象科技完成累计数亿元天使轮融资，由珠海科技产业集团、兴证资本等多家机构参与，资金将用于物理原生基座模型研发及具身智能机器人落地汽车产业。",
         "comment": "清华系创业团队获资本青睐，具身智能加速产业落地。",
         "image": "",
         "score": 97
@@ -27,68 +37,98 @@
         "tag": "机器人",
         "title": "小米前高管唐沐创业咖啡机器人，获数亿融资",
         "link": "https://36kr.com/p/3882361033322755?f=rss",
-        "summary": "影智XBOT完成数亿元两轮融资，A轮2亿元由香港简坤资本GPTX出资，B轮3-5亿元由多支政府基金、美元基金和产业投资方参与，天使轮获林斌、黎万强投资，为餐饮垂直机器人领域最大融资之一。",
-        "comment": "明星团队加持，餐饮机器人赛道获资本重注。",
+        "summary": "影智XBOT完成数亿元两轮融资，A轮2亿元由香港简坤资本GPTX出资，B轮3-5亿元由多支政府基金、美元基金和产业投资方参与，为餐饮垂直机器人领域最大融资之一。",
+        "comment": "豪华资方背书，餐饮机器人赛道热度攀升。",
         "image": "",
         "score": 97
+      },
+      {
+        "category": "游戏影视",
+        "tag": "超级马力欧64",
+        "title": "《超级马力欧64》30年悬赏终揭晓",
+        "link": "https://www.ign.com/articles/the-mario-64-bounty-that-took-30-years-to-settle",
+        "summary": "IGN在30年前悬赏解锁《超级马力欧64》中的路易吉，如今终于结清这笔债务，揭示谜底。",
+        "comment": "一个跨越三十年的游戏谜题终得解答。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/30/luigi-thumb-new-1782826689873.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "动画",
+        "title": "《绿色百合》动画确认涅槃乐队歌曲为片头曲",
+        "link": "https://www.ign.com/articles/green-yuri-anime-confirms-nirvana-song-for-its-opening-theme-and-dave-grohl-says-kurt-cobain-would-have-loved-it",
+        "summary": "CloverWorks新作《她感兴趣的不是男生》（又名《绿色百合》）宣布使用涅槃乐队歌曲作为片头曲，戴夫·格罗尔称科特·柯本会喜欢这个选择。",
+        "comment": "经典摇滚与二次元跨界，情怀拉满。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/05/dave-grohl-green-yuri-1783267002971.png",
+        "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "初音未来",
         "title": "初音未来新EP《BEYOND BORDERS Vol.1》详情与预告独家公开",
         "link": "https://www.ign.com/articles/exclusive-first-details-and-trailer-revealed-for-beyond-borders-vol1-emerge-mode-miku-a-new-ep-featuring-hatsune-miku-singing-with-grimes-slayr-and-more",
-        "summary": "IGN独家披露初音未来合作EP《BEYOND BORDERS Vol.1: EMERGE MODE MIKU》详情及预告片，该专辑将让虚拟歌姬初音未来与Grimes、slayr等艺人合唱。",
-        "comment": "虚拟偶像跨界合作再升级，音乐边界被打破。",
+        "summary": "IGN独家披露初音未来合作EP《BEYOND BORDERS Vol.1: EMERGE MODE MIKU》详情及预告，该专辑将邀请Grimes、slayr等艺人共同演绎。",
+        "comment": "虚拟歌姬跨界合作再升级，音乐与科技融合新尝试。",
         "image": "https://assets-prd.ignimgs.com/2026/07/03/hatsunebr-1783084115704.png",
         "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "英雄联盟",
-        "title": "TES全败出局创历史：MSI首负越南战队",
+        "title": "TES战队MSI不敌越南TSW，创LPL耻辱纪录",
         "link": "https://www.gcores.com/articles/216772",
-        "summary": "《英雄联盟》2026年MSI中，LPL的TES战队1比3不敌越南TSW，止步败者组首轮。此前TES在2比0领先G2后被让二追三，创下LPL在BO5中首负越南战队、MSI正赛首次让二追三两项纪录。",
-        "comment": "LPL赛区耻辱性纪录，暴露队伍心态与战术短板。",
+        "summary": "《英雄联盟》2026年MSI赛事中，LPL赛区TES战队以1比3不敌LCP赛区越南TSW战队，止步败者组第一轮。此前TES曾2比0领先G2后被让二追三，创下LPL赛区BO5首负越南战队、MSI正赛首次让二追三等纪录。",
+        "comment": "TES用两场溃败书写了LPL赛区最黑暗的一页。",
         "image": "",
         "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "苏联美学",
+        "title": "苏联美学Vol.19：奥斯特洛夫斯基与《钢铁是怎样炼成的》",
+        "link": "https://www.gcores.com/radios/216334",
+        "summary": "1932年，尼古拉-奥斯特洛夫斯基在强直性脊柱炎导致全身骨化、接近失明的情况下，与编辑争论后写出《钢铁是怎样炼成的》。本期节目探讨其创作动力。",
+        "comment": "以生命书写钢铁意志的传奇。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
         "title": "对话游戏UP主Shi咪：把爱好当职业会痛苦",
         "link": "https://www.gcores.com/radios/216773",
-        "summary": "本期核电波邀请游戏区UP主Shi咪，分享她喜欢的游戏、成为UP主的原因，以及把爱好变成事业的感悟。",
-        "comment": "爱好变职业，需要承受现实压力。",
+        "summary": "机核播客邀请游戏区UP主Shi咪，分享喜欢的游戏、成为UP主的原因及把爱好变成事业的感悟。",
+        "comment": "爱好变职业的代价，值得每个创作者深思。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "台风",
-        "title": "超级台风巴威逼近关岛，居民紧急撤离",
+        "title": "超强台风巴威逼近关岛，居民紧急撤离",
         "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
         "summary": "台风巴威预计周一登陆，带来超过160英里/小时的强风和近11米高的巨浪，关岛已启动疏散行动。",
-        "comment": "台风强度罕见，关岛防灾准备面临严峻考验。",
+        "comment": "台风强度罕见，关岛防灾压力巨大。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "地下教会",
+        "tag": "时事热点",
         "title": "中国地下教会领袖金明日获释",
         "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
         "summary": "锡安教会创始人金明日获释，此前特朗普曾直接向习近平提出请求。",
-        "comment": "宗教问题与外交博弈交织的典型案例。",
+        "comment": "宗教问题与外交博弈交织。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "伊朗",
-        "title": "伊朗最高领袖缺席高级官员参加阿亚图拉葬礼",
+        "title": "伊朗最高领袖缺席高级官员葬礼",
         "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-        "summary": "哈梅内伊之子穆杰塔巴在父亲葬礼上明显缺席，引发对其健康状况的猜测。",
-        "comment": "缺席葬礼加剧权力交接不确定性。",
+        "summary": "自美以对伊战争开始、其父遇袭身亡后，莫杰塔巴·哈梅内伊未公开露面。",
+        "comment": "领袖缺席凸显伊朗权力交接不确定性。",
         "image": "",
         "score": 87
       },
@@ -107,8 +147,18 @@
         "tag": "美国",
         "title": "美国250周年庆典：烟花、飞行表演与极端天气",
         "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统特朗普在演讲中提及部分政治议程，同时向战争老兵和美国历史致敬。",
+        "summary": "美国总统特朗普在庆典演讲中提及部分政治议程，同时向战争老兵和美国历史致敬。",
         "comment": "庆典融合政治议程与历史致敬，极端天气成意外插曲。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "泰勒·斯威夫特",
+        "title": "泰勒与特拉维斯婚礼：从“美丽夜晚”到“最严重宿醉”",
+        "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+        "summary": "多位知名宾客在社交媒体上分享了纽约婚礼现场的动态，描述从浪漫到狂欢的转变。",
+        "comment": "名人婚礼的社交传播效应显著。",
         "image": "",
         "score": 86
       },
@@ -117,10 +167,30 @@
         "tag": "太空垃圾",
         "title": "澳大利亚调查海滩神秘太空球残骸",
         "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-        "summary": "官员正在搜寻在昆士兰福雷斯特海滩发现的六块太空碎片来源。",
-        "comment": "太空垃圾问题日益凸显，需加强追踪。",
+        "summary": "澳大利亚官员正在调查昆士兰州福雷斯特海滩发现的六块太空碎片来源。",
+        "comment": "太空垃圾追踪与回收需全球协作。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "佛得角",
+        "title": "佛得角足球队世界杯惊艳表现后获数千球迷欢迎",
+        "link": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
+        "summary": "数万名球迷在首都普拉亚机场外形成蓝色海洋，欢迎佛得角足球队世界杯惊艳表现后回国。",
+        "comment": "小国足球奇迹，民众热情高涨。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "航空安全",
+        "title": "芝加哥降落时飞机遭烟花击中",
+        "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
+        "summary": "一架载有52名乘客和6名机组人员的飞机在芝加哥降落时被烟花击中，未报告人员受伤。",
+        "comment": "事件虽无伤亡，但凸显烟花对航空安全的潜在威胁。",
+        "image": "",
+        "score": 83
       }
     ]
   }
