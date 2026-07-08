@@ -4,41 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta发布新AI图像生成器Muse，用户因照片使用问题反对",
-        "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-        "summary": "新图像生成模型可用于广告、装饰及创作者机会，但用户对照片使用方式表示担忧。",
-        "comment": "用户隐私与AI创新之间的平衡再次成为焦点。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "微软加入AI降本趋势，更多依赖自研模型",
-        "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-        "summary": "微软成为最新一家削减AI支出的硅谷巨头，通过更多使用自家模型来降低成本。",
-        "comment": "自研模型降本，微软战略转向务实。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "自主车辆",
-        "title": "美国首批自主地面车辆在乌克兰投入作战",
-        "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-        "summary": "Forterra已在乌克兰冲突地区部署超过100辆自动驾驶全地形车，用于实战任务。",
-        "comment": "无人地面载具实战化迈出关键一步。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "澳大利亚支付Plus借助ChatGPT与Codex加速支付处理",
+        "title": "澳大利亚支付Plus借助ChatGPT和Codex加速处理支付复杂性",
         "link": "https://openai.com/index/australian-payments-plus",
-        "summary": "澳大利亚支付Plus（AP+）利用ChatGPT Enterprise和Codex应对支付复杂性，节省时间、提升质量，并保持人类判断的核心地位。",
-        "comment": "AI在金融支付领域的务实应用，效率与人工监督并重。",
+        "summary": "澳大利亚支付Plus使用ChatGPT Enterprise和Codex提升支付处理效率，节省时间、提高质量，并保持人类判断的核心地位。",
+        "comment": "AI在金融支付领域的实用案例，效率与质量双提升。",
         "image": "",
         "score": 100
       },
@@ -47,130 +17,30 @@
         "tag": "人工智能",
         "title": "三菱日联金融集团借助OpenAI打造AI原生组织",
         "link": "https://openai.com/index/mufg",
-        "summary": "MUFG采用ChatGPT Enterprise构建AI原生组织，优化工作流程并规模化提供AI驱动的金融服务。",
-        "comment": "金融巨头加速AI转型，行业标杆效应显著。",
+        "summary": "MUFG采用ChatGPT企业版，构建AI原生组织，优化工作流程，并大规模提供AI驱动的金融服务。",
+        "comment": "金融巨头加速AI转型，行业标杆案例。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "开源AI",
-        "title": "开源AI崛起为何尚未冲击Anthropic",
-        "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-        "summary": "开源模型的成功并未损害前沿实验室，两者似乎分别抓住了同一生命周期的两个阶段。",
-        "comment": "开源与闭源正形成互补而非替代关系。",
+        "category": "数码科技",
+        "tag": "农业机器人",
+        "title": "极飞发布空中及地面农业机器人，打农药基本无需人力",
+        "link": "https://www.ifanr.com/1671223?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "极飞推出空中与地面农业机器人，实现农药喷洒等农活自动化，大幅减少人力需求。",
+        "comment": "农业自动化再进一步，机器人替代人力成趋势。",
         "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "Discord承认AI审核漏洞误封用户",
-        "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-        "summary": "Discord确认自5月起AI审核系统误将无害图片视为违规，导致用户被封禁，周末又有200人受影响，现已修复。",
-        "comment": "AI审核仍需人工复核，避免误伤。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Claude Cowork 扩展至移动端与网页端",
-        "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-        "summary": "用户可在桌面端启动任务，通过手机获取状态更新，并在笔记本电脑关闭后继续接收完成结果。",
-        "comment": "跨设备无缝协作，提升AI工作流灵活性。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI诈骗",
-        "title": "Savi应用获700万美元融资，防范AI诈骗如绑架勒索",
-        "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-        "summary": "Savi公司获得700万美元种子轮融资，并于周二在iPhone和Android平台推出其应用，旨在保护消费者免受逼真的AI诈骗，如绑架勒索。",
-        "comment": "AI诈骗防护市场迎来新玩家，融资助力快速落地。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "微软",
-        "title": "微软豪掷800亿美元押注XGP，但未达预期",
-        "link": "https://www.gamespot.com/articles/microsoft-spent-80-billion-on-its-bet-for-xbox-game-pass-it-did-not-work/",
-        "summary": "新报告揭示微软Xbox部门裁员3200人、剥离工作室的背后原因，其投入800亿美元的Game Pass战略未能实现预期目标。",
-        "comment": "巨额投入未能换来市场主导地位。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/GamePass.webp?w=300",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "索尼",
-        "title": "索尼宣布2028年停止PlayStation光盘支持",
-        "link": "https://www.gamespot.com/articles/sony-tries-to-change-the-subject-after-killing-playstation-discs/",
-        "summary": "索尼在7月初意外宣布，计划于2028年初结束对PlayStation游戏光盘的支持。消息发布后，索尼试图转移话题。",
-        "comment": "数字转型加速，但玩家反应强烈。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1813/18138562/4375978-4365368-playstation5pro.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Xbox撤资后，《杀手》开发商关闭工作室并裁员",
-        "link": "https://www.gamespot.com/articles/after-xbox-pulls-funding-hitman-dev-is-closing-a-studio-and-laying-people-off/",
-        "summary": "《杀手》和《007：初光》开发商IO Interactive确认关闭伊斯坦布尔办公室并裁员，作为削减成本的一部分。",
-        "comment": "行业寒冬持续，大厂撤资波及精品工作室。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/007firstlight.jpg?w=300",
-        "score": 93
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "具身智能",
         "title": "机器人进产线打工，至简动力推动具身智能落地",
         "link": "https://www.ifanr.com/1671185?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "具身智能机器人进入工厂产线实际应用，至简动力致力于将技术从概念转化为现实，推动行业进步。",
-        "comment": "从PPT到产线，具身智能迈出关键一步。",
+        "summary": "具身智能公司至简动力让机器人进入产线实际工作，推动技术从概念走向应用，实现产业进步。",
+        "comment": "具身智能进厂打工是务实突破。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《Arc Raiders》匹配更新上线，玩家期待已久",
-        "link": "https://www.gamespot.com/articles/arc-raiders-matchmaking-update-gives-players-what-theyve-always-wanted/",
-        "summary": "《Arc Raiders》最新更新现已推出，开放了远征4窗口，并预告与Embark旗下FPS游戏《The Finals》的联动活动。",
-        "comment": "匹配机制优化是玩家核心诉求，此次更新直击痛点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/ARCRaiders_ScreenShot_TT2_11.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "《大学橄榄球27》引发玩家强烈不满",
-        "link": "https://www.gamespot.com/articles/college-football-27-is-pissing-everyone-off/",
-        "summary": "EA重启的《大学橄榄球》系列新作中，多数玩家偏爱王朝或荣耀之路模式，但游戏平衡与内容问题导致广泛批评。",
-        "comment": "模式选择失衡，玩家体验受损。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/ss_23049cf2d6ed29b1351528e0b243458b363abf35.1920x1080-1.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "农业机器人",
-        "title": "极飞发布空中及地面农业机器人，打农药不再需要人力",
-        "link": "https://www.ifanr.com/1671223?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "极飞推出空中和地面农业机器人，实现农药喷洒自动化，大幅减少人力参与，提升农业效率。",
-        "comment": "农业自动化迈出关键一步，机器人替代人力已成趋势。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "Marshall BROMLEY 450派对音响：40小时续航，麦克风吉他可一包带走",
-        "link": "https://www.ifanr.com/1671062?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Marshall推出BROMLEY 450派对音响，具备音效与灯效，续航长达40小时，支持麦克风和吉他连接，便于携带，适合街头艺人和露营爱好者。",
-        "comment": "功能全面，续航出色，便携设计值得关注。",
-        "image": "",
-        "score": 91
       }
     ]
   }
