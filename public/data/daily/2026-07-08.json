@@ -3,12 +3,42 @@
     "week": "周三",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "法国AI创企ZML发布免费产品加速多芯片推理",
+        "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+        "summary": "获图灵奖得主Yann LeCun背书的法国AI初创公司ZML推出ZML/LLMD软件，旨在降低AI运行成本，提升多芯片推理速度。",
+        "comment": "开源策略或推动AI推理成本下降。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI芯片",
+        "title": "AI芯片公司SambaNova以110亿美元估值融资10亿",
+        "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+        "summary": "AI芯片制造商SambaNova在英特尔传闻以约16亿美元收购其数月后，以110亿美元估值完成10亿美元融资。",
+        "comment": "估值飙升反映AI芯片赛道持续火热。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI视频",
+        "title": "AI视频全面成熟：Seedance 2.0领衔，6款主流工具深度横评",
+        "link": "https://36kr.com/p/3886403765596418?f=rss",
+        "summary": "2026年，AI视频生成赛道进入全面爆发期，Seedance 2.0出圈引发全民关注。工具从碎片化模糊画面迭代至分钟级长视频连贯叙事，完成从“能用”到“专业”的三级跳，大幅降低创意落地门槛。",
+        "comment": "AI视频工具已从玩具变为生产力，专业级应用时代到来。",
+        "image": "",
+        "score": 98
+      },
+      {
         "category": "数码科技",
         "tag": "3D打印",
-        "title": "快造科技完成10亿元融资，创消费级3D打印最大单笔融资",
+        "title": "快造科技完成10亿元融资，创消费级3D打印最大单笔纪录",
         "link": "https://36kr.com/p/3885728813691145?f=rss",
         "summary": "消费级3D打印企业快造科技完成10亿元新一轮融资，由凯辉基金领投，好未来跟投，美团、高瓴等老股东追投，为2025年消费硬件赛道最大单笔融资之一。",
-        "comment": "消费级3D打印赛道迎来资本强心针。",
+        "comment": "资本加码消费级3D打印，市场信心显著回升。",
         "image": "",
         "score": 98
       },
@@ -17,8 +47,8 @@
         "tag": "量子传感",
         "title": "量子传感企业量感智能获数千万元天使轮融资",
         "link": "https://36kr.com/p/3886301334630407?f=rss",
-        "summary": "量感智能完成数千万元天使轮融资，由上海国投旗下孚腾资本领投，六禾创投跟投。公司成立于2023年，聚焦量子传感，产品已落地惯性导航、气体监测等领域，并同步研发量子AI技术。",
-        "comment": "量子传感商业化加速，惯性导航等场景落地值得关注。",
+        "summary": "量感智能完成数千万元天使轮融资，由孚腾资本领投，六禾创投跟投。公司成立于2023年，源自上海交大量子感知研究所，产品已落地惯性导航、气体监测等领域，并布局量子AI技术。",
+        "comment": "量子传感从实验室走向市场，融资加速产业化落地。",
         "image": "",
         "score": 97
       },
@@ -27,28 +57,88 @@
         "tag": "AI制药",
         "title": "德睿智药获5200万美元B轮融资，AI减肥药进入3期临床",
         "link": "https://36kr.com/p/3885479689465858?f=rss",
-        "summary": "德睿智药完成5200万美元B轮融资，资金将用于升级AI制药引擎MAP，完善多智能体协同体系与临床数据闭环，推进自研AI减肥药进入3期临床。",
+        "summary": "德睿智药完成5200万美元B轮融资，资金将用于升级AI制药引擎MAP，完善多智能体协同体系与临床数据闭环，推进自研减肥药3期临床。",
         "comment": "AI制药赛道持续升温，临床进展是关键验证。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
-        "tag": "华为",
-        "title": "前华为天才少年吐槽DeepSeek面试；苹果折叠屏量产；特朗普呼吁买戴尔",
-        "link": "https://36kr.com/p/3886238403129353?f=rss",
-        "summary": "前华为天才少年吐槽DeepSeek面试官质疑其抄袭；苹果折叠屏已进入量产阶段；特朗普呼吁购买戴尔电脑致其市值暴涨百亿美元。",
-        "comment": "科技圈热点频出，面试争议与产品动态并存。",
+        "tag": "地产AI",
+        "title": "深度智联推地产模数通一体机，加速AI产品落地",
+        "link": "https://36kr.com/p/3886709249241349?f=rss",
+        "summary": "易居旗下深度智联发布地产模数通一体机，并让AI分析师小瑞上岗。此前已推出经纪人智能体小新，以中立无佣模式替代传统中介，加速地产AI落地。",
+        "comment": "地产AI从概念进入产品化竞争阶段。",
         "image": "",
         "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "人工智能",
+        "title": "德国AI推动创企增长；雷军回应SkyNomad上市；SpaceX开放Grok4.5",
+        "link": "https://36kr.com/p/3886678879727880?f=rss",
+        "summary": "德国人工智能推动初创企业创纪录增长；雷军回应小米汽车新系列SkyNomad上市时间称“快了”；必和必拓工人将罢工8小时；SpaceX AI将于明日向公众开放Grok4.5。",
+        "comment": "AI与汽车领域动态密集，科技行业竞争持续升温。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "高端机床",
+        "title": "五粮液基金领投，国产高端机床企业星合获数亿元融资",
+        "link": "https://36kr.com/p/3886400975040520?f=rss",
+        "summary": "高端机床企业上海星合完成数亿元融资，由五粮液基金领投，麦格米特跟投，资金将用于高端磨齿机、磨床、铣床等研发及海外商业化。",
+        "comment": "跨界资本入局，国产高端机床加速突围。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "科技",
+        "title": "前华为天才少年吐槽DeepSeek面试，苹果折叠屏量产，特朗普喊买戴尔",
+        "link": "https://36kr.com/p/3886238403129353?f=rss",
+        "summary": "前华为天才少年吐槽DeepSeek面试官质疑其抄袭；苹果折叠屏已进入量产阶段；特朗普呼吁购买戴尔电脑，戴尔市值暴涨百亿美元。",
+        "comment": "科技圈热点频出，面试争议与市场反应同样值得关注。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "亚马逊",
+        "title": "亚马逊Audible会员日优惠延长：每月1美元获20美元积分",
+        "link": "https://www.ign.com/articles/amazon-prime-day-audible-deal-for-june-2026",
+        "summary": "抓住机会获取Rebecca Yarros、Brandon Sanderson、Suzanne Collins等作者的最新有声书。",
+        "comment": "优惠延长对有声书爱好者是利好消息。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/25/audible-1782406008718.jpg",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "保时捷",
+        "title": "保时捷Taycan与纯电Macan断档，纯电战略受挫",
+        "link": "https://www.ifanr.com/1671212?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "保时捷纯电车型Taycan和Macan面临生产断档，市场表现不佳，纯电转型遇阻。",
+        "comment": "起大早赶晚集，保时捷纯电之路需加速。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
         "title": "曝苹果折叠屏iPhone量产，DeepSeek或自研AI芯片",
         "link": "https://www.ifanr.com/1671233?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果折叠屏iPhone被曝已进入量产阶段；DeepSeek可能自研AI推理芯片；今年618手机销量同比下滑13%。小米调整小爱同学架构，立讯精密本周上市，华强北商家称图纸泄露也造不出真iPhone。",
-        "comment": "折叠屏iPhone量产消息或重塑高端市场格局。",
+        "summary": "苹果折叠屏iPhone被曝已进入量产阶段，DeepSeek可能自研AI推理芯片，今年618手机销量同比下滑13%。小米调整小爱同学架构，立讯精密本周上市，华强北商家称图纸泄露也造不出真iPhone。",
+        "comment": "折叠屏iPhone量产信号强烈，AI芯片自研成趋势。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "黑曜石",
+        "title": "黑曜石裁员25%，《天外世界》美术总监离职",
+        "link": "https://www.gcores.com/articles/216896",
+        "summary": "据Kotaku报道，黑曜石娱乐在微软裁员中约60-70人被裁，占总员工25%，涵盖多个岗位，包括《天外世界》美术总监等资深开发者被迫离开。",
+        "comment": "微软裁员波及黑曜石，资深人才流失令人担忧。",
         "image": "",
         "score": 92
       },
@@ -57,18 +147,88 @@
         "tag": "游戏",
         "title": "id Software裁员近半，资深员工被波及",
         "link": "https://www.gcores.com/articles/216874",
-        "summary": "据Game Developer报道，id Software在Xbox裁员中裁撤约95人，占团队一半，主要涉及程序员、QA等技术岗位，包括多位资深开发人员。",
-        "comment": "老牌工作室遭重创，技术人才流失严重。",
+        "summary": "据Game Developer报道，id Software在Xbox裁员中裁撤约95人，占团队一半，主要涉及程序员、QA等岗位，包括多位资深开发人员。",
+        "comment": "经典工作室遭重创，技术团队流失严重。",
         "image": "",
         "score": 92
       },
       {
+        "category": "数码科技",
+        "tag": "OpenAI",
+        "title": "曾当面怼马斯克的刺头也离开OpenAI",
+        "link": "https://www.ifanr.com/1671340?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "一位曾当面与马斯克激烈争论的知名人物，现已从OpenAI离职，引发行业关注。",
+        "comment": "OpenAI人才流失持续，内部矛盾或加剧。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "马斯克",
+        "title": "马斯克不造iPhone，但想让手机替你赚钱",
+        "link": "https://www.ifanr.com/1671272?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "马斯克提出新概念，让手机成为赚钱工具，而非单纯消费设备，引发科技界关注。",
+        "comment": "概念超前，但落地仍需时间验证。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "小米",
+        "title": "小米增程子品牌定名SkyNomad，首款新车即将亮相",
+        "link": "https://www.ifanr.com/1671289?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "小米增程子品牌定名SkyNomad，首款新车即将亮相，目标对标享界，主打年轻露营市场。",
+        "comment": "小米布局增程市场，SkyNomad定位精准。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "用美国豆包做app，停不下来",
+        "link": "https://www.ifanr.com/1671236?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AI技术赋能应用开发，通过美国豆包工具快速制作app，体验高效便捷，引发持续创作热情。",
+        "comment": "豆包工具降低开发门槛，AI助力创意落地。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "恋与深空",
+        "title": "《恋与深空》退出BW2026，制作团队致歉并全额补偿玩家损失",
+        "link": "https://www.gcores.com/articles/216901",
+        "summary": "《恋与深空》制作团队宣布退出BilibiliWorld 2026展会，承诺全额补偿玩家因取消行程产生的门票、机票、火车票及酒店退订损失，并开展人员培训和自查自纠。",
+        "comment": "全额补偿玩家损失，态度诚恳但需行动验证。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "红色沙漠",
+        "title": "Pearl Abyss携《红色沙漠》参展2026科隆游戏展",
+        "link": "https://www.gcores.com/articles/216898",
+        "summary": "Pearl Abyss宣布参展2026科隆游戏展，与三星合作在9.1号展厅B020–C029展位提供《红色沙漠》沉浸式体验，使用三星最新游戏显示器，并分享开发幕后。",
+        "comment": "强强联合，技术展示与玩家体验并重。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "最终幻想7",
+        "title": "手游《最终幻想7 永恒危机》宣布2026年10月停服",
+        "link": "https://www.gcores.com/articles/216885",
+        "summary": "SE出品的手游《最终幻想7 永恒危机》宣布将于2026年10月7日停服。该游戏2023年9月开服，12月上线Steam版，重构了《最终幻想VII》及补完计划所有故事时间线。",
+        "comment": "运营不足三年，SE手游生命周期再缩短。",
+        "image": "",
+        "score": 91
+      },
+      {
         "category": "游戏影视",
         "tag": "英伟达",
-        "title": "英伟达发布610.74驱动，优化《刺客信条：黑旗》及《毁灭战士》新作",
+        "title": "英伟达发布610.74驱动，支持《刺客信条：黑旗》及《毁灭战士》新作",
         "link": "https://www.gcores.com/articles/216869",
         "summary": "英伟达发布610.74 Game Ready驱动，为《刺客信条：黑旗 记忆重置》和《毁灭战士：黑暗时代 启示录》提供首发日DLSS多帧生成和路径追踪支持。",
-        "comment": "驱动更新紧跟大作，DLSS技术成新标配。",
+        "comment": "驱动更新及时，新作光追性能值得期待。",
         "image": "",
         "score": 91
       },
@@ -77,9 +237,29 @@
         "tag": "索尼",
         "title": "索尼未提前通知合作伙伴将停产光盘",
         "link": "https://www.gcores.com/articles/216880",
-        "summary": "据High Chaos Run报道，索尼在宣布2028年停止实体光盘生产前，未通知发行商、商业伙伴或区域分支机构，导致实体发行员工可能面临失业。",
-        "comment": "信息封锁暴露了索尼内部沟通的严重问题。",
+        "summary": "据High Chaos Run报道，索尼在宣布2028年停止实体光盘生产前，未通知发行商、商业伙伴或区域分支机构。一家大型3A发行商高管称未提前获悉，实体发行员工或面临失业。",
+        "comment": "索尼信息封锁或加剧合作伙伴信任危机。",
         "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "速度与激情",
+        "title": "《速度与激情11》尚未开拍，范·迪塞尔视频疑为世界杯宣传",
+        "link": "https://www.ign.com/articles/fast-furious-11-reportedly-not-in-production-yet",
+        "summary": "据IGN报道，范·迪塞尔近日发布的片场动态实际与《速度与激情11》无关，而是为FIFA世界杯制作的宣传物料，该片目前尚未进入制作阶段。",
+        "comment": "系列续集进度滞后，宣传物料易被误读。",
+        "image": "https://assets-prd.ignimgs.com/2023/05/21/fastxfinaltrailer-ign-blogroll-1684174229059-1684690462181.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "健身",
+        "title": "Yoleo健身椅不到38美元，扩展家庭健身房",
+        "link": "https://www.ign.com/articles/expand-your-home-gym-with-this-yoleo-weight-bench-deal-july",
+        "summary": "该健身椅95%预组装，价格低于38美元，适合家庭健身使用。",
+        "comment": "低价预组装，家庭健身入门好选择。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/07/yoleobench-1783468038928.jpg",
         "score": 91
       },
       {
@@ -87,30 +267,80 @@
         "tag": "Steam",
         "title": "Steam周销量榜：《超级变色龙》四连冠",
         "link": "https://www.gcores.com/articles/216877",
-        "summary": "V社公布2026年7月第1周Steam全球销量排行榜，排除免费游戏后，《超级变色龙》持续登顶，《赛博朋克2077》紧随其后。",
-        "comment": "创意派对游戏持续领跑，经典大作依旧坚挺。",
+        "summary": "V社公布2026年7月第1周Steam全球销量排行榜，《超级变色龙》持续登顶，《赛博朋克2077》紧随其后。",
+        "comment": "创意游戏持续领跑，经典大作稳居前列。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "游戏联动",
-        "title": "《Apex英雄》×《赛博朋克》联动7月14日上线",
-        "link": "https://www.gcores.com/articles/216878",
-        "summary": "《Apex英雄》与《赛博朋克》联动活动7月14日至8月14日开启，玩家可扮演大卫或露西，体验外卡改造玩法，并获取8款英雄造型、8款武器造型及神话级冲锋枪“四季宝”。",
-        "comment": "联动内容扎实，但玩法创新有限。",
+        "tag": "轨道双子星",
+        "title": "《轨道双子星》中文配音阵容公布，2026年登陆Switch 2",
+        "link": "https://www.gcores.com/articles/216895",
+        "summary": "开发商Shapefarm与发行商Kepler Interactive公布《轨道双子星》国际配音阵容，游戏将于2026年9月3日独占登陆Nintendo Switch 2，支持简体中文等八种语言。",
+        "comment": "中文配音阵容强化了动漫风格沉浸感。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "游戏DLC红黑榜：谈价格前先看诚意",
+        "link": "https://www.gcores.com/radios/216890",
+        "summary": "机核三位主播以红黑榜形式，分享游戏DLC购买与游玩经历，评价不同DLC的质量与性价比，探讨哪些DLC堪称业界良心。",
+        "comment": "DLC质量参差，诚意比价格更重要。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "美国",
-        "title": "美国对伊朗发动打击，霍尔木兹海峡油轮遇袭",
+        "tag": "美伊冲突",
+        "title": "美伊在霍尔木兹海峡互袭油轮后相互打击",
         "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国表示打击旨在施加“沉重代价”，伊朗警告将“采取果断措施”回应。",
-        "comment": "局势升级，中东地缘风险加剧。",
+        "summary": "美军称打击了导弹阵地和指挥中心，伊朗称袭击了美军基地。",
+        "comment": "冲突升级，地区局势急剧恶化。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "法国政治",
+        "title": "勒庞被判有罪后立即启动总统竞选",
+        "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+        "summary": "上诉法院确认有罪判决后数小时内，法国民族主义领袖玛丽娜·勒庞已启动总统竞选活动。",
+        "comment": "判决未阻其政治野心，勒庞反击势头强劲。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "北约",
+        "title": "北约盟友宣布370亿英镑新导弹项目",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "summary": "英国首相基尔·斯塔默爵士将在安卡拉召集约十几位领导人讨论该项目。",
+        "comment": "北约军事合作再升级，战略投入显著。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄罗斯",
+        "title": "俄罗斯燃料短缺加剧，普京会改变乌克兰战争策略吗？",
+        "link": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+        "summary": "即使在莫斯科，当局也无法保证燃料供应，经济压力是否会导致谈判或升级？",
+        "comment": "经济压力或成俄乌局势转折点。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "台风",
+        "title": "台风引发洪水和罕见龙卷风，村民求助",
+        "link": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+        "summary": "台风导致中国多地洪水和罕见龙卷风，村民家庭被困，BBC报道称他们难以获得食物和帮助。",
+        "comment": "极端天气频发，应急响应需加强。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
@@ -118,9 +348,49 @@
         "title": "嫌疑人枪击前吃Chick-fil-A并与查理·柯克员工互动",
         "link": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
         "summary": "初步听证会将决定被控杀害保守派活动家查理·柯克的泰勒·罗宾逊是否受审。",
-        "comment": "案件细节揭示预谋迹象，司法程序关键。",
+        "comment": "细节揭示嫌疑人行动轨迹，案件进展受关注。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "电信故障",
+        "title": "澳洲最大电信公司重大故障影响火车与紧急呼叫",
+        "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+        "summary": "悉尼和墨尔本数据中心服务器故障导致服务中断，具体原因尚不明确。",
+        "comment": "关键基础设施稳定性需加强。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "帕丽斯·希尔顿",
+        "title": "帕丽斯·希尔顿指控虐待的犹他州寄宿学校被吊销执照",
+        "link": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
+        "summary": "监管机构指出该校存在忽视儿童及使用不必要约束措施，希尔顿称其“辜负了孩子们”。",
+        "comment": "监管行动姗姗来迟，但正义终未缺席。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "AI",
+        "title": "澳大利亚码头工人呼吁每周28小时工作制应对AI",
+        "link": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+        "summary": "工会表示，随着人工智能在港口测试，工人处于自动化的“瞄准镜”中，要求缩短工时以应对技术变革。",
+        "comment": "AI威胁就业，工会提前博弈工时改革。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国政治",
+        "title": "民主党高层要求缅因州参议员候选人因性侵指控退选",
+        "link": "https://www.bbc.co.uk/news/articles/cm2004nx8v9o?at_medium=RSS&at_campaign=rss",
+        "summary": "格雷厄姆·普拉特纳否认指控，称其“绝对虚假”，但表示正在“花时间反思最佳前进道路”。",
+        "comment": "指控压力下，候选人面临退选抉择。",
+        "image": "",
+        "score": 86
       }
     ]
   }
