@@ -4,41 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "谷歌深伪检测系统揭穿麦康奈尔AI假图",
-        "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-        "summary": "本周早些时候，一张显示肯塔基州参议员米奇·麦康奈尔在医院病床上插满管子的图片被证实为AI生成，谷歌的深伪检测系统用于揭穿这一骗局。",
-        "comment": "深伪检测技术对维护政治信息真实性至关重要。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "SpaceXAI发布Grok 4.5，马斯克称其为Opus级模型",
-        "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-        "summary": "马斯克旗下科技公司周三发布Grok最新版本，承诺提供更便宜、更高效的人工智能模型替代方案。",
-        "comment": "低价高效路线或加剧AI模型市场竞争。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "机器人",
-        "title": "这家初创公司认为机器人技术即将迎来ChatGPT时刻",
-        "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-        "summary": "General Intuition押注数百万小时的视频游戏数据可以训练物理AI的基础模型，从而用最少的真实世界数据构建更智能的机器人。",
-        "comment": "用游戏数据训练机器人模型，思路新颖但挑战巨大。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI政府与国家安全合作策略",
         "link": "https://openai.com/index/government-national-security-partnerships",
-        "summary": "OpenAI公布与政府及国家安全机构合作的原则，强调负责任AI使用、民主问责和公共安全。",
-        "comment": "AI巨头主动划定合作边界，值得关注。",
+        "summary": "OpenAI公布与政府和国家安全机构合作的原则，强调负责任AI使用、民主问责和公共安全。",
+        "comment": "AI巨头主动规范政企合作边界。",
         "image": "",
         "score": 100
       },
@@ -47,99 +17,49 @@
         "tag": "人工智能",
         "title": "OpenAI分析揭示SWE-Bench Pro编码基准可靠性问题",
         "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-        "summary": "OpenAI新分析指出，流行编码基准SWE-Bench Pro存在信号与噪声混杂问题，引发对AI模型评估准确性和可靠性的担忧。",
-        "comment": "基准测试的可靠性是AI评估的关键。",
+        "summary": "OpenAI最新分析指出，流行编码基准SWE-Bench Pro存在噪声问题，影响AI模型评估的准确性与可靠性。",
+        "comment": "基准测试的噪声问题需警惕，评估方法亟待改进。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI携手基金会助K-12教师掌握实用AI技能",
+        "title": "OpenAI与基金会合作帮助K-12教师掌握实用AI技能",
         "link": "https://openai.com/index/k-12-educators-practical-skills",
-        "summary": "OpenAI学院与沃尔顿家庭基金会合作，通过动手实践AI技能工作坊，帮助K-12教育工作者在课堂中应用AI。",
-        "comment": "教育AI普及从教师培训开始，务实举措。",
+        "summary": "OpenAI Academy与Walton Family Foundation合作，通过AI技能工作坊，帮助K-12教育工作者在课堂中建立实用的AI技能。",
+        "comment": "AI教育从教师培训开始，务实之举。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI发布GPT-Live语音模型，赋能ChatGPT语音交互",
+        "title": "OpenAI推出GPT-Live语音模型，赋能ChatGPT语音交互",
         "link": "https://openai.com/index/introducing-gpt-live",
-        "summary": "OpenAI推出新一代语音模型GPT-Live，旨在实现更自然的人机交互，现已用于ChatGPT语音功能。",
-        "comment": "语音交互体验有望迎来质变。",
+        "summary": "OpenAI发布新一代语音模型GPT-Live，旨在实现更自然的人机交互，现已用于ChatGPT语音功能。",
+        "comment": "语音交互体验有望显著提升，但隐私与伦理挑战并存。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Lovable估值或翻倍至132亿美元，正洽谈融资",
-        "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-        "summary": "据Sifted报道，Lovable正进行3亿美元融资轮，由Menlo Ventures领投，估值有望达132亿美元。",
-        "comment": "AI赛道资本热度不减，估值飙升反映市场信心。",
+        "category": "数码科技",
+        "tag": "马斯克",
+        "title": "马斯克不造iPhone，但想让手机替你赚钱",
+        "link": "https://www.ifanr.com/1671272?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "马斯克提出新概念，让手机具备赚钱功能，通过AI和区块链技术实现用户收益，颠覆传统手机使用模式。",
+        "comment": "概念新颖，但落地难度大。",
         "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌相册新增AI视频重混工具",
-        "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-        "summary": "该功能可对视频应用电影级补光、替换背景或添加艺术风格，提升视频视觉效果。",
-        "comment": "AI视频编辑工具再升级，谷歌相册实用功能增强。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "辐射",
-        "title": "黑曜石娱乐将开发新《辐射》游戏",
-        "link": "https://www.gamespot.com/articles/new-fallout-game-is-new-focus-for-new-vegas-developer-obsidian-entertainment-report/",
-        "summary": "据GameSpot报道，《辐射：新维加斯》开发商黑曜石娱乐将调整战略，优先开发一款新的《辐射》游戏，原计划的《Avowed》项目可能受影响。",
-        "comment": "经典回归，粉丝期待值拉满。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/FalloutNewVegas.jpg?w=300",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox裁员波及黑曜石，取消《宣誓》续作",
-        "link": "https://www.gamespot.com/articles/xbox-kills-obsidians-avowed-sequel-in-the-wake-of-layoffs-report/",
-        "summary": "Xbox持续调整，旗下黑曜石娱乐裁员约四分之一，并取消了2025年动作角色扮演游戏《宣誓》的续作开发计划。",
-        "comment": "微软对旗下工作室的调整愈发激进。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/avowed-image-1.jpg?w=300",
-        "score": 93
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "保时捷",
-        "title": "保时捷Taycan与纯电Macan断档，纯电战略遇阻",
+        "title": "保时捷纯电车型Taycan和Macan断档，前景堪忧",
         "link": "https://www.ifanr.com/1671212?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "保时捷纯电车型Taycan和Macan出现产品断档，早期布局优势减弱，面临市场竞争加剧和销量压力。",
-        "comment": "保时捷纯电转型节奏失衡，需加速产品迭代。",
+        "summary": "保时捷纯电车型Taycan和Macan出现断档，面临市场挑战，起早却难赶上晚集。",
+        "comment": "保时捷纯电战略遇阻，需加速产品迭代。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "女神异闻录4",
-        "title": "《女神异闻录4》复活制作人确认角色将有重大调整",
-        "link": "https://www.gamespot.com/articles/persona-4-revival-producer-confirms-some-noteworthy-character-changes-are-coming/",
-        "summary": "在Anime Expo上，《女神异闻录》系列庆祝30周年，设有专属展位、座谈会和周边商品，同时制作人确认《女神异闻录4》复活版角色将迎来显著变化。",
-        "comment": "经典重制需谨慎，角色改动或影响粉丝情怀。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Clipboard_07-08-2026_01.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "索尼",
-        "title": "分析师称对索尼或Xbox的忠诚毫无意义",
-        "link": "https://www.gamespot.com/articles/your-loyalty-to-sony-or-xbox-means-nothing-analyst-says/",
-        "summary": "索尼宣布2028年起停止生产PS实体游戏光盘，引发热议。分析师指出，玩家对平台的忠诚度在行业数字化转型中已无实际价值。",
-        "comment": "数字时代，平台忠诚度只是商业策略的幻象。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/sonydiscs.webp?w=300",
         "score": 92
       },
       {
@@ -148,7 +68,7 @@
         "title": "超22万人请愿索尼保留实体游戏光盘",
         "link": "https://www.gamespot.com/articles/over-220000-people-petition-sony-not-to-kill-physical-playstation-game-discs/",
         "summary": "索尼计划于2028年1月停止所有PlayStation光盘生产，加拿大零售商发起请愿，已获超22万人支持，要求公司改变决定。",
-        "comment": "实体光盘消亡趋势下，玩家情怀难敌数字转型。",
+        "comment": "实体光盘消亡趋势难挡，但玩家情感需求不容忽视。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Disc-of-War.jpg?w=300",
         "score": 92
       },
@@ -157,95 +77,55 @@
         "tag": "奔驰",
         "title": "奔驰纯电GLC转型AI，新版本预售29.99万起",
         "link": "https://www.ifanr.com/1671374?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "奔驰全新纯电GLC引入AI技术，提升智能驾驶体验，新版本车型开启预售，起售价29.99万元。",
-        "comment": "AI赋能传统豪华品牌，但市场反应待观察。",
+        "summary": "奔驰全新纯电GLC搭载AI技术，提升智能驾驶体验，新版本车型开启预售，起售价29.99万元。",
+        "comment": "传统豪华品牌加速电动化与智能化融合。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "OpenAI",
-        "title": "曾当面怼马斯克的刺头也离开OpenAI",
+        "title": "当面怼马斯克的刺头也离开OpenAI了",
         "link": "https://www.ifanr.com/1671340?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenAI联合创始人之一、曾当面与马斯克激烈争论的成员宣布离职，引发业界对AI公司内部治理的关注。",
-        "comment": "AI巨头内部分歧持续，人才流动加速。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "马斯克",
-        "title": "马斯克不造iPhone，但他想让手机替你赚钱",
-        "link": "https://www.ifanr.com/1671272?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "马斯克提出新概念，让手机成为赚钱工具，而非单纯消费设备，探索AI与金融结合的新可能。",
-        "comment": "概念新颖，但落地仍需技术突破。",
+        "summary": "OpenAI又一位关键人物离职，他曾当面让马斯克难堪，引发行业对AI公司内部动荡的关注。",
+        "comment": "AI人才流动加速，OpenAI面临稳定挑战。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "小米",
-        "title": "小米增程子品牌定名SkyNomad，首款新车即将亮相",
+        "title": "小米增程子品牌定名SkyNomad，首款新车将亮相",
         "link": "https://www.ifanr.com/1671289?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米增程子品牌定名SkyNomad，首款新车即将亮相，定位露营车，与享界竞争。",
+        "summary": "小米增程子品牌定名SkyNomad，首款新车即将亮相，定位露营车市场，与享界形成竞争。",
         "comment": "小米布局增程市场，SkyNomad瞄准户外场景。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "AI",
-        "title": "用美国豆包做app，停不下来",
-        "link": "https://www.ifanr.com/1671236?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI技术让开发应用变得简单，用户通过豆包工具快速制作app，体验高效创作乐趣。",
-        "comment": "AI降低开发门槛，创新工具激发创作热情。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
         "tag": "数码科技",
-        "title": "把Fable 5装进MacBook还要多久",
+        "title": "把 Fable 5 装进 MacBook，还要多久",
         "link": "https://www.ifanr.com/1671196?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "2028年消费者可能得到什么？探讨MacBook运行Fable 5的可行性及技术进展。",
-        "comment": "性能提升是关键，但生态适配更需时间。",
+        "summary": "2028年消费者可能得到什么？探讨MacBook运行Fable 5的可行性及时间预期。",
+        "comment": "游戏与硬件的融合仍需突破。",
         "image": "",
         "score": 90
       },
       {
         "category": "时事热点",
-        "tag": "乌克兰",
-        "title": "特朗普称乌克兰将获授权生产爱国者导弹",
-        "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-        "summary": "尽管爱国者系统对俄罗斯弹道导弹非常有效，但其生产周期较长。",
-        "comment": "授权生产是长期战略，但短期产能仍是瓶颈。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "医疗事故",
-        "title": "美国亚利桑那州一幼儿被宣告溺亡后，在停尸房被发现仍活着",
+        "tag": "幼儿",
+        "title": "亚利桑那州一幼儿被宣告溺水死亡后，在停尸房被发现仍活着",
         "link": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
         "summary": "一名18个月大的幼儿被宣告溺水死亡后，在停尸房被发现仍有生命迹象，随后被空运至另一家医院并幸存。",
-        "comment": "医疗误判令人震惊，停尸房发现生命堪称奇迹。",
+        "comment": "事件暴露急救与死亡确认流程存在严重漏洞。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "领养",
-        "title": "领养婴儿后被告知可能被贩卖，夫妇面临失去孩子",
-        "link": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
-        "summary": "大卫和艾莉领养了马库斯，实现了拥有孩子的梦想，但如今他们可能因孩子被贩卖而失去他。",
-        "comment": "跨国领养背后的伦理与法律风险令人深思。",
-        "image": "",
-        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "AI行业",
-        "title": "AI行业高薪员工推高旧金山房价创新高",
+        "title": "AI行业高薪员工推高旧金山房价至历史新高",
         "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
         "summary": "最新数据显示，旧金山房价中位数达170万美元，创历史新高，主要受AI行业高薪员工推动。",
         "comment": "AI财富效应加剧城市住房压力。",
@@ -254,13 +134,23 @@
       },
       {
         "category": "时事热点",
-        "tag": "外交",
+        "tag": "北约",
+        "title": "北约盟国宣布370亿英镑新导弹项目",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "summary": "英国首相斯塔默将在安卡拉召集约十位领导人讨论该计划。",
+        "comment": "北约强化军备，地缘博弈加剧。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "北约",
         "title": "土耳其总统赠予斯塔默枪支弹药",
         "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-        "summary": "英国首相斯塔默在Nato会议期间收到土耳其总统赠送的枪支和弹药，该武器未带回英国，而是留在土耳其的英国官员处。",
-        "comment": "外交礼节与安全考量并存。",
+        "summary": "英国首相斯塔默在北约会议期间收到土耳其总统赠送的枪支和弹药，该武器未带回英国，而是留在了土耳其的英国官员处。",
+        "comment": "外交礼仪与安全规范的一次微妙平衡。",
         "image": "",
-        "score": 83
+        "score": 86
       }
     ]
   }
