@@ -3,22 +3,32 @@
     "week": "周六",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI押注家庭场景，ChatGPT深入千家万户",
+        "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "summary": "据招聘信息，ChatGPT正在招聘专门的产品经理，为家庭、看护者和老年人打造体验。",
+        "comment": "家庭场景是AI普及的重要突破口。",
+        "image": "",
+        "score": 100
+      },
+      {
         "category": "数码科技",
         "tag": "智谱",
         "title": "智谱创始人唐杰发内部信：GLM时刻后更重要的事",
         "link": "https://36kr.com/p/3891132709206784?f=rss",
-        "summary": "智谱创始人唐杰在内部信《巨浪已来》中回顾公司高光时刻：市值较上市初期涨10倍，2026年6月跻身万亿港元俱乐部，超过百度和小米。",
-        "comment": "市值飙升背后，技术落地与生态构建才是关键。",
+        "summary": "智谱创始人唐杰在内部信《巨浪已来》中称，公司市值较上市初期涨10倍，跻身万亿港元俱乐部，超过百度和小米。",
+        "comment": "智谱市值飙升，内部信凸显战略定力。",
         "image": "",
-        "score": 97
+        "score": 98
       },
       {
         "category": "数码科技",
         "tag": "长鑫科技",
-        "title": "长鑫科技承销团公布，SK海力士美股大涨近13%",
+        "title": "长鑫科技承销团公布，SK海力士美股大涨，OpenAI推智能体",
         "link": "https://36kr.com/p/3890553690192384?f=rss",
-        "summary": "长鑫科技IPO进入发行倒计时，承销团阵容公布；SK海力士登陆美股首日大涨近13%；OpenAI推出ChatGPT智能体；三星李在镕拟7月底赴美会晤英伟达黄仁勋；德国大众拟最高裁员12万。",
-        "comment": "存储芯片与AI赛道热度持续，长鑫科技上市备受关注。",
+        "summary": "长鑫科技IPO进入发行倒计时，承销团阵容公布；SK海力士登陆美股首日涨近13%；OpenAI推出ChatGPT智能体。另有消息称“全球首款智能体手机”备货8万至10万台为假。",
+        "comment": "存储芯片与AI智能体成今日科技焦点。",
         "image": "",
         "score": 97
       },
@@ -27,18 +37,28 @@
         "tag": "具身智能",
         "title": "三个月融三轮，上交大00后博士让仿生扑翼机器人理解流体",
         "link": "https://36kr.com/p/3889516712065799?f=rss",
-        "summary": "具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」完成数千万元A轮融资，由元禾璞华领投，资金用于消费级产品量产、市场拓展及下一代扑翼机器人与流体仿真引擎研发。",
-        "comment": "00后博士团队获资本密集押注，具身智能赛道再添新锐。",
+        "summary": "具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」完成数千万元A轮融资，三个月内第三轮，由元禾璞华领投，资金用于消费级产品量产、市场拓展及下一代扑翼机器人研发。",
+        "comment": "00后博士团队获资本密集押注，具身智能扑翼赛道加速。",
         "image": "",
         "score": 97
       },
       {
         "category": "游戏影视",
-        "tag": "PlayStation",
-        "title": "欧盟称无力阻止PlayStation取消光盘：企业有权自主决定",
+        "tag": "游戏",
+        "title": "《崛起：罗马之子》曾计划成为Xbox版《刺客信条》",
+        "link": "https://www.ign.com/articles/ryse-son-of-rome-had-plans-to-be-xboxs-assassins-creed",
+        "summary": "《崛起：罗马之子》最初计划像《刺客信条》一样探索多个时代，但因商业和口碑失败，导致Crytek和Xbox的雄心受挫。",
+        "comment": "野心过大，执行不足，终成遗憾。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/08/ryse-blogroll-1783522794890.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "欧盟称无力阻止索尼取消实体游戏光盘",
         "link": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
-        "summary": "面对玩家请愿和社交媒体抗议，欧盟表示无法阻止索尼等公司取消光盘游戏，称企业有权以自认为合适的方式提供游戏和服务。",
-        "comment": "玩家抗议难改企业决策，数字时代趋势不可逆。",
+        "summary": "面对玩家请愿和社交媒体抗议，欧盟表示无法阻止索尼等公司取消实体游戏光盘，企业有权自行决定游戏和服务的提供方式。",
+        "comment": "玩家抗议难改企业决策，市场趋势不可逆。",
         "image": "https://assets-prd.ignimgs.com/2024/09/25/ps5-pro-handsonpreview-blogroll-1727223976585.jpg",
         "score": 94
       },
@@ -47,100 +67,140 @@
         "tag": "苹果",
         "title": "苹果起诉OpenAI，努比亚倪飞披露AI智能体手机细节",
         "link": "https://www.ifanr.com/1671681?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "大众计划削减一半车型线，全球裁员规模或达12万人；扎克伯格否认Meta算力过剩；宇树G1机器人完成两例活体手术登上《自然》。",
-        "comment": "AI与汽车行业变革加速，竞争白热化。",
+        "summary": "大众计划削减一半车型线，全球裁员规模或达12万人；扎克伯格否认Meta算力过剩；宇树G1机器人完成两例活体手术，登上《自然》。",
+        "comment": "AI与汽车行业变革加速，科技巨头竞争白热化。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "NS",
-        "title": "NS十年回顾：五款神作推荐",
-        "link": "https://www.gcores.com/radios/217041",
-        "summary": "机核播客节目回顾NS近十年历程，主播分享个人最爱的五款游戏，涵盖经典与独立佳作，音频版已上线。",
-        "comment": "情怀与品质兼具的怀旧盘点。",
+        "tag": "微软",
+        "title": "微软Xbox部门大改革，裁员数千人",
+        "link": "https://www.gcores.com/radios/216723",
+        "summary": "微软Xbox部门全面改革管理架构，裁员数千人，四家第一方工作室遭剥离；贝塞斯达母公司缩减非核心项目；id Software裁员近半；黑曜石裁员25%并着手《辐射》新作；育碧巴塞罗那裁员51人；光盘请愿书获10万签名。",
+        "comment": "游戏行业裁员潮持续，微软调整力度空前。",
         "image": "",
-        "score": 90
+        "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏影视",
+        "tag": "游戏",
         "title": "加菲猫嘲讽马里奥赛车即将停服",
         "link": "https://www.gamespot.com/articles/garfield-craps-on-mario-over-upcoming-mario-kart-game-shutdown/",
-        "summary": "在卡丁车竞速游戏中，马里奥赛车系列占据主导地位，但《加菲猫卡丁车：狂怒竞速》和《加菲猫卡丁车2：无限漂移》的社交媒体团队抓住机会，对即将停服的马里奥赛车游戏进行了嘲讽。",
-        "comment": "加菲猫借机调侃，竞争氛围浓厚。",
+        "summary": "在卡丁车赛车类型中，马里奥赛车占据主导地位，但加菲猫卡丁车系列社交媒体团队借机嘲讽马里奥赛车即将关闭。",
+        "comment": "加菲猫借机蹭热度，幽默反击马里奥赛车霸主地位。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Garfield-Kart-Furious-Racing.jpg?w=300",
         "score": 89
       },
       {
+        "category": "游戏影视",
+        "tag": "NS",
+        "title": "NS十年回顾：主播分享五款最爱的神作",
+        "link": "https://www.gcores.com/radios/217041",
+        "summary": "机核播客《核电波》回顾NS问世近十年，主播Nadya、西蒙、Ryoma分享各自在NS上最喜欢的五款游戏，本期为视频播客的音频版。",
+        "comment": "情怀与游戏性兼具的十年回顾，值得一听。",
+        "image": "",
+        "score": 88
+      },
+      {
         "category": "时事热点",
-        "tag": "美伊谈判",
-        "title": "美国要求伊朗承诺停止在霍尔木兹海峡攻击船只",
+        "tag": "伊朗",
+        "title": "美方要求伊朗承诺停止在霍尔木兹海峡射击船只",
         "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国副总统万斯等官员预计将参与周六在阿曼恢复的谈判，旨在让伊朗承诺停止在霍尔木兹海峡攻击船只。",
-        "comment": "谈判重启，美伊博弈聚焦关键航道安全。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "台风",
-        "title": "台风巴威逼近，中国一周内面临第二个台风",
-        "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "summary": "数十万人从浙江省东部撤离，温州靠近风暴路径。",
-        "comment": "连续台风考验中国应急响应能力。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "哈瓦那综合征",
-        "title": "美国向神秘哈瓦那综合征受害者支付300万美元",
-        "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-        "summary": "美国官员、外交官及其家属十年前开始报告一种神秘疾病，现政府已向受害者支付300万美元赔偿。",
-        "comment": "事件真相仍不明，赔偿或为平息争议。",
+        "summary": "美国媒体称，伊朗已向美方官员表示，本周初对穿越海峡船只的袭击是“一个错误”。",
+        "comment": "美伊对峙升级，霍尔木兹海峡安全风险加剧。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "西班牙",
-        "title": "西班牙遭遇致命野火，至少12人遇难",
+        "title": "西班牙遭遇致命野火，至少12人死亡",
         "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-        "summary": "西班牙正努力控制该国最致命的野火之一，至少12人死亡，另有23人失踪，据信遇难者中包括4名英国人。",
-        "comment": "野火频发凸显气候变化下应急响应挑战。",
+        "summary": "西班牙正努力控制一场致命野火，至少12人死亡，另有23人失踪，据信其中包含4名英国人。",
+        "comment": "野火频发凸显气候危机下的应急挑战。",
         "image": "",
-        "score": 86
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "特朗普政府传唤纽约时报记者调查空军一号报道",
+        "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+        "summary": "记者因报道总统新飞机（卡塔尔赠送）的安全问题而收到法律传票。",
+        "comment": "政府施压媒体，言论自由面临挑战。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "台风",
+        "title": "一周内第二个台风登陆中国浙江",
+        "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+        "summary": "近两百万人从浙江东部撤离，温州靠近风暴路径。",
+        "comment": "连续台风考验应急能力，需关注后续影响。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国",
+        "title": "美国民主党议员称被以色列武装定居者扣留",
+        "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+        "summary": "49岁的美国民主党议员罗·卡纳称，他在访问被占领的约旦河西岸时被以色列武装定居者扣留了90分钟。",
+        "comment": "事件凸显以巴紧张局势升级。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "尼日利亚",
+        "title": "尼日利亚军方行动解救40多名被绑架师生",
+        "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
+        "summary": "当地教师工会负责人向BBC表示感到高兴和喜悦。此前尼日利亚发生大规模绑架事件，军方行动成功解救被绑架的儿童和教师。",
+        "comment": "解救行动成功，但绑架频发暴露安全漏洞。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "住房法案",
+        "title": "美国里程碑式住房法案生效，特朗普反对无效",
+        "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+        "summary": "尽管特朗普总统希望先通过选民身份法，但旨在降低住房成本、增加供应的住房法案已正式成为法律。",
+        "comment": "住房危机倒逼两党罕见合作。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "越南",
         "title": "越南快艇倾覆致15死含印度游客",
         "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
-        "summary": "越南南部岛屿附近海域，一艘快艇因风浪倾覆，当地媒体称21人获救，15人遇难，其中包括印度游客。",
-        "comment": "旅游安全警示，海上事故频发需警惕。",
+        "summary": "越南南部岛屿附近海域因风浪大导致快艇倾覆，当地媒体称21人获救，15人遇难，其中包括印度游客。",
+        "comment": "旅游安全警示，海上活动需关注天气预警。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "恐龙",
-        "title": "泰国发现新恐龙物种，体长如板球场",
-        "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-        "summary": "这种名为Uragasaurus kalasinensis的植食性恐龙，被认为生活在约1.5亿年前。",
-        "comment": "古生物学重要发现，填补了东南亚恐龙演化空白。",
+        "tag": "哈瓦那综合征",
+        "title": "美国向神秘哈瓦那综合征受害者支付300万美元",
+        "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+        "summary": "十年前，美国官员、外交官及其家属开始报告一种神秘疾病，现美国政府已向受害者支付300万美元赔偿。",
+        "comment": "事件真相仍不明，赔偿或为平息争议。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "澳洲",
-        "title": "澳洲杀人犯临终前警方采访录像公布",
-        "link": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
-        "summary": "67岁的布拉德利·默多克在狱中去世，未透露彼得·法尔科尼奥遗骸位置。",
-        "comment": "真相随凶手入土，悬案未解。",
+        "tag": "南非",
+        "title": "南非世界杯中场亚当斯25岁去世",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+        "summary": "南非及马梅洛迪日落队中场杰登·亚当斯在25岁去世，几周前他刚代表国家队参加世界杯。",
+        "comment": "年轻球员猝逝令人惋惜。",
         "image": "",
-        "score": 85
+        "score": 83
       }
     ]
   }
