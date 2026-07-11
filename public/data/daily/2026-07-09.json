@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI二号人物Fidji Simo因医疗休假延长离职",
+        "title": "OpenAI二号人物Fidji Simo因医疗休假超预期离职",
         "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
         "summary": "OpenAI二号高管Fidji Simo因医疗休假超出预期，辞去全职职务，在关键时期留下领导层空缺。",
-        "comment": "高层动荡或影响OpenAI战略稳定性。",
+        "comment": "高层变动或影响OpenAI战略稳定性。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "OpenAI",
         "title": "OpenAI发布GPT-5.6系列模型",
         "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-        "summary": "OpenAI推出新模型家族GPT-5.6，在网络安全等多个领域承诺性能提升。",
-        "comment": "模型迭代加速，安全能力成重点。",
+        "summary": "OpenAI推出新一代模型系列GPT-5.6，在网络安全等多个领域承诺性能提升。",
+        "comment": "模型迭代加速，安全能力成亮点。",
         "image": "",
         "score": 100
       },
@@ -27,48 +27,38 @@
         "tag": "AI代理",
         "title": "AI代理初创公司用自家产品完成1亿美元融资",
         "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-        "summary": "Lyzr是一家为企业构建AI代理的初创公司，它使用自己的AI代理成功完成了一轮1亿美元的融资，这证明了其产品的实际有效性。",
-        "comment": "用产品证明产品，这是最有力的营销。",
+        "summary": "Lyzr是一家为企业构建AI代理的初创公司，它使用自己的AI代理完成了1亿美元的融资轮，这证明了其产品的实际有效性。",
+        "comment": "产品自证价值，融资案例成最佳广告。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "AI能否回答3万亿美元的投资回报问题",
-        "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-        "summary": "AI投资回报率讨论再起，数字更大，后果可能也更严重。",
-        "comment": "巨额投资下，AI价值兑现仍是关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
         "title": "GPT-5.6成为微软365 Copilot首选模型",
         "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-        "summary": "OpenAI宣布GPT-5.6成为微软365 Copilot的默认模型，在Word、Excel、PowerPoint、Chat和Cowork中提供更强AI能力，提升工作速度与质量。",
-        "comment": "GPT-5.6落地办公场景，AI生产力再升级。",
+        "summary": "OpenAI宣布GPT-5.6成为微软365 Copilot首选模型，在Word、Excel、PowerPoint、Chat和Cowork中提供更强AI能力，提升工作速度与质量。",
+        "comment": "AI办公应用再升级，效率提升显著。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "GPT-5.6",
         "title": "OpenAI发布GPT-5.6：前沿智能随需扩展",
         "link": "https://openai.com/index/gpt-5-6",
-        "summary": "GPT-5.6提升每token智能、每美元性能，按需提供更强能力，应对最复杂任务。",
-        "comment": "性能提升明确，但成本与实用性待验证。",
+        "summary": "GPT-5.6在每token智能、每美元性能及按需能力上均有提升，专为高难度任务优化。",
+        "comment": "性能与成本比持续优化，但创新幅度待观察。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "ChatGPT Work：跨应用协作的智能代理",
+        "tag": "AI代理",
+        "title": "ChatGPT Work：可跨应用执行任务的AI代理",
         "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-        "summary": "OpenAI推出ChatGPT Work，可跨应用和文件执行操作，持续数小时完成项目，将目标转化为实际成果。",
-        "comment": "AI从对话工具进化为主动执行者。",
+        "summary": "OpenAI推出ChatGPT Work，该AI代理能跨应用和文件执行操作，持续数小时跟进项目，将目标转化为完成的工作成果。",
+        "comment": "AI从对话工具进化为自主工作代理。",
         "image": "",
         "score": 100
       },
@@ -77,7 +67,7 @@
         "tag": "人工智能",
         "title": "OpenAI推出GPT-5.5生物漏洞赏金计划",
         "link": "https://openai.com/index/bio-bug-bounty",
-        "summary": "OpenAI启动生物漏洞赏金计划，鼓励研究人员发现并报告GPT-5.5在生物安全方面的潜在风险，以提升模型安全性。",
+        "summary": "OpenAI公布生物漏洞赏金计划，鼓励研究人员发现并报告GPT-5.5在生物安全领域的潜在风险，以提升模型安全性。",
         "comment": "主动防御生物安全风险，体现负责任AI态度。",
         "image": "",
         "score": 100
@@ -85,30 +75,20 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI关闭Atlas浏览器，AI浏览野心不减",
+        "title": "OpenAI关闭Atlas浏览器，AI浏览器野心未止",
         "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-        "summary": "OpenAI在不到一年后停用其AI驱动浏览器Atlas，但将部分代理浏览功能迁移至桌面应用和Chrome扩展。",
-        "comment": "战略收缩，聚焦核心产品。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "马斯克称赞Mythos/Fable，承诺不会切断Anthropic",
-        "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-        "summary": "面对约400亿美元收入，马斯克承诺不会切断Anthropic的模型托管，但Anthropic是否应信任他仍存疑。",
-        "comment": "马斯克的承诺能否兑现，取决于商业利益与竞争博弈。",
+        "summary": "OpenAI在不到一年后停止其AI浏览器Atlas，但将部分代理浏览功能迁移至桌面应用和Chrome扩展，继续推进AI浏览器战略。",
+        "comment": "战略收缩而非放弃，聚焦核心产品。",
         "image": "",
         "score": 99
       },
       {
         "category": "数码科技",
         "tag": "自动充电",
-        "title": "万勋科技发布“柔韧充”自动充电引擎，实现全场景覆盖",
+        "title": "万勋科技发布“柔韧充”自动充电通用服务引擎",
         "link": "https://36kr.com/p/3888567864851204?f=rss",
-        "summary": "7月9日，万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”技术覆盖公用、专用、家用场景，推出三大类别全球首例应用，解决自动充电规模商用核心困局。",
-        "comment": "技术突破显著，但商用落地仍需市场验证。",
+        "summary": "7月9日，万勋科技发布“柔韧充”自动充电引擎，以“0.000s无极容差应变”技术覆盖公用、专用、家用全场景，推出三大类别全球首例应用，解决自动充电规模商用核心困局。",
+        "comment": "技术突破有望打破自动充电场景适配瓶颈。",
         "image": "",
         "score": 97
       },
@@ -117,58 +97,38 @@
         "tag": "股权投资",
         "title": "2026年度中国股权投资行业投资机构名册发布",
         "link": "https://36kr.com/p/3888289009678854?f=rss",
-        "summary": "麦肯锡报告指出，全球私募市场Alpha需主动创造，旧杠杆消失致2025年全球封闭式PE募资同比下滑17%，亚太跌幅近半。",
-        "comment": "行业洗牌期，主动管理能力成关键。",
+        "summary": "麦肯锡报告指出，超额收益不再是找到的，而是做出来的。旧杠杆消失，全球封闭式PE募资2025年同比下滑17%，亚太地区跌幅近半。",
+        "comment": "行业进入硬实力比拼阶段。",
         "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "大众汽车",
-        "title": "大众汽车拟2031年起关闭德国部分工厂，三星晶圆代工涨价",
-        "link": "https://36kr.com/p/3888230589152008?f=rss",
-        "summary": "大众汽车管理层考虑2031年起关闭德国部分工厂；消息称三星晶圆代工部分制程涨价；国家超算互联网核心节点正式上线。LG Innotek将在越南投资10亿美元新建半导体基板厂。",
-        "comment": "传统车企与芯片代工巨头同步调整战略，行业转型加速。",
-        "image": "",
-        "score": 97
+        "score": 96
       },
       {
         "category": "数码科技",
         "tag": "数码科技",
-        "title": "老乡鸡五次冲击上市失败；两款燃油车重回销量榜前十",
+        "title": "老乡鸡五次冲击上市失败；长鑫科技披露招股书",
         "link": "https://36kr.com/p/3889047503354625?f=rss",
-        "summary": "今日热点包括花呗致歉、中芯国际市值超茅台、iPhone 18 Pro Max成本上涨、英伟达与Hugging Face合作等。老乡鸡五年五次冲击上市失败，长鑫科技披露招股意向书。",
-        "comment": "老乡鸡上市屡败，反映餐饮业资本化困境。",
+        "summary": "今日热点包括花呗致歉、中芯国际市值超茅台、iPhone 18 Pro Max成本上涨、英伟达与Hugging Face合作等。老乡鸡五年五次冲击上市失败，长鑫科技预计7月16日发行。",
+        "comment": "老乡鸡上市屡败，餐饮业资本化仍面临挑战。",
         "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "科技",
-        "title": "2026·Under36：绕过旧答案的一代人",
-        "link": "https://36kr.com/p/3888279614274048?f=rss",
-        "summary": "文章引用库恩《科学革命的结构》，指出颠覆性突破常由年轻人完成，因为他们未被旧范式驯服，如哥白尼、牛顿、爱因斯坦等均在年轻时提出开创性理论。",
-        "comment": "年轻人是范式革命的天然载体。",
-        "image": "",
-        "score": 96
+        "score": 95
       },
       {
         "category": "数码科技",
         "tag": "腾势",
-        "title": "腾势Z亮相古德伍德，定价超130万，比亚迪布局欧洲",
+        "title": "腾势Z亮相古德伍德，售价超130万，比亚迪布局欧洲",
         "link": "https://www.ifanr.com/1671486?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "腾势Z在古德伍德速度节亮相，售价超130.35万元，展现比亚迪高端化与欧洲市场扩张战略。",
-        "comment": "比亚迪借腾势Z冲击欧洲高端市场，定价策略大胆。",
+        "summary": "腾势Z在古德伍德速度节亮相，定价超130.35万元，展示比亚迪高端化与欧洲市场扩张战略。",
+        "comment": "比亚迪借腾势品牌冲击欧洲高端市场，定价策略大胆。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "数码科技",
+        "tag": "AI",
         "title": "LingBot-World 2.0实测：无限时长随机变化世界来了",
         "link": "https://www.ifanr.com/1671406?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "会变化、有“意外”的世界才是“活的”，LingBot-World 2.0实现无限时长与随机变化，带来更真实沉浸体验。",
-        "comment": "动态世界是虚拟现实的关键突破。",
+        "summary": "LingBot-World 2.0实现无限时长与随机变化，打造动态“活”世界，带来更真实沉浸体验。",
+        "comment": "动态世界是AI交互的关键突破。",
         "image": "",
         "score": 92
       },
@@ -177,8 +137,8 @@
         "tag": "蔚来",
         "title": "租电27.48万元起，蔚来ES8大五座版可装21个行李箱",
         "link": "https://www.ifanr.com/1671502?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "蔚来ES8推出大五座版，起售价27.48万元（租电），取消第三排座椅后空间更大，可容纳21个行李箱，仍定位旗舰车型。",
-        "comment": "去掉第三排，实用性和性价比提升明显。",
+        "summary": "蔚来ES8推出大五座版，去掉第三排，起售价27.48万元（租电），后备箱空间可容纳21个行李箱，仍定位旗舰车型。",
+        "comment": "牺牲座位换空间，实用主义新选择。",
         "image": "",
         "score": 91
       },
@@ -187,30 +147,10 @@
         "tag": "AI手机",
         "title": "努比亚将推全球首款AI智能体手机，法拉利高管称中国车企做快消品",
         "link": "https://www.ifanr.com/1671401?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "努比亚确认推出全球首款AI智能体手机；法拉利高管称中国车企产品像快消品；华为天才少年回应DeepSeek面试争议。GPT-5.6本周全量上线，Claude Fable 5免费期延至7月12日，SpaceX跌破上市首日开盘价。",
-        "comment": "AI手机竞争白热化，但跨界对比需谨慎。",
+        "summary": "努比亚确认推出全球首款AI智能体手机；法拉利高管称中国车企做的是快消品；华为天才少年回应DeepSeek面试争议。GPT-5.6本周全量上线，Claude Fable 5免费期延至7月12日。",
+        "comment": "AI手机竞争白热化，但法拉利言论暴露传统车企傲慢。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤：黑色行动》1和2登陆PS5，DLC需额外付费",
-        "link": "https://www.gamespot.com/articles/call-of-duty-black-ops-1-and-2-ports-are-out-now-on-ps5-but-dlc-costs-extra/",
-        "summary": "动视与Iron Galaxy合作开发的《使命召唤：黑色行动》（2010）和《黑色行动2》（2012）PS5移植版现已上线，但DLC内容需单独购买。",
-        "comment": "经典重制但DLC收费，诚意略显不足。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/blackops.png?w=300",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "乌克兰",
-        "title": "乌克兰在克里米亚附近袭击俄舰，升级对燃料供应打击",
-        "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰对克里米亚附近俄罗斯舰船发动袭击，旨在切断进出被占领克里米亚的补给路线，这是其削弱俄燃料供应的最新行动。",
-        "comment": "乌方战略转向打击后勤，意图削弱俄军持久力。",
-        "image": "",
-        "score": 87
       }
     ]
   }
