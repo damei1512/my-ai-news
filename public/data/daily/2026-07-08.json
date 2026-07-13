@@ -4,21 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI政府与国家安全合作方针",
+        "tag": "AI安全",
+        "title": "OpenAI政府与国家安全合作策略",
         "link": "https://openai.com/index/government-national-security-partnerships",
         "summary": "OpenAI公布与政府及国家安全机构合作的原则，强调负责任AI使用、民主问责和公共安全。",
-        "comment": "AI巨头主动拥抱国家安全，平衡创新与监管。",
+        "comment": "AI巨头主动制定合作框架，平衡安全与创新。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI分析揭示SWE-Bench Pro编码基准可靠性问题",
+        "title": "OpenAI分析揭示SWE-Bench Pro编码基准问题",
         "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-        "summary": "OpenAI新分析指出，流行编码基准SWE-Bench Pro存在信号噪声问题，引发对AI模型评估可靠性与准确性的担忧。",
-        "comment": "基准测试的可靠性是AI评估的关键。",
+        "summary": "OpenAI新分析指出，流行编码基准SWE-Bench Pro存在可靠性问题，影响AI模型评估的准确性。",
+        "comment": "基准测试的噪声问题需行业警惕。",
         "image": "",
         "score": 100
       },
@@ -27,18 +27,18 @@
         "tag": "人工智能",
         "title": "OpenAI与基金会合作帮助K-12教师掌握实用AI技能",
         "link": "https://openai.com/index/k-12-educators-practical-skills",
-        "summary": "OpenAI Academy与Walton Family Foundation合作，通过AI技能训练营，帮助K-12教育工作者在课堂中建立实用的AI技能。",
-        "comment": "聚焦教育场景，AI落地从教师培训开始。",
+        "summary": "OpenAI Academy与Walton Family Foundation合作，通过AI Skills Jams为K-12教师提供课堂实用AI技能培训。",
+        "comment": "教育领域AI落地需从教师培训抓起。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "人工智能",
         "title": "OpenAI推出GPT-Live语音模型，赋能ChatGPT语音交互",
         "link": "https://openai.com/index/introducing-gpt-live",
-        "summary": "OpenAI发布新一代语音模型GPT-Live，旨在实现更自然的人机语音交互，现已集成至ChatGPT语音功能中。",
-        "comment": "语音交互体验有望迎来质的飞跃。",
+        "summary": "OpenAI发布新一代语音模型GPT-Live，专为自然的人机语音交互设计，现已用于ChatGPT语音功能，提升对话流畅度与真实感。",
+        "comment": "语音交互进入新阶段，GPT-Live或成AI助手标配。",
         "image": "",
         "score": 100
       }

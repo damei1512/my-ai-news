@@ -4,11 +4,31 @@
     "articles": [
       {
         "category": "数码科技",
+        "tag": "字节跳动",
+        "title": "字节跳动探索自动驾驶，Seed世界模型团队负责",
+        "link": "https://36kr.com/p/3893815451417347?f=rss",
+        "summary": "36氪获悉，字节跳动正探索进入自动驾驶领域，由Seed旗下周畅的世界模型团队负责。业务方向包括无人物流，隶属于火山引擎汽车行业线。",
+        "comment": "字节以世界模型切入自动驾驶，技术路线有交集。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "网易",
+        "title": "网易七年打磨《遗忘之海》公测，预约量破3600万",
+        "link": "https://36kr.com/p/3893769618569985?f=rss",
+        "summary": "网易Joker工作室7月9日公测海洋奇遇RPG《遗忘之海》，PC端先行，移动端7月23日上线。全网预约超3600万，TapTap、B站预约榜Top1，实机PV播放破千万。",
+        "comment": "七年磨一剑，网易在航海题材上展现了不俗的耐心与野心。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
         "tag": "物理AI",
         "title": "对话Om AI赵天成：押注物理AI原生的流式未来",
         "link": "https://36kr.com/p/3893445208717826?f=rss",
-        "summary": "Om AI的VLX多模态模型在未见过监控数据的情况下，表现优于传统小模型，验证了多模态训练对物理开放世界的泛化性。CEO赵天成坚持物理AI原生流式架构，与主流生成式AI路径不同。",
-        "comment": "物理AI原生路径另辟蹊径，泛化性验证是关键突破。",
+        "summary": "Om AI的多模态模型VLX在未见过监控数据的情况下，比传统小模型更懂监控，验证了多模态训练对物理世界的泛化性。CEO赵天成坚持流式架构，押注物理AI原生未来。",
+        "comment": "多模态泛化性突破，物理AI流式路径值得关注。",
         "image": "",
         "score": 97
       },
@@ -17,70 +37,320 @@
         "tag": "人形机器人",
         "title": "零差云控获数亿元C++轮融资，同创伟业领投",
         "link": "https://36kr.com/p/3885232033378308?f=rss",
-        "summary": "人形机器人关节公司零差云控完成数亿元C++轮融资，由同创伟业领投，资金将用于产能扩张和全球市场布局。",
-        "comment": "人形机器人赛道资本热度不减，核心零部件企业持续受益。",
+        "summary": "零差云控完成数亿元C++轮融资，由同创伟业领投，国泰君安创新投资跟投，老股东华控基金追加。资金将用于产能扩张和全球市场布局。",
+        "comment": "人形机器人关节赛道持续吸金，资本加速布局。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
-        "tag": "膳食补充剂",
-        "title": "纽邦生物获近2亿元C+轮融资，专注膳食补充剂原料",
-        "link": "https://36kr.com/p/3890940898867712?f=rss",
-        "summary": "南京纽邦生物完成近2亿元C+轮融资，由国寿股权领投，老股东明熙资本跟投。公司专注膳食补充剂原料研发，已推出40余款原创原料，在研产品超100项，覆盖运动营养、体重管理等领域。",
-        "comment": "原料创新是膳食补充剂行业的核心壁垒。",
+        "tag": "私域运营",
+        "title": "高转化抽奖活动设计：奖品、规则与传播路径拆解",
+        "link": "https://36kr.com/p/3893457328700165?f=rss",
+        "summary": "在微信私域生态中，抽奖是商家常用互动玩法，用于涨粉、促活、引流等。其优势是门槛低、反馈快、成本可控，但若设计不当，易成“一次热闹”，无法沉淀用户或实现转化。",
+        "comment": "抽奖设计需兼顾用户参与与后续转化。",
         "image": "",
         "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "倩碧",
+        "title": "倩碧发布重组PDRN护肤系列，加速布局医美护理市场",
+        "link": "https://36kr.com/p/3893519389293056?f=rss",
+        "summary": "雅诗兰黛旗下倩碧在中国推出CX肌源深修水光系列，以重组PDRN为核心成分，切入快速增长的PDRN护肤赛道，推动高端品牌从医美项目向长期肌肤管理转型。",
+        "comment": "重组PDRN技术或成高端护肤新突破口。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "lululemon",
+        "title": "lululemon在中国遭质疑，雨中瑜伽活动引争议",
+        "link": "https://36kr.com/p/3893430641703429?f=rss",
+        "summary": "lululemon在上海北外滩举办大型户外瑜伽活动，遭遇暴雨仍坚持完成，被网友批评为“矫揉造作”“不为用户着想”，品牌形象在中国市场面临审视。",
+        "comment": "品牌营销需平衡仪式感与用户关怀。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI硬件",
+        "title": "AI家庭智能硬件公司MOVA LINCO获数千万元天使融资",
+        "link": "https://36kr.com/p/3879780282495236?f=rss",
+        "summary": "威联机器人科技（深圳）有限公司完成数千万元天使融资，资金将用于AI算法研发、产品量产及全球化渠道布局，首款产品计划今年在海外上线。",
+        "comment": "AI家庭硬件赛道再获资本青睐，海外市场成突破口。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "四足机器人",
+        "title": "港中大博士创业消费级四足机器人，获正轩领投数千万元",
+        "link": "https://36kr.com/p/3893473722514181?f=rss",
+        "summary": "光之跃迁完成近五千万元天使轮融资，由正轩领投，多家机构跟投。公司聚焦消费级四足机器人，以“全地形移动底盘”为方向，资金用于研发、算法迭代及量产准备。",
+        "comment": "消费级四足机器人赛道再获资本青睐，技术落地仍需观察。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "融资",
+        "title": "纽邦生物获近2亿元C+轮融资，半年内第二笔超亿元融资",
+        "link": "https://36kr.com/p/3890940898867712?f=rss",
+        "summary": "南京纽邦生物完成近2亿元C+轮融资，由国寿股权领投，老股东明熙资本跟投。公司专注膳食补充剂原料研发，已推出40余款原创原料，在研管线超100项，覆盖运动营养、体重管理等领域。",
+        "comment": "膳食补充剂原料赛道持续受资本青睐。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "萨姆·尼尔",
+        "title": "《侏罗纪公园》主演萨姆·尼尔去世，享年78岁",
+        "link": "https://www.ign.com/articles/sam-neill-dies-at-78",
+        "summary": "多产演员萨姆·尼尔去世，享年78岁。他以《侏罗纪公园》等经典作品中的标志性角色闻名。",
+        "comment": "一位传奇演员的离去，影迷的损失。",
+        "image": "http://assets1.ignimgs.com/2014/01/11/sam-neilljpg-e97b66.jpg",
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "夜访吸血鬼",
+        "title": "《吸血鬼莱斯特》第六集呈现惊心动魄的季终前奏",
+        "link": "https://www.ign.com/articles/the-vampire-lestat-episode-6-montreal-executive-producer-hannah-moscovitch-interview",
+        "summary": "AMC剧集《夜访吸血鬼》第六集（原安妮·赖斯作品改编）呈现了本季最精彩、最震撼的剧情序列之一，为季终集埋下伏笔。",
+        "comment": "剧集高潮迭起，改编功力深厚。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/10/the-vampire-lestat-post-mort-week-6-blogroll-1783720193059.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "龙之家族",
+        "title": "《龙之家族》第三季第四集回顾与评论",
+        "link": "https://www.ign.com/articles/house-of-the-dragon-season-3-episode-4-review",
+        "summary": "本集内容丰富，充满阴谋，巧妙布局，将角色置于新的有趣组合中，推动剧情发展。",
+        "comment": "布局精妙，剧情推进有力。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/09/houseofthedragon-se03ep04-blogroll-01-1783618598009.jpg",
+        "score": 95
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI手机",
+        "title": "今年最期待的 AI 手机 Pixel 即将发布",
+        "link": "https://www.ifanr.com/1671872?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Pixel 手机或将成为 Gemini AI 的替身，爱范儿报道了这款备受期待的 AI 手机即将到来的消息。",
+        "comment": "AI 手机竞争加剧，Pixel 借 Gemini 突围。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI生图",
+        "title": "实测国产AI生图：指哪改哪的画笔玩法",
+        "link": "https://www.ifanr.com/1671817?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿实测一款国产AI生图工具，通过添加画笔功能实现精准局部修改，展示其创新交互方式。",
+        "comment": "AI生图进入精细化控制阶段，国产工具创新值得关注。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "曝苹果M7 Ultra最高支持1.5TB内存，海力士CEO预警明年储存短缺",
+        "link": "https://www.ifanr.com/1671746?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "大众计划削减一半车型线，全球裁员或达12万人；扎克伯格否认Meta算力过剩；宇树G1机器人完成两例活体手术登上《自然》。",
+        "comment": "科技巨头竞逐算力与存储，行业格局加速重塑。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "山姆·尼尔",
+        "title": "《侏罗纪公园》演员山姆·尼尔去世，享年78岁",
+        "link": "https://www.gcores.com/articles/217104",
+        "summary": "7月13日，外媒报道《侏罗纪公园》系列中饰演格兰特博士的演员山姆·尼尔于家中离世，享年78岁。他出生于北爱尔兰，活跃于影视界，代表作包括《侏罗纪公园》《钢琴课》《雷神4》等。",
+        "comment": "一位经典角色塑造者的离去，影迷的损失。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "Codex",
+        "title": "Codex 不限时，GPT-5.6 官方指南发布",
+        "link": "https://www.ifanr.com/1671899?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Codex 取消时间限制，用户可删除 Skills，附 GPT-5.6 官方指南，强调人类学工程在 AI 交互中的重要性。",
+        "comment": "AI 工具迭代加速，用户体验优化是关键。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "蔚来",
+        "title": "对话蔚来李斌：2026年新车已发完，将专注卖车",
+        "link": "https://www.ifanr.com/1671798?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "蔚来创始人李斌表示，公司已发布完2026年前所有新车计划，接下来将集中精力提升销售和交付能力。",
+        "comment": "提前亮牌，聚焦执行，蔚来进入冲刺期。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "机器人",
+        "title": "任天堂超级怪手劲敌：机器人手灵活过头",
+        "link": "https://www.ifanr.com/1671799?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "一款机器人手部技术突破，灵活度超越任天堂超级怪手，引发科技界关注。",
+        "comment": "机器人灵巧手技术再突破，竞争推动创新。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI硬件",
+        "title": "2026最值得期待的AI硬件是卡片",
+        "link": "https://www.ifanr.com/1671775?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AI硬件应减少个人信息收集，更多帮助打工人提高工作效率。",
+        "comment": "AI硬件需回归实用本质。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "三星",
         "title": "三星阔折叠手机即将发布，能否挑战苹果华为？",
         "link": "https://www.ifanr.com/1671749?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星计划推出新款折叠屏手机，设计更宽大，旨在与苹果和华为竞争高端市场。",
-        "comment": "折叠屏市场再添变数，三星创新值得关注。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "曝苹果M7 Ultra最高支持1.5TB内存，海力士预警明年储存短缺",
-        "link": "https://www.ifanr.com/1671746?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "大众计划削减一半车型线，全球裁员或达12万人；扎克伯格否认Meta算力过剩；宇树G1机器人完成两例活体手术登上《自然》。",
-        "comment": "硬件升级与行业预警并存，科技巨头动态密集。",
+        "summary": "三星计划推出新款折叠屏手机，定位高端市场，旨在与苹果和华为竞争，但具体配置和发布时间尚未公布。",
+        "comment": "折叠屏市场再添变数，三星能否突围存疑。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "英雄联盟",
-        "title": "《英雄联盟》国服经典模式7月30日上线",
-        "link": "https://www.gcores.com/articles/217071",
-        "summary": "《英雄联盟》国服经典模式定档7月30日实装，内嵌于现有客户端，无需单独下载。远古装备回归，符文与天赋系统重现，预约即送满配符文。",
-        "comment": "经典模式回归，情怀与玩法双赢。",
+        "tag": "女神异闻录3",
+        "title": "《女神异闻录3》20周年及Reload销量破300万，Atlus发贺图",
+        "link": "https://www.gcores.com/articles/217102",
+        "summary": "7月13日，为纪念《女神异闻录3》发售20周年及《Reload》全球销量破300万，Atlus公布副岛成记贺图及特别纪念MV，融合DJ VaVa改编乐曲与像素动画。",
+        "comment": "经典IP的持续影响力与重制版市场表现双丰收。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "育碧",
-        "title": "育碧就《刺客信条：黑旗 记忆重置》问题致歉并补偿",
-        "link": "https://www.gcores.com/articles/217066",
-        "summary": "育碧为《刺客信条：黑旗 记忆重置》的创作者抢先体验及游戏问题致歉，所有购买玩家可免费领取“深红风暴船帆”和1500枚“Animus密钥”，限时兑换。制作人Justin Ng回应中国玩家。",
-        "comment": "补偿诚意有限，但限时领取策略略显仓促。",
+        "tag": "游戏影视",
+        "title": "土耳其教授单人研发5年，历史4X游戏《帝国的夙愿》今日发售",
+        "link": "https://www.gcores.com/articles/217095",
+        "summary": "由土耳其教授单人研发的历史4X策略游戏《帝国的夙愿》于7月13日正式发售，国区首发优惠价49.5元。游戏特色包括军队纵队移动、战线管理及社会阶级系统。",
+        "comment": "单人研发5年，品质值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "女神异闻录",
+        "title": "《女神异闻录4 Revival》公布中文语音宣传片",
+        "link": "https://www.gcores.com/articles/217089",
+        "summary": "《女神异闻录4 Revival》公布中文语音宣传片，玩家将追查乡下小镇凶杀案与都市传说，与觉醒人格面具的同伴一起阻止案件，踏上追寻真相的旅程。",
+        "comment": "中文语音加持，经典JRPG焕发新魅力。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "全面战争",
+        "title": "《全面战争：战锤40K》BilibiliWorld 2026实机演示公布",
+        "link": "https://www.gcores.com/articles/217087",
+        "summary": "在BilibiliWorld 2026特别舞台，全球首发《全面战争：战锤40K》实机演示。战斗发生在哈米吉多顿战区，星界军对抗欧克蛮人入侵，利用地形布防后因正面攻势溃败，被迫战术撤退。",
+        "comment": "实机演示展现策略深度，星界军战术撤退显真实感。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "译介：关于如何聊独立游戏的一点建议",
+        "link": "https://www.gcores.com/articles/217084",
+        "summary": "翻译自资深独立游戏设计师Michael Brough的博客，探讨如何撰写独立游戏评论，已获授权。作者新作868-BACK是一款抽象硬核的roguelike服务器地城冒险游戏。",
+        "comment": "独立游戏评论需避免陈词滥调，回归游戏本质。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《英菲尼迪：六角穹顶竞技场》9月11日发售",
+        "link": "https://www.gcores.com/articles/217073",
+        "summary": "Blindspot Games开发的回合制战术游戏《英菲尼迪：六角穹顶竞技场》定于9月11日发售，融合桌游《Aristeia!》战术深度，提供1v1竞技对战。",
+        "comment": "桌游改编战术游戏，策略与操作并重。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "瑞克和莫蒂",
+        "title": "《瑞克和莫蒂》第九季第6-8集评测与回顾",
+        "link": "https://www.ign.com/articles/rick-and-morty-season-9-episodes-6-8-review-recap",
+        "summary": "IGN对《瑞克和莫蒂》第九季第6至8集进行详细评测，其中一集表现尤为突出，成为本批次最佳。",
+        "comment": "本批次质量参差，但亮点集数值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/13/mv5bnmflzgfly2utzdnhyi00zgu3lwiwmtgtnwy0mdi3y2i5ytkzxkeyxkfqcgc-v1-1783910553091.jpg",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "双主角幻想ARPG《星之旅》7月29日登陆PC",
+        "link": "https://www.gcores.com/articles/217091",
+        "summary": "月相仪工作室开发的手绘等距视角ARPG《星之旅》将于2026年7月29日在Steam平台发售，玩家将扮演两位少女艾芙与卢恩，踏上净化破碎世界的冒险之旅。",
+        "comment": "双主角手绘风ARPG值得期待，但发售日尚远。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏更新",
+        "title": "《黑帮霸主：地下帝国》新鲜血液更新7月14日上线",
+        "link": "https://www.gcores.com/articles/217094",
+        "summary": "发行商Tripwire Presents与开发商BEF Games宣布，《黑帮霸主：地下帝国》的“新鲜血液”更新将于7月14日在Steam抢先体验平台上线，该更新基于前两次更新，进一步优化战役模式。",
+        "comment": "持续更新为游戏注入活力，但抢先体验仍需打磨。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "曼谷",
-        "title": "曼谷酒吧火灾致27死8重伤",
+        "title": "曼谷酒吧火灾致27死22重伤",
         "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-        "summary": "消防员抵达曼谷乍都乍区现场时，发现顾客正穿过火焰逃生。火灾已造成至少27人死亡、8人重伤。",
-        "comment": "安全监管漏洞再酿惨剧，需严查责任。",
+        "summary": "曼谷乍都乍区一家酒吧发生火灾，消防员赶到时，顾客正穿过火焰逃生。",
+        "comment": "火灾伤亡惨重，凸显娱乐场所消防安全隐患。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "西班牙野火",
+        "title": "英国夫妇返回西班牙致命野火中心村庄",
+        "link": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+        "summary": "西班牙阿尔梅里亚省周四野火已致至少13人死亡，其中5人疑为英国人。",
+        "comment": "野火无情，跨国悲剧凸显气候危机。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "机核",
+        "title": "机核会员专享节目录音笔VOL.740：谁是好人",
+        "link": "https://www.gcores.com/radios/217105",
+        "summary": "GPASS会员专享节目，记录机核办公室日常对话与生活片段，时长约十几分钟，内容随机且真实。",
+        "comment": "办公室日常录音，轻松有趣但非核心内容。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "野火",
+        "title": "巴黎附近罕见大规模野火，消防飞机首次从南部调派",
+        "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+        "summary": "法国首次从通常更干燥炎热的南部调派消防飞机，前往巴黎地区扑灭规模异常的野火。",
+        "comment": "气候异常导致火灾模式改变，应急响应需跨区域协同。",
+        "image": "",
+        "score": 87
       }
     ]
   }
