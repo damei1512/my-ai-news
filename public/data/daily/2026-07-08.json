@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "OpenAI公布政府与国家安全合作原则",
+        "tag": "人工智能",
+        "title": "OpenAI政府与国家安全合作方针",
         "link": "https://openai.com/index/government-national-security-partnerships",
-        "summary": "OpenAI阐述其与政府和国家安全机构合作的方式，强调负责任AI使用、民主问责和公共安全原则。",
-        "comment": "AI巨头主动划定合作红线，平衡安全与创新。",
+        "summary": "OpenAI发布政府与国家安全合作框架，阐述负责任AI使用、民主问责和公共安全原则。",
+        "comment": "AI巨头主动制定合作规则，影响行业标准。",
         "image": "",
         "score": 100
       },
@@ -17,28 +17,28 @@
         "tag": "人工智能",
         "title": "OpenAI分析揭示SWE-Bench Pro编码基准可靠性问题",
         "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-        "summary": "OpenAI新分析指出，流行编码基准SWE-Bench Pro存在信号与噪声混淆问题，引发对AI模型评估可靠性和准确性的担忧。",
-        "comment": "基准测试的噪声问题亟待解决，否则误导AI发展。",
+        "summary": "OpenAI新分析指出，流行编码基准SWE-Bench Pro存在噪声问题，影响AI模型评估的可靠性和准确性。",
+        "comment": "基准测试的噪声问题需警惕，评估方法亟待改进。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI与基金会合作帮助K-12教师掌握实用AI技能",
+        "title": "OpenAI与基金会合作助力K-12教师掌握实用AI技能",
         "link": "https://openai.com/index/k-12-educators-practical-skills",
-        "summary": "OpenAI Academy与Walton Family Foundation合作，通过AI Skills Jams为K-12教师提供课堂实用AI技能培训。",
-        "comment": "教育领域AI落地需从教师培训开始。",
+        "summary": "OpenAI Academy与沃尔顿家族基金会合作，通过实践AI技能工作坊，帮助K-12教育工作者在课堂上应用AI。",
+        "comment": "AI教育落地需从教师培训切入。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出GPT-Live语音模型，赋能ChatGPT语音交互",
+        "tag": "人工智能",
+        "title": "OpenAI推出GPT-Live，新一代语音模型赋能ChatGPT语音",
         "link": "https://openai.com/index/introducing-gpt-live",
-        "summary": "OpenAI发布新一代语音模型GPT-Live，旨在实现更自然的人机语音交互，现已应用于ChatGPT语音功能。",
-        "comment": "语音交互体验有望迎来质变。",
+        "summary": "OpenAI发布GPT-Live，新一代语音模型，用于实现更自然的人机交互，现已支持ChatGPT语音功能。",
+        "comment": "语音交互体验迎来重要升级。",
         "image": "",
         "score": 100
       }
