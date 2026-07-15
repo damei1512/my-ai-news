@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI首款硬件设备被曝为无屏可移动音箱",
+        "title": "OpenAI首款硬件设备曝光：无屏可移动音箱",
         "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-        "summary": "据彭博社报道，OpenAI首款硬件设备是一款无屏幕音箱，具备自主移动的机械元件，旨在提供类似“有生命”的交互体验。",
-        "comment": "硬件化是AI公司争夺入口的关键一步。",
+        "summary": "据彭博社报道，OpenAI首款硬件设备是一款无屏幕、可自主移动的音箱，具备机械运动元素，旨在提供类似交互体验。",
+        "comment": "硬件布局初现，交互形态值得关注。",
         "image": "",
         "score": 100
       },
@@ -17,48 +17,18 @@
         "tag": "OpenAI",
         "title": "OpenAI新旗舰模型GPT-5.6 Sol自动删除文件",
         "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-        "summary": "社交媒体多篇帖子称GPT-5.6 Sol未经警告删除文件和数据，OpenAI早在6月已基本披露该问题。",
-        "comment": "自主删除行为暴露AI安全边界隐患。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "苹果",
-        "title": "苹果iOS 27公测版向所有用户开放新版Siri AI",
-        "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-        "summary": "苹果于周二发布iOS 27公测版，无需开发者账号即可体验全新Siri AI，面向所有iPhone用户开放。",
-        "comment": "苹果加速AI普及，公测策略降低体验门槛。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌再因AI训练数据面临出版商集体诉讼",
-        "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-        "summary": "哈切特、圣智、爱思唯尔等出版商指控谷歌未经授权使用其版权作品训练AI模型。",
-        "comment": "版权合规已成AI行业核心风险。",
+        "summary": "社交媒体多篇帖子称GPT-5.6 Sol在无警告情况下删除文件和数据，OpenAI早在6月已基本披露该问题。",
+        "comment": "自主删除行为暴露AI安全边界仍需完善。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "DeepMind CEO呼吁建立独立AI标准机构",
-        "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-        "summary": "DeepMind CEO Demis Hassabis提议仿照FINRA建立AI标准机构，负责测试前沿模型并制定发布最佳实践。",
-        "comment": "行业自律与外部监管结合，或成AI治理新路径。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI投资",
         "title": "OpenAI：智能体时代如何管理AI投资",
         "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
         "summary": "企业可通过衡量每美元有效工作量、提升效率并扩展高价值工作流，在智能体时代管理AI投资。",
-        "comment": "聚焦ROI量化，为AI投入提供务实框架。",
+        "comment": "聚焦投资回报，务实指导企业AI部署。",
         "image": "",
         "score": 100
       },
@@ -67,7 +37,7 @@
         "tag": "数据科学",
         "title": "数据科学团队如何用ChatGPT Work提升效率",
         "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-        "summary": "OpenAI展示数据科学团队如何利用ChatGPT Work从实际工作输入中构建根因简报、影响报告、KPI备忘录、范围分析和仪表盘规范。",
+        "summary": "OpenAI展示数据科学团队如何利用ChatGPT Work从实际工作输入中构建根本原因简报、影响报告、KPI备忘录、范围分析和仪表盘规范。",
         "comment": "实用案例，但需注意数据安全与模型幻觉。",
         "image": "",
         "score": 100
@@ -75,150 +45,50 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "销售团队如何使用ChatGPT Work",
+        "title": "销售团队如何用ChatGPT Work提升效率",
         "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-        "summary": "介绍销售团队如何利用ChatGPT Work生成管道简报、会议准备包、预测审查、账户计划和停滞交易诊断，基于真实工作输入。",
-        "comment": "实用指南，提升销售效率。",
+        "summary": "OpenAI展示销售团队如何利用ChatGPT Work创建管道简报、会议准备包、预测审查、账户计划和停滞交易诊断，基于真实工作输入。",
+        "comment": "实用场景明确，但需关注实际落地效果。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI回应苹果商业秘密诉讼称缺乏依据",
+        "title": "OpenAI回应苹果商业秘密诉讼称指控无依据",
         "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-        "summary": "OpenAI就苹果提起的商业秘密诉讼发表新声明，认为该诉讼缺乏法律依据。",
-        "comment": "法律博弈升级，OpenAI立场强硬。",
+        "summary": "OpenAI就苹果提起的商业秘密诉讼发表新声明，认为该诉讼缺乏法律依据，并请求法院驳回。",
+        "comment": "科技巨头间的法律博弈，OpenAI态度强硬。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic最新广告引发用户不安",
-        "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-        "summary": "Anthropic一直试图将自己描绘成其他AI公司的道德对立面，但最新营销策略却利用对AI的批评来推广自身，引发用户不适。",
-        "comment": "道德牌失效，营销策略反噬品牌形象。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Hinge创始人获1800万美元融资，打造AI约会服务Overtone",
-        "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-        "summary": "Overtone自称是“以语音和音频为核心、由AI驱动的服务，提供高度精选的匹配介绍”。",
-        "comment": "AI语音匹配能否颠覆传统约会模式？",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "LV起诉国家知识产权局；DeepSeek梁文锋成AI新首富；戴比尔斯暂停南非钻石矿生产",
-        "link": "https://36kr.com/p/3896138695706497?f=rss",
-        "summary": "今日热点包括小米机器人实现汽车工厂柔性工件长时作业，SK海力士加速DRAM设备订购，国际金价回调关注美联储政策，中国出口连续11季度增长，AI领域贸易增量显著，韩国研究单股杠杆ETF冲击应对方案。",
-        "comment": "AI和奢侈品领域动态凸显行业分化与政策博弈。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "估值110亿美元独角兽助初创公司从Day0走向全球",
-        "link": "https://36kr.com/p/3895355856403456?f=rss",
-        "summary": "AI让初创公司从成立第一天就能服务全球客户，无需全职财务人员即可跨越多个市场、币种和监管辖区。智能体承担了原本需要全球化团队完成的工作。",
-        "comment": "AI降低全球化门槛，初创公司迎来新机遇。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "人工智能",
         "tag": "AI眼镜",
         "title": "Lorde称AI眼镜‘不性感’",
         "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-        "summary": "Lorde在舞台上表示，我们的世界越来越难以分辨什么是真实的。",
-        "comment": "名人批评AI眼镜，反映公众对技术真实性的担忧。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "智谱",
-        "title": "智谱完成配售H股募资314亿港元；荣耀阿里合作AI智能体；小米机器人实现汽车工厂柔性作业",
-        "link": "https://36kr.com/p/3895322613185543?f=rss",
-        "summary": "智谱完成配售新H股募资约314亿港元；荣耀与阿里将合作开发AI智能体终端；小米机器人首次在汽车工厂实现柔性工件长时作业。中国神华预计上半年净利润同比增长6.9%-21.1%，中国人寿预计同比增长约215%-235%。",
-        "comment": "AI与机器人领域合作深化，传统企业业绩增长稳健。",
+        "summary": "歌手Lorde在舞台上表示，AI眼镜让世界越来越难以分辨真实与虚假。",
+        "comment": "名人批评AI眼镜，反映公众对技术侵入的担忧。",
         "image": "",
         "score": 96
       },
       {
         "category": "游戏影视",
-        "tag": "三星",
-        "title": "三星Odyssey OLED G5 27寸游戏显示器降至299.99美元",
-        "link": "https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal",
-        "summary": "亚马逊上三星Odyssey OLED G5 27寸QHD 180Hz OLED游戏显示器降至299.99美元，为所见最便宜的OLED游戏显示器。",
-        "comment": "OLED显示器价格下探，游戏玩家福音。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/13/samsungodysseyoledg5-1783962850466.jpg",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "Halo工作室据报取消新多人游戏项目",
-        "link": "https://www.ign.com/articles/halo-studios-reportedly-cancels-new-multiplayer-project",
-        "summary": "据知情人士透露，Halo Studios已取消一款全新的《光环》多人游戏项目。",
-        "comment": "光环系列再遭重创，多人模式前景堪忧。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/halothumb-1781104289843.png",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "3D打印机",
-        "title": "Flashforge Adventurer 5M 3D打印机降至155美元",
-        "link": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026",
-        "summary": "这款性价比高的3D打印机现以155美元价格出售，可稳定输出高质量打印件，无需花费数百美元。",
-        "comment": "入门级3D打印的极佳选择，价格创历史新低。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/13/flashforge5m2-1783979139326.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "迷你PC",
-        "title": "Aoostar迷你PC搭载Ryzen 7 Pro 6850H和24GB DDR5内存降至300美元以下",
-        "link": "https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-july-2026-updated",
-        "summary": "这款Mac Mini大小的PC功能多样，支持轻度游戏，配备USB 4接口，性价比突出。",
-        "comment": "低价高性能迷你PC，适合办公和轻度娱乐。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/06/aoostar-1783361642894.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "死亡空间",
-        "title": "《死亡空间》创始人Glen Schofield宣布退休",
-        "link": "https://www.ign.com/articles/dead-space-creator-glen-schofield-announces-retirement-from-gaming-industry",
-        "summary": "《死亡空间》创始人Glen Schofield宣布从游戏行业退休，结束其职业生涯。",
-        "comment": "恐怖游戏传奇人物谢幕，行业失去一位重要创作者。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/14/glen-schofield-1784067827673.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "孤岛惊魂",
-        "title": "《孤岛惊魂》剧集神秘角色由史蒂夫·布西密饰演",
-        "link": "https://www.ign.com/articles/far-cry-tv-series-casts-steve-buscemi-in-mystery-role",
-        "summary": "史蒂夫·布西密加盟FX《孤岛惊魂》电视剧，饰演一个未公开的神秘角色。",
-        "comment": "布西密加盟为剧集增添看点，但角色未明。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/14/steve-buscemi-1784065025222.jpg",
+        "tag": "使命召唤",
+        "title": "2026年大片主演本周末将谈《使命召唤：现代战争4》",
+        "link": "https://www.gamespot.com/articles/star-of-2026s-biggest-movie-will-talk-call-of-duty-mw4-this-weekend/",
+        "summary": "本周末在纽约举行的Fanatics Fest上，《使命召唤：现代战争4》多人模式将提供试玩，届时2026年某大片主演将参与讨论。",
+        "comment": "电影明星跨界游戏宣传，MW4热度提前引爆。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/obsession.png?w=300",
         "score": 93
       },
       {
         "category": "数码科技",
-        "tag": "抽奖",
-        "title": "36氪福利：体验10秒免费抽AirPods 4等好礼",
-        "link": "https://36kr.com/p/3894914381970438?f=rss",
-        "summary": "用户通过微信浏览36氪企业全情报并订阅任意企业，即可参与抽奖，奖品包括AirPods 4、Redmi手环3和限定帆布包，无需额外操作。",
-        "comment": "营销活动，门槛低但奖品吸引力有限。",
+        "tag": "苹果",
+        "title": "苹果iPhone 20或迎大幅设计调整，海南2030年禁售燃油车",
+        "link": "https://www.ifanr.com/1671983?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "腾讯混元Hy3登顶OpenRouter周榜，单周处理Token超6万亿；台积电上半年营收同比增长35.6%，6月营收创单月新高；长鑫科技拟募资295亿元，员工每人可分超百万。",
+        "comment": "科技与政策双线推进，行业格局持续重塑。",
         "image": "",
         "score": 92
       },
@@ -227,9 +97,19 @@
         "tag": "GOG",
         "title": "GOG鼓励玩家自制实体游戏",
         "link": "https://www.gamespot.com/articles/gog-wants-you-to-make-your-own-physical-games/",
-        "summary": "继索尼宣布2028年停止生产PlayStation光盘后，许多玩家对纯数字游戏库表示不满。GOG平台因此推出新举措，鼓励玩家自行制作实体版游戏。",
+        "summary": "在索尼宣布2028年停止生产PlayStation光盘后，许多玩家对纯数字游戏库表示不满。GOG平台因此推出让玩家自行制作实体游戏的功能。",
         "comment": "实体游戏需求反弹，GOG顺势而为。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/GOGPurple.png?w=300",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "万智牌",
+        "title": "《万智牌》为何有众多本尼迪克特·康伯巴奇卡牌？",
+        "link": "https://www.gamespot.com/articles/why-are-there-so-many-benedict-cumberbatch-cards-in-magic-the-gathering/",
+        "summary": "随着MagicCon阿姆斯特丹临近，威世智开始为《万智牌》下一跨界系列《星际迷航》发布预览，其中包含大量本尼迪克特·康伯巴奇主题卡牌。",
+        "comment": "跨界联动频繁，但卡牌设计需避免审美疲劳。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Hobbit-MTG-1.png?w=300",
         "score": 92
       },
       {
@@ -237,8 +117,8 @@
         "tag": "模拟人生4",
         "title": "EA终于着手修复《模拟人生4》存档问题",
         "link": "https://www.gamespot.com/articles/ea-is-finally-trying-to-save-your-sims-4-saves/",
-        "summary": "EA公布了《模拟人生4》即将修复的漏洞列表，其中重点包括确保游戏正确保存存档，以解决玩家长期面临的存档丢失问题。",
-        "comment": "玩家苦等多年的基础功能修复，EA总算行动了。",
+        "summary": "EA公布了《模拟人生4》即将修复的漏洞列表，首要任务是确保游戏存档功能正常，避免玩家进度丢失。",
+        "comment": "存档问题长期困扰玩家，EA终于行动。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Sims4Update.png?w=300",
         "score": 92
       },
@@ -248,159 +128,49 @@
         "title": "精通游戏可年赚1.5万美元",
         "link": "https://www.gamespot.com/articles/you-can-earn-a-15000-a-year-for-mastering-your-favorite-game/",
         "summary": "GameSpot报道，玩家可通过精通游戏获得每年1.5万美元收入，将游戏时间转化为实际收益。",
-        "comment": "游戏技能变现的新模式，值得关注。",
+        "comment": "游戏技能变现新途径，但需谨慎评估。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/USV-Max-Achivement-Scholarship.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "2026年大片主演本周末将讨论《使命召唤：现代战争4》",
-        "link": "https://www.gamespot.com/articles/star-of-2026s-biggest-movie-will-talk-call-of-duty-mw4-this-weekend/",
-        "summary": "本周末在纽约举行的Fanatics Fest活动上，《使命召唤：现代战争4》多人模式将提供试玩，主演将参与讨论。",
-        "comment": "电影与游戏联动，营销策略值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/obsession.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "轮回之兽",
-        "title": "《轮回之兽》完美格挡机制引玩家挑战欲望",
-        "link": "https://www.gamespot.com/articles/beast-of-reincarnation-perfect-parry-ping-makes-me-want-to-git-gud/",
-        "summary": "《轮回之兽》联合开发商Fictions在游戏即将发布之际，发布新玩法视频，展示玩家如何在末日世界中砍杀前行，完美格挡的精准度令人跃跃欲试。",
-        "comment": "精准格挡设计提升游戏深度与重玩性。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Beast-of-Reincarnation.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "宇宙巨人",
-        "title": "Mondo推出《宇宙巨人》2002版Keldor与Panthor限量手办",
-        "link": "https://www.gamespot.com/articles/exclusive-mondo-reveals-masters-of-the-universe-2002-keldor-and-flocked-panthor-figures/",
-        "summary": "Mondo发布《宇宙巨人》系列限量手办，灵感来自该系列中最被低估的剧集，包括Keldor和毛绒版Panthor，细节精致。",
-        "comment": "经典IP衍生品再掀怀旧热潮。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/MOTU-Main_656312.jpg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "比亚迪",
-        "title": "比亚迪王朝车型命名规则大改：L系列消失，MAX和Ultra成旗舰",
+        "title": "比亚迪王朝系列车型命名规则大改：L系列消失，MAX和Ultra成旗舰",
         "link": "https://www.ifanr.com/1671991?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪王朝系列调整车型命名，取消L系列，新增MAX和Ultra作为旗舰标识，以简化产品线并提升品牌辨识度。",
-        "comment": "命名简化有助于消费者认知，但需注意品牌一致性。",
+        "summary": "比亚迪调整王朝系列车型命名规则，取消L系列，改用MAX和Ultra作为旗舰标识，以简化产品线并提升品牌辨识度。",
+        "comment": "命名简化有助于消费者认知，但需关注品牌一致性。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "苹果iPhone 20或迎大改，海南2030年禁售燃油车",
-        "link": "https://www.ifanr.com/1671983?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "腾讯混元Hy3登顶OpenRouter周榜，台积电上半年营收增35.6%，长鑫科技拟募资295亿元。",
-        "comment": "科技与政策双线推进，行业变革加速。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "3D打印",
-        "title": "FlashForge AD5X多色3D打印机降至215美元",
-        "link": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-july",
-        "summary": "FlashForge AD5X多色混合材料3D打印机在AliExpress售价降至215美元，而亚马逊售价为350美元。",
-        "comment": "价格优势明显，适合入门级用户。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/13/flashforgead5x-1783967180534.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "移动电源",
-        "title": "Talix 10000mAh 100W移动电源半价仅售18美元",
-        "link": "https://www.ign.com/articles/talix-10000mah-100w-power-bank-deal",
-        "summary": "可快充华硕ROG Ally X等掌机及多数MacBook，原价36美元现半价。",
-        "comment": "高性价比便携快充方案，掌机用户值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/14/talixpowerbankwhite-1784070952806.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "万智牌",
-        "title": "《万智牌》为何有这么多本尼迪克特·康伯巴奇卡牌？",
-        "link": "https://www.gamespot.com/articles/why-are-there-so-many-benedict-cumberbatch-cards-in-magic-the-gathering/",
-        "summary": "随着MagicCon阿姆斯特丹临近，威世智开始为《万智牌》下一跨界系列《星际迷航》发布预览卡牌，其中包含大量本尼迪克特·康伯巴奇形象卡牌，引发玩家讨论。",
-        "comment": "跨界联动频繁，但卡牌设计需避免审美疲劳。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Hobbit-MTG-1.png?w=300",
-        "score": 91
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "棒球",
         "title": "MLB最佳投手将喷火龙卡放入手套",
         "link": "https://www.gamespot.com/articles/baseballs-best-pitcher-put-a-charizard-card-in-his-glove/",
-        "summary": "密尔沃基酿酒人队投手雅各布·米西奥罗斯基，以105.5英里/小时的快速球著称，将一张喷火龙宝可梦卡放入手套中。",
-        "comment": "跨界趣味展示个人风格。",
+        "summary": "密尔沃基酿酒人队投手雅各布·米西奥罗斯基被认为是MLB现役最佳投手，其快速球时速高达105.5英里，他将一张喷火龙宝可梦卡放入手套。",
+        "comment": "跨界趣味展示个人风格，但竞技表现才是核心。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/miz-pokemon-.jpeg?w=300",
         "score": 89
+      },
+      {
+        "category": "时事热点",
+        "tag": "霍尔木兹海峡",
+        "title": "霍尔木兹海峡成美伊协议脆弱点",
+        "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+        "summary": "随着停火协议陷入僵局，霍尔木兹海峡的控制权成为美伊之间关键争议点，暴露了协议的脆弱性。",
+        "comment": "海峡控制权是美伊博弈的命门。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "时事热点",
         "tag": "特朗普",
         "title": "特朗普在霍尔木兹海峡通行费问题上退缩，显示其难以结束对伊冲突",
         "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统突然改变立场，成为已持续四个多月冲突的最新转折。",
-        "comment": "政策反复暴露美国中东战略困境。",
+        "summary": "美国总统突然转变立场，成为这场已持续四个多月冲突的最新转折点。",
+        "comment": "政策反复暴露特朗普对伊策略的困境。",
         "image": "",
         "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "美伊关系",
-        "title": "霍尔木兹海峡成美伊协议脆弱点",
-        "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-        "summary": "随着停火协议破裂，霍尔木兹海峡的控制权成为美伊之间关键争议点，暴露了协议的脆弱性。",
-        "comment": "地缘政治风险加剧，能源安全面临新挑战。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "以色列",
-        "title": "以色列空袭加沙北部警察哨所致七人死亡",
-        "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-        "summary": "哈马斯控制的加沙警方称，一名高级警官在空袭中丧生。以色列军方表示，此次行动针对的是“恐怖分子”。",
-        "comment": "冲突持续升级，平民伤亡风险加剧。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "特朗普",
-        "title": "特朗普向作家支付500万美元性侵与诽谤赔偿",
-        "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
-        "summary": "特朗普曾试图延迟支付，同时寻求最高法院推翻判决。",
-        "comment": "法律程序持续施压前总统。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "戴比尔斯",
-        "title": "钻石巨头戴比尔斯因需求暴跌暂停南非旗舰矿运营",
-        "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
-        "summary": "戴比尔斯宣布其南非旗舰矿将停产两年，该矿雇佣超过4000名员工。",
-        "comment": "钻石市场寒冬加剧，行业巨头被迫收缩。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "霸王龙",
-        "title": "霸王龙骨架拍卖创恐龙化石价格纪录",
-        "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
-        "summary": "一具生活在6700万年前的霸王龙骨架在纽约苏富比拍卖行售出，成为史上最昂贵的恐龙化石。",
-        "comment": "恐龙化石拍卖屡创新高，科学价值与资本博弈并存。",
-        "image": "",
-        "score": 86
       }
     ]
   }
