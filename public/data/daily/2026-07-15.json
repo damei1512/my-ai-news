@@ -4,56 +4,6 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "微软",
-        "title": "微软培训销售团队贬低OpenAI与Anthropic模型",
-        "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-        "summary": "微软正培训销售人员，推广自家AI模型，称其比竞争对手OpenAI和Anthropic的模型更高效、更具成本效益。",
-        "comment": "微软内部竞争策略升级，直指合作伙伴。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "开放模型",
-        "title": "Thinking Machines发布首个开放模型Inkling，挑战通用AI",
-        "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-        "summary": "该公司在公开视野外建设AI基础设施一年半后，首次公开证明其反对一刀切AI的立场。",
-        "comment": "开放模型策略或推动AI定制化发展。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "黑客入侵显示AI音乐生成器Suno从YouTube抓取训练数据",
-        "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-        "summary": "黑客利用员工凭证访问源代码，揭示了Suno如何抓取数十年音频数据用于训练。",
-        "comment": "数据来源争议再起，AI音乐版权问题亟待规范。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "微软借助AI修复创纪录的570个安全漏洞",
-        "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-        "summary": "微软在7月补丁星期二中修复了570个安全漏洞，创下历史新高。公司称AI技术帮助发现了这些漏洞，覆盖其全线产品。",
-        "comment": "AI辅助安全修复效率显著提升，但漏洞数量激增也暴露了系统复杂性。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic与Ode合资：AI服务将重塑企业咨询",
-        "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-        "summary": "Ode与Anthropic成立合资企业，专注于将前沿AI部署到企业服务中，试图用少量工程师替代传统咨询团队。",
-        "comment": "AI服务能否取代人力咨询？Ode的赌注值得关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "AI安全",
         "title": "美国通过州与联邦行动推进AI安全",
         "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
@@ -64,61 +14,21 @@
       },
       {
         "category": "人工智能",
-        "tag": "AI安全",
+        "tag": "人工智能",
         "title": "OpenAI发布GPT-Red：通过自对弈提升AI鲁棒性",
         "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-        "summary": "OpenAI推出GPT-Red自动化红队系统，利用自对弈机制持续提升AI安全、对齐能力及对抗提示注入的鲁棒性。",
-        "comment": "自对弈红队化是AI安全领域的关键突破。",
+        "summary": "OpenAI推出GPT-Red自动化红队系统，利用自对弈机制提升AI安全性、对齐能力及提示注入鲁棒性。",
+        "comment": "自对弈是提升AI安全性的高效路径。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI陷硬件诉讼，发布230美元Codex键盘",
-        "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-        "summary": "OpenAI在与苹果的硬件商业机密诉讼中，推出了一款售价230美元的发光键盘，专为其编程代理Codex设计。",
-        "comment": "诉讼期间推硬件，营销噱头大于实用。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "SpaceX",
-        "title": "SpaceX股价跌至135美元IPO价，星舰发射在即",
-        "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-        "summary": "SpaceX股价从IPO后高点持续回落，显示市场对CEO马斯克此前承诺的乐观情绪正在消退，星舰发射前投资者趋于理性。",
-        "comment": "市场对SpaceX的估值泡沫正在挤出。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Whatnot收购AI初创公司Shaped，强化实时直播购物推荐",
-        "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-        "summary": "直播购物平台Whatnot收购了AI初创公司Shaped，后者专注于实时推荐和搜索的机器学习技术。此次收购将增强Whatnot的个性化推荐能力。",
-        "comment": "实时推荐是直播电商的关键，收购有助于提升用户体验。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "数码科技",
         "tag": "端侧大模型",
         "title": "面壁智能端侧大模型将搭载三星手机上市",
         "link": "https://36kr.com/p/3896830362601351?f=rss",
-        "summary": "独家获悉，面壁智能与三星手机达成合作，其MiniCPM系列端侧模型将覆盖数款旗舰机型。同日，网信部门公告包括Apple智能等7款手机端侧AI服务完成备案。",
-        "comment": "端侧AI落地加速，三星与国产模型合作值得关注。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "新能源",
-        "title": "LG新能源为谷歌光储项目供电池，元宝与京东打通小程序",
-        "link": "https://36kr.com/p/3896563671222147?f=rss",
-        "summary": "LG新能源将为谷歌最大光储项目供应电池；元宝与京东AI Agent打通小程序生态；日本散户美元净空头飙至2.79万亿日元，创2008年来新高。共享单车集体调价，瓜子二手车线下首店开业。",
-        "comment": "科技巨头加码储能与AI生态，市场信号积极。",
+        "summary": "面壁智能与三星手机达成合作，其MiniCPM系列端侧模型将搭载于三星数款旗舰机型上市。同日，网信部门公告包括Apple智能等7款手机端侧生成式AI服务完成备案。",
+        "comment": "端侧AI落地加速，三星与面壁合作抢占先机。",
         "image": "",
         "score": 97
       },
@@ -127,150 +37,70 @@
         "tag": "AI",
         "title": "AI原生UGC平台雏形在《蛋仔派对》中显现",
         "link": "https://36kr.com/p/3896755010963333?f=rss",
-        "summary": "2026年，OPC（一人公司）概念兴起，指1-3人借助AI等工具完成项目的微型团队。游戏UGC社区早有此类土壤，AI正重构内容创作生产力边界。",
-        "comment": "游戏UGC社区或成AI原生平台最佳试验场。",
+        "summary": "2026年，OPC（一人公司）概念兴起，指1-3人借助AI工具完成项目。游戏UGC社区早有类似土壤，AI正重构内容创作生产力边界，降低专业门槛。",
+        "comment": "游戏UGC为AI原生平台提供了最佳试验场。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
         "tag": "苹果AI",
-        "title": "国行苹果AI功能完成备案；共享单车涨价；DeepSeek筹备IPO",
+        "title": "国行苹果AI完成备案，三家共享单车涨价",
         "link": "https://36kr.com/p/3897553391978371?f=rss",
-        "summary": "今日热点：澳洲设AI办公室限制数据中心能耗；巴菲特8年内清仓伯克希尔股票；前高通高管加入英伟达；长鑫科技上市后保持无实控人架构；谷歌参与美国最大太阳能项目；阿里、百度为苹果AI提供支持；网信办公布7款端侧AI服务备案。",
-        "comment": "苹果AI入华加速，备案完成是关键一步。",
+        "summary": "国行苹果AI功能完成备案，阿里、百度提供AI支撑；三家共享单车上调起步价；DeepSeek被曝开始筹备IPO；澳洲设AI办公室限制数据中心能耗；巴菲特计划8年内清仓伯克希尔股票。",
+        "comment": "苹果AI入华加速，共享单车涨价反映行业盈利压力。",
         "image": "",
         "score": 96
       },
       {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "扎克·克雷格《生化危机》片长曝光，接近2002年首部电影",
-        "link": "https://www.ign.com/articles/zach-creggers-resident-evil-runtime-revealed-and-it-matches-early-audience-reactions",
-        "summary": "AMC影院公布了扎克·克雷格执导的《生化危机》改编电影官方片长，几乎与2002年首部电影时长相当，与早期观众反应一致。",
-        "comment": "片长接近经典，或预示叙事深度回归。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/28/residentevil-thumb-1777417521520.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "3D打印机",
-        "title": "Flashforge Adventurer 5M 3D打印机降至155美元",
-        "link": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026",
-        "summary": "这款经济型3D打印机以155美元低价促销，能稳定输出高质量打印件，无需花费数百美元。",
-        "comment": "性价比极高，适合入门和轻度用户。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/13/flashforge5m2-1783979139326.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "迷你PC",
-        "title": "Aoostar迷你PC搭载Ryzen 7 Pro 6850H和24GB DDR5内存降至300美元以下",
-        "link": "https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-july-2026-updated",
-        "summary": "这款Mac Mini大小的PC功能多样，支持轻度游戏，配备USB 4端口，价格跌破300美元。",
-        "comment": "性价比突出的迷你PC，适合轻度游戏和日常使用。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/06/aoostar-1783361642894.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《黄昏之血》下月开启首次抢先体验",
-        "link": "https://www.gamespot.com/articles/your-first-chance-to-play-the-duskbloods-early-is-next-month/",
-        "summary": "From Software新作《黄昏之血》与以往作品风格迥异，玩家可在下月提前试玩。",
-        "comment": "风格转型之作，抢先体验值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Duskbloods-rat.jpeg?w=300",
-        "score": 93
-      },
-      {
         "category": "数码科技",
-        "tag": "机器人",
-        "title": "星尘智能发布具身基座模型Lumo-2，机器人动作更快更准",
-        "link": "https://www.ifanr.com/1672067?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "星尘智能发布具身基座模型Lumo-2，通过概率预测提升机器人动作的准确性和速度，类似“见闻色”能力。",
-        "comment": "具身智能加速落地，Lumo-2提升机器人实时决策能力。",
+        "tag": "共享单车",
+        "title": "LG新能源为谷歌最大光储项目供电池；元宝与京东AI打通小程序；日本散户美元空头创纪录",
+        "link": "https://36kr.com/p/3896563671222147?f=rss",
+        "summary": "美团、青桔、哈啰在北京等城市上调共享单车计费规则，起步价调整为1.88-1.99元/60分钟，为近年较大范围调价。瓜子二手车线下直卖场首店开业。",
+        "comment": "共享单车集体涨价反映行业盈利压力，用户成本增加。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Crunchyroll",
-        "title": "索尼旗下Crunchyroll限制实体动漫销售",
-        "link": "https://www.gamespot.com/articles/sony-owned-crunchyroll-is-now-kneecapping-physical-anime-sales/",
-        "summary": "索尼旗下流媒体服务Crunchyroll通过订阅模式影响实体动漫销售，导致实体光盘市场萎缩。",
-        "comment": "流媒体冲击实体销售，行业趋势不可逆。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Clipboard_07-15-2026_01.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "守望先锋",
-        "title": "《守望先锋》竞技场模式上线不足一年即被放弃",
-        "link": "https://www.gamespot.com/articles/overwatchs-barely-a-year-old-stadium-mode-is-going-on-life-support/",
-        "summary": "《守望先锋》的竞技场模式，将暴雪的英雄射击游戏转变为类似第三人称MOBA的玩法，未来将不再获得新英雄或地图更新。",
-        "comment": "暴雪对实验性模式的耐心不足一年。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Overwatch-Stadium-Mode-Winding-Down.jpg?w=300",
-        "score": 92
+        "score": 96
       },
       {
         "category": "数码科技",
         "tag": "PixVerse",
         "title": "实测PixVerse Game：游戏可随玩随做的体验",
         "link": "https://www.ifanr.com/1672092?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "PixVerse将“创造即游玩”理念产品化，用户可即时生成并体验游戏，降低开发门槛，带来全新互动方式。",
-        "comment": "AI生成游戏从概念走向实用，但内容深度待考。",
+        "summary": "PixVerse将“创造即游玩”理念产品化，用户可实时生成并体验游戏，降低开发门槛。",
+        "comment": "AI游戏生成工具迈出实用化一步。",
         "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "小米汽车",
-        "title": "雷军详解澎程N90七座布局：前两排如客厅，第三排多一人",
-        "link": "https://www.ifanr.com/1672080?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米汽车澎程N90采用七座布局，雷军介绍前两排设计类似客厅，第三排可多坐一人，体现车内空间哲学。",
-        "comment": "小米汽车空间设计注重实用与舒适，差异化明显。",
+        "tag": "机器人",
+        "title": "星尘智能发布具身基座模型Lumo-2，机器人动作更快更准",
+        "link": "https://www.ifanr.com/1672067?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "星尘智能发布具身基座模型Lumo-2，通过概率预测提升机器人动作速度与精准度，实现更智能的交互。",
+        "comment": "具身智能新突破，机器人感知与执行能力再升级。",
         "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果欲限制OpenAI在手机端发展",
+        "title": "苹果欲限制OpenAI手机发展",
         "link": "https://www.ifanr.com/1672040?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果正采取措施限制OpenAI在手机端的应用，以维护自身生态控制权，避免第三方AI过度渗透。",
-        "comment": "苹果的封闭生态策略再次显现。",
+        "summary": "苹果正采取措施，试图限制OpenAI在手机领域的发展，避免其技术影响自身生态。",
+        "comment": "苹果的防御策略或为巩固自身AI优势。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "OpenAI",
-        "title": "OpenAI首款硬件曝光，享界G9获北京L3路测牌照",
-        "link": "https://www.ifanr.com/1672037?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米机器人汽车工厂实习4个月，差1%转正；三星、苹果份额逆势增长，全球手机市场第二季度下滑4%；1299元起，REDMI Note 17系列发布。",
-        "comment": "AI与硬件融合加速，自动驾驶牌照落地推动行业进步。",
+        "tag": "小米",
+        "title": "雷军详解澎程N90七座布局：前两排如客厅，第三排多一人",
+        "link": "https://www.ifanr.com/1672080?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "小米汽车澎程N90采用七座布局，前两排设计为客厅式空间，第三排可多坐一人，体现车内空间哲学。",
+        "comment": "小米汽车在空间设计上寻求差异化，客厅理念或成亮点。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "华纳兄弟《乐一通》手游即将停服",
-        "link": "https://www.gamespot.com/articles/a-warner-bros-looney-tunes-game-is-shutting-down-soon/",
-        "summary": "《乐一通：混乱世界》开发商确认该手游即将关闭，游戏由Jugger开发，具体停服日期已公布。",
-        "comment": "又一款经典IP手游落幕，市场洗牌加速。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/thatsallfolks.webp?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "新物种",
-        "title": "刚果森林发现新猴种，橙色嘴唇引人注目",
-        "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-        "summary": "科学家在刚果民主共和国森林中发现一种新猴子物种，其橙色嘴唇特征独特，此前鲜为人知。发现者描述与这种动物面对面时感受到“奇妙的震撼”。",
-        "comment": "生物多样性宝库再添新发现，保护行动刻不容缓。",
-        "image": "",
-        "score": 86
+        "score": 90
       }
     ]
   }
