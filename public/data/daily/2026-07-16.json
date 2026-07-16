@@ -3,12 +3,22 @@
     "week": "周四",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Applied Computing获2000万美元融资，为油气行业打造AI基础模型",
+        "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+        "summary": "Applied Computing完成2000万美元A轮融资，旨在为石油、天然气和石化行业构建一个覆盖整个工厂的AI基础模型。",
+        "comment": "垂直行业AI基础模型正成为新投资热点。",
+        "image": "",
+        "score": 100
+      },
+      {
         "category": "数码科技",
         "tag": "航空动力",
         "title": "民用航空动力企业汉发长空获近亿元Pre-A轮融资",
         "link": "https://36kr.com/p/3897686922266244?f=rss",
-        "summary": "汉发长空完成近亿元Pre-A轮融资，由方广资本领投，资金用于提升400kW级通用核心机平台技术成熟度，加速涡轴、涡桨、涡电发动机向量产阶段迈进，其中涡轴发动机S4已进入挂飞测试阶段。",
-        "comment": "切入国际巨头垄断功率段，技术验证进展显著。",
+        "summary": "汉发长空完成近亿元Pre-A轮融资，由方广资本领投，资金将用于400kW级通用核心机平台的技术成熟度与工程化验证，加速涡轴、涡桨、涡电发动机量产。",
+        "comment": "切入国际巨头垄断的关键功率段，融资助力技术突破。",
         "image": "",
         "score": 97
       },
@@ -17,8 +27,8 @@
         "tag": "AI教练",
         "title": "庞伯特多合一AI教练机器人众筹近400万美金",
         "link": "https://36kr.com/p/3896586337978244?f=rss",
-        "summary": "庞伯特在首款网球发球机成功后，推出多合一AI教练机器人，半年内完成三轮融资累计数亿元，全球用户超30万，发球总量超20亿次，但面临国内外对手激烈竞争。",
-        "comment": "硬件赛道竞争加剧，庞伯特需快速迭代保持优势。",
+        "summary": "庞伯特在首款网球发球机成功后，推出多合一AI教练机器人，半年内完成三轮融资累计数亿元，全球用户超30万，发球总量超20亿次。",
+        "comment": "硬件赛道竞争激烈，小而美难以为继。",
         "image": "",
         "score": 97
       },
@@ -28,7 +38,7 @@
         "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道升温",
         "link": "https://36kr.com/p/3895721094842249?f=rss",
         "summary": "斯年智驾完成3亿元C轮融资，由兴证资本、颐道资本联合投资，用于新一代车规级自动驾驶方案研发。2026年上半年该赛道融资5起，累计近70亿元，IPO密集，商业化在封闭场景逐步落地。",
-        "comment": "资本涌入加速商业化，封闭场景成突破口。",
+        "comment": "资本密集涌入，自动驾驶重卡商业化进入加速期。",
         "image": "",
         "score": 97
       },
@@ -37,8 +47,8 @@
         "tag": "医疗AI",
         "title": "蚂蚁集团投资薄荷健康，大厂医疗AI聚焦减重场景",
         "link": "https://36kr.com/p/3896639942592134?f=rss",
-        "summary": "蚂蚁集团投资薄荷健康，持股超28%成最大外部股东。薄荷健康拥有超2亿用户，收录160万条食物数据，2021年D轮估值20亿。大厂医疗AI正加速布局减重赛道。",
-        "comment": "减重成为医疗AI新风口，数据与场景结合是关键。",
+        "summary": "蚂蚁集团投资薄荷健康，持股超28%成最大外部股东。薄荷健康拥有超2亿用户和160万条食物数据，专注饮食记录与科学减重。2021年D轮估值20亿，此次投资显示大厂医疗AI向减重场景倾斜。",
+        "comment": "减重成为医疗AI新战场，数据积累是关键。",
         "image": "",
         "score": 96
       },
@@ -47,20 +57,120 @@
         "tag": "苹果AI",
         "title": "国行苹果AI将搭载千问模型，DeepSeek计划明年上市",
         "link": "https://www.ifanr.com/1672097?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "ChatGPT服务中断约45分钟；京东与元宝打通购物服务；上海开出脑机接口首张处方。",
-        "comment": "AI与硬件融合加速，国产模型迎来新机遇。",
+        "summary": "ChatGPT服务中断约45分钟，京东与元宝打通购物服务，上海开出脑机接口首张处方。",
+        "comment": "AI与硬件融合加速，市场格局持续变化。",
         "image": "",
         "score": 92
       },
       {
-        "category": "时事热点",
-        "tag": "美国",
-        "title": "美国对伊朗发动新打击，特朗普警告德黑兰“最好老实点”",
-        "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统特朗普表示，他尚未决定是否要“彻底解决”伊朗问题，同时美军对伊朗发动了新一轮打击。",
-        "comment": "美伊紧张局势再度升级，特朗普态度强硬。",
+        "category": "数码科技",
+        "tag": "Codex",
+        "title": "掌管Codex额度的赛博义父什么来头",
+        "link": "https://www.ifanr.com/1672101?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "本文探讨了掌管Codex额度的神秘人物背景，分析其在数码科技领域的影响与角色。",
+        "comment": "揭秘科技圈幕后关键人物，信息量足。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "红色沙漠",
+        "title": "《红色沙漠》获Develop:Star最佳技术创新奖",
+        "link": "https://www.gcores.com/articles/217211",
+        "summary": "Pearl Abyss宣布《红色沙漠》荣获Develop:Star Awards最佳技术创新奖，该奖项与BAFTA和金摇杆奖并列为英国最具声望的游戏奖项。",
+        "comment": "技术实力获权威认可，期待游戏正式表现。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "明日方舟",
+        "title": "《明日方舟：终末地》新版本「向渊行」故事体验分享",
+        "link": "https://www.gcores.com/articles/217191",
+        "summary": "作者四十二受鹰角邀请提前体验新版本主线剧情，使用高练度配置专注剧情，未涉及功能性改动如武陵地区、集成工业等。",
+        "comment": "剧情体验扎实，但功能改动未涉及，略显片面。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《The Duskbloods》网络测试2026年8月举行",
+        "link": "https://www.gcores.com/articles/217200",
+        "summary": "《The Duskbloods》将于2026年8月21日至24日在Nintendo Switch 2平台举行网络测试，玩家需在7月22日至28日提交申请，并持有Switch 2及Nintendo Switch Online会员资格。",
+        "comment": "Switch 2独占测试，提前锁定核心玩家。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《电车炫客》今日发售，登陆PC与主机平台",
+        "link": "https://www.gcores.com/articles/217203",
+        "summary": "由Undercoders开发、Boltray Games发行的列车动作跑酷游戏《电车炫客》今日正式发售，登陆Steam、PS5、Xbox Series X|S及Switch 2平台，Steam国区售价76元，首周9折优惠，同步推出季节皮肤包。",
+        "comment": "列车跑酷结合特技空翻，创意十足。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "刺客信条",
+        "title": "《刺客信条：黑旗 重制版》确认开发新游戏+模式",
+        "link": "https://www.gcores.com/articles/217199",
+        "summary": "据Insider Gaming报道，游戏总监Richard Knight在采访中确认，团队正在为7月9日发售的《刺客信条：黑旗 重制版》开发新游戏+模式，该消息来自YouTuber JorRaptor的采访。",
+        "comment": "重制版追加新游戏+模式，提升可玩性。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "梦幻模拟战",
+        "title": "梦幻模拟战新作《剑之海》公布首支预告",
+        "link": "https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer",
+        "summary": "经典战棋RPG系列《梦幻模拟战》最新作《剑之海》正式公布，并发布了首支预告片，展示了游戏画面与玩法。",
+        "comment": "经典IP再续，战棋爱好者值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/13/thumbnail-1783966106284.jpg",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《火山的女儿》2026年7月30日登陆多平台",
+        "link": "https://www.gcores.com/articles/217210",
+        "summary": "多结局美少女养成模拟游戏《火山的女儿》宣布将于2026年7月30日登陆iOS、Android、Switch及PS5平台，该作此前已在Steam上获得好评。",
+        "comment": "跨平台移植将扩大受众，但需关注移动端适配。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "伊朗",
+        "title": "伊朗军事基地遭袭，美军发动新一轮打击",
+        "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+        "summary": "伊朗多地夜间传出爆炸声，此前海湾邻国报告遭袭，美军对伊朗军事目标发起打击。",
+        "comment": "中东局势急剧升级，冲突风险显著上升。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "萨姆·尼尔",
+        "title": "演员萨姆·尼尔因肺炎去世，经纪人确认",
+        "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+        "summary": "萨姆·尼尔周一在悉尼去世，家人称其死亡“突然且意外”。",
+        "comment": "一位备受尊敬的演员突然离世，令人惋惜。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国军事",
+        "title": "美国防长称将筛查军人睾酮水平",
+        "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国国防部长赫格塞斯表示，将授权对军人进行激素筛查，以确保部队“以最佳状态运作”。",
+        "comment": "此举或引发军人健康与隐私争议。",
+        "image": "",
+        "score": 86
       }
     ]
   }
