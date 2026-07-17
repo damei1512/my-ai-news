@@ -5,100 +5,70 @@
       {
         "category": "人工智能",
         "tag": "谷歌",
-        "title": "谷歌Vids新增AI化身功能，用户可创建个人数字形象视频",
+        "title": "谷歌Vids新增个性化AI化身，用户可生成自己为主角的视频",
         "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-        "summary": "谷歌为Vids平台引入个性化AI化身，用户可创建以自己数字形象为主角的视频，同时提供Gemini Omni驱动的生成与编辑工具。",
-        "comment": "AI视频个性化迈入新阶段，但隐私风险需关注。",
+        "summary": "谷歌为Vids添加个性化AI化身功能，用户可创建以自己数字形象为主角的视频，同时推出Gemini Omni驱动的生成与编辑工具。",
+        "comment": "AI视频个性化迈入新阶段，但隐私与伦理风险需关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "谷歌",
-        "title": "谷歌AI模式新增应用链接与交互功能",
+        "title": "谷歌AI模式升级：可链接并操控指定应用",
         "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-        "summary": "谷歌更新AI模式，使其不仅能回答问题，还能跨常用应用完成任务，扩展了AI的实用场景。",
+        "summary": "谷歌扩展AI模式功能，从回答问题转向跨常用应用完成任务，用户可直接链接并交互操作。",
         "comment": "从问答到任务执行，谷歌AI迈出关键一步。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "DoorDash推出命令行工具，支持终端点餐",
-        "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-        "summary": "DoorDash开放dd-cli命令行工具限量测试，允许开发者和AI代理在终端中搜索商店、构建购物车并下单，标志着AI与外卖服务深度整合的新尝试。",
-        "comment": "AI代理接管外卖点餐，效率提升但安全需关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "前DeepMind研究员未发布产品即获3亿美元种子轮融资",
+        "tag": "AI",
+        "title": "前DeepMind研究员未发布产品即获3亿美元种子轮估值",
         "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-        "summary": "前DeepMind研究员Andrew Dai凭借十多年参与构建全球最具影响力AI系统的经验，包括后来促成ChatGPT的研究，在未推出产品前即以3亿美元估值完成种子轮融资。",
-        "comment": "顶级AI人才溢价惊人，但产品落地仍是关键考验。",
+        "summary": "前DeepMind研究员Andrew Dai凭借十余年参与构建全球最具影响力AI系统的经验，包括后来促成ChatGPT的研究，在未推出产品前即以3亿美元估值完成种子轮融资。",
+        "comment": "顶级人才背书成AI融资新范式。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "月之暗面Kimi 3预计缩小与Anthropic Opus差距",
-        "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-        "summary": "据金融时报报道，Kimi K3将成为中国最大的开源AI模型，参数规模在2万亿到3万亿之间。",
-        "comment": "中国开源模型参数规模再创新高，竞争格局加速演变。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "苹果",
-        "title": "苹果AI获准在华推出，与阿里百度合作",
-        "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-        "summary": "传闻已久的合作终于落地，苹果与阿里巴巴和百度达成协议，其AI功能获准在中国市场推出，标志着苹果在关键市场的AI战略迈出重要一步。",
-        "comment": "苹果借本土巨头破局，AI入华关键一步。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
         "title": "OpenAI：青少年应获得安全AI访问权",
         "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-        "summary": "OpenAI正通过适龄保护、学习工具、家长控制和专家合作，使ChatGPT对青少年更安全。",
-        "comment": "安全与开放需平衡，家长控制是关键。",
+        "summary": "OpenAI通过适龄保护、学习工具、家长控制和专家合作，使ChatGPT对青少年更安全。",
+        "comment": "平衡安全与开放，是AI教育的关键。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Cars24借助OpenAI扩展对话与加速开发",
+        "title": "Cars24借助OpenAI实现百万分钟对话与12%线索挽回",
         "link": "https://openai.com/index/cars24",
         "summary": "Cars24利用OpenAI驱动的语音和聊天代理，每月处理超100万分钟对话，挽回12%流失线索，并在全公司推广代理工作流。",
-        "comment": "AI客服在汽车电商场景中显著提升转化效率。",
+        "comment": "AI客服在汽车零售场景中展现了显著转化价值。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "Roblox",
-        "title": "Roblox移动端推出AI游戏创建功能",
+        "title": "Roblox在移动应用推出AI游戏创建功能",
         "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-        "summary": "Roblox在移动应用中上线“Build”功能，用户可通过单一文本提示生成基础游戏。",
-        "comment": "AI降低游戏创作门槛，但质量与原创性存疑。",
+        "summary": "Roblox的新“Build”功能允许用户通过单个文本提示生成基础游戏。",
+        "comment": "AI降低游戏创作门槛，但质量待验证。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AMI Labs CEO拒绝称其AI为AGI或超级智能",
-        "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-        "summary": "在AI领域追逐“超级智能”的浪潮中，Yann LeCun的世界模型初创公司AMI Labs的CEO Alexandre LeBrun却拒绝使用该词，认为其不准确。",
-        "comment": "务实态度值得肯定，避免过度炒作。",
+        "tag": "DoorDash",
+        "title": "DoorDash推出命令行工具dd-cli，支持终端下单",
+        "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+        "summary": "DoorDash开放dd-cli命令行工具限量测试，允许开发者及AI代理在终端搜索商店、构建购物车并下单，标志着外卖服务向开发者生态延伸。",
+        "comment": "终端点外卖，开发者体验再升级。",
         "image": "",
         "score": 99
       },
@@ -107,99 +77,19 @@
         "tag": "OpenAI",
         "title": "OpenAI为何出售ChatGPT篮球？",
         "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-        "summary": "OpenAI本周发布了其首款硬件产品——ChatGPT篮球，引发市场关注。该产品将AI技术与体育用品结合，旨在拓展品牌影响力。",
-        "comment": "AI公司跨界卖篮球，营销噱头大于实际价值。",
+        "summary": "OpenAI本周发布了其首款硬件产品，但你可能没听说还有一款ChatGPT篮球。",
+        "comment": "硬件跨界营销，意图不明。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "零跑",
-        "title": "零跑发布B01轿车和B10 SUV，800V平台价格下探至10万级",
-        "link": "https://www.ifanr.com/1672143?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "零跑汽车发布B01轿车和B10 SUV，起售价分别为9.58万和9.98万，将800V平台和双零重力座椅配置带入10万元级别市场。",
-        "comment": "零跑以极致性价比冲击中低端市场，技术下放策略精准。",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战地6",
-        "title": "《战地6》7月21日更新：引入海军系统与21年未见的经典功能",
-        "link": "https://www.gamespot.com/articles/battlefield-6-is-getting-a-feature-not-seen-in-21-years-and-a-top-gun-crossover/",
-        "summary": "《战地6》将于7月21日发布1.4.1.0大更新，推出第4赛季“太平洋前线”，引入海军作战系统，并带回一项21年未见的经典功能，同时包含《壮志凌云》联动内容。",
-        "comment": "经典回归与海军战场的结合，有望重振系列热度。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/BF6.png?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《Skate》新增传奇X Games赛事，规模空前",
-        "link": "https://www.gamespot.com/articles/skate-adds-its-biggest-event-yet-the-legendary-x-games/",
-        "summary": "随着《Skate》第四赛季接近中期，开发商Full Circle全力筹备迄今为止最大的赛事：传奇X Games。",
-        "comment": "X Games加入是系列里程碑，有望吸引新老玩家。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/skate-image.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
         "tag": "理想L6",
-        "title": "理想L6上市：24.98万起，51kWh电池与旗舰芯片下放",
+        "title": "24.98万元新一代理想L6上市：大电池旗舰芯片下放",
         "link": "https://www.ifanr.com/1672196?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "理想L6以24.98万元起售，搭载51kWh大电池和旗舰芯片，并补强操控性能，定位六边形战士。",
-        "comment": "理想补齐操控短板，L6性价比突出。",
+        "summary": "理想L6上市，售价24.98万元，配备51kWh大电池和旗舰芯片，补足操控短板，提升综合竞争力。",
+        "comment": "理想L6以性价比补课操控，市场反应值得关注。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果AI",
-        "title": "国行苹果AI将搭载千问模型，DeepSeek计划明年上市",
-        "link": "https://www.ifanr.com/1672097?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "ChatGPT服务中断约45分钟；京东与元宝打通购物服务；上海开出脑机接口首张处方，完成首例植入手术。",
-        "comment": "AI与硬件融合加速，国产化布局值得关注。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "堡垒之夜",
-        "title": "马特·达蒙加入《堡垒之夜》，化身奥德修斯",
-        "link": "https://www.gamespot.com/articles/matt-damon-is-in-fortnite-now-but-he-was-almost-in-his-own-game-way-earlier/",
-        "summary": "《堡垒之夜》本周将推出基于克里斯托弗·诺兰电影《奥德赛》的多款皮肤，其中包括马特·达蒙饰演的奥德修斯。这是该演员形象首次出现在游戏中。",
-        "comment": "影视联动再升级，诺兰新片未映先热。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Fortnite-Matt-Damon.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《007：第一缕光》险些将詹姆斯·邦德变成“工具先生”",
-        "link": "https://www.gamespot.com/articles/007-first-light-almost-turned-james-bond-into-mr-gadget/",
-        "summary": "《007：第一缕光》在保持詹姆斯·邦德接地气的同时，也将其置于可信的离奇场景中，但对于系列老粉丝来说，这种平衡可能略显不足。",
-        "comment": "平衡写实与夸张，但老粉可能不买账。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/007-First-Light.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "《光环》剧集导演加盟新剧《奥德赛》，诺兰电影同期上映",
-        "link": "https://www.gamespot.com/articles/halo-tv-show-director-comes-aboard-odysseus-tv-show-as-nolans-the-odyssey-hits-theaters/",
-        "summary": "在克里斯托弗·诺兰新片《奥德赛》引发关注之际，一部名为《奥德赛》的电视剧宣布制作，由《光环》剧集导演卡尔·加杜塞克执导。",
-        "comment": "诺兰电影与剧集版同步推进，IP开发热度高。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/halo_11b301.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Netflix",
-        "title": "Netflix新游戏《迷你高尔夫》集结热门剧集角色",
-        "link": "https://www.gamespot.com/articles/new-netflix-game-brings-together-the-streamers-most-popular-shows/",
-        "summary": "Netflix宣布推出新游戏《Netflix Minigolf》，将旗下多部热门剧集角色融入迷你高尔夫体验，实现跨界联动。",
-        "comment": "IP联动游戏化，Netflix拓展娱乐生态。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/netflixgames.png?w=300",
         "score": 92
       },
       {
@@ -207,50 +97,40 @@
         "tag": "AI办公",
         "title": "实测灵犀专业版：AI成下一代办公入口",
         "link": "https://www.ifanr.com/1672096?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测灵犀专业版，探讨AI如何成为办公新入口，强调真交付才是关键。",
-        "comment": "AI办公落地，交付能力是核心。",
+        "summary": "爱范儿实测灵犀专业版，探讨AI如何真正交付并成为办公新入口。",
+        "comment": "AI办公落地需真交付，而非概念炒作。",
         "image": "",
-        "score": 91
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "零跑",
+        "title": "零跑B01轿车和B10 SUV发布，800V平台低价入市",
+        "link": "https://www.ifanr.com/1672143?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "零跑发布B01轿车和B10 SUV，起售价9.58万和9.98万，搭载800V平台和双零重力座椅，主打10万元级别高配市场。",
+        "comment": "零跑以低价策略推动高端配置普及，市场竞争力显著。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "吉利",
         "title": "吉利发布雷霆16合1智能电驱，百公里8.2度电",
         "link": "https://www.ifanr.com/1672135?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "吉利发布雷霆16合1智能电驱，百公里能耗8.2度电，银河TT首发搭载，电驱系统AI化提升效率。",
-        "comment": "电驱AI化是新能源车能效竞争的新方向。",
+        "summary": "吉利推出雷霆16合1智能电驱系统，百公里能耗仅8.2度电，将首发搭载于银河TT车型，电驱系统向AI化演进。",
+        "comment": "电驱AI化是降能耗的关键突破。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Gojira",
-        "title": "移民问题导致鼓手Mario被Luigi临时替代",
-        "link": "https://www.gamespot.com/articles/luigi-replaces-mario-due-to-immigration-issue/",
-        "summary": "法国金属乐队Gojira确认鼓手Mario Duplantier因移民问题无法参加部分演出，将由Luigi Paravent临时接替。",
-        "comment": "乐队应急处理，但名字巧合引发关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/marioandluigi.png?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "街霸6",
-        "title": "《街霸6》联名香水：让房间弥漫朱莉的脚味",
-        "link": "https://www.gamespot.com/articles/new-street-fighter-6-fragrances-let-your-room-smell-like-juris-feet/",
-        "summary": "Capcom与香水品牌合作，推出三款《街头霸王6》主题香水，灵感来自角色“招牌动作”，其中一款据称能还原朱莉的脚部气味，10月中旬发售。",
-        "comment": "硬核粉丝的嗅觉体验，营销创意十足。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/sf6-juri-image.jpg?w=300",
-        "score": 89
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "Codex",
-        "title": "掌管 Codex 额度的「赛博义父」身份揭秘",
+        "title": "掌管 Codex 额度的「赛博义父」背景揭秘",
         "link": "https://www.ifanr.com/1672101?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "本文揭秘了掌管 Codex 额度的神秘人物「赛博义父」的背景和来头，引发科技圈关注。",
-        "comment": "科技圈神秘人物引发热议，身份成谜。",
+        "comment": "科技圈新梗背后是资源分配权的集中。",
         "image": "",
-        "score": 88
+        "score": 90
       }
     ]
   }
