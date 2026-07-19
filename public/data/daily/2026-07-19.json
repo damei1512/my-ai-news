@@ -3,32 +3,52 @@
     "week": "周日",
     "articles": [
       {
+        "category": "数码科技",
+        "tag": "电竞",
+        "title": "ROG XREAL R1眼镜5999元，电竞新装备体验",
+        "link": "https://www.ifanr.com/1672380?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "ROG与XREAL合作推出R1眼镜，售价5999元，旨在为电竞玩家提供沉浸式视觉体验，但实际效果和性价比有待验证。",
+        "comment": "高价眼镜能否真正提升电竞体验存疑。",
+        "image": "",
+        "score": 90
+      },
+      {
         "category": "时事热点",
-        "tag": "伊朗",
-        "title": "伊朗袭击约旦致两名美军死亡一人失踪",
-        "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-        "summary": "伊朗本周向海湾地区美军设施发动攻击，导致两名美军死亡、一人失踪，美伊双方互相打击，紧张局势再度升级。",
-        "comment": "中东局势急剧恶化，美伊对抗风险上升。",
+        "tag": "美伊冲突",
+        "title": "美军与伊朗连续第八晚互袭，两名美军士兵在约旦丧生",
+        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+        "summary": "美军连续第八晚打击伊朗目标，伊朗声称向驻科威特美军发射无人机，双方冲突升级。",
+        "comment": "中东局势急剧恶化，美伊直接对抗风险上升。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "安德鲁·泰特",
-        "title": "安德鲁·泰特兄弟在美国被捕，英国提出引渡请求",
+        "title": "安德鲁·泰特兄弟在英国被追加指控后在美国被捕",
         "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-        "summary": "英国皇家检察署已请求从美国引渡安德鲁·泰特及其兄弟，两人在美国被捕后面临更多指控，其律师声称他们无罪。",
-        "comment": "引渡程序复杂，案件或成跨国法律博弈焦点。",
+        "summary": "英国皇家检察署已请求从美国引渡他们，而他们的律师声称他们是无辜的。",
+        "comment": "泰特兄弟的法律困境进一步升级。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
+        "tag": "古巴",
+        "title": "古巴异见人士奥泰罗流亡美国",
+        "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+        "summary": "奥泰罗在2021年古巴数十年来最大反政府抗议中被捕，服刑五年后获释并流亡美国。",
+        "comment": "古巴异见人士流亡凸显美古关系持续紧张。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
         "tag": "欧盟",
-        "title": "欧盟新边境系统使护照检查时间增至三倍，机场负责人警告",
+        "title": "欧盟新边境系统使护照检查时间增至三倍",
         "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-        "summary": "瑞安航空警告今夏前往欧洲的旅客需为长时间等待做好准备，新系统将大幅延长通关时间。",
-        "comment": "系统升级带来效率挑战，旅客需提前规划。",
+        "summary": "机场负责人表示，欧盟新边境系统将护照检查时间延长至三倍。瑞安航空也警告今夏前往欧洲的旅客需为长时间等待做好准备。",
+        "comment": "系统效率问题凸显，旅客需提前规划。",
         "image": "",
         "score": 86
       }
