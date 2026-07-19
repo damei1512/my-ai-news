@@ -3,84 +3,184 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "诺兰称AI是明显的特洛伊木马",
+        "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "summary": "《奥德赛》导演克里斯托弗·诺兰将AI比作特洛伊木马，暗示其表面无害但暗藏风险，引发科技界讨论。",
+        "comment": "诺兰的比喻精准点出AI的潜在威胁。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "非营利组织Current AI正加速构建人人可用的AI万维网",
+        "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+        "summary": "非营利组织Current AI致力于打造包容多元文化的AI，已在设备端、AI聊天等领域取得显著进展，旨在让AI免费服务于所有人。",
+        "comment": "AI普惠化的重要一步，但可持续性待观察。",
+        "image": "",
+        "score": 100
+      },
+      {
         "category": "数码科技",
-        "tag": "AI医疗",
+        "tag": "人工智能",
         "title": "安顿在WAIC 2026发布生命预警表标准与七诊合参中医机器人",
         "link": "https://36kr.com/p/3902428274427525?f=rss",
-        "summary": "在2026世界人工智能大会上，安顿健康发布我国首个生命预警表标准及行业首个七诊合参中医机器人，背后依托自研天回·AI脉诊算法与三重置信体系，实现从感知到输出的完整技术闭环。",
-        "comment": "安顿将中医脉诊数字化，是AI+医疗落地的务实突破。",
+        "summary": "安顿健康在2026世界人工智能大会上首发我国首个生命预警表标准及行业首个七诊合参中医机器人，背后是自研的天回·AI脉诊算法与三重置信体系技术架构。",
+        "comment": "安顿以双核首发抢占健康AI标准制高点。",
         "image": "",
         "score": 97
       },
       {
+        "category": "游戏影视",
+        "tag": "电影",
+        "title": "《奥德赛》首周全球票房2.64亿美元远超预期",
+        "link": "https://www.ign.com/articles/the-odyssey-blows-box-office-expectations-out-of-the-water-with-2641-million-opening-weekend",
+        "summary": "克里斯托弗·诺兰执导的《奥德赛》首周末全球票房达2.641亿美元，远超市场预期，表现惊人。",
+        "comment": "诺兰再次证明其票房号召力，史诗题材市场潜力巨大。",
+        "image": "https://assets-prd.ignimgs.com/2025/03/15/the-odyssey-thumb-1741998682527.jpg",
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影",
+        "title": "《奥德赛》证明大预算电影仍有希望",
+        "link": "https://www.ign.com/articles/the-odyssey-proves-theres-still-hope-for-big-budget-filmmaking",
+        "summary": "克里斯托弗·诺兰的《奥德赛》是近年大制片厂预算下罕见的艺术愿景之作，展现了电影制作的希望。",
+        "comment": "诺兰再次证明大预算与艺术可共存。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/17/chris-nolan-odyssey-thumb-1784315575806.jpg",
+        "score": 95
+      },
+      {
         "category": "数码科技",
-        "tag": "AR眼镜",
-        "title": "ROG XREAL R1眼镜评测：5999元值不值电竞装备？",
+        "tag": "电竞",
+        "title": "5999元ROG XREAL R1眼镜，电竞玩家新装备体验",
         "link": "https://www.ifanr.com/1672380?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "ROG与XREAL合作推出R1眼镜，售价5999元，主打电竞场景体验，但实际效果与普通AR眼镜差异不大，需结合生态考量。",
-        "comment": "价格偏高，生态未成熟，尝鲜需谨慎。",
+        "summary": "ROG与XREAL合作推出R1眼镜，售价5999元，旨在为电竞玩家提供沉浸式显示体验，但实际效果和性价比有待验证。",
+        "comment": "高价眼镜能否真正提升电竞体验存疑。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "对谈狼叔：十年辛酸苦辣，一壶快乐酒",
+        "link": "https://www.gcores.com/radios/217001",
+        "summary": "本期节目老白与狼叔在客厅摆酒对谈，回顾十年亲身经历，从游戏纸媒聊到生活辛酸，满嘴荒唐言，一壶快乐酒。",
+        "comment": "真实故事比虚构更动人。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "美伊冲突",
-        "title": "美军士兵在约旦遇袭身亡后美伊交火",
+        "title": "美军士兵在约旦遇袭后，美伊相互攻击",
         "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-        "summary": "科威特称一电力和水厂在两天内第二次遭袭后起火，伊朗称美国打击了在建核电站。",
-        "comment": "中东局势因美军伤亡事件急剧升级。",
+        "summary": "科威特一电力和水厂在两天内第二次遭袭后起火。伊朗称美国袭击了在建核电站。",
+        "comment": "冲突升级，中东局势进一步紧张。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "俄乌冲突",
-        "title": "俄罗斯对乌克兰城市发动大规模弹道导弹袭击",
+        "title": "俄罗斯对乌克兰多座城市发动大规模弹道导弹袭击",
         "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰两大城市遭袭，至少4人死亡、36人受伤，同时基辅继续攻击俄罗斯基础设施。",
+        "summary": "俄罗斯对乌克兰多座城市发动导弹和无人机袭击，造成8人死亡、数十人受伤，同时基辅继续攻击俄罗斯基础设施。",
         "comment": "冲突升级，双方互攻基础设施。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "圭亚那",
-        "title": "圭亚那海岸渡轮沉没，116名乘客中53人获救",
+        "tag": "沉船事故",
+        "title": "圭亚那海岸渡轮沉没，133人遇险",
         "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-        "summary": "一艘载有116名乘客的渡轮在圭亚那乔治敦至凯图马港之间倾覆，目前已有53人获救。",
-        "comment": "救援仍在进行，需关注后续进展。",
+        "summary": "一艘载有133名乘客和船员的渡轮在圭亚那海岸沉没，官方称已救出67人，其中包括15名儿童，仍有数十人失踪。",
+        "comment": "救援行动紧迫，失踪人数令人揪心。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "泰特兄弟",
-        "title": "泰特兄弟在美国被捕，英国追加指控至59项",
+        "title": "泰特兄弟在美国被捕，英国新增指控总数达59项",
         "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
         "summary": "英国皇家检察署已请求从美国引渡泰特兄弟，其律师声称他们无罪。",
-        "comment": "跨国司法博弈升级，引渡程序将成焦点。",
+        "comment": "案件升级，引渡程序或成关键转折。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "今日最佳优惠：大疆Mini 4K无人机、合金装备Delta等",
+        "link": "https://www.ign.com/articles/best-deals-for-july-19-2026",
+        "summary": "IGN汇总7月19日游戏影视优惠，包括大疆Mini 4K无人机、合金装备Delta、真人快打4K限量版等热门商品折扣信息。",
+        "comment": "优惠覆盖硬件与经典游戏，值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/19/dd7-19-26-1784452280724.png",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "欧盟",
+        "title": "欧盟新边境系统使护照检查时间增至三倍",
+        "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+        "summary": "机场负责人称新系统将大幅延长通关时间，瑞安航空警告今夏赴欧旅客需为长时间等待做好准备。",
+        "comment": "系统效率问题或影响欧洲旅游业复苏。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "食品安全",
+        "title": "美国爆发环孢子虫感染，冰山生菜被确认为源头",
+        "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+        "summary": "美国食品药品监督管理局确认，由Taylor Farms供应、在塔可钟和沃尔玛销售的冰山生菜是环孢子虫感染暴发的源头，导致多起腹泻病例。",
+        "comment": "食品安全链条溯源及时，但暴露供应链监管漏洞。",
+        "image": "",
+        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "古巴",
         "title": "古巴异见人士奥泰罗流亡美国",
         "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-        "summary": "奥泰罗在2021年古巴数十年来最大规模反政府抗议中被捕，入狱五年后获释并流亡美国。",
+        "summary": "奥泰罗在2021年古巴数十年来最大规模反政府抗议中被捕，服刑五年后获释并流亡美国。",
         "comment": "古巴异见者流亡凸显政治压制持续。",
         "image": "",
-        "score": 87
+        "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "欧盟",
-        "title": "欧盟新边境系统致护照检查时间增至三倍，机场负责人称",
-        "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-        "summary": "瑞安航空警告今夏前往欧洲的旅客需为长时间等待做好准备。",
-        "comment": "新系统或加剧夏季出行拥堵。",
+        "tag": "北极",
+        "title": "跑者在漂移北极冰上完成“世界最酷马拉松”",
+        "link": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
+        "summary": "组织者称，来自七个国家的23名跑者在北极地理极点参加了比赛。",
+        "comment": "极端环境赛事展现人类极限挑战。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "娱乐",
+        "title": "1975乐队主唱马蒂·希利与模特加布里埃特·贝克特尔在洛杉矶结婚",
+        "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+        "summary": "这对新婚夫妇于2023年首次被联系在一起，此前希利与泰勒·斯威夫特有过短暂恋情。",
+        "comment": "明星恋情转换快，婚姻消息引发关注。",
+        "image": "",
+        "score": 83
+      },
+      {
+        "category": "时事热点",
+        "tag": "演员去世",
+        "title": "《邻居》演员特伦斯·多诺万去世，享年90岁",
+        "link": "https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss",
+        "summary": "演员杰森·多诺万在社交媒体上宣布，其父亲、曾出演《邻居》的特伦斯·多诺万于周六晚在澳大利亚墨尔本安详离世。",
+        "comment": "一位经典剧集演员的平静告别。",
+        "image": "",
+        "score": 83
       }
     ]
   }
