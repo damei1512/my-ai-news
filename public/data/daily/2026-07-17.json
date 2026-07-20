@@ -4,103 +4,13 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI",
-        "title": "Databricks估值达1880亿美元，延续AI第二幕热潮",
-        "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-        "summary": "Databricks重塑为AI公司，发布研究显示开放权重AI模型在编程中可大幅节省成本。",
-        "comment": "开放权重模型成本优势显著，或重塑AI竞争格局。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI CFO发布AI时代记分卡衡量投资回报",
+        "title": "OpenAI CFO推出AI记分卡衡量投资回报",
         "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-        "summary": "OpenAI首席财务官Sarah Friar提出实用AI记分卡，通过有用工作、每成功任务成本、可靠性和计算回报来衡量AI投资回报率。",
-        "comment": "量化AI价值是行业关键一步。",
+        "summary": "OpenAI首席财务官Sarah Friar提出实用AI记分卡，通过有用工作、每成功任务成本、可靠性和计算回报衡量ROI。",
+        "comment": "AI投资评估从概念走向量化工具。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Vertu推6880美元AI代理，专为高管打造",
-        "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-        "summary": "Vertu推出售价6880美元的AI代理，集成于豪华折叠手机中，本文评测其AI工作流、电池续航和安全性等日常使用体验。",
-        "comment": "奢侈品与AI结合，但性价比存疑。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Zoom",
-        "title": "Zoom黑客工具：拒绝被录音的会议保护方案",
-        "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-        "summary": "针对Zoom会议被转录和总结的普遍现象，一款黑客工具允许用户标记“请勿录音”，引发对隐私和过度记录价值的讨论。",
-        "comment": "技术反制过度监控，但需平衡协作与隐私。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "机器人",
-        "title": "Agility Robotics在特斯拉后院开设Digit机器人培训中心",
-        "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-        "summary": "Agility Robotics在加州弗里蒙特开设新培训中心，用于其Digit机器人的训练与部署。",
-        "comment": "选址特斯拉附近，人形机器人竞争加剧。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "沙特",
-        "title": "沙特公共投资基金收购EA获欧盟批准在即",
-        "link": "https://www.gamespot.com/articles/saudi-arabias-ea-takeover-reportedly-set-to-clear-eu-hurdle/",
-        "summary": "沙特公共投资基金（PIF）于2025年9月宣布以550亿美元收购EA，现据报欧盟即将批准该交易，清除关键监管障碍。",
-        "comment": "巨额收购将重塑游戏业格局。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/bf6-image.jpg?w=300",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《马拉松》游戏总监在动荡时期离开Bungie",
-        "link": "https://www.gamespot.com/articles/marathon-game-director-leaves-bungie-at-a-tumultuous-time/",
-        "summary": "《马拉松》游戏总监Joe Ziegler宣布离开Bungie，寻求新工作。其离职正值工作室面临动荡时期，Ziegler在声明中提及了相关情况。",
-        "comment": "核心人才流失加剧Bungie不确定性。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Marathon.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "《零号巡游》开发商ZA/UM宣布裁员，尽管游戏获好评",
-        "link": "https://www.gamespot.com/articles/zero-parades-dev-announces-layoffs-despite-games-critical-acclaim/",
-        "summary": "《零号巡游：为死去的间谍》开发商ZA/UM在社交媒体上宣布裁员，尽管游戏获得评论界好评，但公司仍面临财务压力。",
-        "comment": "叫好不叫座，独立游戏困境再现。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/zp-image.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神4",
-        "title": "《暗黑破坏神4》第14赛季取消唯一神话装备限制",
-        "link": "https://www.gamespot.com/articles/diablo-4-season-14s-worst-mythic-change-is-no-more-not-every-idea-lands/",
-        "summary": "《暗黑破坏神4》第14赛季曾引入只能装备一件制作神话装备的争议改动，但在7月16日的PC补丁中，该限制已被移除。",
-        "comment": "及时修正错误，值得肯定。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Diablo-4-Season-14s-Worst-Mythic-Change-Is-No-More.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Todd Howard回应Bethesda与Obsidian不和传闻",
-        "link": "https://www.gamespot.com/articles/todd-howard-addresses-fan-chatter-about-bethesda-obsidian-rivalry-conspiracies/",
-        "summary": "Bethesda总监Todd Howard回应了关于Bethesda Game Studios与Obsidian之间存在竞争的传闻，称网络讨论并不反映现实。",
-        "comment": "官方澄清有助于平息粉丝猜测。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/newvegas.jpg?w=300",
-        "score": 89
       }
     ]
   }
