@@ -4,51 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI称其预发布模型导致Hugging Face被入侵",
-        "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-        "summary": "OpenAI承认其内部测试失误导致预发布模型泄露，造成Hugging Face平台安全漏洞。",
-        "comment": "内部测试管理漏洞暴露AI安全风险。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Jack Dorsey推出Buzz，挑战Slack的团队聊天平台",
-        "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-        "summary": "Buzz是一款面向工作场所的群聊平台，将人类与AI代理置于同一对话中，旨在与Slack竞争。",
-        "comment": "AI与人类协作的聊天工具或成新趋势。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AI推动通用娱乐应用崛起",
-        "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-        "summary": "过去十年，流媒体平台通过主导音乐、视频、播客等单一格式竞争。如今，AI使内容创作、组织和分发更易，催生整合多种格式的通用娱乐应用。",
-        "comment": "AI正打破格式壁垒，重塑娱乐消费模式。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "数据中心",
-        "title": "数据中心预计2035年用电量翻四倍",
-        "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-        "summary": "到2033年新建的数据中心用电量可能相当于印度当前全国用电总量，凸显AI算力扩张对能源系统的巨大压力。",
-        "comment": "AI繁荣的能源代价不容忽视。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI推出ChatGPT小企业计划",
         "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-        "summary": "OpenAI启动ChatGPT小企业计划，帮助创业者提升AI技能、自动化工作并借助ChatGPT Work实现增长。",
-        "comment": "精准赋能中小企业，AI普及再下一城。",
+        "summary": "OpenAI启动ChatGPT小企业计划，帮助创业者提升AI技能、自动化工作，并利用ChatGPT Work实现增长。",
+        "comment": "精准赋能小企业，AI落地再进一步。",
         "image": "",
         "score": 100
       },
@@ -68,19 +28,9 @@
         "title": "David Vélez与Robin Vince加入OpenAI基金会及集团董事会",
         "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
         "summary": "David Vélez和Robin Vince加入OpenAI基金会及OpenAI Group PBC董事会，带来金融、技术和治理领域的全球领导力。",
-        "comment": "强化治理与金融背景，OpenAI向成熟企业迈进。",
+        "comment": "引入金融与科技高管，强化治理与战略布局。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta测试AI睡前故事应用，为缺乏想象力者定制",
-        "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-        "summary": "Meta正在测试一款AI睡前故事应用，旨在为缺乏想象力的人自动生成故事内容，将人类最古老的消遣外包给技术。",
-        "comment": "AI替代想象力，是创新还是懒惰？",
-        "image": "",
-        "score": 99
       },
       {
         "category": "数码科技",
@@ -88,99 +38,39 @@
         "title": "怡颗莓回应致癌物争议，美团否认特殊配送服务",
         "link": "https://36kr.com/p/3906043683296648?f=rss",
         "summary": "怡颗莓回应草莓检出致癌物，称国内产品来自云南；美团否认上线本科专送等配送服务；美方要求三星、SK海力士分享超额利润。",
-        "comment": "食品安全与平台用工争议持续引发关注。",
+        "comment": "热点密集，食品安全与平台用工争议并存。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
         "tag": "茅台",
-        "title": "茅台涨价100元，白酒板块仍欠3000亿",
+        "title": "茅台涨价100元难挽白酒颓势，板块市值仍欠3000亿",
         "link": "https://36kr.com/p/3905234473158279?f=rss",
-        "summary": "茅台提价后市场情绪迅速降温，股价回落1.47%，白酒指数同步下跌。提价利好仅维持一天，板块整体颓势未改。",
-        "comment": "提价难掩行业疲态，市场信心不足。",
+        "summary": "茅台提价后股价回落，白酒板块高开低走，市场情绪迅速降温，市值缺口仍达3000亿。",
+        "comment": "提价利好短暂，行业复苏仍需时日。",
         "image": "",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界最终反派Xal'atath邪恶计划揭晓",
-        "link": "https://www.gamespot.com/articles/we-finally-know-xalataths-evil-plan-for-the-world-of-warcraft/",
-        "summary": "经过多年猜测，魔兽世界玩家终于揭晓了当前主要反派Xal'atath的最终目标，其计划可能威胁艾泽拉斯存亡。",
-        "comment": "剧情悬念终于落地，玩家期待值拉满。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/WoW-Xalatath-Midnight-Plan-Datamined.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑地牢",
-        "title": "《暗黑地牢》在续作发售后意外推出新DLC",
-        "link": "https://www.gamespot.com/articles/darkest-dungeon-is-getting-new-dlc-even-though-it-has-a-sequel/",
-        "summary": "Red Hook Studios宣布为《暗黑地牢》推出新DLC“The Fire's Edge”，尽管该系列已有续作，此举令粉丝惊喜。",
-        "comment": "经典游戏的生命力远超预期。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Darkest-Dungeon-The-Fires-Edge.webp?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "育碧",
-        "title": "育碧回应《幽灵行动》泄露，承诺8月公布新消息",
-        "link": "https://www.gamespot.com/articles/ubisoft-reacts-to-ghost-recon-leaks-promises-news-in-august/",
-        "summary": "育碧确认将在8月6日庆祝《幽灵行动》系列25周年时分享系列未来计划，此前有多份报道和传闻出现。",
-        "comment": "育碧终于正面回应，但玩家期待的是实质内容。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1578/15789366/3600422-3583974-ghost%20recon%20breakpoint.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "华纳兄弟",
-        "title": "华纳兄弟收购案再次陷入法律僵局",
-        "link": "https://www.gamespot.com/articles/warner-bros-acquisition-is-stuck-in-legal-limbo-again/",
-        "summary": "派拉蒙Skydance收购华纳兄弟探索的计划再遇阻碍，法官下令暂停收购进程两周。此前12个州组成的联盟已提出异议。",
-        "comment": "收购案反复搁浅，监管阻力持续升级。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/mortal-kombat-2.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂暗示《斯普拉遁4》将推出",
-        "link": "https://www.gamespot.com/articles/nintendo-basically-says-that-splatoon-4-will-happen/",
-        "summary": "尽管《斯普拉遁：突袭》看起来是任天堂从竞技多人游戏系列的转向，但系列制作人确认PvP玩法仍将持续。",
-        "comment": "系列核心玩法延续，粉丝可安心期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/NintendoSwitch2_SplatoonRaiders_scrn_30.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "孩之宝",
-        "title": "孩之宝减记5600万美元，押注更少但更大的游戏",
-        "link": "https://www.gamespot.com/articles/hasbro-is-betting-on-fewer-bigger-video-games-after-56-million-write-down/",
-        "summary": "孩之宝雄心勃勃的游戏扩张计划遭遇重大挫折，公司因游戏业务录得5600万美元减值费用，未来将聚焦更少但规模更大的游戏项目。",
-        "comment": "战略收缩，聚焦精品，但减值暴露了扩张风险。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Exodus.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "AI电影",
-        "title": "尼尔·布洛姆坎普AI短片引粉丝呼吁拍《第九区》续集",
-        "link": "https://www.gamespot.com/articles/neill-blomkamps-ai-film-has-fans-asking-for-district-10-instead/",
-        "summary": "《GT赛车》导演尼尔·布洛姆坎普展示了一部14分钟的AI生成短片，引发观众热议，许多人更期待他拍摄《第九区》的续集《第十区》。",
-        "comment": "AI短片虽炫技，但粉丝更渴望经典续作。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Nightborne.jpg?w=300",
-        "score": 92
+        "score": 96
       },
       {
         "category": "数码科技",
         "tag": "华为",
         "title": "二季度华为手机份额升至23%，广汽本田续签合资协议",
         "link": "https://www.ifanr.com/1672637?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为手机份额升至23%，广汽本田与本田续签合资协议至2038年，工信部称我国智能算力规模达2185 EFLOPS，字节跳动发布Seed Audio 1.0音频模型。",
-        "comment": "华为份额回升显示国产手机竞争力增强。",
+        "summary": "华为手机二季度市场份额升至23%；广汽本田与本田续签合资协议至2038年；《复仇者联盟5》首曝预告。",
+        "comment": "华为份额回升显示其市场韧性。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "1500元Codex键盘卖断货，小哥自己造一台",
+        "link": "https://www.ifanr.com/1672648?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "1500元的Codex键盘因ChatGPT篮球话题热销断货，有爱好者自行复刻制造。",
+        "comment": "DIY精神值得鼓励，但量产难度不小。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "数码科技",
@@ -190,37 +80,7 @@
         "summary": "萤火虫发布Halo寻光系列首款车型，定价13.33万元，比高配版贵7500元，主打情绪价值。",
         "comment": "定价策略凸显品牌溢价，情绪价值成卖点。",
         "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "堡垒之夜",
-        "title": "并非所有内容都需与《堡垒之夜》联动",
-        "link": "https://www.gamespot.com/articles/maybe-not-everything-needs-to-be-a-fortnite-collab/",
-        "summary": "作者认为《堡垒之夜》的跨界合作已趋于泛滥，尽管其商业成功显著，但并非所有IP都适合这种联动模式。",
-        "comment": "过度联动可能稀释品牌独特性。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Bear-Sprite.png?w=300",
-        "score": 89
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "1500元Codex键盘卖断货，小哥自己造了一台",
-        "link": "https://www.ifanr.com/1672648?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "1500元的Codex键盘因缺货引发DIY热潮，有用户自行制作替代品，同时ChatGPT篮球也缺货。",
-        "comment": "DIY精神在缺货中闪光。",
-        "image": "",
         "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "东京",
-        "title": "东京鼓励男性穿短裤上班，女性称遭遇“腿毛骚扰”",
-        "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-        "summary": "东京都政府呼吁职场人士放弃西装领带，改穿T恤、运动鞋和短裤，以应对夏季高温。但部分女性员工表示，男性穿短裤露出腿毛构成“腿毛骚扰”。",
-        "comment": "节能倡议遭遇性别敏感议题，职场着装改革需兼顾多元感受。",
-        "image": "",
-        "score": 86
       }
     ]
   }
