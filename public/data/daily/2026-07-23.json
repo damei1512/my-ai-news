@@ -3,24 +3,84 @@
     "week": "周四",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "ServiceNow投资4000万美元于印度银行软件商，深化金融AI布局",
+        "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+        "summary": "ServiceNow向印度银行软件公司BusinessNext投资4000万美元，估值7亿美元，旨在借助其AI技术拓展全球金融服务市场。",
+        "comment": "传统软件巨头加速金融AI垂直整合。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI产品",
+        "title": "郭晓专访：从脸萌到剪映，AI时代产品方法论首度公开",
+        "link": "https://36kr.com/p/3907953777120385?f=rss",
+        "summary": "专访剪映系创业者郭晓，他首次系统阐述AI时代产品方法论，分享从脸萌、FaceU到剪映的爆款经验，以及如何用AI重塑创作工具。",
+        "comment": "爆款制造机首次公开AI产品心法，值得关注。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "腾讯",
+        "title": "腾讯混元多模态理解负责人胡瀚离职创业",
+        "link": "https://36kr.com/p/3907934819521670?f=rss",
+        "summary": "腾讯混元多模态理解负责人胡瀚离职，他曾任微软亚洲研究院首席研究员，2025年初加入腾讯后负责视觉大模型和多模态理解研究，还承担世界模型研发工作。",
+        "comment": "多模态领域人才流动加速，创业潮或再起。",
+        "image": "",
+        "score": 97
+      },
+      {
         "category": "数码科技",
         "tag": "水下AI",
-        "title": "大疆系AI公司Deeplore获五源、顺为投资，首创水下光学系统",
+        "title": "大疆系AI公司Deeplore获五源顺为投资，首创水下光学系统",
         "link": "https://36kr.com/p/3906474040153220?f=rss",
-        "summary": "水下AI自然探索科技公司Deeplore完成数千万元种子轮融资，由五源资本、顺为资本联合投资，资金用于研发团队扩建与水下AI技术深耕，加速首款AI潜水面镜落地迭代。",
-        "comment": "大疆老兵转战水下，AI+光学系统或成新蓝海。",
+        "summary": "水下AI自然探索科技公司Deeplore完成数千万元种子轮融资，由五源资本、顺为资本联合投资，资金用于研发团队扩建与水下AI技术深耕，加速首款AI潜水面镜落地。",
+        "comment": "大疆老兵转战水下，AI+光学系统或开辟新蓝海。",
         "image": "",
         "score": 97
       },
       {
         "category": "数码科技",
         "tag": "蚂蚁数科",
-        "title": "对话蚂蚁数科：打造商业智能体超级工厂，共建中国行业版Harness标准",
+        "title": "蚂蚁数科打造商业智能体超级工厂，共建中国版Harness标准",
         "link": "https://36kr.com/p/3907590205085056?f=rss",
-        "summary": "7月17日，2026世界人工智能大会（WAIC）在上海开幕。蚂蚁数科副总裁孙磊在36氪专访中，分享商业智能体超级工厂、行业垂直大模型、AI工程化能力及企业智能体落地等话题。",
-        "comment": "蚂蚁数科正推动AI从概念走向工程化落地。",
+        "summary": "7月17日，2026世界人工智能大会（WAIC）开幕，蚂蚁数科副总裁孙磊接受36氪专访，分享商业智能体超级工厂、行业垂直大模型及AI工程化能力等话题。",
+        "comment": "蚂蚁数科正推动AI工程化落地，加速企业智能化升级。",
         "image": "",
         "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "工业AI",
+        "title": "设序科技完成超亿元B轮融资，累计融资超3亿元",
+        "link": "https://36kr.com/p/3907532622648453?f=rss",
+        "summary": "工业AI设计研发解决方案供应商设序科技完成超亿元B轮融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等，资金将用于市场开拓及核心模型技术研发。",
+        "comment": "AI重构工业设计，融资加速技术落地。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "腾讯",
+        "title": "腾讯副总裁林松涛：Marvis专注系统级操作，不拼通用能力",
+        "link": "https://36kr.com/p/3907676111983745?f=rss",
+        "summary": "在WAIC腾讯AI应用创新论坛上，腾讯副总裁林松涛表示技术突破决定AI速度，价值创造决定AI走多远。腾讯三大Agent产品中，Marvis专注端侧系统级操作，与WorkBuddy等形成差异化。",
+        "comment": "端侧AI落地需聚焦场景，Marvis定位清晰。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI创业",
+        "title": "FutureTech张梦钊：AI重塑创业范式，从“一个人+一群Agent”到超级个体",
+        "link": "https://36kr.com/p/3907639172027522?f=rss",
+        "summary": "7月17日，2026世界人工智能大会在上海开幕，36氪「氪话未来」直播间专访FutureTech负责人张梦钊，探讨平台定位、OPC挑战赛、AI创业趋势及初创企业商业化路径。",
+        "comment": "AI正推动创业从团队协作向超级个体演进。",
+        "image": "",
+        "score": 96
       },
       {
         "category": "数码科技",
@@ -28,19 +88,29 @@
         "title": "拾玥科技获数千万元天使轮融资，专注机器人灵巧操作",
         "link": "https://36kr.com/p/3907536767833473?f=rss",
         "summary": "机器人灵巧操作方案提供商拾玥科技完成数千万元天使轮融资，由常州智融长优领投，国有平台跟投，资金用于团队扩张、产品迭代及灵巧操作数据采集与模型研发。",
-        "comment": "自研视触觉闭环是破解数据难题的关键。",
+        "comment": "自研视触觉闭环或成机器人数据瓶颈突破口。",
         "image": "",
         "score": 96
       },
       {
-        "category": "数码科技",
-        "tag": "设序科技",
-        "title": "设序科技完成B轮超亿元融资，累计获超3亿元",
-        "link": "https://36kr.com/p/3907532622648453?f=rss",
-        "summary": "工业AI设计研发解决方案供应商设序科技完成B轮超亿元融资，累计获超3亿元，投资方包括深产投、合鼎共及老股东涌铧投资等，资金将用于市场开拓及核心模型技术研发。",
-        "comment": "AI重构工业设计，资本持续加码。",
-        "image": "",
-        "score": 96
+        "category": "游戏影视",
+        "tag": "汤姆·克鲁斯",
+        "title": "《雷霆壮志2》导演人选：乔纳森·莱文洽谈中",
+        "link": "https://www.ign.com/articles/5050-director-jonathan-levine-in-talks-to-direct-tom-cruise-sequel-days-of-thunder-2",
+        "summary": "派拉蒙计划为汤姆·克鲁斯经典赛车电影《雷霆壮志》制作续集，已与《抗癌的我》导演乔纳森·莱文进入洽谈阶段。",
+        "comment": "经典IP续作再添新作，导演风格值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2024/11/01/days-of-thunder-1730498150132.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "马特·达蒙",
+        "title": "马特·达蒙差点在两部蝙蝠侠电影中饰演罗宾",
+        "link": "https://www.ign.com/articles/matt-damon-almost-starred-as-robin-in-two-different-batman-movies",
+        "summary": "达蒙回忆称，克里斯·奥唐纳已获得罗宾角色，但片酬谈判陷入僵局。",
+        "comment": "好莱坞选角背后的金钱博弈。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/23/damon-robin-1280-1784787851113.png",
+        "score": 93
       },
       {
         "category": "游戏影视",
@@ -48,17 +118,67 @@
         "title": "乐高宣布推出大金刚街机套装",
         "link": "https://www.ign.com/articles/lego-donkey-kong-arcade-set-officially-announced",
         "summary": "乐高最新任天堂主题套装包含大金刚、女士和跳跃人角色，还原经典街机场景。",
-        "comment": "怀旧与创意结合，任天堂粉丝必入。",
+        "comment": "经典IP联动，怀旧情怀拉满。",
         "image": "https://assets-prd.ignimgs.com/2026/07/20/lego-donkey-kong-arcade-blogroll-1784575792093.jpeg",
-        "score": 94
+        "score": 93
       },
       {
         "category": "数码科技",
-        "tag": "数码科技",
+        "tag": "AI外挂",
+        "title": "三步爆改旧鼠标，打造最好用的AI外挂",
+        "link": "https://www.ifanr.com/1672824?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "230刀的Codex键盘虽好，但非人人必需。本文介绍如何通过三步改造旧鼠标，使其成为实用的AI外挂工具。",
+        "comment": "低成本DIY方案，让旧设备焕发AI新价值。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "折叠屏",
         "title": "12999起首台安卓阔折叠发布，苹果MacBook将全线更新",
         "link": "https://www.ifanr.com/1672820?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AMD与Anthropic达成数百亿美元AI服务器合作；台积电拟2027年上调芯片代工价格，最高涨幅10%；Claude Cowork可通过录屏学习并保存可复用Skill。",
-        "comment": "安卓折叠屏创新加速，苹果笔记本更新在即。",
+        "summary": "AMD与Anthropic达成数百亿美元AI服务器合作；台积电拟2027年上调芯片代工价格最高10%；Claude Cowork可通过录屏学习并保存可复用Skill。",
+        "comment": "安卓折叠屏竞争加剧，苹果MacBook更新在即。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "恐怖游戏",
+        "title": "三人合作恐怖游戏《午夜轮班》发售，夜班鉴伪人",
+        "link": "https://www.gcores.com/articles/217445",
+        "summary": "在线合作侦探恐怖游戏《午夜轮班》登陆PC与Xbox Series X|S，玩家需经营加油站、识破伪人并布置陷阱，已加入Game Pass。",
+        "comment": "伪人题材结合合作玩法，恐怖氛围与策略性兼备。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Steam",
+        "title": "V社优化送礼功能，愿望单同步升级",
+        "link": "https://www.gcores.com/articles/217444",
+        "summary": "Steam礼物是向亲友赠送游戏和数字礼物卡的热门方式。随着实体礼品卡即将退出市场，V社推出访客结账等新功能，改善送礼体验，并与愿望单类别优化相得益彰。",
+        "comment": "数字礼物体验升级，用户便利性显著提升。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《机械狂欢》7月30日发售，失败即暴毙的暴力派对游戏",
+        "link": "https://www.gcores.com/articles/217280",
+        "summary": "由《Buckshot Roulette》创作者Mike Klubnika与GDeavid联合开发的暴力美学派对游戏《机械狂欢》将于7月30日发售，支持2至4人游玩，输掉游戏可能直接失败。",
+        "comment": "暴力派对游戏新作，高风险玩法吸引硬核玩家。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "策略卡牌自走棋《神之一手》8月6日登陆Steam",
+        "link": "https://www.gcores.com/articles/217440",
+        "summary": "Billion Studio宣布，融合卡牌构筑与自走棋玩法的策略Roguelike游戏《神之一手》将于2026年8月6日登陆Steam，玩家将扮演古神使徒，构筑牌组与对手对决。",
+        "comment": "卡牌自走棋玩法新颖，但2026年发售略显遥远。",
         "image": "",
         "score": 91
       },
@@ -67,7 +187,7 @@
         "tag": "幻世录",
         "title": "《幻世录 重制版》Steam试玩版免费开放下载",
         "link": "https://www.gcores.com/articles/217434",
-        "summary": "经典战棋SRPG《幻世录》推出重制版，Steam试玩版即日起免费下载，包含初期剧情与七个关卡，并公开全新PV和战斗界面。",
+        "summary": "经典战棋SRPG《幻世录》重制版于今日在Steam推出免费试玩版，收录初期剧情与七个关卡，并公开全新PV，展示重制后的战斗界面与角色转职系统。",
         "comment": "经典重制诚意足，试玩版值得老玩家重温。",
         "image": "",
         "score": 91
@@ -75,12 +195,42 @@
       {
         "category": "游戏影视",
         "tag": "PS5",
-        "title": "美国年内仅七款PS5实体游戏销量超10万",
+        "title": "分析师：2026年美国仅七款PS5实体游戏销量破10万",
         "link": "https://www.gcores.com/articles/217431",
-        "summary": "市场研究机构Circana分析师Mat Piscatella数据显示，2026年美国仅七款PS5实体游戏销量突破10万份，单周销量超1万份的仅两款，英国第九名周销仅1000份。",
-        "comment": "实体游戏市场萎缩加速，数字版已成主流。",
+        "summary": "Circana分析师Mat Piscatella数据显示，2026年美国仅七款PS5实体游戏销量超10万份，单周销量过万仅两款，英国第九名周销仅1000份，实体市场萎缩明显。",
+        "comment": "实体游戏市场加速衰退，数字版已成主流。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "EP25 Bias 即人性（下）· Thoughts：归纳偏置是人的本质",
+        "link": "https://www.gcores.com/radios/217438",
+        "summary": "本期播客探讨归纳偏置作为人性本质而非障碍，主播重轻宣布从8月1日起在北京Pillbox俱乐部举办《二十世纪的乐器》系列讲座，共十次，每周六晚和周日下午进行。",
+        "comment": "将认知偏见视为人性核心，观点新颖有深度。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "Kimi",
+        "title": "Kimi叫停新订阅后如何用上K3实测避坑",
+        "link": "https://www.ifanr.com/1672800?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "同一个模型，进入不同的壳，就不再是同一个设计师，这中间是harness的差异。爱范儿实测K3使用方式与避坑指南。",
+        "comment": "模型外壳差异影响体验，用户需谨慎选择。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "双点医院",
+        "title": "《双点医院》典藏版主机版9月15日发售",
+        "link": "https://www.gcores.com/articles/217430",
+        "summary": "世嘉宣布《双点医院：满血痊愈典藏版》将于9月15日登陆PS5、Switch 2及Xbox Series X|S，售价198元，11月6日推出实体版，包含全部DLC。",
+        "comment": "完整版登陆主机，性价比不错。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "游戏影视",
@@ -88,59 +238,89 @@
         "title": "温泉恐怖模拟游戏《异界宿帐》公布，年内发售",
         "link": "https://www.gcores.com/articles/217429",
         "summary": "Frontier Works 打造的温泉恐怖模拟游戏《异界宿帐》正式公布，将于年内发售。玩家白天款待付丧神，夜晚在诡异怪奇中求生，抉择影响旅馆命运。",
-        "comment": "白天待客晚上逃命，创意反差值得期待。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "双点医院",
-        "title": "《双点医院：满血痊愈典藏版》主机版9月15日发售",
-        "link": "https://www.gcores.com/articles/217430",
-        "summary": "世嘉宣布《双点医院：满血痊愈典藏版》将于9月15日登陆PS5、Switch 2及Xbox Series X|S，售价198元，11月6日推出实体版，包含所有DLC。",
-        "comment": "经典模拟游戏完整版登陆新主机，值得粉丝关注。",
+        "comment": "白天待客晚上逃命，玩法反差有创意。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "独立游戏",
-        "title": "「摊开玩」独立游戏市集正式开票，线上电子票独家发售",
+        "title": "「摊开玩」独立游戏市集正式开票",
         "link": "https://www.gcores.com/articles/217359",
-        "summary": "「摊开玩」独立游戏市集正式开票，门票以线上电子票形式在机核商城独家贩售，售罄后不设现场售票，旨在保障玩家体验。",
-        "comment": "独立游戏市集线上售票，精准控制人流，提升体验。",
+        "summary": "「摊开玩」独立游戏市集正式开票，线上电子票在机核商城独家贩售，售罄后不现场售票，旨在保障玩家体验。",
+        "comment": "独立游戏市集开票，线上独家售卖保障体验。",
         "image": "",
         "score": 88
       },
       {
         "category": "游戏影视",
-        "tag": "NBA 2K27",
-        "title": "《NBA 2K27》开启预购，国区298元起",
-        "link": "https://www.gcores.com/articles/217428",
-        "summary": "《NBA 2K27》开启预购，国区标准版298元，豪华版460元，巅峰版599元。支持MyCAREER、MyTEAM、MyNBA模式，封面运动员为Victor Wembanyama。",
-        "comment": "年货游戏定价稳定，封面人选有话题性。",
+        "tag": "游戏展会",
+        "title": "《毁灭战士》联合创始人将出席2026年科隆亚洲游戏展",
+        "link": "https://www.ign.com/articles/doom-co-creator-john-romero-to-headline-gamescom-asia-x-thailand-game-show-2026",
+        "summary": "《毁灭战士》联合创始人约翰·罗梅罗将担任2026年科隆亚洲游戏展与泰国游戏展联合活动的主讲嘉宾，分享游戏开发经验。",
+        "comment": "传奇制作人亮相亚洲展会，彰显行业影响力。",
+        "image": "https://assets-prd.ignimgs.com/2024/05/30/gettyimages-614752764-1-1717084969339.jpg",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "胡塞武装",
+        "title": "胡塞武装宣称袭击油轮，美国再对伊朗发动打击",
+        "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+        "summary": "胡塞武装宣布对沙特实施“海上禁运”后，首次在红海袭击油轮，美国随即对伊朗目标发动更多打击。",
+        "comment": "红海局势持续升级，地区冲突风险加剧。",
         "image": "",
-        "score": 87
+        "score": 88
       },
       {
         "category": "时事热点",
         "tag": "美国",
         "title": "美国与沙特签署里程碑式核能协议",
         "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-        "summary": "美国能源部表示，这项“和平”合作协议将使美国企业“大量参与”沙特核能项目。",
-        "comment": "美沙核合作或将重塑中东能源格局。",
+        "summary": "美国能源部称，这项“和平”合作协议将使美国企业“大量进入”沙特核能项目。",
+        "comment": "美沙核协议重塑中东能源格局。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "美加贸易",
+        "tag": "加拿大",
         "title": "加拿大乳业成特朗普贸易战新靶心",
         "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统特朗普将加拿大乳业供应管理体系列为三大贸易摩擦点之一，以此为由加征新关税，该体系引发关注。",
-        "comment": "乳业争端升级，美加贸易摩擦再添变数。",
+        "summary": "美国总统特朗普将加拿大乳业供应管理体系列为三大贸易障碍之一，以此为由加征新关税，该体系面临国际审视。",
+        "comment": "美加贸易摩擦升级，乳业成焦点。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "乌克兰",
+        "title": "乌克兰无人机袭击俄罗斯电商Wildberries仓库",
+        "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+        "summary": "乌克兰无人机连日袭击俄罗斯最大在线零售商Wildberries的多个零售仓库，给俄罗斯企业带来压力。",
+        "comment": "冲突升级波及商业基础设施，经济战加剧。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "谷歌",
+        "title": "谷歌AI成本飙升，烧钱速度惊人",
+        "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+        "summary": "谷歌今年早些时候表示，预计在AI投资上花费高达1900亿美元，成本持续攀升。",
+        "comment": "AI军备竞赛正加速科技巨头资金消耗。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "印度",
+        "title": "印度活动家绝食26天减重11公斤：我仍活着",
+        "link": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+        "summary": "索南·旺楚克在德里举办的蟑螂人民党抗议活动中成为焦点，已绝食26天，体重下降11公斤。",
+        "comment": "非暴力抗议的极端形式引发关注。",
+        "image": "",
+        "score": 86
       }
     ]
   }
