@@ -4,233 +4,73 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AMD",
-        "title": "AMD发布Helios AI机架系统挑战英伟达",
-        "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-        "summary": "AMD推出全新机架级系统Helios，旨在与英伟达竞争，该系统将于今年晚些时候开始向客户发货。",
-        "comment": "AMD加速追赶，机架系统或成AI算力新变量。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "前谷歌安全高管创立的AegisAI获3600万美元融资，防御AI驱动的鱼叉式钓鱼攻击",
-        "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-        "summary": "AegisAI由前谷歌安全高管创立，开发AI代理快速分析每条消息，像人类一样关注微小异常，以防御AI驱动的鱼叉式钓鱼攻击，近日获得3600万美元融资。",
-        "comment": "AI安全攻防进入新阶段，防御侧需更精细的异常检测。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI模型",
-        "title": "Runway推出AI模型路由器应对生成式媒体拥挤",
-        "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-        "summary": "Media Router是一款工具，可根据开发者对质量、速度或成本的优先级，自动为请求选择最佳图像、视频或音频生成模型。",
-        "comment": "模型路由是解决生成式AI碎片化的务实方案。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI向所有美国用户开放ChatGPT健康功能",
-        "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-        "summary": "用户可整合Apple Health、Function和MyFitnessPal等服务的个人数据，实现健康管理集成。",
-        "comment": "健康数据整合是AI应用的重要场景，但隐私风险需关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta新广告用人类末日歌曲宣传AI乐观主义",
-        "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-        "summary": "Meta发布一则看似鼓舞人心的AI广告，背景音乐是大卫·鲍伊的《五年》，这首歌讲述人类得知五年后世界末日的故事。",
-        "comment": "广告选曲与主题自相矛盾，令人困惑。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI芯片",
-        "title": "AI芯片初创公司Etched估值达103亿美元",
-        "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-        "summary": "由三名哈佛辍学生创立的Etched开发出新芯片和内存组件，声称无需GPU即可加速任何AI模型的推理过程。",
-        "comment": "硬件创新突破，挑战GPU垄断格局。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI推出ChatGPT健康功能，连接医疗记录与Apple Health",
+        "title": "OpenAI：Health、ChatGPT能力更新",
         "link": "https://openai.com/index/health-in-chatgpt",
-        "summary": "OpenAI为美国用户推出ChatGPT健康功能，允许用户安全连接医疗记录和Apple Health数据，以获取个性化健康洞察。",
-        "comment": "AI健康助手迈出关键一步，但隐私挑战不容忽视。",
+        "summary": "这条来自OpenAI的人工智能消息，重点围绕Health、ChatGPT等能力更新展开，适合先快速抓住版本重点。",
+        "comment": "我的判断：这更像是产品能力前推一步，真正值不值得高看还要看后续实际效果。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Anthropic升级Claude语音模式，采用更强模型",
-        "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-        "summary": "Claude新语音模式支持用户通过语音重新安排会议或起草邮件，提升了交互能力。",
-        "comment": "语音助手实用性增强，但需关注隐私与误操作风险。",
+        "tag": "TechCrunch AI",
+        "title": "TechCrunch AI：AMD、Nvidia相关动态",
+        "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "summary": "这条来自TechCrunch AI的人工智能消息，重点围绕AMD、Nvidia展开，我已先提炼出关键词方便快速浏览。",
+        "comment": "我的判断：这条来自TechCrunch AI的人工智能更新值得先记下，后续如果还有展开，我会继续帮你补充。",
         "image": "",
-        "score": 99
+        "score": 93
       },
       {
         "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达将GPU送往月球",
-        "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-        "summary": "英伟达计划向月球运送GPU，以支持月球表面的人工智能计算任务，拓展AI在太空领域的应用。",
-        "comment": "AI算力需求已延伸至地外空间。",
+        "tag": "TechCrunch AI",
+        "title": "TechCrunch AI：Anthropic、Claude能力更新",
+        "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "summary": "这条来自TechCrunch AI的人工智能消息，重点围绕Anthropic、Claude等能力更新展开，适合先快速抓住版本重点。",
+        "comment": "我的判断：这更像是产品能力前推一步，真正值不值得高看还要看后续实际效果。",
         "image": "",
-        "score": 99
+        "score": 93
       },
       {
         "category": "数码科技",
-        "tag": "特斯拉",
-        "title": "马斯克称FSD是特斯拉需求核心；字节跳动在中卫成立新公司",
+        "tag": "36Kr",
+        "title": "氪星晚报 ｜马斯克：FSD是拉动特斯拉汽车需求的核心驱动力；字节跳动",
         "link": "https://36kr.com/p/3908051015488640?f=rss",
-        "summary": "淡马锡旗下凯德投资与丰树投资合并谈判停滞，因估值和管理层安排分歧；阿里云发布真武芯；马斯克强调FSD是特斯拉需求核心驱动力；字节跳动在中卫成立注册资本22亿的新科技公司。",
-        "comment": "FSD成特斯拉关键卖点，字节跳动加速布局科技领域。",
+        "summary": "这条来自36Kr的数码科技消息主要提到：大公司： 淡马锡旗下凯德投资与丰树合并谈判据悉陷入停滞 7月23日，据报道，由淡马锡控股支持的两大房地产资产管理公司——凯德投资与丰树投资的合并谈判已陷入停滞，双方在估值等问题上存",
+        "comment": "我的判断：这条更偏商业进展，重点要看它后续能不能真正转化成增长和落地。",
         "image": "",
-        "score": 97
+        "score": 90
       },
       {
         "category": "数码科技",
-        "tag": "AI创业",
-        "title": "专访郭列：剪映系创业者如何在AI时代打造爆款",
-        "link": "https://36kr.com/p/3907953777120385?f=rss",
-        "summary": "郭列首次阐释AI时代产品方法论，剪映系创业者如陈冕、明超平等在AI视频、编码等领域获资本青睐，揭示爆款背后的共同逻辑。",
-        "comment": "剪映系创业者正成为AI投资新热点。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "数码科技",
-        "tag": "无人机",
-        "title": "网格智算：不堆算力的AI大脑如何填补林下场景空白",
+        "tag": "36Kr",
+        "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
         "link": "https://36kr.com/p/3908027308823684?f=rss",
-        "summary": "无人机市场虽已饱和，但林下场景仍鲜有布局。国家林草局数据显示，2025年我国森林蓄积量达209.88亿立方米，木材产量1.4亿立方米，背后蕴藏大量核算与测量需求。",
-        "comment": "林下场景是无人机市场被忽视的蓝海。",
+        "summary": "这条来自36Kr的数码科技消息主要提到：从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。 林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2",
+        "comment": "我的判断：这条来自36Kr的数码科技更新值得先记下，后续如果还有展开，我会继续帮你补充。",
         "image": "",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "蝙蝠侠",
-        "title": "《龙之家族》演员马修·尼达姆将为《蝙蝠侠：披风斗士》第二季小丑配音",
-        "link": "https://www.ign.com/articles/house-of-the-dragon-larys-strong-actor-matthew-needham-voices-joker-in-batman-caped-crusader-season-2-comic-con-2026",
-        "summary": "Prime Video宣布，英国演员马修·尼达姆将在《蝙蝠侠：披风斗士》第二季中为小丑配音。他因在《龙之家族》中饰演拉里斯·斯特朗而闻名。",
-        "comment": "选角延续了该剧的暗黑风格，值得期待。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/23/joker-1784842650766.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "蝙蝠侠",
-        "title": "亚马逊Prime独占蝙蝠侠游戏《Caped Crusader - Chronicles》7月31日上线",
-        "link": "https://www.ign.com/articles/amazon-prime-has-an-exclusive-batman-video-game-set-to-launch-alongside-batman-caped-crusader-season-2-comic-con-2026",
-        "summary": "亚马逊与华纳兄弟宣布，蝙蝠侠新游戏《Caped Crusader - Chronicles》将作为Prime独占内容，于7月31日与动画第二季同步推出。",
-        "comment": "IP联动策略精准，但独占性可能限制受众。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/23/bccc-montoya-01-final-1920x1080-ct-000026630-1784822409347.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "前PlayStation高管呼吁回归AA游戏黄金时代",
-        "link": "https://www.gamespot.com/articles/ex-playstation-boss-calls-for-a-return-to-the-good-old-days-of-aa-gaming/",
-        "summary": "前PlayStation负责人Shawn Layden虽已离开索尼，但仍对公司、游戏及行业有深刻见解，特别希望回归AA游戏的辉煌时期。",
-        "comment": "AA游戏是行业创新的重要源泉。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/sly3-image.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "《光环》重制版Xbox玩家付费提前游玩遇阻",
-        "link": "https://www.gamespot.com/articles/halo-players-on-xbox-who-paid-more-to-play-early-cant/",
-        "summary": "《光环：战役进化》早期访问期间，Xbox玩家因技术问题无法进入游戏，导致付费提前体验的用户严重失望。",
-        "comment": "付费提前体验再次因技术问题翻车。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Halo-Campaign-Evolved-Premium-Upgrade-Players-Cant-Play.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "微软",
-        "title": "微软在Xbox上测试广告支持云游戏，承诺不中断游戏",
-        "link": "https://www.gamespot.com/articles/free-ad-supported-gaming-is-now-available-on-xbox-in-a-test/",
-        "summary": "微软推出免费广告支持云游戏测试，Xbox Insider计划成员今日起可参与，广告不会中断游戏体验。",
-        "comment": "广告模式或成云游戏变现新路径。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/xbox.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "云游戏",
-        "title": "亚马逊游戏高管提议用云游戏解决主机涨价问题",
-        "link": "https://www.gamespot.com/articles/with-1000-consoles-on-the-horizon-amazon-games-boss-offers-a-solution-that-absolutely-no-one-asked-for/",
-        "summary": "亚马逊游戏负责人杰夫·加蒂斯针对主机价格可能突破1000美元的趋势，提出云游戏作为解决方案，但该提议此前并未获得市场成功，也无人期待。",
-        "comment": "云游戏方案缺乏市场验证，难以解决现实问题。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Guess-Ill-Buy.jpg?w=300",
-        "score": 92
+        "score": 90
       },
       {
         "category": "数码科技",
-        "tag": "领克",
-        "title": "领克07 GT上市14.58万起，拉力赛车同步亮相",
+        "tag": "36Kr",
+        "title": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI",
+        "link": "https://36kr.com/p/3907953777120385?f=rss",
+        "summary": "这条来自36Kr的数码科技消息主要提到：文｜周鑫雨 编辑｜张雨忻 什么样画像的AI创业者会饱受瞩目？不同投资人心里或许有不同的答案，但其中一个答案一定是：剪映系。 陈冕，Lovart、LibTV等热门创作工具的缔造者；明",
+        "comment": "我的判断：这条来自36Kr的数码科技更新值得先记下，后续如果还有展开，我会继续帮你补充。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "爱范儿",
+        "title": "14.58 万元起！领克 07 GT 正式上市，拉力赛车同步亮相",
         "link": "https://www.ifanr.com/1672916?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "领克07 GT正式上市，起售价14.58万元，同时拉力赛车版本亮相，延续品牌赛车基因。",
-        "comment": "领克以亲民价格切入运动轿车市场，赛车同步亮相强化品牌形象。",
+        "summary": "这条来自爱范儿的数码科技消息主要提到：领克的赛车故事，换了一种跑法。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上",
+        "comment": "我的判断：这条来自爱范儿的数码科技更新值得先记下，后续如果还有展开，我会继续帮你补充。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "蝙蝠侠",
-        "title": "蝙蝠侠新游戏即将推出，但并非预期之作",
-        "link": "https://www.gamespot.com/articles/batman-is-finally-getting-a-new-game-just-not-the-one-you-were-expecting/",
-        "summary": "《蝙蝠侠：披风斗士》新季将于7月31日开播，同时一款新游戏也将上线，让玩家扮演侦探解谜。",
-        "comment": "新游戏与动画联动，但非核心大作。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Batman-CCC.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏延期",
-        "title": "《降世神通：传奇》格斗游戏Xbox版临发售前延期",
-        "link": "https://www.gamespot.com/articles/avatar-legends-the-fighting-game-delayed-at-last-moment-on-xbox/",
-        "summary": "原定于7月23日发售的《降世神通：传奇》格斗游戏Xbox版，在发售前数小时被官方宣布延期，新发售日未公布。",
-        "comment": "临门一脚的延期，对玩家信任是打击。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/AvatarFighting.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "油价",
-        "title": "中东局势升级，布伦特原油价格突破100美元",
-        "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-        "summary": "受中东战争持续升级影响，布伦特原油价格周四上涨超6%，自5月以来首次突破每桶100美元大关。",
-        "comment": "地缘政治风险溢价显著推高油价。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "沙特",
-        "title": "特朗普：沙特若想获核协议须承认以色列",
-        "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统表示，帮助沙特发展核能的里程碑协议取决于其加入《亚伯拉罕协议》。",
-        "comment": "核能合作与外交承认捆绑，中东格局再添变数。",
-        "image": "",
-        "score": 87
+        "score": 85
       }
     ]
   }
