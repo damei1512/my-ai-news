@@ -3,32 +3,12 @@
     "week": "周五",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Reid Hoffman与Mark Pincus联合创立AI实验室Prentis，拟融资1亿美元",
-        "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-        "summary": "新实验室押注自动化常规计算机任务将很快超越编程，成为AI最大应用场景。",
-        "comment": "AI应用方向从编程转向自动化，值得关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Cognition收购Poke：AI个性成竞争优势",
-        "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-        "summary": "Cognition收购Poke，将其对话风格和交互模型整合到编程助手Devin中，反映AI助手的交互方式正成为差异化竞争的关键。",
-        "comment": "AI个性从附加功能升级为核心竞争力。",
-        "image": "",
-        "score": 100
-      },
-      {
         "category": "数码科技",
         "tag": "腾讯",
-        "title": "腾讯副总裁林松涛：意图将代替入口，Agent需“小脑”",
+        "title": "对话腾讯副总裁林松涛：意图代替入口，Agent需小脑",
         "link": "https://www.ifanr.com/1673039?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "腾讯副总裁林松涛提出，大模型作为“大脑”，而Marvis旨在补上“小脑”，意图将取代传统入口，推动Agent发展。",
-        "comment": "AI交互范式正从入口转向意图驱动。",
+        "summary": "腾讯副总裁林松涛认为大模型是大脑，Agent需要小脑来补足，意图将代替传统入口。",
+        "comment": "意图驱动或成AI交互新范式。",
         "image": "",
         "score": 92
       },
@@ -37,78 +17,48 @@
         "tag": "智能驾驶",
         "title": "卓驭常州工厂落成投产，智能驾驶向物理世界扩张",
         "link": "https://www.ifanr.com/1673014?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "卓驭常州工厂落成投产，标志着智能驾驶从研发向制造延伸，工业能力成为核心竞争力。",
+        "summary": "卓驭常州工厂正式落成投产，标志着智能驾驶从研发走向量产，工业能力成为核心竞争力。",
         "comment": "量产能力是智能驾驶落地的关键一步。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "网红浣熊Jimothy将成《魔兽世界》可获取宠物",
-        "link": "https://www.gamespot.com/articles/jimothy-the-viral-raccoon-is-becoming-an-earnable-wow-pet/",
-        "summary": "短刺浣熊Jimothy因走红网络，即将加入《魔兽世界》成为可获取宠物，玩家可通过游戏内活动获得。",
-        "comment": "游戏与现实联动，热点营销再添新例。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/WoW-Jimothy-Pet.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
         "tag": "生化危机",
-        "title": "《生化危机》电影预告片引索尼玩家抗议光盘政策",
+        "title": "《生化危机》电影预告片引PS玩家留言要求索尼改变光盘策略",
         "link": "https://www.gamespot.com/articles/resident-evil-movie-trailer-on-playstations-youtube-page-is-full-of-people-asking-sony-to-change-course-on-discs/",
-        "summary": "《生化危机》新电影预告片在PlayStation YouTube频道发布，评论区被玩家要求索尼改变光盘策略的留言淹没，反映玩家对数字版趋势的不满。",
-        "comment": "玩家借电影预告片表达对光盘政策的强烈不满。",
+        "summary": "《生化危机》新电影预告片在PlayStation YouTube频道发布，但评论区被玩家留言淹没，要求索尼重新考虑光盘发行政策。",
+        "comment": "玩家借电影预告片表达对数字版策略的不满。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-9.17.51-AM-1.png?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "暴雪",
-        "title": "暴雪员工因涉嫌在《魔兽世界》中帮助朋友作弊被解雇",
+        "title": "暴雪员工因协助朋友在《魔兽世界》作弊被解雇",
         "link": "https://www.gamespot.com/articles/blizzard-employee-out-of-a-job-after-allegedly-helping-friends-cheat-in-wow/",
-        "summary": "一名暴雪员工被指控使用开发者工具帮助一群朋友完成《魔兽世界》中的高难度史诗+地下城，现已离职。暴雪确认已采取行动。",
-        "comment": "滥用权限零容忍，暴雪维护公平游戏环境。",
+        "summary": "一名暴雪员工被指控使用开发者工具帮助朋友完成《魔兽世界》高难度史诗钥石地下城，现已离职。暴雪确认已采取行动，但未透露具体细节。",
+        "comment": "滥用权限破坏公平，暴雪零容忍处理得当。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Blizzard-Employee-Out-Of-A-Job-After-Helping-Friends-Cheat-In-WoW.jpg?w=300",
         "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "《光环：战役进化》隐藏结局暗示《光环2》重制版",
-        "link": "https://www.gamespot.com/articles/halo-campaign-evolved-secret-ending-seems-to-tease-a-halo-2-remake/",
-        "summary": "《光环：战役进化》的隐藏结局向玩家暗示，《光环》系列可能不止初代获得完全重制，续作《光环2》的重制版或已在计划中。",
-        "comment": "经典重制潮延续，光环粉丝有福了。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Halo-Campaign-Evolved.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码科技",
-        "title": "Codex键盘上手评测：做工似苹果，反被破解",
-        "link": "https://www.ifanr.com/1673060?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Codex键盘第一波上手评测显示其做工接近苹果品质，但有用户反手成功破解该键盘。",
-        "comment": "品质与安全性的双重考验。",
-        "image": "",
-        "score": 91
-      },
-      {
         "category": "数码科技",
         "tag": "华为",
-        "title": "16.98万起，华为乾崑六件套上车，奕派M8挤进大六座市场",
+        "title": "16.98万起，华为乾崑六件套上车，奕派M8进军大六座市场",
         "link": "https://www.ifanr.com/1673042?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "奕派M8以16.98万元起售，搭载华为乾崑六件套，进入竞争激烈的大六座SUV市场。",
-        "comment": "华为技术赋能，性价比成关键。",
+        "summary": "奕派M8以16.98万元起售，搭载华为乾崑六件套，进入竞争激烈的大六座SUV市场，主打智能与性价比。",
+        "comment": "华为技术加持，能否在拥挤市场中突围？",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "领克",
-        "title": "对话吉利林杰：领克定位“向宽”，极氪向上",
+        "title": "对话吉利林杰：领克“向宽”战略，更个性有趣",
         "link": "https://www.ifanr.com/1673069?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "领克品牌将走向更宽泛的个性化和趣味性方向，与极氪的向上定位形成差异化。",
-        "comment": "领克拓宽定位，品牌矩阵更清晰。",
+        "summary": "吉利汽车林杰表示，领克将走向更宽泛的市场定位，强调个性与趣味性，以差异化竞争应对市场变化。",
+        "comment": "领克差异化定位清晰，拓宽市场空间。",
         "image": "",
         "score": 91
       },
@@ -117,10 +67,30 @@
         "tag": "PSN",
         "title": "PSN今日宕机数小时现已恢复",
         "link": "https://www.gamespot.com/articles/psn-is-down-2/",
-        "summary": "索尼PlayStation Network于7月24日遭遇网络问题，持续数小时后已恢复正常，但用户连接情况可能仍有差异。",
-        "comment": "服务中断影响用户体验，恢复及时但稳定性待提升。",
+        "summary": "索尼PlayStation Network于7月24日出现网络问题，持续数小时后已解决，但用户连接情况可能仍有差异。",
+        "comment": "PSN宕机影响玩家体验，恢复速度尚可。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-11.09.54-AM.png?w=300",
         "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "魔兽世界",
+        "title": "网红浣熊Jimothy将成《魔兽世界》可获取宠物",
+        "link": "https://www.gamespot.com/articles/jimothy-the-viral-raccoon-is-becoming-an-earnable-wow-pet/",
+        "summary": "短脊椎浣熊Jimothy因视频走红网络，现被加入《魔兽世界》作为可获取宠物，玩家可通过特定活动获得。",
+        "comment": "游戏与网络文化联动，趣味性十足。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/WoW-Jimothy-Pet.jpg?w=300",
+        "score": 89
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "Codex键盘上手评测：做工似苹果，反被破解",
+        "link": "https://www.ifanr.com/1673060?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道Codex键盘第一波上手体验，称其做工类似苹果产品，但有人反手破解了该键盘。",
+        "comment": "设计致敬苹果，安全漏洞成亮点。",
+        "image": "",
+        "score": 88
       }
     ]
   }
