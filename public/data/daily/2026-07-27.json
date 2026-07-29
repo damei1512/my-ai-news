@@ -4,21 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "AI",
         "title": "纳德拉：依赖单一AI的公司可能无法生存",
         "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-        "summary": "微软CEO纳德拉警告，缺乏自有模型或AI网关层来隔离提示与模型的公司将面临困境。",
-        "comment": "企业AI战略需多元化，避免单一依赖风险。",
+        "summary": "微软CEO纳德拉警告，没有自有模型或AI网关层来分离提示与模型的公司将面临困境。",
+        "comment": "AI基础设施自主性成企业生存关键。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI研究：AI正扩展工作边界",
+        "title": "OpenAI研究：AI如何扩展工作边界",
         "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-        "summary": "OpenAI最新研究显示，AI正在扩大工作者的职责范围，ChatGPT用户跨角色承担任务，重塑职业边界。",
-        "comment": "AI不是替代工作，而是重新定义工作。",
+        "summary": "OpenAI最新研究显示，AI正在扩展工作内容，ChatGPT用户跨角色承担任务，重塑职业边界。",
+        "comment": "AI正从替代工具变为能力扩展器。",
         "image": "",
         "score": 100
       },
@@ -27,30 +27,10 @@
         "tag": "宝马",
         "title": "宝马摩托三车齐发，19.99万元起配置比汽车还高",
         "link": "https://www.ifanr.com/1673198?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "宝马发布三款摩托车，搭载拳击手发动机，起售价19.99万元，配置丰富超越部分汽车，满足不同骑行需求。",
-        "comment": "摩托车配置内卷，宝马用汽车级技术降维打击。",
+        "summary": "宝马发布三款摩托车，起售价19.99万元，配置丰富超越部分汽车，分别针对不同骑行需求。",
+        "comment": "摩托高端化趋势明显，宝马以配置差异化抢占市场。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "风云A9",
-        "title": "风云A9售价10.99万，大空间长续航高配置",
-        "link": "https://www.ifanr.com/1673212?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "风云A9以10.99万元起售，主打大空间、长续航和高配置，成为市场关注焦点。",
-        "comment": "性价比突出，但需市场验证。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "Opus 5 砍掉超80%系统提示词，AI使用方式需变革",
-        "link": "https://www.ifanr.com/1673165?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Opus 5大幅精简系统提示词，提示用户应转变AI使用方式，从被动执行转向主动管理，以提升效率。",
-        "comment": "提示词精简是AI交互成熟化的标志。",
-        "image": "",
-        "score": 91
+        "score": 92
       }
     ]
   }
