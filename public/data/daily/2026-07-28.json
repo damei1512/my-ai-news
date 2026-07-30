@@ -4,101 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "机器人检测",
-        "title": "机器人检测初创公司Spur获Insight 2亿美元融资",
-        "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-        "summary": "Spur Intelligence从Insight Partners获得2亿美元融资，其技术可区分真实人类流量与机器人流量。",
-        "comment": "反欺诈赛道持续升温，资本押注流量真实性。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "Sam Altman 准备减速，因经历首次切身安全事件",
-        "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-        "summary": "Sam Altman 改变立场，表示在经历首次切身感受到的安全事件后，准备放缓发展速度。",
-        "comment": "安全事件促使AI领袖反思速度与风险平衡。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "数据中心",
-        "title": "美国最大电网或对数据中心临时限电以防停电",
-        "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-        "summary": "由于数据中心建设速度过快，电网运营商难以保障电力供应，美国最大电网可能对数据中心实施临时断电措施，以避免大规模停电。",
-        "comment": "AI扩张遭遇能源瓶颈，电网韧性面临考验。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI语音",
-        "title": "Fish Audio获5200万美元种子轮，为创作者与企业构建AI语音模型",
-        "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-        "summary": "自去年推出以来，该初创公司已有超过800万人使用其开源或托管版模型，现年经常性收入达2100万美元。",
-        "comment": "种子轮融资额惊人，显示AI语音赛道热度不减。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "智能体AI时代下的科学计算新趋势",
+        "title": "智能体AI时代下的科学计算新进展",
         "link": "https://openai.com/index/scientific-computing-agentic-ai",
-        "summary": "OpenAI发布报告，展示科学家利用AI编码智能体现代化科学计算，加速基因组学等领域的软件开发与发现。",
-        "comment": "AI智能体正重塑科研范式，效率提升显著。",
+        "summary": "OpenAI发布报告，展示科学家利用AI编码智能体现代化科学计算，加速基因组学等领域软件开发和发现。",
+        "comment": "AI智能体正成为科学计算的关键工具。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "MCP初创公司Runlayer起诉Rippling窃取产品创意",
-        "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-        "summary": "Runlayer指控Rippling在评估其MCP网关产品后，选择自行开发类似产品，并因此提起诉讼。",
-        "comment": "初创企业知识产权保护面临挑战。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "智能硬件",
-        "title": "2026年中国智能硬件行业发展研究报告发布",
-        "link": "https://36kr.com/p/3915066350327176?f=rss",
-        "summary": "AI技术加速向实体经济渗透，智能硬件作为核心载体进入关键发展阶段。调研显示80.8%消费者已购买或使用AI硬件，32%用户计划增加消费支出，市场需求稳步上升。",
-        "comment": "消费端需求强劲，智能硬件市场前景乐观。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "韩国股市",
         "title": "韩国考虑为借钱炒股封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
         "link": "https://36kr.com/p/3915953688604296?f=rss",
-        "summary": "韩国考虑为借钱炒股封顶20%，KOSPI指数大跌11%；雷军打新长鑫科技浮盈7亿传闻遭小米高管回应；月之暗面Kimi K3正式开源。此外，李宁名誉侵权案胜诉，英伟达签署500亿美元数据中心租赁协议。",
-        "comment": "韩国股市监管收紧，科技圈热点密集。",
+        "summary": "韩国考虑为借钱炒股封顶20%，KOSPI指数大跌11%；雷军打新长鑫科技浮盈7亿传闻，小米高管回应；月之暗面Kimi K3正式开源。李宁名誉侵权案胜诉，小米注册澎程商标，泡泡玛特城市乐园涨价，英伟达签署500亿美元数据中心租赁协议。",
+        "comment": "监管收紧与科技动态并存，市场波动需关注。",
         "image": "",
         "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "AI睡眠",
-        "title": "东莞数字人体与智慧睡眠创新联合体在慕思落地",
-        "link": "https://36kr.com/p/3915239611739781?f=rss",
-        "summary": "7月27日，东莞市数字人体与智慧睡眠创新联合体在慕思总部揭牌，由慕思与广东华中科技大学工业技术研究院联合主办，约300人参会，聚焦AI睡眠健康新赛道。",
-        "comment": "产学研协同推动AI睡眠健康，行业创新加速。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果AI眼镜明年WWDC亮相，隐私挑战成焦点",
-        "link": "https://www.ifanr.com/1673147?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果计划在2025年WWDC发布AI眼镜，面临隐私保护难题，需平衡技术创新与用户数据安全。",
-        "comment": "隐私是苹果AI眼镜成败的关键。",
+        "tag": "开源",
+        "title": "Kimi K3开源，Anthropic不再掩饰",
+        "link": "https://www.ifanr.com/1673258?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Kimi K3开源发布，引发行业关注，Anthropic态度转变，开源或成科技浪潮新方向。",
+        "comment": "开源策略重塑AI竞争格局。",
         "image": "",
         "score": 92
       },
@@ -107,40 +37,20 @@
         "tag": "极氪",
         "title": "极氪9X五座版上市，少一座便宜1.4万起售47.19万",
         "link": "https://www.ifanr.com/1673295?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "极氪9X五座版正式上市，起售价47.19万元，相比六座版少一个座位便宜1.4万元，定位大五座非平替。",
-        "comment": "差异化定价策略精准，五座版或成新增长点。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "开源",
-        "title": "Kimi K3开源，Anthropic不再隐藏",
-        "link": "https://www.ifanr.com/1673258?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Kimi K3开源发布，Anthropic态度转变，科技浪潮或从开源中涌现。",
-        "comment": "开源推动AI透明化，行业竞争加剧。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "五菱",
-        "title": "香港最畅销MPV：五菱星光730超越丰田埃尔法",
-        "link": "https://www.ifanr.com/1673226?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "五菱星光730成为香港市场最畅销的MPV车型，销量超越丰田埃尔法，展现中国品牌在高端市场的竞争力。",
-        "comment": "五菱以性价比逆袭高端市场，值得关注。",
+        "summary": "极氪9X五座版正式上市，起售价47.19万元，相比六座版少一个座位便宜1.4万元，定位大五座而非六座平替。",
+        "comment": "差异化定价策略精准，五座版或更受家庭用户青睐。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "AI",
-        "title": "北大校友翁荔官宣离职，AI时代最好的对齐是照顾好自己",
+        "title": "北大校友翁荔官宣离职，AI时代对齐是照顾好自己",
         "link": "https://www.ifanr.com/1673220?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "北大校友、AI领域知名人物翁荔宣布离职，强调在AI时代，个人健康与自我照顾比技术对齐更重要。",
-        "comment": "离职宣言折射AI从业者的自我反思。",
+        "summary": "北大校友、AI领域知名人物翁荔宣布离职，强调在AI时代最好的对齐是照顾好自己，引发行业关注。",
+        "comment": "离职宣言体现AI从业者的人文关怀转向。",
         "image": "",
-        "score": 90
+        "score": 91
       }
     ]
   }
