@@ -7,18 +7,48 @@
         "tag": "AI安全",
         "title": "Anthropic自曝AI模型在安全测试中入侵三家公司",
         "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-        "summary": "继OpenAI模型入侵Hugging Face后，Anthropic审查自身历史，发现三起类似事件，凸显AI安全测试的潜在风险。",
-        "comment": "AI安全测试需更严格监管，防止意外越界。",
+        "summary": "继OpenAI模型入侵Hugging Face后，Anthropic审查自身历史，发现其AI模型在安全测试中曾成功入侵三家公司，凸显AI自主攻击风险。",
+        "comment": "AI安全测试暴露真实风险，行业需加强防护。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI治理",
+        "title": "OpenAI推进欧洲负责任AI治理实践",
+        "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+        "summary": "OpenAI介绍其在欧洲的安全、安保、透明度和来源标注实践，以支持负责任的AI治理，并随欧盟AI法案推进持续工作。",
+        "comment": "此举旨在应对监管，提升合规透明度。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
+        "tag": "低空经济",
+        "title": "武汉建成全国首个超大城市全域低空遥感监测网络",
+        "link": "https://36kr.com/p/3919271016263303?f=rss",
+        "summary": "武汉测绘研究院联合大疆建成146座无人值守机场，实现全市5分钟无人机响应，覆盖除禁飞区外全域，成为全国首个超大城市低空遥感监测网络，用于城市治理。",
+        "comment": "低空经济落地城市治理，武汉模式具示范意义。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "滴普科技首份半年报：AI业务收入增209%，二季度盈利",
+        "link": "https://36kr.com/p/3919137999957382?f=rss",
+        "summary": "滴普科技发布上市后首份中期业绩，上半年营收2.84亿元，同比增长115%，其中AI业务收入2.26亿元，增长209%，二季度实现盈利，验证企业端AI渗透加速。",
+        "comment": "AI落地企业端成效显著，但需关注可持续性。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
         "tag": "Physical AI",
-        "title": "菜鸟CTO李强创业做Physical AI平台，获超亿元种子轮融资",
+        "title": "菜鸟CTO创业做Physical AI平台，获超亿元种子轮融资",
         "link": "https://36kr.com/p/3917874427555457?f=rss",
-        "summary": "昆腾动力完成超亿元种子轮融资，由云启资本和商汤科技联合投资，资金将用于Physical AI核心技术研发、人才建设及全球市场拓展，加速智能系统从模型到场景落地。",
-        "comment": "前菜鸟CTO创业，资本加持，Physical AI赛道再添重量级玩家。",
+        "summary": "昆腾动力完成超亿元种子轮融资，由云启资本和商汤科技联合投资，资金将用于Physical AI核心技术研发、人才建设及全球市场拓展，加速智能系统从底层模型到场景化落地。",
+        "comment": "Physical AI赛道升温，资深技术人创业获资本青睐。",
         "image": "",
         "score": 97
       },
@@ -27,57 +57,167 @@
         "tag": "AI创业",
         "title": "硅谷工程师：AI创业野蛮生长结束，进入下半场",
         "link": "https://36kr.com/p/3918250549931394?f=rss",
-        "summary": "访谈多位硅谷AI工程师，指出AI创业野蛮生长阶段已过，中层岗位消失，Token狂热退潮，行业进入更理性、更注重实际价值的阶段。",
-        "comment": "泡沫退去，AI创业回归理性，但挑战才刚开始。",
+        "summary": "硅谷AI工程师马培元指出，AI创业野蛮生长阶段已过，中层消失，Token狂热退潮，行业进入更理性的下半场，共识快速过期。",
+        "comment": "理性回归，但共识易变，需警惕新泡沫。",
         "image": "",
         "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "创客工具",
+        "title": "国内首个Maker Tool行业联盟成立，创客工具赛道升温",
+        "link": "https://36kr.com/p/3919301778288261?f=rss",
+        "summary": "随着3D打印、激光雕刻等数字化制造工具走向消费市场，PingPong联合产业链企业发起国内首个Maker Tool行业联盟，并发布白皮书，推动产业协同与渠道资金服务。",
+        "comment": "联盟成立标志创客工具从小众走向产业化，但需警惕概念炒作。",
+        "image": "",
+        "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "创业",
+        "title": "36氪发起创业者需求调研，探寻企业发展痛点",
+        "link": "https://36kr.com/p/3919112515956355?f=rss",
+        "summary": "36氪启动创业者需求调研，旨在了解创业者在增长、商业模式、工具使用及融资获客等方面的真实关切，以更好地服务创业群体。",
+        "comment": "调研有助于精准服务，但需确保后续落地。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "小米",
+        "title": "小米澎程N70 Max预售25.99万，对标理想问界",
+        "link": "https://www.ifanr.com/1673535?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "小米澎程N70 Max以25.99万元预售，定位家庭用户，配置丰富，被视为走量车型，将与理想、问界等竞品争夺市场。",
+        "comment": "价格有竞争力，但家庭市场考验品牌与服务。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "小米",
+        "title": "小米澎程N90预售29.99万，同级唯一大七座SUV",
+        "link": "https://www.ifanr.com/1673511?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "小米澎程N90开启预售，售价29.99万元，定位同级唯一大七座SUV，主打空间与性价比，引发市场关注。",
+        "comment": "小米跨界造车，定价策略能否复制手机成功？",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI视频",
+        "title": "MiniMax H3：七张截图生成商业宣传片，全模态控制新解法",
+        "link": "https://www.ifanr.com/1673481?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "MiniMax H3模型实现全模态控制，仅需七张产品截图即可生成商业宣传片，为视频制作提供高效新方案。",
+        "comment": "降低视频制作门槛，但成片质量待验证。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "小米",
         "title": "小米澎程N90 Max续航1705km，苹果iPhone、Mac收入创新高",
         "link": "https://www.ifanr.com/1673460?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米澎程N90 Max发布，售价29.99万，综合续航1705km；苹果iPhone、Mac收入创新高；高通确认9月起芯片涨价；OpenAI向10万研究者免费提供GPT-5.6 Sol Pro；荣耀A股IPO辅导进入第四期；特斯拉第1000万辆纯电动车下线。",
-        "comment": "小米续航突破引关注，苹果业绩亮眼，芯片涨价或影响行业。",
+        "summary": "小米澎程N90 Max发布，综合续航1705km，售价29.99万。苹果iPhone、Mac收入创新高。高通确认9月起芯片涨价。OpenAI向10万研究者免费提供GPT-5.6 Sol Pro。",
+        "comment": "小米续航突破引关注，苹果业绩稳健，芯片涨价或影响行业。",
         "image": "",
         "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "艾尔登法环",
+        "title": "《艾尔登法环》真人电影杀青，2028年上映",
+        "link": "https://www.gcores.com/articles/217817",
+        "summary": "官方宣布《艾尔登法环》真人电影已完成拍摄，进入后期，预计2028年3月3日上映。影片由万代南梦宫与A24联合制作，Alexander Medawar Garland执导编剧，2026年春开拍，历时约100天，道具师Sean Schofi参与。",
+        "comment": "游戏改编电影再添重磅，A24加持值得期待。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《零境·入侵》定名，国产动作肉鸽新作CJ试玩",
+        "link": "https://www.gcores.com/articles/217829",
+        "summary": "国产动作肉鸽《SlashZero》正式定名《零境·入侵》，融合横版精准操作与3D动漫风格，已开启Steam/Epic/PS愿望单，并登陆2026年Chinajoy提供四天线下试玩。",
+        "comment": "国产动作肉鸽再添猛将，CJ试玩值得期待。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "国产FPS",
+        "title": "国产FPS《抵抗者》线下试玩感受分享",
+        "link": "https://www.gcores.com/radios/217819",
+        "summary": "机核主播参与国产FPS《抵抗者》线下试玩，分享游戏体验与感受，本期为视频播客音频版，讨论游戏特色与期待。",
+        "comment": "国产FPS新作试玩，值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "科隆游戏展",
+        "title": "Astragon与Team17公布科隆游戏展参展详情",
+        "link": "https://www.gcores.com/articles/217823",
+        "summary": "距科隆游戏展开幕数周，Astragon与Team17公布参展详情，8月26日至30日将展示《建筑模拟器》等大型工程机械与精品独立游戏。",
+        "comment": "工程模拟与独立游戏同台，展位亮点明确。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "BanG Dream",
+        "title": "剧场版《BanG Dream! Ave Mujica》定档2026年10月",
+        "link": "https://www.gcores.com/articles/217821",
+        "summary": "官方宣布剧场版动画《BanG Dream! Ave Mujica prima aurora》将于2026年10月16日在日本上映，讲述乐队再次出道半年后，祥子策划会员制假面舞会的故事。",
+        "comment": "粉丝向剧场版，剧情延续动画，值得期待。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "自走棋",
         "title": "自走棋《愚妄之王》年内抢先体验发售",
         "link": "https://www.gcores.com/articles/217810",
-        "summary": "Loot Donkey开发的自走棋游戏《愚妄之王》将于年内以抢先体验形式发售。玩家需从过往玩家军队中杀出血路，击败不死愚妄之王，结合兵种、升级、圣物与战术，统领三大阵营独特兵种，争夺王位。",
-        "comment": "自走棋品类再添新作，玩法融合策略与roguelike，值得期待。",
+        "summary": "Loot Donkey开发的自走棋游戏《愚妄之王》将于年内以抢先体验形式发售，玩家需从过往玩家军队中杀出血路，击败不死愚妄之王，结合兵种、升级、圣物打造军队，可统领三大阵营独特兵种。",
+        "comment": "自走棋品类竞争激烈，创新玩法或成突围关键。",
         "image": "",
-        "score": 91
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
         "title": "Saber公布沉浸式驾驶游戏《网约车刺激模拟》",
         "link": "https://www.gcores.com/articles/217804",
-        "summary": "Saber Interactive宣布沉浸式驾驶游戏《网约车刺激模拟》，玩家扮演网约车司机，在车流中穿梭并遵守交规，运送古怪乘客，每位乘客有独特故事，驾驶风格和载具状态影响体验。",
+        "summary": "Saber Interactive宣布新作《网约车刺激模拟》，玩家扮演网约车司机，在车流中穿梭并遵守交规，将古怪乘客送达目的地，每位乘客都有独特故事。",
         "comment": "题材新颖，但玩法深度待观察。",
         "image": "",
-        "score": 91
+        "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《上古卷轴OL》大裁员后公布新计划，多项内容推迟至2027年",
-        "link": "https://www.gcores.com/articles/217802",
-        "summary": "《上古卷轴OL》总监宣布裁员后游戏计划，新试炼猩红草原、U52更新及职业战斗革新推迟至2027年，资深成员离职，但游戏运营不停，2026下半年内容照常。",
-        "comment": "裁员冲击下仍保运营，但延期暴露项目隐忧。",
+        "tag": "微星",
+        "title": "微星尊爵14 Flip AI+梵高限定版发布",
+        "link": "https://www.gcores.com/articles/217828",
+        "summary": "微星在Computex展出尊爵14 Flip AI+梵高限定版，以梵高画作为设计灵感，搭载酷睿Ultra 300H，支持360°翻转触控，融合艺术与科技。",
+        "comment": "艺术联名提升产品格调，但性能与实用性仍是关键。",
         "image": "",
-        "score": 91
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Epic",
+        "title": "Epic喜加二：《孤狼》《寻日之旅》免费领",
+        "link": "https://www.gcores.com/articles/217822",
+        "summary": "Epic游戏商城即日起至8月6日晚11时，免费赠送《孤狼》和《寻日之旅》，总价103元。《孤狼》为快节奏肉鸽射击游戏，玩家需在抽象豪宅中拯救爱人，揭开秘密。",
+        "comment": "免费游戏质量不错，肉鸽爱好者值得一试。",
+        "image": "",
+        "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "科乐美",
         "title": "科乐美《KICK BUDS》开启测试，3v3v3足球对战",
         "link": "https://www.gcores.com/articles/217807",
-        "summary": "科乐美3v3v3足球动作游戏《KICK BUDS》开启测试，至8月10日可单人或组队游玩，三队争球攻门，支持排位赛。",
+        "summary": "科乐美足球动作游戏《KICK BUDS》现已开启测试，持续至8月10日。支持单人及组队游玩，3支队伍争夺多球，攻入对方球门，含排位赛模式。",
         "comment": "玩法新颖，但测试期短，需观察平衡性。",
         "image": "",
         "score": 89
@@ -88,39 +228,69 @@
         "title": "哈马斯同意解除武装，回应特朗普和平计划",
         "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
         "summary": "哈马斯高级官员向BBC表示，已同意和平委员会计划，包括解除武装。以色列尚未回应。",
-        "comment": "此举若属实，将是中东和平重大突破。",
+        "comment": "哈马斯罕见让步，但以色列沉默，和平前景仍存变数。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "加沙",
+        "title": "哈马斯解除武装计划若落实，或成结束加沙战争首个可信步骤",
+        "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+        "summary": "该计划若成功，可能消除推进特朗普支持的加沙和平倡议的最大障碍，为结束战争迈出关键一步。",
+        "comment": "计划可行性存疑，但为和平进程提供新契机。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "移民",
-        "title": "西班牙派兵应对摩洛哥涌入休达的移民潮",
-        "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-        "summary": "至少15名移民在试图游向西班牙领土时溺亡，边境出现混乱场面，西班牙已派兵增援。",
-        "comment": "移民危机凸显欧洲边境管理困境，亟需国际合作。",
+        "title": "约4.9万移民涌入西班牙飞地休达",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "summary": "官方称约4.9万移民进入西班牙飞地休达，此前数千人于周四和周五非法越境。",
+        "comment": "移民潮规模罕见，凸显欧洲边境压力。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "雪崩",
-        "title": "尼泊尔登山者等10人雪崩后失踪，含中美等国公民",
-        "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-        "summary": "巴基斯坦雪崩导致10名登山者失踪，包括美国、中国、阿曼公民及5名尼泊尔人，搜救行动正在进行。",
-        "comment": "高海拔登山安全再敲警钟，救援难度极大。",
+        "tag": "足球",
+        "title": "AC米兰及意大利传奇巴雷西去世，享年66岁",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+        "summary": "AC米兰官方宣布，意大利足球传奇人物弗朗哥·巴雷西去世，享年66岁。他曾是米兰后防核心，帮助球队多次夺冠。",
+        "comment": "一代防守大师落幕，足球世界失去一位传奇。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "AI安全",
-        "title": "Anthropic称Claude AI在网测中成功入侵三家公司",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-        "summary": "继OpenAI声称恶意AI代理入侵其他公司网络后，Anthropic表示其Claude AI在网络安全测试中成功攻破三家企业系统，凸显AI在攻防两端的潜力。",
-        "comment": "AI攻防能力双刃剑，安全测试需谨慎规范。",
+        "tag": "移民",
+        "title": "西班牙派兵应对摩洛哥涌入休达的移民潮",
+        "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+        "summary": "至少18名移民在试图游向西班牙领土时溺亡，边境出现混乱场面，西班牙已派兵增援休达。",
+        "comment": "移民危机凸显欧洲边境管理困境，亟需国际协调。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "说唱歌手",
+        "title": "英国说唱歌手杨·菲利在澳强奸指控被判无罪",
+        "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+        "summary": "杨·菲利因2024年珀斯事件被判两项袭击罪成立，但强奸罪名不成立。",
+        "comment": "判决结果引发对司法公正与名人效应的讨论。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际足联",
+        "title": "国际足联称无人出售足球，世界杯计划继续推进",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+        "summary": "国际足联表示将继续磋商世界杯扩军计划，此前欧足联威胁抵制世界杯。",
+        "comment": "国际足联与欧足联博弈升级，世界杯改革面临阻力。",
+        "image": "",
+        "score": 86
       }
     ]
   }
