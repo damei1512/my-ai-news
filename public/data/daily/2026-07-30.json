@@ -4,61 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI对冲基金",
-        "title": "AI对冲基金清仓公开持仓，仍持Anthropic股份",
-        "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-        "summary": "前OpenAI研究员创办的AI对冲基金因杠杆公开交易暴跌被迫平仓，但保留Anthropic股份作为筹码。",
-        "comment": "清仓不意味着退出，Anthropic股份或是其翻身关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "投资者偏爱AI，但只限云服务商",
-        "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-        "summary": "亚马逊未放缓数据中心投入，投资者对此并不介意，显示市场对AI基础设施的持续看好。",
-        "comment": "云厂商成AI投资最大赢家。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "GPT-5.6",
+        "tag": "OpenAI",
         "title": "OpenAI发布GPT-5.6，降低Luna和Terra定价",
         "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-        "summary": "OpenAI推出GPT-5.6，针对Luna和Terra模型降低价格，通过更高效的模型帮助企业大规模部署AI工作流，提升性价比。",
-        "comment": "降价策略直击企业成本痛点，AI规模化落地再提速。",
+        "summary": "OpenAI推出GPT-5.6，通过更高效的模型降低Luna和Terra的定价，帮助企业大规模部署AI工作流，提升性价比。",
+        "comment": "降价增效，企业AI部署门槛进一步降低。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "零售",
-        "title": "avatarin用GPT-Realtime打造24/7零售客服，两周3万人使用",
+        "title": "avatarin用GPT-Realtime打造零售智能体，两周3万用户",
         "link": "https://openai.com/index/avatarin",
-        "summary": "avatarin借助OpenAI的GPT-Realtime为山田电机顾客提供全天候多语言支持，两周内3万人使用，92%调查反馈积极。",
-        "comment": "零售业AI客服落地快，但需关注复杂场景的长期效果。",
+        "summary": "avatarin利用OpenAI的GPT-Realtime为山田电机顾客提供24/7多语言支持，两周内3万人使用，92%调查反馈积极。",
+        "comment": "零售业AI落地速度惊人，但需关注长期效果。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "Reddit",
-        "title": "Reddit财报亮眼但AI影响引发市场担忧",
-        "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-        "summary": "Reddit本季度财务表现稳健，但市场对其与谷歌关系及AI化网络的不确定性表示忧虑，股价或受波动。",
-        "comment": "AI重塑流量格局，Reddit需警惕依赖风险。",
-        "image": "",
-        "score": 99
-      },
-      {
         "category": "数码科技",
         "tag": "AI",
-        "title": "AI加速科学，也在掏空大学",
+        "title": "AI加速科学，却掏空大学：科学正离开校园",
         "link": "https://www.ifanr.com/1673384?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "科学家未离开科学，但科学正从大学流失。AI推动科研效率提升，却也加剧了学术资源向产业倾斜，大学基础研究面临挑战。",
-        "comment": "AI红利与学术生态失衡，需警惕。",
+        "summary": "AI推动科研效率提升，但顶尖科学家和资源流向科技公司，大学科研能力被削弱，科学正从大学转移。",
+        "comment": "科技与学术的失衡，需警惕人才断层。",
         "image": "",
         "score": 92
       },
@@ -67,8 +37,8 @@
         "tag": "智能眼镜",
         "title": "高通与IDC：智能眼镜将成AI时代关键设备",
         "link": "https://www.ifanr.com/1673429?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "高通和IDC预测，智能眼镜将成为手机之外最重要的AI设备，AI将成智能设备基础能力，推动行业新变革。",
-        "comment": "智能眼镜或成AI落地新载体，但生态成熟尚需时日。",
+        "summary": "高通和IDC预测，智能眼镜将成为除手机外最重要的AI设备，AI将成为智能设备的基础能力。",
+        "comment": "智能眼镜赛道升温，但落地仍需生态成熟。",
         "image": "",
         "score": 92
       },
@@ -78,7 +48,7 @@
         "title": "埃安推全新运动车系Ray 7，对标小米SU7",
         "link": "https://www.ifanr.com/1673361?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "埃安发布全新车系Ray 7，定位运动型轿车，瞄准年轻市场，将与小米SU7等车型竞争，助力品牌转型。",
-        "comment": "埃安急需爆款提振销量，Ray 7定位精准但挑战不小。",
+        "comment": "埃安急需新车型提振市场，但挑战不小。",
         "image": "",
         "score": 91
       },
@@ -87,18 +57,18 @@
         "tag": "俄乌冲突",
         "title": "泽连斯基：俄导弹袭击致同一家庭五人遇难",
         "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰中部克里维里赫附近一村庄遭俄导弹袭击，造成6人死亡，包括一名6岁女童和两名分别为11岁和17岁的男孩，其中5人为同一家庭成员。",
-        "comment": "平民伤亡持续，和谈前景愈发渺茫。",
+        "summary": "乌克兰中东部克里维里赫附近村庄遭俄导弹袭击，造成六人死亡，包括一名六岁女孩和两名分别为11岁和17岁的男孩。",
+        "comment": "平民伤亡持续，和平谈判更显紧迫。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "伊朗",
-        "title": "伊朗为何认为与美国有限战争比和平更有利",
+        "title": "伊朗为何认为有限战争比和平更有利",
         "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-        "summary": "伊朗可能认为，通过谨慎控制冲突，既能向美国施压，又能避免全面战争，有限战争或比和平更符合其利益。",
-        "comment": "有限战争策略风险极高，伊朗或误判局势。",
+        "summary": "伊朗可能认为能谨慎控制冲突，既向美国施压，又避免全面战争。",
+        "comment": "有限战争策略风险极高，易失控。",
         "image": "",
         "score": 87
       }
