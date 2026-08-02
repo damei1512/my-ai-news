@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-08-02T08:25:28Z",
+  "finished_at": "2026-08-02T13:21:41Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 80,
@@ -209,14 +209,14 @@
     ],
     "stale": true,
     "stale_reason": "X feeds returned no new items; preserved previous digest.",
-    "generated_at": "2026-08-02T08:25:28Z",
+    "generated_at": "2026-08-02T13:21:41Z",
     "last_success_at": "2026-05-17T08:25:41Z"
   },
   "source_statuses": [
     {
       "source_id": "jiqizhixin",
       "source_name": "机器之心",
-      "status": "invalid_feed",
+      "status": "unexpected_error",
       "items_fetched": 0,
       "active_url": null,
       "attempted_urls": [
@@ -224,7 +224,7 @@
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": "empty html listing"
+      "error_message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)>"
     },
     {
       "source_id": "techcrunch_ai",

@@ -4,7 +4,17 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "AI监管",
+        "title": "法官驳回xAI请求，明尼苏达州禁令继续有效",
+        "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+        "summary": "尽管xAI提起诉讼，明尼苏达州禁止“脱衣”应用的禁令仍可继续执行，法官驳回了xAI的阻止请求。",
+        "comment": "AI伦理监管趋严，企业法律挑战难阻立法趋势。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
         "title": "OpenAI公布数学与理论计算机科学十项进展",
         "link": "https://openai.com/index/ten-advances-in-mathematics",
         "summary": "OpenAI发布在数学和理论计算机科学领域的十项新成果，涵盖几何、密码学与复杂性理论等长期未解问题。",
@@ -14,31 +24,21 @@
       },
       {
         "category": "人工智能",
-        "tag": "AI监管",
-        "title": "法官驳回xAI请求，明尼苏达州禁“脱衣”应用令生效",
-        "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "summary": "尽管xAI提起诉讼，明尼苏达州禁止用户“脱衣”图片应用的禁令仍可继续执行。",
-        "comment": "法律对AI滥用设限，行业需自律。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
         "tag": "AI成瘾",
-        "title": "YouTuber Hank Green坦言AI使用不健康",
+        "title": "YouTuber Hank Green自曝AI使用不健康，称多巴胺成瘾",
         "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-        "summary": "Hank Green公开道歉，称与LLM互动带来的多巴胺水平对个人和世界均不健康，引发对AI成瘾性的关注。",
-        "comment": "名人自曝AI依赖，警示技术成瘾风险。",
+        "summary": "Hank Green公开道歉，称与大型语言模型互动带来的多巴胺水平对个人和世界均不健康，引发对AI成瘾性的讨论。",
+        "comment": "名人自曝AI成瘾，警示技术依赖风险。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "AI育儿",
-        "title": "奥特曼再谈用ChatGPT育儿：称是酷用例",
+        "tag": "人工智能",
+        "title": "奥特曼再倡用ChatGPT育儿引热议",
         "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-        "summary": "OpenAI CEO萨姆·奥特曼在访谈中再次为使用ChatGPT辅助育儿辩护，称其为家长的“酷用例”，引发关于AI育儿伦理的讨论。",
-        "comment": "AI育儿需谨慎，技术不能替代情感陪伴。",
+        "summary": "OpenAI CEO萨姆·奥特曼在社交媒体分享ChatGPT作为育儿工具的案例，称其为“酷用例”，引发关于AI介入家庭教育的讨论。",
+        "comment": "AI育儿需谨慎，情感陪伴不可替代。",
         "image": "",
         "score": 99
       },
@@ -47,57 +47,47 @@
         "tag": "数字健康",
         "title": "9美元NFC钥匙物理锁住上瘾应用",
         "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-        "summary": "一款9美元的NFC钥匙，需物理扫描才能解锁手机上的分心应用，帮助用户减少数字依赖。",
-        "comment": "物理隔离设计巧妙，但效果取决于用户自律。",
+        "summary": "一款售价9美元的NFC钥匙，需物理扫描才能解锁手机上的分心应用，帮助用户减少数字干扰。",
+        "comment": "物理隔离成瘾应用，创意实用但效果存疑。",
         "image": "",
         "score": 99
       },
       {
         "category": "数码科技",
-        "tag": "特斯拉",
-        "title": "马斯克回应特斯拉剥离中国业务，国内航线燃油附加费下调",
-        "link": "https://36kr.com/p/3920241240419720?f=rss",
-        "summary": "马斯克回应特斯拉剥离中国业务传闻；国内航线燃油附加费将下调；字节发布视频模型Seedance 2.5；长鑫科技市值破4万亿；人形机器人探索换电；Anthropic AI误侵真实机构。",
-        "comment": "热点密集，但马斯克回应与燃油费下调最贴近民生。",
+        "tag": "ChinaJoy",
+        "title": "ChinaJoy二十年：从游戏展到多元数字娱乐盛会",
+        "link": "https://36kr.com/p/3920595518533250?f=rss",
+        "summary": "从2004年首届游戏展到如今，ChinaJoy已演变为涵盖游戏、动漫、硬件、AI等多元数字娱乐的综合性展会，反映了中国数字娱乐产业的变迁与融合。",
+        "comment": "ChinaJoy的转型是产业升级的缩影，未来需持续创新。",
         "image": "",
-        "score": 97
+        "score": 96
       },
       {
         "category": "数码科技",
-        "tag": "ChinaJoy",
-        "title": "ChinaJoy二十年：从游戏展到数字娱乐嘉年华",
-        "link": "https://36kr.com/p/3920595518533250?f=rss",
-        "summary": "从2004年首届游戏展到如今，ChinaJoy已演变为涵盖游戏、动漫、硬件、AI等多元数字娱乐的盛会，反映中国游戏产业变迁与跨界融合趋势。",
-        "comment": "ChinaJoy的进化，正是中国数字娱乐产业升级的缩影。",
+        "tag": "特斯拉",
+        "title": "马斯克回应特斯拉剥离中国业务；燃油附加费下调；最高薪本科专业易主",
+        "link": "https://36kr.com/p/3920241240419720?f=rss",
+        "summary": "马斯克回应特斯拉剥离中国业务传闻；国内航线燃油附加费将再次下调；中国最高薪本科专业易主。字节跳动发布Seedance 2.5，长鑫科技市值破4万亿，人形机器人探索换电，Anthropic AI误侵真实机构。",
+        "comment": "热点密集，但马斯克回应与燃油费下调更贴近民生。",
         "image": "",
         "score": 96
       },
       {
         "category": "游戏影视",
         "tag": "蜘蛛侠",
-        "title": "《蜘蛛侠：崭新一天》首日票房破《复联4》纪录",
+        "title": "《蜘蛛侠：崭新一日》创北美开画日票房新纪录",
         "link": "https://www.ign.com/articles/spider-man-brand-new-day-beats-avengers-endgame-record-to-claim-biggest-domestic-opening-day-of-all-time",
-        "summary": "漫威新片《蜘蛛侠：崭新一天》北美首日票房达1.68亿美元，超越《复仇者联盟4》，创下影史最高首日票房纪录。",
-        "comment": "超级英雄IP号召力依旧强劲，市场复苏信号明显。",
+        "summary": "漫威新片《蜘蛛侠：崭新一日》开画日北美票房达1.68亿美元，超越《复仇者联盟4》，成为史上开画日票房最高影片。",
+        "comment": "蜘蛛侠IP号召力惊人，市场复苏信号强烈。",
         "image": "https://assets-prd.ignimgs.com/2026/07/30/spideybrd-blogroll-1785451040441.jpg",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "芭比2",
-        "title": "《芭比2》谈判停滞，华纳12月前需与主创达成协议",
-        "link": "https://www.ign.com/articles/barbie-2-will-have-to-start-from-scratch-if-warner-bros-cant-make-a-deal-with-talent-by-december",
-        "summary": "《芭比2》谈判陷入僵局，若华纳在2026年12月前无法与导演格蕾塔·葛韦格、编剧诺亚·鲍姆巴赫及主演玛格特·罗比达成协议，项目将推倒重来。",
-        "comment": "主创团队是续集灵魂，华纳需尽快锁定核心阵容。",
-        "image": "https://assets-prd.ignimgs.com/2023/09/12/barbiereview-blogroll-1694527931664.jpg",
-        "score": 95
+        "score": 96
       },
       {
         "category": "游戏影视",
         "tag": "AI",
         "title": "AI让游戏更糟，究竟为了什么？",
         "link": "https://www.ign.com/articles/ai-is-making-games-worse-and-for-what",
-        "summary": "AI引发的内存危机持续数月，游戏变得更差更贵，玩家却未获得实际好处。",
+        "summary": "AI引发的内存危机持续数月，游戏体验变差且成本上升，玩家却未获得实质收益。",
         "comment": "AI应用需以玩家体验为先，而非盲目跟风。",
         "image": "https://assets-prd.ignimgs.com/2026/03/17/dlss-blog-1773754574231.jpg",
         "score": 95
@@ -105,10 +95,10 @@
       {
         "category": "游戏影视",
         "tag": "权力的游戏",
-        "title": "《权力的游戏》舞台剧《疯王》公布全阵容及首张剧照",
+        "title": "《权游》舞台剧《疯王》公布全阵容及首张剧照",
         "link": "https://www.ign.com/articles/game-of-thrones-the-mad-king-cast-first-look",
-        "summary": "舞台剧《权力的游戏：疯王》发布首张官方剧照，公布完整卡司，包括疯王伊里斯二世、雷加·坦格利安、年轻奈德·史塔克等角色。",
-        "comment": "经典IP舞台化，选角备受期待。",
+        "summary": "《权力的游戏》舞台剧《疯王》发布首张官方剧照，公布完整卡司，包括疯王伊里斯二世、雷加·坦格利安、年轻奈德·史塔克等角色。",
+        "comment": "经典IP舞台化，选角引发粉丝期待。",
         "image": "https://assets-prd.ignimgs.com/2026/08/01/got-mad-king-cast-1280-1785620101204.jpg",
         "score": 94
       },
@@ -117,19 +107,29 @@
         "tag": "黑道家族",
         "title": "《黑道家族》演员文森特·帕斯托雷去世，享年80岁",
         "link": "https://www.ign.com/articles/vincent-pastore-the-sopranos-actor-dies-at-80",
-        "summary": "文森特·帕斯托雷因在开创性剧集《黑道家族》中饰演萨尔瓦托雷·邦彭谢罗而闻名，于80岁去世。",
-        "comment": "经典角色永存，致敬一代人的记忆。",
+        "summary": "文森特·帕斯托雷因在开创性剧集《黑道家族》中饰演萨尔瓦托雷·邦彭谢罗而闻名，近日去世，享年80岁。",
+        "comment": "经典角色永存，致敬一代戏骨。",
         "image": "https://assets-prd.ignimgs.com/2026/08/01/vincent-pastore-1785619578897.png",
         "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "艾尔登法环",
-        "title": "《艾尔登法环》新DLC传闻再起，玩家期待戈德温剧情",
+        "title": "《艾尔登法环》新DLC传闻再起，玩家期待Godwyn内容",
         "link": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
-        "summary": "《艾尔登法环》资料片“黄金树之影”发售两年后，开发商FromSoftware发布神秘社交媒体帖子，引发玩家猜测更多DLC即将到来，尤其期待戈德温相关剧情。",
-        "comment": "神秘暗示吊足胃口，但需警惕过度解读。",
+        "summary": "FromSoftware发布神秘社交媒体帖子，引发玩家对《艾尔登法环》新DLC的猜测，距“黄金树之影”扩展已两年。",
+        "comment": "炒作还是实锤？FromSoftware的谜语营销屡试不爽。",
         "image": "https://assets-prd.ignimgs.com/2026/08/01/elden-ring-dlc-1785613743564.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "芭比2",
+        "title": "《芭比2》谈判停滞，华纳12月前需敲定主创否则重来",
+        "link": "https://www.ign.com/articles/barbie-2-will-have-to-start-from-scratch-if-warner-bros-cant-make-a-deal-with-talent-by-december",
+        "summary": "《芭比2》谈判陷入僵局，若华纳在2026年12月前无法与导演格蕾塔·葛韦格、编剧诺亚·鲍姆巴赫及主演玛格特·罗比达成协议，项目将推倒重来。",
+        "comment": "续集成败系于主创，华纳需尽快锁定核心阵容。",
+        "image": "https://assets-prd.ignimgs.com/2023/09/12/barbiereview-blogroll-1694527931664.jpg",
         "score": 94
       },
       {
@@ -137,7 +137,7 @@
         "tag": "Hololive",
         "title": "Hololive Dreams：用RPG机制打造巨型节奏游戏",
         "link": "https://www.ign.com/articles/hololive-dreams-rhythm-rpg-mechanics",
-        "summary": "Hololive Dreams融合节奏玩法与RPG成长，提供超150首歌曲和50位VTuber，打造易上手的全新移动端体验。",
+        "summary": "Hololive Dreams融合节奏玩法与RPG成长，收录150多首歌曲和50位VTuber，打造易上手的全新移动端体验。",
         "comment": "RPG与节奏结合，或成VTuber游戏新标杆。",
         "image": "https://assets-prd.ignimgs.com/2026/07/31/hololivedreams-blogroll-1785536907853.jpg",
         "score": 94
@@ -145,10 +145,10 @@
       {
         "category": "游戏影视",
         "tag": "幻兽帕鲁",
-        "title": "《幻兽帕鲁》TCG卡牌上市遭黄牛炒作，eBay价格飙升",
+        "title": "《幻兽帕鲁》TCG发售即遭黄牛炒作，eBay价格飙升",
         "link": "https://www.ign.com/articles/palworld-tcg-prices-skyrocket-as-ebay-scalpers-profit-off-of-card-game-launch",
-        "summary": "《幻兽帕鲁》集换式卡牌正式发售，随即出现黄牛在eBay高价转售，开发商Pocketpair的新卡牌被炒至天价。",
-        "comment": "卡牌市场炒作成风，玩家需理性消费。",
+        "summary": "《幻兽帕鲁》集换式卡牌游戏正式发售，随即出现大量黄牛在eBay高价转售，开发商Pocketpair的新卡牌被炒至高价。",
+        "comment": "热门IP卡牌遭炒作，市场乱象需警惕。",
         "image": "https://assets-prd.ignimgs.com/2026/08/01/palworld-tcg-1785595517328.png",
         "score": 94
       },
@@ -157,8 +157,8 @@
         "tag": "骁龙",
         "title": "骁龙游戏技术赏：AI+游戏开启移动游戏黄金十年",
         "link": "https://www.gcores.com/articles/217845",
-        "summary": "高通在ChinaJoy前夕举办骁龙游戏技术赏，展示AI与游戏结合的最新进展，预示移动游戏性能与体验将迎来新突破，推动行业进入下一个黄金十年。",
-        "comment": "AI赋能游戏，骁龙正引领移动体验新变革。",
+        "summary": "高通在ChinaJoy前举办骁龙游戏技术赏，展示AI与游戏融合的新进展，预示移动游戏性能与体验将迎来重大突破，推动行业进入新阶段。",
+        "comment": "AI赋能游戏，硬件创新仍是核心驱动力。",
         "image": "",
         "score": 92
       },
@@ -167,17 +167,17 @@
         "tag": "游戏",
         "title": "核周报：DND与魔兽、绝地潜兵2与战锤40k联动",
         "link": "https://www.gcores.com/radios/217527",
-        "summary": "本周DND公布与《魔兽世界》联动，绝地潜兵2联动战锤40k，505 Games携手原主创夏思源官宣《无常》续作计划，另有独立游戏市集开票。",
-        "comment": "联动频繁，续作官宣，游戏市场热度不减。",
+        "summary": "本周DND公布与《魔兽世界》联动，绝地潜兵2与《战锤40k》联动，505 Games携手原主创宣布《无常》续作计划，另有独立游戏市集开票。",
+        "comment": "联动频繁，续作官宣，游戏圈热闹非凡。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "对话《古神：风里希》制作人：中式神仙打架游戏揭秘",
+        "title": "对话《古神：风里希》制作人，揭秘中式神仙打架游戏",
         "link": "https://www.gcores.com/radios/217825",
-        "summary": "机核播客邀请《古神：风里希》制作人刘大锤，探讨首曝后玩家反馈及游戏设计理念，揭示中式神仙打架的独特玩法与世界观。",
+        "summary": "机核播客邀请《古神：风里希》制作人刘大锤，探讨游戏首曝后的玩家反馈、设计理念及中式神仙打架的独特玩法，为听众呈现开发幕后与游戏特色。",
         "comment": "深度访谈揭示国产动作游戏创新尝试，值得关注。",
         "image": "",
         "score": 91
@@ -185,39 +185,39 @@
       {
         "category": "时事热点",
         "tag": "欧洲",
-        "title": "欧洲青少年杀手网络：暴力服务化趋势令人担忧",
+        "title": "欧洲青少年杀手网络：暴力服务产业兴起",
         "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-        "summary": "据调查，名为Foxtrot的网络涉嫌在欧洲实施约35起谋杀，采用“暴力即服务”模式招募青少年执行暗杀任务。",
-        "comment": "青少年被卷入暴力服务，凸显社会失序与监管漏洞。",
+        "summary": "福克斯网络涉嫌在欧洲实施约35起谋杀，采用“暴力即服务”模式，招募青少年执行暗杀任务，引发对犯罪低龄化的担忧。",
+        "comment": "暴力服务商业化加剧欧洲安全危机，亟需跨国协作打击。",
         "image": "",
         "score": 88
       },
       {
-        "category": "时事热点",
-        "tag": "移民",
-        "title": "欧盟紧急会议商讨休达移民潮 西国与成员国关系紧张",
-        "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-        "summary": "西班牙与欧盟成员国就休达移民涌入问题发生紧张交流，欧盟召开紧急会议应对。",
-        "comment": "移民问题考验欧盟团结，需平衡人道与边界管控。",
-        "image": "",
+        "category": "游戏影视",
+        "tag": "书单推荐",
+        "title": "《地牢爬行者卡尔》书迷必读：五本类似佳作推荐",
+        "link": "https://www.ign.com/articles/best-books-like-dungeon-crawler-carl",
+        "summary": "IGN推荐五本与《地牢爬行者卡尔》风格相近的小说，涵盖幽默、奇幻与冒险元素，为喜爱该作的读者提供新的阅读选择。",
+        "comment": "精准填补书荒，类型书单实用性强。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/31/books-like-dungeon-crawler-carl-1785519005280.png",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "国际足联",
-        "title": "国际足联24小时动荡，因凡蒂诺面临生存危机",
+        "title": "国际足联24小时风波：因凡蒂诺能否保住主席之位？",
         "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-        "summary": "世界杯投资计划失败后，国际足联主席因凡蒂诺压力倍增，其连任前景不明，内部质疑声四起。",
-        "comment": "计划破产暴露治理短板，因凡蒂诺威信受损。",
+        "summary": "世界杯投资计划失败引发争议，国际足联主席因凡蒂诺面临巨大压力，其未来职位存疑。",
+        "comment": "投资计划崩盘，因凡蒂诺信誉受损，连任前景堪忧。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "高温",
+        "tag": "意大利",
         "title": "意大利近全部主要城市发布最高级别高温警报",
         "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-        "summary": "意大利19个主要城市，包括罗马、米兰和那不勒斯，已处于红色警报状态，预计到周一几乎所有城市都将面临极端高温。",
+        "summary": "意大利19个主要城市，包括罗马、米兰和那不勒斯，已处于红色警报状态，预计到周一几乎所有城市都将如此。",
         "comment": "极端高温频发，凸显气候危机紧迫性。",
         "image": "",
         "score": 87
@@ -225,10 +225,10 @@
       {
         "category": "时事热点",
         "tag": "埃博拉",
-        "title": "乌干达为何在抗击埃博拉中获胜，而刚果（金）疫情蔓延",
+        "title": "乌干达成功遏制埃博拉疫情，刚果（金）疫情持续蔓延",
         "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌干达约两周前出院最后一名埃博拉患者，疫情得到控制，而邻国刚果（金）病毒仍在传播，凸显两国防控成效差异。",
-        "comment": "乌干达防控经验值得借鉴，区域协作是关键。",
+        "summary": "乌干达约两周前出院最后一名埃博拉患者，疫情得到控制，而邻国刚果（金）的埃博拉病毒仍在传播。",
+        "comment": "乌干达防控经验值得借鉴，跨境协作是关键。",
         "image": "",
         "score": 87
       },
@@ -237,19 +237,9 @@
         "tag": "游戏优惠",
         "title": "今日最佳优惠：乐高宝可梦、DDR5内存及死亡搁浅2等",
         "link": "https://www.ign.com/articles/best-deals-for-august-1-2026",
-        "summary": "IGN汇总今日游戏与硬件优惠，涵盖乐高宝可梦套装、DDR5内存条及《死亡搁浅2》等热门商品，折扣力度大，适合玩家与装机用户关注。",
+        "summary": "IGN汇总今日游戏与硬件优惠，涵盖乐高宝可梦套装、DDR5内存条及《死亡搁浅2》等热门商品，折扣力度可观。",
         "comment": "优惠信息实用，但需注意时效性。",
         "image": "https://assets-prd.ignimgs.com/2026/08/01/daily-deals-august1-1785602162130.png",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "书籍推荐",
-        "title": "《地下城爬行者卡尔》粉丝必读的5本书",
-        "link": "https://www.ign.com/articles/best-books-like-dungeon-crawler-carl",
-        "summary": "IGN推荐5本与《地下城爬行者卡尔》风格相似的书籍，涵盖幽默、奇幻与冒险元素，为读者提供更多类似阅读体验。",
-        "comment": "书单实用，但缺乏深度分析，适合快速参考。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/31/books-like-dungeon-crawler-carl-1785519005280.png",
         "score": 86
       },
       {
@@ -257,10 +247,10 @@
         "tag": "文森特·帕斯托雷",
         "title": "《黑道家族》演员文森特·帕斯托雷去世，享年80岁",
         "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-        "summary": "曾在热门美剧《黑道家族》中饰演萨尔瓦托雷·“大猫”·邦彭谢罗的演员文森特·帕斯托雷，据美国媒体报道，被发现死于纽约家中。",
-        "comment": "经典角色永存，观众将铭记其荧幕魅力。",
+        "summary": "曾出演《黑道家族》中“大猫”萨尔瓦托雷的演员文森特·帕斯托雷在纽约家中被发现去世，享年80岁。",
+        "comment": "经典角色永存，观众将铭记其荧幕形象。",
         "image": "",
-        "score": 84
+        "score": 86
       }
     ]
   }
