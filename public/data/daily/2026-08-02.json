@@ -3,22 +3,82 @@
     "week": "周日",
     "articles": [
       {
-        "category": "时事热点",
-        "tag": "莫斯科",
-        "title": "莫斯科餐厅爆炸致三人死亡，女子携炸药被拦",
-        "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-        "summary": "据官方称，一名女子试图携带爆炸物进入餐厅，被保安拦截后引爆，造成三人死亡。",
-        "comment": "安全漏洞凸显，公共场所防爆形势严峻。",
+        "category": "游戏影视",
+        "tag": "蜘蛛侠",
+        "title": "小岛秀夫评《蜘蛛侠：崭新一日》：孤独彼得·帕克带来新鲜感",
+        "link": "https://www.ign.com/articles/hideo-kojima-reviews-spider-man-brand-new-day-it-felt-fresh-and-i-really-enjoyed-it",
+        "summary": "知名游戏制作人小岛秀夫发布影评，称赞《蜘蛛侠：崭新一日》对孤独彼得·帕克的刻画，称其“感觉新鲜，非常喜欢”。",
+        "comment": "跨界影评引发关注，游戏与电影圈联动效应显著。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/02/hideo-kojima-spider-man-1785688288541.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威",
+        "title": "漫威到底对绿巨人做了什么？",
+        "link": "https://www.ign.com/articles/what-the-heck-is-marvel-doing-with-the-hulk-anyway-spider-man-brand-new-day",
+        "summary": "继《蜘蛛侠：全新的一天》后，漫威对绿巨人的处理引发疑问，粉丝困惑其未来走向。",
+        "comment": "漫威绿巨人规划模糊，粉丝期待明确方向。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/31/hulk-spider-mannewday-blogroll-1785527810284.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "吹哥上海见面会揭秘《沉星之序》设计幕后",
+        "link": "https://www.gcores.com/articles/217866",
+        "summary": "2026年7月30日，Jonathan Blow携新作《沉星之序》在上海举办闭门见面会，分享自研引擎与关卡设计历程，试玩DEMO获好评。",
+        "comment": "吹哥的坚持与创新，为独立游戏树立新标杆。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "美食",
+        "title": "为美食付出代价：机核电台聊吃货的快乐与牺牲",
+        "link": "https://www.gcores.com/radios/217528",
+        "summary": "本期机核电台，主播们从自身经历出发，分享为美食和馋嘴付出的各种代价，探讨吃带来的快乐与价值，充满趣味和共鸣。",
+        "comment": "吃货的执着，既真实又好笑，值得一听。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "以色列",
+        "title": "以色列空袭加沙致13死，哈马斯同意解除武装协议",
+        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+        "summary": "以色列对加沙城、汗尤尼斯和代尔巴拉发动空袭，称目标为军事人员，造成至少13人死亡。此前哈马斯同意解除武装协议。",
+        "comment": "停火协议脆弱，暴力循环恐难止。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "乌克兰称袭击俄大型炼油厂和机场，莫斯科报告8人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+        "summary": "俄罗斯军方称夜间袭击了乌克兰黑海港口和船只，乌克兰则称打击了俄炼油厂和机场，莫斯科报告8人死亡。",
+        "comment": "冲突升级，双方互袭关键设施，局势进一步紧张。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "希腊",
+        "title": "希腊消防直升机相撞致两人死亡，英国飞行员幸存",
+        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+        "summary": "两架消防直升机在希腊相撞，一名丹麦人和一名希腊人遇难，英国飞行员和另一名希腊机组人员生还。",
+        "comment": "事故凸显跨国消防协作中的安全风险。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "美伊关系",
         "title": "特朗普取消对伊朗打击，称协议框架已达成",
         "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统称伊朗及中东多国请求美方暂缓攻击，因已就协议“边界”达成一致。此举显示美伊紧张局势出现缓和迹象。",
-        "comment": "美伊博弈转向外交，但协议细节仍待敲定。",
+        "summary": "美国总统特朗普称，伊朗及其他中东国家要求美国暂缓攻击，因已就协议“边界”达成一致，但需快速推进。",
+        "comment": "美伊博弈转向外交，但协议细节未明，风险犹存。",
         "image": "",
         "score": 87
       },
@@ -37,7 +97,7 @@
         "tag": "印尼",
         "title": "印尼渡轮起火致5死41失踪",
         "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-        "summary": "一艘载有至少250人的渡轮在印尼马都拉岛附近起火，已致5人死亡，41人失踪。",
+        "summary": "一艘载有至少250人的渡轮在印尼马都拉岛附近起火，造成5人死亡，41人失踪。",
         "comment": "海上安全监管亟待加强，救援效率需提升。",
         "image": "",
         "score": 87
@@ -48,9 +108,29 @@
         "title": "秘鲁旅游飞机坠毁，13人遇难",
         "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
         "summary": "一架小型飞机在秘鲁纳斯卡线条考古遗址上空飞行时坠毁，造成13人死亡。",
-        "comment": "旅游安全再敲警钟，监管需加强。",
+        "comment": "旅游安全再敲警钟，监管亟待加强。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏优惠",
+        "title": "今日最佳游戏优惠：洛克人EXE合集、死亡搁浅2等",
+        "link": "https://www.ign.com/articles/best-deals-for-august-2-2026",
+        "summary": "IGN汇总今日游戏优惠，包括《洛克人EXE合集》《Saros》《死亡搁浅2》等热门作品折扣，适合玩家关注性价比。",
+        "comment": "优惠信息实用，但需注意时效性。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/26/megamanthumb-1782486210510.png",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "乌干达",
+        "title": "乌干达揭幕以色列总理之兄雕像，纪念恩德培营救行动",
+        "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+        "summary": "约纳坦·内塔尼亚胡在领导解救100多名人质的行动中牺牲，是唯一阵亡的以色列士兵。乌干达为其立像纪念。",
+        "comment": "历史记忆与当代政治交织，象征意义深远。",
+        "image": "",
+        "score": 86
       }
     ]
   }
