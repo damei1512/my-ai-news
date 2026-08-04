@@ -4,51 +4,201 @@
     "articles": [
       {
         "category": "数码科技",
-        "tag": "AI",
-        "title": "宗馥莉兄弟任新公司董事长，DeepSeek全球调用量第一",
-        "link": "https://36kr.com/p/3924467692927369?f=rss",
-        "summary": "今日热点：OpenAI Astra模型曝光，算力成本2000美元破解十项数学难题；江小白诉东方甄选商业诋毁胜诉获赔30万；iPhone或涨价超千元，折叠屏起售价2000美元；牛蛙抽检抗生素超标；王思聪卸任万达董事；宗馥莉同父异母兄弟任新公司董事长。",
-        "comment": "科技与商业动态密集，AI竞争与消费电子涨价成焦点。",
+        "tag": "玻璃基板",
+        "title": "巽霖科技获近2亿元B轮融资，玻璃基板成投资新热点",
+        "link": "https://36kr.com/p/3924953058605444?f=rss",
+        "summary": "电子级玻纤布价格较2025年低点翻倍，FR-4覆铜板涨幅超270%，AI封装载板交期拉长至6个月以上，有机基板供给危机加深。玻璃基板领军企业巽霖科技完成近2亿元B轮融资，半年内第三轮，获英诺基金等新股东投资。",
+        "comment": "玻璃基板替代有机基板趋势明确，资本加速布局。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "数码科技",
+        "tag": "大模型",
+        "title": "Kimi K3与DeepSeek V4差距在原生多模态",
+        "link": "https://36kr.com/p/3924826666301831?f=rss",
+        "summary": "文章探讨Kimi K3与DeepSeek V4的差异，指出原生多模态对长链任务至关重要，视觉反馈更准确贴近用户意图，Coding与Agent能力正重塑大模型排名并加速商业化。",
+        "comment": "原生多模态成关键分水岭，视觉反馈提升Agent任务准确性。",
         "image": "",
         "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "空间态势感知",
+        "title": "清博空天完成数千万天使+轮融资，专注空间态势感知",
+        "link": "https://36kr.com/p/3924634192673153?f=rss",
+        "summary": "空间态势感知公司清博空天完成数千万天使+轮融资，由明荟投资领投，资金将用于空间目标监测网络建设、算法平台迭代及团队扩充，以应对低轨卫星和碎片增长带来的轨道安全需求。",
+        "comment": "低轨资源争夺加剧，空间感知赛道成资本新宠。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "减速器",
+        "title": "陶世智能完成1.2亿元融资，专注微型减速器",
+        "link": "https://36kr.com/p/3924628805351811?f=rss",
+        "summary": "精密减速器企业陶世智能获1.2亿元融资，用于研发、扩产及机器人市场拓展。公司专注正交90度微型减速器及关节模组，为果链和头部灵巧手公司供货，估值破10亿。",
+        "comment": "减速器赛道热度持续，陶世卡位灵巧手关键环节。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "科技",
+        "title": "宗馥莉兄弟任新公司董事长，DeepSeek全球调用量第一",
+        "link": "https://36kr.com/p/3924467692927369?f=rss",
+        "summary": "今日热点：OpenAI Astra模型曝光，算力成本2000美元破解十项数学难题；江小白诉东方甄选商业诋毁胜诉；iPhone或涨价超千元；牛蛙抗生素超标；王思聪卸任万达董事。",
+        "comment": "热点密集，科技与消费领域均有重磅动态。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "数码科技",
+        "tag": "东山精密",
+        "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
+        "link": "https://36kr.com/p/3924913931679877?f=rss",
+        "summary": "36氪企业全情报通过数据洞察揭示东山精密涨停原因，并推出体验抽奖活动，奖品包括影石相机等，助力用户把握投资机会。",
+        "comment": "情报工具价值凸显，但抽奖营销需谨慎。",
+        "image": "",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影",
+        "title": "《冰淇淋人》影评：伊莱·罗斯恐怖新作不及预期",
+        "link": "https://www.ign.com/articles/ice-cream-man-review",
+        "summary": "伊莱·罗斯新片《冰淇淋人》试图模仿《断魂小丑》或《武器》，但两者均未达到，恐怖效果与叙事均显不足。",
+        "comment": "模仿失败，恐怖片需创新而非复制。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/05/icecreamthumb-1780620900314.png",
+        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "三星",
         "title": "三星收缩手机布局，EA收购获批，京东外卖推AI头盔",
         "link": "https://www.ifanr.com/1673796?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星中国收缩手机业务，EA 550亿美元收购获批，京东外卖推出AI智能头盔。另比特币硬件钱包漏洞致1.1亿美元被盗，AI产业规模超1.2万亿，H.267标准启动。",
-        "comment": "行业巨头动作频繁，安全与AI成焦点。",
+        "summary": "三星中国收缩手机业务，EA 550亿美元收购获批，京东外卖推出AI智能头盔。比特币硬件钱包Coldcard漏洞致1.1亿美元被盗，中国AI产业规模超1.2万亿元，H.267标准启动。",
+        "comment": "科技巨头调整与安全事件并存，行业格局加速演变。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "多人合作搞笑恐怖游戏《QUIET》开启测试",
-        "link": "https://www.gcores.com/articles/217919",
-        "summary": "LINE Games开发的合作恐怖游戏《QUIET》开启测试，支持1-4人联机，玩家扮演外星鸭子逃离房东奶奶，首度公开第一关。",
-        "comment": "搞笑恐怖题材新颖，联机玩法值得期待。",
+        "tag": "生化危机",
+        "title": "《生化危机 维罗妮卡 重制版》愿望单破200万，2027年发售",
+        "link": "https://www.gcores.com/articles/217947",
+        "summary": "《生化危机》官方宣布《维罗妮卡 重制版》愿望单超200万，感谢玩家支持。游戏计划2027年登陆PS5、Xbox Series X|S、Switch2和PC，或打破线性流程，提升探索自由度。",
+        "comment": "高期待值或倒逼卡普空在玩法上做出实质革新。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "网易",
+        "title": "网易仙侠单机《剑心雕龙》项目组解散",
+        "link": "https://www.gcores.com/articles/217932",
+        "summary": "据竞核报道，网易雷火旗下临安24th工作室开发的仙侠单机《剑心雕龙》因进度未达预期，项目组正式解散。该作曾计划登陆Switch2，制作人张毅君曾监制多款知名单机。",
+        "comment": "单机探索折戟，网易战略或更趋保守。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏评测",
+        "title": "《转生之兽》评测：创意虽好，杂草丛生",
+        "link": "https://www.ign.com/articles/beast-of-reincarnation-review",
+        "summary": "《转生之兽》是一款动作RPG，虽偶有闪光创意，但整体被平庸设计掩盖，难以脱颖而出。",
+        "comment": "创意有余，打磨不足，可惜了好点子。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/03/beastofreincarnation-review-blogroll-1785766336018.jpg",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "奔驰",
+        "title": "G级敞篷版回归，SUV争夺情绪价值",
+        "link": "https://www.ifanr.com/1673886?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "奔驰G级敞篷版以无顶设计回归，强调个性与自由，反映SUV市场从功能向情感体验转变，品牌竞相提供情绪价值。",
+        "comment": "敞篷G级是情怀，更是市场细分策略。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "三星",
+        "title": "三星Z Fold8评测：阔折叠能否成为新时代小折叠？",
+        "link": "https://www.ifanr.com/1673815?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "评测三星Z Fold8，探讨阔折叠形态是否将取代小折叠，成为折叠屏新趋势，内容聚焦产品体验与市场定位。",
+        "comment": "阔折叠或成新宠，但小折叠仍有其独特优势。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏评测",
-        "title": "《轮回之兽》评测：创意与杂草并存",
-        "link": "https://www.ign.com/articles/beast-of-reincarnation-review",
-        "summary": "《轮回之兽》是一款动作RPG，虽偶有亮点创意，但整体被平庸设计掩盖，难以脱颖而出。",
-        "comment": "有想法但执行不足，潜力未完全发挥。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/03/beastofreincarnation-review-blogroll-1785766336018.jpg",
+        "tag": "ChinaJoy",
+        "title": "PlayStation ChinaJoy 2026打造沉浸式“玩天下”展台",
+        "link": "https://www.gcores.com/articles/217943",
+        "summary": "2026年8月1日，ChinaJoy在上海开幕，索尼互动娱乐以“玩天下”为主题，提供8款海内外精品游戏试玩和互动活动，吸引玩家体验主机游戏魅力。",
+        "comment": "国风与多元游戏结合，索尼展台成展会亮点。",
+        "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏周边",
+        "tag": "游戏",
+        "title": "《莱莎的炼金工房》官方聊天AI应用公布",
+        "link": "https://www.gcores.com/articles/217940",
+        "summary": "SpiralAI公布光荣特库摩授权的《莱莎的炼金工房》聊天AI应用，以初代为舞台，通过对话体验旅行、调和与战斗，免费剧情式AI聊天RPG，预计登陆iOS和Android。",
+        "comment": "IP与AI结合，探索互动叙事新可能。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《控制：共振》Chinajoy回顾：Remedy携本土阵容展现深度中文化",
+        "link": "https://www.gcores.com/articles/217938",
+        "summary": "Remedy在上海Chinajoy举办《控制：共振》首场实机试玩，提供三小时演示、中文本地化、开发者演讲及配音演员亮相，展示开篇与后期任务，凸显本土化投入。",
+        "comment": "中文化深度成亮点，本土化策略值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "以太与铁",
+        "title": "《以太与铁》免费更新上线，赛博朋克游戏节限时8折",
+        "link": "https://www.gcores.com/articles/217930",
+        "summary": "开发商Seismic Squirrel为剧情RPG《以太与铁》推出免费更新，新增男爵辖区迷你任务并丰富世界观。Steam赛博朋克游戏节期间限时8折，折后73.6元，支持中文。",
+        "comment": "免费更新加折扣，性价比提升，值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "联名服饰",
         "title": "吉考斯工业×女神异闻录5皇家版联名服饰正式发售",
         "link": "https://www.gcores.com/articles/217904",
-        "summary": "吉考斯工业与《女神异闻录5 皇家版》联名服饰正式发售，将游戏红黑美学与怪盗团元素融入日常设计，采用夏季面料与廓形剪裁，细节含刺绣印花，兼顾风格与实穿。",
-        "comment": "游戏IP联名服饰需兼顾粉丝情怀与日常实穿，此系列设计巧妙。",
+        "summary": "吉考斯工业与《女神异闻录5 皇家版》联名服饰发售，将红黑美学与怪盗团元素融入日常设计，采用夏季面料与廓形剪裁，细节含刺绣印花。",
+        "comment": "游戏IP跨界服饰，设计兼顾日常与主题，粉丝值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《惊悚乐园：平田的世界》Steam页面上线",
+        "link": "https://www.gcores.com/articles/217917",
+        "summary": "改编自小说《惊悚乐园》经典副本的惊悚推理互动游戏公布，玩家将踏入妖怪横行的世界追查旧案，运用驱魔能力带来安宁，现已推出Steam商城页。",
+        "comment": "经典IP改编互动游戏，值得推理迷关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "外卖",
+        "title": "外卖可以上天，但骑手不会下岗",
+        "link": "https://www.ifanr.com/1673865?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "探讨采用抛物线弹道送外卖的技术可能性，分析其对现有配送体系的影响，指出骑手角色仍不可替代。",
+        "comment": "技术想象虽有趣，现实落地尚远。",
         "image": "",
         "score": 90
       },
@@ -57,20 +207,80 @@
         "tag": "游戏",
         "title": "《美洲卡车模拟》北达科他州扩展包公开",
         "link": "https://www.gcores.com/articles/217918",
-        "summary": "《美洲卡车模拟》公开“北达科他州”扩展包，包含恶地、平原等风景，玩家可运送货物至法戈、俾斯麦等城市，体验和平花园之州。",
-        "comment": "扩展包丰富地图，但创新有限，适合系列粉丝。",
+        "summary": "《美洲卡车模拟》公开“北达科他州”扩展包，包含恶地、平原等风景，玩家可运送货物至法戈、俾斯麦等主要城市，体验和平花园之州的风貌。",
+        "comment": "扩展包延续系列写实风格，为玩家提供新地图与运输路线。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "2026「摊开玩」独立游戏市集游戏阵容第三弹公布",
+        "link": "https://www.gcores.com/articles/217936",
+        "summary": "暴造「摊开玩」独立游戏市集公布第三批出展游戏，超70款独立游戏及桌游将亮相，开发者到场交流，门票热售中，随票附赠透卡小扇子。",
+        "comment": "阵容持续扩充，独立游戏线下交流值得期待。",
         "image": "",
         "score": 89
       },
       {
-        "category": "游戏影视",
-        "tag": "机核",
-        "title": "惊悚推理互动游戏《惊悚乐园：平田的世界》现已推出Steam商城页",
-        "link": "https://www.gcores.com/articles/217917",
-        "summary": "这条来自机核的游戏影视消息主要提到：由 OntologyPlay 打造，由三天两觉小说《惊悚乐园》经典副本《平田的世界》改编的惊悚推理互动游戏 《惊悚乐园：平田的世界》正式公布，现已推出 Steam 商城页。本作中，玩家",
-        "comment": "我的判断：这更像是产品能力前推一步，真正值不值得高看还要看后续实际效果。",
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "俄称乌克兰无人机袭击海滩致7死40伤",
+        "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+        "summary": "乌克兰无人机袭击黑海度假胜地，造成7人死亡，包括3名儿童，另有40人受伤。",
+        "comment": "冲突外溢至平民区，局势恐进一步升级。",
         "image": "",
-        "score": 85
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "乌克兰持续打击俄仓库，莫斯科地区五人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+        "summary": "乌克兰无人机袭击莫斯科地区致五人死亡，同时圣彼得堡和特维尔设施遭袭，俄方对乌打击也造成至少一人死亡。",
+        "comment": "冲突升级，双方互袭基础设施，平民伤亡风险加剧。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "特朗普遭遇盟友冷遇，现实挑战接踵而至",
+        "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国总统特朗普在几天内遭遇两次重大挫折，其惯于左右美国政治的能力受到盟友的严峻挑战。BBC分析指出，现实政治正对其构成压力。",
+        "comment": "盟友的冷遇凸显特朗普影响力边界，现实政治不容忽视。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国",
+        "title": "美国多州起诉阻止特朗普对数十国加征关税",
+        "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国多州提起诉讼，试图阻止特朗普政府对60个贸易伙伴加征关税，理由是这些国家未能解决强迫劳动问题。",
+        "comment": "法律挑战凸显关税政策争议，或影响贸易关系。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "法国",
+        "title": "法国野火揭示二战遗留炮弹",
+        "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+        "summary": "法国勒波尔日村野火引发爆炸，经查为二战时期遗留弹药。火灾暴露了历史遗留安全隐患。",
+        "comment": "野火意外揭开历史伤疤，安全警示需重视。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "慈善",
+        "title": "82岁慈善骑行者完成3300英里澳洲骑行后次日去世",
+        "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+        "summary": "鲍勃·蒙哥马利在完成他称之为“最后一次骑行”的横跨澳洲3300英里慈善骑行后，于次日意外去世，享年82岁。",
+        "comment": "生命终点与壮举相连，令人敬佩又惋惜。",
+        "image": "",
+        "score": 86
       }
     ]
   }
