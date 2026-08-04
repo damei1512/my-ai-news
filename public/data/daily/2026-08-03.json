@@ -4,11 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "AI行业",
+        "title": "Palantir CEO称AI行业“马克思主义”，警告企业勿信前沿实验室",
+        "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "summary": "Palantir季度利润达10亿美元后，CEO Alex Karp再次警告，AI前沿实验室对企业而言过于不可信，呼吁警惕行业集中化风险。",
+        "comment": "盈利亮眼却炮轰同行，Karp的立场凸显AI信任危机。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
         "tag": "AWS",
         "title": "AWS助力Superblocks嵌入私有云，应用与模型解耦再进一步",
         "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-        "summary": "AWS允许vibe-coding工具Superblocks嵌入客户私有云，推动应用开发与底层模型解耦，降低对单一模型的依赖，影响深远。",
-        "comment": "云巨头拥抱vibe-coding，生态格局生变。",
+        "summary": "AWS允许vibe-coding工具Superblocks嵌入客户私有云，推动应用开发与底层模型解耦，降低模型依赖，提升企业数据安全与定制化能力。",
+        "comment": "云巨头与AI工具联姻，解耦趋势将重塑开发范式。",
         "image": "",
         "score": 100
       },
@@ -17,34 +27,24 @@
         "tag": "AI评估",
         "title": "Design Arena创作者融资790万美元，为AI模型注入审美判断",
         "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-        "summary": "Design Arena全球用户达530万，为前沿实验室提供关键人类评估，帮助提升AI模型的审美与品味。",
-        "comment": "人类反馈仍是AI对齐的关键，融资印证其价值。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "ChatGPT",
-        "title": "国会最爱AI工具：ChatGPT成立法助手",
-        "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-        "summary": "众议院支出记录显示，OpenAI的ChatGPT是国会付费AI使用的主导工具，办公室用它起草备忘录、总结立法。",
-        "comment": "AI已深入立法核心，但依赖单一供应商存风险。",
+        "summary": "Design Arena全球用户达530万，为前沿AI实验室提供关键人类评估。创作者获790万美元融资，旨在提升AI模型的品味与审美能力。",
+        "comment": "人类反馈仍是AI对齐的关键，此融资凸显审美评估的商业价值。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI回应苹果无据诉讼，澄清事实",
+        "title": "OpenAI回应苹果无据诉讼，澄清员工指控",
         "link": "https://openai.com/index/apple-is-getting-this-wrong",
-        "summary": "OpenAI针对苹果的诉讼进行回应，指出其指控无据，纠正关于员工的错误说法，并公布相关消息记录以还原事实。",
-        "comment": "科技巨头法律纠纷，事实澄清是关键。",
+        "summary": "OpenAI针对苹果的无据诉讼作出回应，纠正关于其员工的不实指控，并公开相关消息记录以还原事实。",
+        "comment": "科技巨头法律纠纷需以事实为准，公开证据是正解。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "语音AI",
+        "tag": "实时语音",
         "title": "OpenAI六个月打造实时语音AI系统GPT-Live",
         "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
         "summary": "OpenAI推出GPT-Live，采用无轮次语音模型和低延迟架构，实现连续语音交互，使对话更快速自然。",
@@ -54,142 +54,32 @@
       },
       {
         "category": "人工智能",
-        "tag": "电信",
-        "title": "Circles借助OpenAI技术提升电信个性化服务",
+        "tag": "人工智能",
+        "title": "Circles借助OpenAI技术实现电信个性化，ARPU提升22%",
         "link": "https://openai.com/index/circles",
-        "summary": "Circles利用OpenAI API和Codex打造AI原生电信体验，实现ARPU增长22%、流失率降低9%，并提升开发效率。",
-        "comment": "AI在电信业的应用成效显著，值得关注。",
+        "summary": "Circles利用OpenAI API和Codex打造AI原生电信体验，使ARPU增长22%，客户流失率降低9%，并提升开发效率。",
+        "comment": "AI在电信业落地效果显著，但需关注长期可持续性。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI行业",
-        "title": "Palantir CEO称AI行业“马克思主义”，警告企业勿信前沿实验室",
-        "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-        "summary": "Palantir季度利润达10亿美元后，CEO Alex Karp再次警告，AI前沿实验室对企业而言过于不可信，呼吁企业谨慎采用其技术。",
-        "comment": "Karp借利润高峰抨击同行，实为商业竞争话术。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "网红参加OpenAI豪华之旅引发争议",
-        "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-        "summary": "OpenAI首次邀请网红参加豪华品牌之旅，因AI使用争议在网络上引发强烈反弹，凸显公众对AI伦理的关注。",
-        "comment": "AI营销需谨慎，避免触碰伦理红线。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "苹果",
-        "title": "苹果终于修复Siri，为何仍令人失望？",
-        "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-        "summary": "苹果长期期待的AI升级终于让Siri成为应有的助手，但如今仅做合格助手已不够，缺乏创新突破，显得平淡。",
-        "comment": "修复迟来，创新不足，Siri仍落后于时代。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI部署",
-        "title": "Marc Benioff支持的初创公司用AI解决AI部署难题",
-        "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-        "summary": "June今日走出隐身模式，获2000万美元预种子轮融资，旨在简化AI采用流程，解决企业AI部署复杂性问题。",
-        "comment": "AI部署痛点明确，但融资规模尚小，需验证实际效果。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "德明利",
-        "title": "德明利跌超9%，36氪情报提前捕捉信号",
-        "link": "https://36kr.com/p/3923603053686151?f=rss",
-        "summary": "德明利8月3日下跌9.56%，收盘349元，5日跌幅13.1%，36氪企业全情报曾提前预警。",
-        "comment": "情报预警价值凸显，但个股风险仍需警惕。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "AI工作流",
         "title": "AI工作流规模化挑战与协作生态：从实验到产线",
         "link": "https://36kr.com/p/3923717502072969?f=rss",
-        "summary": "AI工作流正从实验室走向产线，面临规模化落地瓶颈。单点突破易，系统协同难，关键在于工作流稳定运转与协作生态构建，最终比拼场景理解深度。",
-        "comment": "技术红利趋平，场景理解成决胜关键。",
+        "summary": "AI工作流从实验室走向产线，面临规模化落地瓶颈。单点突破易，系统协同难，关键在于工作流稳定运转与协作生态构建。技术红利趋平后，行业比拼场景理解深度。",
+        "comment": "规模化落地考验的是系统整合力，而非模型能力。",
         "image": "",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "显卡",
-        "title": "显卡价格即将全面上涨，AMD与NVIDIA均受影响",
-        "link": "https://www.gamespot.com/articles/no-matter-which-you-choose-graphics-cards-are-about-to-get-a-lot-more-expensive/",
-        "summary": "据GameSpot报道，无论选择AMD还是NVIDIA，显卡价格即将大幅上涨，零售商库存产品也将提价，建议消费者谨慎购买。",
-        "comment": "显卡涨价潮将至，消费者需理性应对。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/TMEh2gdJWsrm4xjetk9aQg.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "恋与深空",
-        "title": "《恋与深空》最大争议开始影响收入，月度营收跌至新低",
-        "link": "https://www.gamespot.com/articles/love-and-deepspace-biggest-controversy-is-now-hitting-its-wallet/",
-        "summary": "《恋与深空》近期月度收入创下新低，此前月收入约3000万至6000万美元，如今大幅下滑，显示争议已对游戏财务造成实质影响。",
-        "comment": "争议终显代价，口碑与营收双承压。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Valko.jpg?w=300",
-        "score": 93
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "智能驾驶",
         "title": "卓驭CEO谈智驾：被撞前0.01秒退出不可行",
         "link": "https://www.ifanr.com/1673777?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "卓驭CEO沈劭劼强调智能辅助驾驶需先建立责任感，指出车辆在被撞前0.01秒退出智驾系统是不负责任的设计。",
+        "summary": "卓驭CEO沈劭劼强调智能辅助驾驶需先建立责任感，指出车辆在被撞前0.01秒退出智驾系统是不负责任的设计，应提前预判并安全应对。",
         "comment": "智驾安全底线不容妥协，责任感是技术前提。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "裂谷",
-        "title": "《裂谷》2027年发布阵容首曝，第四扩展包同步上线",
-        "link": "https://www.gamespot.com/articles/we-got-our-first-look-at-riftbounds-2027-release-lineup/",
-        "summary": "拳头公司《英雄联盟》卡牌游戏《裂谷》于7月31日推出第四扩展包“仇杀”，实现发布同步，并首次公布2027年内容路线图。",
-        "comment": "路线图提前两年公布，显示拳头对长线运营的信心。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/RFB_SOTG2026_SetLineUp.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "裂谷",
-        "title": "《裂谷》卡牌模板2027年将迎重大改版",
-        "link": "https://www.gamespot.com/articles/riftbounds-card-templates-are-getting-a-big-overhaul-in-2027/",
-        "summary": "拳头游戏《英雄联盟》TCG《裂谷》在GenCon庆祝一周年，官方宣布2027年将对其卡牌模板进行重大调整，以优化游戏体验。",
-        "comment": "改版及时，或可解决当前平衡性问题。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/RFB_SOTG2026_Header_Set6KV.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "幻兽帕鲁",
-        "title": "幻兽帕鲁新作公布，手游版MMORPG即将上线",
-        "link": "https://www.gamespot.com/articles/a-new-palworld-game-has-been-announced-and-its-releasing-pretty-soon/",
-        "summary": "Garena宣布与Pocketpair合作，推出《幻兽帕鲁》手游版MMORPG《Palworld Online》，基于授权协议开发，预计很快发布。",
-        "comment": "IP扩张迅速，但手游化质量待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/palworldonline-Large.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox全球涨价正式生效，美欧英同步上调",
-        "link": "https://www.gamespot.com/articles/xbox-price-hikes-are-now-in-effect-worldwide/",
-        "summary": "微软此前宣布的Xbox Series X|S涨价已于8月1日在全球生效，美国、欧洲和英国等地区主机售价上调，玩家购买成本增加。",
-        "comment": "涨价落地，主机市场成本压力转嫁消费者。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xbox.png?w=300",
         "score": 92
       },
       {
@@ -197,29 +87,9 @@
         "tag": "AI办公",
         "title": "实测千问办公：阿里AI专家真能帮你带货？",
         "link": "https://www.ifanr.com/1673793?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测阿里千问办公Agent，发现其不仅能处理文档，还能辅助电商带货，展示AI应用竞争已从模型能力转向实际场景落地。",
-        "comment": "AI办公应用比拼，场景落地比模型参数更重要。",
+        "summary": "爱范儿实测阿里千问办公Agent，发现其能辅助带货，但能力有限。文章指出，Agent应用竞争焦点或从模型智能转向实际场景落地。",
+        "comment": "AI办公应用落地能力比模型参数更重要。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "无人机",
-        "title": "DJI Neo 4K无人机降价30%，起售价139美元",
-        "link": "https://www.ign.com/articles/dji-neo-4k-quadcopter-drone-deals-august-2026",
-        "summary": "DJI Neo 4K无人机及套装降价30%，起售价139美元，该无人机合法购买使用，且免于FAA注册。",
-        "comment": "入门级无人机价格亲民，但需注意飞行法规。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/03/djineo-1785798862699.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "博德之门3",
-        "title": "《博德之门3》第三人称Mod焕发游戏新生",
-        "link": "https://www.gamespot.com/articles/baldurs-gate-3-third-person-mod-revitalizes-the-game/",
-        "summary": "2023年《博德之门3》发售后，模组作者迅速添加了包括第三人称在内的新视角。如今，一款新的第三人称Mod进一步扩展了视野，为玩家带来全新体验。",
-        "comment": "视角Mod虽小，却能显著改变游戏沉浸感。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Baldurs-Gate-3-Third-Person-Mod.jpg?w=300",
         "score": 91
       }
     ]
