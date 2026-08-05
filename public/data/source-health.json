@@ -1,12 +1,12 @@
 {
   "run_id": 1,
-  "generated_at": "2026-08-05T02:30:12Z",
+  "generated_at": "2026-08-05T08:36:36Z",
   "source_health_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/source-health.json",
   "summary": {
     "total_sources": 9,
-    "healthy_sources": 8,
+    "healthy_sources": 7,
     "degraded_sources": 0,
-    "unhealthy_sources": 1
+    "unhealthy_sources": 2
   },
   "sources": [
     {
@@ -53,15 +53,15 @@
     {
       "source_id": "36kr",
       "source_name": "36Kr",
-      "status": "success",
-      "items_fetched": 10,
-      "active_url": "https://36kr.com/feed",
+      "status": "parse_error",
+      "items_fetched": 0,
+      "active_url": null,
       "attempted_urls": [
         "https://36kr.com/feed"
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": null
+      "error_message": "bozo parse error: <unknown>:10:542: not well-formed (invalid token)"
     },
     {
       "source_id": "ifanr",
