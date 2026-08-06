@@ -3,134 +3,14 @@
     "week": "周三",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "AI编程",
-        "title": "Meta发布Muse Code，面向大型代码库的AI代理",
-        "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-        "summary": "Meta推出AI编码代理Muse Code，宣称能处理复杂软件中的复杂任务，扩展其AI编程工具生态。",
-        "comment": "Meta加码AI编程，但实际效果待验证。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "谷歌顶级AI研究员Jeff Dean离职创业，聚焦科学发现",
-        "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-        "summary": "Jeff Dean等谷歌高管离职，联合创立新公司，利用AI推动科学发现进程，标志谷歌AI人才流失加剧。",
-        "comment": "AI科学发现赛道再添重磅玩家，谷歌人才流失警钟长鸣。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI搜索",
-        "title": "Shopify称AI搜索带来更多流量与销售，而非取代谷歌",
-        "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-        "summary": "Shopify表示，AI未像对出版商那样蚕食搜索流量，反而在Q2推动其商店的AI驱动流量和订单同比增长三倍。",
-        "comment": "AI搜索对电商是增量，而非替代关系。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "收购",
-        "title": "Klaviyo收购Elias Torres创企，创始人回归任CPO",
-        "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-        "summary": "电商营销公司Klaviyo收购了Elias Torres的AI代理创企，Torres将出任首席产品官，领导AI代理业务，标志其创业生涯的闭环。",
-        "comment": "创始人回归或加速Klaviyo的AI产品落地。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "浏览器代理",
-        "title": "Hark预览浏览器代理，称比竞品更快更便宜",
-        "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-        "summary": "Hark推出浏览器使用代理，用于自动完成在线任务，声称速度更快、成本更低，但未提供具体对比数据。",
-        "comment": "宣称优势需实测验证，市场已有强敌。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神4",
-        "title": "《暗黑破坏神4》或于9月登陆Switch 2，暴雪嘉年华将公布",
-        "link": "https://www.gamespot.com/articles/we-may-already-know-one-major-diablo-4-blizzcon-announcement/",
-        "summary": "据报道，《暗黑破坏神4》可能于今年9月登陆任天堂Switch 2，这或将成为暴雪嘉年华上多个暗黑系列公告之一。",
-        "comment": "跨平台扩展是趋势，但需关注性能优化。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Diablo-4-Switch-2-Report.jpg?w=300",
-        "score": 93
-      },
-      {
         "category": "数码科技",
         "tag": "华为",
         "title": "华为全场景新品发布，尊界V800领航版售价破百万",
         "link": "https://www.ifanr.com/1674060?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为发布全场景新品，其中尊界V800领航版售价超百万，定位高端MPV市场，或冲击埃尔法等传统豪华品牌。",
-        "comment": "华为跨界高端MPV，市场格局或将生变。",
+        "summary": "华为发布全场景新品，尊界V800领航版定价超百万，冲击高端MPV市场，或影响埃尔法加价现象。",
+        "comment": "华为入局高端MPV，市场格局或将生变。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《Big Walk》发售仅两天，玩家自制新玩法已启动",
-        "link": "https://www.gamespot.com/articles/another-way-to-play-big-walk-is-already-in-the-works/",
-        "summary": "House House的多人解谜游戏《Big Walk》发售两天，已有模组作者为其添加新维度玩法，展现社区创造力。",
-        "comment": "社区热情高涨，但官方需关注模组兼容性。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk-2.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《迷雾之地》结束抢先体验，1.0版上线含可骑乘大鸡",
-        "link": "https://www.gamespot.com/articles/fields-of-mistria-exits-beta-with-a-big-rideable-chicken/",
-        "summary": "经过两年抢先体验，NPC Studio的农场奇幻RPG《迷雾之地》今日发布1.0正式版，新增可骑乘的大鸡等丰富内容。",
-        "comment": "骑乘大鸡成亮点，正式版诚意十足。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Fields-of-Mistria-Big-Chicken-Mount.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "光环登陆PS5开局缓慢，专家称销量不及预期",
-        "link": "https://www.gamespot.com/articles/halo-on-ps5-is-off-to-a-slow-start-expert-says/",
-        "summary": "《光环：战役进化》首次登陆PS5，但销量开局明显缓慢，专家分析称其在索尼平台的吸引力有限。",
-        "comment": "跨平台光环遇冷，IP吸引力或已见顶。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Halo-Large.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "我的世界",
-        "title": "《我的世界》10月登陆Switch 2，老玩家可升级",
-        "link": "https://www.gamespot.com/articles/minecraft-is-coming-to-switch-2-in-october-with-an-upgrade-path-for-switch-owners/",
-        "summary": "《我的世界》将于10月27日登陆Switch 2，带来“鲜活视觉”升级，并为原Switch玩家提供升级路径。",
-        "comment": "跨代升级策略利好老玩家，但需关注具体价格。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Minecraft-Switch-2-Release-Date.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox或年内推出类似PlayStation白金奖杯的成就系统",
-        "link": "https://www.gamespot.com/articles/xbox-version-of-playstation-platinum-trophy-teased-for-later-this-year/",
-        "summary": "Xbox CEO Asha Sharma暗示，Xbox可能很快推出类似PlayStation白金奖杯的成就系统，回应了社交媒体用户的询问。",
-        "comment": "此举或提升玩家成就感，但需差异化设计。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xboxreset.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "MacBook Air",
-        "title": "MacBook Air 库存告急，等等党需抓紧",
-        "link": "https://www.ifanr.com/1674038?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "据爱范儿报道，MacBook Air 即将断货，暗示新品发布在即，建议消费者关注后续动态。",
-        "comment": "库存告急或预示新品将至，等等党可再等等。",
-        "image": "",
-        "score": 91
       }
     ]
   }
