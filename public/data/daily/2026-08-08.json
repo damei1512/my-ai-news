@@ -3,22 +3,22 @@
     "week": "周六",
     "articles": [
       {
-        "category": "游戏影视",
-        "tag": "Steam",
-        "title": "Steam喜加一：《呼吸边缘》免费领",
-        "link": "https://www.gcores.com/articles/218120",
-        "summary": "为庆祝《呼吸边缘2》8月31日抢先体验，Steam限时免费领取《呼吸边缘》，价值92元，即日至8月9日10时。游戏为讽刺太空生存冒险，玩家与不死鸡探索飞船坠毁真相。",
-        "comment": "免费领取高口碑独立游戏，玩家不容错过。",
-        "image": "",
-        "score": 92
-      },
-      {
         "category": "数码科技",
         "tag": "微信",
         "title": "微信上线撤回的撤回，苹果上调以旧换新价，字节预训练10万亿参数大模型",
         "link": "https://www.ifanr.com/1674478?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "微信新增撤回的撤回功能；苹果上调多款设备以旧换新回收价；曝字节开始预训练10万亿参数大模型。另有iPhone 18备货遇阻、DeepSeek参与宇树科技配售、小米YU7保值率登顶。",
         "comment": "科技圈动态密集，苹果与字节动作值得关注。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Steam",
+        "title": "Steam喜加一：《呼吸边缘》免费领取",
+        "link": "https://www.gcores.com/articles/218120",
+        "summary": "为庆祝《呼吸边缘2》8月31日抢先体验，RedRuins Softworks在Steam开放《呼吸边缘》免费领取，至8月9日10时止。游戏为讽刺太空生存冒险，玩家与不死鸡相伴，探索飞船坠毁真相。",
+        "comment": "免费领取时机巧妙，为续作预热，值得一试。",
         "image": "",
         "score": 91
       },
@@ -27,7 +27,7 @@
         "tag": "游戏",
         "title": "游戏实体版未来再探讨：行业老兵分享见解",
         "link": "https://www.gcores.com/radios/218118",
-        "summary": "机核节目再聊游戏实体版新闻与未来，六段音速等嘉宾回顾实体版历史，分享个人看法，并展望其行业前景。",
+        "summary": "机核节目再聊游戏实体版新闻与未来，六段音速等嘉宾回忆实体版经历，行业老兵六爷分享对实体版未来的看法，碰撞新火花。",
         "comment": "实体版讨论常谈常新，行业视角值得一听。",
         "image": "",
         "score": 89
@@ -37,20 +37,40 @@
         "tag": "俄乌冲突",
         "title": "俄导弹袭击基辅附近致三人死亡含一名儿童",
         "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "summary": "俄罗斯继续夜间袭击，泽连斯基警告乌克兰导弹拦截器库存告急。",
-        "comment": "战事升级，乌防空能力堪忧。",
+        "summary": "俄罗斯在夜间继续发动袭击，此前泽连斯基警告乌克兰导弹拦截器库存告急。袭击导致三人死亡，其中包括一名儿童。",
+        "comment": "袭击凸显乌克兰防空压力，西方援助亟待加强。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "俄无人机袭击乌克兰医疗人员，急救人员面临生死考验",
-        "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰急救人员警告，俄罗斯对医院和救护车的攻击日益增多，一名急救人员称“我跑是因为我知道我会死”。",
-        "comment": "医疗设施成战场目标，人道危机加剧。",
+        "tag": "美国政治",
+        "title": "特朗普前律师托德·布兰奇确认出任美国司法部长",
+        "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+        "summary": "美国参议院以微弱优势确认特朗普前律师托德·布兰奇为司法部长，共和党参议员比尔·卡西迪在长期僵局后投下关键一票。",
+        "comment": "政治任命凸显忠诚优先，司法独立性面临考验。",
         "image": "",
-        "score": 88
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国",
+        "title": "美国承诺向哥伦比亚提供10亿美元支持，新总统宣誓就职",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+        "summary": "哥伦比亚新总统阿贝拉多·德·拉·埃斯普里埃拉在就职演讲中承诺对“毒品恐怖主义”发动全面战争，美国随即宣布提供10亿美元援助。",
+        "comment": "美国援助凸显对哥伦比亚新政府反毒政策的强力背书。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "NBA",
+        "title": "NBA前锋克拉克因毒品作用死亡",
+        "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+        "summary": "洛杉矶医学机构透露，孟菲斯灰熊队前锋布兰登·克拉克的死因是海洛因和可卡因的作用。",
+        "comment": "悲剧警示职业体育药物滥用问题。",
+        "image": "",
+        "score": 86
       }
     ]
   }
