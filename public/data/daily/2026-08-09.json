@@ -4,31 +4,81 @@
     "articles": [
       {
         "category": "游戏影视",
+        "tag": "GTA6",
+        "title": "Take-Two CEO暗示GTA6新预告将登陆Netflix",
+        "link": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
+        "summary": "Take-Two CEO Strauss Zelnick透露，GTA6的扩展预告片将在Netflix平台发布，暗示非订阅用户将错过重要内容。",
+        "comment": "游戏与流媒体跨界合作，营销新玩法。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/08/gta-6-main-1786226105882.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
         "tag": "内容创业",
-        "title": "对话林亦LYi：技术内容创业的转型之路",
+        "title": "对话林亦LYi：从算法工程师到技术内容创业",
         "link": "https://www.gcores.com/radios/218134",
-        "summary": "林亦与合伙人晓白分享从个人创作到内容创业的经历，林亦原为视觉算法工程师，因Deepfake比赛改变轨迹，后结合技术开发与内容表达，找到频道方向。",
-        "comment": "技术人转型内容创业，路径清晰，值得借鉴。",
+        "summary": "林亦与合伙人晓白分享从个人创作到内容创业的经历，林亦原为视觉算法工程师，因Deepfake比赛转行，后结合技术开发与内容表达，找到频道方向。",
+        "comment": "技术人转型内容创业，路径清晰但挑战不小。",
         "image": "",
         "score": 91
       },
       {
         "category": "时事热点",
-        "tag": "心理健康",
-        "title": "佩雷斯·希尔顿直播自残后需长期康复",
-        "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国博主佩雷斯·希尔顿在直播中自残，目前住院情况“严重但稳定”，家人称其需长期康复。",
-        "comment": "公众人物心理健康问题亟需关注。",
+        "tag": "以色列",
+        "title": "以色列拒绝特朗普加沙15点计划，内塔尼亚胡称哈马斯未解除武装前不撤军",
+        "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+        "summary": "以色列总理内塔尼亚胡表示，在哈马斯真正解除武装前，以军不会撤出加沙，拒绝了特朗普提出的15点计划。",
+        "comment": "以方立场强硬，和平进程再添变数。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
+        "tag": "考古",
+        "title": "西西里岛发现古罗马沉船，意官员称重大考古发现",
+        "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+        "summary": "意大利文化部长表示，在西西里岛海岸发现的古罗马沉船是近年来最重要的水下考古发现之一。",
+        "comment": "沉船或揭示古罗马贸易路线，考古价值极高。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "犯罪",
+        "title": "涉嫌犯罪头目基纳汉引渡回爱尔兰，高安全押运",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "summary": "爱尔兰监狱署购置防弹防爆车，用于将49岁的丹尼尔·基纳汉从迪拜引渡后押送至法院。",
+        "comment": "高规格押运凸显其危险性，司法程序备受关注。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "加拿大",
+        "title": "加拿大野火蔓延速度翻倍，BC省宣布紧急状态",
+        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+        "summary": "不列颠哥伦比亚省野火失控，面积已超103平方公里，当局宣布紧急状态应对。",
+        "comment": "极端天气频发，防灾体系面临严峻考验。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "心理健康",
+        "title": "美国博主佩雷斯·希尔顿直播自伤后需长期康复",
+        "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国博主佩雷斯·希尔顿在直播中自伤，目前住院，情况严重但稳定，家人称需长期康复。",
+        "comment": "公众人物心理健康问题亟需关注，直播平台应加强干预。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
         "tag": "洛杉矶",
-        "title": "洛杉矶仓库大火致大量食物腐烂，恶臭难忍",
+        "title": "洛杉矶仓库大火致大量食品腐烂，恶臭难忍",
         "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-        "summary": "洛杉矶一大型仓库火灾后，大量鸡肉、家禽和鱼类腐烂，吸引苍蝇和老鼠，产生难以忍受的恶臭。",
-        "comment": "灾后处理滞后，凸显应急管理短板。",
+        "summary": "洛杉矶一大型仓库火灾后，成吨鸡肉、家禽和鱼类腐烂，吸引苍蝇和老鼠，产生难以忍受的恶臭。",
+        "comment": "灾后处理滞后，公共卫生风险凸显。",
         "image": "",
         "score": 86
       }
