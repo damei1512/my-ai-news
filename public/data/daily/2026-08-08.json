@@ -3,62 +3,142 @@
     "week": "周六",
     "articles": [
       {
-        "category": "数码科技",
-        "tag": "微信",
-        "title": "微信上线撤回的撤回，苹果上调以旧换新价，字节预训练10万亿参数大模型",
-        "link": "https://www.ifanr.com/1674478?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微信新增撤回的撤回功能；苹果上调多款设备以旧换新回收价；曝字节开始预训练10万亿参数大模型。另有iPhone 18备货遇阻、DeepSeek参与宇树科技配售、小米YU7保值率登顶等消息。",
-        "comment": "科技巨头动态密集，微信功能更新与AI大模型竞赛值得关注。",
+        "category": "人工智能",
+        "tag": "亚马逊",
+        "title": "亚马逊得州数据中心或成美国最大气候污染源",
+        "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "summary": "亚马逊计划在得州建设数据中心，并配套自建电厂，该电厂可能成为美国最大的气候污染源，引发环保担忧。",
+        "comment": "科技巨头扩张需平衡算力与碳排放责任。",
         "image": "",
-        "score": 92
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI收购演示文稿初创公司NextSlide",
+        "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "summary": "NextSlide团队已并入OpenAI，专注于ChatGPT相关开发。此次收购旨在增强OpenAI在演示文稿生成领域的能力。",
+        "comment": "收购小型工具公司，OpenAI意在补齐办公场景短板。",
+        "image": "",
+        "score": 99
       },
       {
         "category": "游戏影视",
-        "tag": "Steam",
-        "title": "Steam喜加一：《呼吸边缘》免费领，为续作预热",
-        "link": "https://www.gcores.com/articles/218120",
-        "summary": "为庆祝《呼吸边缘2》8月31日抢先体验，开发商RedRuins Softworks在Steam送出《呼吸边缘》，即日起至8月9日10时可免费领取。该作是讽刺风格太空生存冒险游戏，玩家与永生鸡为伴，探索飞船坠毁真相。",
-        "comment": "免费领取是续作预热的好策略，玩家不容错过。",
-        "image": "",
-        "score": 91
+        "tag": "游戏",
+        "title": "《毁灭战士》开发者抨击Xbox：微软裁员毁掉id Software",
+        "link": "https://www.ign.com/articles/they-fundamentally-dont-understand-art-doom-dev-blasts-xbox-after-microsoft-gutted-id-software-with-layoffs",
+        "summary": "7月微软对id Software进行大规模裁员，首席服务程序员Chris Hays公开批评Xbox管理层不懂艺术，称其行为“从根本上不理解艺术”。",
+        "comment": "裁员背后是资本逻辑与创作本质的冲突。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/30/ss-11a281028fce729b2ee4ac1dba64c652bcb4c07e-1920x1080-1782779581025.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏影视",
+        "title": "《玩具熊的五夜后宫》主题餐厅2027年开业",
+        "link": "https://www.ign.com/articles/freddy-fazbears-pizza-opening-permanent-location-featuring-animatronic-stage-shows-in-2027",
+        "summary": "《玩具熊的五夜后宫》与美国梦娱乐零售中心合作，将于2027年开设永久性弗雷迪·费斯熊披萨店，包含动画舞台表演。",
+        "comment": "游戏IP线下化，粉丝经济新尝试。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/08/freddy-fazbears-pizza-location-1786225577307.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "PS5",
+        "title": "PS5未来独占游戏展望：次世代阵容前瞻",
+        "link": "https://www.ign.com/articles/upcoming-ps5-games",
+        "summary": "IGN盘点PS5即将推出的独占游戏，涵盖《漫威蜘蛛侠2》等大作，展望PlayStation未来游戏阵容与发布计划。",
+        "comment": "PS5独占阵容依旧强劲，但跨平台趋势值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/07/playstation-3-blogroll-1786135998274.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "真人快打",
+        "title": "《真人快打》导演不确定回归第三部，续作前景不明",
+        "link": "https://www.ign.com/articles/mortal-kombat-director-not-sure-about-return-for-third-movie-as-mortal-kombat-3-remains-in-limbo",
+        "summary": "《真人快打》电影导演西蒙·麦奎德对是否回归执导第三部表示不确定，目前第三部电影的开发工作仍处于停滞状态。",
+        "comment": "续作悬而未决，导演态度暧昧，IP前景堪忧。",
+        "image": "https://assets-prd.ignimgs.com/2025/03/20/karl-urban-johnny-cage-thumb-1742432130553.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "辛普森一家",
+        "title": "巴特配音演员称《辛普森一家》或于第40季完结",
+        "link": "https://www.ign.com/articles/bart-simpson-actress-nancy-cartwright-believes-the-simpsons-will-end-with-season-40",
+        "summary": "《辛普森一家》中巴特的配音演员南希·卡特赖特透露，该剧可能在第40季后结束，目前该剧已续订至第36季。",
+        "comment": "长寿动画终有尽时，但IP价值仍可持续。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/08/nancy-cartwright-simpsons-1786206042041.png",
+        "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
         "title": "核周报：GTA6预告定档，EA完成550亿收购",
         "link": "https://www.gcores.com/radios/217789",
-        "summary": "本期汇总《GTA6》预告8月28日推出、《影之刃零》预售、《火焰之纹章》直面会、《幻兽帕鲁》手游公布、《控制》中国预告、EA完成550亿收购及索尼财报等要闻，另有独立游戏市集活动。",
-        "comment": "信息密集，但缺乏深度分析，适合快速浏览。",
+        "summary": "本期汇总多款游戏动态：《GTA6》预告8月28日发布，《影之刃零》开启预售，《火焰之纹章》直面会，《幻兽帕鲁》手游公布，EA完成550亿美元收购，索尼财报发布。",
+        "comment": "游戏行业重磅消息密集，玩家值得关注。",
         "image": "",
-        "score": 90
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "微信",
+        "title": "微信上线撤回的撤回，苹果上调以旧换新价，字节预训练10万亿参数大模型",
+        "link": "https://www.ifanr.com/1674478?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "微信新增撤回的撤回功能；苹果上调多款设备以旧换新回收价；曝字节开始预训练10万亿参数大模型。另有iPhone 18备货遇阻、DeepSeek参与宇树科技配售、小米YU7保值率登顶。",
+        "comment": "科技圈多点开花，但需关注供应链与AI竞赛的实质进展。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "游戏实体版新闻与未来：行业老兵再聊新火花",
-        "link": "https://www.gcores.com/radios/218118",
-        "summary": "机核节目邀请六段音速、九十玖、箱子等，围绕游戏实体版新闻展开讨论，回顾个人经历，展望行业未来，碰撞出新观点。",
-        "comment": "实体版讨论常谈常新，行业视角值得一听。",
+        "title": "《呼吸边缘》Steam限时免费领取",
+        "link": "https://www.gcores.com/articles/218120",
+        "summary": "为庆祝《呼吸边缘2》8月31日抢先体验，开发商RedRuins Softworks在Steam开启限时免费领取《呼吸边缘》，价值92元，截止8月9日10时。游戏为讽刺风格太空生存冒险，玩家与永生鸡相伴，探索飞船坠毁真相。",
+        "comment": "续作预热福利，老玩家可趁机补票。",
         "image": "",
-        "score": 89
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "再聊游戏实体版新闻与未来：行业老兵分享见解",
+        "link": "https://www.gcores.com/radios/218118",
+        "summary": "机核节目《走神大师》第221期，六段音速、九十玖、箱子等讨论游戏实体版新闻，回顾个人经历，行业老兵六爷展望实体版未来，碰撞新观点。",
+        "comment": "实体版话题常谈常新，老兵视角值得一听。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "XR眼镜",
         "title": "华硕ROG XReal R1 XR眼镜评测",
         "link": "https://www.ign.com/articles/asus-rog-xreal-r1-xr-glasses-review",
-        "summary": "华硕与XReal合作推出ROG XReal R1 XR眼镜，专为游戏设计，提供高刷新率与低延迟，但视场角有限，佩戴舒适度一般。",
-        "comment": "游戏向XR眼镜，性能强但生态待完善。",
+        "summary": "IGN评测华硕ROG与XReal合作款XR眼镜，显示清晰但视场角有限，佩戴舒适度一般，适合特定游戏场景。",
+        "comment": "硬件不错，但生态和价格仍是硬伤。",
         "image": "https://assets-prd.ignimgs.com/2026/08/07/glasses-2-1786137863285.jpg",
-        "score": 89
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "霍尔木兹",
+        "title": "霍尔木兹谈判现积极信号，伊朗警告协议不会开放海峡",
+        "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+        "summary": "阿曼称霍尔木兹海峡谈判取得进展，双方同意探讨新航运路线，但突破仍不明朗。伊朗警告即使达成协议，也不会开放海峡。",
+        "comment": "谈判有进展但伊朗立场强硬，实际突破难度大。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "美国政治",
-        "title": "特朗普前律师托德·布兰奇险获确认出任美司法部长",
+        "title": "特朗普前律师布兰奇险胜确认出任美司法部长",
         "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-        "summary": "美国参议院以微弱优势确认特朗普前刑事辩护律师托德·布兰奇为司法部长，尽管部分共和党人罕见反对，他仍成为国家最高执法官员。",
-        "comment": "特朗普人事布局再下一城，司法独立性受考验。",
+        "summary": "美国参议院以微弱优势确认特朗普前刑事辩护律师托德·布兰奇为司法部长，尽管部分共和党人罕见反对。",
+        "comment": "司法部长人选争议凸显特朗普对司法系统的深度掌控。",
         "image": "",
         "score": 87
       },
@@ -67,18 +147,8 @@
         "tag": "美国",
         "title": "美国向哥伦比亚新右翼总统提供10亿美元援助",
         "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-        "summary": "哥伦比亚新总统阿贝拉多·德·拉·埃斯普里拉在就职演讲中承诺对“毒品恐怖主义”发动全面战争，美国随即宣布提供10亿美元援助。",
-        "comment": "美援意在巩固反毒战线，但效果待观察。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "梅西",
-        "title": "梅西父亲豪尔赫病逝，享年68岁",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-        "summary": "梅西父亲兼经纪人豪尔赫·梅西因长期疾病去世，享年68岁。他曾是梅西职业生涯的重要支持者。",
-        "comment": "一代球王背后的支柱离世，令人惋惜。",
+        "summary": "哥伦比亚新任右翼总统阿贝拉多·德·拉·埃斯普里拉在就职首日发表首次演讲，承诺对“毒品恐怖主义”发动全面战争，美国随即宣布提供10亿美元援助。",
+        "comment": "美援凸显对哥新政府强硬禁毒政策的支持。",
         "image": "",
         "score": 87
       },
@@ -97,8 +167,8 @@
         "tag": "俄乌冲突",
         "title": "俄导弹袭击基辅附近致三人死亡含一名儿童",
         "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "summary": "俄罗斯继续夜间袭击，泽连斯基警告乌克兰导弹拦截器库存告急，导致基辅附近三人死亡，包括一名儿童。",
-        "comment": "袭击凸显乌克兰防空困境，国际援助亟需加速。",
+        "summary": "俄罗斯在泽连斯基警告乌克兰导弹拦截器库存不足后，继续夜间袭击，基辅附近遭袭致三人死亡，包括一名儿童。",
+        "comment": "袭击凸显乌克兰防空压力，国际援助亟需加强。",
         "image": "",
         "score": 87
       },
@@ -107,20 +177,30 @@
         "tag": "台风",
         "title": "台风“海豚”袭击日本冲绳后逼近中国",
         "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-        "summary": "台风“海豚”登陆日本冲绳，造成至少4.4万栋建筑断电，5人受伤，目前正逼近中国沿海。",
+        "summary": "台风“海豚”登陆日本冲绳，导致至少4.4万栋建筑停电，5人受伤，现正逼近中国沿海。",
         "comment": "台风路径需警惕，中国沿海应提前防范。",
         "image": "",
         "score": 87
       },
       {
+        "category": "游戏影视",
+        "tag": "优惠",
+        "title": "今日最佳优惠：AirPods Pro 3、乐高回到未来等",
+        "link": "https://www.ign.com/articles/best-deals-for-august-8-2026",
+        "summary": "IGN汇总今日数码与玩具折扣，涵盖AirPods Pro 3、乐高《回到未来》套装及游戏《Saros》等热门商品，为消费者提供省钱选购指南。",
+        "comment": "实用折扣汇总，适合近期有购物计划的玩家。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/08/daily-deals-8-8-1786209696238.png",
+        "score": 86
+      },
+      {
         "category": "时事热点",
-        "tag": "加拿大",
-        "title": "加拿大野火迅速蔓延，规模翻倍致数千人撤离",
-        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-        "summary": "不列颠哥伦比亚省巴尔迪山脉野火失控，面积已扩大至95平方公里，迫使数千居民逃离家园。",
-        "comment": "火势失控且蔓延迅速，当地应急响应面临严峻考验。",
+        "tag": "梅西",
+        "title": "梅西父亲豪尔赫病逝，享年68岁",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+        "summary": "梅西父亲兼经纪人豪尔赫·梅西因长期疾病去世，享年68岁。他曾在梅西职业生涯中扮演重要角色。",
+        "comment": "一代球王背后的支柱离世，令人惋惜。",
         "image": "",
-        "score": 87
+        "score": 86
       },
       {
         "category": "时事热点",
@@ -128,7 +208,17 @@
         "title": "科索沃反对派议员向代理总理扔鸡蛋",
         "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
         "summary": "科索沃联盟党议员Time Kadrijaj向代理总理阿尔宾·库尔蒂投掷至少四个鸡蛋，议员和警察被迫介入。",
-        "comment": "议会暴力事件凸显政治对立激化。",
+        "comment": "议会冲突升级，凸显政治紧张局势。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "电动滑板车",
+        "title": "巴黎要求电动滑板车骑手佩戴安全装备否则罚款",
+        "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+        "summary": "法国首都警方在致命事故激增后收紧对电动滑板车骑手的规定，要求佩戴安全装备，违者将面临罚款。",
+        "comment": "安全监管及时，但执行效果待观察。",
         "image": "",
         "score": 86
       },
@@ -137,10 +227,10 @@
         "tag": "麦当娜",
         "title": "麦当娜致敬制作人威廉·奥比特：天才、超凡",
         "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-        "summary": "麦当娜多次与制作人威廉·奥比特合作，最著名的是其突破流派、获格莱美奖的专辑《光芒万丈》。",
-        "comment": "致敬凸显奥比特对流行音乐实验性的深远影响。",
+        "summary": "麦当娜多次与威廉·奥比特合作，最著名的是其突破流派、获格莱美奖的专辑《光芒万丈》。",
+        "comment": "致敬凸显奥比特对流行音乐的深远影响。",
         "image": "",
-        "score": 85
+        "score": 84
       }
     ]
   }
