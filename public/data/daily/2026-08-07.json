@@ -4,10 +4,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI因安全担忧放缓Astra模型开发",
+        "tag": "AI安全",
+        "title": "OpenAI因安全顾虑放缓Astra模型开发",
         "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-        "summary": "OpenAI表示，其开发中的Astra模型已达到“关键网络安全阈值”，能独立识别并实施网络攻击，因此放缓开发以确保安全。",
+        "summary": "OpenAI表示，其Astra模型在开发中达到“关键网络安全阈值”，可独立识别并实施网络攻击，因此主动放缓开发以确保安全。",
         "comment": "安全优先于速度，AI军备竞赛需刹车。",
         "image": "",
         "score": 100
@@ -24,21 +24,11 @@
       },
       {
         "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Cloudflare发布Kitesurf：专为AI代理打造的浏览器",
-        "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-        "summary": "Cloudflare推出Kitesurf，一款面向AI代理而非人类的云托管浏览器。相比Chromium，它在常见自动化任务中计算资源消耗更低，助力开发者构建浏览相关应用。",
-        "comment": "浏览器赛道迎来AI原生新玩家，效率优势或成关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
+        "tag": "网络安全",
         "title": "OpenAI发布Astra网络安全评估与防护措施",
         "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
         "summary": "OpenAI公开了Astra的初步网络安全评估，并介绍了加强安全防护和控制措施的具体步骤，以应对关键网络能力的新前沿。",
-        "comment": "AI安全评估透明化，但实际防护效果待验证。",
+        "comment": "AI安全评估透明化是行业标杆，值得跟进。",
         "image": "",
         "score": 100
       },
@@ -53,114 +43,24 @@
         "score": 100
       },
       {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6营销覆盖全球几乎所有社交媒体平台",
-        "link": "https://www.gamespot.com/articles/gta-6-marketing-is-taking-place-on-virtually-every-social-media-outlet-on-earth/",
-        "summary": "Take-Two宣布GTA 6将首次在Netflix独家展示六小时预告，并称其营销活动覆盖全球几乎所有社交媒体，规模空前。",
-        "comment": "跨界独家策略或重塑游戏宣发模式。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/313/3136061/4645810-gta6.jpg?w=300",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6 预期带动 Take-Two 财年利润大增",
-        "link": "https://www.gamespot.com/articles/unsurprisingly-gta-6-has-take-two-predicting-a-massively-profitable-year-ahead/",
-        "summary": "Take-Two 预计截至 2027 年 3 月的财年将因 GTA 6 于 11 月发售而实现巨额利润，游戏行业对此高度关注。",
-        "comment": "GTA 6 商业潜力巨大，但需兑现发售承诺。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/gta6-image.jpg?w=300",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "Take-Two称GTA 6预购量空前，行业罕见",
-        "link": "https://www.gamespot.com/articles/gta-6-preorders-are-unprecedented-across-the-industry-take-two-claims/",
-        "summary": "GTA 6预购自6月底开启后需求巨大，Take-Two在财报电话会议中称预购量“空前”，远超行业预期，但未透露具体数字。",
-        "comment": "预购火爆在意料之中，但需警惕过度营销。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/GTA-6-Jason.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "AI",
-        "title": "GTA 6母公司CEO称AI工具不会取代任何人",
-        "link": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
-        "summary": "Take-Two CEO Strauss Zelnick在财报电话会上表示，AI工具不会取代游戏开发者，但能提升效率，公司正谨慎评估其应用。",
-        "comment": "表态务实，但需警惕AI对行业就业的长期影响。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/GTA-6-PSA.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "棒球游戏",
-        "title": "《MLB The Show 26》致敬交易截止日最大反派",
-        "link": "https://www.gamespot.com/articles/mlb-the-show-26-celebrates-the-trade-deadlines-biggest-villain/",
-        "summary": "《MLB The Show 26》聚焦交易截止日，将底特律老虎队两届赛扬奖得主塔里克·斯库巴尔塑造为最大反派，引发玩家热议。",
-        "comment": "游戏借现实热点制造话题，但反派设定或引争议。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/mlb-tarik-dodgers.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "Take-Two解释GTA 6为何不提供抢先体验",
-        "link": "https://www.gamespot.com/articles/why-gta-6-doesnt-have-early-access-according-to-take-two/",
-        "summary": "Take-Two在季度财报电话会上透露GTA 6新信息，CEO Strauss Zelnick向投资者解释游戏不设抢先体验特权的原因，强调公平性和玩家体验。",
-        "comment": "不搞抢先体验，利于维护社区公平，值得肯定。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/GTA-6-1.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "云游戏",
-        "title": "Take-Two CEO：云游戏或降低昂贵主机重要性",
-        "link": "https://www.gamespot.com/articles/take-two-ceo-says-streaming-could-soon-make-expensive-consoles-matter-less/",
-        "summary": "Take-Two CEO认为，随着云游戏发展，昂贵主机可能不再必要，尽管当前PS5和Xbox Series X|S价格高于六年前。",
-        "comment": "云游戏前景虽好，但基础设施仍是瓶颈。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1837/18375603/4490044-gta6minigolf.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "Take-Two为GTA 6定价80美元辩护，称其“物超所值”",
-        "link": "https://www.gamespot.com/articles/take-two-defends-gta-6s-80-price-calls-it-phenomenal-value/",
-        "summary": "Take-Two为《GTA 6》80美元定价辩护，称其为“非凡价值”。多数游戏仍为70美元，此举或引领行业涨价趋势。",
-        "comment": "高价策略试探市场底线，玩家买账与否待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1179/11799911/4548158-gta6newlarge.jpeg?w=300",
-        "score": 92
-      },
-      {
         "category": "数码科技",
         "tag": "布加迪",
         "title": "最后一辆W16布加迪：1600马力艺术品",
         "link": "https://www.ifanr.com/1674436?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "布加迪推出最后一款W16引擎车型，拥有1600马力，将极致性能与艺术设计融合，标志着W16时代的终结。",
-        "comment": "性能巅峰与艺术收藏价值兼具，但实用性存疑。",
+        "summary": "布加迪推出最后一款W16发动机车型，拥有1600马力，将极致性能与艺术设计融合，标志着时代终结。",
+        "comment": "性能巅峰亦是时代绝唱，收藏价值拉满。",
         "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏展会",
-        "title": "THQ Nordic 2026展示会：全部新闻、预告与揭晓",
+        "tag": "游戏",
+        "title": "THQ Nordic 2026发布会：全部新闻、预告与揭晓",
         "link": "https://www.gamespot.com/articles/thq-nordic-showcase-2026-all-the-news-trailers-and-reveals/",
-        "summary": "在夏季游戏展会热潮后，THQ Nordic于沉寂期发布新展示会，带来多款游戏预告片，涵盖新作与更新，为玩家呈现未来游戏阵容。",
-        "comment": "展示会内容充实，但缺乏重磅惊喜，略显平淡。",
+        "summary": "在夏季游戏展会热潮后，THQ Nordic发布新展示会，带来多款游戏预告片，涵盖新作与更新，为玩家呈现未来游戏阵容。",
+        "comment": "发布会内容丰富，但缺乏重磅惊喜，整体中规中矩。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/THQ-Nordic-showcase-2026-9.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏测试",
-        "title": "《暮色之血》封闭网络测试资格查询方法公布",
-        "link": "https://www.gamespot.com/articles/heres-how-to-check-if-you-can-play-the-duskbloods-this-month/",
-        "summary": "《暮色之血》封闭网络测试资格现已开放查询，但不会通过邮件通知。玩家需自行前往指定页面查看是否入选，测试将于本月进行。",
-        "comment": "不邮件通知，查询方式隐蔽，玩家需留意官方渠道。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/The-Duskbloods-Selected-to-participate.jpeg?w=300",
-        "score": 91
+        "score": 92
       }
     ]
   }
