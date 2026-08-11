@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "OpenAI因安全顾虑放缓Astra模型开发",
-        "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-        "summary": "OpenAI表示，其Astra模型在开发中达到“关键网络安全阈值”，可独立识别并实施网络攻击，因此主动放缓开发以确保安全。",
-        "comment": "安全优先于速度，AI军备竞赛需刹车。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI成本",
-        "title": "Rippling因AI支出失控，推出员工AI花费追踪工具",
-        "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-        "summary": "Rippling在数月内AI支出达数百万美元后，发布AI Spend Console，用于追踪员工个人及团队的AI使用花费，帮助企业控制成本。",
-        "comment": "企业AI成本管控成新痛点，工具化是必然趋势。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "网络安全",
         "title": "OpenAI发布Astra网络安全评估与防护措施",
         "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
         "summary": "OpenAI公开了Astra的初步网络安全评估，并介绍了加强安全防护和控制措施的具体步骤，以应对关键网络能力的新前沿。",
-        "comment": "AI安全评估透明化是行业标杆，值得跟进。",
+        "comment": "主动披露评估，展现负责任AI态度。",
         "image": "",
         "score": 100
       },
@@ -37,30 +17,10 @@
         "tag": "税务咨询",
         "title": "HSP GRUPPE借助ChatGPT Enterprise提升税务咨询效率",
         "link": "https://openai.com/index/hsp-gruppe",
-        "summary": "HSP GRUPPE通过ChatGPT Enterprise提高生产力、改善工作质量，并为税务咨询和客户服务创造更多容量。",
-        "comment": "AI在专业服务领域的落地案例，值得关注。",
+        "summary": "HSP GRUPPE采用ChatGPT Enterprise，提高生产力与工作质量，为税务咨询和客户服务创造更多容量。",
+        "comment": "AI落地税务领域，效率提升显著，但需关注数据安全。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "布加迪",
-        "title": "最后一辆W16布加迪：1600马力艺术品",
-        "link": "https://www.ifanr.com/1674436?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "布加迪推出最后一款W16发动机车型，拥有1600马力，将极致性能与艺术设计融合，标志着时代终结。",
-        "comment": "性能巅峰亦是时代绝唱，收藏价值拉满。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "THQ Nordic 2026发布会：全部新闻、预告与揭晓",
-        "link": "https://www.gamespot.com/articles/thq-nordic-showcase-2026-all-the-news-trailers-and-reveals/",
-        "summary": "在夏季游戏展会热潮后，THQ Nordic发布新展示会，带来多款游戏预告片，涵盖新作与更新，为玩家呈现未来游戏阵容。",
-        "comment": "发布会内容丰富，但缺乏重磅惊喜，整体中规中矩。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/THQ-Nordic-showcase-2026-9.jpg?w=300",
-        "score": 92
       }
     ]
   }
