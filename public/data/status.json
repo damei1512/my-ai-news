@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-08-12T13:09:39Z",
+  "finished_at": "2026-08-12T19:03:22Z",
   "sources": 9,
   "raw_items": 70,
   "stories": 70,
@@ -84,7 +84,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/OpenAI"
         ],
-        "error_message": "<unknown>:26:113: not well-formed (invalid token)"
+        "error_message": "empty feed"
       },
       {
         "account_id": "karpathy",
@@ -209,7 +209,7 @@
     ],
     "stale": true,
     "stale_reason": "X feeds returned no new items; preserved previous digest.",
-    "generated_at": "2026-08-12T13:09:39Z",
+    "generated_at": "2026-08-12T19:03:22Z",
     "last_success_at": "2026-05-17T08:25:41Z"
   },
   "source_statuses": [
