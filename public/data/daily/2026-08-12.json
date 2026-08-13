@@ -7,18 +7,18 @@
         "tag": "AI训练",
         "title": "亚马逊默认用Twitch主播内容训练AI，需主动退出",
         "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-        "summary": "Twitch首席产品官回应争议，承认若采用自愿加入机制则无人参与，故默认采集主播内容用于AI训练，用户可自行选择退出。",
-        "comment": "默认训练引发隐私担忧，透明与选择权成关键。",
+        "summary": "Twitch首席产品官承认，若采用选择加入机制则无人参与，因此默认使用主播内容训练AI，用户需手动退出。此举引发隐私争议。",
+        "comment": "默认训练AI，用户权益被置于被动地位。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI编程",
-        "title": "AI编程创企Cognition据报洽谈400亿美元估值融资",
+        "title": "AI编程初创Cognition据悉洽谈400亿美元估值融资",
         "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-        "summary": "距上次10亿美元融资仅数月，Cognition据悉已启动新一轮融资谈判，估值或达400亿美元，较此前260亿美元大幅提升。",
-        "comment": "估值飙升反映AI编程赛道资本热度不减。",
+        "summary": "Cognition在数月前完成10亿美元融资、估值260亿美元后，据报正洽谈新一轮融资，估值或达400亿美元，显示AI编程赛道热度持续攀升。",
+        "comment": "估值半年涨五成，AI编程赛道泡沫风险需警惕。",
         "image": "",
         "score": 100
       },
@@ -27,7 +27,7 @@
         "tag": "AI安全",
         "title": "AI安全担忧加剧，三位先驱呼吁保持开放",
         "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-        "summary": "在Ai4大会上，杰弗里·辛顿、李飞飞和吴恩达就AI监管、开源获取及美国如何与中国竞争展开辩论，主张在安全与开放间寻求平衡。",
+        "summary": "在Ai4大会上，Hinton、李飞飞和吴恩达就AI监管、开源获取及美国如何与中国竞争展开辩论，主张在安全与开放间寻求平衡。",
         "comment": "开放与安全并非对立，平衡之道是关键。",
         "image": "",
         "score": 100
@@ -37,28 +37,8 @@
         "tag": "企业AI",
         "title": "OpenAI支持的Thrive融资20亿美元，推动企业AI应用",
         "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-        "summary": "Thrive Holdings获20亿美元新融资，估值达120亿美元，投资方包括软银、D1 Capital和Altimeter Capital，将用于扩展企业AI服务。",
-        "comment": "企业AI赛道持续升温，资本加速涌入。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI融资",
-        "title": "Lovable确认133亿美元估值，再融资4亿美元",
-        "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-        "summary": "Lovable在6月实现5亿美元年化经常性收入后，确认新估值133亿美元，并再获4亿美元融资。",
-        "comment": "高估值背后，收入增速是关键考验。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "收购欺诈",
-        "title": "2.5亿美元收购案崩塌：欺诈与伪造签名指控缠身",
-        "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-        "summary": "投资者仍未获得2.5亿美元收购款项，VideoVerse联合创始人Vinayak Shrivastav陷入多起法律诉讼，涉及欺诈和伪造签名指控。",
-        "comment": "高额收购背后暗藏风险，尽职调查缺失或成导火索。",
+        "summary": "Thrive Holdings完成20亿美元融资，估值达120亿美元，投资方包括软银、D1 Capital和Altimeter Capital，资金将用于企业AI解决方案。",
+        "comment": "企业AI赛道竞争加剧，巨额融资凸显市场热度。",
         "image": "",
         "score": 100
       },
@@ -68,57 +48,27 @@
         "title": "OpenAI报告：企业如何将AI从辅助推向执行",
         "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
         "summary": "OpenAI研究显示，企业正采用代理式AI，使用ChatGPT和Codex，前沿公司在AI应用上领先。",
-        "comment": "代理式AI落地加速，企业差距或拉大。",
+        "comment": "报告揭示企业AI应用正从辅助转向执行，趋势明确。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI应用",
+        "tag": "AI",
         "title": "RingCentral借助ChatGPT Work与Codex加速AI产品开发",
         "link": "https://openai.com/index/ringcentral",
-        "summary": "RingCentral利用ChatGPT Work和Codex加速AI产品开发，并在工程与运营中集中化运营智能，提升效率。",
+        "summary": "RingCentral利用ChatGPT Work和Codex加速AI产品开发，并集中工程与运营的智能，提升效率。",
         "comment": "企业级AI落地案例，展示大模型在通信领域的实际价值。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI",
-        "title": "Claude新水印引用户不满：担心被识破工作学习中使用AI",
+        "tag": "AI水印",
+        "title": "Claude新水印引用户不满：担心被识破工作与学业中滥用",
         "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-        "summary": "Anthropic为Claude引入水印系统，引发部分用户抗议，他们担心在工作和课堂上使用AI会被检测出来，认为这侵犯隐私并影响使用体验。",
-        "comment": "水印技术是双刃剑，平衡责任与隐私是关键。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "Automattic旗下AI联系人管理应用Mesh登陆安卓",
-        "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-        "summary": "Automattic推出的AI驱动联系人管理应用Mesh，现已推出安卓版本，旨在帮助用户管理人际关系。",
-        "comment": "跨平台布局，Mesh或将挑战传统CRM市场。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI可穿戴",
-        "title": "Sandbar称AI可穿戴未来在语音，Stream Ring制造商观点",
-        "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-        "summary": "AI笔记硬件近年兴起，信用卡大小设备、吊坠、别针及转录耳塞等承诺捕捉会议内容。Sandbar认为语音是AI可穿戴的未来。",
-        "comment": "语音交互或成主流，但隐私与实用性待解。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI硬件",
-        "title": "Sandbar语音戒指能否避开AI硬件坟墓",
-        "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-        "summary": "AI笔记硬件近年兴起，信用卡大小设备、吊坠、别针及转录耳塞等承诺捕捉会议内容。Sandbar推出语音戒指，试图在竞争激烈的市场中脱颖而出。",
-        "comment": "戒指形态新颖，但需证明实用性与差异化。",
+        "summary": "Anthropic为Claude引入水印系统，部分用户担忧在工作和课堂上使用AI会被发现，社交媒体上出现抱怨声音。",
+        "comment": "水印暴露了AI滥用问题，用户愤怒反证其用途不当。",
         "image": "",
         "score": 99
       },
@@ -127,10 +77,10 @@
         "tag": "AI",
         "title": "马斯克携24小时干活Agent回归，Cursor团队打造",
         "link": "https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "马斯克发布新Agent，可全天候工作，由Cursor团队开发，旨在提升效率，引发科技圈关注。",
-        "comment": "AI Agent竞争白热化，马斯克入局或重塑行业格局。",
+        "summary": "马斯克推出由Cursor团队打造的Agent，可全天候自动工作，提升效率，引发科技界关注。",
+        "comment": "AI Agent落地加速，但实际效果待验证。",
         "image": "",
-        "score": 93
+        "score": 92
       },
       {
         "category": "数码科技",
@@ -138,109 +88,9 @@
         "title": "实测DeepSeek V4 Pro：能力直逼Fable 5，藏大招",
         "link": "https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "爱范儿实测DeepSeek V4 Pro正式版，性能接近Fable 5，并发现其隐藏的AI Agent功能，展现强劲实力。",
-        "comment": "国产模型再突破，Agent能力成亮点。",
+        "comment": "国产模型再突破，Agent能力值得关注。",
         "image": "",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "荣耀",
-        "title": "荣耀Robot Phone发布，9999元起，AI手机长出身体",
-        "link": "https://www.ifanr.com/1674938?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "荣耀推出Robot Phone，起售价9999元，将AI与实体机器人结合，手机能自主移动，开启AI硬件新形态。",
-        "comment": "AI手机从屏幕走向实体，是创新还是噱头？",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "红色沙漠",
-        "title": "《红色沙漠》2027年登陆Switch 2，销量破400万",
-        "link": "https://www.gamespot.com/articles/one-of-this-years-biggest-games-is-coming-to-switch-2-next-year/",
-        "summary": "开发商Pearl Abyss宣布，《红色沙漠》计划于2027年登陆Switch 2。该作在PC和主机平台销量已超400万份，成为年度热门大作。",
-        "comment": "跨平台策略再下一城，Switch 2或成销量新引擎。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Crimson-Desert.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PlayStation Plus",
-        "title": "PS Plus八月阵容含《绝地潜兵2》",
-        "link": "https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-august-2026-revealed/",
-        "summary": "索尼即将公布八月PS Plus Extra/Premium游戏目录，已知《绝地潜兵2》将加入，具体阵容待揭晓。",
-        "comment": "《绝地潜兵2》入会，PS Plus性价比再提升。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Helldivers-2.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《Agefield High》首日表现不佳，校园题材新作遇冷",
-        "link": "https://www.gamespot.com/articles/new-bully-like-agefield-high-isnt-having-the-best-first-day-of-school/",
-        "summary": "去年故事预告片曾让《恶霸鲁尼》粉丝期待的精神续作《Agefield High: Rock The School》正式登陆PC，但首发反馈不佳，玩家评价和口碑均未达预期。",
-        "comment": "预告片热度难掩游戏品质短板，首发口碑是关键。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/agefield-high.jpg?w=300",
         "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "亚马逊",
-        "title": "亚马逊将全面退出MMO业务，移交两款大作运营权",
-        "link": "https://www.gamespot.com/articles/amazon-will-soon-be-out-of-the-mmo-business-entirely/",
-        "summary": "亚马逊游戏工作室将《王座与自由》和《失落的方舟》的西方运营权分别交还开发商，预示其将彻底退出MMO领域。",
-        "comment": "亚马逊MMO战略收缩，聚焦单机或更稳妥方向。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Amazon-Bailing-On-Throne-And-Liberty-Lost-Arc.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《战神》演员批评游戏改编剧忽视创作者",
-        "link": "https://www.gamespot.com/articles/god-of-wars-christopher-judge-is-tired-of-video-game-tv-adaptations-ignoring-game-creators/",
-        "summary": "《战神》真人剧筹备中，但主角奎托斯配音演员克里斯托弗·贾奇对游戏改编影视作品忽视游戏创作者的现象表示不满。",
-        "comment": "改编需尊重原作，创作者不应被边缘化。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4054335-playstationgifts_0009_god-of-war-ragnarok.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "巫师",
-        "title": "巫师新作Project Sirius再遭变动，多人模式前景不明",
-        "link": "https://www.gamespot.com/articles/mysterious-witcher-game-project-sirius-undergoes-more-changes-report/",
-        "summary": "据Kotaku报道，CD Projekt旗下《巫师》多人游戏项目Sirius再次经历动荡，已有9名员工被裁，项目方向或面临调整。",
-        "comment": "项目反复调整，CD Projekt需尽快稳定方向。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Witcher-Large.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《羊蹄山之鬼》公布扩展包、肉鸽生存模式及完整版",
-        "link": "https://www.gamespot.com/articles/ghost-of-yotei-expansion-roguelike-survival-mode-and-complete-edition-announced/",
-        "summary": "Sucker Punch宣布《羊蹄山之鬼》将推出新剧情扩展包、全新战斗生存模式及完整版，扩展内容聚焦叙事，生存模式引入肉鸽元素，完整版包含所有内容。",
-        "comment": "扩展与新模式并行，或为系列注入新活力。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/yotei-Large.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "詹姆斯·邦德",
-        "title": "《战地1》演员杰克·劳登或成新邦德人选",
-        "link": "https://www.gamespot.com/articles/the-rumored-new-james-bond-could-be-an-actor-from-battlefield-1/",
-        "summary": "关于下一部007电影主角的传闻不断，最新人选为36岁演员杰克·劳登，他曾出演游戏《战地1》相关作品。",
-        "comment": "选角传闻热度高，但官方未证实。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-3.15.09-PM.png?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《绝地潜兵2》更新7.0：NPC可回应拥抱",
-        "link": "https://www.gamespot.com/articles/helldivers-2-npcs-will-hug-you-back-now-even-when-no-one-else-will/",
-        "summary": "《绝地潜兵2》7.0版更新“无自由”上线，大幅改动SEAF士兵NPC行为，现在玩家拥抱时NPC会回应，增强互动体验。",
-        "comment": "细节互动提升沉浸感，但核心玩法仍需观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Helldivers-2-Devoid-Of-Liberty-SEAF-Updates.jpg?w=300",
-        "score": 91
       }
     ]
   }
