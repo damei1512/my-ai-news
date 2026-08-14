@@ -4,53 +4,33 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "企业AI",
-        "title": "OpenAI报告：企业如何从AI辅助走向AI执行",
+        "tag": "人工智能",
+        "title": "OpenAI报告：企业如何将AI从辅助推向执行",
         "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
         "summary": "OpenAI研究显示，企业正采用代理式AI，使用ChatGPT和Codex，前沿公司在AI应用上领先。",
-        "comment": "企业AI应用正从辅助转向执行，领先者优势明显。",
+        "comment": "代理式AI成企业新宠，落地速度决定竞争力。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI原生",
-        "title": "RingCentral借助ChatGPT Work与Codex构建AI原生工作流",
+        "tag": "AI",
+        "title": "RingCentral借助ChatGPT Work与Codex加速AI产品开发",
         "link": "https://openai.com/index/ringcentral",
-        "summary": "RingCentral利用ChatGPT Work和Codex加速AI产品开发，并集中工程与运营的智能，提升效率与协作。",
-        "comment": "企业级AI落地需全栈整合，RingCentral提供了可参考的范式。",
+        "summary": "RingCentral利用ChatGPT Work和Codex加速AI产品开发，并集中工程与运营的智能，提升效率。",
+        "comment": "企业级AI落地范例，值得关注其运营整合。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI水印",
-        "title": "Claude新水印引用户不满：担心被雇主或学校发现使用AI",
+        "tag": "AI",
+        "title": "Claude新水印引用户不满：担心被用于检测工作与学业作弊",
         "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-        "summary": "Anthropic为Claude引入水印系统，部分用户担心在工作和学习中滥用AI会被发现，在社交媒体上表达不满。",
-        "comment": "水印技术是双刃剑，用户担忧暴露滥用行为。",
+        "summary": "Anthropic为Claude引入水印系统，引发部分用户抗议，认为其将暴露他们在工作和课堂上的使用行为，可能影响隐私与诚信评价。",
+        "comment": "水印技术双刃剑，隐私与反作弊需平衡。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "马斯克携24小时干活Agent回归，Cursor团队打造",
-        "link": "https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "马斯克推出由Cursor团队打造的Agent，可24小时不间断工作，提升效率，引发科技界关注。",
-        "comment": "AI Agent落地加速，但实际效果待验证。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "DeepSeek",
-        "title": "实测DeepSeek V4 Pro：能力直逼Fable 5，藏大招",
-        "link": "https://www.ifanr.com/1674965?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测DeepSeek V4 Pro正式版，性能接近Fable 5，并发现其隐藏的AI Agent功能，展现强劲实力。",
-        "comment": "国产模型再突破，Agent能力成亮点。",
-        "image": "",
-        "score": 92
       }
     ]
   }
