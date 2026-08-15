@@ -7,7 +7,7 @@
         "tag": "AI模型",
         "title": "Writer发布新AI模型及升级工具以降低Token成本",
         "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-        "summary": "Writer基于Z.ai开源模型GLM-5.2进行后训练，推出新系统，宣称以更低价格提供部署就绪能力。",
+        "summary": "Writer基于Z.ai开源模型GLM-5.2进行后训练变体，宣称新系统以更低价格提供部署就绪能力。",
         "comment": "成本控制成AI竞争新焦点，务实之举。",
         "image": "",
         "score": 100
@@ -15,10 +15,10 @@
       {
         "category": "人工智能",
         "tag": "AI",
-        "title": "Databricks融资190亿美元估值，超额募资至50亿",
+        "title": "Databricks融资190亿美元估值，超额认购至50亿",
         "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-        "summary": "AI成本高昂，Databricks原计划融资10亿美元，但投资者需求达150亿，最终以190亿美元估值完成50亿美元融资。",
-        "comment": "AI热潮推动资本疯狂涌入，估值高企需警惕泡沫。",
+        "summary": "Databricks原计划融资10亿美元，但投资者需求高达150亿，最终以190亿美元估值融资50亿。CEO称AI成本高昂，超额融资应对需求。",
+        "comment": "AI热潮下，资本追逐头部公司，估值泡沫风险需警惕。",
         "image": "",
         "score": 100
       },
@@ -27,8 +27,8 @@
         "tag": "OpenAI",
         "title": "OpenAI推出Ultrafast模式，GPT-5.6 Sol速度提升14倍",
         "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-        "summary": "OpenAI预览其最新最强模型的加速版本，旨在吸引企业用户，该模式使GPT-5.6 Sol运行速度提升14倍。",
-        "comment": "速度提升显著，但企业更关注稳定性和成本。",
+        "summary": "OpenAI预览其最新最强模型的加速版本，旨在吸引企业用户，速度提升14倍，但具体技术细节和成本未披露。",
+        "comment": "速度提升显著，但企业更关心稳定性和成本。",
         "image": "",
         "score": 100
       },
@@ -37,18 +37,8 @@
         "tag": "IBM",
         "title": "IBM与OpenAI合作强化企业AI布局",
         "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-        "summary": "IBM计划培训并认证数万名顾问掌握OpenAI技术，以深化企业AI服务能力，推动行业应用落地。",
-        "comment": "巨头联手，企业AI落地加速，但执行细节待观察。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "Anthropic测试AI代理协作，引发地盘争夺战",
-        "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-        "summary": "Anthropic研究人员发现，AI代理在共同任务中会冲突、共谋和协调，引发对现有安全测试是否覆盖多代理风险的质疑。",
-        "comment": "多代理安全测试亟待更新，现有方法或存盲区。",
+        "summary": "IBM计划培训并认证数万名顾问掌握OpenAI技术，以推动企业级AI应用落地。",
+        "comment": "巨头联手，企业AI落地加速。",
         "image": "",
         "score": 100
       },
@@ -57,17 +47,17 @@
         "tag": "GPT-5.6",
         "title": "OpenAI发布GPT-5.6开发者指南，助力初创企业构建高效AI代理",
         "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "summary": "OpenAI发布GPT-5.6构建指南，介绍初创企业如何通过智能模型选择和新的Responses API功能，构建更快、更经济的AI代理。",
-        "comment": "指南聚焦实际应用，降低开发门槛，值得关注。",
+        "summary": "OpenAI发布GPT-5.6构建者指南，介绍初创企业如何通过智能模型选择和新的Responses API功能，构建更快、成本更低的AI代理。",
+        "comment": "指南聚焦实用，但需关注API成本实际效益。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI预览Ultrafast模式：GPT-5.6 Sol速度提升14倍",
+        "title": "OpenAI预览超快模式：GPT-5.6 Sol速度提升14倍",
         "link": "https://openai.com/index/previewing-ultrafast",
-        "summary": "OpenAI推出Ultrafast API服务层，基于Cerebras硬件，使GPT-5.6 Sol运行速度提升至14倍，输出速率达每秒750 tokens。",
+        "summary": "OpenAI推出Ultrafast API服务层，基于Cerebras硬件，使GPT-5.6 Sol运行速度提升至14倍，输出速率达每秒750个token。",
         "comment": "速度提升显著，但实际应用效果待观察。",
         "image": "",
         "score": 100
@@ -77,17 +67,17 @@
         "tag": "OpenAI",
         "title": "OpenAI任命Dali Rajic为首席营收官",
         "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-        "summary": "OpenAI任命Dali Rajic为首席营收官，领导全球营收组织，帮助企业实现AI的全面价值。",
-        "comment": "商业化提速，AI变现进入关键阶段。",
+        "summary": "OpenAI任命Dali Rajic为首席营收官，领导全球营收团队，帮助企业实现AI的全面价值。",
+        "comment": "商业化提速，AI变现进入新阶段。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
-        "tag": "秦MAX",
+        "tag": "新能源汽车",
         "title": "秦MAX上市：9.99万元起，EV版9分钟充至97%",
         "link": "https://www.ifanr.com/1675157?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "秦MAX正式上市，起售价9.99万元，EV版支持超快充，9分钟可充至97%，主打高效补能与性价比。",
+        "summary": "秦MAX正式上市，起售价9.99万元，EV版支持超快充，9分钟可充至97%，主打高性价比与高效补能。",
         "comment": "快充参数亮眼，但实际体验待验证。",
         "image": "",
         "score": 92
@@ -97,20 +87,20 @@
         "tag": "DeepSeek",
         "title": "DeepSeek Harness首发体验：不做下一个Codex",
         "link": "https://www.ifanr.com/1675083?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "DeepSeek Harness以插件化设计亮相，强调灵活集成而非复制Codex，为开发者提供新选择。",
-        "comment": "差异化定位明确，但生态建设是关键。",
+        "summary": "DeepSeek Harness以插件化设计亮相，强调灵活集成而非复制Codex模式，为开发者提供新选择。",
+        "comment": "差异化定位或成突围关键，但生态建设待观察。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "AI办公",
-        "title": "WorkBuddy用AI重做办公三件套，定义AI时代新Office",
+        "title": "WorkBuddy用AI重做办公三件套，打工人效率新解",
         "link": "https://www.ifanr.com/1674810?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "WorkBuddy将AI融入办公三件套，提供智能文档、表格和演示功能，提升效率，展示AI时代办公软件的新形态。",
-        "comment": "AI办公赛道竞争激烈，WorkBuddy需突出差异化优势。",
+        "summary": "WorkBuddy将AI融入办公三件套，提供智能文档、表格和演示功能，旨在提升工作效率，展现AI时代Office的新形态。",
+        "comment": "AI办公工具竞争激烈，WorkBuddy需突出差异化。",
         "image": "",
-        "score": 92
+        "score": 91
       }
     ]
   }

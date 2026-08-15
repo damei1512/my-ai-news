@@ -3,74 +3,54 @@
     "week": "周六",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "SpaceX",
+        "title": "SpaceX正式完成对AI编程公司Cursor的收购",
+        "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "summary": "AI编程初创公司Cursor正式并入SpaceX，交易完成，具体金额未披露。此举显示SpaceX在软件与AI工具领域的布局。",
+        "comment": "航天巨头收购AI编程工具，跨界整合值得关注。",
+        "image": "",
+        "score": 100
+      },
+      {
         "category": "游戏影视",
         "tag": "X战警",
-        "title": "漫威X战警重启阵容公布，亚当·德赖弗等加盟",
+        "title": "漫威X战警重启阵容公布：亚当·德赖弗等加盟",
         "link": "https://www.ign.com/articles/x-men-cast-confirmed-to-include-inde-navarette-as-rogue-adam-driver-as-mister-sinister-maya-boyd-as-storm-and-more-d23-2026",
-        "summary": "漫威在D23确认新《X战警》电影阵容，包括Inde Navarrette饰罗刹女、亚当·德赖弗饰险恶先生、Maya Boyd饰风暴女等。",
-        "comment": "选角有惊喜，但重启能否超越经典存疑。",
+        "summary": "漫威在D23公布新《X战警》电影演员名单，包括Inde Navarrette饰罗刹女、亚当·德赖弗饰险恶先生、Maya Boyd饰风暴女等。",
+        "comment": "选角大胆，粉丝期待值拉满。",
         "image": "https://assets-prd.ignimgs.com/2026/08/15/x-men-mcu-movie-cast-2-1786769842356.png",
         "score": 96
       },
       {
         "category": "游戏影视",
-        "tag": "王国之心4",
-        "title": "《王国之心4》新预告发布，2027年底发售，Disney+动画同步推出",
-        "link": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
-        "summary": "在D23展会上，Square Enix公布了《王国之心4》新预告，确认发售窗口为2027年底，并意外宣布将推出Disney+动画系列。",
-        "comment": "系列新作与动画联动，IP扩展力度空前。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/via-d23-16x9-dcd-1786762949244.jpg",
-        "score": 96
+        "tag": "掌机",
+        "title": "掌机游戏PC面临内存危机，或致市场萎缩",
+        "link": "https://www.ign.com/articles/i-love-handhelds-but-im-worried-the-ram-crisis-is-going-to-kill-them",
+        "summary": "掌机游戏PC性能逐年提升，但内存价格飙升导致成本高企，玩家和厂商均面临困境，市场前景堪忧。",
+        "comment": "内存涨价或成掌机普及最大障碍。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/13/i3q-yq7zrq-4c8ebi4b0k62ioaslgfza6riql33kjqe-1786655170960.jpeg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威",
+        "title": "漫威X战警重启无金刚狼，新方向令人期待",
+        "link": "https://www.ign.com/articles/who-needs-wolverine-why-were-pumped-for-marvels-x-men-reboot-d23-2026",
+        "summary": "漫威在D23公布X战警重启计划，确认金刚狼缺席，但主创表示这是全新视角，聚焦团队核心，引发粉丝热议。",
+        "comment": "大胆去狼，或为系列注入新活力。",
+        "image": "https://assets-prd.ignimgs.com/2024/04/22/mixcollage-22-apr-2024-02-47-pm-3134-1713816320067.jpg",
+        "score": 95
       },
       {
         "category": "游戏影视",
         "tag": "星球大战",
-        "title": "《星球大战：星际战斗机》首支预告亮相D23",
+        "title": "《星球大战：星际战斗机》首曝预告，D23现场直击",
         "link": "https://www.ign.com/articles/first-trailer-for-star-wars-starfighter-shown-at-d23-heres-what-we-saw",
-        "summary": "卢卡斯影业在迪士尼粉丝活动D23上展示了《星球大战：星际战斗机》的首支预告片，揭示了游戏画面与剧情线索。",
-        "comment": "经典IP新作，预告信息量足，值得期待。",
+        "summary": "卢卡斯影业在迪士尼粉丝大会D23上首次展示了《星球大战：星际战斗机》的预告片，影片聚焦星际战机空战，具体细节待官方公布。",
+        "comment": "星战空战题材回归，粉丝期待值拉满。",
         "image": "https://assets-prd.ignimgs.com/2026/08/15/star-wars-1786770314460.jpg",
         "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "复仇者联盟",
-        "title": "《复仇者联盟：末日》新预告：毁灭博士组建哨兵大军",
-        "link": "https://www.ign.com/articles/new-avengers-doomsday-trailer-shows-doctor-doom-raising-an-army-of-sentinels",
-        "summary": "漫威发布《复仇者联盟：末日》新预告，展示毁灭博士的真正力量及其哨兵军团，预示更大威胁。",
-        "comment": "预告信息量大，哨兵军团或成复联最大危机。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/screenshot-2026-08-15-051222-1786767391750.png",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA6",
-        "title": "希望GTA6借鉴GTA4的诸多优点",
-        "link": "https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4",
-        "summary": "作者时隔多年重玩GTA4，发现其中许多设计元素值得Rockstar在GTA6中借鉴，包括叙事深度、角色刻画和城市氛围。",
-        "comment": "怀旧视角下，GTA4的经典元素或成GTA6成功关键。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/14/gta-4-6-blog-1786721368370.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "王国之心",
-        "title": "迪士尼动画掌门不排除《王国之心》电影化可能",
-        "link": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
-        "summary": "迪士尼动画首席创意官Jared Bush谈及《王国之心》电影改编，未否定该设想，但未透露具体计划。",
-        "comment": "IP联动潜力大，但改编难度高，需谨慎。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/ign-jared-bush-kingdom-hearts-interview-1786779800354.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "公主日记",
-        "title": "安妮·海瑟薇称《公主日记3》进展顺利，迪士尼力求完美",
-        "link": "https://www.ign.com/articles/the-princess-diaries-3-is-taking-so-long-because-disney-is-working-so-hard-to-get-it-right-anne-hathaway-says-d23",
-        "summary": "在D23上，安妮·海瑟薇确认《公主日记3》正在稳步推进，迪士尼为求完美而耗时较长。",
-        "comment": "续集慢工出细活，粉丝期待值拉满。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/the-princess-diaries-3-1786762919677.png",
-        "score": 94
       },
       {
         "category": "游戏影视",
@@ -78,76 +58,106 @@
         "title": "《冰雪奇缘3》首曝预告：新反派登场，雪宝或迎爱情线",
         "link": "https://www.ign.com/articles/frozen-3-footage-teases-new-villain-and-it-looks-like-olaf-is-getting-a-love-interest",
         "summary": "迪士尼在D23粉丝活动上首次展示《冰雪奇缘3》片段，透露新反派形象，并暗示雪宝将拥有爱情线。",
-        "comment": "经典IP续作求变，爱情线或成新看点。",
+        "comment": "经典IP续作求新，爱情线或成亮点。",
         "image": "https://assets-prd.ignimgs.com/2026/08/15/gettyimages-2290544889-1786789934708.jpg",
-        "score": 93
+        "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "迪士尼",
-        "title": "迪士尼真人版《魔发奇缘》定档2028年",
-        "link": "https://www.ign.com/articles/disneys-live-action-tangled-remake-sets-2028-release-date-d23-2026",
-        "summary": "迪士尼在D23 2026上确认，真人版《魔发奇缘》将于2028年上映，具体日期未公布。",
-        "comment": "经典动画真人化热潮持续，但需警惕审美疲劳。",
-        "image": "http://assets2.ignimgs.com/2015/06/02/disney-tangled-1280jpg-4d400d.jpg",
+        "tag": "王国之心",
+        "title": "迪士尼动画负责人不排除《王国之心》电影可能",
+        "link": "https://www.ign.com/articles/disney-animation-studios-boss-jared-bush-isnt-ruling-out-a-possible-kingdom-hearts-movie",
+        "summary": "迪士尼动画首席创意官贾里德·布什谈及《王国之心》电影改编可能性，未排除该计划，引发粉丝期待。",
+        "comment": "IP跨媒介开发信号积极，但落地仍需时日。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/15/ign-jared-bush-kingdom-hearts-interview-1786779800354.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA",
+        "title": "希望GTA6借鉴GTA4的诸多优点",
+        "link": "https://www.ign.com/articles/i-hope-gta-6-borrows-a-lot-from-gta-4",
+        "summary": "作者重玩GTA4，发现其细节、叙事和城市氛围值得GTA6借鉴，期待Rockstar能吸收这些优点。",
+        "comment": "怀旧视角，但点出了系列精髓。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/14/gta-4-6-blog-1786721368370.jpg",
         "score": 93
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "曝苹果与阿里合作训练AI，微信否认朋友圈二次编辑",
+        "title": "苹果或与阿里合作AI，微信否认朋友圈二次编辑",
         "link": "https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果或与阿里合作训练AI模型，微信明确永不推出朋友圈二次编辑，追觅首台手机售价20万交付，另有DeepMind裁员、WorkBuddy接入GLM-5.3等动态。",
-        "comment": "苹果联姻阿里，AI竞争格局再添变数。",
+        "summary": "曝苹果与阿里合作训练AI模型；微信明确永不推出朋友圈二次编辑；追觅首台手机售价20万交付。另悉DeepSeek研发情感AI，Google DeepMind或裁员。",
+        "comment": "苹果联阿里补AI短板，微信守旧引热议。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
+        "tag": "星际迷航",
+        "title": "《星际迷航：奇异新世界》演员谈剧终：不视为最终集",
+        "link": "https://www.ign.com/articles/star-treks-babs-olusanmokun-on-the-end-of-strange-new-worlds-i-dont-see-it-as-a-final-episode",
+        "summary": "饰演M'Benga医生的Babs Olusanmokun表示，他不将《奇异新世界》的结局视为最终集，暗示未来可能回归。",
+        "comment": "演员留悬念，剧集或未真正终结。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/14/babs-olusanmokun-strange-new-worlds-thumb-1786745630955.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "核周报8.15：影之刃零实机、战锤延期等游戏要闻",
+        "link": "https://www.gcores.com/radios/218100",
+        "summary": "本期汇总《影之刃零》新实机与预购、《战锤40K：战争黎明4》延期、《黑神话》七折、《空之轨迹2nd》预告、索尼金刚狼限定主机等游戏动态。",
+        "comment": "游戏行业动态密集，延期与折扣并存，玩家需关注重点作品。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
         "tag": "视觉小说",
-        "title": "《妹妹、他人、妄想症》发售，暗黑视觉小说新作",
+        "title": "《妹妹、他人、妄想症》发售，原班人马打造暗黑视觉小说",
         "link": "https://www.gcores.com/articles/218391",
-        "summary": "《主播女孩重度依赖》原班人马打造的暗黑视觉小说《妹妹、他人、妄想症》现已登陆Steam，国区售价39元，首发折扣20%，折后31.2元。玩家扮演有通感天赋的文学系大学生，体验独特剧情。",
-        "comment": "原班人马加持，暗黑题材或成黑马。",
+        "summary": "《主播女孩重度依赖》原班人马打造的暗黑视觉小说《妹妹、他人、妄想症》已在Steam发售，国区39元，首发八折31.2元。主角为文学系大学生，拥有通感天赋，剧情围绕其展开。",
+        "comment": "原班人马加持，暗黑题材或成小众黑马。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "对话某幻君：从偷偷玩电脑到百大UP主的成长之路",
+        "title": "某幻君谈游戏回忆：从偷偷玩电脑到百大UP主",
         "link": "https://www.gcores.com/radios/218365",
-        "summary": "机核播客邀请百大UP主某幻君，畅谈游戏快乐回忆与成长经历，分享从偷偷玩电脑到成为知名创作者的历程。",
-        "comment": "真实成长故事，展现游戏与创作的双向奔赴。",
+        "summary": "本期核电波邀请百大UP主某幻君，分享游戏快乐回忆与成长经历，主播Nadya、西蒙、Ryoma共同主持。",
+        "comment": "游戏回忆引发共鸣，成长故事激励人心。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "末世孤雄",
-        "title": "《末世孤雄》新作Steam页面公开，融合RTS与塔防",
+        "title": "《末世孤雄》游戏化新作Steam页面公开",
         "link": "https://www.gcores.com/articles/218368",
-        "summary": "FWGames旗下《末世孤雄 通往乐园的道路》Steam页面公开，改编自动画，以原创剧情展开，玩家在僵尸末日中与伙伴寻找乐园，玩法融合即时战略与塔防。",
-        "comment": "经典IP改编，玩法创新值得期待，但需关注实际体验。",
+        "summary": "FWGames公开《末世孤雄 通往乐园的道路》Steam页面，改编自动画，融合即时战略与塔防玩法，玩家在僵尸末日中与伙伴寻找乐园。",
+        "comment": "经典IP改编，玩法创新值得期待。",
         "image": "",
-        "score": 90
+        "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "漫威",
-        "title": "漫威发布《幻视任务》首支预告，奥创以人形现身",
-        "link": "https://www.ign.com/articles/marvel-studios-reveal-debut-visionquest-trailer-james-spaders-ultron-shown-in-human-form",
-        "summary": "漫威在最新活动中公布《幻视任务》首支预告，詹姆斯·斯派德饰演的奥创首次以人类形态亮相，引发粉丝热议。",
-        "comment": "奥创人形化是重大剧情突破，值得期待。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/screenshot-2026-08-15-050442-1786766709762.png",
-        "score": 90
+        "tag": "LitRPG",
+        "title": "《地下城爬行者卡尔》剧集成败或定LitRPG改编未来",
+        "link": "https://www.ign.com/articles/the-dungeon-crawler-carl-tv-series-could-make-or-break-future-litrpg-book-adaptations",
+        "summary": "IGN报道，热门LitRPG小说《地下城爬行者卡尔》将改编电视剧，其成败可能决定该类型作品在影视市场的后续发展。",
+        "comment": "改编风险高，但值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/23/91rhmscu0sl-sl1500-1-1776982606954.jpg",
+        "score": 89
       },
       {
         "category": "时事热点",
-        "tag": "印尼地震",
-        "title": "印尼7.7级强震已致38人遇难",
+        "tag": "印尼",
+        "title": "印尼7.7级强震已致47人遇难",
         "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "summary": "印尼东部弗洛勒斯岛发生7.7级地震，已致至少38人死亡，搜救行动正在进行，寻找幸存者。",
+        "summary": "印尼东部弗洛勒斯岛发生7.7级地震，已致至少47人死亡，搜救行动正在进行，寻找幸存者。",
         "comment": "强震伤亡严重，救援效率亟待提升。",
         "image": "",
         "score": 88
@@ -155,10 +165,10 @@
       {
         "category": "时事热点",
         "tag": "以色列",
-        "title": "以色列空袭黎巴嫩南部致9人死亡",
+        "title": "以色列空袭黎巴嫩南部致11人死亡",
         "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列军方称打击真主党恐怖设施，回应此前针对以军的行动。黎巴嫩当局报告9人死亡。",
-        "comment": "冲突升级风险加剧，国际社会需紧急斡旋。",
+        "summary": "以色列军方称打击了真主党恐怖基础设施，回应其针对以军士兵的行动。黎巴嫩当局报告11人死亡。",
+        "comment": "冲突升级，平民伤亡风险加剧。",
         "image": "",
         "score": 88
       },
@@ -167,30 +177,60 @@
         "tag": "韩国",
         "title": "韩国提议与朝鲜正式谈判结束战争状态",
         "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-        "summary": "韩国总统李在明提议与朝鲜举行正式会谈，以结束自1953年停战以来持续冻结的冲突状态。",
-        "comment": "此举或为半岛和平打开窗口，但需朝方回应。",
+        "summary": "韩国总统李在明提议与朝鲜举行会谈，以正式结束自1953年停战以来冻结的冲突状态。",
+        "comment": "此举或为半岛和平打开新窗口，但需朝方回应。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国",
+        "title": "美国弗吉尼亚州立大学枪击致5人受伤，多名嫌疑人仍在逃",
+        "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+        "summary": "当地时间周六凌晨1点28分，警方接到弗吉尼亚州立大学宿舍区枪击报告，5人中弹，多名嫌疑人尚未被捕。",
+        "comment": "校园枪击频发，美国控枪议题再引关注。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "比利时",
+        "title": "比利时自然保护区野火肆虐，消防员奋力扑救",
+        "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+        "summary": "比利时一主要公园发生野火，火势猛烈，被描述为该国近年来最严重的火灾。消防员正在全力扑救。",
+        "comment": "极端天气下生态脆弱，需警惕野火频发。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏指南",
+        "title": "IGN指南免费一个月助你100%通关漫威蜘蛛侠",
+        "link": "https://www.ign.com/articles/100-marvels-spider-man-games-with-one-month-of-free-ign-guides-checklists",
+        "summary": "IGN推出漫威蜘蛛侠游戏指南，提供完整检查清单，限时免费一个月，帮助玩家达成100%完成度。",
+        "comment": "实用工具，但仅限一个月，需抓紧。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/14/spider-man-checklists-1786740086703.png",
+        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "BBC",
         "title": "BBC在帕诺拉马诉讼中寻求传唤特朗普家人",
         "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC律师称，特朗普家人对2021年1月6日其在国会大厦外的演讲意图有个人了解，因此申请传唤他们作证。",
-        "comment": "此举或加剧法律与政治紧张，但凸显证据重要性。",
+        "summary": "BBC律师称特朗普家人对2021年1月6日国会大厦外演讲意图有个人了解，要求其作证。",
+        "comment": "法律程序升级，或揭示更多内幕。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "泰国",
-        "title": "泰国苏梅岛摩托艇倾覆，父子三人海上漂流16小时获救",
+        "title": "泰国摩托艇倾覆，父子三人海上漂流16小时获救",
         "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-        "summary": "一名父亲与两个年幼儿子在泰国苏梅岛附近海域因摩托艇倾覆，漂流一夜后获救，历时16小时。",
-        "comment": "海上安全警钟再响，家庭出游需谨慎。",
+        "summary": "泰国苏梅岛附近，一名父亲与两个年幼儿子因摩托艇倾覆，在海上漂流一夜，16小时后获救。",
+        "comment": "旅游安全警示：水上活动需加强防护。",
         "image": "",
-        "score": 85
+        "score": 86
       }
     ]
   }
