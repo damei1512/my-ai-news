@@ -3,14 +3,164 @@
     "week": "周六",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "星球大战",
+        "title": "《星球大战：星际战斗机》D23首曝预告",
+        "link": "https://www.ign.com/articles/first-trailer-for-star-wars-starfighter-shown-at-d23-heres-what-we-saw",
+        "summary": "卢卡斯影业在迪士尼粉丝活动D23上展示了《星球大战：星际战斗机》的首支预告片，透露了游戏画面与剧情线索。",
+        "comment": "经典IP新作，预告信息量足，值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/15/star-wars-1786770314460.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威",
+        "title": "漫威X战警重启电影卡司公布，亚当·德赖弗等加盟",
+        "link": "https://www.ign.com/articles/x-men-cast-confirmed-to-include-inde-navarette-as-rogue-adam-driver-as-mister-sinister-maya-boyd-as-storm-and-more-d23-2026",
+        "summary": "漫威在D23公布新X战警电影阵容，包括Inde Navarrette饰罗刹女、亚当·德赖弗饰险恶先生、Maya Boyd饰暴风女等。",
+        "comment": "选角大胆，但险恶先生人选引热议。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/15/x-men-mcu-movie-cast-2-1786769842356.png",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "复仇者联盟",
+        "title": "《复仇者联盟：末日》新预告：毁灭博士组建哨兵大军",
+        "link": "https://www.ign.com/articles/new-avengers-doomsday-trailer-shows-doctor-doom-raising-an-army-of-sentinels",
+        "summary": "漫威发布《复仇者联盟：末日》新预告，展示毁灭博士的真实力量及其哨兵机器人军队，为影片造势。",
+        "comment": "预告信息量大，毁灭博士成核心威胁，值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/15/screenshot-2026-08-15-051222-1786767391750.png",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "王国之心",
+        "title": "《王国之心4》新预告公布，2027年底发售，Disney+动画同步推出",
+        "link": "https://www.ign.com/articles/kingdom-hearts-4-gets-new-trailer-late-2027-release-window-and-a-disney-series",
+        "summary": "在D23活动上，《王国之心4》发布新预告，确认2027年底发售窗口，并意外宣布将推出Disney+动画系列。",
+        "comment": "系列粉丝期待已久，但2027年窗口略显遥远。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/15/via-d23-16x9-dcd-1786762949244.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "公主日记3",
+        "title": "安妮·海瑟薇确认《公主日记3》进展顺利，迪士尼力求完美",
+        "link": "https://www.ign.com/articles/the-princess-diaries-3-is-taking-so-long-because-disney-is-working-so-hard-to-get-it-right-anne-hathaway-says-d23",
+        "summary": "在D23大会上，安妮·海瑟薇表示《公主日记3》正在稳步推进，迪士尼正努力确保影片质量，因此耗时较长。",
+        "comment": "续集慢工出细活，粉丝期待值拉满。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/15/the-princess-diaries-3-1786762919677.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "星球大战",
+        "title": "《阿索卡》第二季定档2027年1月20日",
+        "link": "https://www.ign.com/articles/star-wars-disney-series-ahsoka-season-2-finally-has-a-release-date",
+        "summary": "迪士尼+《星球大战》系列《阿索卡》第二季宣布将于2027年1月20日首播，具体剧情细节尚未公布。",
+        "comment": "定档虽远，但粉丝可安心期待。",
+        "image": "https://assets-prd.ignimgs.com/2023/10/13/ahsokafinale-blogroll-1697155213632.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "辛普森一家",
+        "title": "《辛普森一家：飙车》将回归，主创确认",
+        "link": "https://www.ign.com/articles/the-simpsons-hit-run-coming-back-in-some-form-creator-matt-groening-says",
+        "summary": "《辛普森一家：飙车》主创马特·格勒宁透露，游戏将以某种形式回归，具体细节未公布，引发玩家期待。",
+        "comment": "经典游戏复活，情怀与商业双赢。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/13/simpsons-hit-and-run-remake-1677768262562-1773425381087.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "迪士尼",
+        "title": "迪士尼D23 2026娱乐展：漫威、星战等全部公告汇总",
+        "link": "https://www.ign.com/articles/everything-announced-at-the-d23-disney-entertainment-showcase-2026",
+        "summary": "IGN汇总迪士尼D23 2026娱乐展全部公告，涵盖漫威、星球大战、皮克斯等新预告与独家内容。",
+        "comment": "信息量大，但需甄别实质内容与画饼。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/14/d23-showcase-blogroll-1786736508215.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "迪士尼",
+        "title": "迪士尼真人版《魔发奇缘》定档2028年",
+        "link": "https://www.ign.com/articles/disneys-live-action-tangled-remake-sets-2028-release-date-d23-2026",
+        "summary": "迪士尼在D23 2026上确认，真人版《魔发奇缘》将于2028年上映，具体日期未公布。",
+        "comment": "经典动画真人化再添一员，档期尚远，期待选角。",
+        "image": "http://assets2.ignimgs.com/2015/06/02/disney-tangled-1280jpg-4d400d.jpg",
+        "score": 93
+      },
+      {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果或与阿里合作AI，微信否认朋友圈二次编辑，追觅手机交付",
+        "title": "曝苹果与阿里合作训练AI，微信否认朋友圈二次编辑",
         "link": "https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "曝苹果与阿里合作训练AI模型；微信称永不推出朋友圈二次编辑；追觅首台手机售价20万并交付。另有DeepMind裁员、WorkBuddy接入GLM-5.3、DeepSeek研发情感AI等动态。",
-        "comment": "科技巨头动向密集，AI竞争与合作成主线。",
+        "summary": "苹果或与阿里合作训练AI模型，微信明确不推朋友圈二次编辑，追觅首台手机售价20万交付，另有DeepMind裁员、WorkBuddy接入GLM-5.3、DeepSeek研发情感AI等动态。",
+        "comment": "科技巨头AI布局加速，但产品落地仍需观察。",
         "image": "",
         "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "视觉小说",
+        "title": "《妹妹、他人、妄想症》发售，暗黑视觉小说新作",
+        "link": "https://www.gcores.com/articles/218391",
+        "summary": "《主播女孩重度依赖》原班人马打造的暗黑视觉小说《妹妹、他人、妄想症》已在Steam发售，国区39元，首发折扣20%至31.2元。主角为文学系大学生，拥有通感天赋，剧情围绕其展开。",
+        "comment": "原班人马加持，暗黑题材或成黑马。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "对话某幻君：从偷偷玩电脑到百大UP主的成长之路",
+        "link": "https://www.gcores.com/radios/218365",
+        "summary": "本期核电波邀请百大UP主某幻君，畅谈游戏快乐回忆与创作历程，分享从玩家到内容创作者的转变，并探讨游戏与生活的连接。",
+        "comment": "真实成长故事，展现游戏内容创作的多元价值。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "末世孤雄",
+        "title": "《末世孤雄》新作Steam页面上线，原创剧情塔防玩法",
+        "link": "https://www.gcores.com/articles/218368",
+        "summary": "FWGames公开《末世孤雄 通往乐园的道路》Steam页面，改编自动画，原创剧情，融合即时战略与塔防，玩家在僵尸末日中与伙伴寻找乐园。",
+        "comment": "经典IP改编游戏，玩法创新值得期待。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威",
+        "title": "漫威发布《幻视任务》首支预告，奥创以人形现身",
+        "link": "https://www.ign.com/articles/marvel-studios-reveal-debut-visionquest-trailer-james-spaders-ultron-shown-in-human-form",
+        "summary": "漫威影业公布《幻视任务》首支预告，詹姆斯·斯派德饰演的奥创以人类形态亮相，引发粉丝热议。",
+        "comment": "奥创人形化设定大胆，或成漫威新阶段关键。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/15/screenshot-2026-08-15-050442-1786766709762.png",
+        "score": 90
+      },
+      {
+        "category": "时事热点",
+        "tag": "印尼地震",
+        "title": "印尼弗洛勒斯岛海域7.7级强震致至少14人遇难",
+        "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "summary": "周六凌晨，印尼东部弗洛勒斯岛附近发生7.7级地震，已致至少14人死亡，震中位于海域，可能引发海啸风险。",
+        "comment": "强震伤亡凸显印尼防灾体系薄弱，需加强预警与应急。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "法律诉讼",
+        "title": "BBC在帕诺拉马诉讼中寻求传唤特朗普家人",
+        "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC律师称，特朗普家人对2021年1月6日其在国会大厦外的演讲意图有个人了解，因此申请传唤他们作证。",
+        "comment": "此举或加剧法律与媒体间的紧张关系。",
+        "image": "",
+        "score": 86
       }
     ]
   }
