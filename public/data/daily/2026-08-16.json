@@ -3,32 +3,42 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "AI信任",
+        "title": "Anthropic CEO称AI反弹本质是信任危机",
+        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "summary": "Dario Amodei反驳外界对其过度悲观描绘AI的批评，强调当前AI领域的反弹情绪根源在于信任缺失，呼吁业界重建公众信任。",
+        "comment": "信任危机直指行业痛点，但重建需实际行动。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "游戏影视",
+        "tag": "迪士尼",
+        "title": "D23 2026迪士尼体验展示：反派之地等重磅公布",
+        "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
+        "summary": "D23迪士尼体验展示会公布反派之地名称及主要景点，汽车主题园区游乐设施细节，以及迪士尼邮轮等新项目。",
+        "comment": "迪士尼持续扩张主题乐园版图，反派IP成新增长点。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/16/horizons2-1786847536577.png",
+        "score": 95
+      },
+      {
         "category": "游戏影视",
         "tag": "王国之心4",
-        "title": "《王国之心4》D23 2026新预告，米奇唐老鸭高飞可玩",
+        "title": "《王国之心4》D23预告：米奇唐老鸭高飞可玩",
         "link": "https://www.ign.com/articles/kingdom-hearts-4-gets-extended-gameplay-trailer-featuring-playable-mickey-donald-and-goofy-d23-2026",
-        "summary": "迪士尼与史克威尔艾尼克斯在D23 2026上发布《王国之心4》加长实机预告，首次展示米奇、唐老鸭和高飞的可玩角色。",
+        "summary": "D23 2026上，迪士尼与史克威尔艾尼克斯展示了《王国之心4》加长实机预告，首次呈现米奇、唐老鸭和高飞的可玩角色。",
         "comment": "经典三人组可玩，情怀与玩法双升级。",
         "image": "https://assets-prd.ignimgs.com/2026/08/16/kingdom-hearts-4-mickey-mouse-gameplay-1786841735431.png",
         "score": 95
       },
       {
         "category": "游戏影视",
-        "tag": "迪士尼",
-        "title": "D23 2026迪士尼体验展：乐园与邮轮新动态汇总",
-        "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
-        "summary": "在加州阿纳海姆本田中心举行的D23迪士尼体验展上，官方公布了迪士尼乐园、邮轮等多项新计划，涵盖景点更新与体验升级，本文持续更新中。",
-        "comment": "迪士尼持续加码体验经济，但创新力度待观察。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/16/horizons2-1786847536577.png",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
         "tag": "王国之心4",
-        "title": "《王国之心4》开发方承诺2027年底前发售，绝不跳票",
+        "title": "《王国之心4》官方承诺2027年底发售绝不延期",
         "link": "https://www.ign.com/articles/i-want-to-set-the-record-straight-that-is-not-happening-kingdom-hearts-4-devs-say-kh4-100-will-not-be-delayed-past-late-2027-launch-d23-2026",
-        "summary": "《王国之心4》联合总监安江泰和系列创作者野村哲也在D23上明确表示，游戏“100%”不会延期，将按计划在2027年底前发售。",
-        "comment": "承诺虽硬，但开发周期仍长，需看后续进展。",
+        "summary": "《王国之心4》联合总监安江泰和系列创作者野村哲也在D23 2026上向粉丝保证，游戏“100%”不会推迟至2027年底发售窗口之后。",
+        "comment": "官方罕见明确表态，但开发风险仍需警惕。",
         "image": "https://assets-prd.ignimgs.com/2026/08/16/kingdom-hearts-4-delay-riku-1786841290736.png",
         "score": 94
       },
@@ -37,68 +47,118 @@
         "tag": "Dota2",
         "title": "中国战队全部缺席《Dota2》TI15八强，创历史最差战绩",
         "link": "https://www.gcores.com/articles/218411",
-        "summary": "随着TR在TI15突围赛不敌Spirit，XG、VG、TR三支中国战队全部出局，无一晋级八强，创下自TI1以来最差战绩。正赛将于8月20日在上海举行。",
-        "comment": "中国Dota2遭遇滑铁卢，需反思青训与战术体系。",
+        "summary": "随着TR在TI15突围赛不敌Spirit，XG、VG、TR三支中国战队全部出局，无缘八强，创下自TI1以来最差成绩。正赛将于8月20日在上海举行。",
+        "comment": "中国Dota2遭遇滑铁卢，需反思青训与战术革新。",
         "image": "",
         "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "用161个新闻源养AI主编，它比人更懂大新闻",
+        "link": "https://www.ifanr.com/1675326?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "作者利用161个新闻源训练AI主编，通过算法筛选重要新闻，发现AI在信息质量和重要性判断上优于人工，并附有详细教程。",
+        "comment": "AI主编提升信息筛选效率，但需警惕算法偏见。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "科技圈最不受待见者的AI宣言引热议",
+        "link": "https://www.ifanr.com/1674733?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "一位科技圈边缘人物发表今年最激动人心的AI宣言，引发对未来是光明还是黑暗的讨论。",
+        "comment": "边缘视角或揭示AI发展另一面，值得关注。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "东北抗联",
+        "title": "东北抗联武器考：从缴获到自制",
+        "link": "https://www.gcores.com/radios/218101",
+        "summary": "本期节目结合《抵抗者》试玩，探讨东北抗联在雪原作战中使用的武器来源、收集、缴获、修理与制造故事，深入历史细节。",
+        "comment": "历史考据扎实，为游戏玩家提供真实背景。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "数码视频",
         "title": "对话热男HotGuys：想把快乐做到八十岁",
         "link": "https://www.gcores.com/radios/218405",
-        "summary": "本期邀请热男HotGuys创始人崔野和尹国威，从《国行顶配3》拆解剧情向数码视频制作全流程，并回顾创业起点、团队合作与创意管理难题。",
-        "comment": "创业故事真诚，制作细节有干货，值得一听。",
+        "summary": "本期邀请热男HotGuys联合创始人崔野和尹国威，拆解剧情向数码视频从创意到后期的完整流程，并回顾创业起点、团队合作及内容创意难题。",
+        "comment": "创业故事真诚，制作细节干货足，值得一听。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "暑期档",
-        "title": "2026暑期档中场盘点：爆款与撤档并存",
+        "title": "2026暑期档中场点兵：有的爆了，有的撤了",
         "link": "https://www.gcores.com/radios/218406",
-        "summary": "机核SP节目，喵臣串台青年度日指南，与主播拉帝短评暑期档前半段影片，包括《奥德赛》《蜘蛛侠》《痴迷》等，并预告完整盘点。",
+        "summary": "机核SP节目，喵臣串台青年度日指南，与主播拉帝快速短评暑期档前半段影片，包括《奥德赛》《蜘蛛侠》《三国第一部》等，并预告暑期档结束后的完整盘点。",
         "comment": "暑期档观察及时，但内容偏粉丝向，信息密度一般。",
         "image": "",
         "score": 89
       },
       {
         "category": "时事热点",
-        "tag": "印尼",
-        "title": "印尼致命地震致数千人流离失所，救援持续进行",
-        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "summary": "印尼地震已致至少51人死亡，数百栋房屋和公共建筑严重受损，数千人被迫撤离，救援工作仍在继续。",
-        "comment": "灾情严重，救援效率亟待提升。",
+        "tag": "俄乌冲突",
+        "title": "俄称2026年最大规模乌克兰袭击致至少7人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "summary": "莫斯科称乌克兰发动2026年最大规模袭击，至少7人死亡；俄方也对乌克兰发动致命打击，引发基辅多处火灾。",
+        "comment": "双方袭击升级，和平前景更加渺茫。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "交通事故",
-        "title": "波兰巴士在匈牙利高速路翻车致12人死亡",
+        "tag": "波兰",
+        "title": "波兰巴士在匈牙利高速路失控致12人死亡",
         "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-        "summary": "周日凌晨，一辆旅游巴士在匈牙利高速公路上翻车，造成12人死亡，数十人重伤。",
+        "summary": "一辆旅游巴士周日凌晨在匈牙利高速路翻车，造成12人死亡，数十人重伤。",
         "comment": "重大交通事故，凸显长途客运安全监管紧迫性。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "俄罗斯新一轮空袭乌克兰致五人死亡",
-        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰总统泽连斯基指责俄罗斯袭击民用基础设施，俄方称一仓库被击中。空袭造成至少五人死亡。",
-        "comment": "冲突持续升级，平民伤亡令人担忧。",
+        "tag": "印尼地震",
+        "title": "印尼致命地震致数千人流离失所，救援持续进行",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "summary": "印尼地震已致至少53人死亡，数百栋房屋和公共建筑严重受损，数千人被迫撤离，救援工作仍在继续。",
+        "comment": "灾情严重，救援效率与后续安置是关键考验。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "飓风",
-        "title": "飓风拉拉袭击夏威夷，强风暴雨肆虐",
+        "title": "飓风拉拉引发夏威夷山洪，强风暴雨持续",
         "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "summary": "飓风拉拉以强风和暴雨袭击夏威夷，若登陆将是34年来首次直接侵袭，当地已启动应急响应。",
-        "comment": "罕见直击，防灾考验严峻。",
+        "summary": "官员称，在受灾最严重地区，山洪可能冲走房屋，屋内或有人员被困。",
+        "comment": "灾情严峻，需警惕次生灾害。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "希腊",
+        "title": "希腊萨拉米纳岛双火灾致两人死亡，数百人撤离",
+        "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+        "summary": "希腊萨拉米纳岛发生两起火灾，造成两人死亡，数百人疏散。近200名消防员正努力阻止火势蔓延。",
+        "comment": "火灾频发，希腊应急能力面临考验。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "比利时",
+        "title": "比利时野火第三天面积翻倍，吞噬自然保护区",
+        "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+        "summary": "比利时一处自然保护区野火持续三天，过火面积翻倍，数百名消防员正努力控制火势。",
+        "comment": "极端天气下，欧洲生态安全面临严峻考验。",
         "image": "",
         "score": 87
       },
@@ -107,8 +167,18 @@
         "tag": "卡塔尔",
         "title": "卡塔尔否认扣押三名伊朗飞行员",
         "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "summary": "伊朗称其飞行员在美伊战争初期战机被卡塔尔击落后遭扣押，卡塔尔予以否认。",
+        "summary": "伊朗称其飞行员在美伊战争初期战机被卡塔尔击落后被扣押，卡塔尔对此予以否认。",
         "comment": "双方说法矛盾，局势或再添变数。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "盗窃",
+        "title": "意大利博物馆四幅文艺复兴名画被盗，疑为专业作案",
+        "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+        "summary": "四幅文艺复兴时期画作夜间从意大利博物馆被盗，未触发警报，警方怀疑是专业团伙所为。",
+        "comment": "安保漏洞令人担忧，专业窃贼瞄准艺术珍品。",
         "image": "",
         "score": 87
       },
@@ -118,9 +188,9 @@
         "title": "波兰乡村揭幕欧洲最高圣母玛利亚雕像",
         "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
         "summary": "这座55.6米高的混凝土雕像在波兰乡村揭幕，高度超过里约热内卢的基督像，成为欧洲最高圣母像。",
-        "comment": "宗教地标竞高，反映地方文化自信。",
+        "comment": "宗教地标竞高，信仰与旅游经济双驱动。",
         "image": "",
-        "score": 83
+        "score": 84
       }
     ]
   }
