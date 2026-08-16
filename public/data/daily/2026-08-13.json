@@ -5,30 +5,30 @@
       {
         "category": "人工智能",
         "tag": "AI",
-        "title": "Databricks融资190亿美元估值，超额募资至50亿",
+        "title": "Databricks融资190亿美元估值，超额认购至50亿",
         "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-        "summary": "Databricks原计划融资10亿美元，但投资者需求高达150亿，最终以190亿美元估值完成50亿美元融资。CEO称AI成本高昂，超额融资以应对需求。",
-        "comment": "AI热潮下，资本追逐头部公司，估值泡沫风险需警惕。",
+        "summary": "AI成本高昂，Databricks原计划融资10亿美元，但投资者需求达150亿，最终以190亿美元估值融资50亿。CEO表示因投资者热情而增加融资额。",
+        "comment": "AI热潮下，优质资产融资溢价明显，但高估值需业绩支撑。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "GPT-5.6",
         "title": "OpenAI发布GPT-5.6开发者指南，助力初创企业构建高效AI代理",
         "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "summary": "OpenAI发布GPT-5.6构建者指南，介绍初创企业如何利用新模型和Responses API，通过更智能的模型选择，构建更快、更具成本效益的AI代理。",
-        "comment": "指南强调实用性与成本控制，对开发者有直接参考价值。",
+        "summary": "OpenAI发布GPT-5.6构建者指南，介绍初创企业如何利用新模型和Responses API，通过更智能的模型选择，构建更快、更经济的AI代理。",
+        "comment": "官方指南凸显模型选择策略，对开发者有实操价值。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI预览超快模式：GPT-5.6 Sol速度提升14倍",
+        "title": "OpenAI预览Ultrafast模式：GPT-5.6 Sol速度提升14倍",
         "link": "https://openai.com/index/previewing-ultrafast",
-        "summary": "OpenAI推出Ultrafast API服务层，基于Cerebras硬件，使GPT-5.6 Sol运行速度提升14倍，输出速率达每秒750个token。",
-        "comment": "速度提升显著，但需关注成本与稳定性。",
+        "summary": "OpenAI推出Ultrafast API服务层，基于Cerebras硬件，使GPT-5.6 Sol运行速度提升至14倍，输出速率达每秒750 tokens。",
+        "comment": "速度提升显著，但实际应用效果待观察。",
         "image": "",
         "score": 100
       },
@@ -38,27 +38,37 @@
         "title": "OpenAI任命Dali Rajic为首席营收官",
         "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
         "summary": "OpenAI任命Dali Rajic为首席营收官，领导全球营收组织，帮助企业实现AI的全面价值。",
-        "comment": "商业化提速，OpenAI强化营收团队以推动增长。",
+        "comment": "商业化提速，AI变现进入新阶段。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI模型",
-        "title": "Writer发布新AI模型与升级工具，降低Token成本",
+        "title": "Writer发布新AI模型及升级工具以降低Token成本",
         "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-        "summary": "Writer基于Z.ai开源模型GLM-5.2进行后训练，推出新系统，以更低价格提供部署就绪能力，并升级工具控制Token成本。",
-        "comment": "成本控制成AI竞争关键，务实之举。",
+        "summary": "Writer基于Z.ai开源模型GLM-5.2进行后训练，推出新系统，宣称以更低价格提供部署就绪能力，旨在控制Token成本。",
+        "comment": "成本控制成AI竞争新焦点，务实之举。",
         "image": "",
         "score": 99
       },
       {
         "category": "数码科技",
         "tag": "秦MAX",
-        "title": "秦MAX上市：9.99万起，EV版9分钟充至97%",
+        "title": "秦MAX上市：9.99万元起，EV版9分钟充至97%",
         "link": "https://www.ifanr.com/1675157?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "秦MAX正式上市，起售价9.99万元，EV版支持超快充，9分钟可充至97%，以最强形态出击市场。",
-        "comment": "超快充技术或成新能源车竞争新焦点。",
+        "summary": "秦MAX正式上市，起售价9.99万元，EV版支持超快充，9分钟可充至97%，主打高效补能与性价比。",
+        "comment": "超快充技术下放，或重塑入门电动车市场格局。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI办公",
+        "title": "WorkBuddy用AI重做办公三件套，定义AI时代新Office",
+        "link": "https://www.ifanr.com/1674810?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "WorkBuddy将AI融入办公三件套，提供智能文档、表格和演示功能，提升工作效率，展示AI时代办公软件的新形态。",
+        "comment": "AI办公赛道竞争激烈，WorkBuddy需突出差异化优势。",
         "image": "",
         "score": 92
       },
@@ -68,19 +78,9 @@
         "title": "DeepSeek Harness首发体验：不做下一个Codex",
         "link": "https://www.ifanr.com/1675083?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "DeepSeek Harness以插件化设计亮相，强调灵活集成而非复制Codex模式，为开发者提供新选择。",
-        "comment": "差异化定位或成破局关键，但生态建设待观察。",
+        "comment": "差异化定位明确，插件生态或成关键。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI办公",
-        "title": "WorkBuddy用AI重做办公三件套，效率工具新形态",
-        "link": "https://www.ifanr.com/1674810?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "WorkBuddy将AI融入办公三件套，提供文档、表格、演示的智能辅助，重塑工作流程，展现AI时代Office新形态。",
-        "comment": "AI办公赛道竞争激烈，WorkBuddy需突出差异化优势。",
-        "image": "",
-        "score": 92
+        "score": 91
       }
     ]
   }
