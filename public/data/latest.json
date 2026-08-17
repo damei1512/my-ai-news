@@ -1,64 +1,169 @@
 {
+  "2026-08-17": {
+    "week": "周一",
+    "articles": [
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "中世纪奇幻大战略游戏《大征服》公布，支持10万单位实时战斗",
+        "link": "https://www.gcores.com/articles/218422",
+        "summary": "CH4WORKS公布中世纪奇幻大战略游戏《大征服》，战役与战斗实时同步，玩家可无缝切换治理与指挥，支持最多10万单位同屏战斗，涵盖步兵、骑兵、弓箭手等兵种。",
+        "comment": "实时大战略与10万单位同屏，或成 genre 新标杆。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "小米",
+        "title": "牛来排片暴增1900倍，小米全面拥抱AI，问界儿童车将上市",
+        "link": "https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "《牛来》主创回应排片暴增1900倍；卢伟冰称小米未来全面拥抱AI；问界儿童车即将上市。另胖东来刑释员工无人离职，AI信任危机引关注。",
+        "comment": "科技与文娱热点交织，小米AI战略值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏更新",
+        "title": "《末日准备狂》五周年烹饪更新上线",
+        "link": "https://www.gcores.com/articles/218425",
+        "summary": "《末日准备狂》五周年烹饪更新第一部分上线，新增PrepperMix机器实现自动化烹饪，加入冰沙、沙拉、果酱、能量棒和即食面等新物品，丰富生存玩法。",
+        "comment": "自动化烹饪提升生存效率，新内容诚意十足。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "飓风",
+        "title": "飓风拉拉袭击夏威夷，约百栋房屋被冲走",
+        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "summary": "夏威夷州长表示，飓风拉拉过后，约百栋房屋被冲走，但除一起车祸外，暂无人员死亡，堪称奇迹。",
+        "comment": "灾情严重但零死亡，凸显预警与应急体系有效。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美韩军演",
+        "title": "特朗普宣布缩减与韩国军演，称因与朝鲜关系良好",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普表示，因与朝鲜领导人关系良好，决定缩减与韩国的军事演习规模，并提及韩国未参与伊朗战争。",
+        "comment": "此举或为对朝让步，但可能引发盟友担忧。",
+        "image": "",
+        "score": 86
+      }
+    ]
+  },
   "2026-08-16": {
     "week": "周日",
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI信任",
-        "title": "Anthropic CEO称AI反弹本质是信任危机",
-        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-        "summary": "Dario Amodei反驳外界对其过度悲观描绘AI的批评，强调当前AI领域的反弹情绪根源在于信任缺失，呼吁业界重建公众信任。",
-        "comment": "信任危机直指行业痛点，但重建需实际行动。",
+        "tag": "Stripe",
+        "title": "Stripe拟70亿美元收购AI网关初创公司OpenRouter",
+        "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "summary": "据报，Stripe将以超70亿美元收购AI网关初创OpenRouter，其CEO曾称该公司为“AI界的Stripe”，交易或重塑AI支付与路由格局。",
+        "comment": "高溢价收购凸显AI基础设施入口的战略价值。",
         "image": "",
         "score": 100
       },
       {
+        "category": "人工智能",
+        "tag": "AI",
+        "title": "Anthropic CEO称AI反弹本质是信任危机",
+        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "summary": "Dario Amodei反驳外界对其过度悲观描绘AI的批评，强调当前AI领域的反弹源于信任缺失，呼吁业界重建公众信任。",
+        "comment": "信任危机直指行业痛点，但需具体行动而非口号。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "扎克伯格",
+        "title": "为何人们不买账扎克伯格的AI愿景",
+        "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "summary": "最新一期Equity播客探讨了公众对扎克伯格AI未来设想持怀疑态度的原因，涉及信任、隐私及实际效益等关键问题。",
+        "comment": "愿景宏大但信任赤字难解，AI落地需务实。",
+        "image": "",
+        "score": 99
+      },
+      {
         "category": "游戏影视",
-        "tag": "迪士尼",
-        "title": "D23 2026迪士尼体验展示：反派之地等重磅公布",
-        "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
-        "summary": "D23迪士尼体验展示会公布反派之地名称及主要景点，汽车主题园区游乐设施细节，以及迪士尼邮轮等新项目。",
-        "comment": "迪士尼持续扩张主题乐园版图，反派IP成新增长点。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/16/horizons2-1786847536577.png",
+        "tag": "蜘蛛侠",
+        "title": "《蜘蛛侠：崭新一天》全球票房破20亿美元创系列纪录",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-becomes-first-spider-man-movie-to-reach-2-billion-in-theaters",
+        "summary": "《蜘蛛侠：崭新一天》全球票房正式突破20亿美元，成为该系列首部达到此里程碑的电影，刷新了蜘蛛侠电影的票房纪录。",
+        "comment": "超级英雄单人电影票房天花板再被抬高。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/28/spider-man-brand-new-day-thumb-1-1785242092399.jpg",
         "score": 95
       },
       {
         "category": "游戏影视",
         "tag": "王国之心4",
-        "title": "《王国之心4》D23预告：米奇唐老鸭高飞可玩",
+        "title": "《王国之心4》官方承诺2027年底前发售不跳票",
+        "link": "https://www.ign.com/articles/i-want-to-set-the-record-straight-that-is-not-happening-kingdom-hearts-4-devs-say-kh4-100-will-not-be-delayed-past-late-2027-launch-d23-2026",
+        "summary": "《王国之心4》联合总监安江泰和系列制作人野村哲也在D23上明确表示，游戏“100%”不会延期，将按计划于2027年底前发售。",
+        "comment": "官方罕见给出硬性承诺，但开发周期仍存变数。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/16/kingdom-hearts-4-delay-riku-1786841290736.png",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "王国之心4",
+        "title": "《王国之心4》D23 2026新预告，米奇唐老鸭高飞可玩",
         "link": "https://www.ign.com/articles/kingdom-hearts-4-gets-extended-gameplay-trailer-featuring-playable-mickey-donald-and-goofy-d23-2026",
-        "summary": "D23 2026上，迪士尼与史克威尔艾尼克斯展示了《王国之心4》加长实机预告，首次呈现米奇、唐老鸭和高飞的可玩角色。",
+        "summary": "迪士尼与史克威尔艾尼克斯在D23 2026的Deep Dive座谈会上，展示了《王国之心4》的加长实机预告，首次呈现米奇、唐老鸭和高飞的可玩角色。",
         "comment": "经典三人组可玩，情怀与玩法双升级。",
         "image": "https://assets-prd.ignimgs.com/2026/08/16/kingdom-hearts-4-mickey-mouse-gameplay-1786841735431.png",
         "score": 95
       },
       {
         "category": "游戏影视",
-        "tag": "王国之心4",
-        "title": "《王国之心4》官方承诺2027年底发售绝不延期",
-        "link": "https://www.ign.com/articles/i-want-to-set-the-record-straight-that-is-not-happening-kingdom-hearts-4-devs-say-kh4-100-will-not-be-delayed-past-late-2027-launch-d23-2026",
-        "summary": "《王国之心4》联合总监安江泰和系列创作者野村哲也在D23 2026上向粉丝保证，游戏“100%”不会推迟至2027年底发售窗口之后。",
-        "comment": "官方罕见明确表态，但开发风险仍需警惕。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/16/kingdom-hearts-4-delay-riku-1786841290736.png",
+        "tag": "复仇者联盟",
+        "title": "《复仇者联盟：末日》预告引发双末日博士与基里安·墨菲客串猜测",
+        "link": "https://www.ign.com/articles/avengers-doomsday-trailer-sparks-theories-about-2-doctor-dooms-as-fans-hope-for-a-surprise-cameo-from-cillian-murphy",
+        "summary": "《复仇者联盟：末日》新预告发布，粉丝从细节中推测影片可能隐藏两位末日博士，并期待基里安·墨菲惊喜客串。",
+        "comment": "预告片信息量足，但双博士设定需谨慎，避免剧情混乱。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/16/cillian-murphy-1786916589776.png",
         "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "Dota2",
-        "title": "中国战队全部缺席《Dota2》TI15八强，创历史最差战绩",
-        "link": "https://www.gcores.com/articles/218411",
-        "summary": "随着TR在TI15突围赛不敌Spirit，XG、VG、TR三支中国战队全部出局，无缘八强，创下自TI1以来最差成绩。正赛将于8月20日在上海举行。",
-        "comment": "中国Dota2遭遇滑铁卢，需反思青训与战术革新。",
-        "image": "",
-        "score": 93
+        "tag": "热血无赖",
+        "title": "刘思慕称《热血无赖》电影有真实推进路径，正与SE洽谈",
+        "link": "https://www.ign.com/articles/simu-liu-says-sleeping-dogs-movie-has-a-real-path-forward-amid-dealmaking-with-square-enix",
+        "summary": "漫威明星刘思慕透露，长期开发的《热血无赖》电影改编有“真实推进路径”，目前正与发行商史克威尔艾尼克斯进行谈判。",
+        "comment": "游戏改编电影屡败屡战，这次能否突破？",
+        "image": "https://assets-prd.ignimgs.com/2026/08/16/sleeping-dogs-movie-simu-liu-1786904910286.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "掌上游戏PC",
+        "title": "最佳掌上游戏PC推荐：畅玩PC、Steam与Xbox游戏",
+        "link": "https://www.ign.com/articles/best-handheld-gaming-pc",
+        "summary": "IGN精选多款掌上游戏PC，可随时随地畅玩PC、Steam及Xbox游戏，涵盖性能、便携性与价格对比，助你选购理想设备。",
+        "comment": "掌上PC市场火热，选购需权衡性能与续航。",
+        "image": "https://assets-prd.ignimgs.com/2025/10/16/handheld-10-15-1760631169389.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "迪士尼",
+        "title": "D23迪士尼体验展：反派之地命名及汽车主题园区细节公布",
+        "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
+        "summary": "D23迪士尼体验展公布大量新内容，包括反派之地的名称与主要景点，以及汽车主题园区的游乐设施和土地细节，覆盖乐园与邮轮项目。",
+        "comment": "迪士尼持续扩张主题乐园，反派IP成新增长点。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/16/horizons2-1786847536577.png",
+        "score": 94
       },
       {
         "category": "数码科技",
         "tag": "AI",
-        "title": "用161个新闻源养AI主编，它比人更懂大新闻",
+        "title": "用161个新闻源养AI主编，它更懂大新闻",
         "link": "https://www.ifanr.com/1675326?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "作者利用161个新闻源训练AI主编，通过算法筛选重要新闻，发现AI在信息质量和重要性判断上优于人工，并附有详细教程。",
-        "comment": "AI主编提升信息筛选效率，但需警惕算法偏见。",
+        "summary": "作者用161个新闻源训练AI主编，发现其筛选大新闻的能力优于人工，并附上教程，强调信息质量重于数量。",
+        "comment": "AI主编实践展示算法筛选新闻的潜力，但依赖源质量。",
         "image": "",
         "score": 92
       },
@@ -67,28 +172,38 @@
         "tag": "AI",
         "title": "科技圈最不受待见者的AI宣言引热议",
         "link": "https://www.ifanr.com/1674733?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "一位科技圈边缘人物发表今年最激动人心的AI宣言，引发对未来是光明还是黑暗的讨论。",
-        "comment": "边缘视角或揭示AI发展另一面，值得关注。",
+        "summary": "爱范儿报道，一位科技圈边缘人物发表今年最激动人心的AI宣言，引发对未来是光明还是黑暗的讨论。",
+        "comment": "边缘声音或揭示AI本质，值得深思。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "东北抗联",
-        "title": "东北抗联武器考：从缴获到自制",
+        "tag": "Dota2",
+        "title": "中国战队全部无缘Dota2 TI15八强，创历史最差战绩",
+        "link": "https://www.gcores.com/articles/218411",
+        "summary": "随着TR在TI15突围赛不敌Spirit，XG、VG、TR三支中国战队全部出局，无缘八强，创下自TI1以来最差成绩。本届赛事时隔多年再次在中国举办，正赛将于8月20日在上海开战。",
+        "comment": "中国Dota2遭遇滑铁卢，需反思青训与战术创新。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "东北抗联用什么枪打鬼子？武器来源与故事",
         "link": "https://www.gcores.com/radios/218101",
-        "summary": "本期节目结合《抵抗者》试玩，探讨东北抗联在雪原作战中使用的武器来源、收集、缴获、修理与制造故事，深入历史细节。",
-        "comment": "历史考据扎实，为游戏玩家提供真实背景。",
+        "summary": "《抵抗者》实机演示引发讨论，老白头研读抗联史，详解当年东北抗联使用的武器种类、来源及收集、缴获、修理、制造轻兵器的故事。",
+        "comment": "从游戏切入历史，武器考据扎实，值得一听。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "数码视频",
-        "title": "对话热男HotGuys：想把快乐做到八十岁",
+        "title": "热男HotGuys创始人谈创业：想把快乐做到八十岁",
         "link": "https://www.gcores.com/radios/218405",
-        "summary": "本期邀请热男HotGuys联合创始人崔野和尹国威，拆解剧情向数码视频从创意到后期的完整流程，并回顾创业起点、团队合作及内容创意难题。",
-        "comment": "创业故事真诚，制作细节干货足，值得一听。",
+        "summary": "本期机核电台邀请热男HotGuys联合创始人崔野和尹国威，从《国行顶配3》聊起，拆解剧情向数码视频制作全流程，并回顾创业起点、团队协作与创意管理经验。",
+        "comment": "内容团队稳定合作的关键在于共同价值观与清晰分工。",
         "image": "",
         "score": 91
       },
@@ -97,18 +212,38 @@
         "tag": "暑期档",
         "title": "2026暑期档中场点兵：有的爆了，有的撤了",
         "link": "https://www.gcores.com/radios/218406",
-        "summary": "机核SP节目，喵臣串台青年度日指南，与主播拉帝快速短评暑期档前半段影片，包括《奥德赛》《蜘蛛侠》《三国第一部》等，并预告暑期档结束后的完整盘点。",
-        "comment": "暑期档观察及时，但内容偏粉丝向，信息密度一般。",
+        "summary": "机核SP节目，喵臣串台青年度日指南，与主播拉帝快速短评暑期档前半段影片，包括《奥德赛》《蜘蛛侠》等，并预告暑期档结束后的完整盘点。",
+        "comment": "短评快节奏，适合影迷快速补档。",
         "image": "",
-        "score": 89
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏优惠",
+        "title": "今日最佳优惠：最终幻想7重生Switch 2版、仁王3等",
+        "link": "https://www.ign.com/articles/best-deals-for-august-16-2026",
+        "summary": "IGN汇总今日游戏与影视优惠，涵盖《最终幻想7重生》Switch 2版、《仁王3》及《万福玛丽亚》等热门商品，折扣力度大。",
+        "comment": "Switch 2版FF7重生值得关注，但需比价。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/16/dd-8-16-1786915221483.png",
+        "score": 88
       },
       {
         "category": "时事热点",
         "tag": "俄乌冲突",
         "title": "俄称2026年最大规模乌克兰袭击致至少7人死亡",
         "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "summary": "莫斯科称乌克兰发动2026年最大规模袭击，至少7人死亡；俄方也对乌克兰发动致命打击，引发基辅多处火灾。",
+        "summary": "莫斯科称乌克兰发动2026年以来最大规模袭击，至少7人死亡；俄方也连夜对乌克兰发动致命打击，引发基辅多处火灾。",
         "comment": "双方袭击升级，和平前景更加渺茫。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "文艺复兴",
+        "title": "意大利博物馆四幅文艺复兴名画被盗，疑为专业团伙作案",
+        "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+        "summary": "四幅文艺复兴时期珍贵画作在夜间被盗，未触发警报，警方怀疑是专业团伙所为，案件正在调查中。",
+        "comment": "安保漏洞令人震惊，博物馆安全亟需升级。",
         "image": "",
         "score": 88
       },
@@ -118,79 +253,59 @@
         "title": "波兰巴士在匈牙利高速路失控致12人死亡",
         "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
         "summary": "一辆旅游巴士周日凌晨在匈牙利高速路翻车，造成12人死亡，数十人重伤。",
-        "comment": "重大交通事故，凸显长途客运安全监管紧迫性。",
+        "comment": "重大交通事故，凸显长途客运安全监管亟待加强。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "印尼地震",
-        "title": "印尼致命地震致数千人流离失所，救援持续进行",
-        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "summary": "印尼地震已致至少53人死亡，数百栋房屋和公共建筑严重受损，数千人被迫撤离，救援工作仍在继续。",
-        "comment": "灾情严重，救援效率与后续安置是关键考验。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "飓风",
-        "title": "飓风拉拉引发夏威夷山洪，强风暴雨持续",
-        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "summary": "官员称，在受灾最严重地区，山洪可能冲走房屋，屋内或有人员被困。",
-        "comment": "灾情严峻，需警惕次生灾害。",
+        "tag": "加沙",
+        "title": "特朗普特使库什纳会见哈马斯领导人推动加沙和平计划",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "summary": "在以色列拒绝特朗普加沙和平计划一周后，库什纳罕见会见哈马斯领导人，推动和平方案。",
+        "comment": "罕见接触或为打破僵局，但前景仍不明朗。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "希腊",
-        "title": "希腊萨拉米纳岛双火灾致两人死亡，数百人撤离",
+        "title": "希腊岛屿双火灾致两人死亡，数百人疏散",
         "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-        "summary": "希腊萨拉米纳岛发生两起火灾，造成两人死亡，数百人疏散。近200名消防员正努力阻止火势蔓延。",
-        "comment": "火灾频发，希腊应急能力面临考验。",
+        "summary": "约200名消防员在萨拉米纳岛阻止两起火灾汇合，其中一起已受控，但已造成两人死亡，数百人撤离。",
+        "comment": "火灾频发凸显希腊夏季防火压力，应急响应仍需加强。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "比利时",
-        "title": "比利时野火第三天面积翻倍，吞噬自然保护区",
-        "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-        "summary": "比利时一处自然保护区野火持续三天，过火面积翻倍，数百名消防员正努力控制火势。",
-        "comment": "极端天气下，欧洲生态安全面临严峻考验。",
+        "tag": "印尼",
+        "title": "印尼致命地震致数千人流离失所，救援持续",
+        "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "summary": "印尼地震已致至少53人死亡，数百栋房屋和公共建筑严重受损，数千人被迫撤离，救援工作仍在进行。",
+        "comment": "灾情严重，国际社会应关注后续救援与重建。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "卡塔尔",
-        "title": "卡塔尔否认扣押三名伊朗飞行员",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "summary": "伊朗称其飞行员在美伊战争初期战机被卡塔尔击落后被扣押，卡塔尔对此予以否认。",
-        "comment": "双方说法矛盾，局势或再添变数。",
+        "tag": "校园枪击",
+        "title": "弗吉尼亚校园枪击案：少年嫌犯藏身壁橱被抓获",
+        "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+        "summary": "弗吉尼亚一大学宿舍外发生枪击，致5人受伤。警方称嫌犯非该校学生，已在一壁橱内将其逮捕。",
+        "comment": "校园安全再敲警钟，非学生作案凸显管理漏洞。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "盗窃",
-        "title": "意大利博物馆四幅文艺复兴名画被盗，疑为专业作案",
-        "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-        "summary": "四幅文艺复兴时期画作夜间从意大利博物馆被盗，未触发警报，警方怀疑是专业团伙所为。",
-        "comment": "安保漏洞令人担忧，专业窃贼瞄准艺术珍品。",
+        "tag": "心理健康",
+        "title": "美指挥官称林肯号航母心理健康是优先事项",
+        "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+        "summary": "库珀上将访问林肯号后承认，长时间海上服役“极具挑战性”，心理健康成为关注重点。",
+        "comment": "美军正视长期部署心理压力，但措施待观察。",
         "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "波兰",
-        "title": "波兰乡村揭幕欧洲最高圣母玛利亚雕像",
-        "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-        "summary": "这座55.6米高的混凝土雕像在波兰乡村揭幕，高度超过里约热内卢的基督像，成为欧洲最高圣母像。",
-        "comment": "宗教地标竞高，信仰与旅游经济双驱动。",
-        "image": "",
-        "score": 84
+        "score": 86
       }
     ]
   },
@@ -199,10 +314,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI滥用",
-        "title": "女子指控继父用Grok将童年照片转为色情图像",
+        "tag": "AI安全",
+        "title": "女子指控继父用Grok将童年照转为色情图像",
         "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-        "summary": "一名女子称其继父使用xAI的Grok工具，将她的童年照片转化为露骨色情内容，并指AI工具正将日常生活变成儿童性虐待素材。",
+        "summary": "一名女子声称其继父利用xAI的Grok工具，将她的童年照片转化为露骨色情内容，并称AI正将日常生活变成儿童性虐待素材。",
         "comment": "AI滥用风险再敲警钟，平台需强化内容审核。",
         "image": "",
         "score": 100
@@ -210,10 +325,10 @@
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "Anthropic详解Claude新水印机制：如何运作及对代码影响",
+        "title": "Anthropic详解Claude新水印机制：工作原理与影响",
         "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-        "summary": "Anthropic公开Claude水印技术细节，包括嵌入方式、抗编辑能力及对代码生成的影响，旨在提升AI内容可追溯性。",
-        "comment": "水印技术落地细节是关键，抗篡改能力决定实际效用。",
+        "summary": "Anthropic公布Claude水印技术细节，包括嵌入方式、抗编辑能力及对代码生成的影响，旨在提升AI内容可追溯性。",
+        "comment": "水印技术落地需平衡可检测性与实用性，值得关注。",
         "image": "",
         "score": 100
       },
@@ -222,68 +337,38 @@
         "tag": "SpaceX",
         "title": "SpaceX正式完成对AI编程公司Cursor的收购",
         "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-        "summary": "SpaceX宣布已完成对AI编程初创公司Cursor的收购，Cursor将正式成为SpaceX的一部分，此举将强化SpaceX在软件工程领域的AI能力。",
-        "comment": "航天巨头收购AI编程工具，跨界整合值得关注。",
+        "summary": "SpaceX宣布已完成对AI编程初创公司Cursor的收购，Cursor将正式成为SpaceX的一部分。此举标志着SpaceX在AI编程工具领域的布局。",
+        "comment": "SpaceX跨界收购AI编程工具，战略意图值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "游戏影视",
-        "tag": "王国之心",
-        "title": "野村哲也暗示参与《王国之心》动画，称想象无限",
-        "link": "https://www.ign.com/articles/tetsuya-nomura-teases-involvement-in-kingdom-hearts-anime-series-tells-fans-to-let-their-imagination-run-wild-d23-2026",
-        "summary": "《王国之心》制作人野村哲也在D23 2026上谈及迪士尼+动画项目，鼓励粉丝发挥想象力，暗示其深度参与。",
-        "comment": "野村卖关子成惯例，动画或成系列新突破口。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/via-d23-16x9-dcd-1786762949244.jpg",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "王国之心",
-        "title": "D23《王国之心》专题发布会：全部重磅消息汇总",
-        "link": "https://www.ign.com/articles/d23-deep-dive-into-kingdom-hearts-panel-everything-announced-updating-live",
-        "summary": "在迪士尼D23大会上，《王国之心》专题环节公布了系列新作、重制版及联动内容等多项消息，IGN现场持续更新报道。",
-        "comment": "系列粉丝不容错过的年度情报集中释放。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/kingdom-hearts-d23-panel-everything-announced-1786825722441.jpg",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "X战警",
-        "title": "X战警导演透露漫画灵感与MCU新元素",
-        "link": "https://www.ign.com/articles/x-men-director-teases-comic-book-inspirations-and-something-new-for-the-mcu-after-marvels-big-cast-reveal-d23-2026",
-        "summary": "导演Jake Schreier在D23 2026上透露，已与漫威影业讨论新《X战警》重启的漫画灵感，并承诺为MCU带来“新东西”。",
-        "comment": "重启能否突破经典，关键在于创新与致敬的平衡。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/jake-schreier-x-men-1786818445380.png",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "堡垒之夜",
-        "title": "《堡垒之夜》推出《星球大战》走私者冒险扩展玩法",
+        "tag": "星战",
+        "title": "《堡垒之夜》推出星战走私者冒险，延续迪士尼乐园体验",
         "link": "https://www.ign.com/articles/star-wars-smugglers-gambit-lets-you-keep-helping-hondo-ohnaka-in-fortnite-after-you-leave-disneyland",
-        "summary": "《堡垒之夜》的“走私者赌局”将迪士尼乐园的走私者逃亡体验扩展为多人PVE在线游戏，玩家可与朋友继续帮助汉多·奥纳卡，并支持反向玩法。",
-        "comment": "IP联动从线下延伸至线上，玩法创新值得关注。",
+        "summary": "《堡垒之夜》新增“走私者的赌注”模式，将迪士尼乐园的“走私者逃亡”扩展为多人PvE在线游戏，玩家可与朋友继续帮助汉多·奥纳卡，延续星战主题互动。",
+        "comment": "乐园体验延伸至游戏，创新联动值得关注。",
         "image": "https://assets-prd.ignimgs.com/2026/08/14/nexa-1-1786738520810.png",
         "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "星战",
-        "title": "菲洛尼确认迪士尼暂不制作《追捕本·索罗》星战电影",
-        "link": "https://www.ign.com/articles/dave-filoni-confirms-disney-isnt-making-scrapped-star-wars-movie-the-hunt-for-ben-solo-right-now-d23-2026",
-        "summary": "卢卡斯影业总裁戴夫·菲洛尼在D23 2026上确认，尽管粉丝呼声高，迪士尼目前仍未推进被搁置的《追捕本·索罗》星战电影项目。",
-        "comment": "粉丝期待落空，但项目未死，未来或有转机。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/kylo-ren-adam-driver-the-hunt-for-ben-solo-1786828031365.png",
+        "tag": "王国之心",
+        "title": "野村哲也暗示《王国之心》动画剧集，呼吁粉丝发挥想象",
+        "link": "https://www.ign.com/articles/tetsuya-nomura-teases-involvement-in-kingdom-hearts-anime-series-tells-fans-to-let-their-imagination-run-wild-d23-2026",
+        "summary": "《王国之心》创作者野村哲也在D23 2026上谈及Disney+动画剧集，未透露细节，仅表示“请让想象力驰骋”，暗示其深度参与。",
+        "comment": "神秘预告吊足胃口，但信息量有限，期待后续实料。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/15/via-d23-16x9-dcd-1786762949244.jpg",
         "score": 94
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果或与阿里合作AI，微信否认朋友圈二次编辑，追觅手机交付",
+        "title": "苹果或与阿里合作AI，微信否认朋友圈二次编辑",
         "link": "https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "曝苹果与阿里合作训练AI模型；微信明确永不推出朋友圈二次编辑；追觅首台手机售价20万并交付。另有DeepMind裁员、WorkBuddy接入GLM-5.3、DeepSeek研发情感AI等动态。",
-        "comment": "科技巨头AI布局加速，但微信表态务实，追觅跨界引关注。",
+        "summary": "曝苹果与阿里合作训练AI模型；微信称永不推出朋友圈二次编辑；追觅首台手机售价20万交付。另悉DeepSeek研发情感AI，Google DeepMind或裁员。",
+        "comment": "科技巨头动态密集，AI竞争白热化。",
         "image": "",
         "score": 92
       },
@@ -292,17 +377,17 @@
         "tag": "游戏资讯",
         "title": "核周报8.15：影之刃零新实机，战锤40K延期",
         "link": "https://www.gcores.com/radios/218100",
-        "summary": "本期汇总多款游戏动态：《影之刃零》公布新实机并开启预购，《战锤40K：战争黎明4》延期至12月3日，SE财报发布，索尼推出《漫威金刚狼》限定主机，《黑神话：悟空》七折优惠，《空之轨迹 the 2nd》新预告，《绝地潜兵2》联动战锤40K，《魔兽世界》12.1上线。",
-        "comment": "游戏界动态密集，延期与优惠并存，玩家需关注重点。",
+        "summary": "本期汇总《影之刃零》新实机及预购、《战锤40K：战争黎明4》延期至12月3日、SE财报、索尼《漫威金刚狼》限定主机、《黑神话》七折、《空之轨迹2nd》预告、《绝地潜兵2》联动、《魔兽世界》12.1上线等要闻。",
+        "comment": "多款大作动态密集，玩家可重点关注影之刃零与战锤延期。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "视觉小说",
-        "title": "《妹妹、他人、妄想症》发售，暗黑视觉小说新作",
+        "title": "《妹妹、他人、妄想症》发售，原班人马打造暗黑视觉小说",
         "link": "https://www.gcores.com/articles/218391",
-        "summary": "《主播女孩重度依赖》原班人马打造，暗黑视觉小说《妹妹、他人、妄想症》Steam发售，国区39元，首发八折31.2元，主角有通感天赋。",
+        "summary": "《主播女孩重度依赖》原班人马开发的暗黑视觉小说《妹妹、他人、妄想症》登陆Steam，国区售价39元，首发折扣20%，折后31.2元。主角为文学系大学生，拥有通感天赋，剧情围绕其展开。",
         "comment": "原班人马加持，暗黑题材或成黑马。",
         "image": "",
         "score": 91
@@ -310,9 +395,9 @@
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "对话某幻君：从偷偷玩电脑到百大UP主的成长之路",
+        "title": "对话某幻君：从偷偷玩电脑到百大UP主",
         "link": "https://www.gcores.com/radios/218365",
-        "summary": "本期核电波邀请百大UP主某幻君，畅谈游戏快乐回忆，分享从偷偷玩电脑到成为百大UP主的经历，主播Nadya、西蒙、Ryoma参与。",
+        "summary": "机核播客邀请百大UP主某幻君，畅谈游戏快乐回忆与成长经历，分享从偷偷玩电脑到成为头部创作者的心路历程。",
         "comment": "真实成长故事，展现游戏与创作的双向奔赴。",
         "image": "",
         "score": 91
@@ -322,40 +407,10 @@
         "tag": "末世孤雄",
         "title": "《末世孤雄》新作Steam页面上线，融合RTS与塔防",
         "link": "https://www.gcores.com/articles/218368",
-        "summary": "FWGames旗下《末世孤雄 通往乐园的道路》Steam页面公开，改编自动画，以原创剧情展开，玩家在僵尸末日中与伙伴寻找乐园，玩法融合即时战略与塔防。",
-        "comment": "经典IP改编，玩法创新值得期待。",
+        "summary": "FWGames公开《末世孤雄 通往乐园的道路》Steam页面，改编自动画，原创剧情，玩家在僵尸末日中与伙伴寻找乐园，玩法为即时战略×塔防。",
+        "comment": "经典IP新玩法，但需关注实际品质。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "LitRPG",
-        "title": "《地下城爬行者卡尔》剧集或将决定LitRPG改编前景",
-        "link": "https://www.ign.com/articles/the-dungeon-crawler-carl-tv-series-could-make-or-break-future-litrpg-book-adaptations",
-        "summary": "IGN报道，热门LitRPG小说《地下城爬行者卡尔》将改编为电视剧，其成败可能影响整个LitRPG品类的影视化进程。",
-        "comment": "改编风险高，但值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/23/91rhmscu0sl-sl1500-1-1776982606954.jpg",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "优惠",
-        "title": "今日最佳优惠：火星救援4K蓝光、生化危机安魂曲、AirPods Pro 3等",
-        "link": "https://www.ign.com/articles/best-deals-for-august-15-2026",
-        "summary": "IGN汇总今日优惠，涵盖《火星救援》4K蓝光、游戏《生化危机安魂曲》及AirPods Pro 3等商品，折扣力度大，适合影音游戏爱好者选购。",
-        "comment": "优惠信息实用，但需注意时效性。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/15/dd8-15-1786826082284.png",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "摩洛哥",
-        "title": "摩洛哥拘留数十名试图越境进入休达的移民",
-        "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-        "summary": "因社交媒体暗示周六可能再次发生大规模越境，摩洛哥加强安保并拘留数十名试图进入西班牙飞地休达的移民。",
-        "comment": "北非移民压力持续，边境管控升级。",
-        "image": "",
-        "score": 86
       }
     ]
   },
@@ -364,31 +419,31 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "Meta",
+        "title": "Meta发布开源AI模型Glimmer，与封闭Muse Spark形成对比",
+        "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+        "summary": "Meta本周发布开源权重AI模型Glimmer，用户可下载并在自有硬件运行，与其更强大但封闭的Muse Spark模型形成鲜明对比。",
+        "comment": "开源与封闭并行，Meta策略值得玩味。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
         "tag": "GPU",
         "title": "法国初创Kog深挖GPU推理潜力，挑战算力瓶颈",
         "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-        "summary": "Kog认为GPU不适合智能体工作流的观点是误解，正通过更深层优化提升推理效率，以突破算力限制。",
-        "comment": "GPU优化新思路，或重塑AI基础设施格局。",
+        "summary": "Kog认为GPU不适合智能体工作流的观点可能是误解，正通过深度优化提升推理效率，以应对AI算力需求。",
+        "comment": "GPU优化新思路，或缓解算力焦虑。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "天然气",
-        "title": "天然气价格或暴涨三倍，超大规模数据中心面临成本危机",
+        "title": "天然气价格或暴涨三倍，超大规模数据中心面临成本压力",
         "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-        "summary": "美国部分地区天然气价格可能上涨三倍，导致超大规模云服务商为AI数据中心支付巨额电费，其能源策略或需调整。",
-        "comment": "能源成本成AI扩张新变量，超大规模商需未雨绸缪。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta发布开源AI模型Glimmer，250M交易告吹",
-        "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-        "summary": "Meta本周发布开源权重AI模型Glimmer，用户可下载并在自有硬件运行，与功能更强但封闭的Muse Spark形成对比。同时，一笔2.5亿美元的交易出现严重问题。",
-        "comment": "开源与闭源并行，Meta策略摇摆或影响生态信任。",
+        "summary": "美国部分地区天然气价格可能上涨三倍，这将给依赖天然气供电的AI数据中心带来巨额成本，超大规模云厂商或需重新评估能源策略。",
+        "comment": "能源成本波动或成AI扩张新变量。",
         "image": "",
         "score": 100
       },
@@ -398,17 +453,7 @@
         "title": "谷歌允许用户移除AI生成内容的可见水印",
         "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
         "summary": "谷歌更新设置，用户可关闭AI生成内容的可见水印，但不可见标识仍保留，用于识别AI文件。",
-        "comment": "平衡透明度与用户体验，但需警惕滥用风险。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "扎克伯格称AI为所有人，Meta开源模型却留一手",
-        "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-        "summary": "Meta发布开源AI模型Glimmer，可自由下载运行，但更强大的Muse Spark仍封闭，引发对“AI为所有人”承诺的质疑。",
-        "comment": "开源与闭源并存，Meta的“普惠”口号需打折扣。",
+        "comment": "平衡透明度与用户体验，但可能引发滥用担忧。",
         "image": "",
         "score": 99
       },
@@ -417,28 +462,28 @@
         "tag": "Roblox",
         "title": "Roblox遭美国国会调查：儿童安全受关注",
         "link": "https://www.gamespot.com/articles/roblox-is-now-the-target-of-a-congressional-investigation-children-are-hurting/",
-        "summary": "美国参议员霍利和德宾宣布，将对Roblox展开国会调查，因其平台被指威胁儿童安全。",
-        "comment": "监管升级，平台责任亟待落实。",
+        "summary": "美国参议员霍利和德宾宣布，将对游戏平台Roblox展开国会调查，因其被指控威胁儿童安全。",
+        "comment": "监管介入游戏平台，儿童保护成焦点。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Roblox.jpg?w=300",
         "score": 94
       },
       {
         "category": "数码科技",
-        "tag": "AI大模型",
-        "title": "实测GLM-5.3：杀回国模顶流，按下AI竞争重置键",
+        "tag": "GLM-5.3",
+        "title": "实测GLM-5.3：杀回国模顶流，按下重置键",
         "link": "https://www.ifanr.com/1675225?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "实测GLM-5.3，以7000亿参数对标2.8万亿模型，性能表现突出，在激烈竞争中重回国内顶尖，引发行业格局重估。",
-        "comment": "参数效率是关键，GLM-5.3或重塑大模型竞争逻辑。",
+        "summary": "GLM-5.3在竞争激烈的一周内实测表现突出，以7000亿参数对标2.8万亿模型，性能重回顶流，引发行业关注。",
+        "comment": "参数规模非唯一，GLM-5.3以效率取胜，值得关注。",
         "image": "",
         "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《拼车模拟器》回应AI使用争议，前编剧称被ChatGPT取代",
+        "tag": "游戏开发",
+        "title": "网约车模拟器回应AI争议，前编剧称被ChatGPT取代",
         "link": "https://www.gamespot.com/articles/rideshare-stimulator-outlines-ai-usage-after-contentious-exchange-with-ex-writer/",
-        "summary": "Saber Interactive公布新作《拼车模拟器》后，前首席编剧Stella Sacco称开发中被ChatGPT替代。公司随后澄清AI使用范围，引发行业讨论。",
-        "comment": "AI替代人类创作引发行业信任危机，需明确边界。",
+        "summary": "Saber Interactive公布新作《Rideshare Stimulator》后，前首席编剧Stella Sacco透露开发期间被ChatGPT替代，引发关于AI在游戏开发中应用的讨论。",
+        "comment": "AI替代人类创作引发行业伦理争议，需明确边界。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Rideshare-Stimulator.jpg?w=300",
         "score": 93
       },
@@ -447,8 +492,8 @@
         "tag": "2K Games",
         "title": "2K Games成立新工作室，新体育系列或指向足球",
         "link": "https://www.gamespot.com/articles/2k-games-is-making-a-new-sports-franchise-and-all-signs-point-to-soccer/",
-        "summary": "2K Games宣布成立Small Axe Studios，专注打造新的“重磅”体育游戏系列。虽然官方未明确项目细节，但种种迹象表明该系列可能为足球题材。",
-        "comment": "2K进军足球，或打破EA垄断格局。",
+        "summary": "2K Games宣布成立Small Axe Studios，专注打造新的“重磅”体育游戏系列，迹象表明该项目可能为足球游戏。",
+        "comment": "2K进军足球市场，或挑战EA与科乐美。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Small-Axe.jpg?w=300",
         "score": 93
       },
@@ -457,8 +502,8 @@
         "tag": "小米",
         "title": "澎湃OS 4体验：小米首个AIOS表现如何",
         "link": "https://www.ifanr.com/1675208?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米发布澎湃OS 4，集成AI功能，提升系统智能化体验，但实际效果需用户验证。",
-        "comment": "AI系统成新战场，小米能否借此突围？",
+        "summary": "小米发布澎湃OS 4，定位AIOS，集成AI功能，提升智能体验。评测显示系统流畅，AI助手更智能，但生态联动仍需完善。",
+        "comment": "小米AIOS迈出关键一步，但生态整合是挑战。",
         "image": "",
         "score": 92
       },
@@ -467,28 +512,28 @@
         "tag": "谷歌",
         "title": "谷歌DeepMind或大幅裁员，不再追逐前沿",
         "link": "https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "据爱范儿独家消息，谷歌可能对DeepMind进行大幅裁员，显示其正放弃盲目追求前沿技术，转向务实发展。",
-        "comment": "科技巨头收缩战线，理性回归值得关注。",
+        "summary": "谷歌旗下DeepMind可能大幅裁员，反映科技巨头对前沿技术投入趋于理性，狂热退去，转向务实。",
+        "comment": "科技巨头收缩战线，AI泡沫或现裂缝。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "大模型",
-        "title": "DeepSeek V4 Flash发布，大模型竞争转向智效比",
+        "tag": "DeepSeek",
+        "title": "DeepSeek V4 Flash发布，大模型转向智效比竞争",
         "link": "https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "DeepSeek V4 Flash发布，标志着大模型竞争从单纯追求参数规模转向注重“智效比”，即在同等算力下实现更高智能水平，为Agent时代提供更高效模型选择。",
-        "comment": "智效比成新赛道，务实创新是关键。",
+        "summary": "DeepSeek V4 Flash发布，标志着大模型竞争从单纯性能转向智效比，即单位算力下的智能水平，为Agent时代模型选择提供新标准。",
+        "comment": "智效比成新赛道，务实方向值得肯定。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "iPhone",
-        "title": "曝iPhone全线涨价，ChatGPT拥有电脑历史，长鑫科技市值超腾讯",
+        "title": "曝iPhone全线涨价，ChatGPT获电脑历史，长鑫科技市值超腾讯",
         "link": "https://www.ifanr.com/1675193?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iPhone或因关税全线涨价100美元；ChatGPT新增电脑历史功能；长鑫科技市值超腾讯。另有Anthropic IPO预期、比亚迪智驾保有量、张雪机车获投资等动态。",
-        "comment": "科技巨头动态密集，涨价与AI落地成焦点。",
+        "summary": "传闻iPhone将全线涨价100美元；ChatGPT开始访问用户电脑历史；长鑫科技市值超越腾讯。另有Anthropic IPO预期估值2万亿美元，比亚迪智驾车型超352万辆。",
+        "comment": "科技巨头动态密集，涨价与AI隐私问题值得关注。",
         "image": "",
         "score": 92
       },
@@ -497,8 +542,8 @@
         "tag": "光环",
         "title": "《光环：战役进化》下周迎来重大更新，画质大幅提升",
         "link": "https://www.gamespot.com/articles/halo-campaign-evolved-will-look-way-better-soon/",
-        "summary": "《光环：战役进化》将于下周发布首个重大补丁，增强玩家对画面设置的控制，并改进Jackals敌人表现，提升游戏体验。",
-        "comment": "补丁精准优化，老玩家期待值拉满。",
+        "summary": "《光环：战役进化》将于下周发布首个重大补丁，增强玩家对游戏画面的控制，并改进豺狼等敌人表现。",
+        "comment": "补丁优化画面与敌人，值得光环粉丝期待。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Halo-Campaign-Evolved-Will-Look-Better-Soon.jpg?w=300",
         "score": 92
       },
@@ -507,18 +552,18 @@
         "tag": "使命召唤",
         "title": "《使命召唤：现代战争4》测试版将首次包含战役模式",
         "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-will-do-something-no-previous-cod-beta-has/",
-        "summary": "动视宣布，《使命召唤：现代战争4》测试版将首次包含战役模式，超越以往仅限多人内容的测试，为玩家提供更完整体验。",
-        "comment": "此举或为提升预购吸引力，但需警惕测试版内容泄露风险。",
+        "summary": "动视宣布，《使命召唤：现代战争4》测试版将首次包含战役模式，而不仅仅是多人游戏内容，为玩家提供更全面的体验。",
+        "comment": "此举打破系列惯例，或提升测试版吸引力。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/CODNew-Large.jpeg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "迪士尼",
-        "title": "迪士尼9大游戏系列零售额超10亿美元，含王国之心",
+        "title": "迪士尼9大游戏系列零售额超10亿美元",
         "link": "https://www.gamespot.com/articles/disney-has-9-gaming-franchises-that-have-generated-1-billion-at-retail-including-kingdom-hearts/",
-        "summary": "迪士尼在D23前发布博客，强调游戏业务重要性，宣布9个游戏系列零售额均超10亿美元，包括《王国之心》，预示未来游戏战略布局。",
-        "comment": "迪士尼游戏业务实力被低估，IP变现能力强劲。",
+        "summary": "迪士尼在D23前发文，强调游戏业务重要性，确认包括《王国之心》在内的9个游戏系列零售额均超10亿美元。",
+        "comment": "游戏已成迪士尼核心增长引擎，IP变现能力强劲。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/DISGames-1.png?w=300",
         "score": 92
       },
@@ -527,60 +572,40 @@
         "tag": "游戏",
         "title": "《High on Life》将推出VR版，可抚摸外星枪",
         "link": "https://www.gamespot.com/articles/high-on-life-is-coming-to-vr-and-yes-you-can-stroke-your-weird-guns/",
-        "summary": "《High on Life》宣布将移植至VR平台，玩家可体验与外星枪互动的乐趣，包括抚摸枪械。该消息在VR游戏展示会上公布。",
-        "comment": "VR版或增强沉浸感，但玩法适配待观察。",
+        "summary": "《High on Life》宣布推出VR移植版，该作以会说话的外星枪为特色，VR版将支持抚摸枪械等互动，具体发售日未定。",
+        "comment": "VR版或能强化荒诞互动，但移植质量待观察。",
         "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4077494-high-on-life-gun.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "指环王",
-        "title": "前华纳高管称《指环王：北方战争》因撞车《天际》未获公平待遇",
+        "title": "前华纳高管谈《指环王：北方战争》因与《天际》同期发售被低估",
         "link": "https://www.gamespot.com/articles/2011-lord-of-the-rings-game-didnt-get-a-fair-shake-launching-near-skyrim-former-wb-boss-says/",
-        "summary": "前华纳游戏高管Christian Allen评论《指环王：北方战争》近期重制版，称2011年发售时与《上古卷轴5：天际》同期，导致该作未获公平市场机会。",
-        "comment": "经典游戏被大作淹没的遗憾，重制版能否翻身待观察。",
+        "summary": "前华纳游戏高管Christian Allen表示，2011年《指环王：北方战争》因与《天际》同期发售未获公平机会，近期重制版发布引发对当年市场环境的反思。",
+        "comment": "同期大作挤压小作生存空间，行业竞争残酷性可见一斑。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/warinthenorth.jpg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "魏牌",
-        "title": "魏牌V8X上市，23.98万元起，大五座定位",
+        "title": "魏牌V8X上市，23.98万起，大五座定位",
         "link": "https://www.ifanr.com/1675246?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "魏牌V8X正式上市，起售价23.98万元，定位大五座SUV，可视为V9X的六座变体，减少一个座位但保留核心配置。",
-        "comment": "五座版填补细分市场，但价格竞争力待观察。",
+        "comment": "五座版更聚焦家庭用户，价格策略务实。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "手机使用",
-        "title": "天天刷手机，你都在刷些什么？核市奇谭Vol.123",
-        "link": "https://www.gcores.com/radios/218099",
-        "summary": "2025年调查显示成年人日均屏幕使用7.2小时，全年109天注视屏幕。本期推荐喜欢的博主和内容创作者，分享手机使用习惯，附录后彩蛋。",
-        "comment": "直击数字时代痛点，推荐内容实用，但深度稍显不足。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "恐龙快打",
-        "title": "《恐龙快打》怀旧特辑：新主播小狼首秀",
-        "link": "https://www.gcores.com/radios/218387",
-        "summary": "本期节目回顾卡普空经典街机《恐龙快打》，四人可选角色，恐龙岛冒险，打击爽快，至今仍是热门怀旧清版游戏。新主播小狼首秀，与金花、恶霸波、蛋挞畅聊。",
-        "comment": "经典怀旧，新血注入，情怀与新鲜感兼备。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
         "tag": "战神",
-        "title": "《战神：劳菲》演员首日片场砸坏《最后生还者》高尔夫球杆",
+        "title": "《战神：劳菲》演员首日片场砸毁《最后生还者》高尔夫球杆",
         "link": "https://www.gamespot.com/articles/watch-god-of-war-laufey-star-smash-the-last-of-us-golf-club-prop-on-her-first-day/",
-        "summary": "在《战神：劳菲》中饰演菲的黛博拉·安·沃尔，在片场首日意外砸坏了《最后生还者》的道具高尔夫球杆，她在SDCC分享了这一趣事。",
-        "comment": "跨界道具事故，增添游戏圈趣味谈资。",
+        "summary": "在《战神：劳菲》中饰演菲的黛博拉·安沃尔，于圣地亚哥动漫展分享首日拍摄趣事，她意外砸坏了《最后生还者》的高尔夫球杆道具。",
+        "comment": "跨界道具事故，趣味十足，展现演员随性一面。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Golf-of-War-Laufey.jpg?w=300",
-        "score": 88
+        "score": 89
       }
     ]
   },
@@ -589,21 +614,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI模型",
-        "title": "Writer发布新AI模型及升级工具以降低Token成本",
-        "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-        "summary": "Writer基于Z.ai开源模型GLM-5.2进行后训练，推出新系统，宣称以更低价格提供部署就绪能力。",
-        "comment": "成本控制成AI竞争关键，务实之举。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "GPT-5.6",
         "title": "OpenAI发布GPT-5.6开发者指南，助力初创企业构建高效AI代理",
         "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "summary": "OpenAI发布GPT-5.6构建者指南，介绍初创企业如何利用新模型和Responses API，通过更智能的模型选择，构建更快、更经济的AI代理。",
-        "comment": "指南强调成本效率，或推动AI代理应用普及。",
+        "summary": "OpenAI发布GPT-5.6构建者指南，介绍初创企业如何通过智能模型选择和新的Responses API功能，构建更快、成本更低的AI代理。",
+        "comment": "指南务实，但需警惕模型选择复杂化。",
         "image": "",
         "score": 100
       },
@@ -612,8 +627,8 @@
         "tag": "OpenAI",
         "title": "OpenAI预览GPT-5.6 Sol超快模式，速度提升14倍",
         "link": "https://openai.com/index/previewing-ultrafast",
-        "summary": "OpenAI推出Ultrafast API服务层，基于Cerebras硬件，使GPT-5.6 Sol运行速度提升至14倍，输出速度达每秒750 tokens。",
-        "comment": "性能飞跃，但成本与稳定性待观察。",
+        "summary": "OpenAI推出Ultrafast API服务层，基于Cerebras硬件，使GPT-5.6 Sol运行速度提升至14倍，每秒输出高达750个token。",
+        "comment": "速度提升显著，但需关注成本与稳定性。",
         "image": "",
         "score": 100
       },
@@ -622,20 +637,10 @@
         "tag": "OpenAI",
         "title": "OpenAI任命Dali Rajic为首席营收官",
         "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-        "summary": "OpenAI任命Dali Rajic为首席营收官，领导全球营收组织，帮助企业实现AI的全部价值。",
-        "comment": "商业化提速，OpenAI强化营收团队。",
+        "summary": "OpenAI任命Dali Rajic为首席营收官，领导全球营收组织，帮助企业实现AI的全面价值。",
+        "comment": "商业化提速，OpenAI强化营收团队以推动AI落地。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "秦MAX",
-        "title": "秦MAX上市：9.99万起，EV版9分钟充至97%",
-        "link": "https://www.ifanr.com/1675157?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "秦MAX正式上市，起售价9.99万元，EV版支持超快充，9分钟可充至97%，主打高效补能。",
-        "comment": "快充参数亮眼，但实际体验需验证。",
-        "image": "",
-        "score": 91
       }
     ]
   },
@@ -645,7 +650,7 @@
       {
         "category": "人工智能",
         "tag": "企业AI",
-        "title": "OpenAI报告：企业如何将AI从辅助推向执行",
+        "title": "OpenAI研究：企业如何从AI辅助迈向AI执行",
         "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
         "summary": "OpenAI研究显示，企业正采用代理式AI，使用ChatGPT和Codex，前沿公司在AI应用上领先。",
         "comment": "企业AI应用正从辅助转向执行，差距或扩大。",
@@ -654,11 +659,11 @@
       },
       {
         "category": "人工智能",
-        "tag": "AI",
-        "title": "RingCentral借助ChatGPT Work和Codex加速AI产品开发",
+        "tag": "AI开发",
+        "title": "RingCentral借助ChatGPT Work与Codex加速AI产品开发",
         "link": "https://openai.com/index/ringcentral",
-        "summary": "RingCentral利用ChatGPT Work和Codex加速AI产品开发，并集中工程与运营的智能，提升效率与协作。",
-        "comment": "企业级AI落地需全栈整合，RingCentral提供了范例。",
+        "summary": "RingCentral利用ChatGPT Work和Codex加速AI产品开发，并在工程与运营中集中化运营智能，提升效率。",
+        "comment": "企业级AI落地需全栈整合，RingCentral提供了可参考的实践。",
         "image": "",
         "score": 100
       }
@@ -670,20 +675,20 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI开始在ChatGPT中测试广告",
+        "title": "OpenAI开始在ChatGPT中测试广告以支持免费服务",
         "link": "https://openai.com/index/testing-ads-in-chatgpt",
-        "summary": "OpenAI在ChatGPT中测试广告，以支持免费访问，广告将明确标注，不影响答案独立性，并加强隐私保护和用户控制。",
-        "comment": "商业化探索需平衡用户体验与隐私。",
+        "summary": "OpenAI在ChatGPT中测试广告，以支持免费访问，广告将明确标注，不影响回答独立性，并加强隐私保护和用户控制。",
+        "comment": "商业化尝试需平衡用户体验与隐私，值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "AI安全",
         "title": "OpenAI Daybreak模型登陆AWS Bedrock",
         "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
         "summary": "OpenAI与AWS合作，将Daybreak网络安全模型集成至Amazon Bedrock，助力企业安全流程。",
-        "comment": "AI安全工具云化，企业防护再升级。",
+        "comment": "AI安全模型商业化落地，企业安全再添利器。",
         "image": "",
         "score": 100
       }
@@ -695,7 +700,7 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI致信德州州长，承诺负责任AI基础设施",
+        "title": "OpenAI致信德州州长：承诺负责任AI基础设施",
         "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
         "summary": "OpenAI致信德州州长阿博特，阐述其致力于在德州建设负责任AI基础设施的承诺，支持可靠、透明的增长，惠及德州民众。",
         "comment": "此举显示OpenAI积极与地方政府合作，推动AI落地。",
@@ -707,8 +712,8 @@
         "tag": "人工智能",
         "title": "OpenAI：GPT-5.6 Sol助力金融工作更高效",
         "link": "https://openai.com/index/model-ml",
-        "summary": "Model ML借助GPT-5.6 Sol，将金融工作从研究分析到生成可编辑、可追溯的PPT和Excel工作簿，全程提效。",
-        "comment": "AI落地金融场景，可追溯性成关键卖点。",
+        "summary": "Model ML借助GPT-5.6 Sol，将金融工作从研究分析到可编辑、可追溯的PPT和Excel工作簿全流程自动化，提升效率。",
+        "comment": "AI落地金融场景，效率提升显著，但需关注可追溯性。",
         "image": "",
         "score": 100
       },
@@ -717,7 +722,7 @@
         "tag": "AI财务",
         "title": "OpenAI CFO分享构建AI原生财务部门的五大经验",
         "link": "https://openai.com/index/building-an-ai-native-finance-function",
-        "summary": "OpenAI首席财务官Sarah Friar分享构建AI原生财务部门的经验，涵盖自动化预测、强化控制及AI投资回报率等关键领域。",
+        "summary": "OpenAI CFO Sarah Friar分享构建AI原生财务部门的经验，涵盖自动化预测、强化控制及AI投资回报率等关键领域。",
         "comment": "财务部门AI转型的实操指南，值得关注。",
         "image": "",
         "score": 100
@@ -730,10 +735,10 @@
       {
         "category": "游戏影视",
         "tag": "使命召唤",
-        "title": "《使命召唤：现代战争4》测试日期与内容公布",
+        "title": "《使命召唤：现代战争4》测试版日期及内容公布",
         "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/",
-        "summary": "动视确认《使命召唤：现代战争4》多人测试将于8月21日开始，并公布了获取方式、测试内容及参与细节。",
-        "comment": "测试信息明确，玩家可提前规划参与。",
+        "summary": "动视确认《使命召唤：现代战争4》多人测试版将于8月21日开启，并公布了获取方式、测试内容及参与细节。",
+        "comment": "测试版信息明确，玩家可提前规划参与。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/MW4_4dd2db.webp?w=300",
         "score": 92
       }

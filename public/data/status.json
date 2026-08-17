@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-08-16T18:31:33Z",
+  "finished_at": "2026-08-17T01:14:31Z",
   "sources": 9,
   "raw_items": 70,
   "stories": 70,
@@ -209,7 +209,7 @@
     ],
     "stale": true,
     "stale_reason": "X feeds returned no new items; preserved previous digest.",
-    "generated_at": "2026-08-16T18:31:33Z",
+    "generated_at": "2026-08-17T01:14:31Z",
     "last_success_at": "2026-05-17T08:25:41Z"
   },
   "source_statuses": [
@@ -257,7 +257,7 @@
     {
       "source_id": "36kr",
       "source_name": "36Kr",
-      "status": "timeout",
+      "status": "parse_error",
       "items_fetched": 0,
       "active_url": null,
       "attempted_urls": [
@@ -265,7 +265,7 @@
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": "bozo parse error: <urlopen error [Errno 110] Connection timed out>"
+      "error_message": "bozo parse error: <unknown>:10:542: not well-formed (invalid token)"
     },
     {
       "source_id": "ifanr",
