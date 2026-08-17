@@ -3,92 +3,12 @@
     "week": "周五",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "GPU优化",
-        "title": "法国初创Kog深挖GPU推理潜力，挑战算力瓶颈",
-        "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-        "summary": "Kog认为GPU不适合智能体工作流的观点可能是误解，正通过更深层优化提升推理效率，以突破算力限制。",
-        "comment": "挑战常识，但需实证支撑。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "天然气",
-        "title": "天然气价格或飙升，超大规模数据中心面临成本压力",
-        "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-        "summary": "美国部分地区天然气价格可能上涨两倍，这将使依赖天然气供电的AI数据中心面临巨额电费，超大规模云服务商或为此后悔。",
-        "comment": "能源成本成AI扩张新变量，需警惕。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌允许用户移除AI生成内容的可见水印",
-        "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-        "summary": "谷歌更新设置，用户可关闭AI生成内容的可见水印，但不可见标识仍用于识别AI文件，不影响溯源。",
-        "comment": "平衡透明度与用户体验，但可能引发滥用担忧。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "扎克伯格真信AI“人人可用”？Meta开源模型引质疑",
-        "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-        "summary": "Meta发布开源AI模型Glimmer，可自由下载运行，与更强大的闭源Muse Spark形成对比，引发对“AI为所有人”承诺的讨论。",
-        "comment": "开源与闭源并存，口号与现实存差距。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "AI",
-        "title": "网约车模拟器回应AI使用争议，前编剧称被ChatGPT取代",
-        "link": "https://www.gamespot.com/articles/rideshare-stimulator-outlines-ai-usage-after-contentious-exchange-with-ex-writer/",
-        "summary": "Saber Interactive公布新作《Rideshare Stimulator》后，前首席编剧Stella Sacco称开发中被ChatGPT替代，引发AI使用争议，工作室随后说明AI应用范围。",
-        "comment": "AI替代创意岗位争议再起，行业需明确边界。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Rideshare-Stimulator.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Roblox",
-        "title": "Roblox遭美国会调查：儿童安全受关注",
-        "link": "https://www.gamespot.com/articles/roblox-is-now-the-target-of-a-congressional-investigation-children-are-hurting/",
-        "summary": "美国参议员霍利和德宾宣布，因指控Roblox平台威胁儿童安全，将对其进行国会调查。",
-        "comment": "平台监管趋严，儿童保护成焦点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Roblox.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "迪士尼",
-        "title": "迪士尼9大游戏IP零售额超10亿美元，王国之心在列",
-        "link": "https://www.gamespot.com/articles/disney-has-9-gaming-franchises-that-have-generated-1-billion-at-retail-including-kingdom-hearts/",
-        "summary": "迪士尼在D23前发文，强调游戏业务重要性，透露9个游戏系列零售额均超10亿美元，包括《王国之心》，预示未来游戏战略扩张。",
-        "comment": "迪士尼游戏IP变现能力强劲，战略地位显著提升。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/DISGames-1.png?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "2K Games",
-        "title": "2K Games成立新工作室，或打造足球游戏新系列",
-        "link": "https://www.gamespot.com/articles/2k-games-is-making-a-new-sports-franchise-and-all-signs-point-to-soccer/",
-        "summary": "2K Games宣布成立Small Axe Studios，专注于开发新的“重磅”体育游戏系列，迹象表明该项目可能是足球游戏。",
-        "comment": "2K进军足球市场，或挑战EA与科乐美。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Small-Axe.jpg?w=300",
-        "score": 93
-      },
-      {
         "category": "数码科技",
         "tag": "GLM-5.3",
-        "title": "实测GLM-5.3：杀回国模顶流，按下AI竞争重置键",
+        "title": "实测GLM-5.3：杀回国模顶流，按下重置键",
         "link": "https://www.ifanr.com/1675225?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "实测GLM-5.3，在激烈竞争中重回顶流，性能对标2.8万亿参数模型，引发行业关注。",
-        "comment": "国产模型再突破，但需持续验证实际应用价值。",
+        "summary": "爱范儿实测GLM-5.3，对比7000亿与2.8万亿参数模型，性能表现突出，重回国产大模型第一梯队。",
+        "comment": "GLM-5.3以实测数据证明实力，国产模型竞争白热化。",
         "image": "",
         "score": 92
       },
@@ -97,68 +17,18 @@
         "tag": "小米",
         "title": "澎湃OS 4体验：小米首个AIOS表现如何",
         "link": "https://www.ifanr.com/1675208?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米发布澎湃OS 4，作为首个AIOS，系统深度融合AI功能，提升智能体验，但实际效果待观察。",
-        "comment": "AIOS是趋势，小米抢先布局，但体验仍需打磨。",
+        "summary": "小米发布澎湃OS 4，定位为首个AI操作系统，集成AI功能，提升交互与体验，但实际效果待观察。",
+        "comment": "AI加持是亮点，但生态整合仍是关键。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "《光环：战役进化》下周迎来重大更新，画质大幅提升",
-        "link": "https://www.gamespot.com/articles/halo-campaign-evolved-will-look-way-better-soon/",
-        "summary": "《光环：战役进化》将于下周发布首个重大补丁，提供更多画面控制选项，并改进野猪兽等敌人表现，提升游戏体验。",
-        "comment": "补丁聚焦玩家需求，画质与敌人AI双升级。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Halo-Campaign-Evolved-Will-Look-Better-Soon.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤：现代战争4》测试版将首次包含战役模式",
-        "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-will-do-something-no-previous-cod-beta-has/",
-        "summary": "动视宣布《使命召唤：现代战争4》测试版将首次包含战役模式，打破系列测试版仅限多人模式的传统，为玩家提供更完整的内容体验。",
-        "comment": "此举或为提升预购吸引力，但测试版稳定性待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/CODNew-Large.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《High on Life》将登陆VR，可抚摸怪异枪械",
-        "link": "https://www.gamespot.com/articles/high-on-life-is-coming-to-vr-and-yes-you-can-stroke-your-weird-guns/",
-        "summary": "《High on Life》宣布推出VR版本，这款以会说话的外星枪为特色的第一人称射击游戏将支持VR互动，包括抚摸枪械等操作。",
-        "comment": "VR版或成游戏新亮点，但需优化体验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4077494-high-on-life-gun.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "指环王",
-        "title": "前华纳高管：《指环王：北方战争》因临近《天际》发布被低估",
-        "link": "https://www.gamespot.com/articles/2011-lord-of-the-rings-game-didnt-get-a-fair-shake-launching-near-skyrim-former-wb-boss-says/",
-        "summary": "前华纳游戏高管Christian Allen称，2011年《指环王：北方战争》因与《上古卷轴5：天际》同期发售而未获公平对待，近期重制版发布引发对原作的重新评价。",
-        "comment": "档期撞车确实致命，但重制能否翻身仍待市场检验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/warinthenorth.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战神",
-        "title": "《战神：劳菲》主演首日片场砸坏《最后生还者》高尔夫球杆",
-        "link": "https://www.gamespot.com/articles/watch-god-of-war-laufey-star-smash-the-last-of-us-golf-club-prop-on-her-first-day/",
-        "summary": "《战神：劳菲》中饰演菲的黛博拉·安沃尔在首日片场意外砸坏《最后生还者》道具高尔夫球杆，她在SDCC分享了这段趣事。",
-        "comment": "跨界道具事故，增添游戏圈趣味谈资。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Golf-of-War-Laufey.jpg?w=300",
-        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "魏牌",
         "title": "魏牌V8X上市，23.98万元起，大五座定位",
         "link": "https://www.ifanr.com/1675246?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "魏牌V8X以23.98万元起售，定位大五座SUV，实为V9X的六座变体，减少一个座位，配置和设计延续家族风格。",
-        "comment": "五座版填补细分市场，但价格优势不明显。",
+        "summary": "魏牌V8X上市，起售价23.98万元，定位大五座SUV，实为V9X的六座变体，减少一个座位，配置与动力延续家族风格。",
+        "comment": "五座版填补细分市场，但价格与V9X差距需考量。",
         "image": "",
         "score": 90
       }
