@@ -3,12 +3,62 @@
     "week": "周二",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "DCU",
+        "title": "詹姆斯·古恩为DCU风格转变辩护，称不会单一色调",
+        "link": "https://www.ign.com/articles/james-gunn-defends-the-tonal-shift-of-the-dcu-after-lanterns-stirs-conversation-with-gritty-first-episode",
+        "summary": "DC影业联合CEO兼《超人》导演詹姆斯·古恩回应《 lanterns》首集 gritty 风格引发的讨论，强调DCU未来将呈现多元色调，而非统一风格。",
+        "comment": "风格多元是明智之举，但执行需谨慎。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/17/lanterns-dcu-tone-james-gunn-1787011198936.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "华硕",
+        "title": "华硕ZenScreen 16英寸1080p便携显示器促销中",
+        "link": "https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-august-2026",
+        "summary": "华硕ZenScreen 16英寸1080p便携USB显示器在Newegg和AliExpress上降价促销，可作为笔记本副屏或Switch、Steam Deck的便携显示设备。",
+        "comment": "便携屏实用性强，促销价值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/17/asuszenscreen-1787010207511.jpg",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "Claude 为AI文字加水印，引发全球用户强烈不满",
+        "link": "https://www.ifanr.com/1675465?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Claude 推出AI生成文字水印功能，旨在标识AI内容，但此举被用户视为过度控制，引发广泛争议和批评。",
+        "comment": "技术伦理需平衡，强制水印恐适得其反。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "法拉利",
+        "title": "87岁富豪2.7亿买法拉利，史上最贵电车诞生",
+        "link": "https://www.ifanr.com/1675437?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "一位87岁富豪以2.7亿元购得一辆法拉利，创下电动车价格纪录，此前他也曾高价购买法拉利车型。",
+        "comment": "天价电车凸显超豪华市场对电动化的接纳。",
+        "image": "",
+        "score": 92
+      },
+      {
         "category": "数码科技",
         "tag": "宇树科技",
-        "title": "宇树科技将上市，小米SU7交付破50万台",
+        "title": "宇树科技登陆科创板，小米SU7交付破50万台",
         "link": "https://www.ifanr.com/1675451?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "宇树科技将于8月19日登陆科创板，其机器人可跳高2米；小米SU7系列交付突破50万台；豆包支持手机远程操作电脑；OpenAI解散安全储备团队，阿里调整灵犀互娱股东。",
-        "comment": "科技界动态密集，机器人上市与汽车交付双亮点。",
+        "summary": "宇树科技将于8月19日登陆科创板，其机器人可原地跳高2米；小米SU7系列交付突破50万台；豆包支持手机远程操作电脑；OpenAI解散安全储备团队，阿里调整灵犀互娱股东。",
+        "comment": "科技界动态密集，机器人上市与AI安全调整值得关注。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影之刃零",
+        "title": "《影之刃零》索尼专场发布会详解玩法与故事",
+        "link": "https://www.gcores.com/articles/218463",
+        "summary": "8月18日，索尼为国产游戏《影之刃零》举办专场发布会，公开超长实机演示，制作人梁其伟与甄子丹详解世界观、主线剧情及武器系统。",
+        "comment": "国产3A获索尼专场，实机演示诚意足。",
         "image": "",
         "score": 92
       },
@@ -17,29 +67,89 @@
         "tag": "DeepSeek",
         "title": "网友用DeepSeek Harness玩出11个创意插件",
         "link": "https://www.ifanr.com/1675387?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，网友将DeepSeek Harness当作赛博乐高，制作了11个有趣插件，涵盖复刻、工具等，展现AI应用新玩法。",
-        "comment": "AI插件生态初现，创意驱动应用边界拓展。",
+        "summary": "爱范儿报道，网友将DeepSeek Harness当作赛博乐高，开发出11个趣味插件，展现AI工具的可玩性与创造力。",
+        "comment": "AI工具生态正被用户创意激活，值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "索尼",
+        "title": "前SE高管称索尼取消实体光盘或促PSN降价",
+        "link": "https://www.gcores.com/articles/218461",
+        "summary": "前SE高管Jacob Navok认为，索尼放弃实体光盘可能促使PSN游戏降价，主要动力来自出版商竞争，而非数字商店竞争。Steam与Epic平台战显示抽成对玩家价格影响有限。",
+        "comment": "观点新颖，但出版商竞争能否真正让利玩家仍待观察。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "彩虹六号",
-        "title": "《彩虹六号：围攻》新行动“Split Fire”公布首位埃及干员",
+        "title": "《彩虹六号：围攻》公布“Split Fire”行动，首位埃及干员登场",
         "link": "https://www.gcores.com/articles/218459",
-        "summary": "育碧公布《彩虹六号：围攻》新行动“Split Fire”，9月1日起新干员Noor登场，作为首位埃及防守干员，其荷鲁斯之枪可克制护盾，另有传奇分段、地图更新及新玩法，公开测试服已开放。",
-        "comment": "新干员机制针对性强，有望改变防守策略格局。",
+        "summary": "育碧公布《彩虹六号：围攻》“Split Fire”行动详情，9月1日起新干员Noor登场，为防守方，可克制护盾，另有传奇分段、地图更新及新玩法，公开测试服已开放。",
+        "comment": "新干员针对护盾战术，或将改变攻防平衡。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "亚马逊",
+        "tag": "游戏",
+        "title": "女巫学院RPG《微光维克之歌》9月30日发售",
+        "link": "https://www.gcores.com/articles/218460",
+        "summary": "Eastshade Studios开发的女巫学院RPG《微光维克之歌》推出试玩Demo，定于9月30日发售。玩家在音乐与林地奇幻世界中，通过上课、打理花园、交友探索岛屿谜团，施展法术如演奏歌曲。",
+        "comment": "音乐与魔法结合，学院生活模拟或成亮点。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏影视",
         "title": "亚马逊《权游》T恤促销含《龙之家族》设计",
         "link": "https://www.ign.com/articles/game-of-thrones-house-of-the-dragon-t-shirt-sale-august-2026",
         "summary": "亚马逊推出《权力的游戏》主题T恤促销，包含多款《龙之家族》设计，折扣力度大，适合粉丝选购。",
-        "comment": "促销信息实用，但缺乏独家内容。",
+        "comment": "促销时机巧妙，或为《龙之家族》新季预热。",
         "image": "https://assets-prd.ignimgs.com/2026/08/17/game-of-thrones-shirts-1787007469101.png",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "试管婴儿",
+        "title": "英媒：北塞浦路斯试管婴儿机构被指误导父母使用错误捐赠者",
+        "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+        "summary": "英国广播公司调查发现，北塞浦路斯多家试管婴儿诊所涉嫌使用未经父母选择的精子和卵子捐赠者，导致多个孩子可能非父母所期望的生物学后代。",
+        "comment": "生殖伦理监管缺失，跨国医疗风险需警惕。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "图帕克",
+        "title": "图帕克谋杀案庭审：目击者回忆枪击夜混乱场面",
+        "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+        "summary": "图帕克·沙库尔遭枪击后拒绝配合警方，对警察说“我们会处理”，一名警官在庭审中作证。",
+        "comment": "案件时隔多年开庭，关键证词或揭示真相。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "俄罗斯称英国将为向乌克兰提供无人机付出代价",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "summary": "英国国防部回应称，英国与乌克兰肩并肩站在一起。此前俄方警告，英国向乌克兰提供无人机将面临后果。",
+        "comment": "俄方威胁升级，英国立场坚定，局势或进一步紧张。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "德国",
+        "title": "德国警方突袭仓库打击小船偷渡团伙",
+        "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "summary": "德国当局依据新法首次突袭，查获充气艇和救生衣，旨在打击非法移民走私活动。",
+        "comment": "新法落地，德国严打偷渡链条。",
+        "image": "",
         "score": 86
       }
     ]
