@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "GPT-5.6",
+        "tag": "OpenAI",
         "title": "OpenAI发布GPT-5.6开发者指南，助力初创企业构建高效AI代理",
         "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "summary": "OpenAI发布GPT-5.6构建者指南，介绍初创企业如何利用新模型和Responses API，通过更智能的模型选择，构建更快、更经济的AI代理。",
-        "comment": "指南务实，凸显模型选择与API优化对成本效率的关键作用。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI预览超快模式：GPT-5.6 Sol速度提升14倍",
-        "link": "https://openai.com/index/previewing-ultrafast",
-        "summary": "OpenAI推出Ultrafast API服务层，基于Cerebras硬件，运行GPT-5.6 Sol速度提升14倍，输出速度达每秒750 tokens。",
-        "comment": "速度提升显著，但需关注成本与稳定性。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI任命Dali Rajic为首席营收官",
-        "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-        "summary": "OpenAI任命Dali Rajic为首席营收官，领导全球营收组织，帮助企业实现AI的全部价值。",
-        "comment": "商业化提速，AI变现进入新阶段。",
+        "summary": "OpenAI发布GPT-5.6构建者指南，介绍初创企业如何利用新模型和Responses API，通过更智能的模型选择，构建更快、更具成本效益的AI代理。",
+        "comment": "指南聚焦实用，降低AI代理开发门槛，值得关注。",
         "image": "",
         "score": 100
       }
