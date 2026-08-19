@@ -5,20 +5,20 @@
       {
         "category": "人工智能",
         "tag": "AI编程",
-        "title": "Cursor借GitHub用户不满，推出竞品代码托管平台",
+        "title": "Cursor借GitHub用户不满，推出竞争性代码托管平台",
         "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-        "summary": "AI代码编辑器Cursor宣布推出代码托管平台，直接挑战GitHub，利用开发者对GitHub的不满情绪，提供替代选择。",
-        "comment": "Cursor此举意在生态扩张，但撼动GitHub尚需时日。",
+        "summary": "AI代码编辑器Cursor推出新代码托管平台，直接挑战GitHub，利用开发者对GitHub的不满情绪，提供替代选择。",
+        "comment": "此举或加剧代码托管市场竞争，但挑战GitHub生态非易事。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "OpenAI在Hugging Face泄露后加强安全措施",
+        "title": "OpenAI在Hugging Face泄露后加强安全防护",
         "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-        "summary": "OpenAI在Hugging Face遭入侵后，推出新安全措施，包括开发过程中更详细的模型监控，以及在后训练阶段更重视对齐与安全。",
-        "comment": "安全漏洞倒逼AI巨头补短板，行业需共筑防线。",
+        "summary": "OpenAI在Hugging Face遭入侵后，新增开发过程模型监控，并强化后训练阶段的对齐与安全措施。",
+        "comment": "安全漏洞倒逼AI巨头补课，行业需警惕供应链风险。",
         "image": "",
         "score": 100
       },
@@ -28,46 +28,36 @@
         "title": "Etched估值一个月翻倍至210亿美元",
         "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
         "summary": "Jane Street安装Etched首个AI集群系统后印象深刻，领投新一轮巨额融资，推动估值一个月内翻倍至210亿美元。",
-        "comment": "资本热捧背后，AI芯片竞争白热化。",
+        "comment": "硬件初创获高频交易巨头背书，估值飙升凸显AI算力需求。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "Perplexity",
-        "title": "Perplexity免费AI策略为印度带来数百万新用户",
-        "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-        "summary": "Perplexity与Airtel合作免费提供AI服务，虽下载量下降，但印度收入增长约60%，用户基础显著扩大。",
-        "comment": "免费策略成功转化用户，但长期盈利模式待考。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "ChatGPT",
+        "tag": "OpenAI",
         "title": "ChatGPT广告扩展至31个欧洲市场",
         "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-        "summary": "OpenAI宣布ChatGPT广告扩展至31个欧洲市场，广告主可通过该平台触达正在探索、比较和决策的用户。",
-        "comment": "商业化提速，欧洲市场成关键一步。",
+        "summary": "OpenAI宣布ChatGPT广告服务扩展至31个欧洲市场，广告主可通过该平台触达正在探索、比较和决策的用户。",
+        "comment": "商业化提速，但需关注用户隐私与体验平衡。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "OpenAI启动国家安全领域AI民主监督计划",
+        "title": "OpenAI启动国家安全AI民主监督计划",
         "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-        "summary": "OpenAI推出新计划，通过提供工具、培训和专业知识，支持政府机构加强对AI在国家安全应用中民主监督，确保技术发展符合民主价值观。",
-        "comment": "AI安全治理迈出关键一步，但实际效果待观察。",
+        "summary": "OpenAI推出新计划，通过提供工具、培训和专业知识，支持政府机构加强对AI在国家安全领域应用的民主监督。",
+        "comment": "AI安全治理进入实操阶段，值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI教育",
-        "title": "OpenAI携手CodeAI培养AI一代",
+        "title": "OpenAI携手CodeAI培养首代AI人才",
         "link": "https://openai.com/index/partnering-with-codeai",
-        "summary": "OpenAI与CodeAI合作，旨在提升学生AI素养，培养批判性思维，并掌握负责任使用与塑造AI的技能。",
+        "summary": "OpenAI与CodeAI合作，旨在提升学生AI素养，培养批判性思维及负责任使用AI的能力。",
         "comment": "教育合作是AI普及的关键一步。",
         "image": "",
         "score": 100
@@ -77,18 +67,18 @@
         "tag": "AI安全",
         "title": "OpenAI加强前沿AI安全监控，调整模型开发节奏",
         "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "summary": "OpenAI宣布加强前沿AI模型的监控、对齐和安全措施，以应对网络关键能力带来的风险，并据此调整模型开发速度。",
-        "comment": "安全与速度的平衡，是AI发展的关键命题。",
+        "summary": "OpenAI宣布强化对前沿AI模型的监控、对齐与安全措施，以应对网络关键能力带来的风险，并据此调整模型开发速度。",
+        "comment": "安全与速度的平衡是AI发展的关键课题。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "青少年",
         "title": "OpenAI推出青少年版ChatGPT，强化学习与保护",
         "link": "https://openai.com/index/chatgpt-for-teens",
-        "summary": "OpenAI发布ChatGPT for Teens，面向青少年，内置更强保护措施、健康使用功能和家长控制，帮助其自信学习与使用AI。",
-        "comment": "教育场景AI落地，安全设计是关键。",
+        "summary": "OpenAI发布ChatGPT for Teens，专为青少年设计，提供更强的内置保护、健康使用功能和家长控制，帮助青少年自信学习、批判性思考和使用AI。",
+        "comment": "教育场景落地，但保护措施实效待观察。",
         "image": "",
         "score": 100
       },
@@ -98,7 +88,7 @@
         "title": "NVIDIA借助ChatGPT Work扩展专业知识应用",
         "link": "https://openai.com/index/nvidia/chatgpt-work",
         "summary": "NVIDIA团队利用ChatGPT Work减少手动任务，连接快速变化信号，并在全球范围内扩展成功工作流程。",
-        "comment": "企业级AI应用正从工具走向规模化平台。",
+        "comment": "AI工具在企业内部规模化应用，效率提升显著。",
         "image": "",
         "score": 100
       },
@@ -107,7 +97,7 @@
         "tag": "AI编程",
         "title": "Asana用OpenAI Codex两周完成五年工程工作量",
         "link": "https://openai.com/index/asana",
-        "summary": "Asana借助OpenAI Codex，以约1.2万美元成本，在两周内替换了过时的测试系统，完成了原本预计需五年完成的工程任务。",
+        "summary": "Asana借助OpenAI Codex，以约1.2万美元成本在两周内替换了过时的测试系统，完成了原本预计需五年完成的工作。",
         "comment": "AI编程工具显著提升效率，但需关注长期维护成本。",
         "image": "",
         "score": 100
@@ -117,78 +107,18 @@
         "tag": "苹果",
         "title": "苹果带摄像头AirPods或避免隐私陷阱",
         "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-        "summary": "苹果泄露的带摄像头AirPods可能通过禁止用户录制照片和视频，避免其他AI可穿戴设备的隐私问题。",
+        "summary": "苹果泄露的带摄像头AirPods可能通过禁止录制照片和视频，避免其他AI可穿戴设备的隐私问题。",
         "comment": "设计克制，隐私优先，值得期待。",
         "image": "",
         "score": 99
       },
       {
-        "category": "人工智能",
-        "tag": "AI开发",
-        "title": "Warp推出AI开发软件工厂新系统",
-        "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-        "summary": "Warp于周二发布Warp Factories，旨在简化AI软件工厂搭建，提供开箱即用的基础设施，降低开发门槛。",
-        "comment": "此举或加速AI应用落地，但竞争激烈。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出青少年版ChatGPT，强化安全与家长控制",
-        "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-        "summary": "OpenAI发布ChatGPT青少年版，新增适龄安全措施、家长控制和防作弊学习工具，旨在引导青少年远离有害内容并规范使用AI。",
-        "comment": "姗姗来迟的合规举措，能否真正赢得家长信任待观察。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA6",
-        "title": "GTA 6疑似泄露新画面与地图，R星紧急下架",
-        "link": "https://www.gamespot.com/articles/apparent-gta-6-footage-and-map-leak-as-rockstar-issues-takedowns/",
-        "summary": "《侠盗猎车手6》疑似泄露新游戏画面和地图细节，真实性待确认。R星已发出DMCA删除通知，应对此次泄露事件。",
-        "comment": "泄露频发，R星维权迅速，玩家期待值再攀高。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Grand-Theft-Auto-VI-Trailer-1-1-16-screenshot-Large.jpeg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《杀出重围》之父沃伦·斯佩克特宣布退休",
-        "link": "https://www.gamespot.com/articles/deus-ex-and-immersive-sim-founding-father-warren-spector-retires-from-game-development/",
-        "summary": "游戏行业传奇人物沃伦·斯佩克特宣布退休，不再参与游戏开发。他曾主导《杀出重围》等沉浸式模拟游戏，影响深远。",
-        "comment": "一代宗师谢幕，沉浸式模拟游戏失去旗帜。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/3008191-warren_spector_1280.0.webp?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "NBA 2K27",
-        "title": "NBA 2K27彻底革新体育游戏剧情模式",
-        "link": "https://www.gamespot.com/articles/nba-2k27-just-rewrote-the-sports-game-story-mode/",
-        "summary": "NBA 2K27临近发售，2K Sports深度解析新特性，重点在于彻底重写剧情模式，带来更沉浸的叙事体验和全新玩法机制。",
-        "comment": "剧情模式革新或成体育游戏新标杆。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/7801d17b-220e-424c-8f7e-fc0c5efb974d.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战地6",
-        "title": "战地6免费试玩与使命召唤现代战争4公测周末重叠",
-        "link": "https://www.gamespot.com/articles/battlefield-6-free-trial-overlaps-with-call-of-duty-modern-warfare-4-beta-this-weekend/",
-        "summary": "本周末，战地6开启免费试玩，与使命召唤现代战争4的公测时间重叠，两大射击游戏系列为玩家提供同期体验机会。",
-        "comment": "两大FPS巨头同期活动，玩家选择困难。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/battlefield-Large.jpeg?w=300",
-        "score": 93
-      },
-      {
         "category": "数码科技",
         "tag": "鸿蒙",
-        "title": "AI时代电脑新形态：鸿蒙生态应用超19000款",
+        "title": "AI时代电脑新形态：鸿蒙电脑生态应用超19000款",
         "link": "https://www.ifanr.com/1675518?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "鸿蒙电脑发布一年多，生态应用超19000款，围绕折叠屏、跨设备协同和系统级AI重塑工作流。实测办公、创作、专业软件，探索AI时代电脑应有形态。",
-        "comment": "鸿蒙电脑以AI和全场景协同重新定义PC，生态增长是关键。",
+        "summary": "鸿蒙电脑发布一年多，生态应用超19000款，围绕折叠屏、跨设备协同和系统级AI重新设计工作流。实际体验办公、创作和专业软件，探讨AI时代电脑应有的形态。",
+        "comment": "鸿蒙电脑以AI和全场景协同重新定义PC，生态增长是关键考验。",
         "image": "",
         "score": 92
       },
@@ -197,49 +127,9 @@
         "tag": "AI",
         "title": "支付宝联合手机汽车大模型，推动AI Agent协作",
         "link": "https://www.ifanr.com/1675514?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "支付宝联合手机、汽车及大模型，推动AI Agent间协作，预示下一代互联网形态成形。",
-        "comment": "跨终端AI协作是趋势，支付宝布局具前瞻性。",
+        "summary": "支付宝联合手机、汽车及大模型，推动AI Agent间协作，预示下一代互联网形态开始成形。",
+        "comment": "跨端协作是AI落地关键，但生态整合挑战大。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《史诗米奇》让迪士尼经典回归，沃伦·斯佩克特退休前强调团队贡献",
-        "link": "https://www.gamespot.com/articles/epic-mickey-brought-an-icon-back-to-disney-and-warren-specter-doesnt-want-you-to-forget/",
-        "summary": "游戏开发者沃伦·斯佩克特从业四十余年后宣布退休，他特别强调《史诗米奇》团队让米奇这一迪士尼标志性角色重返大众视野，并希望外界记住团队的功劳。",
-        "comment": "退休之际不忘团队，行业老将的格局与情怀。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4262412-epic-mickey.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "爆料称科隆游戏展将公布惊喜Xbox新作",
-        "link": "https://www.gamespot.com/articles/surprise-xbox-game-to-be-announced-at-gamescom-insider-says/",
-        "summary": "据知情人士NateTheHate 2透露，微软将在本月科隆游戏展上公布一款新游戏，可能来自知名系列，具体细节未明。",
-        "comment": "微软展会策略值得期待，但需谨慎对待传闻。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/XboxGamescom_765260.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "被解雇开发者呼吁：不要抵制GTA 6，应助其维权",
-        "link": "https://www.gamespot.com/articles/dont-boycott-gta-6-help-win-justice-instead-fired-devs-say/",
-        "summary": "一群前《GTA 6》开发者指控Rockstar Games破坏工会，并与其进行法律斗争。他们不希望玩家抵制游戏，而是呼吁玩家支持其维权行动。",
-        "comment": "抵制游戏或伤及无辜，支持维权更显理性。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Dont-Boycott-GTA-6-Fired-Devs-Say.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "AI",
-        "title": "索尼CEO：AI时代人类将更渴望真实艺术",
-        "link": "https://www.gamespot.com/articles/sony-oasis-loving-ceo-thinks-were-going-to-crave-human-made-art-in-the-age-of-ai/",
-        "summary": "索尼CEO认为，随着AI生成内容增多，人们将更珍视人类创作的艺术，这一观点回应了AI在创意领域的争议。",
-        "comment": "预测合理，但需警惕AI对创作生态的实际冲击。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4524100-astro-bot.jpg?w=300",
         "score": 92
       },
       {
@@ -251,36 +141,6 @@
         "comment": "AI社区产品需平衡技术与用户需求，蜜蜂AI值得关注。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《控制：共振》下月发售，光盘版或延期",
-        "link": "https://www.gamespot.com/articles/control-resonant-still-comes-out-next-month-unless-you-want-it-on-disc/",
-        "summary": "Remedy宣布《控制：共振》已开发完成，定于9月24日发售，但光盘版可能因制作原因延迟，数字版不受影响。",
-        "comment": "数字优先趋势下，光盘版延期成常态。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Control-Resonant.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PS Plus",
-        "title": "PS Plus即将下架10款游戏，抓紧时间通关",
-        "link": "https://www.gamespot.com/articles/playstation-plus-is-removing-10-games-soon-so-finish-them-while-you-can/",
-        "summary": "上周PS Plus新增多款游戏供Extra和Premium会员游玩，同时有10款游戏即将退出目录，提醒玩家在截止前完成。",
-        "comment": "游戏轮换机制下，玩家需留意时间窗口。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4540249-madden-nfl-26.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "时事热点",
-        "tag": "Meta",
-        "title": "美国法庭听证：Meta被指让儿童沉迷社交平台",
-        "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国多州起诉Meta，指控其平台致儿童成瘾。Meta辩称社交媒体成瘾不存在，庭审已开始。",
-        "comment": "科技巨头与监管博弈，儿童保护成焦点。",
-        "image": "",
-        "score": 87
       }
     ]
   }
