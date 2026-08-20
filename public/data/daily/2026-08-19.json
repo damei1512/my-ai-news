@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI支付",
-        "title": "Stripe收购OpenRouter：真实动机与“奇点”无关",
+        "tag": "Stripe",
+        "title": "Stripe收购OpenRouter：并非为“奇点”而是现实业务",
         "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-        "summary": "支付巨头Stripe收购AI路由初创OpenRouter，官方称因“奇点”，实为布局AI支付基础设施，获取模型调用数据与开发者生态。",
-        "comment": "借“奇点”炒作，本质是抢占AI经济入口。",
+        "summary": "支付巨头Stripe收购AI路由初创公司OpenRouter，官方称因“奇点”，实则看中其模型路由能力，以拓展AI支付与基础设施业务。",
+        "comment": "收购背后是AI商业化落地，而非科幻叙事。",
         "image": "",
         "score": 100
       },
@@ -18,67 +18,7 @@
         "title": "OpenAI推新客户隐私保护，与Anthropic竞争升级",
         "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
         "summary": "OpenAI与Anthropic在为企业客户提供数据隐私保护方面展开竞争，OpenAI推出新措施以争取优势。",
-        "comment": "隐私保护成AI企业服务新战场，竞争利好客户。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI编程",
-        "title": "Cognition CEO否认SpaceX收购传闻",
-        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-        "summary": "据报道，SpaceX曾洽谈收购AI编程初创公司Cognition，但CEO否认。SpaceX已收购Cursor，以追赶OpenAI和Anthropic在企业AI领域的步伐。",
-        "comment": "否认传闻或为稳定军心，但收购意图仍存疑。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI信任",
-        "title": "AI普及未赢人心，硅谷面临信任危机",
-        "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-        "summary": "随着AI无处不在，消费者对其警惕性上升。硅谷发现，广泛采用并未带来接受，信任赤字成为AI发展的关键障碍。",
-        "comment": "技术普及不等于人心所向，信任建设刻不容缓。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌为搜索和Gemini推出新AI学习工具",
-        "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-        "summary": "谷歌发布新学习功能，旨在让Gemini成为学生首选AI助手，与竞争对手展开较量，覆盖搜索和Gemini平台。",
-        "comment": "谷歌加速布局教育AI，但差异化仍是关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI撤回网络安全项目访问权限引研究者不满",
-        "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-        "summary": "OpenAI的“可信网络访问”项目旨在为防御者提供更优模型以报告漏洞，但近期撤回部分研究者访问权限，引发争议。",
-        "comment": "安全项目透明度不足，恐损害信任。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI算力",
-        "title": "华尔街如何为AI算力定价：一家初创公司的解法",
-        "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-        "summary": "AI建设热潮不减，每年数千亿美元投入数据中心和GPU，算力成为最大成本。一家初创公司帮助华尔街评估AI计算价值，为投资决策提供依据。",
-        "comment": "算力定价是AI投资的关键，这家公司切中痛点。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "核能",
-        "title": "TerraPower核反应堆为AI数据中心供电的秘密武器",
-        "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-        "summary": "TerraPower核电站拥有战略优势，尤其在争夺数据中心交易时，其先进反应堆技术可提供稳定清洁电力，满足AI算力需求。",
-        "comment": "核能或成AI基建关键，但安全与成本仍是挑战。",
+        "comment": "隐私保护成AI企业服务新战场。",
         "image": "",
         "score": 100
       },
@@ -87,120 +27,20 @@
         "tag": "OpenAI",
         "title": "OpenAI为前沿模型提供零数据保留选项",
         "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-        "summary": "OpenAI重申对符合条件的API客户提供零数据保留，并预览私有安全处理，以在不损害数据隐私的前提下实现高级AI安全。",
-        "comment": "此举平衡了隐私与安全，但适用范围有限。",
+        "summary": "OpenAI重申对符合条件的API客户提供零数据保留，并预览私有安全处理，以在不牺牲数据隐私的前提下实现高级AI安全。",
+        "comment": "此举平衡了安全与隐私，或成行业新标准。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI编程",
-        "title": "Replit推出免费模式，借助GPT-5.6 Luna降低软件开发门槛",
+        "tag": "人工智能",
+        "title": "Replit推出免费模式，借助GPT-5.6 Luna实现人人可编程",
         "link": "https://openai.com/index/replit",
-        "summary": "Replit推出免费模式，由GPT-5.6 Luna驱动，用户无需担心token成本即可将创意转化为可用软件，大幅降低开发门槛。",
-        "comment": "免费模式或重塑AI编程竞争格局。",
+        "summary": "Replit推出免费模式，基于GPT-5.6 Luna，用户无需担心token费用即可将创意转化为可运行软件，大幅降低编程门槛。",
+        "comment": "免费模式或颠覆软件开发行业，但需关注模型可靠性。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6预购收入已超4亿美元",
-        "link": "https://www.gamespot.com/articles/gta-6-has-already-made-400-million-from-preorders-apparently/",
-        "summary": "第三方研究公司Sensor Tower数据显示，GTA 6预购收入已超4亿美元，创下游戏预购新纪录。",
-        "comment": "预购火爆，但需警惕过度炒作。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/GTAKayak.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6新泄露视频曝光：杰森·杜瓦尔驾驶片段引热议",
-        "link": "https://www.gamespot.com/articles/new-gta-6-leak-features-shocking-gameplay-footage-and-we-mean-that-literally/",
-        "summary": "GTA 6疑似第二天泄露，新片段展示主角杰森·杜瓦尔的驾驶场景，包含糟糕驾驶、知名流行歌曲及多人互动，引发玩家关注。",
-        "comment": "泄露频发，R星需加强内部管控。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Jason_Duval_02.14867_v40cn.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤：现代战争4》Beta码获取新方式：喷子有奖",
-        "link": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
-        "summary": "《使命召唤：现代战争4》开发商为回击玩家质疑，向在社交媒体上嘲讽游戏的玩家赠送Beta测试码，以证明游戏品质。",
-        "comment": "营销创意十足，但需警惕负面舆论反噬。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox新更新允许玩家选择删除旧存档",
-        "link": "https://www.gamespot.com/articles/xboxs-latest-console-update-will-finally-let-you-choose-old-saves-to-delete/",
-        "summary": "Xbox最新控制台更新已向Insider用户推送，增强主屏幕和存档管理，支持手动选择删除旧存档，并改进个人资料定制。",
-        "comment": "终于解决存档管理痛点，提升用户控制力。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xbox-Update-Local-Saves.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "美军单位以《GTA6》四天假期激励士兵再入伍",
-        "link": "https://www.gamespot.com/articles/army-unit-gives-soldiers-4-day-pass-to-play-gta-6-if-they-re-enlist/",
-        "summary": "美国佐治亚州一陆军单位为鼓励士兵续签，提供《GTA6》11月发售期间的四天假期，仅限再入伍者。",
-        "comment": "游戏激励征兵，创意但引发争议。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Brian_Heder_landscape.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "初代Xbox回归，这次需要自己动手组装",
-        "link": "https://www.gamespot.com/articles/the-original-xbox-is-back-and-this-time-you-have-to-build-it-yourself/",
-        "summary": "初代Xbox凭借独特设计成为经典，现推出DIY组装套件，让玩家亲手打造怀旧主机，体验原汁原味的组装乐趣。",
-        "comment": "怀旧与动手结合，创意十足但门槛不低。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xbox-2.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏开发",
-        "title": "前PlayStation高管称AI将致游戏开发前景艰难",
-        "link": "https://www.gamespot.com/articles/ex-playstation-boss-says-game-development-will-have-a-tough-future-because-of-ai/",
-        "summary": "前PlayStation Studios负责人吉田修平认为，AI正渗透游戏开发各环节，虽能提升效率，但可能导致行业未来面临挑战，需平衡创新与成本。",
-        "comment": "AI是双刃剑，行业需谨慎应对。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Pragmata-Yoshida.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤：现代战争4》Beta测试奖励公布",
-        "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-offers-these-rewards-as-you-climb-the-ranks/",
-        "summary": "《使命召唤：现代战争4》Beta测试将于8月21日开启，参与玩家可通过提升等级获得专属奖励，延续系列传统。",
-        "comment": "奖励机制或成吸引玩家参与测试的关键。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-11.32.57-AM.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "詹姆斯·庞德新预告引AI争议，开发者否认使用AI",
-        "link": "https://www.gamespot.com/articles/james-pond-new-trailer-has-ai-alarm-bells-ringing-comments-turned-off/",
-        "summary": "复古游戏热潮下，詹姆斯·庞德系列新作预告引发AI创作质疑，开发者回应称未使用AI，但已关闭评论功能。",
-        "comment": "开发者否认难消疑虑，关闭评论非明智之举。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/James-Pond.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏主机",
-        "title": "千元游戏机或对行业产生重大负面影响",
-        "link": "https://www.gamespot.com/articles/1000-consoles-could-have-this-dramatic-negative-effect-on-gaming-report/",
-        "summary": "下一代PlayStation和Xbox可能定价1000美元，分析公司警告这将对游戏行业产生戏剧性负面效应，具体影响尚待观察。",
-        "comment": "高价主机或加剧市场分化，需警惕行业风险。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/console-image.jpg?w=300",
-        "score": 92
       }
     ]
   }
