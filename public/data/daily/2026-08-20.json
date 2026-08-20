@@ -3,14 +3,134 @@
     "week": "周四",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "百思买以旧换新优惠：Switch 2 最高省205美元",
+        "link": "https://www.ign.com/articles/nintendo-switch-2-trade-in-deal-best-buy-anniversary-sale",
+        "summary": "百思买周年庆推出以旧换新活动，用旧Switch换购Switch 2可享75美元折扣，另加最高130美元积分，总优惠达205美元。9月1日起零售价将上调。",
+        "comment": "促销力度大，但需注意涨价节点，建议尽快行动。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/20/nintendoswitch2mariokart-1787184467483.jpg",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "办公椅",
+        "title": "X-Tech行政椅挑战Herman Miller与Steelcase高端市场",
+        "link": "https://www.ign.com/articles/x-tech-executive-chair-aims-to-upend-premium-models-from-herman-miller-steelcase",
+        "summary": "X-Tech推出行政椅，以更低价格对标Herman Miller和Steelcase的顶级型号，旨在颠覆超高端座椅市场。",
+        "comment": "性价比策略能否撼动品牌忠诚度，值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/19/xtechchair-1787180511987.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影票房",
+        "title": "瑞安·雷诺兹祝贺诺兰《奥德赛》成R级片票房冠军",
+        "link": "https://www.ign.com/articles/ryan-reynolds-congratulates-christopher-nolans-the-odyssey-for-surpassing-deadpool-wolverine-to-become-highest-grossing-r-rated-movie-of-all-time",
+        "summary": "克里斯托弗·诺兰的《奥德赛》超越《死侍与金刚狼》，成为史上最卖座R级电影。瑞安·雷诺兹发文祝贺，称两部影片虽风格迥异，但均获观众青睐。",
+        "comment": "诺兰史诗击败死侍，R级片市场潜力再获验证。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/20/ryan-reynolds-congratulates-the-odyssey-highes-grossing-r-rated-movie-of-all-time-1787185455616.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "黑神话",
+        "title": "《黑神话：钟馗》15分钟实机演示公布",
+        "link": "https://www.gcores.com/videos/218569",
+        "summary": "游戏科学公布《黑神话：钟馗》15分钟实机演示，展示主角战斗与剧情片段，为开发中版本，21:9比例录制，处于研发早期。",
+        "comment": "黑神话系列第二作，实机画面值得期待。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "黑神话",
+        "title": "《黑神话：钟馗》公布15分钟实机演示",
+        "link": "https://www.gcores.com/articles/218573",
+        "summary": "游戏科学公布《黑神话：钟馗》15分钟实机演示，首次展示主角战斗与剧情片段，为开发中版本，最终内容或有不同。",
+        "comment": "演示诚意足，但早期版本仍需观望。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "网络安全",
+        "title": "Steam壁纸引擎再现病毒传播，红信警示不可靠",
+        "link": "https://www.gcores.com/articles/218568",
+        "summary": "卡巴斯基警告，黑客利用Steam壁纸引擎创意工坊传播恶意软件，入侵客户端并窃取账号，导致红信和客服提示失效。恶意代码藏于壁纸文件，安装后后台静默运行。",
+        "comment": "平台审核漏洞再现，用户需警惕非官方渠道内容。",
+        "image": "",
+        "score": 93
+      },
+      {
         "category": "数码科技",
-        "tag": "特斯拉",
-        "title": "豆包进特斯拉车机，苹果AirPods摄像头延期，宇树上市大涨",
-        "link": "https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "豆包接入特斯拉车机，苹果带摄像头AirPods推迟至2027年，宇树科技上市首日涨460%，另有苹果家庭中枢、小马智行海外部署及保时捷Taycan停产传闻回应。",
-        "comment": "科技热点密集，宇树暴涨凸显机器人赛道资本热度。",
+        "tag": "视频模型",
+        "title": "MiniMax Design发布，视频模型迎来专属创作工具",
+        "link": "https://www.ifanr.com/1675657?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "MiniMax Design作为视频模型专用创作应用，旨在替代专业软件，简化视频制作流程，提升创作效率。",
+        "comment": "视频模型工具化，或重塑创作生态。",
         "image": "",
         "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "Stripe",
+        "title": "Stripe 80亿美元收购OpenRouter，AI中转站易主",
+        "link": "https://www.ifanr.com/1675718?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "支付巨头Stripe以80亿美元收购AI模型路由平台OpenRouter，交易正式落地，标志其加速布局AI基础设施。",
+        "comment": "支付巨头跨界AI，战略意图明显。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "豆包进特斯拉车机，苹果AirPods摄像头延期，宇树上市大涨",
+        "link": "https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "豆包接入特斯拉车机；苹果带摄像头AirPods推迟至2027年；宇树科技上市首日涨460%。另有苹果家庭中枢、小马智行海外部署、保时捷Taycan停产传闻等动态。",
+        "comment": "科技热点密集，AI与硬件融合加速，市场反应热烈。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果带摄像头AirPods意外曝光，今年仍无缘上市",
+        "link": "https://www.ifanr.com/1675719?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果带摄像头的AirPods专利或原型意外曝光，引发隐私担忧，但今年不会发布，用户仍需等待。",
+        "comment": "创新与隐私的平衡，苹果需谨慎。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone X",
+        "title": "iPhone X停产，但其影响仍深远",
+        "link": "https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "iPhone X正式停产，但其全面屏设计、Face ID等创新定义了智能手机新时代，至今影响深远。",
+        "comment": "经典虽逝，范式永存。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "坦克世界",
+        "title": "《坦克世界》国服周年庆开启，150百运领衔最强补给",
+        "link": "https://www.gcores.com/articles/218574",
+        "summary": "《坦克世界》国服820周年庆典8月20日开启，推出特别版150百运「二郎真君」及免费九级金币坦克活动，福利力度号称史上最夯。",
+        "comment": "周年庆福利实在，但付费补给仍是核心，玩家需理性消费。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Steam",
+        "title": "Steam周销量榜：《影之刃零》登顶，《绝地潜兵2》紧随",
+        "link": "https://www.gcores.com/articles/218562",
+        "summary": "V社公布2026年8月第2周Steam全球销量榜，《影之刃零》强势登顶，《绝地潜兵2》紧随其后，榜单排除免费游戏，提供游戏及硬件选购参考。",
+        "comment": "国产单机新作登顶，市场热度可见一斑。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "游戏影视",
@@ -20,25 +140,95 @@
         "summary": "《战地风云6》即日起至8月25日开启免费试玩周，玩家可体验最大规模战场“津留礁”群岛，支持海陆空载具与所有模式，并迎来威克岛传奇回归。",
         "comment": "免费试玩是拉新良机，但需关注服务器稳定性。",
         "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《喂龙高手》8月21日上线，与《小丑牌》推捆绑包",
+        "link": "https://www.gcores.com/articles/218577",
+        "summary": "独立游戏《喂龙高手》8月21日登陆Steam，国区售价50元，首发折扣20%。与《小丑牌》推出捆绑包，已拥有《小丑牌》的玩家可再享额外10%折扣。",
+        "comment": "捆绑促销策略精准，利好老玩家，但游戏品质待验证。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《Apex英雄》英灵猎宴活动上线，众神之力降临",
+        "link": "https://www.gcores.com/articles/218564",
+        "summary": "《Apex英雄》推出“英灵猎宴”活动，即日至9月8日，玩家可获取超自然力量，如加速、吸血、破防，通过战斗成长，赚取烙印解锁道具，并有直布罗陀黄金威名皮肤。",
+        "comment": "活动机制新颖，但皮肤吸引力有限。",
+        "image": "",
         "score": 90
       },
       {
         "category": "时事热点",
-        "tag": "特朗普",
-        "title": "特朗普威胁对援助伊朗国家实施重大经济后果",
-        "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-        "summary": "60天停火协议周一到期，外交与军事出路未见，特朗普警告任何援助伊朗的国家将面临巨大经济后果。",
-        "comment": "极限施压再现，中东局势或进一步升级。",
+        "tag": "恒大",
+        "title": "恒大创始人许家印被判终身监禁",
+        "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+        "summary": "许家印被判刑标志着恒大倒闭风波的关键节点，该事件曾震动中国房地产行业。",
+        "comment": "此判决彰显监管决心，但行业影响深远。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "俄罗斯导弹袭击基辅及周边地区，至少八人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "summary": "乌克兰国家紧急服务局称，周四的“大规模攻击”针对公寓楼和仓库，造成至少八人死亡。",
+        "comment": "俄乌冲突持续升级，平民伤亡令人担忧。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "澳大利亚",
-        "title": "澳大利亚对以色列不起诉加沙援助人员遇害案表示愤慨",
+        "title": "澳大利亚愤怒：以色列拒查加沙援助人员被杀案",
         "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-        "summary": "澳大利亚外长称将召见以色列大使，抗议其决定不起诉杀害援助人员佐米·弗兰克姆的涉案人员，称此举“侮辱性”。",
-        "comment": "以色列司法决定引发盟友不满，外交摩擦升级。",
+        "summary": "澳大利亚外长召见以色列大使，抗议以方不调查杀害援助人员弗兰克姆的决定，称其“侮辱性”。",
+        "comment": "以方回避追责，恐加剧国际社会对加沙人道危机的关切。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "特朗普威胁对援助伊朗国家施加巨大经济后果",
+        "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+        "summary": "60天停火协议周一到期，冲突无外交或军事出路，特朗普警告任何帮助伊朗的国家将面临巨大经济后果。",
+        "comment": "极限施压再现，中东局势或进一步升级。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "气候变化",
+        "title": "格陵兰海域冰层消融，巨鲸涌入觅食",
+        "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+        "summary": "气候变化导致海冰融化，格陵兰水域向巨鲸开放，它们在此进行密集觅食活动。",
+        "comment": "气候变暖的生态影响正以意想不到的方式显现。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "利比里亚",
+        "title": "利比里亚前副总统因涉毒品贩运案被起诉",
+        "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+        "summary": "利比里亚前副总统朱厄尔·霍华德-泰勒被指控非法协助、进口和销售毒品，并涉及洗钱。",
+        "comment": "前高官涉毒，凸显西非毒品治理困境。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "以色列",
+        "title": "以色列确认士兵向希德·拉贾布所在车辆开火并展开刑事调查",
+        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "summary": "五岁巴勒斯坦女孩希德·拉贾布在袭击中幸存并呼救，但最终与六名亲属遗体一同被发现。以色列军方确认士兵开火，已启动刑事调查。",
+        "comment": "事件真相待查，但儿童伤亡凸显冲突残酷。",
         "image": "",
         "score": 87
       },
@@ -47,8 +237,8 @@
         "tag": "以色列",
         "title": "以色列开放西岸敏感定居点项目招标",
         "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-        "summary": "英国外交大臣谴责此举为“不可接受且具破坏性的行为”，该项目涉及高度敏感地区，引发国际关注。",
-        "comment": "此举加剧地区紧张，国际反应强烈。",
+        "summary": "英国外交大臣谴责此举为“不可接受且具破坏性的行为”，项目涉及高度敏感地区。",
+        "comment": "定居点问题再升温，国际反应强烈。",
         "image": "",
         "score": 87
       }
