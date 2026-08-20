@@ -5,70 +5,10 @@
       {
         "category": "人工智能",
         "tag": "AI支付",
-        "title": "Stripe收购OpenRouter：表面为奇点，实为AI支付布局",
+        "title": "Stripe收购OpenRouter：真实动机与“奇点”无关",
         "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-        "summary": "支付巨头Stripe收购AI模型路由初创OpenRouter，官方称因“奇点”，实际是为掌控AI应用支付入口，布局未来AI经济基础设施。",
-        "comment": "收购背后是务实商业考量，而非科幻叙事。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI信任",
-        "title": "AI未能赢得公众信任，硅谷面临接受度困境",
-        "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-        "summary": "随着AI无处不在，消费者对其警惕性上升。硅谷发现，广泛采用并未带来普遍接受，信任危机成为AI普及的关键障碍。",
-        "comment": "技术普及不等于人心所向，信任建设需长期投入。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI算力",
-        "title": "华尔街如何为AI算力定价？这家初创公司来帮忙",
-        "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-        "summary": "AI建设热潮不减，每年数千亿美元投入数据中心和GPU，算力成为最大成本。一家初创公司帮助华尔街评估AI计算的价值。",
-        "comment": "算力定价成新赛道，反映AI投资进入精细化阶段。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "核能",
-        "title": "TerraPower核反应堆为AI数据中心供电的秘密武器",
-        "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-        "summary": "TerraPower核电站拥有战略优势，尤其在争夺数据中心交易时，其先进反应堆设计可提供稳定清洁能源，满足AI算力需求。",
-        "comment": "核能或成AI基础设施关键，TerraPower布局前瞻。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "亚马逊",
-        "title": "亚马逊Alexa+免费登陆Fire TV，无需Prime会员",
-        "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-        "summary": "亚马逊宣布其AI助手Alexa+在美国所有兼容Fire TV设备上免费提供，自动升级用户，无需Prime订阅。",
-        "comment": "此举大幅降低AI助手使用门槛，或加速智能家居普及。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI为零数据保留API客户提供前沿模型隐私安全处理",
-        "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-        "summary": "OpenAI重申对符合条件的API客户提供零数据保留，并预览私有安全处理，确保高级AI安全不牺牲数据隐私。",
-        "comment": "此举平衡安全与隐私，或成行业新标杆。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI编程",
-        "title": "Replit推出免费模式，基于GPT-5.6 Luna实现人人可开发",
-        "link": "https://openai.com/index/replit",
-        "summary": "Replit发布Free Mode，由GPT-5.6 Luna驱动，用户无需担心token费用即可将创意转化为可用软件，大幅降低开发门槛。",
-        "comment": "此举将AI编程推向大众，但免费模式的可持续性待观察。",
+        "summary": "支付巨头Stripe收购AI路由初创OpenRouter，官方称因“奇点”，实为布局AI支付基础设施，获取模型调用数据与开发者生态。",
+        "comment": "借“奇点”炒作，本质是抢占AI经济入口。",
         "image": "",
         "score": 100
       },
@@ -77,10 +17,10 @@
         "tag": "OpenAI",
         "title": "OpenAI推新客户隐私保护，与Anthropic竞争升级",
         "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-        "summary": "OpenAI与Anthropic在企业客户数据隐私保护上展开竞争，OpenAI推出新措施以争取优势。",
-        "comment": "隐私成AI企业服务新战场，竞争利好用户。",
+        "summary": "OpenAI与Anthropic在为企业客户提供数据隐私保护方面展开竞争，OpenAI推出新措施以争取优势。",
+        "comment": "隐私保护成AI企业服务新战场，竞争利好客户。",
         "image": "",
-        "score": 99
+        "score": 100
       },
       {
         "category": "人工智能",
@@ -88,147 +28,107 @@
         "title": "Cognition CEO否认SpaceX收购传闻",
         "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
         "summary": "据报道，SpaceX曾洽谈收购AI编程初创公司Cognition，但CEO否认。SpaceX已收购Cursor，以追赶OpenAI和Anthropic在企业AI领域的步伐。",
-        "comment": "否认传闻难掩AI编程赛道竞争白热化。",
+        "comment": "否认传闻或为稳定军心，但收购意图仍存疑。",
         "image": "",
-        "score": 99
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI信任",
+        "title": "AI普及未赢人心，硅谷面临信任危机",
+        "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+        "summary": "随着AI无处不在，消费者对其警惕性上升。硅谷发现，广泛采用并未带来接受，信任赤字成为AI发展的关键障碍。",
+        "comment": "技术普及不等于人心所向，信任建设刻不容缓。",
+        "image": "",
+        "score": 100
       },
       {
         "category": "人工智能",
         "tag": "谷歌",
-        "title": "谷歌为搜索和Gemini推出AI学习工具",
+        "title": "谷歌为搜索和Gemini推出新AI学习工具",
         "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-        "summary": "谷歌发布新学习功能，旨在让Gemini成为学生首选AI助手，与竞品争夺教育市场。",
-        "comment": "教育场景成AI竞争新焦点。",
+        "summary": "谷歌发布新学习功能，旨在让Gemini成为学生首选AI助手，与竞争对手展开较量，覆盖搜索和Gemini平台。",
+        "comment": "谷歌加速布局教育AI，但差异化仍是关键。",
         "image": "",
-        "score": 99
+        "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI撤销研究人员网络防御项目访问权限",
+        "title": "OpenAI撤回网络安全项目访问权限引研究者不满",
         "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-        "summary": "OpenAI的“可信网络访问”项目旨在为防御者提供模型以报告漏洞，但部分研究人员称访问权限被突然撤销，引发对合作透明度的质疑。",
-        "comment": "安全合作需稳定承诺，撤销权限恐伤信任。",
+        "summary": "OpenAI的“可信网络访问”项目旨在为防御者提供更优模型以报告漏洞，但近期撤回部分研究者访问权限，引发争议。",
+        "comment": "安全项目透明度不足，恐损害信任。",
         "image": "",
-        "score": 99
+        "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI会议",
-        "title": "Calendly推出会议纪要助手Callie，加入AI会议工具竞争",
-        "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-        "summary": "Calendly发布名为Callie的会议调度助手，具备会议记录功能，正式进入AI会议纪要工具市场，与现有产品展开竞争。",
-        "comment": "老牌日程工具切入AI纪要，差异化是关键。",
+        "tag": "AI算力",
+        "title": "华尔街如何为AI算力定价：一家初创公司的解法",
+        "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+        "summary": "AI建设热潮不减，每年数千亿美元投入数据中心和GPU，算力成为最大成本。一家初创公司帮助华尔街评估AI计算价值，为投资决策提供依据。",
+        "comment": "算力定价是AI投资的关键，这家公司切中痛点。",
         "image": "",
-        "score": 99
+        "score": 100
       },
       {
-        "category": "游戏影视",
-        "tag": "Steam",
-        "title": "Steam Frame即将发布，开箱与设置视频泄露",
-        "link": "https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online",
-        "summary": "Valve的Steam Frame设备开箱及设置视频在网络上泄露，随后官方主动发布这些视频，暗示该产品即将正式推出。",
-        "comment": "官方借泄露造势，Steam Frame发布在即。",
-        "image": "https://assets-prd.ignimgs.com/2025/11/12/steamframe-hardwaredeepdive-blogroll-1762917165879.jpg",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "AR眼镜",
-        "title": "Snap首款AR眼镜Specs开启预购",
-        "link": "https://www.ign.com/articles/preorder-the-specs-ar-glasses-from-snap",
-        "summary": "Snap推出轻便时尚的AR眼镜Specs，现已开放预购，主打个人可穿戴计算体验。",
-        "comment": "AR眼镜走向消费市场，但生态尚待考验。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/07/specsjackharlow-1783448009112.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威金刚狼",
-        "title": "《漫威金刚狼》导演回应实机演示争议",
-        "link": "https://www.ign.com/articles/director-of-marvels-wolverine-responds-after-extended-gameplay-footage-sparks-backlash",
-        "summary": "《漫威金刚狼》导演Mike Daly回应近期实机演示引发的批评，承认展示效果不佳，并承诺改进游戏品质。",
-        "comment": "回应及时，但需以实际改进证明诚意。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/22/ps-studios-blog-1784719617494.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "IFA",
-        "title": "IFA 2026前瞻：AI成为展会核心主题",
-        "link": "https://www.ign.com/articles/ifa-2026-what-to-expect",
-        "summary": "IFA 2026不仅是贸易展，更是文化游乐场，AI技术将贯穿展会，预示消费电子与人工智能深度融合的新趋势。",
-        "comment": "AI主导IFA，行业风向标明确。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/19/screenshot-2026-08-19-at-2-25-11-pm-1787174787194.png",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《现代战争4》测试版将沿用争议匹配系统",
-        "link": "https://www.ign.com/articles/modern-warfare-4-beta-reveals-multiplayer-matchmaking-plans-will-continue-to-use-divisive-new-matchmaking-system",
-        "summary": "《使命召唤：现代战争4》测试版将采用去年引入的开放匹配系统，并加入备受争议的新匹配机制，引发玩家讨论。",
-        "comment": "动视坚持新匹配，玩家体验或受影响。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/20/call-of-duty-modern-warfare-4-beta-test-dates-confirmed-1784582463520.png",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI安全",
-        "title": "OpenAI紧急暂停新模型训练，AI越聪明越危险",
-        "link": "https://www.ifanr.com/1675512?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenAI因安全担忧暂停新模型训练，显示AI能力提升伴随风险增加，需平衡发展与安全。",
-        "comment": "安全暂停是必要之举，AI发展需谨慎前行。",
+        "category": "人工智能",
+        "tag": "核能",
+        "title": "TerraPower核反应堆为AI数据中心供电的秘密武器",
+        "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+        "summary": "TerraPower核电站拥有战略优势，尤其在争夺数据中心交易时，其先进反应堆技术可提供稳定清洁电力，满足AI算力需求。",
+        "comment": "核能或成AI基建关键，但安全与成本仍是挑战。",
         "image": "",
-        "score": 93
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI为前沿模型提供零数据保留选项",
+        "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "summary": "OpenAI重申对符合条件的API客户提供零数据保留，并预览私有安全处理，以在不损害数据隐私的前提下实现高级AI安全。",
+        "comment": "此举平衡了隐私与安全，但适用范围有限。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI编程",
+        "title": "Replit推出免费模式，借助GPT-5.6 Luna降低软件开发门槛",
+        "link": "https://openai.com/index/replit",
+        "summary": "Replit推出免费模式，由GPT-5.6 Luna驱动，用户无需担心token成本即可将创意转化为可用软件，大幅降低开发门槛。",
+        "comment": "免费模式或重塑AI编程竞争格局。",
+        "image": "",
+        "score": 100
       },
       {
         "category": "游戏影视",
-        "tag": "哥伦比亚之家",
-        "title": "哥伦比亚之家运营71年后正式关闭",
-        "link": "https://www.ign.com/articles/mail-order-media-giant-columbia-house-shutting-down-after-71-years",
-        "summary": "邮购音乐和电影俱乐部哥伦比亚之家在运营71年后，正式停止接受新订单并关闭业务。",
-        "comment": "传统邮购模式终被数字时代淘汰。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/19/columbia-house-ad-thumb-1787180573678.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
+        "tag": "GTA 6",
         "title": "GTA 6预购收入已超4亿美元",
         "link": "https://www.gamespot.com/articles/gta-6-has-already-made-400-million-from-preorders-apparently/",
-        "summary": "据第三方研究公司Sensor Tower数据，GTA 6预购收入已超4亿美元，显示玩家期待极高。",
-        "comment": "预购火爆印证IP号召力，但需警惕过度炒作。",
+        "summary": "第三方研究公司Sensor Tower数据显示，GTA 6预购收入已超4亿美元，创下游戏预购新纪录。",
+        "comment": "预购火爆，但需警惕过度炒作。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/GTAKayak.jpg?w=300",
         "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6新泄露视频曝光，杰森·杜瓦尔驾驶片段引热议",
+        "title": "GTA 6新泄露视频曝光：杰森·杜瓦尔驾驶片段引热议",
         "link": "https://www.gamespot.com/articles/new-gta-6-leak-features-shocking-gameplay-footage-and-we-mean-that-literally/",
-        "summary": "GTA 6疑似泄露第二天，新片段展示主角杰森·杜瓦尔的驾驶场景，包含糟糕驾驶、知名流行歌曲及多人互动，引发玩家关注。",
-        "comment": "泄露频发，R星保密工作堪忧，但内容真实性待验证。",
+        "summary": "GTA 6疑似第二天泄露，新片段展示主角杰森·杜瓦尔的驾驶场景，包含糟糕驾驶、知名流行歌曲及多人互动，引发玩家关注。",
+        "comment": "泄露频发，R星需加强内部管控。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Jason_Duval_02.14867_v40cn.jpg?w=300",
         "score": 93
       },
       {
-        "category": "数码科技",
-        "tag": "智己L6",
-        "title": "智己L6预售21.99万起，全线控底盘下探20万级",
-        "link": "https://www.ifanr.com/1675639?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "全新智己L6预售21.99万元起，将全线控底盘技术带入20万级市场，并推出高定限量版，提升智能驾驶体验。",
-        "comment": "技术下放加速，20万级市场竞争更激烈。",
-        "image": "",
-        "score": 92
-      },
-      {
         "category": "游戏影视",
         "tag": "使命召唤",
-        "title": "《使命召唤：现代战争4》Beta码获取新方式：喷子玩家可免费得",
+        "title": "《使命召唤：现代战争4》Beta码获取新方式：喷子有奖",
         "link": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
-        "summary": "《使命召唤：现代战争4》开发商为证明一位喷子玩家错误，向其赠送游戏早期Beta测试码，以此回应其负面言论。",
-        "comment": "营销手段新颖，但可能助长负面行为。",
+        "summary": "《使命召唤：现代战争4》开发商为回击玩家质疑，向在社交媒体上嘲讽游戏的玩家赠送Beta测试码，以证明游戏品质。",
+        "comment": "营销创意十足，但需警惕负面舆论反噬。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg?w=300",
         "score": 92
       },
@@ -237,28 +137,38 @@
         "tag": "Xbox",
         "title": "Xbox新更新允许玩家选择删除旧存档",
         "link": "https://www.gamespot.com/articles/xboxs-latest-console-update-will-finally-let-you-choose-old-saves-to-delete/",
-        "summary": "Xbox最新主机更新已向Insider用户推送，新增主屏幕和存档管理控制，可选择性删除旧存档，并改进个人资料定制。",
-        "comment": "终于解决存档管理痛点，提升用户体验。",
+        "summary": "Xbox最新控制台更新已向Insider用户推送，增强主屏幕和存档管理，支持手动选择删除旧存档，并改进个人资料定制。",
+        "comment": "终于解决存档管理痛点，提升用户控制力。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xbox-Update-Local-Saves.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "美军部队以玩GTA6为诱饵鼓励士兵再入伍",
+        "title": "美军单位以《GTA6》四天假期激励士兵再入伍",
         "link": "https://www.gamespot.com/articles/army-unit-gives-soldiers-4-day-pass-to-play-gta-6-if-they-re-enlist/",
-        "summary": "美国佐治亚州一陆军部队为鼓励士兵再入伍，承诺若在GTA6于11月发售期间重新入伍，将获得四天假期以游玩该游戏。",
-        "comment": "征兵新招，游戏成激励手段，效果待观察。",
+        "summary": "美国佐治亚州一陆军单位为鼓励士兵续签，提供《GTA6》11月发售期间的四天假期，仅限再入伍者。",
+        "comment": "游戏激励征兵，创意但引发争议。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Brian_Heder_landscape.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
+        "tag": "Xbox",
+        "title": "初代Xbox回归，这次需要自己动手组装",
+        "link": "https://www.gamespot.com/articles/the-original-xbox-is-back-and-this-time-you-have-to-build-it-yourself/",
+        "summary": "初代Xbox凭借独特设计成为经典，现推出DIY组装套件，让玩家亲手打造怀旧主机，体验原汁原味的组装乐趣。",
+        "comment": "怀旧与动手结合，创意十足但门槛不低。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xbox-2.jpg?w=300",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
         "tag": "游戏开发",
-        "title": "前PlayStation高管称AI将使游戏开发面临艰难未来",
+        "title": "前PlayStation高管称AI将致游戏开发前景艰难",
         "link": "https://www.gamespot.com/articles/ex-playstation-boss-says-game-development-will-have-a-tough-future-because-of-ai/",
-        "summary": "前PlayStation Studios负责人吉田修平指出，AI正渗透游戏开发各环节，虽能提升效率，但可能导致行业竞争加剧、创意同质化，未来开发环境将更加艰难。",
-        "comment": "行业老将的警示，AI双刃剑效应凸显。",
+        "summary": "前PlayStation Studios负责人吉田修平认为，AI正渗透游戏开发各环节，虽能提升效率，但可能导致行业未来面临挑战，需平衡创新与成本。",
+        "comment": "AI是双刃剑，行业需谨慎应对。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Pragmata-Yoshida.jpg?w=300",
         "score": 92
       },
@@ -268,119 +178,29 @@
         "title": "《使命召唤：现代战争4》Beta测试奖励公布",
         "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-offers-these-rewards-as-you-climb-the-ranks/",
         "summary": "《使命召唤：现代战争4》Beta测试将于8月21日开启，参与玩家可通过提升等级获得专属奖励，延续系列传统。",
-        "comment": "奖励机制延续系列惯例，但具体内容尚待揭晓。",
+        "comment": "奖励机制或成吸引玩家参与测试的关键。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-11.32.57-AM.png?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《詹姆斯庞德》新预告引AI争议，开发者否认",
+        "title": "詹姆斯·庞德新预告引AI争议，开发者否认使用AI",
         "link": "https://www.gamespot.com/articles/james-pond-new-trailer-has-ai-alarm-bells-ringing-comments-turned-off/",
-        "summary": "复古游戏合集盛行，詹姆斯庞德粉丝迎来新作。新预告引发AI生成质疑，开发者回应否认，但评论已关闭。",
-        "comment": "AI争议频发，开发者回应及时但评论关闭略显回避。",
+        "summary": "复古游戏热潮下，詹姆斯·庞德系列新作预告引发AI创作质疑，开发者回应称未使用AI，但已关闭评论功能。",
+        "comment": "开发者否认难消疑虑，关闭评论非明智之举。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/James-Pond.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏机",
-        "title": "千元游戏机或对游戏业产生重大负面影响",
+        "tag": "游戏主机",
+        "title": "千元游戏机或对行业产生重大负面影响",
         "link": "https://www.gamespot.com/articles/1000-consoles-could-have-this-dramatic-negative-effect-on-gaming-report/",
-        "summary": "下一代PlayStation和Xbox可能定价1000美元，分析公司警告这将对游戏行业产生显著负面效应，但具体影响尚待观察。",
-        "comment": "高价或加剧市场分化，需警惕行业风险。",
+        "summary": "下一代PlayStation和Xbox可能定价1000美元，分析公司警告这将对游戏行业产生戏剧性负面效应，具体影响尚待观察。",
+        "comment": "高价主机或加剧市场分化，需警惕行业风险。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/console-image.jpg?w=300",
         "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "插混",
-        "title": "钛7 DM长续航版上市，纯电315km，起售价19.58万",
-        "link": "https://www.ifanr.com/1675594?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "钛7 DM长续航版上市，纯电续航315km，起售价19.58万元，较标准版增加6000元换装大电池，提升纯电行驶能力。",
-        "comment": "加价6000元换大电池，性价比突出，瞄准长途通勤用户。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "奕境X9",
-        "title": "奕境X9预售价29.98万起，主打半价问界M9",
-        "link": "https://www.ifanr.com/1675579?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "奕境X9以29.98万元起预售，定位对标问界M9，强调性价比，但品牌力与智驾能力待市场检验。",
-        "comment": "低价策略能否撼动问界，关键看实际体验。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《Project P.I.T.T.》登陆Steam：将琐碎任务做成游戏",
-        "link": "https://www.gcores.com/articles/218553",
-        "summary": "增量式物理自动化沙盒游戏《Project P.I.T.T.》今日登陆Steam，玩家搭建生产线完成企业指标，将产品投入无底深渊，讽刺职场琐碎任务。",
-        "comment": "创意独特，讽刺职场，玩法新颖。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "初代Xbox回归，这次需要自己动手组装",
-        "link": "https://www.gamespot.com/articles/the-original-xbox-is-back-and-this-time-you-have-to-build-it-yourself/",
-        "summary": "初代Xbox凭借经典黑色外观和巧妙设计，至今仍被视为最漂亮的游戏主机之一。现在，玩家可以购买零件自行组装，重温经典。",
-        "comment": "情怀与DIY结合，但组装难度和成本待考量。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xbox-2.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "数码配件",
-        "title": "制糖工厂发布「绿魔」细雳线 Pro：2米主动式高速贴贴线",
-        "link": "https://www.ifanr.com/1675607?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂推出2米主动式高速贴贴线「绿魔」细雳线 Pro，主打高速传输与专业体验，具体规格未详述。",
-        "comment": "主动式设计或提升传输稳定性，但需实测验证。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "克苏鲁",
-        "title": "克苏鲁风味童话：沙沙·布拉村复兴记",
-        "link": "https://www.gcores.com/articles/218566",
-        "summary": "受不圆的珍珠委托发布，讲述沙沙·布拉村的复兴故事，融合克苏鲁元素，强调发音细节与诡异氛围，风格独特。",
-        "comment": "克苏鲁与童话混搭，创意新颖但受众有限。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "乐高",
-        "title": "乐高粉丝更接近获得吉卜力工作室套装",
-        "link": "https://www.ign.com/articles/lego-fans-studio-ghibli-ideas-2026",
-        "summary": "乐高Ideas平台吉卜力主题项目获万票支持，进入官方评审，若通过将于2026年推出套装。",
-        "comment": "情怀与商业双赢，但设计还原度是关键。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/19/lego-studio-ghibli-1787165154017.png",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "乌克兰",
-        "title": "被解职的乌克兰防长呼吁举行总统选举",
-        "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰自2022年2月起实施戒严，选举暂停。被解职的国防部长呼吁举行总统选举，引发政治关注。",
-        "comment": "战时选举争议凸显乌克兰政治紧张局势。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "直升机坠毁",
-        "title": "厄瓜多尔情报局长与五名美国人在肯尼亚直升机坠毁中遇难",
-        "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-        "summary": "厄瓜多尔情报局长Michele Sensi-Contugi及其妻子Stephany Hollihan在肯尼亚直升机坠毁中丧生，事故共致7人死亡，包括5名美国人。",
-        "comment": "跨国高官遇难凸显海外安全风险，需关注后续调查。",
-        "image": "",
-        "score": 87
       }
     ]
   }
