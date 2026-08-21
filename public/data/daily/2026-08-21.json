@@ -4,20 +4,20 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI训练",
+        "tag": "AI训练数据",
         "title": "AI数据初创公司Micro1年化收入达5亿美元",
         "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-        "summary": "AI训练数据需求激增，推动Micro1及其竞争对手快速增长，公司年化总收入达到5亿美元。",
-        "comment": "数据需求爆发，AI基础设施竞争加剧。",
+        "summary": "AI训练数据需求激增，推动Micro1及其竞争对手快速增长，公司年化总收入已达5亿美元。",
+        "comment": "数据需求爆发，Micro1增长迅猛，行业竞争加剧。",
         "image": "",
         "score": 100
       },
       {
         "category": "游戏影视",
         "tag": "Netflix",
-        "title": "Netflix公布动漫新作阵容，含《赛博朋克》续集",
+        "title": "Netflix公布大量动漫新作，含《赛博朋克》续集等",
         "link": "https://www.ign.com/articles/netflix-reveals-packed-anime-slate-full-announcement-rundown-trailers-and-images",
-        "summary": "Netflix在Anime NYC展示大量新项目，包括《赛博朋克：边缘行者2》《海贼王》《蓝眼武士》等独家预告和图片。",
+        "summary": "Netflix在Anime NYC展示多部新作，包括《赛博朋克：边缘行者2》《海贼王》及《蓝眼武士》等，并发布预告与剧照。",
         "comment": "Netflix持续加码动漫，原创IP续作值得期待。",
         "image": "https://assets-prd.ignimgs.com/2026/08/20/cyberpunk-edgerunners-2-image-weak-kingsley-netflix-anime-nyc-1787250957403.jpg",
         "score": 95
@@ -27,7 +27,7 @@
         "tag": "赛博朋克",
         "title": "Netflix公布《赛博朋克：边缘行者2》新预告与剧照",
         "link": "https://www.ign.com/articles/netflix-reveals-new-cyberpunk-edgerunners-2-trailer-and-images-at-anime-nyc",
-        "summary": "Netflix在Anime NYC上发布了《赛博朋克：边缘行者2》的新预告和剧照，展示了高能动作与悲剧情节，为粉丝带来更深入的视觉预览。",
+        "summary": "Netflix在Anime NYC上发布了《赛博朋克：边缘行者2》的新预告和剧照，展示了高能动作与悲剧情节，让粉丝对续作充满期待。",
         "comment": "续作延续前作风格，但能否超越经典仍是未知数。",
         "image": "https://assets-prd.ignimgs.com/2026/08/20/cyberpunk-edgerunners-2-image-weak-kingsley-netflix-anime-nyc-1787250957403.jpg",
         "score": 94
@@ -37,28 +37,108 @@
         "tag": "蓝眼武士",
         "title": "Netflix确认《蓝眼武士》第三季为最终季",
         "link": "https://www.ign.com/articles/netflix-confirms-blue-eye-samurai-will-end-with-third-and-final-season",
-        "summary": "Netflix宣布动画《蓝眼武士》将在第三季正式完结，该季为系列最终季。",
-        "comment": "经典动画迎来终章，期待圆满收尾。",
+        "summary": "Netflix宣布动画剧集《蓝眼武士》将在第三季正式完结，该季为最终季。",
+        "comment": "经典动画迎来终章，期待完美收官。",
         "image": "https://assets-prd.ignimgs.com/2026/08/20/blue-eye-samurai-s2-images-trailer-netflix-1787258284431.jpg",
-        "score": 94
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果VR部门再裁60人，Vision Pro 2悬了？",
+        "link": "https://www.ifanr.com/1675978?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果VR部门再裁60人，或预示Vision Pro 2前景黯淡，未来重心或转向AI眼镜。",
+        "comment": "裁员信号明显，苹果或调整XR战略。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果Apple Music全面收录AI音乐，平台策略引关注",
+        "link": "https://www.ifanr.com/1675958?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果Apple Music宣布将全面收录AI生成的音乐，不遗漏任何作品，此举或改变音乐平台生态，国内平台尚未跟进。",
+        "comment": "苹果此举抢占AI音乐先机，但版权与质量挑战并存。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "ChatGPT",
+        "title": "ChatGPT可读取短信，AI获取用户数据引担忧",
+        "link": "https://www.ifanr.com/1675954?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "ChatGPT新增短信读取功能，可访问用户App数据，引发隐私安全讨论。苹果需加强权限管控，防止数据滥用。",
+        "comment": "AI便利与隐私边界需平衡，苹果应严守数据防线。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "战术FPS",
-        "title": "《WARDOGS》封闭Beta周末开启，Steam愿望单破百万",
+        "title": "《WARDOGS》封闭Beta周末开启，愿望单破百万",
         "link": "https://www.gcores.com/articles/218605",
-        "summary": "BULKHEAD开发、Team17发行的百人三方战术FPS《WARDOGS》本周末开启封闭Beta，NDA全面解除。游戏公开仅六个月，Steam愿望单已突破100万，显示极高期待度。",
-        "comment": "愿望单破百万印证市场热度，但Beta表现才是关键。",
+        "summary": "BULKHEAD开发、Team17发行的百人三方战术FPS《WARDOGS》本周末开启封闭Beta，NDA解除。游戏公开仅六个月，Steam愿望单已突破100万，热度显著。",
+        "comment": "六个月破百万愿望单，战术FPS市场潜力可观。",
         "image": "",
         "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "DeepSeek",
+        "title": "零基础速通DeepSeek Harness，玩转赛博乐高",
+        "link": "https://www.ifanr.com/1675781?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿教程，零基础掌握DeepSeek Harness工具，实现创意搭建，期待多模态支持。",
+        "comment": "实用教程，降低上手门槛，值得一试。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "数码科技",
         "title": "iPhone 18 Pro、微信AI修图、华为阔直板手机等早报",
         "link": "https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Stripe收购OpenRouter，承诺独立运营；Omdia预测阔折叠屏带动市场增长；美光投资100亿美元建AI存储实验室。",
-        "comment": "科技巨头加速布局AI与折叠屏，行业竞争白热化。",
+        "summary": "Stripe收购OpenRouter，承诺独立运营；Omdia预测阔折叠带动折叠屏增长；美光投资100亿美元建AI存储实验室。",
+        "comment": "折叠屏与AI应用成焦点，行业竞争加剧。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "节奏游戏",
+        "title": "《节奏汪星》登陆多平台，人狗情未了节奏版",
+        "link": "https://www.gcores.com/articles/218626",
+        "summary": "由Serenity Forge开发、Mecrew Games联合发行的节奏视觉小说《节奏汪星》现已登陆Switch、Xbox、Steam和Epic，Steam国区售价18元。",
+        "comment": "创意融合节奏与情感，低价策略或吸引玩家尝鲜。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "音游",
+        "title": "萌娘音游《白金档案》中文版即将史低发售",
+        "link": "https://www.gcores.com/articles/218624",
+        "summary": "韩国HIGH-END Games开发的萌娘音游《白金档案》将于9月10日推出1.0正式版，国区售价从180元降至史低，Steam特别好评，手感扎实、曲库庞大。",
+        "comment": "史低促销或为吸引新玩家，但需关注正式版内容增量。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《时之书：无尽终章》免费体验版Steam上线",
+        "link": "https://www.gcores.com/articles/218622",
+        "summary": "集英社游戏宣布，《时之书：无尽终章》免费体验版已于8月20日在Steam开放下载，包含开篇至吸血鬼相遇内容，融合手绘2D与3D洋馆场景，含Boss战。",
+        "comment": "体验版内容扎实，手绘风格独特，值得一试。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "寂静岭",
+        "title": "《寂静岭：Townfall》实机演示公布，西蒙重返神秘小镇",
+        "link": "https://www.gcores.com/articles/218616",
+        "summary": "《寂静岭：Townfall》公布最新实机演示，独立心理恐怖游戏，玩家扮演西蒙·奥德尔，于1996年重返苏格兰圣阿米莉亚岛，在浓雾中调查小镇异动，逐步揭开记忆残片。",
+        "comment": "经典IP新作，氛围营造值得期待，但玩法创新待观察。",
         "image": "",
         "score": 91
       },
@@ -67,10 +147,80 @@
         "tag": "辐射76",
         "title": "《辐射76》秋季推出“杀手”主题更新，分阶段解锁新活动",
         "link": "https://www.gcores.com/articles/218613",
-        "summary": "贝塞斯达宣布《辐射76》秋季更新“杀手”主题，分阶段解锁新活动，包括武器制作系统改动和赛季机制升级。玩家需追查冒充“小个子杀手”的凶手，挖掘线索并击退狂热分子，难度逐步提升。",
-        "comment": "分阶段更新提升耐玩性，但需警惕内容碎片化。",
+        "summary": "贝塞斯达宣布《辐射76》秋季推出“杀手”主题更新，分阶段解锁新活动，包括武器制作系统改动和赛季机制升级。玩家需追查冒充“小个子杀手”的凶手，挖掘线索并击退狂热分子，难度逐步提升。",
+        "comment": "分阶段更新或能延长玩家兴趣，但需警惕内容碎片化。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《又一个僵尸幸存者》1.0正式版发售，多平台上线",
+        "link": "https://www.gcores.com/articles/218627",
+        "summary": "经过三年抢先体验，售出超60万份，获13000条特别好评，历经八次大型更新后，团队合作型弹幕生存游戏《又一个僵尸幸存者》推出1.0正式版，登陆Steam、GOG、PS和Xbox，本次更新内容相当于四次大型更新。",
+        "comment": "长跑三年终转正，内容诚意足，但市场热度已过。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "肉鸽幸存者《废土幸存者：爆心英雄》多平台发售",
+        "link": "https://www.gcores.com/articles/218628",
+        "summary": "由Rowan Edmondson开发，Acclaim与Aurakenn联合发行的怪诞肉鸽割草游戏《废土幸存者：爆心英雄》现已登陆Steam、Switch 2、Xbox及PS5平台。",
+        "comment": "多平台同步发售，独立游戏覆盖面广。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "厄尔尼诺",
+        "title": "英国气象局：厄尔尼诺或为有生以来最强",
+        "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "summary": "科学家称，不断增强的厄尔尼诺现象是“前所未有的事件”，2027年可能成为有记录以来最热的一年。",
+        "comment": "气候异常加剧，全球应对刻不容缓。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "香港",
+        "title": "香港天安门活动人士国安法审判获罪",
+        "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+        "summary": "三名活动人士被指控煽动颠覆国家政权，依据中国引入的香港国安法，法院裁定罪名成立。",
+        "comment": "国安法实施效果显著，司法程序依法进行。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "日本",
+        "title": "日本处决柏青哥纵火案致五人死亡凶手",
+        "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+        "summary": "日本对一名在柏青哥店纵火致五人死亡的男子执行死刑，这是自2025年6月以来该国首次执行死刑。",
+        "comment": "日本重启死刑执行，司法政策引关注。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "说唱歌手",
+        "title": "英国说唱歌手Yung Filly在澳大利亚面临强奸指控重审",
+        "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+        "summary": "陪审团上月裁定其多项性侵罪名不成立，但未能就另外三项达成一致，因此将重审。",
+        "comment": "司法程序严谨，但案件拖延或影响艺人声誉。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "巴厘岛",
+        "title": "瑞士游客侮辱巴厘岛静居日被判处一年监禁",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+        "summary": "一名26岁瑞士游客因在社交媒体发布辱骂巴厘岛神圣静居日的帖子，引发当地民众愤怒，被法院判处一年监禁。",
+        "comment": "尊重当地文化是旅行者的基本底线。",
+        "image": "",
+        "score": 86
       }
     ]
   }
