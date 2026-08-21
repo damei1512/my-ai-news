@@ -4,41 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Stripe",
-        "title": "Stripe收购OpenRouter：并非为“奇点”而是现实业务",
-        "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-        "summary": "支付巨头Stripe收购AI路由初创公司OpenRouter，官方称因“奇点”，实则看中其模型路由能力，以拓展AI支付与基础设施业务。",
-        "comment": "收购背后是AI商业化落地，而非科幻叙事。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推新客户隐私保护，与Anthropic竞争升级",
-        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-        "summary": "OpenAI与Anthropic在为企业客户提供数据隐私保护方面展开竞争，OpenAI推出新措施以争取优势。",
-        "comment": "隐私保护成AI企业服务新战场。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI为前沿模型提供零数据保留选项",
         "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
         "summary": "OpenAI重申对符合条件的API客户提供零数据保留，并预览私有安全处理，以在不牺牲数据隐私的前提下实现高级AI安全。",
-        "comment": "此举平衡了安全与隐私，或成行业新标准。",
+        "comment": "此举平衡了隐私与安全，值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "AI编程",
         "title": "Replit推出免费模式，借助GPT-5.6 Luna实现人人可编程",
         "link": "https://openai.com/index/replit",
-        "summary": "Replit推出免费模式，基于GPT-5.6 Luna，用户无需担心token费用即可将创意转化为可运行软件，大幅降低编程门槛。",
-        "comment": "免费模式或颠覆软件开发行业，但需关注模型可靠性。",
+        "summary": "Replit发布Free Mode，基于GPT-5.6 Luna，用户无需担心token费用即可将想法转化为可用软件，大幅降低编程门槛。",
+        "comment": "此举将AI编程推向大众，但代码质量与安全仍需关注。",
         "image": "",
         "score": 100
       }
