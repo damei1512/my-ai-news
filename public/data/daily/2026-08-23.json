@@ -3,52 +3,122 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "AI训练",
+        "title": "AI训练用版权书籍是否合法？法律界争议不断",
+        "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "summary": "多数出版作者在不知情或未同意下，其作品被用于训练AI模型，这些工具可能威胁其生计。法律对此尚无明确界定，争议激烈。",
+        "comment": "版权与AI的博弈，亟需立法明确边界。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "监控技术",
+        "title": "Flock CEO呼吁妥协，监控技术遭公众强烈反对",
+        "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+        "summary": "Flock Safety因监控技术可能被滥用而面临日益增长的公众抗议，CEO呼吁各方妥协以缓解争议。",
+        "comment": "监控技术需平衡安全与隐私，妥协是务实之举。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Dota2",
+        "title": "Team Spirit三冠加冕，夺得《Dota2》TI15冠军",
+        "link": "https://www.gcores.com/articles/218692",
+        "summary": "在上海TI15总决赛中，Team Spirit以3比2击败TEAM VISION，第三次夺冠，成为唯一三冠王。决胜局Yatoro率队逆转，赛事创TI决赛打满五场纪录。",
+        "comment": "三冠王含金量十足，电竞历史新篇章。",
+        "image": "",
+        "score": 93
+      },
+      {
         "category": "数码科技",
         "tag": "AI",
         "title": "AI接管流量，广告末日反扑",
         "link": "https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI技术将重塑流量分配，广告业面临剧变，但当前广告乱象频发，行业在混乱中期待AGI带来新秩序。",
-        "comment": "广告乱象与AI愿景并存，转型迫在眉睫。",
+        "summary": "AI技术正重塑流量分配，广告业面临变革，在混乱中探索AGI未来，行业现状与展望并存。",
+        "comment": "广告业转型迫在眉睫，AI既是挑战也是机遇。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "核电波锐评1-8月单机游戏，从夯到拉",
+        "tag": "PlayStation",
+        "title": "光盘战争前夜：PS玩家抵制数字化的困境",
+        "link": "https://www.gcores.com/radios/218374",
+        "summary": "PlayStation宣布2028年起停售实体光盘，引发玩家抵制活动。本期节目探讨主机玩家为何难以有效抵制这一趋势，分析各方立场与困境。",
+        "comment": "数字转型势不可挡，玩家抵制或难阻大局。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "科隆游戏展",
+        "title": "科隆游戏展主办方：无意成为下一个E3",
+        "link": "https://www.gcores.com/articles/218682",
+        "summary": "科隆游戏展2025年创纪录，超1500家参展商、72国、23万平方米，规模全球最大且持续增长。《黑神话：钟馗》在开幕夜压轴引发欢呼，展现行业影响力。主办方强调独立定位。",
+        "comment": "科隆展以规模与玩家热情证明自身，无需模仿E3。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏评测",
+        "title": "核电波锐评1-8月单机游戏：从夯到拉",
         "link": "https://www.gcores.com/radios/218633",
-        "summary": "机核播客核电波主播Nadya、西蒙、Ryoma锐评今年1-8月玩过的单机游戏，从夯到拉，仅个人观点，附视频音频版。",
-        "comment": "主观锐评，适合游戏爱好者消遣。",
+        "summary": "机核播客《核电波》三位主播回顾今年1-8月玩过的单机游戏，以个人视角从好到差锐评，涵盖多款作品，并附视频版链接。",
+        "comment": "主观锐评有料，但缺乏具体游戏名单，信息密度一般。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "时事热点",
+        "tag": "几内亚",
+        "title": "几内亚首都垃圾填埋场坍塌致30人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+        "summary": "几内亚政府称，首都一处主要垃圾填埋场发生坍塌，掩埋了数栋房屋，已造成30人死亡。",
+        "comment": "垃圾处理设施安全隐患亟待重视。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "乌克兰",
+        "title": "被解职部长：应问泽连斯基对政府腐败知情多少",
+        "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+        "summary": "乌克兰被解职部长费多罗夫呼吁战时选举，并称应询问泽连斯基对政府腐败的知情程度。",
+        "comment": "战时问责与选举呼声交织，凸显乌内部治理压力。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "美加关系",
         "title": "特朗普称加拿大想享受美国州待遇，贸易谈判破裂",
         "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "summary": "加拿大总理宣布反制关税，称不情愿但被迫回应，指责美国挑起贸易战。特朗普则称加拿大想获得美国州的好处。",
-        "comment": "美加贸易战升级，盟友关系面临考验。",
+        "summary": "加拿大总理称“不情愿”宣布报复性关税，指责美国发动贸易战。此前美加贸易谈判破裂，特朗普称加拿大想获得美国州的好处。",
+        "comment": "美加贸易摩擦升级，盟友关系面临考验。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "乌克兰",
-        "title": "被解职的乌克兰前防长：泽连斯基政府腐败问题需解答",
-        "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-        "summary": "被解职的乌克兰前国防部长向BBC表示，泽连斯基政府存在腐败问题，需要解答，并呼吁乌克兰举行选举。",
-        "comment": "前高官爆料加剧乌政局不确定性。",
+        "tag": "刚果（金）",
+        "title": "刚果（金）与M23叛军同意和平谈判路线图",
+        "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+        "summary": "双方代表在瑞士会晤，就解决冲突的下一步措施达成一致，为和平进程奠定基础。",
+        "comment": "和谈迈出实质一步，但执行仍是关键。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "瑞典",
-        "title": "瑞典持剑袭击致17岁女孩死亡，嫌疑人被捕",
-        "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-        "summary": "瑞典发生持剑袭击，一名17岁女孩遇害，两名12岁和17岁男孩受伤，一名18岁嫌疑人已被拘留。",
-        "comment": "校园安全再敲警钟，需加强青少年心理干预。",
+        "tag": "法国",
+        "title": "法国溺水死亡激增，政府归因于热浪",
+        "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+        "summary": "法国政府部长表示，自6月19日以来已有301人溺水死亡，人们因热浪冒险下水。",
+        "comment": "热浪下安全警示不足，需加强公众教育。",
         "image": "",
         "score": 87
       },
@@ -58,19 +128,49 @@
         "title": "泰国南部遭数十起协同纵火袭击",
         "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
         "summary": "泰国南部发生数十起协同纵火袭击，军方称旨在制造动荡，目前尚无组织宣称负责。",
-        "comment": "袭击高度协调，或加剧地区安全担忧。",
+        "comment": "袭击协同性强，安全形势严峻。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "机器人",
-        "title": "世界人形机器人运动会北京开赛，机器人比拼拳击足球",
-        "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-        "summary": "第二届世界人形机器人运动会在北京开幕，为期五天，机器人参与拳击、足球和短跑等项目，展示最新技术。",
-        "comment": "机器人竞技成新焦点，技术展示意义大于比赛本身。",
+        "tag": "田径",
+        "title": "凯杰尔查打破男子半马世界纪录",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+        "summary": "埃塞俄比亚选手约米夫·凯杰尔查在布宜诺斯艾利斯的世界田联路跑赛事中，以56分51秒打破男子半程马拉松世界纪录，将原纪录提升29秒。",
+        "comment": "半马纪录大幅刷新，显示长跑竞技水平持续突破。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "断电",
+        "title": "印第安纳州风暴12天后数千人仍断电",
+        "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+        "summary": "加里镇三分之一居民生活在贫困中，断电12天，居民称处于“生存模式”。",
+        "comment": "灾后恢复迟缓凸显基础设施脆弱性。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "特朗普挥旗启动华盛顿高速IndyCar赛事",
+        "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+        "summary": "总统在赛前绕场一圈，该赛事是美国250周年庆典夏季活动的收官之作。",
+        "comment": "政治与体育结合，庆典意味浓厚。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "时事热点",
+        "tag": "高尔夫",
+        "title": "高尔夫品牌为推倒女性广告道歉并撤下",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+        "summary": "内容创作者Good Good就一则广告道歉并撤下，广告中一名女性伸手去拿男性高尔夫球杆时被推倒在地。",
+        "comment": "广告创意需尊重性别平等，此类内容易引发争议。",
+        "image": "",
+        "score": 84
       }
     ]
   }
