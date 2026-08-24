@@ -3,44 +3,224 @@
     "week": "周一",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "绿灯侠",
+        "title": "《绿灯侠》剧集制片人谈第二集结局：何时何地使用戒指是关键",
+        "link": "https://www.ign.com/articles/lanterns-showrunner-episode-2-ending-when-and-where-to-use-the-ring-is-the-whole-ballgame",
+        "summary": "制片人Chris Mundy解读《Lanterns》第二集结局，强调使用戒指的时机与地点是剧情核心，呼应哈尔·乔丹的台词。",
+        "comment": "制片人解读精准，为后续剧情埋下悬念。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/21/lanterns-ring-thumb-1787355144239.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "美剧",
+        "title": "《灯笼》第二集评测：双主角分线依旧精彩",
+        "link": "https://www.ign.com/articles/lanterns-season-1-episode-2-review-recap",
+        "summary": "《灯笼》第二集延续首集水准，凯尔·钱德勒与亚伦·皮埃尔分线演绎同样出色，剧情推进扎实，角色魅力不减。",
+        "comment": "分线叙事考验功力，本集证明主创掌控力强。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/21/lanterns-s1e2-review-blogroll-1787330378523.jpg",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "AI开发者常用平台Hugging Face拟130亿美元出售",
+        "link": "https://www.ifanr.com/1676393?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AI行业或现百亿美元级收购，Hugging Face准备以130亿美元出售，该平台是开发者日常依赖的AI模型托管与分享社区。",
+        "comment": "AI基础设施整合加速，Hugging Face估值凸显平台价值。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "折叠屏",
+        "title": "折叠iPhone爆料汇总：体验佳但存两大缺点",
+        "link": "https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "汇总折叠iPhone爆料，称体验良好但存在两个显著缺点，售价或达一万五，引发关注。",
+        "comment": "折叠iPhone能否颠覆市场，关键看缺点能否被接受。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI影视",
+        "title": "上影与筷子科技共建专业级AI片场：50台DGX加万亿Token补贴",
+        "link": "https://www.ifanr.com/1676318?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "上影集团与筷子科技合作，部署50台NVIDIA DGX系统，并提供万亿级Token补贴，打造影视行业专用的AI基础设施，旨在提升影视制作效率与质量。",
+        "comment": "AI影视基建落地，行业门槛或再降。",
+        "image": "",
+        "score": 92
+      },
+      {
         "category": "数码科技",
         "tag": "苹果",
         "title": "苹果折叠屏临近发布，新iPhone或集体变贵",
         "link": "https://www.ifanr.com/1676314?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果首款折叠屏手机临近发布，新iPhone或集体涨价；宇树回应机器人百米预赛垫底；小米今日公布玄戒芯片进展。",
-        "comment": "折叠屏与涨价成焦点，行业风向待观察。",
+        "summary": "苹果首款折叠屏手机临近发布，新iPhone或集体涨价；宇树回应机器人百米预赛垫底；小米今日公布玄戒芯片新进展。",
+        "comment": "折叠屏与芯片进展值得关注，但涨价需谨慎。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "R星",
+        "title": "R星对黑客泄漏来源毫无头绪，内部员工疲惫",
+        "link": "https://www.gcores.com/articles/218696",
+        "summary": "彭博社报道，R星至今未查明黑客泄漏视频来源，也不清楚内容如何泄露。公司不推迟网飞营销，但全员戒备追查来源，员工疲惫。",
+        "comment": "安全漏洞暴露，R星应对迟缓，员工士气堪忧。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "DOTA2",
-        "title": "TI2026上海落幕，Team Spirit夺冠捧神盾",
+        "title": "TI2026上海落幕，Team Spirit夺冠",
         "link": "https://www.gcores.com/articles/218698",
-        "summary": "8月23日，DOTA2国际邀请赛TI2026在上海东方体育中心收官，Team Spirit以3比2战胜TEAM VISION夺冠。赛事自8月13日起，16支战队角逐，全球电竞目光聚焦浦江。",
+        "summary": "8月23日，DOTA2国际邀请赛TI2026在上海东方体育中心收官，Team Spirit以3比2战胜TEAM VISION，捧起冠军之神盾。赛事自8月13日起，16支战队参赛，全球电竞目光聚焦浦江。",
         "comment": "电竞盛事落地上海，彰显中国赛事运营实力。",
         "image": "",
         "score": 92
       },
       {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "100万像素摄像头为何成苹果AI关键零件？",
+        "link": "https://www.ifanr.com/1676333?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果AI依赖低像素摄像头实现随时在的硬件，记录完整用户数据，为AI提供持续输入，是隐私与功能平衡的关键。",
+        "comment": "低像素策略凸显苹果对隐私与实用性的务实考量。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "墨水屏",
+        "title": "巴掌大墨水屏成最火AI终端，Less is more",
+        "link": "https://www.ifanr.com/1675741?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道，墨水屏设备因低功耗、护眼和便携性，结合AI功能成为新趋势，强调极简设计理念。",
+        "comment": "墨水屏+AI，小众硬件迎来新风口。",
+        "image": "",
+        "score": 91
+      },
+      {
         "category": "游戏影视",
-        "tag": "吸血鬼幸存者",
-        "title": "《吸血鬼幸存者》血月DLC 8月28日发售",
-        "link": "https://www.gcores.com/articles/218693",
-        "summary": "《吸血鬼幸存者》血月DLC将于8月28日发售，是「月咒遗脉」的邪恶双胞胎。官方原计划小型更新，后扩展为独立内容包，玩家将跟随血月派重走朝圣之路。",
-        "comment": "意外做大的DLC，内容量值得期待。",
+        "tag": "游戏",
+        "title": "《城堡漂流记》Demo今日上线Steam",
+        "link": "https://www.gcores.com/articles/218715",
+        "summary": "荷兰独立工作室Renegade Games开发的《城堡漂流记》今日推出Demo，登陆Steam供免费下载。经过多轮测试与调整，Demo提供完整优化体验，开放大量内容，正式版预计2025年发布。",
+        "comment": "独立游戏Demo先行，诚意十足，值得关注。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "任天堂",
-        "title": "NS会员试玩同乐会开启：《牧场物语》新作免费玩一周",
+        "title": "NS会员试玩同乐会开启，免费畅玩《牧场物语》新作",
         "link": "https://www.gcores.com/articles/218695",
-        "summary": "任天堂香港今日开启NS会员试玩同乐会，订阅Nintendo Switch Online的玩家可免费下载《牧场物语来吧！风之繁华市集》，活动至8月30日结束，约一周体验时间。",
-        "comment": "会员福利虽好，但限时试玩难以完整体验游戏深度。",
+        "summary": "任天堂香港开启试玩同乐会，NSO会员可在eShop免费下载《牧场物语来吧！风之繁华市集》，活动至8月30日结束，玩家可体验种植、养殖等牧场经营内容。",
+        "comment": "限时免费试玩，NSO会员不容错过的牧场体验。",
         "image": "",
-        "score": 89
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "吸血鬼幸存者",
+        "title": "《吸血鬼幸存者》血月DLC 8月28日发售",
+        "link": "https://www.gcores.com/articles/218693",
+        "summary": "《吸血鬼幸存者》血月DLC将于8月28日发售，是「月咒遗脉」的邪恶双胞胎。官方原计划做小型更新，但点子越滚越大，最终成为独立扩展包，玩家将跟随血月派重走朝圣之路。",
+        "comment": "意外做大的DLC，内容量值得期待。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "拼图游戏",
+        "title": "温馨拼图游戏《木木屋》9月17日发售，支持中文配音",
+        "link": "https://www.gcores.com/articles/218711",
+        "summary": "《木木屋》是一款叙事型立体场景拼搭游戏，发售时将提供8种语言配音，包括中文。游戏将于9月17日推出，由Tiny Monks Tales开发，Daedalic Entertainment发行。",
+        "comment": "中文配音覆盖，对国内玩家是加分项。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏影视",
+        "title": "吉考斯工业与重返未来1999联名系列Part 2发售",
+        "link": "https://www.gcores.com/articles/218694",
+        "summary": "吉考斯工业与《重返未来：1999》再度合作，推出联名服饰系列Part 2，以哑谜、未锈铠等四角色为灵感，融合世界观与台词，提升穿着体验。",
+        "comment": "联名服饰深耕角色内涵，粉丝向消费再添新选择。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "华语音乐",
+        "title": "华语音乐浪漫爱情瞬间甜蜜歌单",
+        "link": "https://www.gcores.com/radios/218710",
+        "summary": "机核野声宝库推出七夕主题歌单，收录许慧欣、戴佩妮等华语情歌，从浪漫幻想到平凡坚守，用音乐诠释爱情真谛。",
+        "comment": "歌单选曲经典，情感层次丰富，适合七夕回味。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "阿富汗",
+        "title": "塔利班执政五年：BBC直击其如何重塑阿富汗",
+        "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+        "summary": "塔利班重返政权五周年之际，BBC跟随高层人物，观察该组织如何通过离婚、智能手机管控等手段重塑阿富汗社会。",
+        "comment": "报道揭示塔利班对日常生活的深度干预，值得关注。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "希音",
+        "title": "希音拟以近270亿美元估值上市",
+        "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "summary": "快时尚巨头希音计划于9月1日在香港上市，估值接近270亿美元，股票即将开始交易。",
+        "comment": "估值低于预期，反映市场对快时尚前景谨慎。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "食品安全",
+        "title": "中国调查用甲醛保鲜卷心菜事件",
+        "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+        "summary": "中国是全球最大卷心菜生产国，使用致癌物甲醛保鲜食品被禁止。此次调查针对违规行为，确保食品安全。",
+        "comment": "食品安全监管需常抓不懈，严惩违规以儆效尤。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "特斯拉",
+        "title": "特斯拉在华召回近300万辆，隐藏式门把手存隐患",
+        "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+        "summary": "特斯拉因隐藏式门把手问题在华召回近300万辆汽车，同时小鹏、小米、吉利等中国品牌也受影响。",
+        "comment": "隐藏式设计需平衡美观与安全，召回规模凸显监管严格。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "伊姆兰·汗",
+        "title": "前板球队长呼吁为伊姆兰·汗提供适当医疗",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+        "summary": "多位前板球队长表示，巴基斯坦遵守法院命令的医疗评估是“基本体面”，呼吁为伊姆兰·汗提供适当医疗。",
+        "comment": "体育界发声，凸显政治人物健康问题受关注。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "鲨鱼袭击",
+        "title": "澳鲨鱼袭击幸存者感恩“第二次生命机会”",
+        "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+        "summary": "6月，莉亚·斯图尔特遭鲨鱼袭击，手臂和腿部多处被咬伤，现已康复并表达感激。",
+        "comment": "幸存者心态值得关注，但鲨鱼袭击风险需科学看待。",
+        "image": "",
+        "score": 83
       }
     ]
   }

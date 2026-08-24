@@ -4,21 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "AI教育",
+        "title": "哈佛699美元创业训练营用AI化身指导学员",
+        "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "summary": "哈佛商学院Foundry项目引入AI化身，在模拟路演和董事会会议中提供反馈，提升训练效率。",
+        "comment": "AI导师进入商科教育，或成在线学习新趋势。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
         "tag": "AI代理",
         "title": "DeepMind校友创立的Inherent称其AI队友在复现研究上超越Anthropic和OpenAI",
         "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
         "summary": "英国AI实验室Inherent由DeepMind校友创立，发布AI代理Faraday，能复现科学论文，或成创新基石。",
-        "comment": "复现研究能力是AI科学应用的关键突破。",
+        "comment": "复现研究是AI科学助手的关键突破，但需验证泛化能力。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "OpenAI呼吁加州强化AI安全法案SB 53",
+        "title": "OpenAI呼吁加州加强AI安全法案力度",
         "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-        "summary": "OpenAI此前反对加州SB 53法案，现转而呼吁加强该法案，以应对AI安全风险，显示立场转变。",
-        "comment": "立场反转凸显AI监管博弈加剧。",
+        "summary": "OpenAI此前反对加州SB 53法案，现转而呼吁加强该法案，以更有效监管AI安全。",
+        "comment": "态度转变或为应对监管压力，需关注后续细节。",
         "image": "",
         "score": 100
       },
@@ -27,30 +37,20 @@
         "tag": "AI安全",
         "title": "前沿AI实验室仍未公开失控模型遏制方案",
         "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-        "summary": "新研究显示，领先AI实验室对遏制失控模型缺乏公开计划，引发对其应对AI系统意外行为准备度的质疑。",
-        "comment": "透明度不足是AI安全治理的重大隐患。",
+        "summary": "新研究发现，领先AI实验室对遏制失控模型缺乏公开计划，随着AI系统展现意外能力，其准备程度引发质疑。",
+        "comment": "透明度不足是AI安全治理的隐患。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI教育",
-        "title": "哈佛699美元创业训练营用AI化身指导学员",
-        "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-        "summary": "哈佛商学院Foundry项目引入AI化身，在模拟路演和董事会会议中提供反馈，提升创业培训效率。",
-        "comment": "AI辅助教学落地，但真人导师价值仍不可替代。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
         "title": "GTA 6泄密者无视法律威胁，第九段游戏视频流出",
         "link": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas",
-        "summary": "GTA 6泄密事件已持续六天，泄密者无视Take-Two、微软和Discord的法院传票，继续发布第九段游戏视频，显示其毫无收敛迹象。",
-        "comment": "泄密者嚣张，法律威慑失效，游戏业安全堪忧。",
+        "summary": "GTA 6泄密事件进入第六天，泄密者无视Take-Two、微软和Discord的法院传票，继续发布第九段游戏视频，显示其毫无收敛迹象。",
+        "comment": "泄密者嚣张，但法律追责或难逃。",
         "image": "https://assets-prd.ignimgs.com/2026/08/22/ultimate-edition-hawk-and-little-morgan-revolvers-01-1787436750506.jpg",
-        "score": 96
+        "score": 95
       },
       {
         "category": "游戏影视",
@@ -64,71 +64,21 @@
       },
       {
         "category": "游戏影视",
-        "tag": "合金装备",
-        "title": "《合金装备4》登陆现代平台，回顾其争议遗产",
-        "link": "https://www.ign.com/articles/metal-gear-solid-4-the-flawed-masterpiece-kojima-didnt-want-to-make",
-        "summary": "随着《合金装备4》通过大师合集第二卷登陆现代主机，我们回顾其遗产：它是否只是大段过场动画，还是被低估的杰作？",
-        "comment": "经典争议之作，重登平台引发再评价。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/20/mgs-4-retrospective-blog-1787224608450.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
         "tag": "PC游戏",
         "title": "PC游戏跨界合作精选推荐",
         "link": "https://www.ign.com/articles/best-pc-gaming-collaborations",
-        "summary": "为PC玩家精选当前最值得关注的游戏跨界合作项目，涵盖硬件、软件及内容联动，提供独特体验。",
-        "comment": "跨界合作已成趋势，但精选优质项目仍需眼光。",
+        "summary": "为PC玩家精选多款热门跨界合作游戏，涵盖不同风格与玩法，提供高质量游戏体验。",
+        "comment": "跨界合作成趋势，精选推荐值得关注。",
         "image": "https://assets-prd.ignimgs.com/2026/05/22/secretlabgenshin-1779468516032.jpg",
         "score": 93
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "超高画质是骗局？高画质已足够多数玩家",
-        "link": "https://www.ign.com/articles/ultra-graphics-settings-are-a-scam-why-high-is-good-enough-if-not-better-for-most-players",
-        "summary": "多数游戏无需超高画质即可呈现优秀画面。作者通过多款游戏对比，证明高画质在视觉上几乎无差异，且性能更优，建议玩家优先选择高画质。",
-        "comment": "实用建议，打破画质迷信，值得一试。",
-        "image": "https://assets1.ignimgs.com/2018/06/10/cp2077officialscreen-ambushed4-1528667845336.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "卷积神经网络",
-        "title": "卷积神经网络先驱张伟的往事与贡献",
-        "link": "https://www.gcores.com/radios/218669",
-        "summary": "本文更正了LeCun论文发表时间，并详述张伟在芝加哥大学及R2系统中将CNN用于候选区域分类，引入可分离卷积核降低计算量的历史贡献。",
-        "comment": "一段被遗忘的技术史，值得铭记。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "核周报：黑神话钟馗实机，GTA6泄露引热议",
-        "link": "https://www.gcores.com/radios/218375",
-        "summary": "本周游戏影视要闻：《黑神话：钟馗》公布15分钟实机演示，《影之刃零》详解玩法，《湮灭之潮》新演示，《昭和米国物语》科隆试玩详情，GTA6视频再遭泄露，科隆展公布2026数据，2K成立新工作室，迪士尼D23公布新内容。",
-        "comment": "多款国产大作集中亮相，行业热度持续走高。",
-        "image": "",
-        "score": 92
-      },
-      {
         "category": "数码科技",
-        "tag": "AI PC",
-        "title": "Windows 成AI PC发展绊脚石",
+        "tag": "Windows",
+        "title": "Windows 成 AI PC 发展绊脚石",
         "link": "https://www.ifanr.com/1676189?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿指出，Windows系统在AI PC进程中存在阻碍，影响用户体验与创新，需改进以推动AI PC普及。",
-        "comment": "系统短板制约硬件升级，微软需加速优化。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "科技",
-        "title": "摄像头AirPods或配指示灯，问界儿童车售价1.58万",
-        "link": "https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "阿里重组电商与AI业务，腾讯芯片负责人离职创业瞄准RISC-V AI CPU，旺旺被曝裁员并要求员工提交自评报告。",
-        "comment": "科技巨头调整频繁，行业竞争加剧。",
+        "summary": "爱范儿指出，Windows 系统在 AI PC 进程中存在阻碍，或影响用户体验与生态发展。",
+        "comment": "系统瓶颈亟待突破，AI PC 落地需软硬协同。",
         "image": "",
         "score": 91
       },
@@ -137,27 +87,27 @@
         "tag": "潜伏",
         "title": "《潜伏》系列电影观看顺序指南",
         "link": "https://www.ign.com/articles/insidious-movies-in-order",
-        "summary": "随着新续集上映，本文回顾《潜伏》系列电影的时间线顺序，帮助观众理解剧情关联。",
-        "comment": "系列时间线梳理清晰，新观众友好。",
+        "summary": "随着新续集上映，本文梳理了《潜伏》系列电影的时间线顺序，帮助观众按剧情发展观看。",
+        "comment": "实用指南，适合新观众快速入门。",
         "image": "https://assets-prd.ignimgs.com/2026/04/14/insidious6-thumbnail-9x16-generic-texted-intl-v1-0410-08-1776136670689.jpg",
         "score": 91
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "游戏回：钟馗王者归来，GTA6泄露引热议",
-        "link": "https://www.gcores.com/radios/218668",
-        "summary": "本期节目讨论《黑神话：钟馗》、黄昏血族、《GTA6》泄露视频、《牛来》及《奥德赛》，涵盖国产游戏、动作冒险与开放世界等话题。",
-        "comment": "内容多元，但缺乏深度剖析，适合泛听。",
+        "category": "数码科技",
+        "tag": "科技早报",
+        "title": "早报：摄像头AirPods或配指示灯，问界儿童车售1.58万",
+        "link": "https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "阿里重组电商与AI业务，腾讯芯片负责人离职创业瞄准RISC-V AI CPU，旺旺被曝裁员并要求员工提交自评报告。",
+        "comment": "科技巨头调整频繁，行业竞争加剧。",
         "image": "",
-        "score": 88
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "游戏优惠",
-        "title": "今日最佳优惠：Switch 2、乐高水族馆及FF7重生等",
+        "title": "今日最佳优惠：Switch 2、乐高水族馆及《最终幻想7重生》等",
         "link": "https://www.ign.com/articles/best-deals-for-august-22-2026",
-        "summary": "IGN汇总今日游戏与硬件折扣，涵盖Switch 2主机、乐高热带水族箱套装及《最终幻想7：重生》等热门商品，为玩家提供省钱购买指南。",
+        "summary": "汇总今日游戏与硬件折扣，涵盖任天堂Switch 2主机、乐高热带水族箱套装及《最终幻想7重生》等热门商品，为玩家提供省钱购买指南。",
         "comment": "折扣信息实用，但需注意时效性。",
         "image": "https://assets-prd.ignimgs.com/2026/08/22/daily-deals-8-22-26-1787430540336.png",
         "score": 86
