@@ -4,41 +4,91 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI对冲基金",
-        "title": "明星AI对冲基金濒临崩溃，遭美国证交会调查",
+        "tag": "AI基金",
+        "title": "明星AI对冲基金遭SEC调查，曾险些崩溃",
         "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-        "summary": "曾被誉为华尔街焦点的AI对冲基金Situational Awareness，因运营问题几近崩溃，现正接受美国证交会调查，从风光到被传讯仅数月。",
-        "comment": "AI投资热潮需警惕，监管介入或成常态。",
+        "summary": "AI对冲基金Situational Awareness从华尔街宠儿沦为联邦传票对象，因业绩波动和风险控制问题，现正接受美国证券交易委员会调查。",
+        "comment": "AI投资热潮需警惕过度炒作与监管风险。",
         "image": "",
         "score": 100
       },
       {
-        "category": "游戏影视",
-        "tag": "巫师4",
-        "title": "《巫师4》定于2028年发售，希里首次担任主角",
-        "link": "https://www.gcores.com/articles/218739",
-        "summary": "CD PROJEKT RED确认《巫师4》将于2028年发售，希里担任主角，开启新篇章。同时《巫师3》资料片「旧时曲」预告将在科隆游戏展公布。",
-        "comment": "十年等待终有期，希里接棒值得期待。",
+        "category": "数码科技",
+        "tag": "豆包",
+        "title": "实测豆包工作：连上飞书后，Agent 终于像个同事了",
+        "link": "https://www.ifanr.com/1676539?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "豆包工作接入飞书后，能理解项目上下文和工作流，提升协作效率，实测表现接近真人同事。",
+        "comment": "AI Agent 落地办公场景的关键一步，但普及仍需观察。",
         "image": "",
-        "score": 93
+        "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "造车",
-        "title": "追觅造车一年：团队缩水九成，烧钱无果",
-        "link": "https://www.ifanr.com/1676439?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "追觅科技造车一年，展车蒙灰，千人团队仅剩百人，烧钱规模不明，引发外界对跨界造车风险的关注。",
-        "comment": "跨界造车需谨慎，烧钱无底洞。",
+        "tag": "智能眼镜",
+        "title": "雷鸟创新李宏伟：智能眼镜终局是AI+AR，AI是当前最重要的事",
+        "link": "https://www.ifanr.com/1676571?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "雷鸟创新CEO李宏伟对话称，智能眼镜最终形态是AI与AR结合，强调AI增强人类而非取代，当前公司重点投入AI技术。",
+        "comment": "行业共识明确，AI+AR成智能眼镜赛道关键方向。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "小米",
-        "title": "小米玄戒O3藏彩蛋，vivo官宣X500系列，MINI车机接入AI",
+        "title": "实测小米AI手机：性能超iPhone，端侧AI超级快",
+        "link": "https://www.ifanr.com/1676596?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "实测小米AI手机，性能超越iPhone，端侧AI处理速度极快，带来流畅体验。",
+        "comment": "端侧AI成新战场，小米性能表现亮眼。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "追觅",
+        "title": "追觅造车一年：团队缩水九成，烧钱无归",
+        "link": "https://www.ifanr.com/1676439?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "追觅科技造车项目一年间团队从千人缩减至百人，展车蒙灰，资金去向成谜，引发行业关注。",
+        "comment": "跨界造车风险高，追觅或成反面教材。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "巫师4",
+        "title": "《巫师4》定于2028年发售，希里任主角",
+        "link": "https://www.gcores.com/articles/218739",
+        "summary": "CD PROJEKT RED确认《巫师4》将于2028年发售，希里首次担任主角，开启新篇章。同时《巫师3》资料片「旧时曲」预告将在科隆游戏展公布。",
+        "comment": "十年等待终有期，希里接棒值得期待。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "小米",
+        "title": "小米玄戒O3藏彩蛋，vivo官宣X500系列，MINI车机接入AI模型",
         "link": "https://www.ifanr.com/1676529?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米将“OK”藏进玄戒O3芯片，雷军不建议拆开看彩蛋；vivo官宣X500系列；MINI车机接入阿里与DeepSeek模型。另曝Hugging Face评估出售，估值至少130亿美元，Counterpoint预测今年全球智能手机出货量下降14.3%。",
-        "comment": "芯片彩蛋营销新颖，但行业数据预警更值得关注。",
+        "summary": "小米玄戒O3芯片藏OK彩蛋，雷军不建议拆开；vivo官宣X500系列；MINI车机接入阿里与DeepSeek模型。另曝Hugging Face或出售，估值超130亿美元，全球手机出货量预计下降14.3%。",
+        "comment": "科技圈动态密集，AI与芯片仍是焦点。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "红色沙漠",
+        "title": "《红色沙漠》入围科隆游戏展2026两项大奖",
+        "link": "https://www.gcores.com/articles/218747",
+        "summary": "Pearl Abyss的《红色沙漠》在Gamescom Awards 2026获“最具史诗感游戏”和“最佳PC游戏”提名，该奖项为全球最大游戏展会权威评选，凸显其宏大叙事与震撼体验。",
+        "comment": "提名含金量高，但需看最终能否获奖。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "塔防",
+        "title": "《英雄绞碎场》公布：扮演Boss抵御英雄入侵",
+        "link": "https://www.gcores.com/articles/218735",
+        "summary": "塔防Roguelite游戏《英雄绞碎场》公布，玩家扮演地牢Boss，抵御贪婪英雄的入侵，结合即时战斗与讽刺元素。",
+        "comment": "反套路设定有趣，但玩法创新待观察。",
         "image": "",
         "score": 91
       },
@@ -47,30 +97,100 @@
         "tag": "游戏",
         "title": "钓鱼模拟游戏《渔力全开》销量破百万",
         "link": "https://www.gcores.com/articles/218734",
-        "summary": "发售不到一周，Dazed Games开发的钓鱼模拟游戏《渔力全开》销量突破一百万。开发者承诺持续更新内容并修复Bug。游戏支持4人联机，玩家需钓鱼、杀鱼、卖鱼，完成任务并击败首领。",
-        "comment": "一周百万销量，休闲钓鱼品类潜力可观。",
+        "summary": "《渔力全开》发售不到一周销量破百万，开发者承诺持续更新和修复Bug。游戏主打物理交互钓鱼，支持4人联机，玩家需钓鱼、杀鱼、卖鱼并完成任务。",
+        "comment": "独立钓鱼游戏快速破百万，市场潜力不容小觑。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "KOF98",
+        "title": "JOYTOY推出KOF98可动公仔系列摄影专辑",
+        "link": "https://www.gcores.com/articles/218721",
+        "summary": "JOYTOY以1/18比例推出SNK经典格斗游戏《KOF98》可动公仔，每两个月发布一支队伍，现已覆盖多支参赛队伍，本文展示主角队等摄影作品。",
+        "comment": "经典IP与高性价比可动玩具结合，粉丝福音。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "CRPG",
+        "title": "《索拉斯塔2》多人模式9月10日上线",
+        "link": "https://www.gcores.com/articles/218745",
+        "summary": "开发商Tactical Adventures宣布《索拉斯塔2》多人模式更新将于9月10日上线，该作基于DND规则，前作获玩家认可，目前抢先体验版仅含部分战役剧情。",
+        "comment": "多人模式补齐核心体验，但内容量仍是关键考验。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "蝙蝠侠",
+        "title": "《蝙蝠侠：骑士陨落》第一部分现已上线观看",
+        "link": "https://www.ign.com/articles/batman-knightfall-part-1-streaming-4k-blu-ray",
+        "summary": "IGN报道，《蝙蝠侠：骑士陨落》第一部分已可在线上观看，并推出4K蓝光版本，粉丝可重温经典剧情。",
+        "comment": "经典动画上线，怀旧与收藏价值兼备。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/18/batman-knightfall1-trailer-thumb1-1781805270630.jpg",
+        "score": 88
       },
       {
         "category": "时事热点",
         "tag": "美国",
         "title": "美国将叙利亚从恐怖主义资助国名单移除",
         "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-        "summary": "特朗普政府接纳叙利亚新总统、前基地组织关联武装分子艾哈迈德·沙拉，将其从恐怖主义资助国名单中移除。",
-        "comment": "此举标志美国对叙政策重大转向，风险与机遇并存。",
+        "summary": "特朗普政府承认叙利亚新总统艾哈迈德·沙拉，其曾与基地组织有关联，此举标志美国对叙政策重大转变。",
+        "comment": "美叙关系转向务实，但风险犹存。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "伊朗",
+        "title": "伊朗称已全面准备应对美国扩大经济制裁",
+        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国对伊朗实施新一轮制裁，称之为“经济D日”，但德黑兰表示已有应对计划。",
+        "comment": "制裁升级或加剧中东紧张局势，伊朗回应强硬。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "克里姆林宫顾问警告英国无人机工厂或遭不明来源攻击",
+        "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+        "summary": "英国宣布将向乌克兰移交自制导弹部件蓝图后，克里姆林宫顾问在BBC新闻之夜节目中警告，英国无人机工厂可能面临不明来源的攻击。",
+        "comment": "俄方警告升级，英乌军事合作风险加剧。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "龙卷风",
         "title": "龙卷风袭击法国南部，致40余人受伤",
         "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-        "summary": "龙卷风袭击法国南部村庄，造成40多人受伤，多处房屋被毁。",
+        "summary": "法国南部遭遇龙卷风，造成40多人受伤，多个村庄房屋被毁。",
         "comment": "极端天气频发，需加强预警和应急响应。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "贸易战",
+        "title": "美加贸易战升级，特朗普威胁提高汽车关税",
+        "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+        "summary": "加拿大总理卡尼指责特朗普欲“摧毁”加拿大汽车业，并表示只有美国以“正确态度”谈判，才会恢复贸易对话。",
+        "comment": "美加关系紧张，汽车业成博弈焦点。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "死亡谷",
+        "title": "法国游客在死亡谷因车辆陷入泥泞遇难",
+        "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+        "summary": "一名68岁法国男子在加州盐滩因车辆陷入泥泞，在116华氏度（46.6摄氏度）高温下被发现死亡。",
+        "comment": "极端环境自救意识不足，悲剧警示旅行安全。",
+        "image": "",
+        "score": 86
       }
     ]
   }
