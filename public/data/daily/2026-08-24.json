@@ -4,193 +4,63 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI助手",
-        "title": "Instinct AI助手引发隐私与安全担忧",
-        "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-        "summary": "早期测试者称赞其能力，但担忧其广泛权限、模糊条款及代用户行动带来的隐私风险。",
-        "comment": "便利与隐私的权衡需更透明。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "AI初创General Intuition估值60亿美元，获Valor和Point72投资",
-        "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-        "summary": "General Intuition开发基础模型，训练通用AI代理在空间和时间中移动，正洽谈以60亿美元投前估值融资，Valor和Point72参与投资。",
-        "comment": "高估值反映资本对具身智能赛道的强烈信心。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "OpenAI打造全能AI代理，能否普及大众？",
-        "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-        "summary": "OpenAI正推动AI代理从软件工程师走向普通用户，覆盖更多场景，但普及面临易用性和信任挑战。",
-        "comment": "野心虽大，落地仍需解决实用与信任问题。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "Hugging Face据报洽谈130亿美元收购，创始人犹豫",
-        "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-        "summary": "Hugging Face据报收到约130亿美元收购要约，但创始人因对社区的责任感而犹豫，交易前景存疑。",
-        "comment": "社区信任是核心资产，高价收购或难两全。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI发布GPT-5.6，提升开发者性价比",
-        "link": "https://openai.com/index/gpt-5-6-in-kiro",
-        "summary": "GPT-5.6已在Kiro中可用，帮助开发者规划、构建、审查和测试软件，提供更优的价格性能比。",
-        "comment": "模型迭代聚焦实用效率，开发者成本有望降低。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "特朗普",
         "title": "特朗普在SpaceX IPO两周后买入股票",
         "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-        "summary": "总统在股价约150美元时买入，周一收盘回到135美元的IPO价格。",
-        "comment": "高位接盘，信号意义大于投资价值。",
+        "summary": "总统在股价处于150美元区间时买入，周一收盘时SpaceX股价回到IPO发行价135美元。",
+        "comment": "总统交易行为引发市场关注，股价回落至发行价。",
         "image": "",
-        "score": 99
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI助手",
+        "title": "Instinct AI助手引发隐私与安全担忧",
+        "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+        "summary": "早期测试者称赞Instinct功能强大，但担忧其广泛权限、宽泛条款及代表用户行动的能力带来隐私与安全风险。",
+        "comment": "强大功能与隐私保护需平衡，监管应跟上。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI",
+        "title": "通用直觉获6亿美元估值融资，进军机器人领域",
+        "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+        "summary": "通用直觉公司正在洽谈以60亿美元估值融资，其基础模型训练通用AI代理在空间和时间中移动，投资方包括Valor和Point72。",
+        "comment": "高估值反映市场对具身智能的狂热。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "GPT-5.6",
+        "title": "OpenAI发布GPT-5.6，提升开发者性价比",
+        "link": "https://openai.com/index/gpt-5-6-in-kiro",
+        "summary": "OpenAI宣布GPT-5.6在Kiro平台上线，帮助开发者规划、构建、审查和测试软件，提供更优的价格性能比。",
+        "comment": "模型迭代聚焦成本效率，开发者受益明显。",
+        "image": "",
+        "score": 100
       },
       {
         "category": "人工智能",
         "tag": "Replit",
         "title": "Replit CEO将出席TechCrunch Disrupt 2026谈编程未来",
         "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-        "summary": "Replit联合创始人兼CEO Amjad Masad将在TechCrunch Disrupt 2026大会上分享他对编程未来的看法，以及Replit在该领域的发展角色。",
-        "comment": "编程工具赛道竞争加剧，Replit动向值得关注。",
+        "summary": "Replit联合创始人兼CEO Amjad Masad将在TechCrunch Disrupt 2026上分享对编程未来的看法，以及Replit在其中的角色。",
+        "comment": "AI编程赛道热度不减，Replit动向值得关注。",
         "image": "",
         "score": 99
       },
       {
         "category": "游戏影视",
-        "tag": "巫师3",
-        "title": "《巫师3》新扩展“往昔之歌”确认加入更多昆特牌，玩家欢呼",
-        "link": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating",
-        "summary": "CD Projekt Red确认《巫师3：狂猎》新扩展“往昔之歌”将包含更多昆特牌内容，卡牌爱好者已开始庆祝。",
-        "comment": "昆特牌是《巫师3》的灵魂，新扩展值得期待。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "内存",
-        "title": "Newegg最实惠32GB DDR5 6000MHz内存推荐",
-        "link": "https://www.ign.com/articles/newegg-has-the-least-overpriced-32gb-of-ddr5-6000mhz-cl-30-desktop-memory",
-        "summary": "Newegg提供32GB DDR5 6000MHz CL30内存，价格相对合理，适合AMD Ryzen游戏平台，是当前性价比之选。",
-        "comment": "价格合理，但需关注实际需求与兼容性。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/24/mantavsky-1787614925661.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6泄露事件时间线梳理",
+        "title": "GTA 6 泄露事件时间线梳理",
         "link": "https://www.gamespot.com/articles/gta-6-leaks-a-timeline-of-the-events-so-far/",
-        "summary": "自2026年8月中旬起，匿名人士泄露GTA 6游戏视频和图片，Rockstar与Take-Two应对频繁，事件持续发酵。",
+        "summary": "自2026年8月中旬起，匿名人士泄露GTA 6游戏视频和图片，引发Rockstar和Take-Two的忙碌应对。本文梳理了事件经过。",
         "comment": "泄露频发，官方应对成焦点。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/GTA-6-1.jpg?w=300",
         "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《黄昏之血》试玩热度超《艾尔登法环：夜袭》",
-        "link": "https://www.gamespot.com/articles/the-duskbloods-playtest-was-even-more-popular-than-elden-ring-nightreigns/",
-        "summary": "开发商透露，Switch 2独占游戏《黄昏之血》试玩参与度高于《艾尔登法环：夜袭》，玩家热情高涨，急于了解游戏细节。",
-        "comment": "From Software新作未发先火，独占策略见效。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/The-Duskbloods-Playtest-More-Popular-Than-Nightreign.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "恶魔城",
-        "title": "《恶魔城：贝尔蒙特的诅咒》配音阵容强大，堪称网飞动画重聚",
-        "link": "https://www.gamespot.com/articles/castlevania-belmonts-curse-is-basically-a-netflix-castlevania-reunion/",
-        "summary": "《恶魔城：贝尔蒙特的诅咒》在长期沉寂后展现出良好前景，其配音阵容豪华，与网飞动画系列演员高度重合。",
-        "comment": "经典IP重启，配音阵容成亮点，期待值拉满。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Castlevania.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏攻略",
-        "title": "《堕落之主2》最佳道具盘点，错过悔青肠子",
-        "link": "https://www.gamespot.com/articles/i-cant-believe-i-missed-mortal-shell-2s-best-item-silly-me/",
-        "summary": "《堕落之主2》中有众多强力道具，如出色的塔石和武器。若玩家探索不周，极易错过这些关键物品，影响游戏体验。本文盘点必拿道具，助你避免遗憾。",
-        "comment": "探索党福音，道具控必看。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/ms-image-2.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤：现代战争4》Steam销量远超《黑色行动7》",
-        "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-is-way-ahead-of-black-ops-7-already-by-one-metric/",
-        "summary": "《使命召唤：现代战争4》在Steam上销量已接近40万份，远超去年《黑色行动7》在Valve平台首发时的表现，显示出强劲的市场势头。",
-        "comment": "系列口碑回暖，玩家用脚投票。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/CODMW4.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "荒野大镖客2",
-        "title": "《荒野大镖客2》墨西哥扩展即将推出，但非官方",
-        "link": "https://www.gamespot.com/articles/red-dead-redemption-2-is-getting-a-mexico-expansion-soon-but-not-from-rockstar/",
-        "summary": "《荒野大镖客2》从未获得官方剧情DLC，但一位模组作者正通过雄心勃勃的墨西哥模组，进一步连接游戏世界，弥补这一空白。",
-        "comment": "民间创作填补官方空白，展现玩家热情。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Red-Dead-2-Mexico-Mod.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "跑团",
-        "title": "机核探灵实录：编辑初探诡宅求生",
-        "link": "https://www.gcores.com/radios/218495",
-        "summary": "机核网陷入经营危机，编辑部成员为求生计，冒险探访诡宅，开启跑团节目《机核探灵实录》第一辑。",
-        "comment": "以危机为引，跑团探灵，创意求生值得期待。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电动自行车",
-        "title": "成人电动自行车促销：1000W功率，续航80英里，仅售275美元",
-        "link": "https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-august-2026",
-        "summary": "IGN报道，一款1000W 48V成人电动自行车现价275美元，最高时速28英里，续航80英里，适合通勤和返校使用。",
-        "comment": "高性价比，但需注意实际续航和路况条件。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/18/urlifee20-1787073063558.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂直面会或将于下月举行",
-        "link": "https://www.gamespot.com/articles/why-a-nintendo-direct-is-likely-to-happen-next-month/",
-        "summary": "任天堂常在9月举办直面会，过去九年中有多次在该月举行，因此下月举办的可能性较高。",
-        "comment": "历史规律暗示，但需官方确认。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/gamespot-ocarina-of-time-remake-3.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "合金装备",
-        "title": "《合金装备》官方推出猫咪主题纸箱周边",
-        "link": "https://www.gamespot.com/articles/my-cat-doesnt-care-about-the-metal-gear-box-just-the-box-it-came-in/",
-        "summary": "科乐美宣布推出《合金装备》系列官方猫咪纸箱，满足玩家与宠物互动需求，产品设计还原游戏经典元素。",
-        "comment": "游戏周边创意十足，精准击中玩家与猫奴双重需求。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/MGS-Cat.jpg?w=300",
-        "score": 90
       }
     ]
   }
