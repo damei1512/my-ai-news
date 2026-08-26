@@ -4,41 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI助手",
-        "title": "Claude Cowork获共享记忆，告别重复交代上下文",
-        "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-        "summary": "Anthropic为Claude新增跨聊天与Cowork的共享记忆功能，用户无需再反复向AI说明项目、偏好等背景信息。",
-        "comment": "记忆功能直击协作痛点，但隐私边界需关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI芯片",
-        "title": "OpenAI Jalapeño芯片基准测试显示大规模推理性能优异",
-        "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-        "summary": "在SemiAnalysis的InferenceX基准测试中，Jalapeño芯片每用户令牌数和每千瓦吞吐量均超过当前最先进水平，专为大规模快速推理设计。",
-        "comment": "芯片性能突破或重塑AI算力格局，值得关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Accel支持的Keenable为AI代理构建网络索引",
-        "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-        "summary": "Keenable走出隐身模式，获2600万美元种子轮融资，为AI代理打造大规模网络搜索索引。",
-        "comment": "AI代理基础设施赛道再添新军，索引层竞争加剧。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI CFO谈全栈AI：芯片、算力、模型与产品协同",
+        "title": "OpenAI CFO谈全栈创新：芯片、算力、模型与产品协同",
         "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "summary": "OpenAI CFO Sarah Friar撰文，阐述芯片、算力、模型和产品四层技术栈如何协同，推动AI智能规模扩大、成本降低，实现更广泛的应用。",
-        "comment": "全栈视角揭示AI成本下降路径，但落地仍需验证。",
+        "summary": "OpenAI首席财务官Sarah Friar撰文，阐述芯片、算力、模型及产品四层技术栈如何协同进步，推动智能规模化应用并降低成本。",
+        "comment": "从财务视角解读技术栈，凸显AI成本下降趋势。",
         "image": "",
         "score": 100
       },
@@ -47,8 +17,8 @@
         "tag": "AI芯片",
         "title": "OpenAI自研推理芯片Jalapeño首秀：速度与效率领先",
         "link": "https://openai.com/index/jalapeno-first-results",
-        "summary": "OpenAI发布自研推理芯片Jalapeño的初步结果，称其在AI推理速度、吞吐量和能效上表现行业领先，尤其适配现代模型，降低延迟和功耗。",
-        "comment": "自研芯片强化算力自主，但量产与生态仍是挑战。",
+        "summary": "OpenAI发布自研推理芯片Jalapeño的首批结果，显示其在AI推理中具备更高吞吐量和更低延迟，且功耗更低，为现代模型提供更快、更高效的推理性能。",
+        "comment": "自研芯片将强化OpenAI算力自主性，但量产与生态仍是挑战。",
         "image": "",
         "score": 100
       },
@@ -57,8 +27,8 @@
         "tag": "AI安全",
         "title": "OpenAI封禁俄罗斯AI虚假影响力行动账号",
         "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-        "summary": "OpenAI封禁了来自俄罗斯的账号，这些账号利用AI推广虚假的以色列智库和“主权”指数，以赞扬俄罗斯并批评西方。",
-        "comment": "AI被用于地缘政治信息战，平台需持续警惕。",
+        "summary": "OpenAI封禁了来自俄罗斯的账号，这些账号利用AI推广虚假的以色列智库和“主权”指数，赞扬俄罗斯并批评西方。",
+        "comment": "AI被用于地缘政治宣传，平台需加强监测。",
         "image": "",
         "score": 100
       },
@@ -67,58 +37,18 @@
         "tag": "OpenAI",
         "title": "OpenAI推出ChatGPT Work和Codex管理插件",
         "link": "https://openai.com/index/introducing-admin-plugin",
-        "summary": "OpenAI发布Admin插件，用于ChatGPT Work和Codex，可分析工作区使用情况、管理成员与权限、调整限制并处理管理员请求。",
-        "comment": "企业级管理功能增强，或提升B端竞争力。",
+        "summary": "该插件支持分析工作区使用情况、管理成员与权限、调整限制并处理管理员请求，提升企业级管理效率。",
+        "comment": "企业级管理功能补全，或加速ChatGPT Work普及。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "融资",
-        "title": "Stability AI获7600万美元新融资，总额达2.32亿",
-        "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-        "summary": "Stability AI，Stable Diffusion图像生成器开发商，完成7600万美元新融资，累计融资达2.32亿美元，资金将用于研发与市场拓展。",
-        "comment": "融资规模可观，但竞争激烈，需持续创新。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "收购",
-        "title": "Gamma收购设计初创公司Lica，获Accel支持",
-        "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-        "summary": "Gamma宣布收购设计初创公司Lica，后者联合创始人将加入Gamma新研究团队，强化AI设计能力。",
-        "comment": "AI设计赛道整合加速，人才争夺成关键。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Gamescom",
-        "title": "Gamescom 2026开幕夜：重磅游戏与预告片全汇总",
-        "link": "https://www.gamespot.com/articles/gamescom-opening-night-live-2026-all-the-biggest-announcements-games-and-trailers/",
-        "summary": "Gamescom开幕夜直播带来大量新游戏公布、实机演示及预告片，涵盖多款大作，为玩家呈现年度第二大游戏展的精彩内容。",
-        "comment": "年度游戏盛宴，信息量巨大，玩家不容错过。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Gamescom-ONL-2026.jpg?w=300",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "巫师3",
-        "title": "《巫师3》重制版新增大量升级，或对部分玩家免费",
-        "link": "https://www.gamespot.com/articles/the-witcher-3-remastered-is-adding-dozens-of-upgrades-and-it-might-be-free-for-you/",
-        "summary": "《巫师3》新DLC“往昔之歌”即将推出，带来数十项升级，可能对部分玩家免费，缓解等待《巫师4》的焦虑。",
-        "comment": "免费升级诚意足，但需确认具体条件。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Witcher-3-Songs-of-the-Past-Expansion-Details.jpg?w=300",
-        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "泰钽700",
         "title": "泰钽700上市，27.98万起，越野NOA挑战挂壁公路",
         "link": "https://www.ifanr.com/1676715?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "泰钽700正式上市，起售价27.98万元，搭载越野NOA系统，在挂壁公路展示越野智能辅助驾驶能力，探索越野新可能。",
-        "comment": "越野NOA落地，智能驾驶边界再拓宽。",
+        "summary": "泰钽700正式上市，起售价27.98万元，搭载越野NOA系统，在挂壁公路展示越野智能驾驶能力，探索越野新可能。",
+        "comment": "越野NOA落地，或重塑硬派SUV市场格局。",
         "image": "",
         "score": 92
       },
@@ -127,18 +57,18 @@
         "tag": "Mac mini",
         "title": "新款Mac mini发布，价格大涨2500元，苹果首次为AI造电脑",
         "link": "https://www.ifanr.com/1676537?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果发布新款Mac mini，价格较上代上涨2500元，首次针对AI优化硬件，兼顾人类用户需求。",
-        "comment": "涨价明显，AI功能成核心卖点，性价比存疑。",
+        "summary": "苹果发布新款Mac mini，价格较上代上涨2500元，专为AI优化硬件，兼顾人类日常使用，体现苹果AI战略布局。",
+        "comment": "涨价明显，AI功能成核心卖点，但性价比待考。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "AI",
-        "title": "OpenAI产品反水，认中国模型为赛博义父",
+        "title": "OpenAI“亲儿子”反水，认中国模型做“赛博义父”",
         "link": "https://www.ifanr.com/1676629?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "美国AI产品采用中国模型预制，引发行业关注，反映中国AI技术实力提升。",
-        "comment": "技术无国界，合作共赢是趋势。",
+        "comment": "技术无国界，但合作需谨慎。",
         "image": "",
         "score": 92
       },
@@ -147,80 +77,30 @@
         "tag": "交通法规",
         "title": "道路交通安全法拟大改：电鸡限速上调至20km/h，严管暴走团占道",
         "link": "https://www.ifanr.com/1676652?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "《道路交通安全法》修订草案拟将电动自行车限速从15km/h上调至20km/h，并加强对“暴走团”等占道行为的监管，以适应交通发展新需求。",
+        "summary": "《道路交通安全法》修订拟将电动自行车限速从15km/h上调至20km/h，并加强对“暴走团”占道行为的监管，以适应交通发展新需求。",
         "comment": "法规调整顺应出行趋势，但执行细节仍需明确。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《Gravhounds》预告公布：科幻战场上的狗狗战士",
-        "link": "https://www.gamespot.com/articles/gravhounds-reveal-trailer-sends-good-boys-into-a-sci-fi-battle/",
-        "summary": "科隆游戏展开幕夜上，独立开发商Octopus Panic公布了动作建造游戏《Gravhounds》的首支预告，展示狗狗们在科幻战场上的战斗与建造玩法。",
-        "comment": "狗狗题材+建造玩法，独立游戏创意值得期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Gravhounds.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "赛博朋克",
-        "title": "《赛博朋克2077》续作遥遥无期，新作《No Law》或填补空白",
-        "link": "https://www.gamespot.com/articles/cyberpunk-2077s-sequel-is-years-away-but-no-law-might-fill-the-gap/",
-        "summary": "在Gamescom开幕夜直播中，《No Law》以赛博朋克风格亮相，在动漫游戏和魂类游戏主导的舞台上脱颖而出，或成《赛博朋克2077》续作前的替代选择。",
-        "comment": "风格鲜明，但能否真正填补空缺尚待考验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/nolaw.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "最终幻想7",
-        "title": "《最终幻想7：启示录》科隆展预告聚焦武器",
-        "link": "https://www.gamespot.com/articles/final-fantasy-7-revelation-gamescom-trailer-is-all-about-the-weapons/",
-        "summary": "继夏日游戏节正式公布后，《最终幻想7：启示录》在科隆展亮相，导演简短介绍后放出新预告，重点展示游戏中的武器系统。",
-        "comment": "武器展示或暗示战斗玩法升级，值得期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/FF7-Revelation-main-art.jpg?w=300",
-        "score": 92
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "QQ宠物",
-        "title": "QQ宠物AI复活回归手机，网友更想要桌宠企鹅",
+        "title": "QQ宠物AI复活回归手机，桌宠企鹅引怀旧",
         "link": "https://www.ifanr.com/1676656?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "下线8年的QQ宠物近日在手机QQ官宣回归，借助AI技术复活。用户反应热烈，但部分网友表示更怀念桌面版企鹅。",
-        "comment": "情怀回归是亮点，但桌宠需求被忽视。",
+        "summary": "下线8年的QQ宠物在手机QQ官宣回归，借助AI技术复活，但用户更期待桌面宠物企鹅的体验。",
+        "comment": "情怀回归，但AI能否重塑经典体验待观察。",
         "image": "",
         "score": 91
       },
       {
         "category": "时事热点",
-        "tag": "美加贸易战",
-        "title": "加拿大宣布对美征收最高50%对等报复性关税",
+        "tag": "贸易战",
+        "title": "加拿大宣布对美征收最高50%报复性关税",
         "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-        "summary": "美加贸易战升级，加拿大将对美国钢铁、家具、金枪鱼及化妆品等商品征收最高50%的报复性关税，以回应美方措施。",
-        "comment": "对等反制加剧贸易紧张，北美经济承压。",
+        "summary": "加拿大宣布对美国商品征收最高50%的报复性关税，涉及钢铁、家具、新鲜金枪鱼和化妆品等，标志着两国贸易战进一步升级。",
+        "comment": "以牙还牙，贸易战风险加剧，全球经济承压。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "霍尔木兹海峡",
-        "title": "特朗普称霍尔木兹海峡水雷已全部清除",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-        "summary": "伊朗自冲突开始以来关闭了这条重要水道，导致全球油价剧烈波动。特朗普宣布所有水雷已清除。",
-        "comment": "清除水雷是积极信号，但航道安全仍需国际监督。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "德国",
-        "title": "德国总理默茨警告无人机袭击者将付出代价",
-        "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
-        "summary": "德国莱比锡机场遭无人机袭击，总理默茨称这凸显了国家面临的“非常现实的威胁”，并警告袭击者将付出代价。",
-        "comment": "无人机威胁升级，德国安全防线面临新考验。",
-        "image": "",
-        "score": 87
       }
     ]
   }
