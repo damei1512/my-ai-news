@@ -4,31 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI CFO谈智能全栈：芯片、算力、模型与产品协同",
+        "tag": "AI",
+        "title": "OpenAI CFO谈全栈AI：芯片、算力、模型与产品协同",
         "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "summary": "OpenAI首席财务官Sarah Friar撰文，阐述芯片、算力、模型及产品各层面进步如何相互叠加，以更低成本、更大规模提供更实用的智能。",
-        "comment": "从CFO视角看智能产业化，强调成本与规模，值得关注。",
+        "summary": "OpenAI CFO Sarah Friar阐述芯片、算力、模型及产品如何协同进步，以更低成本、更大规模提供更实用的智能，推动AI普及。",
+        "comment": "全栈视角揭示AI成本下降路径，行业风向标。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI芯片",
-        "title": "OpenAI自研推理芯片Jalapeño首秀：速度与能效领先",
+        "title": "OpenAI自研推理芯片Jalapeño首秀：速度与效率领先",
         "link": "https://openai.com/index/jalapeno-first-results",
-        "summary": "OpenAI发布自研推理芯片Jalapeño首批结果，针对现代模型实现更高吞吐、更低延迟，且功耗更低，展现行业领先的推理性能与效率。",
-        "comment": "自研芯片强化算力自主，但量产与生态仍是考验。",
+        "summary": "OpenAI发布自研推理芯片Jalapeño首批结果，宣称在AI推理速度、吞吐量和能效上均优于现有方案，为现代模型提供更低延迟和更高性能。",
+        "comment": "自研芯片或重塑AI算力格局，但量产与生态仍是挑战。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "OpenAI封禁俄罗斯AI影响力行动账号",
+        "title": "OpenAI打击俄罗斯AI虚假信息行动",
         "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-        "summary": "OpenAI封禁了来自俄罗斯的账号，这些账号利用AI推广虚假的以色列智库和“主权”指数，赞扬俄罗斯并批评西方。",
-        "comment": "AI被用于地缘政治博弈，平台需持续警惕。",
+        "summary": "OpenAI封禁了俄罗斯来源账号，这些账号利用AI推广虚假的以色列智库及“主权”指数，赞扬俄罗斯并批评西方。",
+        "comment": "AI助长信息战，平台需持续防御。",
         "image": "",
         "score": 100
       },
@@ -38,29 +38,9 @@
         "title": "OpenAI推出ChatGPT Work和Codex管理插件",
         "link": "https://openai.com/index/introducing-admin-plugin",
         "summary": "OpenAI发布Admin插件，用于ChatGPT Work和Codex，可分析工作区使用情况、管理成员与权限、调整限制并处理管理员请求。",
-        "comment": "企业级管理功能补全，提升平台可控性。",
+        "comment": "企业级管理功能增强，提升平台可控性。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "泰钽700",
-        "title": "泰钽700上市，27.98万起，越野NOA挑战挂壁公路",
-        "link": "https://www.ifanr.com/1676715?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "泰钽700正式上市，起售价27.98万元，搭载越野NOA系统，在挂壁公路展示越野智能辅助驾驶能力，探索越野新可能。",
-        "comment": "越野NOA落地，智能化越野赛道再添实力选手。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "时事热点",
-        "tag": "贸易战",
-        "title": "加拿大宣布对美征收最高50%对等报复性关税",
-        "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-        "summary": "加拿大宣布对美国商品实施对等报复性关税，税率最高达50%，涉及钢铁、家具、新鲜金枪鱼和化妆品等，标志着两国贸易战进一步升级。",
-        "comment": "贸易战升级，双方互伤，全球经济承压。",
-        "image": "",
-        "score": 88
       }
     ]
   }
