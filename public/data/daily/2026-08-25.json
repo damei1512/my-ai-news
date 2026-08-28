@@ -4,21 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI",
+        "tag": "OpenAI",
         "title": "OpenAI CFO谈全栈AI：芯片、算力、模型与产品协同",
         "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "summary": "OpenAI CFO Sarah Friar阐述芯片、算力、模型及产品如何协同进步，以更低成本、更大规模提供更实用的智能，推动AI普及。",
-        "comment": "全栈视角揭示AI成本下降路径，行业风向标。",
+        "summary": "OpenAI CFO Sarah Friar阐述芯片、算力、模型和产品如何协同进步，以更大规模、更低成本提供更实用的智能。",
+        "comment": "全栈视角揭示AI成本下降路径，值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI芯片",
-        "title": "OpenAI自研推理芯片Jalapeño首秀：速度与效率领先",
+        "title": "OpenAI自研推理芯片Jalapeño首秀：速度与能效领先",
         "link": "https://openai.com/index/jalapeno-first-results",
-        "summary": "OpenAI发布自研推理芯片Jalapeño首批结果，宣称在AI推理速度、吞吐量和能效上均优于现有方案，为现代模型提供更低延迟和更高性能。",
-        "comment": "自研芯片或重塑AI算力格局，但量产与生态仍是挑战。",
+        "summary": "OpenAI发布自研推理芯片Jalapeño首批结果，宣称在AI推理速度、吞吐量和能效上优于现有方案，尤其针对现代模型降低延迟。",
+        "comment": "自研芯片是OpenAI降本增效的关键一步，但量产与生态仍是挑战。",
         "image": "",
         "score": 100
       },
@@ -27,18 +27,8 @@
         "tag": "AI安全",
         "title": "OpenAI打击俄罗斯AI虚假信息行动",
         "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-        "summary": "OpenAI封禁了俄罗斯来源账号，这些账号利用AI推广虚假的以色列智库及“主权”指数，赞扬俄罗斯并批评西方。",
-        "comment": "AI助长信息战，平台需持续防御。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出ChatGPT Work和Codex管理插件",
-        "link": "https://openai.com/index/introducing-admin-plugin",
-        "summary": "OpenAI发布Admin插件，用于ChatGPT Work和Codex，可分析工作区使用情况、管理成员与权限、调整限制并处理管理员请求。",
-        "comment": "企业级管理功能增强，提升平台可控性。",
+        "summary": "OpenAI封禁了俄罗斯相关账号，这些账号利用AI推广虚假的以色列智库和“主权”指数，以赞扬俄罗斯并批评西方。",
+        "comment": "AI成为地缘政治博弈新工具，平台需加强监管。",
         "image": "",
         "score": 100
       }
