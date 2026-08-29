@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI CFO谈全栈创新驱动智能普及",
+        "tag": "人工智能",
+        "title": "OpenAI CFO谈全栈智能：芯片、算力、模型与产品协同",
         "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "summary": "OpenAI CFO Sarah Friar阐述芯片、算力、模型与产品如何协同进步，以更低成本提供更广泛、更实用的智能服务。",
-        "comment": "全栈视角揭示AI成本下降路径，行业风向标。",
+        "summary": "OpenAI CFO Sarah Friar撰文，阐述芯片、算力、模型及产品四层技术栈如何协同，推动智能规模化应用并降低成本，实现更广泛可用的智能。",
+        "comment": "全栈视角揭示AI成本下降路径，但落地仍需验证。",
         "image": "",
         "score": 100
       },
@@ -17,18 +17,8 @@
         "tag": "AI芯片",
         "title": "OpenAI自研推理芯片Jalapeño首秀：速度与效率领先",
         "link": "https://openai.com/index/jalapeno-first-results",
-        "summary": "OpenAI发布自研推理芯片Jalapeño首批结果，宣称在AI推理速度、吞吐量和能效上均优于现有方案，尤其适合现代大模型部署。",
-        "comment": "自研芯片落地，OpenAI成本与性能双优。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "OpenAI封禁俄罗斯AI虚假影响力行动账号",
-        "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-        "summary": "OpenAI封禁了俄罗斯来源账号，这些账号利用AI推广虚假的以色列智库和“主权”指数，赞扬俄罗斯并批评西方。",
-        "comment": "AI被用于地缘政治博弈，平台需持续警惕。",
+        "summary": "OpenAI发布自研推理芯片Jalapeño首批结果，针对现代模型实现更高吞吐、更低延迟，且功耗更优，展示行业领先的推理性能。",
+        "comment": "自研芯片落地，OpenAI强化算力护城河。",
         "image": "",
         "score": 100
       }
