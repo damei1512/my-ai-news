@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "AI",
         "title": "OpenAI CFO谈全栈AI：芯片、算力、模型与产品协同",
         "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "summary": "OpenAI CFO Sarah Friar撰文指出，芯片、算力、模型和产品的协同进步，正以更低成本、更大规模提供更实用的智能，推动AI普及。",
-        "comment": "全栈视角揭示AI成本下降路径，行业风向标。",
+        "summary": "OpenAI CFO Sarah Friar撰文指出，芯片、算力、模型和产品的协同进步正推动AI智能规模化，成本下降，实用性提升。",
+        "comment": "全栈视角揭示AI成本下降路径，值得关注。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "AI芯片",
         "title": "OpenAI自研推理芯片Jalapeño首秀：速度与效率领先",
         "link": "https://openai.com/index/jalapeno-first-results",
-        "summary": "OpenAI发布自研推理芯片Jalapeño的首批结果，显示其在AI推理中具备更高吞吐量和更低延迟，同时功耗更低，为现代模型提供更快、更高效的推理性能。",
-        "comment": "自研芯片或成OpenAI降本增效的关键一步。",
+        "summary": "OpenAI发布自研推理芯片Jalapeño首批结果，宣称在AI推理速度、吞吐量和能效上均达行业领先，显著降低延迟，适用于现代模型。",
+        "comment": "自研芯片强化算力自主，但量产与生态仍是挑战。",
         "image": "",
         "score": 100
       }

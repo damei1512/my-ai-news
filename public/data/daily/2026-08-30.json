@@ -3,12 +3,72 @@
     "week": "周日",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《4便士棺材》：19世纪侦探或恶魔，社交推理新作",
+        "link": "https://www.ign.com/articles/4-penny-coffins-preview-jack-the-ripper",
+        "summary": "Other Ocean新作《4便士棺材》融合《Among Us》与开膛手杰克，设定在1888年白教堂区，支持8人及单人模式，玩家可扮演侦探或恶魔。",
+        "comment": "社交推理与历史恐怖结合，玩法新颖但平衡性待考。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/30/4-penny-conffins-blogroll-1788080046961.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "宝可梦",
+        "title": "宝可梦公司回应PokémonXP抽签系统与排队问题",
+        "link": "https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops",
+        "summary": "宝可梦公司就PokémonXP活动的抽签系统、长队及工作坊限流作出回应，承认运营挑战并承诺改进。",
+        "comment": "回应及时，但需具体措施落实。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/30/xp-blog-1788057109453.jpg",
+        "score": 89
+      },
+      {
         "category": "时事热点",
-        "tag": "加拿大",
-        "title": "加拿大在安大略湖畔立牌回击美国",
+        "tag": "瑞士",
+        "title": "瑞士狂欢派对枪击致22岁女子死亡，五人受伤",
+        "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+        "summary": "苏黎世附近一场电子音乐节发生枪击，一名22岁女子身亡，另有五名二十多岁年轻人受伤，警方正在追捕嫌疑人。",
+        "comment": "欧洲公共场所安全再受挑战，需警惕极端事件。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "WhatsApp",
+        "title": "WhatsApp成犯罪与极端主义资金转移工具",
+        "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+        "summary": "英国及全球的洗钱者利用WhatsApp聊天安排现金转移，无纸化操作，难以追踪，涉及犯罪和极端主义活动。",
+        "comment": "即时通讯加密特性成金融监管新漏洞。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "赞比亚",
+        "title": "赞比亚反对党领袖被控叛国罪",
+        "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+        "summary": "赞比亚反对党领袖蒙杜比勒此前藏身于首都联合国大楼，现被正式指控叛国罪。",
+        "comment": "政治对抗升级，国际社会关注司法独立性。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "冰岛",
+        "title": "冰岛公投否决重启入欧谈判",
+        "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "summary": "据冰岛国家广播公司RUV报道，52.8%的选民否决了政府重启加入欧盟谈判的提议。",
+        "comment": "冰岛民众对欧盟一体化保持谨慎，公投结果明确。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "美加关系",
+        "title": "加拿大安大略省立巨牌宣示主权，回应美国",
         "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-        "summary": "安大略省省长福特在加拿大湖畔竖起广告牌，写着“安大略湖，现在和永远”，回应美国关于第51州的言论。",
-        "comment": "以幽默方式强化主权，回应美方挑衅。",
+        "summary": "安大略省省长福特在加拿大湖畔竖起广告牌，上书“安大略湖，现在与永远”，以此回应美国近期言论。",
+        "comment": "此举象征性回应，凸显美加关系紧张。",
         "image": "",
         "score": 86
       }
