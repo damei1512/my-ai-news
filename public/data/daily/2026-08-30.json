@@ -3,42 +3,92 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "卡特彼勒",
+        "title": "卡特彼勒将矿山自动化经验用于AI部署",
+        "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "summary": "卡特彼勒在偏远矿区部署自动化机械数十年，现将其经验应用于AI部署，强调安全、可靠与规模化实施。",
+        "comment": "工业巨头跨界AI，经验或成差异化优势。",
+        "image": "",
+        "score": 99
+      },
+      {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《4便士棺材》：19世纪侦探或恶魔，社交推理新作",
+        "title": "《4便士棺材》：19世纪侦探与恶魔的社交推理游戏",
         "link": "https://www.ign.com/articles/4-penny-coffins-preview-jack-the-ripper",
-        "summary": "Other Ocean新作《4便士棺材》融合《Among Us》与开膛手杰克，设定在1888年白教堂区，支持8人及单人模式，玩家可扮演侦探或恶魔。",
-        "comment": "社交推理与历史恐怖结合，玩法新颖但平衡性待考。",
+        "summary": "Other Ocean新作《4便士棺材》将《我们之中》与开膛手杰克结合，设定在1888年白教堂区，支持8人合作与单人模式，玩家扮演侦探或恶魔进行社交推理。",
+        "comment": "社交推理与历史题材结合，玩法新颖但平衡性待考验。",
         "image": "https://assets-prd.ignimgs.com/2026/08/30/4-penny-conffins-blogroll-1788080046961.png",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "任天堂",
+        "title": "任天堂Switch 2周二起涨价50美元",
+        "link": "https://www.ign.com/articles/nintendo-switch-2-50-price-increase-2026",
+        "summary": "任天堂宣布自9月1日起，Switch 2售价上调至500美元，这是涨价前最后的购买机会。",
+        "comment": "涨价前最后窗口，玩家需抓紧决策。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/28/untitled-design-1787937060315.png",
         "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "宝可梦",
-        "title": "宝可梦公司回应PokémonXP抽签系统与排队问题",
-        "link": "https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops",
-        "summary": "宝可梦公司就PokémonXP活动的抽签系统、长队及工作坊限流作出回应，承认运营挑战并承诺改进。",
-        "comment": "回应及时，但需具体措施落实。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/30/xp-blog-1788057109453.jpg",
+        "tag": "Signalis",
+        "title": "《Signalis》故事：黄历说26年七夕忌结婚宜安葬",
+        "link": "https://www.gcores.com/radios/218678",
+        "summary": "本期节目深入解析《Signalis》的叙事与主题，引用“地球的毛孔本应足够，却被秘密地挖开了许多大洞”等文本，探讨游戏中的宇宙恐怖与存在主义。",
+        "comment": "深度叙事解析，适合核心玩家与文学爱好者。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "飞利浦",
+        "title": "飞利浦剃须刀亚马逊大幅降价，高端款半价",
+        "link": "https://www.ign.com/articles/best-philips-electric-shaver-deals",
+        "summary": "亚马逊现推出飞利浦剃须刀大促，包括高端Prestige Ultra型号，价格低于半价，可节省数百美元。",
+        "comment": "促销力度大，适合趁机入手高端型号。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/28/philips-electric-shaver-deals-1787908141727.png",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "我的世界",
+        "title": "《我的世界》生物化身饼干，Crumbl限时推出六款甜品",
+        "link": "https://www.gamespot.com/articles/minecraft-mobs-arrive-as-cookie-treats-at-crumbl-for-limited-time/",
+        "summary": "Crumbl与《我的世界》合作，今日起限时推出六款方形饼干，灵感来自游戏中的鸡等生物，满足玩家味蕾。",
+        "comment": "跨界营销精准，玩家情怀与甜品结合，或成短期热点。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/MinecraftCrumbl.jpg?w=300",
         "score": 89
       },
       {
         "category": "时事热点",
         "tag": "瑞士",
-        "title": "瑞士狂欢派对枪击致22岁女子死亡，五人受伤",
+        "title": "瑞士狂欢节枪击致22岁女子死亡五人受伤",
         "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-        "summary": "苏黎世附近一场电子音乐节发生枪击，一名22岁女子身亡，另有五名二十多岁年轻人受伤，警方正在追捕嫌疑人。",
-        "comment": "欧洲公共场所安全再受挑战，需警惕极端事件。",
+        "summary": "苏黎世附近一场电子音乐节发生枪击，一名22岁女子死亡，五名二十多岁者受伤，警方正在追捕凶手。",
+        "comment": "欧洲治安再亮红灯，狂欢节变悲剧。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "宝可梦",
+        "title": "宝可梦公司回应PokémonXP抽签系统及排队问题",
+        "link": "https://www.ign.com/articles/the-pokmon-company-on-pokmonxps-lottery-system-long-lines-and-limited-access-to-workshops",
+        "summary": "宝可梦公司就PokémonXP活动中的抽签系统、长队和工坊名额限制作出回应，承认运营挑战并承诺改进。",
+        "comment": "回应务实，但需看后续执行。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/30/xp-blog-1788057109453.jpg",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "WhatsApp",
         "title": "WhatsApp成犯罪与极端主义资金转移工具",
         "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-        "summary": "英国及全球的洗钱者利用WhatsApp聊天安排现金转移，无纸化操作，难以追踪，涉及犯罪和极端主义活动。",
-        "comment": "即时通讯加密特性成金融监管新漏洞。",
+        "summary": "BBC调查发现，WhatsApp被洗钱者用于在英国及全球安排现金转移，无纸面记录，涉及犯罪和极端主义活动。",
+        "comment": "即时通讯加密特性被滥用，监管需加强。",
         "image": "",
         "score": 87
       },
@@ -47,8 +97,8 @@
         "tag": "赞比亚",
         "title": "赞比亚反对党领袖被控叛国罪",
         "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
-        "summary": "赞比亚反对党领袖蒙杜比勒此前藏身于首都联合国大楼，现被正式指控叛国罪。",
-        "comment": "政治对抗升级，国际社会关注司法独立性。",
+        "summary": "赞比亚反对党领袖蒙杜比利此前藏身于首都联合国大楼，现已被控叛国罪。",
+        "comment": "政治对抗升级，国际社会关注。",
         "image": "",
         "score": 87
       },
@@ -57,20 +107,20 @@
         "tag": "冰岛",
         "title": "冰岛公投否决重启入欧谈判",
         "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-        "summary": "据冰岛国家广播公司RUV报道，52.8%的选民否决了政府重启加入欧盟谈判的提议。",
-        "comment": "冰岛民众对欧盟一体化保持谨慎，公投结果明确。",
+        "summary": "据冰岛国家广播公司RUV报道，52.8%选民否决政府重启入盟谈判的提议。",
+        "comment": "欧洲怀疑论再占上风，冰岛入欧前景黯淡。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "美加关系",
-        "title": "加拿大安大略省立巨牌宣示主权，回应美国",
+        "title": "加拿大立“安大略湖”标牌回击美国",
         "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-        "summary": "安大略省省长福特在加拿大湖畔竖起广告牌，上书“安大略湖，现在与永远”，以此回应美国近期言论。",
-        "comment": "此举象征性回应，凸显美加关系紧张。",
+        "summary": "安大略省省长福特在湖岸竖起广告牌，标注“安大略湖，现在与永远”，回应美国近期言论。",
+        "comment": "象征性动作，凸显美加关系紧张。",
         "image": "",
-        "score": 86
+        "score": 85
       }
     ]
   }
