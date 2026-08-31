@@ -4,152 +4,42 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI芯片",
-        "title": "Neocloud Lambda获10亿美元债务融资购芯片",
-        "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-        "summary": "Neocloud Lambda通过私人债务融资10亿美元，用于购买英伟达AI芯片并租给微软，凸显AI热潮下的高成本压力。",
-        "comment": "债务扩张模式风险高，需警惕AI泡沫。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
-        "title": "Anthropic研究员展示自我改进AI系统",
-        "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-        "summary": "Anthropic研究员展示自动化系统在10个特定错位行为基准上均提升性能，且不损害整体表现，预示AI自我改进潜力。",
-        "comment": "自我改进AI或加速对齐难题，需警惕失控风险。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "开源AI",
-        "title": "开源权重AI公司成硅谷最热收购目标",
-        "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-        "summary": "大量资本涌入开源权重AI领域，这些公司成为科技巨头争相收购的对象，反映出行业对开放模型商业价值的认可。",
-        "comment": "开源权重模式正重塑AI竞争格局。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic首胜：法院裁定五角大楼供应链风险标签违法",
-        "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-        "summary": "联邦法官裁定特朗普政府将Anthropic列为供应链风险属非法，该公司在华盛顿的第二起五角大楼诉讼中取得初步胜利。",
-        "comment": "司法纠偏科技安全标签，或影响后续AI监管博弈。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI终止向SpaceX旗下Cursor提供模型",
         "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "summary": "OpenAI决定在Cursor被SpaceX收购后，终止向其提供OpenAI模型的合同，此举或影响Cursor的AI功能。",
+        "summary": "OpenAI决定在Cursor被SpaceX收购后，逐步终止向其提供OpenAI模型的合同。",
         "comment": "商业竞争与战略调整的必然结果。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI初创",
-        "title": "OpenAI携手泰国推动AI初创企业发展",
+        "tag": "AI",
+        "title": "OpenAI携手泰国推动AI初创发展",
         "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-        "summary": "OpenAI与泰国高教部合作，启动为期八周的加速器项目，助力10家健康、保健和教育领域的初创公司将AI原型转化为可信赖的产品。",
-        "comment": "此举标志OpenAI加速布局东南亚AI生态。",
+        "summary": "OpenAI与泰国高教部合作，启动为期八周的加速器，支持10家健康、教育领域初创将AI原型转化为可信产品。",
+        "comment": "此举标志OpenAI加速东南亚布局。",
         "image": "",
         "score": 100
       },
       {
-        "category": "游戏影视",
-        "tag": "GTA6",
-        "title": "GTA6被称视觉最先进游戏，30帧引热议",
-        "link": "https://www.gamespot.com/articles/tech-experts-call-grand-theft-auto-6-the-most-visually-advanced-game-to-date-which-explains-why-its-stuck-at-30fps/",
-        "summary": "GTA6首次大规模实机演示曝光，展示Rockstar庞大开放世界及细节。技术专家称其为迄今视觉最先进的游戏，解释了为何锁定30帧。",
-        "comment": "画面极致但帧率妥协，主机性能瓶颈凸显。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/GTA-6-SITE_Zs4Re2o.webp?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "回合制",
-        "title": "回合制战术游戏粉丝迎来春天，多款大作接连公布",
-        "link": "https://www.gamespot.com/articles/turn-based-tactics-fans-are-suddenly-eating-very-well/",
-        "summary": "XCOM系列长期停更，AAA级回合制战术游戏稀缺，但近期多款新作公布，局面正在改变。",
-        "comment": "沉寂多年后，回合制战术游戏市场迎来复苏信号。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/star-wars-zero-company-tactics.jpg?w=300",
-        "score": 93
-      },
-      {
         "category": "数码科技",
         "tag": "数码",
-        "title": "iPhone 17登顶畅销榜，GTA6实机演示公布",
+        "title": "iPhone 17登顶畅销榜，GTA6实机演示发布",
         "link": "https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iPhone 17成Q2最畅销手机；《GTA6》发布26分钟实机演示；追觅咖啡回应闭店潮。另有小鹏Robotaxi获广州全无人测试资质，Anthropic签450亿美元算力合同，B站Q2营收79.4亿元。",
-        "comment": "多领域热点密集，但信息碎片化，需关注后续实质进展。",
+        "summary": "iPhone 17成Q2最畅销手机；《GTA6》公布26分钟实机演示；追觅咖啡回应闭店；小鹏Robotaxi获广州全无人测试资质；Anthropic签450亿美元算力合同；B站Q2营收79.4亿元。",
+        "comment": "多领域热点集中，科技与游戏动态值得关注。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏展",
-        "title": "CD Projekt Red援助科隆游戏展失窃受害者，业界声援",
-        "link": "https://www.gamespot.com/articles/cd-projekt-red-offers-to-help-gamescom-theft-victim-as-industry-shows-its-support/",
-        "summary": "科隆游戏展期间发生至少两起盗窃事件，独立开发者受影响。CD Projekt Red主动提供帮助，业界纷纷支持，展现行业团结。",
-        "comment": "行业互助暖心，但展会安保需加强。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Gamescom-2026.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "DLSS 5",
-        "title": "泄露DLSS 5模组揭示英伟达AI滤镜对游戏影响巨大",
-        "link": "https://www.gamespot.com/articles/leaked-dlss-5-mod-shows-just-how-much-nvidias-ai-filter-can-mess-with-your-games/",
-        "summary": "英伟达尚未公布DLSS 5发布日期，该技术年初发布时遭广泛反对。近期泄露的模组让PC玩家可注入该滤镜，展示其对游戏画面的显著改变。",
-        "comment": "AI滤镜双刃剑，玩家需谨慎使用。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/NVIDIA-DLSS-5-NR-DEMO-20-2000x1125-1.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《神鬼寓言》延期至2027年避让GTA6，开发者称满意",
-        "link": "https://www.gamespot.com/articles/fable-dev-happy-about-delay-to-2027-to-avoid-chaotic-window-and-we-all-know-that-means-gta-6/",
-        "summary": "微软新《神鬼寓言》从今年推迟至2027年2月，总监Ralph Fulton表示对延期感到满意，意在避开竞争激烈的发售窗口，业界普遍认为此举是为规避GTA6。",
-        "comment": "避让大作是明智策略，但延期过长或损玩家期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-28-at-2.45.42-PM.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6或将收录热门美剧中的迈阿密公寓",
-        "link": "https://www.gamespot.com/articles/gta-6-looks-like-it-features-this-popular-tv-show-apartment/",
-        "summary": "据GameSpot报道，GTA 6设定在迈阿密风格的罪恶都市，眼尖粉丝发现游戏可能包含热门电视剧中的公寓楼，引发关注。",
-        "comment": "细节彩蛋再添期待，R星致敬文化功力不减。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-28-at-2.03.32-PM.png?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "华为",
-        "title": "华为Pura X View评测：阔直板设计能否取代黑莓情怀",
+        "title": "华为Pura X View评测：阔直板设计能否超越黑莓情怀",
         "link": "https://www.ifanr.com/1677161?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "评测华为Pura X View，采用阔直板设计，对比黑莓经典机型，探讨其在商务与输入体验上的创新与不足。",
-        "comment": "阔直板设计是差异化尝试，但情怀难敌实用。",
+        "summary": "评测华为Pura X View，采用阔直板设计，对比黑莓经典，探讨其手感、性能与创新，是否值得从情怀转向新体验。",
+        "comment": "阔直板设计致敬经典，但创新才是关键。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "异形",
-        "title": "《异形：隔离2》新主角确认，旧理论终被放弃",
-        "link": "https://www.gamespot.com/articles/its-time-i-let-go-of-my-favorite-alien-isolation-2-theory/",
-        "summary": "《异形：隔离2》主角确定为新人Blake，开发商整个夏天已明确，但作者直到现在才接受，放弃原有理论。",
-        "comment": "新主角设定打破系列延续性，玩家需调整预期。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/ss_b1e245fecbcb2b93f48d76f4031f303076b4a6bc.1920x1080.webp?w=300",
         "score": 91
       }
     ]
