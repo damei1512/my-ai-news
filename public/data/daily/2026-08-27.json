@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI教育",
+        "tag": "人工智能",
         "title": "OpenAI研究：ChatGPT与批判性思维训练提升学生表现",
         "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-        "summary": "OpenAI对超千名学生的随机研究发现，结合ChatGPT与批判性思维训练，能提升学生原创性和真实作业表现。",
-        "comment": "实证支持AI辅助教学，但需注重思维训练。",
+        "summary": "OpenAI对超千名学生的随机研究显示，结合ChatGPT与批判性思维训练，能提升学生在真实大学作业中的原创性和表现。",
+        "comment": "实证研究为AI教育应用提供有力支撑，但需关注长期效果。",
         "image": "",
         "score": 100
       },
@@ -17,57 +17,67 @@
         "tag": "OpenAI",
         "title": "OpenAI扩大在巴西业务，深化AI应用推广",
         "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-        "summary": "OpenAI宣布扩大在巴西的业务，深化与开发者、企业和社区的合作，以支持该国AI技术的采用和普及。",
-        "comment": "新兴市场布局加速，巴西成AI落地关键阵地。",
+        "summary": "OpenAI宣布扩大在巴西的业务，加强与开发者、企业和社区的合作，以支持该国AI技术的采用与普及。",
+        "comment": "此举显示OpenAI加速布局拉美市场。",
         "image": "",
         "score": 100
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6 重磅预告：Netflix 独家曝光玩法细节",
+        "title": "GTA 6重磅预告发布：玩法细节全面解析",
         "link": "https://www.gamespot.com/articles/gta-6s-big-reveal-all-the-things-we-learned/",
-        "summary": "Rockstar 在 Netflix 独家发布 GTA 6 玩法预告，展示开放世界、角色系统及任务机制，结束多年等待，玩家期待值拉满。",
-        "comment": "预告信息量大，但发售日未定，仍需观望。",
+        "summary": "Rockstar在Netflix独家预告中首次展示GTA 6实机玩法，揭示开放世界、角色设定及任务机制等关键信息，引发玩家热议。",
+        "comment": "多年等待终见真容，但细节仍需官方进一步确认。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-4.15.30-PM-Large.jpeg?w=300",
         "score": 94
       },
       {
         "category": "数码科技",
         "tag": "游戏",
-        "title": "《GTA 6》公开26分钟实机玩法，13年等待值不值？",
+        "title": "《GTA 6》公开26分钟实机玩法，值得等待13年",
         "link": "https://www.ifanr.com/1677186?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "《GTA 6》公开26分钟实机玩法，展示开放世界细节与任务设计，引发玩家对13年等待是否值得的讨论。",
-        "comment": "实机内容惊艳，但能否超越前作仍是未知数。",
+        "summary": "《GTA 6》发布26分钟实机演示，展示开放世界细节与玩法创新，引发玩家热议，被视为游戏工业巅峰之作。",
+        "comment": "实机内容惊艳，但需警惕过度期待。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "新能源汽车",
+        "title": "风云T7上市：9.49万起全系600km，电池出事赔新车",
+        "link": "https://www.ifanr.com/1677135?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "奇瑞风云T7上市，起售价9.49万元，全系续航600公里，主打电池安全，承诺电池事故换新车，以安全牌吸引消费者。",
+        "comment": "安全承诺直击痛点，性价比突出，市场竞争力强。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "小鹏",
-        "title": "小鹏VLA 9月实装：记忆30秒预判6秒，开启时间维度驾驶",
+        "title": "小鹏新版VLA 9月实装：记忆30秒预判6秒",
         "link": "https://www.ifanr.com/1677118?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小鹏新版VLA将于9月实装，能记住过去30秒并预判未来6秒，实现基于时间维度的智能驾驶，提升决策能力。",
-        "comment": "从空间到时间，智驾竞争进入新维度。",
+        "summary": "小鹏汽车新版VLA模型将于9月实装，具备记忆过去30秒、预判未来6秒的能力，提升自动驾驶的时空理解与决策效率。",
+        "comment": "从感知到认知，小鹏在时间维度上迈出关键一步。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "具身智能",
-        "title": "机器人运动会后，自变量建虚拟训练场加速具身智能",
+        "title": "自变量为机器人建虚拟训练场，加速具身智能落地",
         "link": "https://www.ifanr.com/1677048?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "自变量机器人推出虚拟训练场，旨在解决具身智能数据稀缺问题，加速机器人从仿真到现实的落地进程。",
-        "comment": "虚拟训练场或成具身智能商业化关键一步。",
+        "summary": "机器人运动会后，自变量推出虚拟训练场，旨在解决具身智能数据稀缺问题，通过仿真环境加速机器人技能学习与迭代，推动AI从实验室走向现实应用。",
+        "comment": "虚拟训练场或成具身智能商业化关键突破口。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "AI电脑",
-        "title": "苹果小米AI电脑为何死磕内存墙？",
+        "title": "苹果小米AI电脑为何死磕内存墙",
         "link": "https://www.ifanr.com/1676852?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI算力提升遭遇内存带宽瓶颈，苹果、小米等厂商通过优化内存架构应对，以释放端侧AI潜力。",
+        "summary": "AI算力提升遭遇内存带宽瓶颈，苹果、小米等厂商通过优化内存架构应对，以提升端侧AI性能。",
         "comment": "内存墙成AI落地关键，厂商竞争转向系统级优化。",
         "image": "",
         "score": 92
@@ -77,30 +87,10 @@
         "tag": "理想汽车",
         "title": "理想换活法：i9与新MEGA将发布，纯电销量追平增程",
         "link": "https://www.ifanr.com/1677019?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "理想汽车宣布纯电车型销量已追平增程，即将发布i9和新MEGA，标志其战略重心转向纯电市场。",
-        "comment": "纯电追平增程，理想转型提速，市场格局或生变。",
+        "summary": "理想汽车宣布纯电车型销量已追平增程，即将发布i9和新MEGA，标志其战略重心转向纯电市场，技术回归商业价值。",
+        "comment": "纯电追平增程，理想转型提速，但挑战仍在。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "智元机器人",
-        "title": "智元机器人奥运首秀揽18金，工厂赛场双线领跑",
-        "link": "https://www.ifanr.com/1676970?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "智元机器人在奥运赛场首秀表现惊艳，狂揽18枚金牌，同时工厂应用同步推进，展现技术实力与商业化潜力。",
-        "comment": "机器人跨界竞技，展示硬实力，商业化前景可期。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "新能源车",
-        "title": "风云T7上市：9.49万起全系600km，电池出事赔新车",
-        "link": "https://www.ifanr.com/1677135?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "奇瑞风云T7上市，起售价9.49万元，全系续航600km，主打电池安全，承诺电池故障换新车，以安全牌吸引消费者。",
-        "comment": "安全承诺直击痛点，性价比突出，市场反响待观察。",
-        "image": "",
-        "score": 91
       }
     ]
   }
