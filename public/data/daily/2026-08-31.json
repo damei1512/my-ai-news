@@ -4,30 +4,20 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "军事AI",
-        "title": "五角大楼推出自有AI工具，整合ChatGPT与Grok",
+        "tag": "五角大楼",
+        "title": "五角大楼引入ChatGPT与Grok AI工具",
         "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-        "summary": "美国国防部在其中央AI门户中引入OpenAI的ChatGPT和SpaceXAI的Grok，与谷歌Gemini并列，供军事人员使用。",
-        "comment": "军事AI应用加速，安全与伦理挑战并存。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Instagram",
-        "title": "Instagram限制未标注AI账号的传播范围",
-        "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-        "summary": "针对AI网红引发的不满，Instagram将限制未明确标注为AI的账号的推荐和曝光，以减少误导。",
-        "comment": "平台治理AI内容，透明度是关键一步。",
+        "summary": "五角大楼中央AI门户将集成OpenAI的ChatGPT和SpaceXAI的Grok，与谷歌Gemini并列，供国防部门使用。",
+        "comment": "军事AI应用加速，需关注安全与伦理。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI助手",
-        "title": "哈佛辍学生为警察打造AI助手Blue Voice，获600万美元融资",
+        "title": "哈佛法学院辍学生为警察打造AI助手Blue Voice，获600万美元融资",
         "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-        "summary": "Blue Voice基于部门特定法律、地方法规和规程训练，弥补通用AI无法访问公共互联网之外信息的空白，旨在为警察提供专业支持。",
+        "summary": "Blue Voice基于部门特定法律、地方法规和协议训练，弥补通用AI无法获取的公共互联网之外信息，为警察提供专业支持。",
         "comment": "垂直领域AI应用再获资本青睐，但警察场景需警惕伦理风险。",
         "image": "",
         "score": 100
@@ -37,28 +27,18 @@
         "tag": "AI视频搜索",
         "title": "AI视频搜索初创Clipto估值达2.5亿美元",
         "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-        "summary": "成立三年的Clipto利用AI搜索海量视频，年经常性收入达1500万美元并实现盈利，最新融资1500万美元后估值2.5亿美元。",
-        "comment": "盈利后融资，AI视频搜索赛道价值凸显。",
+        "summary": "成立三年的Clipto利用AI搜索海量视频，年经常性收入达1500万美元并实现盈利，最新融资1500万美元后估值升至2.5亿美元。",
+        "comment": "盈利后融资，估值合理，AI视频搜索赛道竞争加剧。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "英伟达",
-        "title": "英伟达35亿美元投资联发科，应对大科技公司自研AI芯片",
+        "title": "英伟达35亿美元投资联发科，应对大科技自研AI芯片",
         "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-        "summary": "英伟达向联发科投资35亿美元，此举揭示其在大科技公司自研AI芯片趋势下，如何保持自身在AI基础设施中的关键地位。",
-        "comment": "英伟达通过投资巩固生态，应对自研芯片挑战。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "无人机",
-        "title": "美国筑墙限制无人机机器人，中国凭规模突围",
-        "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-        "summary": "美国正加大对外国无人机和机器人的限制，但中国凭借制造规模优势，可能将竞争转向其他市场，全球格局或生变。",
-        "comment": "壁垒难阻规模优势，竞争或转移阵地。",
+        "summary": "英伟达向台湾芯片制造商联发科投资35亿美元，此举显示其在大科技公司开始自研AI芯片之际，如何保持自身在AI基础设施中的关键地位。",
+        "comment": "英伟达以投资绑定盟友，巩固AI芯片生态护城河。",
         "image": "",
         "score": 100
       },
@@ -67,7 +47,7 @@
         "tag": "AI安全",
         "title": "OpenAI支持加州青少年AI安全法案",
         "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-        "summary": "OpenAI宣布支持加州SB 1119法案，旨在为青少年建立适龄的AI安全防护，同时保留学习、创造和探索的机会。",
+        "summary": "OpenAI宣布支持加州SB 1119法案，旨在为青少年建立适龄的AI安全保护措施，同时保留学习、创造和探索的机会。",
         "comment": "科技巨头主动支持监管，或为行业树立新标杆。",
         "image": "",
         "score": 100
@@ -77,280 +57,90 @@
         "tag": "AI基础设施",
         "title": "Polimill利用OpenAI构建日本下一代公共AI基础设施",
         "link": "https://openai.com/index/polimill",
-        "summary": "Polimill采用OpenAI的GPT模型和Codex，帮助市政机构搜索和利用行政知识，同时加速开发进程，提升公共服务效率。",
-        "comment": "公共部门AI应用落地，效率提升值得期待。",
+        "summary": "Polimill借助OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。",
+        "comment": "公共部门AI应用落地，效率提升值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI ChatGPT广告年化收入达10亿美元并全球扩展",
+        "title": "ChatGPT广告年化收入达10亿美元，加速AI普及",
         "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-        "summary": "OpenAI宣布ChatGPT Ads年化收入达10亿美元，并全球扩展，通过免费和低价选项推动AI普及。",
+        "summary": "OpenAI宣布ChatGPT Ads年化收入达10亿美元，并全球扩展，通过免费和低价选项推动AI更广泛可及。",
         "comment": "广告模式初显成效，但可持续性待观察。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
+        "tag": "Instagram",
+        "title": "Instagram限制未标注AI账号的传播范围",
+        "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+        "summary": "针对AI网红引发的用户不满，Instagram将限制未明确标注为AI的账号的推荐和可见性，以减少误导。",
+        "comment": "平台治理AI内容需更透明，此举措是必要一步。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
         "tag": "会议记录",
         "title": "会议记录工具Circleback推免费版吸引用户",
         "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-        "summary": "Circleback新增免费层级，并推出月费14美元起的新定价方案，以扩大用户基础。",
+        "summary": "Circleback推出免费层级，并新增月费14美元起的付费计划，以扩大用户基础。",
         "comment": "免费策略或加剧会议工具市场竞争。",
         "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "三星",
-        "title": "三星S90F QD-OLED电视优于2026款，劳动节促销中",
-        "link": "https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-ebay-labor-day-sale",
-        "summary": "三星S90F是最后采用QD-OLED技术的电视，2026年新款将放弃该技术。目前该电视在劳动节促销中降价销售。",
-        "comment": "QD-OLED绝版前入手良机，画质党值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/31/samsungs90f-1788219338645.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "AMC",
-        "title": "AMC影院成立发行公司，瞄准小成本电影热潮",
-        "link": "https://www.ign.com/articles/amc-theaters-launches-its-own-film-distribution-company-as-small-budget-movies-soar",
-        "summary": "AMC影院不再只是放映新片的场所，现成立自己的电影发行公司，以顺应小成本电影票房上涨的趋势。",
-        "comment": "院线涉足发行，产业链整合新动向。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/31/amc-theaters-starts-film-distribution-company-1788218614258.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "神奇女侠3",
-        "title": "盖尔·加朵谈《神奇女侠3》取消：与古恩关系良好",
-        "link": "https://www.ign.com/articles/gal-gadot-says-james-gunn-and-peter-safran-told-her-wonder-woman-3-was-happening-before-its-messy-cancellation",
-        "summary": "盖尔·加朵透露，詹姆斯·古恩和彼得·萨弗兰曾告知她《神奇女侠3》将制作，但随后项目被取消，过程混乱。她表示虽处理不当，但双方关系无恙。",
-        "comment": "DC重启混乱，演员成牺牲品，加朵回应显大度。",
-        "image": "https://assets-prd.ignimgs.com/2021/08/27/wonder-woman-1984-streaming-1630061778260.jpeg",
-        "score": 94
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "NASA",
         "title": "NASA超广角太空望远镜升空，5年扫描10亿星系",
         "link": "https://www.ifanr.com/1677738?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "NASA发射新一代超广角太空望远镜，计划5年内扫描10亿个星系，以研究暗能量、暗物质及宇宙膨胀历史，推动宇宙学重大突破。",
-        "comment": "大规模巡天将重塑宇宙认知，科学价值极高。",
+        "summary": "NASA新型超广角太空望远镜成功发射，计划在5年内扫描10亿个星系，以研究暗能量和宇宙膨胀，推动天文学重大发现。",
+        "comment": "大规模巡天将重塑宇宙学认知，值得关注。",
         "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "亚马逊翻新Switch Pro手柄仅售48美元",
-        "link": "https://www.ign.com/articles/nintendo-switch-pro-controller-deal-september-2026",
-        "summary": "亚马逊翻新Nintendo Switch Pro手柄售价48.12美元，免运费，兼容Switch 2，性价比高。",
-        "comment": "翻新手柄价格实惠，兼容新机，值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/31/nintendoswitchprocontroller-1788215757556.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PlayStation",
-        "title": "PlayStation将支付785万美元和解集体诉讼",
-        "link": "https://www.ign.com/articles/playstation-is-set-to-pay-out-785-million-to-users-as-part-of-class-action-lawsuit",
-        "summary": "PlayStation因集体诉讼将向用户支付785万美元和解金，符合条件的用户可能很快获得赔偿。",
-        "comment": "用户赔偿金额有限，但标志性意义大于实际。",
-        "image": "http://assets1.ignimgs.com/2015/10/27/playstation-logojpg-9b373d.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6临近发售，玩家担忧巨大下载量",
-        "link": "https://www.gamespot.com/articles/gta-6-fans-are-bracing-for-one-massive-download/",
-        "summary": "距《GTA 6》11月发售仅数月，Netflix预告片引发新疑问，玩家开始为庞大的下载文件做准备。",
-        "comment": "下载体量成焦点，或影响主机存储策略。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2025/05/Jason_and_Lucia_01.jpg?w=300",
-        "score": 93
+        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "美国参议员呼吁Discord和Roblox接受法庭审查",
-        "link": "https://www.gamespot.com/articles/us-senators-say-discord-and-roblox-should-have-their-day-in-court/",
-        "summary": "三位美国民主党参议员批评Discord和Roblox，认为这两款平台不应躲在私人仲裁后，而应接受法庭审查，以解决其内容审核和用户安全问题。",
-        "comment": "监管压力升级，平台责任面临司法考验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/roblox-image.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《控制：共鸣》将充满剧情，开发者暂不能透露细节",
+        "title": "《控制：共振》将充满剧情，开发者暂不能透露细节",
         "link": "https://www.gamespot.com/articles/trust-us-were-remedy-control-resonant-will-have-plenty-of-lore-the-devs-just-cant-reveal-any-of-it/",
-        "summary": "Remedy工作室承诺，《控制：共鸣》将包含大量世界观设定和剧情内容，尽管预告片侧重战斗。开发者表示目前无法透露具体细节，但粉丝不必担心。",
-        "comment": "预告片藏剧情，Remedy吊足胃口，期待值拉满。",
+        "summary": "Remedy承诺《控制：共振》将包含大量世界观设定，尽管预告片侧重战斗。开发者表示故事内容丰富，但暂不能公开具体细节。",
+        "comment": "吊胃口但可信，Remedy的叙事功底值得期待。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/08/control-resonant.jpg?w=300",
         "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂9月10日直面会或将举行，Just Dance泄露线索",
-        "link": "https://www.gamespot.com/articles/a-september-10-nintendo-direct-is-looking-likely-thanks-to-just-dance/",
-        "summary": "据GameSpot报道，新证据显示任天堂可能于9月10日举办直面会，聚焦2026年假期游戏阵容，引发玩家期待。",
-        "comment": "线索虽间接，但时间点合理，值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Sept-10-Nintendo-Direct-Zelda-OoT.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "Xbox CEO称重振光环系列为优先事项，联合创始人质疑可行性",
-        "link": "https://www.gamespot.com/articles/xbox-ceo-says-making-halo-popular-again-is-a-priority-but-franchise-co-creator-questions-if-its-possible/",
-        "summary": "Xbox新CEO Asha Sharma表示重振《光环》系列是优先事项，但该系列联合创始人质疑其可能性，认为当前挑战巨大。",
-        "comment": "光环复兴需创新与情怀平衡，质疑声凸显难度。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Halo.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PS5",
-        "title": "PS5新增免费影视频道，以广告换取观看",
-        "link": "https://www.gamespot.com/articles/ps5-adds-free-live-and-on-demand-movie-and-tv-channels-in-exchange-for-watching-ads/",
-        "summary": "索尼宣布PS5推出免费广告支持流媒体电视（FAST），用户可免费观看电影和电视节目，但需接受广告。",
-        "comment": "索尼此举意在拓展用户粘性，但广告模式或影响体验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/FAST.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《致命躯壳2》更新修复经济系统，调整游戏平衡",
-        "link": "https://www.gamespot.com/articles/mortal-shell-2-update-fixes-the-games-stingy-economy/",
-        "summary": "开发商Cold Symmetry发布《致命躯壳2》大型更新，大幅调整游戏经济系统，改善资源获取，优化魂类动作RPG体验。",
-        "comment": "及时修复经济问题，提升玩家体验，值得肯定。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Mortal-Dollar.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox CEO回应主机涨价：微软自身AI投入是推手",
-        "link": "https://www.gamespot.com/articles/xbox-ceo-reacts-to-the-irony-of-rising-console-prices-being-an-issue-that-microsoft-itself-created/",
-        "summary": "Xbox主机价格创新高，微软大力投资AI是部分原因。CEO Asha Sharma回应了这一讽刺现象，承认公司策略对硬件成本的影响。",
-        "comment": "AI热潮反噬游戏业务，微软需平衡投入与玩家利益。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xboxpricehike.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PS5",
-        "title": "索尼称无需激进促销PS5，专注提升现有玩家价值",
-        "link": "https://www.gamespot.com/articles/aggressively-selling-ps5s-isnt-needed-as-sony-focuses-on-making-more-from-existing-owners/",
-        "summary": "PS5上市近六年，市场变化显著。索尼表示不再需要激进销售策略，转而通过服务和内容从现有用户中挖掘更多价值。",
-        "comment": "存量运营成主流，硬件销售退居其次。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/PS5-consoles.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "折叠屏",
-        "title": "折叠屏iPhone不该配手写笔的硬哲学",
-        "link": "https://www.ifanr.com/1677413?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿探讨折叠屏iPhone为何不应配备手写笔，从交互逻辑与用户需求角度分析，认为手写笔并非必要配件。",
-        "comment": "观点鲜明，但忽略部分用户手写需求。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "500万人围观，AI造出无限泔水机",
-        "link": "https://www.ifanr.com/1677378?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI技术引发关注，但内容无限与精力有限的矛盾凸显，引发对AI应用边界的思考。",
-        "comment": "AI创新需平衡实用与伦理。",
-        "image": "",
-        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "鬼武者",
         "title": "《鬼武者：剑之道》评测：剑戟复兴，乐趣平平",
         "link": "https://www.gcores.com/articles/219022",
-        "summary": "CAPCOM《鬼武者》系列时隔二十年推出新作，但评测认为游戏乐趣平平，未能重现经典辉煌。系列累计销量超900万，因前作销量惨淡被雪藏，老玩家期待高清复刻而非新作。",
-        "comment": "经典IP重启需谨慎，情怀难掩玩法平庸。",
+        "summary": "CAPCOM经典IP《鬼武者》沉寂20年后推出新作，但评测认为游戏体验平平，未能重现系列辉煌，仅靠高清复刻难以满足老玩家期待。",
+        "comment": "情怀难掩创新不足，剑戟复兴尚需打磨。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "VPN",
-        "title": "Proton VPN两年套餐降价70%，现价仅2.99美元",
-        "link": "https://www.ign.com/articles/protonvpn-vpn-deal-august-2026",
-        "summary": "Proton VPN两年期套餐现降价70%，月费仅2.99美元，为当前最佳VPN优惠。",
-        "comment": "性价比突出，适合长期隐私保护需求。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/04/protonvpn-1785808209838.png",
+        "tag": "游戏",
+        "title": "《哥斯拉》重制版开发者不惧与GTA6同期发售",
+        "link": "https://www.gamespot.com/articles/godzilla-remaster-devs-explain-why-they-arent-worried-about-releasing-near-gta-6/",
+        "summary": "多数游戏避开GTA6发售月，但2002年《哥斯拉》重制版团队表示不担心，认为受众不同，且游戏类型差异大，可共存市场。",
+        "comment": "差异化定位是明智之举，但市场风险仍存。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Godzilla-Destroy-All-Monsters-Remastered-Didnt-Think-About-GTA-6-At-All.jpg?w=300",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "SUV",
-        "title": "年轻人的第一台SUV，为生活留余地",
+        "title": "年轻人的第一台SUV：为未发生的生活留余地",
         "link": "https://www.ifanr.com/1677553?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿探讨年轻人选购SUV的需求，强调车辆应承载未来生活的可能性，而非仅满足当前通勤。",
-        "comment": "切中年轻用户痛点，但缺乏具体车型对比。",
+        "summary": "文章探讨年轻人选购SUV时，应注重空间与灵活性，以适应未来生活变化，而非仅追求外观或性能。",
+        "comment": "实用主义视角，切中年轻用户真实需求。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《哥斯拉》重制版开发商不惧与GTA6同期发售",
-        "link": "https://www.gamespot.com/articles/godzilla-remaster-devs-explain-why-they-arent-worried-about-releasing-near-gta-6/",
-        "summary": "多数游戏避开GTA6及11月档期，但2002年《哥斯拉毁灭》重制版开发商表示不担心，认为受众不同，且游戏类型差异大。",
-        "comment": "差异化定位是明智之举，但市场风险仍存。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Godzilla-Destroy-All-Monsters-Remastered-Didnt-Think-About-GTA-6-At-All.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "中元节",
-        "title": "中元故事会2026：门把手动了，会员加更惊悚夜话",
-        "link": "https://www.gcores.com/radios/218679",
-        "summary": "机核会员节目《中元夜话》加更，邀请多位嘉宾演绎听众投稿及亲身经历的灵异故事，为满足用户呼声特别制作，采纳投稿者将获赠品。",
-        "comment": "灵异题材加更，互动性强，但内容深度有限。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "数码科技",
-        "tag": "定制服务",
-        "title": "制糖工厂推出伴手礼定制服务，让心意更独特",
-        "link": "https://www.ifanr.com/1677398?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂推出伴手礼专属定制服务，强调好产品如糖，旨在通过个性化定制让礼物更具心意，避免千篇一律。",
-        "comment": "定制化服务迎合个性化需求，但市场反响待观察。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《黎明行者之血》PC设置指南：优化选项提升性能",
-        "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-pc-settings-guide-maximize-your-pc-performance-by-tweaking-these-options",
-        "summary": "IGN发布《黎明行者之血》PC设置指南，涵盖画质、帧率、分辨率等关键选项，帮助玩家平衡视觉与性能，获得最佳游戏体验。",
-        "comment": "实用指南，适合追求流畅体验的PC玩家。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/25/bloodthuymb-1787684709017.png",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "亚马逊",
-        "title": "美国指控亚马逊操纵200亿美元广告价格",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国联邦贸易委员会指控亚马逊操纵价值200亿美元的广告价格，亚马逊回应称委员会误解其广告市场。",
-        "comment": "科技巨头再遭反垄断重击，市场公平性成焦点。",
-        "image": "",
-        "score": 87
       }
     ]
   }
