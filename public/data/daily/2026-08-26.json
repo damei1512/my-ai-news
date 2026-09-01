@@ -4,41 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI报告：AI让学习不再止步于课堂",
-        "link": "https://openai.com/index/learning-never-stops",
-        "summary": "OpenAI新报告探讨学生与教师如何利用ChatGPT实现持续学习，支持延伸至课堂之外，让学习不间断。",
-        "comment": "AI正重塑学习边界，但需关注其实际效果。",
+        "tag": "教育",
+        "title": "OpenAI将ChatGPT教师版扩展至美国55个学区",
+        "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+        "summary": "OpenAI宣布将ChatGPT for Teachers扩展至美国55个学区，为超过10万名教育工作者提供安全AI工具、培训和支持。",
+        "comment": "教育AI落地加速，但需关注数据安全与教学效果。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "教育",
-        "title": "OpenAI将ChatGPT教师版扩展至美国55个学区",
-        "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-        "summary": "OpenAI宣布ChatGPT for Teachers扩展至美国55个学区，为超过10万名教育工作者提供安全AI工具、培训和支持。",
-        "comment": "教育AI落地加速，但需关注数据隐私与教学效果。",
+        "tag": "人工智能",
+        "title": "OpenAI报告：AI让学习不再止步于课堂",
+        "link": "https://openai.com/index/learning-never-stops",
+        "summary": "OpenAI新报告探讨学生与教师如何利用ChatGPT实现持续学习，将支持延伸至课堂之外，覆盖更多学习场景。",
+        "comment": "AI教育应用正从辅助走向常态，但需关注学习深度。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "OpenAI回应Hugging Face事件，强化AI模型安全",
+        "title": "OpenAI回应Hugging Face事件，强化AI安全",
         "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
         "summary": "OpenAI公布Hugging Face安全事件调查结果，并宣布加强AI模型安全、监控与对齐的措施。",
-        "comment": "安全事件频发，OpenAI的应对值得关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI Codex助力loveholidays全员开发",
-        "link": "https://openai.com/index/loveholidays",
-        "summary": "OpenAI介绍旅游公司loveholidays如何利用Codex降低软件开发门槛，让非技术团队也能快速将创意转化为产品，提升开发效率。",
-        "comment": "AI编程工具正推动开发民主化，企业应用案例值得关注。",
+        "comment": "安全事件频发，OpenAI的回应是行业标杆。",
         "image": "",
         "score": 100
       }
