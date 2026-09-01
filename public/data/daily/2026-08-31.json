@@ -4,41 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "五角大楼",
-        "title": "五角大楼引入ChatGPT与Grok AI工具",
+        "tag": "军事AI",
+        "title": "五角大楼引入ChatGPT与Grok，打造专属AI工具平台",
         "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-        "summary": "五角大楼中央AI门户将集成OpenAI的ChatGPT和SpaceXAI的Grok，与谷歌Gemini并列，供国防部门使用。",
-        "comment": "军事AI应用加速，需关注安全与伦理。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI助手",
-        "title": "哈佛法学院辍学生为警察打造AI助手Blue Voice，获600万美元融资",
-        "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-        "summary": "Blue Voice基于部门特定法律、地方法规和协议训练，弥补通用AI无法获取的公共互联网之外信息，为警察提供专业支持。",
-        "comment": "垂直领域AI应用再获资本青睐，但警察场景需警惕伦理风险。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI视频搜索",
-        "title": "AI视频搜索初创Clipto估值达2.5亿美元",
-        "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-        "summary": "成立三年的Clipto利用AI搜索海量视频，年经常性收入达1500万美元并实现盈利，最新融资1500万美元后估值升至2.5亿美元。",
-        "comment": "盈利后融资，估值合理，AI视频搜索赛道竞争加剧。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达35亿美元投资联发科，应对大科技自研AI芯片",
-        "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-        "summary": "英伟达向台湾芯片制造商联发科投资35亿美元，此举显示其在大科技公司开始自研AI芯片之际，如何保持自身在AI基础设施中的关键地位。",
-        "comment": "英伟达以投资绑定盟友，巩固AI芯片生态护城河。",
+        "summary": "美国国防部在中央AI门户中集成OpenAI的ChatGPT和SpaceXAI的Grok，与谷歌Gemini并列，供军事人员使用。",
+        "comment": "军事AI应用加速，安全与伦理挑战并存。",
         "image": "",
         "score": 100
       },
@@ -47,17 +17,17 @@
         "tag": "AI安全",
         "title": "OpenAI支持加州青少年AI安全法案",
         "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-        "summary": "OpenAI宣布支持加州SB 1119法案，旨在为青少年建立适龄的AI安全保护措施，同时保留学习、创造和探索的机会。",
-        "comment": "科技巨头主动支持监管，或为行业树立新标杆。",
+        "summary": "OpenAI支持加州SB 1119法案，推动为青少年建立适龄的AI安全防护，同时保留学习、创造和探索的机会。",
+        "comment": "科技巨头主动支持监管，释放积极信号。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI基础设施",
-        "title": "Polimill利用OpenAI构建日本下一代公共AI基础设施",
+        "tag": "人工智能",
+        "title": "Polimill借助OpenAI构建日本下一代公共AI基础设施",
         "link": "https://openai.com/index/polimill",
-        "summary": "Polimill借助OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。",
+        "summary": "Polimill利用OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。",
         "comment": "公共部门AI应用落地，效率提升值得关注。",
         "image": "",
         "score": 100
@@ -65,10 +35,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "ChatGPT广告年化收入达10亿美元，加速AI普及",
+        "title": "OpenAI广告年化收入达10亿美元，扩大AI普及",
         "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-        "summary": "OpenAI宣布ChatGPT Ads年化收入达10亿美元，并全球扩展，通过免费和低价选项推动AI更广泛可及。",
-        "comment": "广告模式初显成效，但可持续性待观察。",
+        "summary": "OpenAI宣布ChatGPT广告业务年化收入达10亿美元，并全球扩展，通过免费和低价选项推动AI更广泛普及。",
+        "comment": "广告模式验证，AI商业化加速，但需平衡用户体验。",
         "image": "",
         "score": 100
       },
@@ -77,39 +47,19 @@
         "tag": "Instagram",
         "title": "Instagram限制未标注AI账号的传播范围",
         "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-        "summary": "针对AI网红引发的用户不满，Instagram将限制未明确标注为AI的账号的推荐和可见性，以减少误导。",
-        "comment": "平台治理AI内容需更透明，此举措是必要一步。",
+        "summary": "针对AI网红泛滥引发的用户不满，Instagram将限制未明确标注AI身份的账号的推荐与可见度，以减少误导。",
+        "comment": "平台治理AI内容，透明度是关键一步。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "会议记录",
-        "title": "会议记录工具Circleback推免费版吸引用户",
-        "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-        "summary": "Circleback推出免费层级，并新增月费14美元起的付费计划，以扩大用户基础。",
-        "comment": "免费策略或加剧会议工具市场竞争。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "NASA",
         "title": "NASA超广角太空望远镜升空，5年扫描10亿星系",
         "link": "https://www.ifanr.com/1677738?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "NASA新型超广角太空望远镜成功发射，计划在5年内扫描10亿个星系，以研究暗能量和宇宙膨胀，推动天文学重大发现。",
-        "comment": "大规模巡天将重塑宇宙学认知，值得关注。",
+        "summary": "NASA发射新一代超广角太空望远镜，计划5年内扫描10亿个星系，以研究暗能量和星系演化，拓展人类对宇宙的认知。",
+        "comment": "天文观测进入大范围普查时代，科学发现可期。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《控制：共振》将充满剧情，开发者暂不能透露细节",
-        "link": "https://www.gamespot.com/articles/trust-us-were-remedy-control-resonant-will-have-plenty-of-lore-the-devs-just-cant-reveal-any-of-it/",
-        "summary": "Remedy承诺《控制：共振》将包含大量世界观设定，尽管预告片侧重战斗。开发者表示故事内容丰富，但暂不能公开具体细节。",
-        "comment": "吊胃口但可信，Remedy的叙事功底值得期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/control-resonant.jpg?w=300",
         "score": 92
       },
       {
@@ -117,28 +67,18 @@
         "tag": "鬼武者",
         "title": "《鬼武者：剑之道》评测：剑戟复兴，乐趣平平",
         "link": "https://www.gcores.com/articles/219022",
-        "summary": "CAPCOM经典IP《鬼武者》沉寂20年后推出新作，但评测认为游戏体验平平，未能重现系列辉煌，仅靠高清复刻难以满足老玩家期待。",
-        "comment": "情怀难掩创新不足，剑戟复兴尚需打磨。",
+        "summary": "CAPCOM经典IP《鬼武者》沉寂20年后推出新作，但评测认为游戏仅做到剑戟元素复兴，整体乐趣平淡，未能超越系列巅峰。",
+        "comment": "情怀有余，创新不足，老玩家或感失望。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《哥斯拉》重制版开发者不惧与GTA6同期发售",
-        "link": "https://www.gamespot.com/articles/godzilla-remaster-devs-explain-why-they-arent-worried-about-releasing-near-gta-6/",
-        "summary": "多数游戏避开GTA6发售月，但2002年《哥斯拉》重制版团队表示不担心，认为受众不同，且游戏类型差异大，可共存市场。",
-        "comment": "差异化定位是明智之举，但市场风险仍存。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Godzilla-Destroy-All-Monsters-Remastered-Didnt-Think-About-GTA-6-At-All.jpg?w=300",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "SUV",
-        "title": "年轻人的第一台SUV：为未发生的生活留余地",
+        "title": "年轻人的第一台SUV，为生活留余地",
         "link": "https://www.ifanr.com/1677553?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨年轻人选购SUV时，应注重空间与灵活性，以适应未来生活变化，而非仅追求外观或性能。",
-        "comment": "实用主义视角，切中年轻用户真实需求。",
+        "summary": "文章探讨年轻人选购SUV时，需兼顾实用与未来生活变化，强调空间与灵活性，而非单纯追求性能或外观。",
+        "comment": "切中年轻购车痛点，建议务实。",
         "image": "",
         "score": 90
       }
