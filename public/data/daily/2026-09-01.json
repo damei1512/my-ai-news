@@ -4,142 +4,62 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI训练",
-        "title": "AfterQuery五个月估值翻十倍，成YC最快独角兽",
-        "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-        "summary": "AI模型训练初创公司AfterQuery据报道完成新一轮融资，估值达32亿美元，距其3000万美元A轮融资仅五个月，成为Y Combinator史上最快达到独角兽地位的公司。",
-        "comment": "速度惊人，但需警惕AI泡沫风险。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI Astra模型将发布，擅长入侵计算机系统",
-        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-        "summary": "OpenAI预览了其最新、关键网络安全的Astra模型发布前的防范措施，该模型擅长入侵计算机系统。",
-        "comment": "安全与能力平衡成关键挑战。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌推AI工具Pics，用提示词替代设计对抗Canva",
-        "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-        "summary": "谷歌发布AI优先的创意工具Pics，用户通过提示词生成设计，直接挑战Canva和Adobe在创意软件市场的地位。",
-        "comment": "AI设计工具竞争加剧，谷歌入局或重塑创作流程。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "ChatGPT健康版接入Epic，医生可导入患者数据",
-        "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-        "summary": "OpenAI宣布ChatGPT Health与Epic系统集成，为临床医生提供患者健康记录的只读访问权限，以辅助诊疗。",
-        "comment": "医疗AI落地关键一步，但数据安全需严格把关。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "AI代理",
         "title": "AI原生企业如何将工作流转化为运营能力",
         "link": "https://openai.com/index/ai-native-company-workflows",
-        "summary": "Basis、Clay和Exa Labs等公司利用AI代理优化入职、账户管理和开发者集成，企业领导者可借鉴其经验。",
-        "comment": "AI代理正成为企业运营的核心驱动力。",
+        "summary": "Basis、Clay和Exa Labs利用AI代理优化入职、账户管理和开发者集成，为企业领导者提供可借鉴的实践。",
+        "comment": "AI代理正从工具演变为企业核心运营能力。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI Astra模型达到关键网络安全能力阈值",
+        "title": "OpenAI Astra模型达关键网络安全门槛，强化发布防护",
         "link": "https://openai.com/index/path-to-astra",
-        "summary": "Astra是OpenAI首个在预备框架下达到关键网络安全能力阈值的模型，并加强了发布安全措施。",
-        "comment": "安全门槛提升，但实际风险仍需观察。",
+        "summary": "Astra是OpenAI首个在预备框架下达到关键网络安全能力阈值的模型，并加强了发布前的安全防护措施。",
+        "comment": "安全门槛落地，模型发布更审慎。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "医疗AI",
-        "title": "OpenAI让ChatGPT接入电子病历与医疗数据",
+        "title": "OpenAI推出ChatGPT医疗数据连接功能",
         "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-        "summary": "OpenAI宣布ChatGPT可连接电子病历等可信医疗数据，帮助临床医生安全获取患者背景、医学研究等信息，提升诊疗效率。",
-        "comment": "医疗AI落地关键一步，但数据安全与准确性仍需验证。",
+        "summary": "OpenAI宣布ChatGPT可连接电子健康记录等医疗数据，帮助临床医生安全获取患者背景和研究资料，提升诊疗效率。",
+        "comment": "医疗AI落地关键一步，数据安全仍是挑战。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "法律AI",
-        "title": "律所Gilbert+Tobin携手OpenAI规模化应用AI",
+        "title": "吉尔伯特与托宾律所如何用OpenAI治理并扩展AI",
         "link": "https://openai.com/index/gilbert-tobin",
-        "summary": "Gilbert+Tobin通过CEO主导、严格治理和人类问责制，在全所推广ChatGPT Enterprise和Codex，实现AI规模化应用。",
-        "comment": "法律行业AI落地需治理先行，此案例具参考价值。",
+        "summary": "吉尔伯特与托宾律所结合CEO主导的承诺、严格治理和人类问责制，在全所推广ChatGPT Enterprise和Codex，实现规模化应用。",
+        "comment": "律所AI治理案例，强调人类问责，值得借鉴。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "安卓",
-        "title": "谷歌安卓更新：缓解晕动症，增强无障碍功能",
-        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-        "summary": "谷歌发布安卓更新，新增缓解晕动症、无障碍改进等功能，部分追赶苹果，部分利用Gemini提升体验。",
-        "comment": "追赶苹果之余，Gemini加持是差异化亮点。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic发布Fable 5.1：成本更低，限制更少",
-        "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-        "summary": "Anthropic推出Fable 5.1，旨在降低令牌成本，并减少模型安全机制导致的误报限制，提升使用灵活性。",
-        "comment": "降低误报是务实之举，但需平衡安全与可用性。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "数码科技",
         "tag": "自动驾驶",
         "title": "自动驾驶强制国标出台，L3级车型今明两年密集上市",
         "link": "https://www.ifanr.com/1677995?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "自动驾驶强制国标发布，享界智界等品牌提前布局，预计未来两年L3级自动驾驶将密集上车，行业迎来规范化发展。",
-        "comment": "国标落地加速L3商业化，技术竞争转向合规与安全。",
+        "summary": "自动驾驶强制国标发布，享界智界等品牌提前布局，未来两年L3级自动驾驶将密集上车，行业迎来规范化发展关键期。",
+        "comment": "国标落地加速L3商业化，但安全验证仍是核心挑战。",
         "image": "",
         "score": 93
       },
       {
         "category": "数码科技",
-        "tag": "戴森",
-        "title": "戴森发布AI牙刷，3899元内置摄像头",
-        "link": "https://www.ifanr.com/1678053?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "戴森推出AI电动牙刷，售价3899元，内置摄像头和AI算法，可实时监测口腔清洁情况，结合水牙线功能，提供个性化刷牙指导。",
-        "comment": "高价智能牙刷能否撬动市场，还需观察。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
         "tag": "丰田",
-        "title": "丰田GR硬刚AMG，500马力四缸小跑车将登场",
+        "title": "丰田500马力小跑车将登场，硬刚AMG四缸性能车",
         "link": "https://www.ifanr.com/1677994?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "丰田GR系列将推500马力四缸小跑车，直接对标AMG，凭借电动化迟缓带来的内燃机优势，强化性能车布局。",
-        "comment": "丰田以四缸挑战AMG，性能车市场再起波澜。",
+        "summary": "丰田计划推出500马力级小跑车，以高性能四缸发动机对标AMG，电动化迟缓反成优势，强化性能车布局。",
+        "comment": "丰田以燃油性能反击电动化，市场格局或将生变。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "巫师",
-        "title": "巫师重制版暂停开发，等待巫师4推进",
-        "link": "https://www.gamespot.com/articles/the-witcher-remake-is-waiting-on-the-witcher-4-to-continue-development/",
-        "summary": "CD Projekt确认，Fool's Theory开发的巫师重制版暂缓，因团队正专注于巫师3：狂猎的“过去之歌”扩展内容。",
-        "comment": "重制版让位新作，策略明智但粉丝需耐心。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/The_Witcher_Shtriga_3.jpeg?w=300",
         "score": 92
       },
       {
@@ -147,8 +67,18 @@
         "tag": "AI设计",
         "title": "Lovart大更新：AI开始适应设计师工作流",
         "link": "https://www.ifanr.com/1677574?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "设计工具Lovart发布重大更新，转向让AI适应设计师习惯，提升协作效率，具体功能包括智能适配设计流程等。",
-        "comment": "AI工具从人适应机器转向机器适应人，方向正确。",
+        "summary": "设计工具Lovart推出重大更新，转向让AI适应设计师习惯，提升协作效率与创作自由度。",
+        "comment": "AI工具从“人适应机器”转向“机器适应人”，是行业成熟标志。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "戴森",
+        "title": "戴森发布3899元AI牙刷，内置摄像头",
+        "link": "https://www.ifanr.com/1678053?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "戴森推出AI牙刷，售价3899元，内置摄像头，结合水牙线功能，提供智能口腔清洁方案。",
+        "comment": "高价能否带来口腔护理革命，仍需市场检验。",
         "image": "",
         "score": 91
       }
