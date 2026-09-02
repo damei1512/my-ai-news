@@ -4,30 +4,20 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "军事AI",
-        "title": "五角大楼引入ChatGPT与Grok，打造专属AI工具平台",
-        "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-        "summary": "美国国防部在中央AI门户中集成OpenAI的ChatGPT和SpaceXAI的Grok，与谷歌Gemini并列，供军事人员使用。",
-        "comment": "军事AI应用加速，安全与伦理挑战并存。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "AI安全",
         "title": "OpenAI支持加州青少年AI安全法案",
         "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-        "summary": "OpenAI支持加州SB 1119法案，推动为青少年建立适龄的AI安全防护，同时保留学习、创造和探索的机会。",
-        "comment": "科技巨头主动支持监管，释放积极信号。",
+        "summary": "OpenAI宣布支持加州SB 1119法案，旨在为青少年建立适龄的AI安全防护措施，同时保留学习、创造和探索的机会。",
+        "comment": "科技巨头主动支持监管，或为行业树立新标杆。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Polimill借助OpenAI构建日本下一代公共AI基础设施",
+        "title": "Polimill利用OpenAI构建日本下一代公共AI基础设施",
         "link": "https://openai.com/index/polimill",
-        "summary": "Polimill利用OpenAI的GPT模型和Codex，帮助市政机构搜索和运用行政知识，同时加速开发进程。",
+        "summary": "Polimill借助OpenAI的GPT模型和Codex，帮助市政机构搜索和利用行政知识，同时加速开发进程。",
         "comment": "公共部门AI应用落地，效率提升值得关注。",
         "image": "",
         "score": 100
@@ -35,22 +25,12 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI广告年化收入达10亿美元，扩大AI普及",
+        "title": "OpenAI ChatGPT广告年化收入达10亿美元并全球扩展",
         "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-        "summary": "OpenAI宣布ChatGPT广告业务年化收入达10亿美元，并全球扩展，通过免费和低价选项推动AI更广泛普及。",
-        "comment": "广告模式验证，AI商业化加速，但需平衡用户体验。",
+        "summary": "OpenAI宣布ChatGPT Ads年化收入达10亿美元，并全球扩展，通过免费和低价选项支持更广泛的AI访问。",
+        "comment": "商业化加速，但需平衡广告与用户体验。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Instagram",
-        "title": "Instagram限制未标注AI账号的传播范围",
-        "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-        "summary": "针对AI网红泛滥引发的用户不满，Instagram将限制未明确标注AI身份的账号的推荐与可见度，以减少误导。",
-        "comment": "平台治理AI内容，透明度是关键一步。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "数码科技",
@@ -58,29 +38,9 @@
         "title": "NASA超广角太空望远镜升空，5年扫描10亿星系",
         "link": "https://www.ifanr.com/1677738?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "NASA发射新一代超广角太空望远镜，计划5年内扫描10亿个星系，以研究暗能量和星系演化，拓展人类对宇宙的认知。",
-        "comment": "天文观测进入大范围普查时代，科学发现可期。",
+        "comment": "大规模巡天将重塑宇宙学，数据价值巨大。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "鬼武者",
-        "title": "《鬼武者：剑之道》评测：剑戟复兴，乐趣平平",
-        "link": "https://www.gcores.com/articles/219022",
-        "summary": "CAPCOM经典IP《鬼武者》沉寂20年后推出新作，但评测认为游戏仅做到剑戟元素复兴，整体乐趣平淡，未能超越系列巅峰。",
-        "comment": "情怀有余，创新不足，老玩家或感失望。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "SUV",
-        "title": "年轻人的第一台SUV，为生活留余地",
-        "link": "https://www.ifanr.com/1677553?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章探讨年轻人选购SUV时，需兼顾实用与未来生活变化，强调空间与灵活性，而非单纯追求性能或外观。",
-        "comment": "切中年轻购车痛点，建议务实。",
-        "image": "",
-        "score": 90
       }
     ]
   }
