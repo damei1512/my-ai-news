@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI推出Daybreak计划，10亿美元保护关键服务",
+        "tag": "AI安全",
+        "title": "OpenAI推出Daybreak计划，斥资10亿美元保护关键服务",
         "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-        "summary": "OpenAI启动Daybreak项目，承诺投入10亿美元，为关键服务提供前沿网络AI、培训和支持，以增强其防御能力。",
-        "comment": "此举显示AI安全应用向关键基础设施倾斜，值得关注。",
+        "summary": "OpenAI启动Daybreak for Frontline Defenders，承诺投入10亿美元，扩大前沿网络AI、培训和支持的获取，以保护关键基础设施和一线防御者。",
+        "comment": "此举显示AI安全与关键基础设施保护正成为商业重点。",
         "image": "",
         "score": 100
       },
@@ -17,18 +17,18 @@
         "tag": "人工智能",
         "title": "Legora用GPT-6 Astra数分钟审阅41份文件",
         "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-        "summary": "Legora借助GPT-6 Astra在数分钟内审阅41份文件，发现全部4个植入错误，财务审查流程性能提升近40%。",
-        "comment": "AI审查效率显著，但需警惕过度依赖。",
+        "summary": "Legora借助GPT-6 Astra在数分钟内审阅41份文件，发现全部四个预设错误，财务审查流程性能提升近40%。",
+        "comment": "AI审阅效率惊人，但需警惕过度依赖。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "游戏开发",
-        "title": "Playco用GPT-6 Astra将游戏原型手动修复减少50%",
+        "tag": "AI游戏开发",
+        "title": "Playco借助GPT-6 Astra将游戏原型手动修复减少50%",
         "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-        "summary": "Playco基于一个灰盒基础，使用GPT-6 Astra构建了三个主题游戏原型，手动修复次数较旧模型减少50%。",
-        "comment": "AI辅助游戏开发效率显著提升，但需关注创意质量。",
+        "summary": "Playco使用GPT-6 Astra从同一灰盒基础构建三款主题游戏原型，相比旧模型，手动修复工作量减少50%。",
+        "comment": "AI辅助游戏开发效率显著提升，但需关注泛化能力。",
         "image": "",
         "score": 100
       },
@@ -37,8 +37,8 @@
         "tag": "GPT-6",
         "title": "OpenAI发布GPT-6 Astra，最强智能与对齐模型",
         "link": "https://openai.com/index/gpt-6-astra",
-        "summary": "OpenAI推出GPT-6 Astra，宣称在计算机使用、编程、网络安全和科学领域具备顶尖能力，并强调其智能与对齐水平达到新高。",
-        "comment": "模型能力跃升，但安全验证仍需独立审视。",
+        "summary": "GPT-6 Astra是OpenAI迄今最智能且对齐的模型，在计算机使用、编程、网络安全和科学领域具备顶尖能力。",
+        "comment": "多领域顶尖能力，但需关注实际落地与安全。",
         "image": "",
         "score": 100
       },
@@ -48,7 +48,7 @@
         "title": "OpenAI发布GPT-6 Astra安全概览，达关键网络安全能力",
         "link": "https://openai.com/index/safety-overview-gpt-6-astra",
         "summary": "GPT-6 Astra是OpenAI迄今最强大的广泛部署模型，首次在预备框架下达到关键级网络安全能力，标志着AI安全与能力的新里程碑。",
-        "comment": "关键级安全能力或引发监管与伦理新讨论。",
+        "comment": "关键级安全能力凸显AI双刃剑效应，监管需同步跟进。",
         "image": "",
         "score": 100
       },
@@ -57,7 +57,7 @@
         "tag": "GTA 6",
         "title": "GTA 6彻底改变偷车机制",
         "link": "https://www.gamespot.com/articles/gta-6-how-to-steal-cars/",
-        "summary": "《侠盗猎车手》系列中偷车一直是核心玩法，但GTA 6将大幅革新此机制，引入全新细节与操作方式，改变玩家体验。",
+        "summary": "《侠盗猎车手》系列中抢车一直是核心玩法，但机制长期未变。GTA 6将引入全新细节与动画，彻底革新偷车体验，具体方式待官方公布。",
         "comment": "系列核心玩法革新，值得期待。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Jason_and_Lucia_03.jpg?w=300",
         "score": 93
@@ -65,10 +65,10 @@
       {
         "category": "游戏影视",
         "tag": "最后生还者",
-        "title": "《最后生还者》第三季制作未获顽皮狗创意参与",
+        "title": "《最后生还者》第三季顽皮狗未参与创意决策",
         "link": "https://www.gamespot.com/articles/the-last-of-us-season-3-did-not-include-naughty-dogs-involvement-for-creative-choices/",
-        "summary": "编剧兼导演尼尔·德鲁克曼退出HBO《最后生还者》剧集，专注顽皮狗游戏开发，包括新作《星际：异端先知》。第三季创意决策因此缺少顽皮狗参与。",
-        "comment": "游戏与影视分道扬镳，或影响剧集品质。",
+        "summary": "编剧兼导演尼尔·德鲁克曼退出HBO《最后生还者》剧集，专注顽皮狗游戏开发，包括新作《星际：异端先知》。第三季创意决策未获其参与。",
+        "comment": "游戏与影视分道扬镳，专注主业或为明智之举。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-3.25.27-PM.png?w=300",
         "score": 92
       },
@@ -77,7 +77,7 @@
         "tag": "星际争霸",
         "title": "星际争霸或有新动态，暴雪嘉年华前现征兆",
         "link": "https://www.gamespot.com/articles/something-is-brewing-with-starcraft/",
-        "summary": "暴雪嘉年华临近，星际争霸官网出现视觉元素更新，暗示将有新消息公布。",
+        "summary": "暴雪嘉年华临近，星际争霸官网出现闪烁视觉元素，暗示即将公布新消息。",
         "comment": "经典IP重启信号，值得期待。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/starcraft.jpeg?w=300",
         "score": 92
@@ -85,9 +85,9 @@
       {
         "category": "游戏影视",
         "tag": "龙与地下城",
-        "title": "D&D Icons计划或推现代背景，乔·曼根尼罗领衔",
+        "title": "D&D图标计划或将引入现代背景设定",
         "link": "https://www.gamespot.com/articles/dungeons-and-dragons-icons-could-take-the-ttrpg-to-a-modern-day-setting/",
-        "summary": "由演员乔·曼根尼罗主导的D&D Icons计划，将现代《龙与地下城》与过去著名系列创作者结合，可能将桌面角色扮演游戏带入现代背景。",
+        "summary": "由演员Joe Manganiello主导的D&D图标计划，将现代龙与地下城游戏与过去著名系列创作者结合，可能推动游戏进入现代背景。",
         "comment": "经典IP跨界创新，现代设定或吸引新玩家。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/dungeonsanddragons-copy.jpg?w=300",
         "score": 92

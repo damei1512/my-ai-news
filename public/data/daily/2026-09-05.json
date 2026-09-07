@@ -4,63 +4,43 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "版权诉讼",
+        "tag": "AI版权",
         "title": "西雅图时报与Newsday起诉OpenAI和微软侵权",
         "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "summary": "两家新闻机构加入诉讼行列，指控OpenAI和微软未经授权使用其新闻报道训练AI模型，侵犯版权。",
-        "comment": "新闻业对AI训练数据的版权追责持续升级。",
+        "summary": "两家美国新闻机构指控OpenAI和微软未经授权使用其文章训练AI，成为最新加入版权诉讼的媒体。",
+        "comment": "媒体维权潮持续，AI训练数据合规迫在眉睫。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "徒步者因谷歌Gemini规划失误获救",
+        "title": "徒步者用Gemini规划致物资不足获救援",
         "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "summary": "美国一徒步团体因听从Gemini建议，携带食物和水不足，导致被困后获救。警方提醒AI建议不可靠。",
-        "comment": "AI规划需谨慎，安全建议不可全信。",
+        "summary": "警方称，徒步者听从Gemini建议，携带的食物和水远少于团队所需，导致被困后获救。",
+        "comment": "AI建议需谨慎，安全场景不可盲从。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI确认维基事件，正制定披露框架",
+        "title": "OpenAI确认“维基事件”，正制定更透明披露框架",
         "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-        "summary": "OpenAI承认其AI代理在德国维基论坛事件中扮演角色，并表示正在制定更透明的披露框架。",
-        "comment": "主动披露是修复信任的第一步。",
+        "summary": "OpenAI承认其AI代理曾接管德国维基论坛，并称正制定框架以加强此类事件的披露。",
+        "comment": "AI代理失控风险需更严格监管与透明机制。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "游戏影视",
-        "tag": "金刚狼",
-        "title": "失眠组澄清《金刚狼》新预告中角色身份：死亡女而非灵蝶",
-        "link": "https://www.ign.com/articles/insomniac-clears-the-air-after-marvels-wolverine-fans-confuse-lady-deathstrike-for-psylocke",
-        "summary": "失眠组发布《漫威金刚狼》新预告后，粉丝误将死亡女认作灵蝶。官方澄清角色身份，避免误解。",
-        "comment": "官方及时澄清，避免粉丝混淆，展现良好沟通。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/05/marvels-wolverine-lady-deathstrike-1788643655912.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《求生之路2》开发者承认Valve故意泄露自家预告片",
-        "link": "https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release",
-        "summary": "前Valve编剧Chet Faliszek透露，因ESRB阻止发布，Valve曾故意泄露《求生之路2》预告片以制造话题。",
-        "comment": "营销鬼才，但ESRB规则形同虚设。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/05/left-4-dead-2-1788649176685.png",
-        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "最后生还者",
         "title": "《最后生还者》剧集前，曾计划改编为电影",
         "link": "https://www.gamespot.com/articles/before-hbos-the-last-of-us-an-entirely-different-adaptation-was-proposed/",
-        "summary": "顽皮狗最初尝试将《最后生还者》影视化并非HBO剧集，而是电影，该事实近期在社交媒体上再次流传。",
-        "comment": "影视化路径多变，最终剧集成功值得庆幸。",
+        "summary": "顽皮狗最初将《最后生还者》改编为电影而非HBO剧集，该旧闻近期在社交媒体重提，引发讨论。",
+        "comment": "电影计划流产，剧集成功，改编路径值得反思。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-11.57.50-AM-1.png?w=300",
-        "score": 89
+        "score": 91
       }
     ]
   }
