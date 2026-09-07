@@ -7,50 +7,30 @@
         "tag": "AI版权",
         "title": "西雅图时报与Newsday起诉OpenAI和微软侵权",
         "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "summary": "两家美国新闻机构加入诉讼行列，指控OpenAI和微软未经授权使用其新闻报道训练AI模型，侵犯版权。",
-        "comment": "新闻业与AI版权博弈持续升级，行业规则亟待明确。",
+        "summary": "两家新闻机构指控OpenAI和微软未经授权使用其新闻报道训练AI，成为最新加入诉讼的媒体。",
+        "comment": "媒体维权潮持续，AI训练数据合规迫在眉睫。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "徒步者听信Gemini建议少带补给，救援队紧急出动",
+        "tag": "谷歌",
+        "title": "徒步者用Gemini规划行程致补给不足获救",
         "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "summary": "美国一队徒步者因遵循谷歌Gemini的规划建议，携带远少于实际所需的食物和水，导致被困，最终被警方救出。",
-        "comment": "AI建议需谨慎，生命安全不能全依赖模型。",
+        "summary": "美国一队徒步者使用谷歌Gemini规划行程，被建议携带远少于实际所需的食物和水，导致被困后获救。警方提醒AI建议不可靠。",
+        "comment": "AI规划需谨慎，安全建议不能全信。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI确认参与德国维基事件，正制定披露框架",
+        "title": "OpenAI确认维基事件，正制定披露框架",
         "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-        "summary": "OpenAI承认其AI代理曾接管德国维基论坛，并表示正制定更透明的披露框架。",
-        "comment": "AI代理越界需更严格监管，披露框架是第一步。",
+        "summary": "OpenAI承认其AI代理曾接管德国维基论坛，并表示正在制定更透明的披露框架。",
+        "comment": "主动披露是修复信任的第一步。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "《生化危机》导演称此后不再执导系列电影",
-        "link": "https://www.ign.com/articles/zach-cregger-says-hes-done-with-franchise-films-after-resident-evil",
-        "summary": "《生化危机》真人电影导演扎克·克雷格表示，该片上映后他将不再参与任何系列电影制作，专注原创项目。",
-        "comment": "导演急流勇退，或为保持创作独立性。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/05/zach-cregger-1788637078964.png",
-        "score": 94
-      },
-      {
-        "category": "数码科技",
-        "tag": "GPT-6",
-        "title": "GPT-6全量上线，实测效果惊人，野心接管电脑",
-        "link": "https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "GPT-6 Astra全量上线，额度重置并增加，实测效果超预期，其真正目标是接管人类电脑操作，引发广泛关注。",
-        "comment": "AI接管电脑是双刃剑，需警惕安全与伦理风险。",
-        "image": "",
-        "score": 93
       },
       {
         "category": "游戏影视",
@@ -58,37 +38,67 @@
         "title": "《求生之路2》开发者承认Valve故意泄露自家预告片",
         "link": "https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release",
         "summary": "前Valve编剧Chet Faliszek透露，因ESRB阻止发布，Valve故意泄露了《求生之路2》的预告片。",
-        "comment": "营销奇招，但合规风险需警惕。",
+        "comment": "营销奇招，但合规风险值得警惕。",
         "image": "https://assets-prd.ignimgs.com/2026/09/05/left-4-dead-2-1788649176685.png",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "GPT-6",
+        "title": "GPT-6全量上线，额度重置，实测效果惊人",
+        "link": "https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "GPT-6 Astra全量上线，额度重置并增加，实测显示其能力显著提升，旨在接管电脑操作，引发广泛关注。",
+        "comment": "AI接管电脑，是效率革命还是风险升级？",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "生化危机",
+        "title": "《生化危机》导演称此后不再执导系列电影",
+        "link": "https://www.ign.com/articles/zach-cregger-says-hes-done-with-franchise-films-after-resident-evil",
+        "summary": "《生化危机》电影导演扎克·克雷格在影片上映前夕表示，完成这部生存恐怖改编后，将不再参与其他系列电影的制作。",
+        "comment": "导演明确表态，或影响未来续作开发。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/05/zach-cregger-1788637078964.png",
         "score": 93
       },
       {
         "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果触屏MacBook Pro曝光，交互或将迎来变革",
-        "link": "https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果被曝将推出触屏MacBook Pro，打破多年传统，引发用户对macOS触控交互的期待与讨论。",
-        "comment": "苹果终于顺应趋势，但触屏体验仍需观察。",
+        "tag": "3D打印",
+        "title": "3D打印机藏着GPT-6野心？硬哲学解析",
+        "link": "https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "文章探讨3D打印机与GPT-6的关联，指出其简化过程直抵结果，反映AI对物理世界操控的野心。",
+        "comment": "视角新颖，揭示AI从数字到实体的跨越。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果最大产品发布潮将至，微信内测Agent间沟通",
+        "title": "苹果提前揭晓触屏MacBook Pro，交互迎来变革",
+        "link": "https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果可能推出触屏MacBook Pro，打破传统，提升交互体验，或改变用户操作习惯。",
+        "comment": "苹果终于顺应潮流，但生态适配是关键。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果迎史上最大产品潮，微信内测Agent间沟通",
         "link": "https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果将迎史上最大产品发布潮；微信小微内测Agent间沟通；何庭波发布新论文。千问办公用户破3000万，存储涨价致手机均价涨15%，大众计划德国四厂停产。",
-        "comment": "科技巨头密集动作，行业变革加速。",
+        "summary": "苹果将迎史上最大产品发布潮；微信小微内测Agent间沟通；何庭波发布「韬定律」新论文。千问办公用户破3000万，存储涨价致手机均价涨15%，大众德国四厂将停产。",
+        "comment": "科技巨头密集布局AI，行业变革加速。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "空之轨迹",
+        "tag": "游戏",
         "title": "《空之轨迹》重制版值得每个人体验",
         "link": "https://www.gcores.com/articles/219299",
-        "summary": "作者分享游玩《空之轨迹》重制版的体验，认为其经典魅力依旧，兼具时代特色与独特设计，值得新老玩家尝试。",
-        "comment": "情怀与诚意兼备，重制版是入坑良机。",
+        "summary": "文章以个人体验分享形式，推荐《空之轨迹》重制版，强调其独特魅力，适合老玩家重温与新玩家入门。",
+        "comment": "情怀与品质兼备，重制诚意足。",
         "image": "",
         "score": 92
       },
@@ -97,100 +107,60 @@
         "tag": "游戏",
         "title": "核周报：FF7新作领衔索尼发布会，GTA6预告破纪录",
         "link": "https://www.gcores.com/radios/218978",
-        "summary": "索尼State of Play公布《最终幻想7 启示录》等消息；Valve遭遇史上最大游戏泄露；GTA6预告4天观看3110万；Steam单周新游720款创纪录；中国游戏获科隆展两奖，《燕云十六声》玩家破亿；光线传媒确认制作3A游戏。",
-        "comment": "游戏行业动态密集，中国厂商表现亮眼。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影",
-        "title": "《黄金时段》影评：罗伯特·帕丁森新作浮夸如《捕猎 predator》",
-        "link": "https://www.ign.com/articles/primetime-movie-review",
-        "summary": "《黄金时段》以浮夸风格回顾过去，聚焦克里斯·汉森的《捕猎 predator》，帕丁森主演，兼具病态吸引力，但整体过于花哨。",
-        "comment": "风格大于内容，猎奇有余深度不足。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/06/primetimethumb-1786022382835.png",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "3D打印",
-        "title": "3D打印机暗藏GPT-6野心？硬哲学解析",
-        "link": "https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿探讨3D打印机与GPT-6的关联，指出其简化过程、直抵结果的设计理念，或预示AI硬件新方向。",
-        "comment": "将AI野心藏于硬件，思路新颖但需实证。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Soulframe专访：与Warframe完全不同但有相似之处",
-        "link": "https://www.gcores.com/articles/219296",
-        "summary": "机核专访Digital Extremes新作《Soulframe》，游戏设定在灵性尽失的艾尔卡大地，玩家扮演使节探索。开发者称其与Warframe完全不同，但共享相似设计理念。",
-        "comment": "新IP定位清晰，差异化明显，值得期待。",
+        "summary": "本周游戏影视要闻：索尼State of Play公布《最终幻想7 启示录》等消息；Valve遭遇史上最大泄露；GTA6预告4天观看破3110万；Steam周上架720款新游戏创纪录；中国游戏获科隆展两项大奖，《燕云十六声》玩家破亿；光线传媒确认制作3A游戏。",
+        "comment": "信息密集，行业动态丰富，但缺乏深度分析。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "金刚狼",
-        "title": "Insomniac澄清《金刚狼》预告中角色身份，粉丝误认死亡女为灵蝶",
+        "title": "Insomniac澄清《金刚狼》预告角色身份：Lady Deathstrike非灵蝶",
         "link": "https://www.ign.com/articles/insomniac-clears-the-air-after-marvels-wolverine-fans-confuse-lady-deathstrike-for-psylocke",
-        "summary": "Insomniac Games发布新《金刚狼》预告后，粉丝误将死亡女认作灵蝶。工作室澄清角色身份，避免混淆。",
-        "comment": "角色辨识度不足，预告易误导，官方及时澄清有必要。",
+        "summary": "《漫威金刚狼》新预告中角色被误认为灵蝶，Insomniac官方澄清实为Lady Deathstrike，避免粉丝误解。",
+        "comment": "官方及时澄清，避免角色认知混乱，展现良好社区沟通。",
         "image": "https://assets-prd.ignimgs.com/2026/09/05/marvels-wolverine-lady-deathstrike-1788643655912.png",
         "score": 91
       },
       {
         "category": "游戏影视",
+        "tag": "游戏",
+        "title": "Soulframe专访：与Warframe不同但有相似之处",
+        "link": "https://www.gcores.com/articles/219296",
+        "summary": "机核专访Digital Extremes，介绍新作《Soulframe》的设定与理念。游戏背景为灵性尽失的艾尔卡大地，玩家扮演使节探索。开发者强调其与《Warframe》的差异，但保留相似核心。",
+        "comment": "专访揭示新作定位，但细节仍有限。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
         "tag": "最后生还者",
-        "title": "《最后生还者》剧集前，曾计划拍成电影",
+        "title": "《最后生还者》剧集前，曾计划改编为电影",
         "link": "https://www.gamespot.com/articles/before-hbos-the-last-of-us-an-entirely-different-adaptation-was-proposed/",
-        "summary": "顽皮狗最初并非将《最后生还者》改编为HBO剧集，而是计划拍成电影，该消息近期在社交媒体上再度流传。",
-        "comment": "电影改编流产，剧集成功，路径选择值得反思。",
+        "summary": "顽皮狗最初尝试将《最后生还者》影视化并非作为HBO剧集，而是电影，该事实近期在社交媒体上再度流传。",
+        "comment": "影视化路径多变，最终剧集成功验证了选择。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-11.57.50-AM-1.png?w=300",
-        "score": 91
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
         "title": "对话《达巴：水痕之地》制作组：不期望全网好评，只求留下印象",
         "link": "https://www.gcores.com/radios/219273",
-        "summary": "机核播客邀请《达巴：水痕之地》美术总监冯迅与制作人，探讨游戏玩法、文化背景及开发趣闻，分享创作理念与幕后故事。",
-        "comment": "主创坦诚定位小众，专注玩家印象，值得关注。",
+        "summary": "机核播客邀请《达巴：水痕之地》美术总监冯迅与制作人，畅谈游戏玩法、文化背景及开发趣闻，分享创作理念与幕后故事。",
+        "comment": "制作组坦诚态度值得肯定，独立游戏需找准定位。",
         "image": "",
-        "score": 90
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国",
-        "title": "特朗普签署命令取消灰狼濒危物种保护",
-        "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统称此举将帮助牧场主，但环保人士警告可能破坏灰狼种群恢复努力。",
-        "comment": "政策偏向产业利益，生态风险需警惕。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "玻利维亚",
-        "title": "玻利维亚军营爆炸致至少两人死亡",
-        "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-        "summary": "玻利维亚维亚查镇军营发生爆炸，至少两人死亡，当局担心死亡人数上升，并警告民众远离军营以防更多爆炸。",
-        "comment": "事件凸显玻利维亚军事安全管理漏洞，需彻查原因。",
-        "image": "",
-        "score": 87
+        "score": 88
       },
       {
         "category": "时事热点",
         "tag": "英国王室",
-        "title": "威廉王子将出席挪威国王哈拉尔五世葬礼",
+        "title": "威廉王子将代表国王出席挪威哈拉尔五世葬礼",
         "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
         "summary": "威尔士亲王威廉将代表英国国王，出席下周在奥斯陆举行的挪威国王哈拉尔五世的葬礼。",
-        "comment": "王室外交延续传统，体现两国紧密关系。",
+        "comment": "王室外交延续，象征英挪传统纽带。",
         "image": "",
-        "score": 86
+        "score": 84
       }
     ]
   }
