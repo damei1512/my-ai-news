@@ -3,32 +3,152 @@
     "week": "周一",
     "articles": [
       {
-        "category": "游戏影视",
-        "tag": "科隆游戏展",
-        "title": "科隆游戏展展机被盗发酵，官方道歉并承诺改进",
-        "link": "https://www.gcores.com/articles/219327",
-        "summary": "科隆游戏展官方就开发者展机频繁被盗事件再次回应，承认最初沟通不当且缺乏同理心，向受影响开发者致歉，并强调盗窃可能毁掉小型工作室多年心血，已着手与受害者沟通。CDPR等公司自发提供帮助。",
-        "comment": "官方亡羊补牢，行业互助值得肯定，但安保漏洞仍需正视。",
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "OpenAI携手机构支持乌克兰独立新闻业",
+        "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+        "summary": "OpenAI与AIRPPU、WAN-IFRA合作，启动AI项目，帮助乌克兰新闻机构增强创新、韧性和独立性。",
+        "comment": "AI赋能新闻业，但独立性与创新需平衡。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI PC",
+        "title": "DeepSeek、千问、智谱轮番登场，PC厂商迎来AI弹药",
+        "link": "https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "AMD等PC厂商借助国产大模型DeepSeek、千问、智谱，推动端侧AI，降低AI Token成本，提升本地智能体验。",
+        "comment": "端侧AI落地，成本与体验双赢。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "iPhone 18",
-        "title": "iPhone 18价格泄露，华为大阔折曝光，AI与科技新闻汇总",
+        "tag": "华为",
+        "title": "华为鸿蒙7发布会全汇总：三折叠与阔直板齐发",
+        "link": "https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "华为鸿蒙7发布会推出三折叠屏手机及阔直板等新品，信息密度高，涵盖硬件与系统更新，展现技术实力。",
+        "comment": "华为以高密度发布巩固高端市场，创新值得关注。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "千亿模型装进笔记本，Windows反击Mac",
+        "link": "https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "微软推动PC成为AI运行环境，将千亿参数模型部署至笔记本，挑战Mac生态，开启端侧AI新竞争。",
+        "comment": "端侧AI成新战场，Windows生态优势待验证。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "华为",
+        "title": "华为Mate XT2上手：三折叠从奇观走向日常",
+        "link": "https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "华为Mate XT2三折叠手机首发上手，脱离概念机阶段，与主流折叠屏全面竞争，展示从奇观到实用的演进。",
+        "comment": "三折叠技术成熟，市场接受度待考。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "OpenAI",
+        "title": "GPT-6发布后OpenAI自曝外星思维，AGI真要来了？",
+        "link": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "OpenAI发布GPT-6后，又透露其展现类似外星人的思维模式，引发对AGI进展的讨论。",
+        "comment": "炒作还是突破？需理性看待。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "杀戮地带",
+        "title": "《杀戮地带》重启重制版开发中，或早于《地平线3》发售",
+        "link": "https://www.gcores.com/articles/219343",
+        "summary": "据MP1st报道，游骑兵工作室与People Can Fly合作开发《杀戮地带》重制版，原计划在《地平线》多人游戏完成后启动，但因该作转型为传统非实时服务型游戏而推迟，预计发售时间仍早于《地平线3》。",
+        "comment": "经典IP重启，但需警惕重制质量与玩家期待落差。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "美剧",
+        "title": "《灯笼》第1季第4集评测：角色利用不足但核心魅力犹存",
+        "link": "https://www.ign.com/articles/lanterns-season-1-episode-4-review-recap-the-weenie",
+        "summary": "《灯笼》第4集未能充分利用关键DC角色，略显逊色，但剧集核心优势仍在，整体质量保持稳定。",
+        "comment": "角色浪费可惜，但剧集根基未动摇。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/03/lanterns-episode-4-review-blogroll-1788451459966.jpg",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "零跑",
+        "title": "零跑工厂探秘：月销10万辆背后的秘密",
+        "link": "https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿探访零跑工厂，揭示其月销10万辆的制造与供应链优势，指出汽车行业难以轻量化，需重资产投入。",
+        "comment": "零跑凭制造实力突围，但持续增长仍需市场考验。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "iPhone 18价格泄露，雷军晒图，华为大阔折曝光",
         "link": "https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iPhone 18价格疑似泄露，埃及运营商否认；雷军晒图，54个品牌为小米澎程送祝福；华为大阔折曝光波尔多红配色。另有Anthropic IPO、康宁AI技术、媒体起诉OpenAI等动态。",
-        "comment": "科技新闻密集，但需甄别泄露与官方信息。",
+        "summary": "iPhone 18价格疑似泄露，埃及运营商否认；雷军晒54品牌祝福小米澎程；华为大阔折波尔多红配色曝光。另有Anthropic IPO、康宁AI技术、媒体起诉OpenAI等动态。",
+        "comment": "科技圈热点密集，但多为传闻，需谨慎看待。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏音乐",
+        "title": "GGG游戏节奏联欢夜公布第二波参演阵容",
+        "link": "https://www.gcores.com/articles/219352",
+        "summary": "GGG游戏节奏联欢夜公布第二波阵容，涵盖《匹诺曹的谎言》《风来之国》《苏丹的游戏》《DJMAX》《潜水员戴夫》等18个游戏IP，将于10月底举办音乐派对。",
+        "comment": "跨IP音乐派对创意十足，阵容多元值得期待。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "科隆游戏展",
+        "title": "科隆Gamescom 2026游记：游戏产业的中转站",
+        "link": "https://www.gcores.com/articles/219348",
+        "summary": "作者在科隆游戏展上遇见一位在上海育碧工作27年的法国开发者，他见证了中国游戏产业的成长，并分享了跨文化合作的感悟。",
+        "comment": "以个人故事折射产业变迁，视角独特。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《黎明行者之血》销量破百万，开发者致谢玩家",
-        "link": "https://www.gcores.com/articles/219325",
-        "summary": "Rebel Wolves开发的《黎明行者之血》销量突破百万，Steam特别好评但国区好评率较低。玩家称赞剧情，但不满时间管理机制，开发者承诺持续更新改进。",
-        "comment": "销量与口碑分化，时间机制成争议焦点，更新是关键。",
+        "title": "Team17公布多人合作新作《破烂捡上天》",
+        "link": "https://www.gcores.com/articles/219357",
+        "summary": "Bossa Games在科隆展公布《破烂捡上天》，玩家需与好友堆叠太空垃圾建塔，游戏将登陆PC、PS5，首发加入XGP。",
+        "comment": "合作堆垃圾玩法新颖，XGP首发值得期待。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GPASS",
+        "title": "GPASS回归游戏季节目单预热：聚焦游戏本身",
+        "link": "https://www.gcores.com/articles/219339",
+        "summary": "GPASS新一季以“回归游戏”为主题，从游戏、公司或创作经历出发，探索其背后的历史、文化与艺术，多位被催更的熟悉声音将回归。",
+        "comment": "回归游戏本质，内容值得期待。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "科隆游戏展",
+        "title": "科隆游戏展展机被盗发酵，官方道歉并承诺改进",
+        "link": "https://www.gcores.com/articles/219327",
+        "summary": "科隆游戏展开发者展机频繁被盗，官方承认初期沟通不当且缺乏同理心，向受影响开发者致歉，并强调盗窃可能毁掉小工作室多年心血。主办方已与受害者沟通，CDPR等公司自发提供帮助。",
+        "comment": "官方道歉及时，但需实质措施防再犯。",
         "image": "",
         "score": 91
       },
@@ -38,29 +158,119 @@
         "title": "《西部拓荒纪》9月25日开启抢先体验",
         "link": "https://www.gcores.com/articles/219326",
         "summary": "EmpireCraft工作室的城市建造冒险游戏《西部拓荒纪》将于9月25日开启抢先体验，玩家带领拓荒者建设聚落、发展生产链，探索西部并体验淘金与寻亲故事。",
-        "comment": "西部题材城建游戏，抢先体验值得关注。",
+        "comment": "西部题材城建玩法新颖，值得期待。",
         "image": "",
-        "score": 90
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《黎明行者之血》销量破百万，开发者致谢玩家",
+        "link": "https://www.gcores.com/articles/219325",
+        "summary": "Rebel Wolves开发、万代南梦宫发行的《黎明行者之血》销量破百万。Steam特别好评（82%），国区多半好评（72%）。玩家赞剧情，但不满时间管理机制。开发者承诺持续更新改进体验。",
+        "comment": "销量口碑双收，但机制争议或成后续更新重点。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "机核会员节目录音笔：办公室日常碎碎念",
+        "link": "https://www.gcores.com/radios/219360",
+        "summary": "机核GPASS会员专享节目，记录办公室日常对话与生活片段，形式随意，内容包含碎碎念、暴言或真实对话，时长约十几分钟，参与者不定。",
+        "comment": "会员专属内容，适合粉丝了解幕后，但信息量有限。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "德国",
+        "title": "德国极右翼选择党州选举获胜后呼吁各党合作",
+        "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+        "summary": "德国极右翼选择党在州选举中赢得多数席位但未过半，现呼吁其他政党与其合作组建政府，称民主要求各方合作。",
+        "comment": "极右翼突破政治禁忌，德国政坛面临考验。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "以色列",
+        "title": "以色列空袭黎巴嫩南部村庄致九人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+        "summary": "黎巴嫩称以色列近期升级行动危及美国斡旋的停火协议，该协议旨在结束以色列与真主党冲突。",
+        "comment": "停火协议脆弱，地区局势再度紧张。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "911事件",
+        "title": "911诉讼新视频揭示嫌疑人极端主义联系",
+        "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+        "summary": "FBI未分享的视频和证据削弱了Omar al-Bayoumi长达25年的否认，显示其与极端分子的关联。",
+        "comment": "关键证据遗漏，司法公正存疑。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "航空事故",
-        "title": "亚马逊货机迈阿密机场坠毁致五人死亡",
+        "title": "亚马逊货机迈阿密跑道冲出致5死5伤，调查启动",
         "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-        "summary": "一架波音767-300货机在迈阿密机场冲出跑道并起火，造成五人死亡、五人重伤。",
-        "comment": "航空安全再敲警钟，需彻查事故原因。",
+        "summary": "一架亚马逊货机在迈阿密国际机场降落时冲出跑道，造成5人死亡、5人受伤，事故原因正在调查中。",
+        "comment": "航空安全再敲警钟，需彻查跑道与操作因素。",
         "image": "",
-        "score": 88
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "奥地利",
-        "title": "奥地利禁止14岁以下女孩戴伊斯兰头巾，新法生效",
+        "title": "奥地利禁止14岁以下女童佩戴伊斯兰头巾",
         "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
         "summary": "奥地利政府称该法旨在保护年轻女孩的权利，但批评者认为此举加剧反穆斯林情绪。",
-        "comment": "保护权利还是歧视？争议难免。",
+        "comment": "保护权利与宗教自由需平衡，立法恐适得其反。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "印尼",
+        "title": "印尼喀拉喀托火山喷发致27万人滞留，机场持续关闭",
+        "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+        "summary": "位于雅加达以西约150公里的喀拉喀托火山于周五晚开始喷发，导致机场关闭，约27万人滞留。",
+        "comment": "火山灾害凸显印尼应急管理短板，需加强预警与疏散。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "尼泊尔",
+        "title": "尼泊尔全国哀悼日纪念山洪遇难者",
+        "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+        "summary": "山洪灾害发生第13天，尼泊尔降半旗致哀，当天也是印度教哀悼期的最后一天。",
+        "comment": "哀悼日凸显灾害之痛，防灾重建仍需努力。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "肯尼亚",
+        "title": "肯尼亚警告外国人勿滥用签证从事贸易",
+        "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+        "summary": "肯尼亚即将实施措施，限制外国公民经营小型企业，以保护本地商业。",
+        "comment": "此举旨在保护本地经济，但需平衡外资吸引力。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "坦桑尼亚",
+        "title": "坦桑尼亚总统萨米亚的丈夫在医院去世",
+        "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+        "summary": "哈菲德·阿米尔·哈桑低调行事，很少与总统公开露面。其去世消息由官方确认，具体原因未披露。",
+        "comment": "低调的第一先生离世，或引发公众对总统个人生活的关注。",
+        "image": "",
+        "score": 83
       }
     ]
   }
