@@ -4,31 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI版权",
-        "title": "作者抗议：出版商与代理争夺Anthropic和解金份额",
-        "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-        "summary": "在Anthropic版权和解中，出版商和代理被指索取过多份额，作者群体表示不满，认为分配不公。",
-        "comment": "利益分配失衡，作者权益保护仍需完善。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "自动驾驶",
-        "title": "Uber创始人Kalanick的Atoms或进军自动驾驶出租车",
+        "tag": "无人出租车",
+        "title": "Uber创始人Kalanick的Atoms或进军无人出租车业",
         "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-        "summary": "Uber创始人Travis Kalanick表示，其新公司Atoms将助其完成“未竟事业”，暗示可能涉足自动驾驶出租车领域。",
-        "comment": "Kalanick再战出行，自动驾驶赛道竞争加剧。",
+        "summary": "Uber创始人Travis Kalanick表示，其新公司Atoms将助其完成“未竟事业”，暗示可能涉足机器人出租车业务。",
+        "comment": "Kalanick再战出行领域，无人出租车竞争加剧。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "OpenAI首席科学家谈AI对齐挑战",
+        "title": "OpenAI首席科学家谈AI对齐：需更强保障与国际协作",
         "link": "https://openai.com/index/an-alien-mind",
-        "summary": "OpenAI的Jakub Pachocki反思日益强大的AI及其对齐难题，呼吁加强安全防护与国际协调。",
-        "comment": "对齐问题需全球协作，而非单打独斗。",
+        "summary": "OpenAI的Jakub Pachocki反思日益强大的AI及其对齐挑战，呼吁加强安全措施并推动国际协调，以确保AI发展可控。",
+        "comment": "对齐问题成AI发展关键，国际协作刻不容缓。",
         "image": "",
         "score": 100
       },
@@ -37,10 +27,20 @@
         "tag": "OpenAI",
         "title": "OpenAI内部视角：编码代理加速AI研究",
         "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "summary": "OpenAI分享内部数据，显示编码代理提升了实验速度与任务复杂度，正重塑AI研究流程，加速研究进程。",
-        "comment": "内部数据揭示AI研究范式转变，效率提升显著。",
+        "summary": "OpenAI披露内部数据，显示编码代理提升实验速度与任务复杂度，正重塑AI研究流程，加速研究进程。",
+        "comment": "内部实证揭示AI自我加速，研发范式面临变革。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI版权",
+        "title": "作者抗议出版商与代理争夺Anthropic和解金",
+        "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "summary": "在Anthropic版权和解中，出版商和代理声称获得大部分赔偿，作者认为分配不公，表示反对。",
+        "comment": "利益分配失衡，作者权益需更明确保障。",
+        "image": "",
+        "score": 99
       }
     ]
   }
