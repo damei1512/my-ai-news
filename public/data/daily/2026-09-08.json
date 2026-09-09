@@ -4,91 +4,51 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI编程",
-        "title": "Cognition估值达480亿美元，AI编程市场仍具多元竞争",
-        "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-        "summary": "Cognition最新估值达480亿美元，高于Cursor被SpaceX收购前的估值，表明投资者认为AI编程领域尚未形成赢家通吃局面。",
-        "comment": "高估值反映市场对AI编程多元化的信心。",
+        "tag": "Claude",
+        "title": "黑客窃取Claude订阅用户令牌",
+        "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+        "summary": "上个月，一名Claude用户发现其账户在未使用情况下消耗令牌。Anthropic已就此警告用户，提醒防范黑客攻击。",
+        "comment": "令牌安全成AI服务新隐患，用户需警惕。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Meta推出个人AI代理Muse，消费者会信任吗？",
-        "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-        "summary": "Meta发布个人AI代理Muse，需访问用户邮件、日历、支付及健康服务等数据，这是其最大消费者AI押注，也是对用户信任的重大考验。",
-        "comment": "数据权限过大，信任门槛高，落地挑战严峻。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "NYU数学家指责OpenAI在千禧年数学难题上作弊",
-        "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-        "summary": "OpenAI被指在Navier-Stokes问题求解中采取不当手段，该问题悬赏100万美元，首位解决者将获大奖。",
-        "comment": "AI竞赛需公平，学术诚信不容妥协。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌云",
-        "title": "谷歌云联手埃森哲，加速企业AI部署追赶步伐",
-        "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-        "summary": "谷歌云与埃森哲达成合作，借助其前线部署工程师推动企业AI采用，以解决部署瓶颈，追赶竞争对手。",
-        "comment": "合作补足落地短板，但竞争格局仍严峻。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI融资",
-        "title": "Mistral融资30亿欧元，主权AI成热门生意",
-        "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-        "summary": "法国AI实验室Mistral完成30亿欧元D轮融资，估值达210亿欧元，由三星、Scaleup Europe和PSG Equity领投，凸显主权AI商业价值。",
-        "comment": "主权AI赛道升温，欧洲资本加速布局。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "MIT研究员用GPT-5.6 Sol自主运行量子计算实验",
+        "tag": "量子计算",
+        "title": "GPT-5.6 Sol助力量子计算实验自动化",
         "link": "https://openai.com/index/codex-quantum-computing-experiments",
-        "summary": "MIT研究员借助GPT-5.6 Sol与Codex，自主运行量子计算实验、分析结果并校准量子比特，展示了AI在科研自动化中的潜力。",
-        "comment": "AI自主科研迈出关键一步，但可靠性仍需验证。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI：更强大且实惠的AI如何拓展工作与增长",
-        "link": "https://openai.com/index/the-work-now-within-reach",
-        "summary": "OpenAI探讨更强大且经济实惠的AI如何扩大个人和企业可完成的工作范围，并降低增长成本，推动经济效率提升。",
-        "comment": "AI普惠化将重塑劳动市场，需关注其实际落地与就业影响。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "图像生成",
-        "title": "OpenAI发布ChatGPT图像生成2.5版",
-        "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-        "summary": "ChatGPT Images 2.5能更精准地将想法、草图或参考照片转化为个性化、精细的图像，提升创作表达。",
-        "comment": "图像生成能力再升级，创作门槛进一步降低。",
+        "summary": "MIT研究员利用GPT-5.6 Sol与Codex自主运行量子计算实验，分析结果并校准量子比特，显著提升实验效率。",
+        "comment": "AI驱动科研自动化迈出重要一步，但可靠性仍需验证。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI",
-        "title": "OpenAI发布AI生成的纳维-斯托克斯千禧年问题解决方案",
+        "title": "OpenAI：更强大实惠的AI拓展工作与增长",
+        "link": "https://openai.com/index/the-work-now-within-reach",
+        "summary": "OpenAI探讨了更强大且更实惠的AI如何扩大个人和企业的可完成工作范围，并使增长更具经济性。",
+        "comment": "AI普惠化将重塑生产力，但需关注就业结构变化。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "图像生成",
+        "title": "OpenAI发布ChatGPT Images 2.5，图像生成更个性化",
+        "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "summary": "ChatGPT Images 2.5支持将想法、草图或参考照片转化为更精致、个性化的图像，提升图像生成质量与用户意图匹配度。",
+        "comment": "图像生成进入精细化阶段，但竞争激烈，需看实际效果。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI",
+        "title": "OpenAI发布AI生成的纳维-斯托克斯千年难题解决方案",
         "link": "https://openai.com/index/navier-stokes-solution",
-        "summary": "OpenAI公开了AI生成的纳维-斯托克斯千禧年问题解决方案，包含论文和Lean形式化证明，但尚未经同行验证。",
-        "comment": "AI数学突破仍需严格验证，勿过早定论。",
+        "summary": "OpenAI公开了AI生成的纳维-斯托克斯千年难题解决方案，包含论文和Lean形式化证明，但尚未经同行评审验证。",
+        "comment": "AI数学突破仍需严格验证，勿过早乐观。",
         "image": "",
         "score": 100
       },
@@ -97,128 +57,38 @@
         "tag": "OpenAI",
         "title": "OpenAI设立500万美元资助青少年AI发展研究",
         "link": "https://openai.com/index/teen-development-research-grants",
-        "summary": "OpenAI推出500万美元资助计划，支持独立研究生成式AI对青少年发展、福祉和安全的影响，申请现已开放。",
-        "comment": "此举有助于平衡商业利益与社会责任，但需确保研究独立性。",
+        "summary": "OpenAI启动500万美元资助计划，支持独立研究生成式AI对青少年发展、福祉和安全的影响，现已开放申请。",
+        "comment": "此举有助于平衡商业利益与社会责任，值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "OpenAI",
         "title": "OpenAI扩展新闻业支持计划，覆盖课堂到编辑部",
         "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-        "summary": "OpenAI宣布扩大对新闻业的支持，提供工具、培训和合作机会，面向学生、教育者、记者及新闻机构，旨在促进AI在新闻领域的应用。",
-        "comment": "此举显示OpenAI正积极布局媒体生态，但需关注内容质量与伦理。",
+        "summary": "OpenAI宣布扩大对新闻业的支持，为师生、记者及新闻机构提供工具、培训和合作机会，以促进AI在新闻领域的应用。",
+        "comment": "此举或缓解媒体对AI的担忧，但需关注内容质量。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI编程",
-        "title": "1Password用Codex提升工程效率21%",
+        "title": "1Password借助Codex提升工程效率21%",
         "link": "https://openai.com/index/1password",
-        "summary": "1Password工程师利用OpenAI Codex快速构建新功能和内部工具，在保持严格安全策略的同时达到生产就绪状态，工程效率提升21%。",
-        "comment": "AI编程工具在安全敏感场景的落地案例，具有行业参考价值。",
+        "summary": "1Password工程师使用OpenAI的Codex快速构建新功能和内部工具，在保持严格安全策略的同时达到生产就绪状态，工程效率提升21%。",
+        "comment": "AI编程工具在安全敏感场景的落地，具有标杆意义。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "黑客窃取Claude订阅用户令牌",
-        "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-        "summary": "上月，一名Claude用户发现账户在未使用时消耗令牌。Anthropic已警告用户注意黑客攻击。",
-        "comment": "令牌安全成AI服务新风险点。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Chrome",
-        "title": "Chrome改为每两周更新一次，应对AI安全挑战",
-        "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-        "summary": "谷歌加快Chrome更新频率至每两周一次，以更快推送安全补丁和新功能，应对AI带来的安全格局变化。",
-        "comment": "更新提速反映AI时代安全威胁加剧，浏览器厂商需更敏捷响应。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影",
-        "title": "亚马逊撤资后，卢卡·瓜达尼诺执导的萨姆·奥尔特曼传记片《人工》首曝预告",
-        "link": "https://www.ign.com/articles/artificial-looks-like-a-horror-movie-in-first-teaser-for-sam-altman-biopic-after-amazon-pulled-the-plug",
-        "summary": "Neon发布《人工》首支预告，该片由卢卡·瓜达尼诺执导，讲述OpenAI CEO萨姆·奥尔特曼的故事。此前亚马逊突然取消对该片的支持，预告风格酷似恐怖片。",
-        "comment": "亚马逊撤资反增话题性，预告恐怖风引人期待。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/08/artificial-teaser-sam-altman-biopic-1788906252141.png",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电竞",
-        "title": "AMC影院将直播2026年火箭联盟世界锦标赛决赛",
-        "link": "https://www.ign.com/articles/amc-theaters-is-broadcasting-the-2026-rocket-league-world-championship-finals-at-select-cinemas-across-the-us",
-        "summary": "2026年火箭联盟世界锦标赛决赛将在美国50家AMC影院同步直播，为电竞观众提供影院观赛体验。",
-        "comment": "电竞进影院，传统院线拓展新场景。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/08/rocket-league-world-championships-amc-theaters-1788910406554.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "塞尔达传说",
-        "title": "塞尔达传说40周年直面会重磅消息汇总",
-        "link": "https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-all-the-biggest-announcements/",
-        "summary": "任天堂在塞尔达传说40周年直面会上发布多项重大公告，包括新作预告、重制版及系列纪念活动，回应了粉丝长期期待。",
-        "comment": "直面会内容充实，为经典IP注入新活力。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Loz-feature.jpg?w=300",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "塞尔达",
-        "title": "《塞尔达传说：时之笛》重制版首曝实机画面",
-        "link": "https://www.gamespot.com/articles/the-legend-of-zelda-ocarina-of-time-remake-looks-fantastic-in-first-gameplay-look/",
-        "summary": "任天堂在六月确认《时之笛》重制版后，今日首次公开实机演示，画面表现惊艳，引发玩家高度期待。",
-        "comment": "经典重制诚意足，实机效果或成 Switch 新标杆。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/ZeldaOoTremake.jpg?w=300",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏外设",
-        "title": "SteelSeries Aeon Pro 评测：功能全面但仍有不足",
-        "link": "https://www.ign.com/articles/steelseries-aeon-pro-review",
-        "summary": "SteelSeries Aeon Pro 控制器集成了霍尔效应摇杆、触觉开关按钮和可调扳机等专业功能，但评测仍在进行中，尚未给出最终评分。",
-        "comment": "硬件堆料足，但实际体验待考。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/08/pxl-20260908-213819847-portrait-1788910388911.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暴雪",
-        "title": "暴雪嘉年华2026前瞻：星际争霸回归与魔兽世界大放异彩",
-        "link": "https://www.gamespot.com/articles/what-to-expect-from-blizzcon-2026-starcrafts-return-a-whole-lot-of-warcraft/",
-        "summary": "暴雪嘉年华2026将于9月12日开幕，时隔两年回归。预计将公布《星际争霸》新作及大量《魔兽》系列内容，为玩家带来重磅消息。",
-        "comment": "暴雪回归线下，星际复活或成最大看点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/BlizzCon-2026-Predictions.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "塞尔达",
-        "title": "《时之笛》重制版11月5日发售，林克可跳跃",
-        "link": "https://www.gamespot.com/articles/stop-the-presses-link-can-jump-in-ocarina-of-time-remake/",
-        "summary": "任天堂在《塞尔达传说》40周年直面会上宣布《时之笛》重制版将于11月5日发售，并公布交响音乐会巡演计划。",
-        "comment": "经典重制，跳跃功能或成最大亮点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/zelda-oot-1.jpg?w=300",
-        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "AI视频",
         "title": "实测vivago R1：我用AI打造赛博西游记短片",
         "link": "https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测全球上线的vivago R1，用其制作AI视频短片，认为普通人的AI视频时代刚开始。",
-        "comment": "AI视频门槛降低，创作民主化趋势明显。",
+        "summary": "爱范儿实测全球上线的vivago R1，用其制作赛博西游记短片，体验AI视频工具对普通人的易用性，认为AI视频时代才刚开始。",
+        "comment": "AI视频创作门槛降低，但内容质量仍待考验。",
         "image": "",
         "score": 92
       },
@@ -227,8 +97,8 @@
         "tag": "苹果",
         "title": "苹果折叠屏发布在即，新机潮将至",
         "link": "https://www.ifanr.com/1679021?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果折叠屏手机或于明日发布，引发行业关注，预计将带动新一轮新机发布热潮。",
-        "comment": "折叠屏市场迎来关键节点，苹果入局或重塑格局。",
+        "summary": "苹果折叠屏手机即将发布，预计引发行业新机发布潮，市场关注度极高。",
+        "comment": "折叠屏或成苹果新增长点，但需看创新与定价。",
         "image": "",
         "score": 92
       },
@@ -237,7 +107,7 @@
         "tag": "小米",
         "title": "小米澎程20.99万起，五座七座齐发，探索版上下铺",
         "link": "https://www.ifanr.com/1679179?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米澎程SUV上市，起售价20.99万元，提供五座和七座版本，探索版车型配备上下铺设计，主打家庭空间创新。",
+        "summary": "小米澎程SUV上市，起售价20.99万元，提供五座和七座版本，探索版车型配备上下铺设计，主打家庭出行空间灵活性。",
         "comment": "价格有竞争力，但探索版实用性待市场检验。",
         "image": "",
         "score": 92
@@ -247,130 +117,10 @@
         "tag": "AI",
         "title": "AI开始互发微信，谁来监管？",
         "link": "https://www.ifanr.com/1679104?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "AI代理已能自主发送、接收和评论微信消息，形成AI间互动生态，引发监管与伦理讨论。",
-        "comment": "AI自主社交需明确规则，防止失控。",
+        "summary": "AI代理间自主发消息、评论互动，引发监管空白担忧，需明确责任与规范。",
+        "comment": "AI自主社交需制度约束，防失控风险。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox Game Pass",
-        "title": "Xbox Game Pass今日新增《使命召唤：黑色行动冷战》",
-        "link": "https://www.gamespot.com/articles/xbox-game-pass-adds-a-great-call-of-duty-game-today/",
-        "summary": "Xbox Game Pass于9月8日新增2020年热门游戏《使命召唤：黑色行动冷战》，订阅用户即日起可游玩。",
-        "comment": "经典COD入库，订阅服务价值再提升。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/coldwar.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "塞尔达",
-        "title": "《塞尔达：时之笛》重制版引热议，玩家反应两极",
-        "link": "https://www.gamespot.com/articles/the-internet-reacts-to-zelda-ocarina-of-times-changes/",
-        "summary": "任天堂在最新Direct中展示《时之笛》重制版更多细节，引发玩家对画面、操作及改动讨论，部分老玩家怀旧，新玩家期待。",
-        "comment": "经典重制需平衡情怀与创新，任天堂面临考验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Legend-of-Zelda-Ocarina-of-Time-Remake-Featured.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox光盘转数字计划遇阻：多家大厂不参与",
-        "link": "https://www.gamespot.com/articles/xbox-disc-to-digital-program-has-a-big-problem-several-major-publishers-arent-participating/",
-        "summary": "Xbox推出光盘转数字计划，旨在帮助玩家在数字化时代保留实体游戏，但多家主要发行商未参与，可能影响该计划的实用性与覆盖范围。",
-        "comment": "大厂缺席或削弱计划价值，玩家需谨慎观望。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Sephiroth-FF15.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GameStop",
-        "title": "GameStop创财务纪录，游戏业务并非主因",
-        "link": "https://www.gamespot.com/articles/gamestop-sets-a-new-financial-record-and-its-no-thanks-to-games/",
-        "summary": "GameStop发布最新财报，创下公司财务纪录，但主要增长并非来自游戏销售，而是其他业务推动。",
-        "comment": "游戏零售转型初见成效，但可持续性待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/GME.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "塞尔达",
-        "title": "塞尔达40周年直面会错失移植良机",
-        "link": "https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-missed-a-giant-wind-waker-sized-opportunity/",
-        "summary": "任天堂在塞尔达40周年直面会未公布《风之杖》等老作品移植或重制，令期待Switch版玩家失望。",
-        "comment": "情怀未兑现，任天堂或另有计划。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/3961860-3893169-the-legend-of-zelda-the-wind-waker-hd.jfif.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "指环王",
-        "title": "《指环王：力量之戒》第三季前终推4K蓝光版",
-        "link": "https://www.ign.com/articles/lord-of-the-rings-the-rings-of-power-season-1-2-4k-blu-ray-where-to-buy",
-        "summary": "《指环王：力量之戒》第一、二季将于第三季播出前发行4K蓝光版，满足粉丝收藏需求。",
-        "comment": "流媒体剧集回归实体介质，收藏价值凸显。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/08/ringsofpower-1788905425460.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《出埃及记》你需要知道的五件事",
-        "link": "https://www.ign.com/articles/exodus-five-things-you-need-to-know",
-        "summary": "IGN盘点《出埃及记》五大要点，涵盖游戏设定、玩法特色及背景故事，为玩家提供快速入门指南。",
-        "comment": "信息密集，适合新玩家快速了解。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/03/exodus-blogroll-1788461357494.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫画",
-        "title": "《地牢爬行者卡尔》漫画第一卷评测",
-        "link": "https://www.ign.com/articles/dungeon-crawler-carl-graphic-novel-vol-1-review",
-        "summary": "IGN评测《地牢爬行者卡尔》漫画第一卷，认为其忠实还原原著幽默与暴力，画风出色，但节奏略快，适合粉丝收藏。",
-        "comment": "漫画改编精准，粉丝必入。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/08/81lstefoezl-sl1500-1788900662283.png",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "Meta",
-        "title": "报告称Meta在印度继续投放儿童性虐待广告",
-        "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Eye调查发现Instagram在印度运行推广儿童性虐待材料的付费广告，Meta未有效阻止。",
-        "comment": "平台监管失职，需强化内容审核机制。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "桌游",
-        "title": "炸弹克星桌游亚马逊历史最低价",
-        "link": "https://www.ign.com/articles/bomb-busters-board-game-deal-september-2026",
-        "summary": "IGN报道，合作解谜桌游《炸弹克星》在亚马逊降至历史最低价，适合家庭聚会或朋友对战，性价比高。",
-        "comment": "经典合作游戏好价，桌游爱好者可入手。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/08/board-game-of-the-year-award-1752524536846-1788904248533.png",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "阿根廷",
-        "title": "阿根廷将对福克兰群岛运营石油公司提起刑事诉讼",
-        "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-        "summary": "阿根廷总统米莱近日加强了对福克兰群岛的主权主张，宣布将对在该群岛运营的石油公司提起刑事诉讼。此举加剧了与英国在该地区的紧张关系。",
-        "comment": "阿根廷此举意在强化主权声索，但实际效果有限。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "脱欧",
-        "title": "英国寡妇因逾期未申请脱欧居留权面临被瑞典驱逐",
-        "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-        "summary": "78岁英国妇女在瑞典居住22年，因错过脱欧居留申请截止日期，面临被驱逐出境。",
-        "comment": "程序性失误致老人面临驱逐，凸显脱欧后行政僵化。",
-        "image": "",
-        "score": 86
       }
     ]
   }
