@@ -3,94 +3,274 @@
     "week": "周三",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《天机：远古阴影》上手体验",
+        "link": "https://www.ign.com/articles/hands-on-tianji-shadow-of-the-ancients",
+        "summary": "IGN编辑试玩《天机：远古阴影》，体验其战斗系统与世界观，游戏在视觉与玩法上均有亮点，但细节仍需打磨。",
+        "comment": "国产游戏潜力之作，但需优化核心体验。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/09/en-1920-1080-1788927064977.png",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Netflix",
+        "title": "Netflix将改编西部经典《孤鸽镇》",
+        "link": "https://www.ign.com/articles/netflix-lonesome-dove-series-zoe-kazan",
+        "summary": "Netflix宣布将拉里·麦克默特里的西部小说《孤鸽镇》改编为剧集，由《伊甸之东》主创佐伊·卡赞和杰布·斯图尔特操刀。",
+        "comment": "经典IP改编，主创阵容值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/09/lonesome-dove-br-1788922008008.jpg",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "OpenAI攻克千禧年难题，清华姚班陈立杰惊叹AI时代",
+        "link": "https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "OpenAI宣布用1万个AI Agent挑战并攻克千禧年数学难题，引发清华姚班传奇人物陈立杰感叹不可思议，标志AI在数学推理领域重大突破。",
+        "comment": "AI攻克数学难题，科研范式或将迎来剧变。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "任天堂",
+        "title": "任天堂2026年9月直面会：时间、观看方式与预期内容",
+        "link": "https://www.gamespot.com/articles/nintendo-direct-september-2026-start-time-how-to-watch-and-what-to-expect/",
+        "summary": "继昨日《塞尔达传说》专场直面会后，任天堂将于9月举办综合直面会，公布Switch平台更多新作与更新，具体时间及观看方式已公布。",
+        "comment": "综合直面会或成Switch末期重要发布窗口。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Nintendo-Direct-June-2026.jpg?w=300",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI绘画",
+        "title": "GPT Images 2.5上线，网友创意画作爆火",
+        "link": "https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "OpenAI发布GPT Images 2.5，网友创作大量抽象画作，引发热议，展示AI图像生成新能力。",
+        "comment": "AI绘画门槛再降，创意表达迎来新工具。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "教育Agent",
+        "title": "中国教育Agent首进联合国，开启Token新入口",
+        "link": "https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "继编程后，教育Agent成下一场Token战争焦点，中国产品首次亮相联合国，展示AI教育应用新方向。",
+        "comment": "教育场景或成AI落地关键赛道，但需警惕概念炒作。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI办公",
+        "title": "办公Agent混战，TeleAgent如何突围成新势力",
+        "link": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "办公Agent市场竞争激烈，新势力TeleAgent凭借独特优势入局，目标成为国民级AI办公助理，引发行业关注。",
+        "comment": "办公AI赛道拥挤，TeleAgent需差异化破局。",
+        "image": "",
+        "score": 92
+      },
+      {
         "category": "数码科技",
         "tag": "折叠屏",
-        "title": "苹果加速折叠屏研发，小米折叠屏销量激增",
+        "title": "苹果加速折叠屏研发，小米折叠屏首销增长310%",
         "link": "https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果因华为三星竞争加速折叠屏iPhone研发；小米折叠屏首销增长310%；《旅行青蛙·中国之旅》12月8日停运。",
+        "summary": "苹果因华为三星竞争加速折叠屏iPhone研发；小米中折叠屏首销增长310%；《旅行青蛙·中国之旅》12月8日停运。",
         "comment": "折叠屏市场升温，苹果入局将加剧竞争。",
         "image": "",
         "score": 92
       },
       {
+        "category": "数码科技",
+        "tag": "阿维塔",
+        "title": "阿维塔9系官图发布，大六座补上，设计风格转变",
+        "link": "https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "阿维塔发布9系官图，新增六座布局，但外观设计较以往更保守，引发对品牌先锋定位的讨论。",
+        "comment": "补足实用性的同时，设计个性或成代价。",
+        "image": "",
+        "score": 91
+      },
+      {
         "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂2026年9月直面会：时间、观看方式与期待内容",
-        "link": "https://www.gamespot.com/articles/nintendo-direct-september-2026-start-time-how-to-watch-and-what-to-expect/",
-        "summary": "继昨日《塞尔达传说》专场直面会后，任天堂将于9月举行综合直面会，公布Switch平台新作。本文汇总了直播时间、观看渠道及可能亮相的游戏阵容。",
-        "comment": "综合直面会或成Switch末期重要发布窗口。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Nintendo-Direct-June-2026.jpg?w=300",
-        "score": 92
+        "tag": "动画",
+        "title": "《银河特急》导演与《轨道双子星》团队谈角色缺陷之美",
+        "link": "https://www.gcores.com/articles/219449",
+        "summary": "动画与游戏创作者对话，探讨经典动画中角色缺陷带来的真实感与魅力，强调不完美角色更吸引人，并回顾80年代手绘赛璐璐的质朴温度。",
+        "comment": "跨媒介创作共识，凸显缺陷美学在叙事中的核心价值。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威DC",
+        "title": "动画剧集拯救漫威DC审美疲劳",
+        "link": "https://www.gcores.com/radios/219453",
+        "summary": "机核电台讨论漫威DC电影审美疲劳，推荐多部优秀动画剧集，分析其改编与写作优势，为观众提供新选择。",
+        "comment": "从真人转向动画，视角新颖，推荐值得参考。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏销量",
         "title": "《潜水员戴夫》全球销量破千万套",
         "link": "https://www.gcores.com/articles/219447",
-        "summary": "韩国MINTROCKET宣布，《潜水员戴夫》自2022年10月抢先体验以来，全平台累计销量突破1000万套，恰逢手游版推出。",
-        "comment": "独立游戏长销典范，跨平台策略成功。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "街霸6",
-        "title": "《街霸6》新角色阿俊10月13日参战",
-        "link": "https://www.gcores.com/articles/219433",
-        "summary": "《街头霸王6》年4追加角色第2弹“阿俊”将于10月13日参战，拥有强劲动作和瑜伽必杀技，可设置巨岩，力量超常，为亡友雪耻踏上街头。",
-        "comment": "新角色设定独特，瑜伽与暴力结合，值得期待。",
+        "summary": "MINTROCKET宣布《潜水员戴夫》自2022年抢先体验以来，全平台累计销量超1000万套，恰逢手游版上线，里程碑意义显著。",
+        "comment": "独立游戏长销典范，多平台策略奏效。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "《卡莉亚的炼金工房》27年2月发售，新主角失忆设定引关注",
-        "link": "https://www.gcores.com/articles/219428",
-        "summary": "GUST新作《卡莉亚的炼金工房》定于2027年2月24日发售，故事接续《优米雅》两年后，主角卡莉亚失忆却拥有吞食万物知特性的能力，探索玛那枯竭的阿拉迪斯大陆。",
-        "comment": "失忆主角与吞噬能力设定新颖，或成系列突破点。",
-        "image": "",
+        "title": "IGN澳洲与珍宝珠十月举办复古游戏快闪活动",
+        "link": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
+        "summary": "IGN澳洲与糖果品牌珍宝珠合作，将于十月在悉尼Westfield Parramatta举办复古游戏主题快闪活动，提供怀旧游戏体验。",
+        "comment": "品牌跨界合作，怀旧营销吸引年轻家庭。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/09/social-games-1-wide-copy-1788928596453.png",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "怪物猎人",
-        "title": "《怪物猎人：荒野 凌越》新动作视频公开，增幅护腕登场",
-        "link": "https://www.gcores.com/articles/219430",
-        "summary": "超大型扩充内容《怪物猎人：荒野 凌越》将于2027年推出，新动作展示视频公开，引入“增幅护腕”强化动作性能，并展示大剑、弓等七种武器的新招式。",
-        "comment": "增幅护腕机制或成狩猎新核心，值得期待。",
+        "tag": "巴士模拟器",
+        "title": "《巴士模拟器27》正式发售，支持中文",
+        "link": "https://www.gcores.com/articles/219461",
+        "summary": "《巴士模拟器27》今日登陆PC、PS5和Xbox Series X|S，支持中文。游戏新增授权品牌、长途客车和跨城旅程，为玩家带来更丰富的驾驶体验。",
+        "comment": "模拟器爱好者不容错过，但创新有限。",
         "image": "",
-        "score": 91
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏活动",
+        "title": "《宝藏世界》健康食品与垃圾食品活动开启",
+        "link": "https://www.gcores.com/articles/219460",
+        "summary": "《宝藏世界》年度阵营大战再启，围绕葡萄归属的争论升级。玩家投票影响结果，中世纪高原与糖果世界阵营各执一词，Berry Bones携葡萄相关新内容登场。",
+        "comment": "葡萄归属之争趣味十足，玩家参与感强。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "恐怖游戏",
+        "title": "恐怖游戏《Unmourned》五分钟速通实况",
+        "link": "https://www.gcores.com/articles/219472",
+        "summary": "安鼠二人录制《Unmourned》实况，仅五分钟即通关，过程意外且有趣，分享给观众。",
+        "comment": "短小精悍，意外通关带来反差笑点。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏音乐",
+        "title": "GGG游戏节奏联欢夜第三波阵容揭晓",
+        "link": "https://www.gcores.com/articles/219464",
+        "summary": "GGG游戏节奏联欢夜公布第三波参演阵容，包括《帕斯卡契约》《三角洲行动》《永劫无间》《江南百景图》等18个游戏IP，音乐派对将于秋夜举行。",
+        "comment": "阵容多元，跨古今东西，期待现场混搭。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《朝露》DLC“境界之心”上线，定价22元",
+        "link": "https://www.gcores.com/articles/219454",
+        "summary": "葱色兔开发、Another Indie发行的《朝露：境界旅程》DLC“境界之心”今日上线，定价22元，首发19.8元，折扣14天。故事接本体主线，含2个新场景和6个新Boss。",
+        "comment": "DLC内容量中规中矩，折扣力度尚可，粉丝可考虑入手。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "英国制裁",
-        "title": "英国制裁约旦河西岸定居点，以色列关闭英领馆回应",
-        "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-        "summary": "英国外交大臣指责定居者对巴勒斯坦人实施“种族清洗”，宣布制裁。以色列愤怒回应，关闭英国驻东耶路撒冷领事馆。",
-        "comment": "英以关系因定居点问题急剧恶化，中东和平进程再添变数。",
+        "tag": "油价",
+        "title": "美英打击胡塞后油价突破100美元",
+        "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国周二袭击五艘伊朗油轮后，布伦特原油价格自7月以来首次突破每桶100美元。",
+        "comment": "地缘冲突直接推高油价，市场风险溢价显著。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "科隆游戏展",
+        "title": "科隆游戏展落幕，机核编辑忙到冒烟Vlog",
+        "link": "https://www.gcores.com/videos/219470",
+        "summary": "机核编辑Jerry和柏亚舟赴科隆游戏展，除试玩逛展外，还进行局外对抗，记录异国体验。",
+        "comment": "展会Vlog侧重个人体验，信息量有限。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "机核会员专享节目录音笔VOL.782上线",
+        "link": "https://www.gcores.com/radios/219465",
+        "summary": "GPASS会员专享节目《录音笔》第782期，记录办公室日常对话与工作片段，时长约十几分钟，内容随机，包括碎碎念或暴言。",
+        "comment": "会员内容碎片化，适合粉丝消遣，但信息量有限。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "贸易战",
-        "title": "美国对加拿大商品实施进口禁令，贸易战再升级",
+        "title": "美国将禁止进口部分加拿大酒类、乳制品和摩托车",
         "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国对加拿大酒精、摩托车等商品实施进口禁令，这是长期贸易战的最新打击，恰逢加拿大对美商品反制关税生效。",
-        "comment": "贸易摩擦持续升级，双方互不相让，经济代价或加剧。",
+        "summary": "美国宣布禁止进口部分加拿大酒类、乳制品和摩托车，这是长期贸易战的最新打击，此前加拿大对美国商品的反制关税已生效。",
+        "comment": "贸易战升级，美加互伤，经济前景堪忧。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "韩国",
+        "title": "韩国富豪离婚案创纪录，前妻获赔18.7亿美元",
+        "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+        "summary": "韩国一商业大亨向前妻支付18.7亿美元，创该国离婚赔偿最高纪录，引发对婚姻财产分配的关注。",
+        "comment": "巨额赔偿凸显韩国法律对婚姻财产权益的重视。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "红毛猩猩",
+        "title": "印度森林发现濒危红毛猩猩幼崽引发贩运调查",
+        "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+        "summary": "在印度东部奥里萨邦发现两只极度濒危的红毛猩猩幼崽，远离其自然栖息地，引发对野生动物贩运的调查。",
+        "comment": "非法野生动物贸易威胁物种生存，需加强跨境执法。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "冈比亚",
+        "title": "冈比亚总统呼吁冷静，暴力停电抗议后发声",
+        "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+        "summary": "自6月以来，冈比亚持续停电，部分长达48小时，引发暴力抗议，总统呼吁民众保持冷静。",
+        "comment": "停电危机考验政府治理能力，呼吁冷静需配实际解决方案。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "香港",
-        "title": "香港首任特首董建华逝世，享年89岁",
+        "title": "香港回归后首任特首董建华逝世",
         "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-        "summary": "董建华作为1997年香港回归后首任特首，其任期伴随金融危机、SARS疫情及大规模抗议，治理历程充满挑战。",
-        "comment": "一代特首落幕，香港转型期见证者。",
+        "summary": "董建华作为香港回归后首任特首，任内经历金融危机、SARS疫情及大规模抗议，其施政充满挑战与争议。",
+        "comment": "一代特首落幕，香港历史翻开新页。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "南方公园改名南美洲，疑似讽刺特朗普",
+        "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普第二任期以来，试图将湖泊、海湾甚至州名改为“美国”，南方公园创作者以改名“南美洲”回应。",
+        "comment": "以荒诞对荒诞，讽刺意味十足。",
+        "image": "",
+        "score": 86
       }
     ]
   }
