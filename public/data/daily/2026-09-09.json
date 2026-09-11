@@ -4,40 +4,20 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Apple Watch",
-        "title": "Apple Watch新AI功能引发常听隐私争议",
-        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-        "summary": "Apple称新手表不保存原始音频，但可转写近期语音并总结环境对话，引发对同意、隐私与数据边界的质疑。",
-        "comment": "常听能力正被正常化，隐私边界需重审。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "苹果",
-        "title": "苹果秋季发布会：首款折叠屏iPhone Duo亮相",
-        "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-        "summary": "苹果秋季发布会推出首款折叠屏手机iPhone Duo，并发布支持常听功能的Apple Watch，成为全场焦点。",
-        "comment": "折叠屏迟到多年，苹果终于入场，但能否后来居上待观察。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "人工智能",
         "title": "OpenAI呼吁抓住AI政策窗口期",
         "link": "https://openai.com/index/ai-policy-window",
-        "summary": "OpenAI的Chris Lehane发文称，AI能力越强，越需要更强的安全证据、共同标准和持久政策行动，呼吁在政策窗口仍开放时采取行动。",
-        "comment": "安全与能力同步，政策窗口不等人。",
+        "summary": "OpenAI的Chris Lehane发文称，AI能力越强，越需要更强的安全证据、共同标准和持久的政策行动，呼吁在政策窗口仍开放时采取行动。",
+        "comment": "能力越强，安全与监管越不能滞后。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布GPT-6 Astra，面向企业工作场景",
+        "title": "OpenAI发布GPT-6 Astra，面向企业办公",
         "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-        "summary": "OpenAI推出GPT-6 Astra，称其为面向企业的最强模型，具备高级推理、计算机操作能力，并提升了写作与设计判断力。",
+        "summary": "OpenAI推出GPT-6 Astra，称其为面向商业场景的最强模型，具备高级推理、计算机操作能力，并提升了写作与设计判断力。",
         "comment": "企业级AI竞争升级，能力边界再扩展。",
         "image": "",
         "score": 100
@@ -47,68 +27,38 @@
         "tag": "OpenAI",
         "title": "Paul Christiano加入OpenAI基金会董事会",
         "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-        "summary": "OpenAI宣布Paul Christiano加入基金会董事会及安全与安保委员会，他在AI对齐、安全与标准方面经验丰富。",
+        "summary": "Paul Christiano加入OpenAI基金会董事会及安全与安保委员会，他在AI对齐、安全与标准方面经验丰富。",
         "comment": "安全派核心人物入局，OpenAI治理再加固。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI 任命 AI 对齐专家 Paul Christiano 加入董事会",
-        "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-        "summary": "TechCrunch 报道，专注 AI 对齐研究、被视为 AI 末日论代表人物的 Paul Christiano 加入 OpenAI Foundation 董事会。",
-        "comment": "安全派进入权力核心，OpenAI 治理天平生变。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "数据中心",
-        "title": "马萨诸塞州出台数据中心清洁电力新规",
-        "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-        "summary": "马萨诸塞州成为近三个月内第三个对数据中心开发施加新限制的州，要求其使用清洁电力。",
-        "comment": "数据中心能耗监管正从个案走向州级立法。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "OpenAI",
-        "title": "OpenAI宣布攻克千禧年难题，陈立杰称不可思议",
-        "link": "https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenAI宣布用1万个AI Agent挑战百年数学难题，清华姚班传奇陈立杰感叹不可思议的时代。",
-        "comment": "AI攻数学难题，噱头还是突破待验证。",
-        "image": "",
-        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "教育Agent",
         "title": "中国教育Agent首登联合国，或成Token新入口",
         "link": "https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "中国教育Agent首次走进联合国，被视为继Coding之后下一场Token战争的关键入口，教育场景正成为大模型竞争新焦点。",
-        "comment": "教育Agent出海联合国，Token争夺战开辟新战场。",
+        "summary": "中国教育Agent首次走进联合国，被视为继Coding之后下一个Token争夺入口，教育场景正成为AI大模型竞争新战场。",
+        "comment": "教育Agent出海联合国，Token入口争夺战升级。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "GPT",
+        "tag": "GPT Images",
         "title": "GPT Images 2.5 突发上线，网友抽象画作引热议",
         "link": "https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "GPT Images 2.5 突然上线，网友纷纷用其生成抽象离谱的“灵魂画作”，相关作品在社交平台引发讨论。",
-        "comment": "模型升级快，但抽象生成也暴露可控性短板。",
+        "summary": "GPT Images 2.5 突然上线，网友纷纷生成抽象离谱的「灵魂画作」，相关作品在社交平台引发讨论。",
+        "comment": "模型升级先被玩成梗，抽象效果反成传播点。",
         "image": "",
         "score": 90
       },
       {
         "category": "数码科技",
         "tag": "阿维塔",
-        "title": "阿维塔9系官图发布，大六座补上，先锋设计让步",
+        "title": "阿维塔9系官图发布，大六座补上但先锋设计让步",
         "link": "https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "阿维塔发布9系新车官图，新增六座布局，但外观设计较以往更保守，被指不太像阿维塔。",
-        "comment": "为空间和销量，阿维塔开始收敛先锋设计。",
+        "summary": "阿维塔发布9系新车官图，新增六座布局，但整体设计风格较以往更趋保守，被指不太像阿维塔。",
+        "comment": "为市场妥协设计，阿维塔在个性与实用间找平衡。",
         "image": "",
         "score": 90
       },
@@ -117,8 +67,8 @@
         "tag": "AI办公",
         "title": "办公Agent混战，TeleAgent凭什么入局",
         "link": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析办公Agent赛道竞争格局，探讨新势力TeleAgent如何切入市场，并追问谁能成为国民级AI办公助理。",
-        "comment": "办公Agent混战正酣，新玩家需靠差异化立足。",
+        "summary": "爱范儿分析办公AI Agent赛道竞争格局，探讨新势力TeleAgent在巨头混战中切入市场的差异化路径与竞争筹码。",
+        "comment": "办公Agent混战正酣，新玩家需拿出真本事。",
         "image": "",
         "score": 90
       }
