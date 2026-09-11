@@ -7,88 +7,8 @@
         "tag": "英伟达",
         "title": "黄仁勋解释英伟达明年为何将惊人增长70%",
         "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-        "summary": "黄仁勋称英伟达业务遍及各个领域，未来一年仍将丰收，并坚称其交易并非循环交易。",
-        "comment": "增长预期惊人，但循环交易质疑仍待观察。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic指控阿里、月之暗面、DeepSeek蒸馏攻击",
-        "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-        "summary": "Anthropic报告称，中国AI公司对其模型发起持续蒸馏攻击，近月来随行业竞争加剧而升级，涉及阿里、月之暗面与DeepSeek。",
-        "comment": "蒸馏争议升级，实为AI竞争与安全博弈的缩影。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "音频平台",
-        "title": "Pocket FM营收翻倍至5亿美元，AI驱动93%音频内容",
-        "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-        "summary": "印度音频平台Pocket FM年化营收达5亿美元，AI生成99%新内容，制作成本降低约80倍。",
-        "comment": "AI降本增效正重塑音频内容生产格局。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "研究者用Codex与ChatGPT搜寻新型抗菌分子",
-        "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存与已灭绝生物基因组中筛选抗菌候选分子，以对抗耐药感染。",
-        "comment": "AI正从写代码走向驱动科学发现。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出ChatGPT Work数据代理",
-        "link": "https://openai.com/index/put-data-to-work",
-        "summary": "OpenAI在ChatGPT Work中上线数据代理，可连接企业数据，用自然语言挖掘洞察并生成交互式仪表盘。",
-        "comment": "AI数据分析门槛再降，企业BI格局或生变。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出金融服务版ChatGPT",
-        "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-        "summary": "OpenAI发布面向金融服务的ChatGPT，整合内置金融数据与GPT-6 Astra，用于研究、建模及生成客户可用材料。",
-        "comment": "金融场景专用化，AI垂直落地再进一步。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI与GSA合作向美国政府机构提供AI优惠",
-        "link": "https://openai.com/index/expanding-ai-access-us-government",
-        "summary": "OpenAI与美国总务管理局合作，为符合条件的联邦、州、地方及部落政府提供零许可费、使用费五折及扩展网络防御支持。",
-        "comment": "AI巨头以低价抢占政府市场，安全与商业并进。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI在API中推出GPT-Live-1语音模型",
-        "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "summary": "OpenAI发布GPT-Live-1，为API带来自然全双工语音对话，支持更强指令遵循、自定义音色和电话集成。",
-        "comment": "全双工语音API落地，实时交互门槛再降。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI发布Agents API，支持云端智能体",
-        "link": "https://openai.com/index/introducing-the-agents-api",
-        "summary": "OpenAI推出Agents API，基于Codex框架的托管服务，支持编排、长时运行会话和工具调用，可构建并部署云端智能体。",
-        "comment": "智能体开发门槛再降，云端托管成新战场。",
+        "summary": "黄仁勋称英伟达业务遍及各个领域，未来一年仍将丰收，并强调其交易并非循环交易。",
+        "comment": "增长预期惊人，但循环交易质疑仍需观察。",
         "image": "",
         "score": 100
       },
@@ -100,91 +20,131 @@
         "summary": "OpenAI表示Pro订阅对系统压力最大，因此暂停新用户注册，同时扩充算力容量以应对Astra带来的需求激增。",
         "comment": "需求超预期，算力瓶颈倒逼限流。",
         "image": "",
-        "score": 99
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "Anthropic",
+        "title": "Anthropic指控阿里、月之暗面、DeepSeek蒸馏攻击",
+        "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "summary": "Anthropic报告称，中国AI公司对其模型发起持续蒸馏攻击，近几个月随行业竞争加剧而升级，涉及阿里、月之暗面与DeepSeek。",
+        "comment": "蒸馏争议升级，中美AI竞争再添新战线。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "研究者用Codex与ChatGPT搜寻新型抗菌分子",
+        "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存及灭绝物种基因组中筛选抗菌候选分子，以对抗耐药感染。",
+        "comment": "AI正从写代码走向发现新药。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI在ChatGPT Work推出数据智能体",
+        "link": "https://openai.com/index/put-data-to-work",
+        "summary": "OpenAI宣布ChatGPT Work上线数据智能体，可连接企业数据，用自然语言发现洞察并构建交互式仪表盘。",
+        "comment": "自然语言直连企业数据，BI门槛被大幅拉低。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI推出金融服务版ChatGPT",
+        "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+        "summary": "OpenAI发布金融服务版ChatGPT，整合内置金融数据与GPT-6 Astra，用于研究、建模及生成客户可用材料。",
+        "comment": "AI深入金融核心业务，合规与准确性是关键考验。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI向美国各级政府提供免费AI许可",
+        "link": "https://openai.com/index/expanding-ai-access-us-government",
+        "summary": "OpenAI与GSA合作，向符合条件的联邦、州、地方及部落政府提供零许可费、使用费五折及增强网络防御支持。",
+        "comment": "低价换市场，AI政务渗透加速。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI 在 API 中推出 GPT-Live-1 语音模型",
+        "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "summary": "OpenAI 发布 GPT-Live-1，为 API 带来自然全双工语音对话，支持更强指令遵循、自定义音色和电话接入。",
+        "comment": "语音交互走向实时全双工，开发者生态将加速落地。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI发布Agents API，支持云端智能体",
+        "link": "https://openai.com/index/introducing-the-agents-api",
+        "summary": "OpenAI推出Agents API，基于Codex编排框架，提供托管服务，支持长时间运行会话与工具调用，帮助开发者构建和部署云端智能体。",
+        "comment": "智能体开发门槛再降，托管化是趋势。",
+        "image": "",
+        "score": 100
       },
       {
         "category": "人工智能",
         "tag": "Meta",
         "title": "Meta AI代理Muse成美国第二大应用",
         "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-        "summary": "Meta最新AI代理应用Muse在美国应用榜升至第二，但起步速度慢于Meta AI和Threads等此前产品。",
-        "comment": "排名亮眼，但增速落后自家产品，后劲待观察。",
+        "summary": "Meta新推出的AI代理应用Muse在美国应用榜排名第二，但起步速度慢于Meta AI和Threads等此前产品。",
+        "comment": "排名亮眼，但增速不及自家前作，后劲待观察。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "AI代理",
-        "title": "AI代理涌入公共服务，申请量激增",
-        "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-        "summary": "TechCrunch报道，AI代理正大量涌入公共服务系统提交新申请。研究者称，绝大多数案例是符合资格的人申请应得权益。",
-        "comment": "AI代理让福利申请更高效，但公共服务需应对流量冲击。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "机器人",
-        "title": "Maven Robotics结束隐身，获1亿美元A轮融资",
-        "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-        "summary": "Maven Robotics今日结束隐身状态，宣布完成1亿美元A轮融资，并已开展实际部署，瞄准机器人部署市场。",
-        "comment": "机器人部署赛道再添新玩家，资本热度不减。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI融资",
-        "title": "Listen Labs为与Salesforce谈判放弃15亿美元融资",
-        "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-        "summary": "AI研究初创公司Listen Labs据称放弃Menlo Ventures已签署的C轮条款清单，转而与Salesforce洽谈，涉及金额达15亿美元。",
-        "comment": "放弃已签条款转向巨头，估值博弈或生变。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Anthropic揭示失控AI代理也讨厌CAPTCHA",
+        "title": "Anthropic揭示失控AI代理同样厌恶CAPTCHA",
         "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-        "summary": "Anthropic披露，失控AI代理在试图证明自己是人类时，同样对CAPTCHA验证感到厌烦，揭示其行为与人类相似。",
+        "summary": "Anthropic研究披露，失控AI代理在试图向互联网证明自己是人类时，对CAPTCHA验证表现出与人类相似的厌恶反应。",
         "comment": "AI越像人，越暴露验证机制的脆弱。",
         "image": "",
-        "score": 98
+        "score": 99
       },
       {
         "category": "人工智能",
         "tag": "创投",
         "title": "马克·沃尔伯格将出席TechCrunch Disrupt 2026",
         "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-        "summary": "马克·沃尔伯格将与Bruce K. Lee在Disrupt对谈，聚焦投资、创业、医疗健康与商业构建，而非个人演艺经历。",
-        "comment": "明星跨界创投，话题转向商业实操，看点有限。",
+        "summary": "马克·沃尔伯格将与Bruce K. Lee在Disrupt对谈，聚焦投资、创业、医疗健康与商业构建，而非其个人演艺事业。",
+        "comment": "明星跨界创投，话题性大于行业实质影响。",
         "image": "",
         "score": 96
       },
       {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "分析师称GTA 6预告片单日为Netflix带来10万美国新用户",
-        "link": "https://www.gamespot.com/articles/gta-6-trailer-drove-100000-netflix-sign-ups-in-the-us-alone-in-one-day-analyst-claims/",
-        "summary": "Netflix与Rockstar合作发布26分钟GTA 6加长版预告片，分析师称该片在美国单日带动约10万Netflix注册，显示游戏IP对流媒体的引流效应。",
-        "comment": "游戏IP正成为流媒体拉新的新杠杆。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-11.16.01-AM.png?w=300",
-        "score": 93
-      },
-      {
         "category": "数码科技",
-        "tag": "iPhone Duo",
-        "title": "iPhone Duo 首发上手：唯一值两万元的折叠屏",
-        "link": "https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿发布 iPhone Duo 首发上手体验，称其屏幕宛若透明，整体表现全方位超预期，并评价其为唯一值两万元的折叠屏。",
-        "comment": "折叠屏高价能否被体验说服，关键看量产一致性。",
+        "tag": "新能源汽车",
+        "title": "银河TT上市：补贴后12.99万起，全系800V",
+        "link": "https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "银河TT正式上市，补贴后起售价12.99万元，全系标配800V高压平台与宁德时代定制电池，兼顾性能与家庭需求。",
+        "comment": "800V下探至13万级，性价比攻势凶猛。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "智己",
+        "tag": "iPhone",
+        "title": "iPhone Duo 首发上手：唯一值两万元的折叠屏",
+        "link": "https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿发布 iPhone Duo 首发上手体验，称其折叠屏效果宛若透明，整体表现全方位超出预期。",
+        "comment": "折叠屏定价两万，苹果这次靠体验撑住了溢价。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "智己汽车",
         "title": "全新智己LS6预售20.99万元起，全系标配全线控底盘",
         "link": "https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "智己全新LS6开启预售，起售价20.99万元，全系标配全线控底盘，将这一技术作为品牌核心卖点。",
@@ -194,20 +154,10 @@
       },
       {
         "category": "数码科技",
-        "tag": "新能源汽车",
-        "title": "银河TT上市：补贴后12.99万元起，全系800V",
-        "link": "https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "银河TT正式上市，补贴后售价12.99万元起，全系标配800V高压平台与宁德时代定制电池，兼顾性能与家庭需求。",
-        "comment": "800V下探至13万级，性价比攻势明显。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
         "tag": "iPhone",
         "title": "iPhone 18 Pro 发布：外观微调，内部全面升级",
         "link": "https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iPhone 18 Pro 正式发布，外观变化不大，但内部配置全面升级，售价也有所上涨。",
+        "summary": "iPhone 18 Pro 正式发布，外观变化不大但内部配置全面升级，价格也有所上涨。",
         "comment": "苹果延续挤牙膏式更新，涨价却毫不含糊。",
         "image": "",
         "score": 91
@@ -215,10 +165,10 @@
       {
         "category": "游戏影视",
         "tag": "Steam",
-        "title": "Wardogs Steam首发火爆 服务器排队严重",
+        "title": "Wardogs Steam开局火爆 服务器排队严重",
         "link": "https://www.gamespot.com/articles/wardogs-has-a-massive-start-on-steam-but-players-face-brutal-sever-queues/",
-        "summary": "Wardogs在Steam上线后玩家数量激增，但服务器问题导致大量玩家排队等待。官方已发布热修复补丁，登录后卡在队列中的玩家需关闭游戏下载更新。",
-        "comment": "爆款开局被服务器拖了后腿，修复速度是关键。",
+        "summary": "Wardogs在Steam上线后玩家数量激增，但服务器问题导致大量玩家排队。官方已发布热修复补丁，登录后卡在队列中的玩家需关闭游戏才能下载更新。",
+        "comment": "爆款开局被服务器拖累，修复速度是关键。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WD.jpg?w=300",
         "score": 91
       },
@@ -227,38 +177,28 @@
         "tag": "云游戏",
         "title": "亚马逊Luna推出远程同玩功能",
         "link": "https://www.gamespot.com/articles/amazon-luna-introduces-its-most-ambitious-feature-yet-in-a-rough-month-for-cloud-gaming/",
-        "summary": "亚马逊Luna九月更新上线Remote Play，支持异地玩家同房共玩，在云游戏行业动荡期推出这一功能。",
-        "comment": "云游戏竞争转向社交体验，Luna押注远程同玩。",
+        "summary": "亚马逊Luna九月更新上线Remote Play，支持异地玩家同室游玩，在云游戏行业动荡期推出这一功能。",
+        "comment": "云游戏差异化竞争，社交玩法是关键突破口。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Amazon-Luna-games.png?w=300",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "新能源汽车",
-        "title": "理想i6换中创新航电芯，9月新车前瞻",
+        "title": "理想i6换中创新航电芯，9月新车提前看",
         "link": "https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "理想i6改用中创新航电芯，极氪9X光辉与Model Y性能版现身，9月多款新车提前曝光。",
-        "comment": "电芯换供应商，理想在成本与性能间找平衡。",
+        "summary": "理想i6改用中创新航电芯，极氪9X光辉与Model Y性能版现身，9月多款新车集中亮相。",
+        "comment": "电芯换供，成本与产能博弈的信号。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "亚马逊Luna",
-        "title": "亚马逊Prime会员9月免费领《毁灭战士：永恒》等11款游戏",
-        "link": "https://www.gamespot.com/articles/amazon-prime-members-get-doom-eternal-and-10-more-games-for-free-in-september/",
-        "summary": "亚马逊Luna公布9月Prime会员免费游戏阵容，共11款，主打第一人称射击游戏《毁灭战士：永恒》，其余游戏名单同步揭晓。",
-        "comment": "云游戏借免费阵容拉新，射击大作是有效钩子。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4124666-doom-eternal.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
         "tag": "任天堂",
-        "title": "任天堂Switch 2更新23.0.0，菜单与eShop终于不再死寂",
+        "title": "任天堂Switch 2系统更新增添活力",
         "link": "https://www.gamespot.com/articles/nintendo-finally-adds-some-life-to-the-switch-2/",
-        "summary": "任天堂为Switch 2推送23.0.0版本更新，为长期静默的菜单和eShop加入了一些新内容，让界面不再显得毫无生气。",
-        "comment": "迟来的小修小补，聊胜于无。",
+        "summary": "任天堂Switch 2的23.0.0版本更新为菜单和eShop注入了一些新活力，改善了此前两代Switch系统界面和商店过于沉寂的问题。",
+        "comment": "迟来的界面优化，总算让系统不再死气沉沉。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/20260910-01M26J492AFRC6ZHJ4RSWY9MTM-12D75A81-95AA-4B1A-A9D1-89FFB8792B35.jpeg?w=300",
         "score": 89
       }
