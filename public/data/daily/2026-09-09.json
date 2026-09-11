@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "OpenAI",
         "title": "OpenAI呼吁抓住AI政策窗口期",
         "link": "https://openai.com/index/ai-policy-window",
-        "summary": "OpenAI的Chris Lehane发文称，AI能力越强，越需要更强的安全证据、共同标准和持久的政策行动，呼吁在政策窗口仍开放时采取行动。",
-        "comment": "能力越强，安全与监管越不能滞后。",
+        "summary": "OpenAI的Chris Lehane撰文称，AI能力越强，越需要更强的安全证据、共同标准与持久政策行动，呼吁在政策窗口仍开放时采取行动。",
+        "comment": "能力越强，安全与政策越不能滞后。",
         "image": "",
         "score": 100
       },
@@ -27,48 +27,18 @@
         "tag": "OpenAI",
         "title": "Paul Christiano加入OpenAI基金会董事会",
         "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-        "summary": "Paul Christiano加入OpenAI基金会董事会及安全与安保委员会，他在AI对齐、安全与标准方面经验丰富。",
-        "comment": "安全派核心人物入局，OpenAI治理再加固。",
+        "summary": "OpenAI宣布Paul Christiano加入基金会董事会及安全与安保委员会，其在AI对齐、安全与标准方面经验丰富。",
+        "comment": "安全派核心人物入局，OpenAI治理再添制衡。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
-        "tag": "教育Agent",
-        "title": "中国教育Agent首登联合国，或成Token新入口",
-        "link": "https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "中国教育Agent首次走进联合国，被视为继Coding之后下一个Token争夺入口，教育场景正成为AI大模型竞争新战场。",
-        "comment": "教育Agent出海联合国，Token入口争夺战升级。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "GPT Images",
+        "tag": "GPT",
         "title": "GPT Images 2.5 突发上线，网友抽象画作引热议",
         "link": "https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "GPT Images 2.5 突然上线，网友纷纷生成抽象离谱的「灵魂画作」，相关作品在社交平台引发讨论。",
-        "comment": "模型升级先被玩成梗，抽象效果反成传播点。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "阿维塔",
-        "title": "阿维塔9系官图发布，大六座补上但先锋设计让步",
-        "link": "https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "阿维塔发布9系新车官图，新增六座布局，但整体设计风格较以往更趋保守，被指不太像阿维塔。",
-        "comment": "为市场妥协设计，阿维塔在个性与实用间找平衡。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI办公",
-        "title": "办公Agent混战，TeleAgent凭什么入局",
-        "link": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析办公AI Agent赛道竞争格局，探讨新势力TeleAgent在巨头混战中切入市场的差异化路径与竞争筹码。",
-        "comment": "办公Agent混战正酣，新玩家需拿出真本事。",
+        "summary": "GPT Images 2.5 突然上线，用户生成大量抽象离谱画作，引发社交平台讨论。",
+        "comment": "模型升级快，但生成质量仍待观察。",
         "image": "",
         "score": 90
       }

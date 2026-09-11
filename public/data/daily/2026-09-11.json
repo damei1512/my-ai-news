@@ -4,51 +4,131 @@
     "articles": [
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "和风动作RPG《胧村正怪奇谭》定档2027年2月5日",
-        "link": "https://www.gcores.com/articles/219562",
-        "summary": "Marvelous与Vanillaware联合推出和风动作RPG《胧村正怪奇谭》，定于2027年2月5日发售。游戏以妖怪肆虐的元禄时代为舞台，六位主角各怀目的，展开六段奇幻怪谈与剑戟动作体验。",
-        "comment": "Vanillaware新作定档，和风绘卷与剑戟动作值得期待。",
+        "tag": "掌机",
+        "title": "Retroid Pocket Duo 掌机曝光，专为 DS 与 3DS 模拟打造",
+        "link": "https://www.ign.com/articles/the-retroid-pocket-duo-looks-perfect-for-ds-and-3ds-emulation",
+        "summary": "IGN 报道称 Retroid Pocket Duo 掌机外观与设计适合 DS 和 3DS 模拟，正值掌机市场因 Switch 与 Steam Deck 迎来复兴。",
+        "comment": "双屏模拟掌机填补细分空白，但版权风险仍存。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/11/retroid-pocketduo-1789087167310.jpg",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "健康AI",
+        "title": "外滩大会观察：健康AI与硬件融合新路径",
+        "link": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "外滩大会展示健康AI与硬件结合的新方向，探讨如何让AI硬件成为用户长期使用的健康服务，而非短期尝鲜产品。",
+        "comment": "健康AI硬件需解决长期使用黏性，而非堆砌功能。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "数码科技",
-        "title": "早报：iPhone Duo炒作、人人影视再下架、高德避雷指南",
+        "tag": "GPT-6",
+        "title": "GPT-6爆火3D案例被指用现成素材，爱范儿实测复现",
+        "link": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿发现GPT-6爆火的3D生成案例使用了现成素材，并非完全由AI生成，随后亲自实测GPT-6搭配Hyper3D MCP的3D创作能力。",
+        "comment": "爆款案例掺水，实测才能看清AI真实水平。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果折叠iPhone曝光：iOS液态玻璃设计成亮点",
+        "link": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道称，苹果折叠iPhone最惊艳之处在于iOS系统对液态玻璃设计的适配，折叠形态与系统交互深度融合。",
+        "comment": "折叠屏竞争进入系统体验深水区。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《战狗》抢先体验销量破125万份",
+        "link": "https://www.gcores.com/articles/219584",
+        "summary": "BULKHEAD与Team17的百人战术FPS《战狗》登陆Steam抢先体验后销量突破125万份，官方确认2028年登陆PS5和Xbox，此前多轮测试反响热烈。",
+        "comment": "抢先体验即破百万，战术FPS赛道仍有爆发力。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏耳机",
+        "title": "SteelSeries Arctis Nova Pro 无线耳机降至250美元",
+        "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-september-2026",
+        "summary": "SteelSeries Arctis Nova Pro 无线游戏耳机迎来降价，售价降至250美元，其主打无限续航与零停机无线体验。",
+        "comment": "旗舰无线耳机降价，续航优势仍是核心卖点。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/11/steelseriesarctisnovapro-1789085830354.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6 发售在即，Take-Two 股价为何低迷",
+        "link": "https://www.gamespot.com/articles/gta-6-is-going-to-be-huge-so-why-is-take-twos-stock-having-such-a-bad-year/",
+        "summary": "Take-Two 旗下 GTA 6 将于今年 11 月发售，市场热度极高，但公司股价今年表现不佳，文章分析这一反差背后的原因。",
+        "comment": "爆款预期难掩市场对成本与延期的担忧。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Jason_and_Lucia_09.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "iPhone Duo提前炒作，人人影视回归再下架",
         "link": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星借iPhone Duo调侃苹果，OpenAI限制竞品在ChatGPT投放广告，奥迪在华重划双品牌，人人影视回归约10天再次下架，高德上线避雷指南1.0。",
-        "comment": "科技圈热点密集，但炒作与下架更抢眼。",
+        "summary": "三星借iPhone Duo发布调侃苹果，OpenAI限制竞品在ChatGPT投放广告，奥迪在华重划双品牌，人人影视回归约10天再次下架。",
+        "comment": "科技圈热点频出，但炒作与下架更值得关注。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "恐怖游戏",
-        "title": "四人合作中式恐怖游戏《捉迷藏》公开Demo",
-        "link": "https://www.gcores.com/articles/219556",
-        "summary": "奇门互娱开发、IndieArk发行的四人联机恐怖游戏《捉迷藏》公开Demo，玩家组队进入废弃老楼，合作解谜调查十年前火灾案。",
-        "comment": "中式恐怖加四人合作，题材讨巧，关键看联机体验。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战锤40K",
-        "title": "《战锤40K：战争黎明4》发布三份新战报",
-        "link": "https://www.gcores.com/articles/219555",
-        "summary": "KING Art Games发布三份《战锤40K：战争黎明4》新战报，展示多人模式，首战为欧克蛮人与太空死灵1v1对决，并首次揭开2v2模式。",
-        "comment": "战报连发，多人模式细节渐明，值得关注。",
+        "tag": "漫威金刚狼",
+        "title": "《漫威金刚狼》媒体评分汇总：IGN与GameSpot双六分",
+        "link": "https://www.gcores.com/articles/219582",
+        "summary": "Insomniac开发的《漫威金刚狼》与《漫威蜘蛛侠》共享1048号宇宙，讲述罗根对抗特拉斯克的故事。游戏9月15日发售，IGN和GameSpot均给出6分。",
+        "comment": "双六分说明品质尚可但未达预期，原创故事是看点。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "Steam",
-        "title": "Steam周销量榜：《黎明行者之血》登顶",
-        "link": "https://www.gcores.com/articles/219437",
-        "summary": "V社公布2026年9月第1周Steam全球销量榜，排除免费游戏。《黎明行者之血》登顶，《鬼武者 Way of the Sword》位列第二。",
-        "comment": "新作登顶，榜单含金量值得关注。",
+        "title": "彼岸花团队新作《血色序曲》Steam抢先体验开启",
+        "link": "https://www.gcores.com/articles/219588",
+        "summary": "Lightbulb Crew新作《血色序曲》登陆Steam抢先体验，售价68元，首两周九折61.2元，与《彼岸花》捆绑可再享九折。",
+        "comment": "回合战术肉鸽再添新作，定价亲民值得一试。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "伊藤润二风温馨恐怖种田RPG《欢迎来到古原镇》登陆PC",
+        "link": "https://www.gcores.com/articles/219586",
+        "summary": "温馨恐怖RPG《欢迎来到古原镇》正式登陆Steam，售价59元，首两周九折。玩家将在怪诞小镇中种田，面对古怪居民与离奇新闻。",
+        "comment": "温馨与恐怖混搭，风格独特值得关注。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "护核纪元",
+        "title": "《护核纪元》免费大型更新9月21日上线",
+        "link": "https://www.gcores.com/articles/219578",
+        "summary": "沙盒冒险游戏《护核纪元》将于9月21日推出免费大型更新“地下骑手”，首次加入可骑乘坐骑系统，面向PC及主机平台所有玩家。",
+        "comment": "免费加坐骑，老玩家回坑的好时机。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "AI辅助无传送带工厂游戏《奇迹工厂》9月21日Steam发售",
+        "link": "https://www.gcores.com/articles/219589",
+        "summary": "《奇迹工厂》9月21日登陆Steam，融合编程指令与无传送带设计，玩家在末日世界指挥自动机建设工厂、挖掘遗迹、发展科技。",
+        "comment": "无传送带加编程指令，工厂品类值得关注。",
         "image": "",
         "score": 89
       },
@@ -57,20 +137,130 @@
         "tag": "孩之宝",
         "title": "孩之宝回应国土安全部用AI擎天柱发驱逐帖",
         "link": "https://www.ign.com/articles/hasbro-dhs-ai-optimus-prime-deportation-response",
-        "summary": "美国国土安全部在驱逐相关宣传中使用AI生成的擎天柱形象，孩之宝对此作出回应，强调该角色未经授权被用于政治内容。",
-        "comment": "IP被政治挪用，品牌方切割也难挡争议。",
+        "summary": "美国国土安全部在驱逐宣传中使用AI生成的擎天柱形象，孩之宝对此作出回应，强调品牌角色不应被用于政治宣传。",
+        "comment": "品牌IP被政治挪用，企业切割难掩形象受损。",
         "image": "https://assets-prd.ignimgs.com/2026/09/11/optimus-movie-1280x-1789085637281.jpg",
         "score": 89
       },
       {
-        "category": "时事热点",
-        "tag": "瑞士",
-        "title": "瑞士阿尔卑斯山旅游大巴翻车致多人死亡",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-        "summary": "一辆载有数十名荷兰乘客的旅游大巴在瑞士东南部阿尔卑斯山区翻车，造成多人死亡。事故原因尚在调查中。",
-        "comment": "阿尔卑斯山区路况复杂，旅游大巴安全再敲警钟。",
+        "category": "游戏影视",
+        "tag": "Epic",
+        "title": "Epic喜加二：《星座上升》《Luftrausers》免费领",
+        "link": "https://www.gcores.com/articles/219559",
+        "summary": "Epic商城开启喜加二活动，即日起至9月17日晚11时，玩家可免费领取总价99元的《星座上升》与《Luftrausers》。《星座上升》是2D平台rogue-lite游戏，玩家需从十二星宫监狱逃离。",
+        "comment": "Epic持续送游戏，玩家福利稳定。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "积木解谜新作《木木屋》9月17日发售",
+        "link": "https://www.gcores.com/articles/219585",
+        "summary": "温馨解谜游戏《木木屋》将于9月17日凌晨发售，开发商Tiny Monks Tales与发行商Daedalic发布宣传片，玩家可与小狐狸弗希和青蛙阿本共度童年夏日。",
+        "comment": "治愈系解谜小品，适合休闲玩家关注。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "音游",
+        "title": "下落式音游《白金档案》正式发售",
+        "link": "https://www.gcores.com/articles/219577",
+        "summary": "韩国工作室HIGH-END GAMES开发的下落式音游《白金档案PLATiNA :: LAB》结束Steam抢先体验正式发售，为经典下落式品类再添新成员。",
+        "comment": "下落式音游常青，但突围仍需差异化。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "机核录音笔VOL.784：学会停止恐惧并爱上表达",
+        "link": "https://www.gcores.com/radios/219583",
+        "summary": "机核GPASS会员专享节目录音笔第784期，记录办公室日常碎碎念与真实对话，每期约十几分钟，内容随机不定。",
+        "comment": "会员向闲聊节目，选题随意，适合机核老听众。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "菲律宾",
+        "title": "菲律宾渡轮起火40小时后救援人员登船",
+        "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+        "summary": "菲律宾一艘渡轮起火40小时后，救援人员登船。浓烟有毒且温度极高，给救援带来严峻挑战。",
+        "comment": "救援窗口极窄，伤亡恐难乐观。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "瑞士",
+        "title": "瑞士阿尔卑斯山旅游大巴翻车致5死",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+        "summary": "一辆载有数十名荷兰游客的旅游大巴在瑞士东南部阿尔卑斯山区翻覆，造成5人死亡、多人受伤。",
+        "comment": "阿尔卑斯山区路况复杂，旅游大巴安全再敲警钟。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "跨国诈骗",
+        "title": "六名尼日利亚人因恋爱诈骗将被引渡至美国",
+        "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+        "summary": "南非警方称，六名尼日利亚人因涉嫌恋爱诈骗将在美国面临电汇欺诈和洗钱指控，即将被引渡。",
+        "comment": "跨国恋爱诈骗产业链再遭打击，引渡彰显执法协作。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "法国",
+        "title": "法国男子威胁斩首儿子老师被判监禁",
+        "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+        "summary": "法国一名父亲因儿子在课堂被管教，威胁杀死一名小学女教师，并扬言将其斩首，现已被判监禁。",
+        "comment": "针对教师的暴力威胁必须严惩，校园安全不容妥协。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "戴安娜王妃",
+        "title": "戴安娜王妃“复仇裙”将拍卖",
+        "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+        "summary": "苏富比拍卖行预计，戴安娜王妃的“复仇裙”将于12月9日拍卖，成交价最高可达30万美元（22万英镑）。",
+        "comment": "戴安娜的时尚遗产仍具强大市场号召力。",
+        "image": "",
+        "score": 84
+      },
+      {
+        "category": "时事热点",
+        "tag": "新加坡",
+        "title": "新加坡男子追讨36.9万新元礼物败诉",
+        "link": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+        "summary": "新加坡高等法院裁定一名男子败诉，他向前女友追讨交往期间赠送的36.9万新元奢侈礼物。法官指出，这些礼物是男子自愿赠送，甚至早于两人正式交往。",
+        "comment": "自愿赠与难追回，法律不保护恋爱中的冲动。",
+        "image": "",
+        "score": 83
+      },
+      {
+        "category": "时事热点",
+        "tag": "BBC World",
+        "title": "BBC World：Anthropic事件进展",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "summary": "这条来自BBC World的时事热点消息，重点围绕Anthropic等风险变化展开，值得继续关注后续回应。",
+        "comment": "我的判断：这类消息要继续盯后续回应和影响范围，短期内不宜过早下结论。",
+        "image": "",
+        "score": 80
+      },
+      {
+        "category": "时事热点",
+        "tag": "BBC World",
+        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+        "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+        "comment": "BBC World 最新更新。",
+        "image": "",
+        "score": 80
       }
     ]
   }
