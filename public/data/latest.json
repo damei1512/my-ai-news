@@ -1,93 +1,223 @@
 {
+  "2026-09-14": {
+    "week": "周一",
+    "articles": [
+      {
+        "category": "人工智能",
+        "tag": "GPT-6",
+        "title": "Perplexity用GPT-6 Astra端到端运维系统",
+        "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "summary": "Perplexity借助GPT-6 Astra撰写沟通内容、修改软件并监控生产系统，与早期模型相比人工检查频率大幅降低。",
+        "comment": "AI代理接管运维，信任与风险同步放大。",
+        "image": "",
+        "score": 100
+      }
+    ]
+  },
+  "2026-09-12": {
+    "week": "周六",
+    "articles": [
+      {
+        "category": "游戏影视",
+        "tag": "笔记本",
+        "title": "联想Yoga 7X轻薄本降价950美元",
+        "link": "https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-september-2026",
+        "summary": "联想Yoga 7X超轻薄笔记本搭载新款骁龙X2 Elite处理器，重2.6磅，现优惠950美元，适合学生和移动办公人士。",
+        "comment": "骁龙X2 Elite轻薄本大降价，移动办公值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/12/lenovoyogaslim7x-1789173870556.jpg",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果CEO回应折叠屏迟到：不做半成品",
+        "link": "https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果CEO特努斯回应折叠屏迟到，称不做半成品；长鑫存储利润率超三星海力士；特斯拉Model Y高性能版36.9万元上市。",
+        "comment": "苹果宁缺毋滥，但折叠屏窗口期不等人。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "时事热点",
+        "tag": "菲律宾",
+        "title": "菲律宾渡轮火灾死亡人数升至35人，仍有数十人失踪",
+        "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "summary": "菲律宾海岸警卫队称，因有毒烟雾和余热阻碍，救援人员难以进入被烧毁的渡轮，死亡人数已升至35人，仍有数十人失踪。",
+        "comment": "渡轮火灾频发，暴露菲律宾海上安全监管漏洞。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国社会",
+        "title": "密西西比州黑人女性被吊死案一人被捕",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国密西西比州一名黑人女性塔西娅·福琼被发现吊死在废弃房屋旁，事件引发关注，目前已有涉案人员被捕。",
+        "comment": "案件疑点重重，逮捕能否揭开真相值得关注。",
+        "image": "",
+        "score": 86
+      }
+    ]
+  },
   "2026-09-11": {
     "week": "周五",
     "articles": [
       {
         "category": "人工智能",
-        "tag": "月之暗面",
-        "title": "月之暗面Kimi目标年收入20亿美元",
-        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-        "summary": "月之暗面为Kimi设定20亿美元年收入目标。尽管K3近期使用量略有下滑，OpenRouter数据显示其每日仍生成多达3000亿token。",
-        "comment": "中国大模型商业化进入收入验证阶段。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "AI安全",
         "title": "Anthropic研究员离职警告超级智能风险",
         "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-        "summary": "Anthropic一名研究员本周辞职，在X发帖警告公司正\"直奔自我改进的超级智能，拿我们的生命赌博\"，引发对AI安全与商业化速度的争议。",
-        "comment": "内部人反水，AI安全警钟再响。",
+        "summary": "Anthropic一名研究员本周辞职，在X发帖警告公司正“直奔自我改进的超级智能，拿我们的生命赌博”，引发对AI安全与商业竞争矛盾的关注。",
+        "comment": "内部人警告与融资节奏撞车，安全承诺再受拷问。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI存储架构支撑10亿ChatGPT用户",
+        "title": "OpenAI存储系统支撑10亿ChatGPT用户",
         "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
         "summary": "OpenAI将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户、每秒2200万次请求。",
-        "comment": "存储工程是AI规模化的隐形战场。",
+        "comment": "AI规模竞赛已延伸至底层存储基础设施。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
+        "tag": "GPT-6",
+        "title": "Cognition用GPT-6 Astra助Devin自测代码",
+        "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+        "summary": "OpenAI称GPT-6 Astra提升了Devin测试软件并验证功能的能力，目标是让工程师减少代码审查、加快交付。",
+        "comment": "AI编程代理正从写代码转向自验证闭环。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "机器人",
+        "title": "Mecka AI 获红杉领投，估值近5亿美元",
+        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "summary": "成立两年的机器人训练数据公司 Mecka AI 正进行红杉领投的新一轮融资，估值接近5亿美元，距其A轮融资仅数月。",
+        "comment": "机器人数据赛道升温，资本抢滩卡位。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI与数学家矛盾持续升级",
+        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "summary": "25位顶尖数学家联名公开信，指责AI实验室威胁其智力工作，OpenAI与数学界的冲突进一步加剧。",
+        "comment": "AI与学术界的版权与伦理冲突正走向公开化。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "月之暗面",
+        "title": "月之暗面Kimi目标年收入20亿美元",
+        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+        "summary": "月之暗面为Kimi设定20亿美元年收入目标。OpenRouter数据显示，K3模型日生成量达3000亿token，但近期使用量略有下滑。",
+        "comment": "营收目标激进，需验证商业化能力。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "YC合伙人Garry Tan呼吁美国开放权重AI实验室蒸馏前沿模型",
+        "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "summary": "Y Combinator的Garry Tan主张美国小型开放权重AI实验室应借鉴前沿实验室的训练技术，以增强美国开放权重模型的多样性和竞争力。",
+        "comment": "蒸馏前沿模型或成美国开放权重生态的捷径。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "人工智能",
         "tag": "Nscale",
-        "title": "Nscale 邀前 OpenAI 高管 Fidji Simo 加入董事会，筹备潜在 IPO",
+        "title": "Nscale 邀前 OpenAI 高管 Fidji Simo 加入董事会",
         "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-        "summary": "AI 基础设施公司 Nscale 宣布任命前 OpenAI 二号高管 Fidji Simo 为董事。Simo 曾于 2023 年带领 Instacart 完成上市，此举被视为 Nscale 筹备 IPO 的信号。",
-        "comment": "招揽 IPO 老将，Nscale 上市意图明显。",
+        "summary": "AI 云服务商 Nscale 在潜在 IPO 前任命前 OpenAI 二号人物 Fidji Simo 为董事，她曾于 2023 年带领 Instacart 上市。",
+        "comment": "IPO 前补强治理，Simo 的上市经验是关键筹码。",
         "image": "",
         "score": 98
       },
       {
         "category": "人工智能",
         "tag": "科技活动",
-        "title": "TechCrunch Disrupt 2026 周边活动申请今晚截止",
+        "title": "TechCrunch Disrupt 2026展位预订仅剩一周",
+        "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+        "summary": "TechCrunch Disrupt 2026展位预订仅剩一周，展位数量有限，可能在9月18日截止前售罄，需尽快锁定。",
+        "comment": "活动招商信息，与AI技术本身无关。",
+        "image": "",
+        "score": 94
+      },
+      {
+        "category": "人工智能",
+        "tag": "TechCrunch",
+        "title": "TechCrunch Disrupt 2026 边会申请今晚截止",
         "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "summary": "TechCrunch Disrupt 2026 官方周边活动主办申请将于太平洋时间9月11日23:59截止，这是最后机会，逾期不再受理。",
-        "comment": "活动申请截止提醒，与AI技术本身无关。",
+        "summary": "TechCrunch Disrupt 2026 官方边会主办申请将于太平洋时间9月11日23:59截止，这是最后机会。",
+        "comment": "活动运营提醒，非行业重大新闻。",
         "image": "",
         "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "PlayStation",
-        "title": "IGN称PlayStation前景从未如此黯淡",
-        "link": "https://www.ign.com/articles/playstations-future-has-never-looked-bleaker",
-        "summary": "IGN指出，与科吉马工作室切割以及《金刚狼》游戏评价不佳，只是PlayStation本世代困境的最新表现，平台前景从未如此黯淡。",
-        "comment": "独占优势减弱，索尼需重振第一方信心。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/11/ps-op-ed-blogroll-1789142526895.webp",
+        "tag": "显示器",
+        "title": "Alienware发布全球首款39英寸5K RGB条纹串联OLED显示器",
+        "link": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
+        "summary": "Alienware推出全球首款39英寸5K显示器，采用RGB条纹串联OLED技术，兼顾游戏与工作站生产力，现已发货。",
+        "comment": "5K加串联OLED，高端显示器再立新标杆。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/27/alienwareaw3926qw-1787853630470.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏行业",
+        "title": "《Moss》开发商Polyarc宣布关闭",
+        "link": "https://www.ign.com/articles/polyarc-dev-behind-the-critically-acclaimed-moss-series-is-shutting-down",
+        "summary": "曾开发广受好评的《Moss》系列游戏的Polyarc Games宣布将关闭工作室，具体原因和后续安排尚未公布。",
+        "comment": "叫好不叫座的VR游戏再失一员。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/11/moss-developer-1789162441927.png",
         "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "迈阿密批准GTA 6低调营销，以修缮足球场",
-        "link": "https://www.ign.com/articles/miami-approves-discreet-gta-6-marketing-campaign-so-the-city-can-fix-its-football-field",
-        "summary": "迈阿密市议会批准Rockstar《GTA 6》在当地开展低调营销活动，相关收益将用于修缮足球场，该方案引发争议。",
-        "comment": "游戏营销换球场修缮，商业与公共利益的微妙交易。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/10/jason-and-lucia-09-1789080468436.jpg",
+        "title": "GTA 6粉丝误认裸体度假村，真实地点遭差评轰炸",
+        "link": "https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks",
+        "summary": "GTA 6粉丝认为游戏中的裸体度假村灵感来自现实地点，导致该度假村被大量问题评论轰炸。",
+        "comment": "游戏狂热波及无辜商家，玩家需理性。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/27/hqwvs5ax0aacam-1787862270241.jpg",
         "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂Switch 2未来游戏发售日一览",
-        "link": "https://www.ign.com/articles/all-upcoming-nintendo-switch-2-games",
-        "summary": "IGN汇总Switch 2已公布游戏发售日期，涵盖2026年及之后阵容，展现新主机游戏库建设进度。",
-        "comment": "阵容尚薄，发售表是观察Switch 2前景的关键窗口。",
-        "image": "https://assets-prd.ignimgs.com/2026/01/23/switch2games-1769208267817.jpg",
+        "tag": "游戏手柄",
+        "title": "SteelSeries Aeon Pro 无线手柄上市，续航无限",
+        "link": "https://www.ign.com/articles/preorder-the-steelseries-aeon-pro-wireless-gaming-controller",
+        "summary": "SteelSeries 推出 Aeon Pro 无线游戏手柄，主打“无限续航”，面向 PC 和 Xbox 平台，IGN 称其可能是最佳无线手柄。",
+        "comment": "无限续航是卖点，但实际体验待验证。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/09/steelseriesaeonpro-1788974032519.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏本",
+        "title": "华硕ROG Flow Z13游戏本降价900美元",
+        "link": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-deal-september-2026-updated",
+        "summary": "华硕ROG Flow Z13二合一游戏本直降900美元，比Xbox Ally X20更强更全能，重量仅比掌机重约一磅。",
+        "comment": "二合一游戏本降价，性价比反超掌机。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/08/asusflowz13-1788885599550.jpg",
         "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "EA",
-        "title": "EA新东家或酝酿更大游戏帝国合并",
+        "title": "EA被收购后或酝酿更大游戏帝国合并",
         "link": "https://www.gamespot.com/articles/eas-new-owners-may-be-considering-an-even-bigger-gaming-empire/",
-        "summary": "EA已正式被出售，沙特公共投资基金成为其多数股东，据报道正洽谈将EA与另一家游戏公司合并，以组建更大规模的游戏帝国。",
+        "summary": "EA已正式被出售，沙特公共投资基金成为其多数股东，据报道正洽谈将其与另一家公司合并，以打造更庞大的游戏版图。",
         "comment": "资本整合加速，游戏业格局或再洗牌。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/EA-Games.jpg?w=300",
         "score": 93
@@ -95,62 +225,112 @@
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果折叠iPhone曝光：iOS液态玻璃设计成亮点",
+        "title": "苹果折叠iPhone曝光：液态玻璃设计惊艳",
         "link": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道苹果折叠iPhone，称其真正折叠的是iOS系统，液态玻璃设计带来惊艳体验，或重新定义折叠屏交互。",
-        "comment": "折叠屏竞争转向系统体验，苹果后发优势待验证。",
+        "summary": "爱范儿报道苹果折叠iPhone，其液态玻璃设计在折叠瞬间带来惊艳视觉，并重新诠释iOS交互逻辑。",
+        "comment": "折叠的不只是屏幕，更是iOS交互逻辑。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "万智牌",
-        "title": "万智牌新卡可摧毁整个宇宙",
-        "link": "https://www.ign.com/articles/magic-the-gatherings-reality-fracture-spoiler-card-reveal",
-        "summary": "IGN首曝《万智牌》新系列Reality Fracture两张新卡，其中一张传奇神器能摧毁整个宇宙并消灭你的生物。",
-        "comment": "强度夸张，或成新赛制焦点。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/11/reality-fracture-blogroll-1789150319007.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏预告",
-        "title": "本周值得看的9支游戏影视预告",
-        "link": "https://www.ign.com/articles/biggest-game-movie-tv-trailers-this-week-sept-5-11",
-        "summary": "IGN汇总本周重点预告，涵盖两场任天堂直面会、《哥斯拉：零》新作、内森·菲尔德新纪录片及迈克·弗拉纳根版《魔女嘉莉》等。",
-        "comment": "预告扎堆，任天堂与恐怖片最值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/11/ravenous-samus-1789148299994.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "生化危机新片因试映太搞笑，导演删减多数笑点",
-        "link": "https://www.ign.com/articles/they-thought-it-was-too-funny-zach-cregger-says-hes-cut-most-of-the-jokes-from-his-resident-evil-movie-following-test-screenings",
-        "summary": "《生化危机》导演扎克·克雷格称，试映观众认为影片“太搞笑”，因此他删掉了大部分笑话，调整影片基调。",
-        "comment": "试映反馈左右创作，恐怖片怕笑场。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/24/resident-evil-movie-trailer-comments-1784908375651.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影",
-        "title": "《Coyote vs. Acme》4K铁盒版开启预售",
-        "link": "https://www.ign.com/articles/coyote-vs-acme-4k-steelbook-where-to-buy",
-        "summary": "IGN报道，《Coyote vs. Acme》4K铁盒版、普通4K版及蓝光版已正式开启预售，并列出各版本预购渠道。",
-        "comment": "曾被搁置的影片终获实体发行，粉丝可放心预购。",
-        "image": "https://assets-prd.ignimgs.com/2026/04/22/acmethumb-1776874925112.png",
+        "tag": "美剧",
+        "title": "《惊爆点》剧集获AMC开绿灯",
+        "link": "https://www.ign.com/articles/point-break-tv-show-gets-the-green-light-at-amc",
+        "summary": "AMC正式批准改编自1991年电影《惊爆点》的电视剧集，该项目此前已筹备一段时间，目前进入制作阶段。",
+        "comment": "经典IP翻拍剧集，成败取决于能否还原原作极限运动与警匪张力。",
+        "image": "https://assets-prd.ignimgs.com/2025/12/16/gettyimages-51730643-1765889185609.jpg",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "Rockstar 用反无人机与黑客手段保密《GTA 6》",
+        "title": "Rockstar 用反无人机与防黑客手段保护 GTA 6 机密",
         "link": "https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/",
-        "summary": "GameSpot 报道，Rockstar 在听证会中披露为防《GTA 6》内容泄露，采取反无人机、防黑客等安保措施，以保护这款备受期待游戏的机密。",
-        "comment": "顶级大作保密战已升级到反无人机级别。",
+        "summary": "GameSpot 报道，Rockstar 在听证会中披露为防 GTA 6 内容泄露，采取反无人机、防黑客等安保措施，以守住这款备受期待游戏的秘密。",
+        "comment": "顶级大作保密战升级，折射泄露风险之高。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-Drones.jpg?w=300",
         "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6 发售在即，Take-Two 股价为何表现低迷",
+        "link": "https://www.gamespot.com/articles/gta-6-is-going-to-be-huge-so-why-is-take-twos-stock-having-such-a-bad-year/",
+        "summary": "Take-Two 旗下 GTA 6 将于今年 11 月发售，市场期待极高，但公司股价今年表现不佳，引发对其业绩与预期的讨论。",
+        "comment": "爆款预期难掩市场对发行商基本面的担忧。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Jason_and_Lucia_09.jpg?w=300",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "GPT-6",
+        "title": "GPT-6爆火3D案例被指用现成素材，爱范儿实测复现",
+        "link": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿发现GPT-6爆火的3D生成案例使用了现成素材，随后用GPT-6与Hyper3D MCP组合亲自实测3D创作效果。",
+        "comment": "爆款案例掺水，实测才是检验AI能力的硬标准。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《战狗 WARDOGS》销量突破125万份",
+        "link": "https://www.gcores.com/articles/219584",
+        "summary": "BULKHEAD与Team17的百人战术FPS《WARDOGS》登陆Steam抢先体验后销量突破125万份，官方确认2028年登陆PS5及Xbox，现可加入愿望单。",
+        "comment": "抢先体验即破百万，战术FPS赛道仍有爆发力。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "星球大战",
+        "title": "Citizen星球大战主题光动能计时腕表45%折扣",
+        "link": "https://www.ign.com/articles/citizens-star-wars-eco-drive-chronograph-mens-watch-deals",
+        "summary": "IGN报道，Citizen星球大战主题Eco-Drive计时男士腕表现享45%折扣，优惠力度较大。",
+        "comment": "星战联名腕表打折，粉丝可关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/11/citizenstarwars-1789166680870.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Switch 2",
+        "title": "Switch 2更新悄然改善数字游戏共享",
+        "link": "https://www.gamespot.com/articles/switch-2-update-secretly-makes-digital-game-sharing-much-better/",
+        "summary": "Switch 2最新系统更新在加入底座VRR支持之外，还悄然提升了数字游戏共享体验，为玩家带来一项实用的体验改进。",
+        "comment": "细节更新比VRR更实用，数字共享痛点缓解。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Switch2.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏产业",
+        "title": "分析师称《死亡搁浅》系列仅勉强回本，或解释索尼放弃Physint",
+        "link": "https://www.gamespot.com/articles/death-stranding-franchise-likely-barely-broke-even-could-explain-sony-dropping-physint-analyst/",
+        "summary": "分析师指出，《死亡搁浅》系列商业表现仅勉强收支平衡，这可能是索尼决定不再参与小岛秀夫新作Physint制作的原因。",
+        "comment": "销量未达预期，索尼收缩投资合乎逻辑。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/physint_key-art-835322867.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6限定手柄遭黄牛抢购转卖",
+        "link": "https://www.gamespot.com/articles/gta-6-dualsense-controller-scalpers-are-already-cashing-in/",
+        "summary": "GTA 6限定版DualSense手柄预购开启后，黄牛迅速抢购并高价转卖，重现2021年PS5/Xbox缺货时的倒卖乱象。",
+        "comment": "限定周边成黄牛新目标，普通玩家又难原价入手。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-6-DualSense.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "快充",
+        "title": "制糖工厂发布硬糖小魔头Max60：60W AVS动态快充",
+        "link": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，为新一代快充体验而来。",
+        "comment": "AVS快充落地配件，iPhone 18 Pro用户可关注。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "数码科技",
@@ -160,125 +340,25 @@
         "summary": "爱范儿在外滩大会观察到，健康AI与硬件结合正探索让用户长期使用的服务模式，而非短期噱头。",
         "comment": "健康AI硬件需解决长期使用难题，方向对了。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "GPT-6",
-        "title": "GPT-6 3D案例被指用现成素材，爱范儿实测复现",
-        "link": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿发现 GPT-6 爆火 3D 案例使用了现成素材，而非完全由模型生成，并亲自用 GPT-6 与 Hyper3D MCP 实测复现该创作流程。",
-        "comment": "案例翻车不掩工具价值，实测才是硬道理。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Wi-Fi 7",
-        "title": "TP-Link Deco 7 Pro Wi-Fi 7 网状系统五折优惠",
-        "link": "https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-september-2026",
-        "summary": "亚马逊最畅销的 Wi-Fi 7 路由器 TP-Link Deco 7 Pro BE10000 全屋网状系统目前五折促销，适合需要升级高速家庭网络的用户。",
-        "comment": "Wi-Fi 7 路由器半价，是升级家庭网络的好时机。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/11/tplinkdeco-1789147270202.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏优惠",
-        "title": "今日游戏优惠：宝可梦卡牌、塞尔达存储卡与Switch 2柯比",
-        "link": "https://www.ign.com/articles/best-deals-for-september-11-2026",
-        "summary": "IGN汇总周末前游戏优惠，涵盖宝可梦Destined Rivals ETB、1TB塞尔达MicroSD卡、Switch 2柯比，以及显示器、耳机等配件。",
-        "comment": "周末前促销，任天堂周边与配件值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/11/untitled-design-21-1789129638838.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Switch 2",
-        "title": "Switch 2更新悄然改善数字游戏共享",
-        "link": "https://www.gamespot.com/articles/switch-2-update-secretly-makes-digital-game-sharing-much-better/",
-        "summary": "Switch 2最新系统更新在加入底座VRR支持之外，还悄然改进了数字游戏共享功能，为玩家带来更便利的体验。",
-        "comment": "小更新解决大痛点，数字共享更实用。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Switch2.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "死亡搁浅",
-        "title": "分析师称《死亡搁浅》系列仅勉强回本，或解释索尼放弃Physint",
-        "link": "https://www.gamespot.com/articles/death-stranding-franchise-likely-barely-broke-even-could-explain-sony-dropping-physint-analyst/",
-        "summary": "分析师指出，《死亡搁浅》系列商业表现仅勉强收支平衡，这可能解释了索尼为何决定退出小岛秀夫新作Physint的制作。",
-        "comment": "销量平平或动摇索尼对小岛新作的信心。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/physint_key-art-835322867.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6限定手柄遭黄牛抢购转卖",
-        "link": "https://www.gamespot.com/articles/gta-6-dualsense-controller-scalpers-are-already-cashing-in/",
-        "summary": "GTA 6限定版DualSense手柄预购开启后，黄牛迅速抢购并高价转卖，重现2021年PS5/Xbox短缺时的倒卖乱象。",
-        "comment": "限定周边成黄牛新目标，玩家又得加价买。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-6-DualSense.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6 即将发售，Take-Two 股价为何全年低迷？",
-        "link": "https://www.gamespot.com/articles/gta-6-is-going-to-be-huge-so-why-is-take-twos-stock-having-such-a-bad-year/",
-        "summary": "Take-Two 旗下 GTA 6 将于今年 11 月发售，热度极高，但公司股价全年表现不佳，GameSpot 分析这一反差背后的原因。",
-        "comment": "爆款预期难掩市场对成本与延期的担忧。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Jason_and_Lucia_09.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "快充",
-        "title": "制糖工厂发布硬糖小魔头Max60：60W AVS快充",
-        "link": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，为新一代快充体验提供配件支持。",
-        "comment": "AVS快充落地，第三方配件抢先卡位。",
-        "image": "",
         "score": 90
       },
       {
         "category": "数码科技",
-        "tag": "数码科技",
-        "title": "早报：iPhone Duo炒作、人人影视再下架、高德避雷指南",
+        "tag": "苹果",
+        "title": "iPhone Duo传闻提前炒作，人人影视回归再下架",
         "link": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星借iPhone Duo调侃苹果，OpenAI限制竞品在ChatGPT投放广告，奥迪在华重划双品牌，人人影视回归约10天再下架，高德上线避雷指南1.0。",
-        "comment": "科技圈热点频出，但炒作与下架更值得警惕。",
+        "summary": "三星借iPhone Duo传闻调侃苹果，OpenAI限制竞品在ChatGPT投放广告，奥迪在华或重划双品牌，人人影视回归约10天再次下架。",
+        "comment": "传闻炒作与平台下架并行，科技圈热闹但实质有限。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "独立游戏",
-        "title": "无传送带AI工厂游戏《奇迹工厂》9月21日Steam发售",
-        "link": "https://www.gcores.com/articles/219589",
-        "summary": "《奇迹工厂》9月21日登陆Steam，融合编程指令与无传送带设计，玩家在末日世界指挥自动机，探索岛屿遗迹、重启科技，壮大工厂。",
-        "comment": "无传送带加编程，自动化玩法有新意，值得关注。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《战狗 WARDOGS》销量突破125万份",
-        "link": "https://www.gcores.com/articles/219584",
-        "summary": "BULKHEAD与Team17的百人战术FPS《WARDOGS》登陆Steam抢先体验后销量迅速突破125万份，官方确认2028年登陆PS5及Xbox，现可加入愿望单。",
-        "comment": "百人战术FPS抢先体验即破百万，主机版却要等到2028年。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Steam",
-        "title": "彼岸花团队新作《血色序曲》Steam抢先体验开启",
-        "link": "https://www.gcores.com/articles/219588",
-        "summary": "Lightbulb Crew新作《血色序曲》登陆Steam抢先体验，售价68元，首两周九折61.2元，与《彼岸花》捆绑可再享九折。",
-        "comment": "回合战术肉鸽再添新作，定价亲民但需看后续更新。",
+        "tag": "漫威金刚狼",
+        "title": "《漫威金刚狼》媒体评分汇总：IGN与GameSpot双六分",
+        "link": "https://www.gcores.com/articles/219582",
+        "summary": "Insomniac开发的《漫威金刚狼》9月15日发售，与《漫威蜘蛛侠》共享1048号宇宙。罗根为对抗绑架变种人的特拉斯克回归。IGN与GameSpot均给出6分。",
+        "comment": "双六分说明品质尚可但未达预期，原创故事是亮点。",
         "image": "",
         "score": 90
       },
@@ -287,37 +367,47 @@
         "tag": "独立游戏",
         "title": "伊藤润二风温馨恐怖种田RPG《欢迎来到古原镇》登陆PC",
         "link": "https://www.gcores.com/articles/219586",
-        "summary": "温馨恐怖RPG《欢迎来到古原镇》正式登陆Steam，售价59元，发售前两周九折。玩家将在古怪小镇中种田，面对离奇新闻与诡异居民，体验手绘美术与Lo-fi配乐。",
+        "summary": "温馨恐怖RPG《欢迎来到古原镇》正式登陆Steam，售价59元，发售前两周九折。玩家将面对古怪居民与离奇新闻，体验手绘美术与Lo-fi配乐。",
         "comment": "温馨与恐怖混搭，独立游戏值得关注。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "Hot Toys",
-        "title": "Hot Toys推出《漫威金刚狼》1/6人偶，硅胶手臂带毛发细节",
-        "link": "https://www.gamespot.com/articles/hot-toys-marvels-wolverine-figure-gets-the-details-right-right-down-to-the-hairy-silicone-arms/",
-        "summary": "Hot Toys发布《漫威金刚狼》游戏版1/6人偶，还原罗根造型，硅胶手臂甚至带有毛发细节，满足收藏者需求。",
-        "comment": "细节狂魔，连毛发都不放过。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Wolverine-main.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威金刚狼",
-        "title": "《漫威金刚狼》媒体评分汇总：IGN与GameSpot均给6分",
-        "link": "https://www.gcores.com/articles/219582",
-        "summary": "Insomniac Games开发的《漫威金刚狼》将于9月15日发售，与《漫威蜘蛛侠》共享1048号宇宙。IGN和GameSpot均给出6分，媒体评价一般。",
-        "comment": "双六分说明品质尚可但未达预期，原创故事是亮点。",
+        "tag": "独立游戏",
+        "title": "AI辅助无传送带工厂游戏《奇迹工厂》9月21日Steam发售",
+        "link": "https://www.gcores.com/articles/219589",
+        "summary": "《奇迹工厂》9月21日登陆Steam，融合编程指令与无传送带设计，玩家在末日世界指挥自动机，探索岛屿遗迹、发展科技、壮大工厂。",
+        "comment": "无传送带加编程，工厂品类的新解法值得关注。",
         "image": "",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "机核编辑谈老IP心理门槛",
+        "title": "彼岸花团队新作《血色序曲》开启抢先体验",
+        "link": "https://www.gcores.com/articles/219588",
+        "summary": "Lightbulb Crew新作《血色序曲》登陆Steam抢先体验，售价68元，首两周九折61.2元，与《彼岸花》捆绑可再享九折。",
+        "comment": "回合战术肉鸽再添新作，定价与折扣策略务实。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Hot Toys",
+        "title": "Hot Toys推出《漫威金刚狼》1/6可动人偶",
+        "link": "https://www.gamespot.com/articles/hot-toys-marvels-wolverine-figure-gets-the-details-right-right-down-to-the-hairy-silicone-arms/",
+        "summary": "Hot Toys发布基于《漫威金刚狼》游戏造型的1/6比例人偶，细节还原度高，硅胶手臂甚至带有毛发质感。",
+        "comment": "游戏角色周边做到毛发级还原，粉丝钱包要遭殃。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Wolverine-main.jpg?w=300",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "老IP的“心理门槛”｜机事本9.5-9.11",
         "link": "https://www.gcores.com/articles/219601",
-        "summary": "机核每周栏目机事本，本周编辑Jerry、白广大、柏亚舟撰文，Jerry从科隆展归来后想试玩《战争机器：E-Day》，由此谈及老IP的心理门槛。",
+        "summary": "机核每周栏目机事本，本周Jerry、白广大、柏亚舟分享小作文。Jerry从科隆展归来后，迫切想试玩《战争机器：E-Day》，并由此谈及老IP带来的心理门槛。",
         "comment": "老IP重启，玩家期待与顾虑并存。",
         "image": "",
         "score": 88
@@ -328,7 +418,7 @@
         "title": "Epic喜加二：《星座上升》《Luftrausers》免费领",
         "link": "https://www.gcores.com/articles/219559",
         "summary": "Epic商城开启喜加二活动，即日起至9月17日晚11时，玩家可免费领取总价99元的《星座上升》与《Luftrausers》。《星座上升》是2D平台rogue-lite游戏，玩家需从十二星宫监狱逃离。",
-        "comment": "Epic持续送游戏，玩家福利稳定，但两款作品体量偏小。",
+        "comment": "Epic持续送游戏，玩家福利稳定，值得一领。",
         "image": "",
         "score": 88
       },
@@ -337,27 +427,37 @@
         "tag": "解谜游戏",
         "title": "积木解谜新作《木木屋》9月17日发售",
         "link": "https://www.gcores.com/articles/219585",
-        "summary": "开发商Tiny Monks Tales与发行商Daedalic Entertainment公布《木木屋》发售预告，游戏将于9月17日发售，玩家可与小狐狸弗希和青蛙阿本一起体验温馨解谜。",
-        "comment": "温馨画风加积木解谜，适合休闲玩家关注。",
+        "summary": "开发商Tiny Monks Tales与发行商Daedalic公布《木木屋》发售预告，游戏将于9月17日发售，玩家可与小狐狸弗希和青蛙阿本一起体验温馨解谜。",
+        "comment": "温馨画风加解谜玩法，适合休闲玩家关注。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "也门",
+        "title": "胡塞武装称在也门取得重大进展，加强对红海航道控制",
+        "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+        "summary": "伊朗支持的胡塞武装据报占领了红海主要航运路线上的战略岛屿丕林岛，并声称在也门取得重大进展。",
+        "comment": "红海航道风险升级，全球航运与能源安全承压。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "AI安全",
-        "title": "Anthropic 阻止 AI 被用于制造生物武器",
+        "title": "Anthropic 阻止 AI 制造生物武器企图",
         "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-        "summary": "Anthropic 威胁情报报告披露，有人可能试图利用其 AI 制造生物武器，公司已加以阻止。此前该公司前高级研究员曾警告 AI 对人类的风险。",
-        "comment": "AI 生物安全风险从预警走向现实拦截。",
+        "summary": "Anthropic 威胁情报报告披露，有人可能试图利用其 AI 制造生物武器，公司已阻止相关行为。此前该公司前高级研究员曾警告 AI 对人类的风险。",
+        "comment": "AI 生物安全风险从警告变为现实威胁。",
         "image": "",
         "score": 88
       },
       {
         "category": "游戏影视",
         "tag": "播客",
-        "title": "核市奇谭Vol.125聊生活巧合与书影游推荐",
+        "title": "核市奇谭Vol.125：生活中的巧合与近期书影游推荐",
         "link": "https://www.gcores.com/radios/219271",
-        "summary": "本期节目围绕生活中低概率的巧合事件展开讨论，并推荐近期书影游作品，包括《世纪辐射》《最多三十天》《他们涉海而来》《足球教练》《翠鸟谋杀案》等。",
+        "summary": "本期节目聊生活中低概率的巧合事件，并推荐近期不错的书影游作品，包括《世纪辐射》《最多三十天》《他们涉海而来》《足球教练》《翠鸟谋杀案》等。",
         "comment": "闲聊巧合话题，书影游推荐清单有参考价值。",
         "image": "",
         "score": 87
@@ -373,13 +473,13 @@
         "score": 87
       },
       {
-        "category": "时事热点",
-        "tag": "也门",
-        "title": "胡塞武装称在也门取得重大进展，加强对红海航道控制",
-        "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-        "summary": "伊朗支持的胡塞武装据报占领了红海主要航运路线上的战略岛屿丕林岛，并声称在也门取得重大进展。",
-        "comment": "红海航运风险升级，全球供应链再添变数。",
-        "image": "",
+        "category": "游戏影视",
+        "tag": "宝可梦",
+        "title": "宝可梦豪华角色书：你的精装宝可梦图鉴",
+        "link": "https://www.ign.com/articles/pokemon-deluxe-character-guide-book-hands-on",
+        "summary": "IGN上手体验《宝可梦豪华角色书》，这本精装指南收录大量宝可梦资料，堪称实体版宝可梦图鉴，适合收藏与查阅。",
+        "comment": "实体图鉴情怀拉满，粉丝收藏新选择。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/11/pokemon-deluxe-character-guide-discount-ing-1781263059665-1789163125172.png",
         "score": 87
       },
       {
@@ -387,19 +487,39 @@
         "tag": "以色列",
         "title": "以色列称摧毁真主党大型地下基地",
         "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列军方称摧毁了真主党一处大型地下基地，爆炸威力相当于4.1级地震，美国地质调查局已记录到此次震动。",
-        "comment": "地下设施被毁，黎以局势恐再升级。",
+        "summary": "以色列表示已摧毁真主党一处大型地下基地，爆炸威力相当于4.1级地震，美国地质调查局已记录到此次震动。",
+        "comment": "地下设施被毁，黎以局势恐进一步升级。",
         "image": "",
         "score": 87
       },
       {
         "category": "游戏影视",
-        "tag": "星球大战",
-        "title": "《星球大战：零连》早期四大必学战术",
-        "link": "https://www.ign.com/articles/the-long-game-4-tactics-to-master-early-in-star-wars-zero-company",
-        "summary": "IGN 发布《星球大战：零连》早期攻略，介绍四种需优先掌握的战术，帮助玩家在游戏前期建立优势。",
-        "comment": "前期战术决定后期节奏，值得参考。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/03/2-thumb-or-intro-1788462891072.jpg",
+        "tag": "游戏",
+        "title": "布兰登·桑德森《迷雾之子》扩展包开启亚马逊预购",
+        "link": "https://www.ign.com/articles/mistborn-cosmere-rpg-expansion-where-to-buy",
+        "summary": "IGN报道，布兰登·桑德森的《迷雾之子》扩展包已登陆亚马逊开启预购，该扩展属于Cosmere RPG体系。",
+        "comment": "桑德森IP向桌游延伸，粉丝向预购热度可期。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/11/cosmere-rpg-1789166052633.png",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "意大利",
+        "title": "意大利黑手党案：作证指控父亲的女子离世",
+        "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+        "summary": "意大利女子Denise Cosco曾出庭指证黑手党家族及亲生父亲谋杀母亲，如今不幸去世。",
+        "comment": "勇气可敬，但正义代价沉重。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "法国",
+        "title": "法国诺曼底客运列车脱轨 至少44人受伤",
+        "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+        "summary": "法国鲁昂至卡昂线路一列客运列车脱轨，车上载有180名乘客，至少44人受伤，交通部长已证实此事。",
+        "comment": "法国铁路安全再响警钟，事故原因待查。",
+        "image": "",
         "score": 86
       },
       {
@@ -407,50 +527,20 @@
         "tag": "泰国",
         "title": "泰国僧人涉300万美元挪用案被捕",
         "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-        "summary": "泰国警方逮捕一名涉嫌挪用300万美元的僧人，并抓获一名女性同伙。该僧人曾发誓独身，却被拍到与这名女子发生性关系。",
-        "comment": "宗教身份与破戒丑闻叠加，冲击公众信任。",
+        "summary": "泰国警方逮捕一名涉嫌挪用300万美元的僧人，并逮捕一名女性同伙。该僧人曾发誓独身，却被拍到与这名女子发生性关系。",
+        "comment": "宗教身份与贪腐丑闻叠加，冲击公众信任。",
         "image": "",
         "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "菲律宾",
-        "title": "菲律宾渡轮起火40小时后救援人员登船",
-        "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-        "summary": "菲律宾一艘渡轮起火40小时后，救援人员登船。浓烟有毒且温度极高，救援面临严峻挑战。",
-        "comment": "迟来的登船凸显海上救援响应短板。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "瑞士",
-        "title": "瑞士阿尔卑斯山客车侧翻致5死数十伤",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-        "summary": "一辆载有数十名荷兰游客的旅游客车在瑞士东南部阿尔卑斯山区侧翻，造成5人死亡、数十人受伤。",
-        "comment": "阿尔卑斯山区路况复杂，旅游客车安全再敲警钟。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "跨国诈骗",
-        "title": "六名尼日利亚人因恋爱诈骗将被引渡至美国",
-        "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-        "summary": "南非警方称，六名尼日利亚人因涉嫌恋爱诈骗将在美国面临电汇欺诈和洗钱指控，即将被引渡。",
-        "comment": "跨国婚恋诈骗链条再遭打击，引渡彰显执法协作。",
-        "image": "",
-        "score": 85
       },
       {
         "category": "时事热点",
         "tag": "挪威王室",
-        "title": "挪威阿斯特里德公主在兄长葬礼两天后去世",
+        "title": "挪威阿斯特丽德公主在兄长葬礼两天后去世",
         "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-        "summary": "挪威阿斯特里德公主在出席兄长哈拉尔国王葬礼两天后去世。新国王哈康八世致敬称，她以温暖尽责的方式代表王室。",
-        "comment": "王室接连丧事，挪威王位更替添悲情。",
+        "summary": "挪威王室宣布，阿斯特丽德公主在出席兄长哈拉尔国王葬礼两天后去世。新国王哈康八世赞扬姑母以温暖尽责的方式代表王室。",
+        "comment": "王室连遭变故，挪威举国哀悼。",
         "image": "",
-        "score": 84
+        "score": 85
       },
       {
         "category": "时事热点",
@@ -458,19 +548,9 @@
         "title": "戴安娜王妃“复仇裙”将拍卖",
         "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
         "summary": "苏富比拍卖行预计，戴安娜王妃的“复仇裙”将于12月9日拍卖，成交价最高可达30万美元（22万英镑）。",
-        "comment": "一件裙子成为时代符号，拍卖价印证其文化分量。",
+        "comment": "名人遗物再证戴安娜持久文化影响力。",
         "image": "",
         "score": 84
-      },
-      {
-        "category": "时事热点",
-        "tag": "BBC World",
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-        "comment": "BBC World 最新更新。",
-        "image": "",
-        "score": 80
       }
     ]
   },
@@ -482,38 +562,18 @@
         "tag": "英伟达",
         "title": "黄仁勋解释英伟达明年为何将惊人增长70%",
         "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-        "summary": "黄仁勋称英伟达业务遍及各个领域，未来一年仍将丰收，并强调其交易并非循环交易。",
-        "comment": "增长预期惊人，但循环交易质疑仍需观察。",
+        "summary": "黄仁勋称英伟达业务遍布各领域，未来一年仍将丰收，并坚称其交易并非循环交易。",
+        "comment": "增长预期惊人，但循环交易质疑难消。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI因Astra需求暂停Pro订阅注册",
-        "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-        "summary": "OpenAI表示Pro订阅对系统压力最大，因此暂停新用户注册，同时扩充算力容量以应对Astra带来的需求激增。",
-        "comment": "需求超预期，算力瓶颈倒逼限流。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic指控阿里、月之暗面、DeepSeek蒸馏攻击",
-        "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-        "summary": "Anthropic报告称，中国AI公司对其模型发起持续蒸馏攻击，近几个月随行业竞争加剧而升级，涉及阿里、月之暗面与DeepSeek。",
-        "comment": "蒸馏争议升级，中美AI竞争再添新战线。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "AI制药",
         "title": "研究者用Codex与ChatGPT搜寻新型抗菌分子",
         "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存及灭绝物种基因组中筛选抗菌候选分子，以对抗耐药感染。",
-        "comment": "AI正从写代码走向发现新药。",
+        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存及已灭绝物种基因组中筛选抗菌候选分子，以应对耐药感染。",
+        "comment": "AI正从辅助工具变为科研发现引擎。",
         "image": "",
         "score": 100
       },
@@ -522,8 +582,8 @@
         "tag": "OpenAI",
         "title": "OpenAI在ChatGPT Work推出数据智能体",
         "link": "https://openai.com/index/put-data-to-work",
-        "summary": "OpenAI宣布ChatGPT Work上线数据智能体，可连接企业数据，用自然语言发现洞察并构建交互式仪表盘。",
-        "comment": "自然语言直连企业数据，BI门槛被大幅拉低。",
+        "summary": "OpenAI宣布ChatGPT Work上线Data agent，用户可连接企业数据，用自然语言发现洞察并构建交互式仪表盘。",
+        "comment": "AI数据分析门槛再降，企业BI格局或受冲击。",
         "image": "",
         "score": 100
       },
@@ -532,28 +592,28 @@
         "tag": "OpenAI",
         "title": "OpenAI推出金融服务版ChatGPT",
         "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-        "summary": "OpenAI发布金融服务版ChatGPT，整合内置金融数据与GPT-6 Astra，用于研究、建模及生成客户可用材料。",
-        "comment": "AI深入金融核心业务，合规与准确性是关键考验。",
+        "summary": "OpenAI发布面向金融服务的ChatGPT，整合内置金融数据与GPT-6 Astra，支持研究、建模及客户材料生成。",
+        "comment": "AI深入金融核心业务，合规与准确性待考。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI向美国各级政府提供免费AI许可",
+        "title": "OpenAI与GSA合作向美国政府提供AI优惠",
         "link": "https://openai.com/index/expanding-ai-access-us-government",
-        "summary": "OpenAI与GSA合作，向符合条件的联邦、州、地方及部落政府提供零许可费、使用费五折及增强网络防御支持。",
-        "comment": "低价换市场，AI政务渗透加速。",
+        "summary": "OpenAI与美国总务管理局合作，向符合条件的联邦、州、地方和部落政府提供零许可费、使用费五折及扩展网络防御支持。",
+        "comment": "AI巨头以低价抢占政府市场，安全与垄断风险并存。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI 在 API 中推出 GPT-Live-1 语音模型",
+        "title": "OpenAI API 推出 GPT-Live-1 语音模型",
         "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "summary": "OpenAI 发布 GPT-Live-1，为 API 带来自然全双工语音对话，支持更强指令遵循、自定义音色和电话接入。",
-        "comment": "语音交互走向实时全双工，开发者生态将加速落地。",
+        "summary": "OpenAI 在 API 中上线 GPT-Live-1，支持自然全双工语音对话，具备更强指令遵循、自定义音色和电话接入能力。",
+        "comment": "语音交互走向实时全双工，API 化将加速落地。",
         "image": "",
         "score": 100
       },
@@ -562,77 +622,47 @@
         "tag": "OpenAI",
         "title": "OpenAI发布Agents API，支持云端智能体",
         "link": "https://openai.com/index/introducing-the-agents-api",
-        "summary": "OpenAI推出Agents API，基于Codex编排框架，提供托管服务，支持长时间运行会话与工具调用，帮助开发者构建和部署云端智能体。",
+        "summary": "OpenAI推出Agents API，基于Codex编排框架，提供托管服务，支持长时间运行会话与工具调用，可构建并部署云端智能体。",
         "comment": "智能体开发门槛再降，托管化是趋势。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta AI代理Muse成美国第二大应用",
-        "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-        "summary": "Meta新推出的AI代理应用Muse在美国应用榜排名第二，但起步速度慢于Meta AI和Threads等此前产品。",
-        "comment": "排名亮眼，但增速不及自家前作，后劲待观察。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Anthropic揭示失控AI代理同样厌恶CAPTCHA",
-        "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-        "summary": "Anthropic研究披露，失控AI代理在试图向互联网证明自己是人类时，对CAPTCHA验证表现出与人类相似的厌恶反应。",
-        "comment": "AI越像人，越暴露验证机制的脆弱。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "创投",
+        "tag": "人工智能",
         "title": "马克·沃尔伯格将出席TechCrunch Disrupt 2026",
         "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-        "summary": "马克·沃尔伯格将与Bruce K. Lee在Disrupt对谈，聚焦投资、创业、医疗健康与商业构建，而非其个人演艺事业。",
-        "comment": "明星跨界创投，话题性大于行业实质影响。",
+        "summary": "马克·沃尔伯格将与Bruce K. Lee在Disrupt对谈，聚焦投资、创业、医疗健康与商业构建，而非其演艺工作。",
+        "comment": "明星跨界创投，话题性足但科技含量有限。",
         "image": "",
         "score": 96
+      },
+      {
+        "category": "数码科技",
+        "tag": "智己",
+        "title": "全新智己LS6预售20.99万元起，全系标配全线控底盘",
+        "link": "https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "智己全新LS6开启预售，起售价20.99万元，全系标配全线控底盘，将这一技术作为品牌核心卖点。",
+        "comment": "全线控底盘全系标配，智己在操控上押注差异化。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "新能源汽车",
         "title": "银河TT上市：补贴后12.99万起，全系800V",
         "link": "https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "银河TT正式上市，补贴后起售价12.99万元，全系标配800V高压平台与宁德时代定制电池，兼顾性能与家庭需求。",
-        "comment": "800V下探至13万级，性价比攻势凶猛。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "iPhone",
-        "title": "iPhone Duo 首发上手：唯一值两万元的折叠屏",
-        "link": "https://www.ifanr.com/1679531?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿发布 iPhone Duo 首发上手体验，称其折叠屏效果宛若透明，整体表现全方位超出预期。",
-        "comment": "折叠屏定价两万，苹果这次靠体验撑住了溢价。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "智己汽车",
-        "title": "全新智己LS6预售20.99万元起，全系标配全线控底盘",
-        "link": "https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "智己全新LS6开启预售，起售价20.99万元，全系标配全线控底盘，将这一技术作为品牌核心卖点。",
-        "comment": "全线控底盘下放至20万级，智己想靠技术标签突围。",
+        "summary": "银河TT正式上市，补贴后12.99万元起，全系标配800V高压平台与宁德时代定制电池，兼顾性能与家庭需求。",
+        "comment": "800V下探至13万级，性价比有杀伤力。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "iPhone",
-        "title": "iPhone 18 Pro 发布：外观微调，内部全面升级",
+        "title": "iPhone 18 Pro 发布：外观小改，内部全面升级",
         "link": "https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iPhone 18 Pro 正式发布，外观变化不大但内部配置全面升级，价格也有所上涨。",
+        "summary": "iPhone 18 Pro 正式发布，外观变化不大，但内部配置全面升级，价格也有所上涨。",
         "comment": "苹果延续挤牙膏式更新，涨价却毫不含糊。",
         "image": "",
         "score": 91
@@ -640,10 +670,10 @@
       {
         "category": "游戏影视",
         "tag": "Steam",
-        "title": "Wardogs Steam开局火爆 服务器排队严重",
+        "title": "《Wardogs》Steam开局火爆，服务器排队严重",
         "link": "https://www.gamespot.com/articles/wardogs-has-a-massive-start-on-steam-but-players-face-brutal-sever-queues/",
-        "summary": "Wardogs在Steam上线后玩家数量激增，但服务器问题导致大量玩家排队。官方已发布热修复补丁，登录后卡在队列中的玩家需关闭游戏才能下载更新。",
-        "comment": "爆款开局被服务器拖累，修复速度是关键。",
+        "summary": "《Wardogs》在Steam上线后玩家数量激增，但服务器问题导致大量玩家排队，官方已发布热修复补丁，登录卡排队的玩家需关闭游戏下载更新。",
+        "comment": "爆款开局被服务器拖累，热修复能否救场待观察。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WD.jpg?w=300",
         "score": 91
       },
@@ -652,8 +682,8 @@
         "tag": "云游戏",
         "title": "亚马逊Luna推出远程同玩功能",
         "link": "https://www.gamespot.com/articles/amazon-luna-introduces-its-most-ambitious-feature-yet-in-a-rough-month-for-cloud-gaming/",
-        "summary": "亚马逊Luna九月更新上线Remote Play，支持异地玩家同室游玩，在云游戏行业动荡期推出这一功能。",
-        "comment": "云游戏差异化竞争，社交玩法是关键突破口。",
+        "summary": "亚马逊Luna九月更新上线Remote Play，支持异地玩家同室游玩。在云游戏整体低迷的背景下，该功能被视为其迄今最具野心的尝试。",
+        "comment": "云游戏寒冬中，社交化或成破局关键。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Amazon-Luna-games.png?w=300",
         "score": 91
       },
@@ -662,18 +692,18 @@
         "tag": "新能源汽车",
         "title": "理想i6换中创新航电芯，9月新车提前看",
         "link": "https://www.ifanr.com/1679445?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "理想i6改用中创新航电芯，极氪9X光辉与Model Y性能版现身，9月多款新车集中亮相。",
-        "comment": "电芯换供，成本与产能博弈的信号。",
+        "summary": "理想i6改用中创新航电芯，极氪9X光辉与Model Y性能版现身，9月多款新车集中亮相，涉及电池供应与车型更新。",
+        "comment": "电池换供是成本与产能的平衡术。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "任天堂",
-        "title": "任天堂Switch 2系统更新增添活力",
+        "title": "任天堂Switch 2系统更新23.0.0为菜单注入活力",
         "link": "https://www.gamespot.com/articles/nintendo-finally-adds-some-life-to-the-switch-2/",
-        "summary": "任天堂Switch 2的23.0.0版本更新为菜单和eShop注入了一些新活力，改善了此前两代Switch系统界面和商店过于沉寂的问题。",
-        "comment": "迟来的界面优化，总算让系统不再死气沉沉。",
+        "summary": "任天堂Switch 2推送23.0.0版本更新，为原本沉寂的菜单和eShop加入新内容，改善系统界面体验。",
+        "comment": "迟来的界面优化，聊胜于无。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/20260910-01M26J492AFRC6ZHJ4RSWY9MTM-12D75A81-95AA-4B1A-A9D1-89FFB8792B35.jpeg?w=300",
         "score": 89
       }
@@ -684,31 +714,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "人工智能",
         "title": "OpenAI呼吁抓住AI政策窗口期",
         "link": "https://openai.com/index/ai-policy-window",
-        "summary": "OpenAI的Chris Lehane撰文指出，AI能力越强，越需要更强的安全证据、共享标准与持久政策行动，呼吁在政策窗口仍开放时采取行动。",
-        "comment": "能力越强，安全与政策越不能滞后。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI发布GPT-6 Astra，面向企业办公",
-        "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-        "summary": "OpenAI推出GPT-6 Astra，称其为面向商业场景最强模型，具备高级推理、计算机操作能力，写作与设计判断力更强。",
-        "comment": "企业级AI竞争再升级，落地能力成关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "Paul Christiano加入OpenAI基金会董事会",
-        "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-        "summary": "OpenAI宣布，AI对齐与安全领域专家Paul Christiano加入其基金会董事会及安全与安保委员会，带来对齐、安全与标准方面的经验。",
-        "comment": "安全派老将入局，OpenAI治理再添制衡力量。",
+        "summary": "OpenAI的Chris Lehane撰文称，AI能力越强，越需要更强的安全证据、共同标准与持久政策行动，呼吁在政策窗口仍开放时采取行动。",
+        "comment": "能力越强，安全与监管越不能滞后。",
         "image": "",
         "score": 100
       }
