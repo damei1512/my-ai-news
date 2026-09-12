@@ -4,11 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "月之暗面",
-        "title": "月之暗面Kimi目标年收入20亿美元",
-        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-        "summary": "月之暗面为Kimi设定20亿美元年收入目标。尽管K3近期使用量略有下滑，OpenRouter数据显示其每日仍生成多达3000亿token。",
-        "comment": "Kimi商业化提速，但使用量下滑值得警惕。",
+        "tag": "机器人",
+        "title": "Mecka AI获红杉领投，估值近5亿美元",
+        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "summary": "成立两年的机器人训练数据公司Mecka AI正进行红杉资本领投的新一轮融资，估值接近5亿美元，距其A轮融资仅数月。",
+        "comment": "机器人训练数据正成为资本新战场。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI与数学家矛盾持续升级",
+        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "summary": "25位顶尖数学家联名公开信，指控AI实验室威胁其智力工作，OpenAI与数学界的冲突进一步加剧。",
+        "comment": "AI与学术界的版权与伦理冲突正走向公开化。",
         "image": "",
         "score": 100
       },
@@ -18,7 +28,7 @@
         "title": "Anthropic研究员离职警告超级智能风险",
         "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
         "summary": "Anthropic一名研究员本周辞职，在X发帖警告公司正“直奔自我改进的超级智能，拿我们的生命赌博”，引发对AI安全与商业竞争矛盾的关注。",
-        "comment": "内部人警告比外部批评更值得警惕。",
+        "comment": "内部人反水，AI安全承诺再遭拷问。",
         "image": "",
         "score": 100
       },
@@ -27,38 +37,28 @@
         "tag": "OpenAI",
         "title": "OpenAI存储架构支撑10亿ChatGPT用户",
         "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "summary": "OpenAI详解将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户、每秒2200万请求。",
-        "comment": "存储工程是AI规模化的隐形战场。",
+        "summary": "OpenAI将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户、每秒2200万次请求。",
+        "comment": "规模倒逼架构升级，工程能力成AI竞争壁垒。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI编程",
-        "title": "Cognition借助GPT-6 Astra提升Devin自测能力",
+        "title": "Cognition借助GPT-6 Astra让Devin自测代码",
         "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "summary": "OpenAI称，GPT-6 Astra增强了Devin测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
-        "comment": "AI编程代理正从写代码转向自我验证。",
+        "summary": "OpenAI称GPT-6 Astra提升了Devin测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
+        "comment": "AI编程工具正从写代码转向自验证闭环。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "机器人训练数据",
-        "title": "Mecka AI 获红杉领投，估值近5亿美元",
-        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "summary": "成立两年的 Mecka AI 在宣布 A 轮融资数月后，正由红杉资本领投新一轮融资，估值接近 5 亿美元，反映机器人训练数据赛道升温。",
-        "comment": "机器人训练数据正成为资本新战场。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI与数学家矛盾持续升级",
-        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "summary": "25位顶尖数学家联名公开信，指责AI实验室威胁其智力工作，OpenAI与数学界的冲突进一步加剧。",
-        "comment": "AI与学术界的版权与伦理摩擦正走向公开化。",
+        "tag": "月之暗面",
+        "title": "月之暗面瞄准20亿美元年收入",
+        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+        "summary": "Kimi开发商月之暗面将年收入目标定为20亿美元。尽管K3近期使用量略有下滑，OpenRouter数据显示其模型每日仍生成多达3000亿token。",
+        "comment": "收入目标激进，商业化压力不小。",
         "image": "",
         "score": 99
       },
@@ -67,7 +67,7 @@
         "tag": "人工智能",
         "title": "YC合伙人Garry Tan呼吁美国开放权重AI实验室蒸馏前沿模型",
         "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "summary": "Y Combinator的Garry Tan主张美国小型开放权重AI实验室应蒸馏本国前沿模型，以增强美国开放权重生态的竞争力。",
+        "summary": "Y Combinator的Garry Tan主张美国小型开放权重AI实验室应借鉴前沿实验室的训练技术，以增强美国开放权重模型的多样性和竞争力。",
         "comment": "蒸馏前沿模型或成美国开放权重AI的捷径。",
         "image": "",
         "score": 98
@@ -75,9 +75,9 @@
       {
         "category": "人工智能",
         "tag": "Nscale",
-        "title": "Nscale 邀前 OpenAI 高管 Fidji Simo 加入董事会，筹备潜在 IPO",
+        "title": "Nscale 邀前 OpenAI 高管 Fidji Simo 加入董事会",
         "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-        "summary": "AI 云服务商 Nscale 在潜在上市前任命前 OpenAI 二号高管 Fidji Simo 为董事。她曾于 2023 年带领 Instacart 完成 IPO，具备上市经验。",
+        "summary": "AI 云公司 Nscale 在潜在 IPO 前任命前 OpenAI 二号高管 Fidji Simo 为董事，她曾于 2023 年带领 Instacart 上市。",
         "comment": "招揽 IPO 老将，Nscale 上市意图明显。",
         "image": "",
         "score": 98
@@ -87,7 +87,7 @@
         "tag": "科技活动",
         "title": "TechCrunch Disrupt 2026展位预订仅剩一周",
         "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "summary": "TechCrunch Disrupt 2026展位预订仅剩一周，展位数量有限，可能在9月18日截止日期前售罄。",
+        "summary": "TechCrunch Disrupt 2026展位预订仅剩一周，展位数量有限，可能在9月18日截止前售罄。",
         "comment": "活动招商信息，与AI技术本身无关。",
         "image": "",
         "score": 94
@@ -95,91 +95,41 @@
       {
         "category": "人工智能",
         "tag": "科技活动",
-        "title": "TechCrunch Disrupt 2026 边会申请今晚截止",
+        "title": "TechCrunch Disrupt 2026 周边活动申请今晚截止",
         "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "summary": "TechCrunch Disrupt 2026 官方边会主办申请将于太平洋时间9月11日23:59截止，这是最后机会。",
+        "summary": "TechCrunch Disrupt 2026 官方周边活动主办申请将于太平洋时间9月11日23:59截止，这是最后机会。",
         "comment": "活动运营提醒，与AI技术本身无关。",
         "image": "",
         "score": 94
       },
       {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "Rockstar 用反无人机与黑客手段保护 GTA 6 机密",
-        "link": "https://www.gamespot.com/articles/gta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe/",
-        "summary": "GameSpot 报道，Rockstar 在听证会中披露为防 GTA 6 内容泄露，采取反无人机、防黑客等措施保护游戏机密。",
-        "comment": "顶级大作保密已升级为攻防战。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-Drones.jpg?w=300",
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果折叠iPhone曝光：iOS液态玻璃设计成亮点",
+        "link": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道苹果折叠iPhone，指出其真正折叠的是iOS系统，液态玻璃设计带来惊艳视觉体验，或重新定义折叠屏交互。",
+        "comment": "折叠屏竞争转向系统体验，苹果后发或改写规则。",
+        "image": "",
         "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "EA",
-        "title": "EA被收购后或酝酿更大游戏帝国",
-        "link": "https://www.gamespot.com/articles/eas-new-owners-may-be-considering-an-even-bigger-gaming-empire/",
-        "summary": "EA正式被出售，沙特公共投资基金成为多数股东，据报正洽谈将其与另一家公司合并，以组建更庞大的游戏版图。",
-        "comment": "资本整合加速，游戏业格局或再洗牌。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/EA-Games.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6 即将发售，Take-Two 股价为何今年表现低迷？",
-        "link": "https://www.gamespot.com/articles/gta-6-is-going-to-be-huge-so-why-is-take-twos-stock-having-such-a-bad-year/",
-        "summary": "Take-Two 旗下 GTA 6 将于今年 11 月发售，市场期待极高，但公司股价今年表现不佳，GameSpot 分析这一反差背后的原因。",
-        "comment": "爆款预期与股价背离，市场担忧发行风险与成本。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Jason_and_Lucia_09.jpg?w=300",
-        "score": 92
+        "category": "数码科技",
+        "tag": "健康AI",
+        "title": "外滩大会观察：健康AI与硬件融合新路径",
+        "link": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "外滩大会展示健康AI与硬件结合的新方向，探讨如何让AI硬件成为用户长期使用的健康服务，而非短期噱头。",
+        "comment": "健康AI硬件需解决长期使用与真实价值问题。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "GPT-6",
-        "title": "GPT-6爆火3D案例被指用现成素材，爱范儿实测复现",
+        "title": "GPT-6 3D案例被指用现成素材，爱范儿实测复现",
         "link": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿指出GPT-6爆火的3D生成案例使用了现成素材，并亲自用GPT-6搭配Hyper3D MCP实测3D创作效果。",
-        "comment": "案例翻车不稀奇，实测复现才是真检验。",
+        "summary": "爱范儿发现 GPT-6 爆火的 3D 生成案例使用了现成素材，随后亲自用 GPT-6 与 Hyper3D MCP 实测复现，验证其真实创作能力。",
+        "comment": "案例翻车后实测，比宣传更有说服力。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "iPhone Duo 折叠瞬间重新诠释液态玻璃",
-        "link": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析苹果折叠 iPhone 的交互设计，认为真正被折叠的是 iOS 系统，液态玻璃效果在折叠瞬间展现惊艳视觉。",
-        "comment": "折叠屏竞争已从硬件转向系统交互体验。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Switch 2",
-        "title": "Switch 2更新悄然改善数字游戏共享",
-        "link": "https://www.gamespot.com/articles/switch-2-update-secretly-makes-digital-game-sharing-much-better/",
-        "summary": "Switch 2最新系统更新在加入底座VRR支持之外，还悄然优化了数字游戏共享功能，提升了玩家日常使用体验。",
-        "comment": "细节更新比VRR更实用，共享体验终于跟上。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Switch2.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏产业",
-        "title": "分析师称《死亡搁浅》系列仅勉强回本，或解释索尼放弃Physint",
-        "link": "https://www.gamespot.com/articles/death-stranding-franchise-likely-barely-broke-even-could-explain-sony-dropping-physint-analyst/",
-        "summary": "分析师指出，《死亡搁浅》系列可能仅勉强收支平衡，这或许能解释索尼为何不再参与小岛秀夫新作Physint的制作。",
-        "comment": "商业回报不佳，索尼收缩投资可以理解。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/physint_key-art-835322867.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6限定手柄遭黄牛抢购转卖",
-        "link": "https://www.gamespot.com/articles/gta-6-dualsense-controller-scalpers-are-already-cashing-in/",
-        "summary": "GTA 6限定版DualSense手柄预购开启后，黄牛迅速抢购并高价转卖，重现2021年PS5/Xbox缺货时的倒卖乱象。",
-        "comment": "限定周边成黄牛新目标，普通玩家又难原价入手。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA-6-DualSense.jpg?w=300",
         "score": 91
       },
       {
@@ -187,90 +137,20 @@
         "tag": "快充",
         "title": "制糖工厂发布硬糖小魔头Max60：60W AVS动态快充",
         "link": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，为新一代快充体验而来。",
-        "comment": "AVS快充落地配件，iPhone 18 Pro用户值得关注。",
+        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，为新一代快充体验打造。",
+        "comment": "AVS快充落地，第三方配件抢先卡位。",
         "image": "",
         "score": 90
       },
       {
         "category": "数码科技",
-        "tag": "健康AI",
-        "title": "外滩大会观察：健康AI与硬件融合新路径",
-        "link": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿在外滩大会观察到，健康AI与硬件结合正探索让用户长期使用的服务模式，而非短期噱头。",
-        "comment": "健康AI硬件需从卖设备转向做服务。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "iPhone",
-        "title": "iPhone Duo未发先炒至9.9万，人人影视再下架",
+        "tag": "数码科技",
+        "title": "早报：iPhone Duo炒作、人人影视再下架、高德避雷指南上线",
         "link": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星借iPhone Duo调侃苹果，OpenAI限制竞品在ChatGPT投放广告，奥迪在华重划双品牌，人人影视回归约10天再次下架。",
-        "comment": "苹果新机未发先炒，热度与风险并存。",
+        "summary": "三星借iPhone Duo调侃苹果，OpenAI限制竞品在ChatGPT投放广告，奥迪在华重划双品牌，人人影视回归约10天再次下架，高德上线避雷指南1.0。",
+        "comment": "科技圈热点频出，但炒作与下架更值得警惕。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Hot Toys",
-        "title": "Hot Toys 推出《漫威金刚狼》1:6 人偶，硅胶手臂带毛发细节",
-        "link": "https://www.gamespot.com/articles/hot-toys-marvels-wolverine-figure-gets-the-details-right-right-down-to-the-hairy-silicone-arms/",
-        "summary": "Hot Toys 发布《漫威金刚狼》游戏版 1:6 人偶，还原罗根造型，硅胶手臂带毛发细节，面向游戏粉丝收藏。",
-        "comment": "细节还原到位，但定价与可动性仍待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Wolverine-main.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "机核",
-        "title": "机核机事本：老IP的心理门槛",
-        "link": "https://www.gcores.com/articles/219601",
-        "summary": "机核每周栏目机事本，本周编辑Jerry、白广大、柏亚舟撰文。Jerry从科隆展归来后，迫切想试玩《战争机器：E-Day》，并由此探讨老IP带给玩家的心理门槛。",
-        "comment": "老IP重启，情怀与门槛并存。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "播客",
-        "title": "核市奇谭Vol.125：生活中的巧合与近期书影游推荐",
-        "link": "https://www.gcores.com/radios/219271",
-        "summary": "本期节目聊生活中低概率的巧合事件，并推荐近期书影游作品，包括《世纪辐射》《最多三十天》《他们涉海而来》《足球教练》《翠鸟谋杀案》等。",
-        "comment": "闲聊巧合话题，书影游推荐清单值得一看。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "播客",
-        "title": "机核录音笔VOL.784：停止恐惧并爱上表达",
-        "link": "https://www.gcores.com/radios/219583",
-        "summary": "机核GPASS会员专享节目录音笔第784期，记录办公室日常碎碎念与真实对话，每期约十几分钟，内容随机不定。",
-        "comment": "会员向碎碎念节目，粉丝向内容，信息增量有限。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "布兰登·桑德森《迷雾之子》扩展包开启亚马逊预购",
-        "link": "https://www.ign.com/articles/mistborn-cosmere-rpg-expansion-where-to-buy",
-        "summary": "IGN报道，布兰登·桑德森的《迷雾之子》扩展包现已登陆亚马逊开启预购，该扩展包属于Cosmere RPG体系。",
-        "comment": "桑德森IP持续向桌游领域扩张，粉丝向预购热度可期。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/11/cosmere-rpg-1789166052633.png",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "意大利",
-        "title": "意大利黑手党案作证女子离世",
-        "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-        "summary": "意大利女子Denise Cosco曾出庭指证黑手党'Ndrangheta家族及父亲谋杀母亲，近日不幸去世。",
-        "comment": "证人保护与黑手党威胁的残酷现实。",
-        "image": "",
-        "score": 85
       }
     ]
   }
