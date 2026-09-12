@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "GPT-6",
+        "tag": "人工智能",
         "title": "Perplexity用GPT-6 Astra端到端运维系统",
         "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-        "summary": "Perplexity借助GPT-6 Astra编写通信、修改软件并监控生产系统，且相比早期模型检查频率大幅降低。",
-        "comment": "AI从辅助工具转向自主运维，信任边界正在外移。",
+        "summary": "Perplexity借助GPT-6 Astra编写通信、修改软件并监控生产系统，对模型的检查频率远低于早期模型。",
+        "comment": "AI深度接管运维，信任与风险同步放大。",
         "image": "",
         "score": 100
       }
