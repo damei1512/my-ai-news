@@ -3,14 +3,54 @@
     "week": "周日",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "影评",
+        "title": "马赫沙拉·阿里新片《Your Mother》IGN影评",
+        "link": "https://www.ign.com/articles/your-mother-your-mother-your-mother-review",
+        "summary": "IGN发布《Your Mother Your Mother Your Mother》影评，马赫沙拉·阿里饰演虔诚的持剑刺客，与曾有望执导《刀锋战士》的导演合作。",
+        "comment": "阿里再演持剑刺客，与失之交臂的刀锋导演合作，颇具看点。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/27/your-mother-your-mother-your-mother-ymx3-01886-r-rgb-1787852336928.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "有声读物",
+        "title": "机核有声读物《深渊漫步者》上线",
+        "link": "https://www.gcores.com/radios/219649",
+        "summary": "机核发布有声小说《深渊漫步者》，由《迪迦奥特曼》主编剧小中千昭创作，讲述深海6500探索日本海沟发现人体模型头颅的悬疑前传故事。",
+        "comment": "小中千昭的深海怪谈，有声形式更添诡异氛围。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "印尼",
+        "title": "印尼渡轮爪哇海失踪 6死107获救",
+        "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+        "summary": "印尼Virgo Transport 8号渡轮在爪哇海遭遇恶劣天气后失踪，已致6人死亡、107人获救，另有约130人下落不明，船只和直升机正展开搜救。",
+        "comment": "海上搜救争分夺秒，恶劣天气再敲安全警钟。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "AI安全",
+        "title": "前Anthropic研究员称AI从业者对人类未来感到恐惧",
+        "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "summary": "前Anthropic研究员向BBC表示，AI从业者对人类未来感到真切恐惧。此前该公司CEO以风险严重为由呼吁放缓AI开发。",
+        "comment": "内部人恐惧与CEO呼吁放缓，AI安全焦虑正从边缘走向主流。",
+        "image": "",
+        "score": 86
+      },
+      {
         "category": "时事热点",
         "tag": "美国",
-        "title": "因发帖谈柯克被解雇者：有人获赔有人重来",
+        "title": "因发帖谈柯克遇刺被解雇者：有人获赔，有人从头再来",
         "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-        "summary": "柯克遇刺后，部分人因发帖被解雇。有人从雇主处获得高额和解，也有人被迫从头开始。",
-        "comment": "言论代价各异，法律与生计交织。",
+        "summary": "柯克遇刺后，一些员工因相关发帖被解雇。有人从雇主处获得高额和解赔偿，也有人被迫从零开始重建生活。",
+        "comment": "言论代价悬殊，法律与生计的博弈仍在继续。",
         "image": "",
-        "score": 85
+        "score": 86
       }
     ]
   }
