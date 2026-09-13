@@ -4,21 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "机器人",
-        "title": "Mecka AI获红杉领投，估值近5亿美元",
-        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "summary": "成立两年的机器人训练数据公司Mecka AI正进行红杉资本领投的新一轮融资，估值接近5亿美元，距其A轮融资仅数月。",
-        "comment": "机器人训练数据正成为资本新战场。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI与数学家矛盾持续升级",
-        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "summary": "25位顶尖数学家联名公开信，指控AI实验室威胁其智力工作，OpenAI与数学界的冲突进一步加剧。",
-        "comment": "AI与学术界的版权与伦理冲突正走向公开化。",
+        "tag": "月之暗面",
+        "title": "月之暗面Kimi目标年收入20亿美元",
+        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+        "summary": "月之暗面为Kimi设定20亿美元年收入目标。尽管K3近期使用量略有下滑，OpenRouter数据显示K3模型每日仍生成多达3000亿token。",
+        "comment": "营收目标激进，但K3调用量仍可观。",
         "image": "",
         "score": 100
       },
@@ -27,7 +17,7 @@
         "tag": "AI安全",
         "title": "Anthropic研究员离职警告超级智能风险",
         "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-        "summary": "Anthropic一名研究员本周辞职，在X发帖警告公司正“直奔自我改进的超级智能，拿我们的生命赌博”，引发对AI安全与商业竞争矛盾的关注。",
+        "summary": "Anthropic一名研究员本周辞职，在X发帖警告公司正\"直奔自我改进的超级智能，拿我们的生命赌博\"，引发对AI安全与商业竞争矛盾的关注。",
         "comment": "内部人反水，AI安全承诺再遭拷问。",
         "image": "",
         "score": 100
@@ -37,28 +27,38 @@
         "tag": "OpenAI",
         "title": "OpenAI存储架构支撑10亿ChatGPT用户",
         "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "summary": "OpenAI将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户、每秒2200万次请求。",
+        "summary": "OpenAI详解Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户、每秒2200万请求。",
         "comment": "规模倒逼架构升级，工程能力成AI竞争壁垒。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI编程",
-        "title": "Cognition借助GPT-6 Astra让Devin自测代码",
+        "tag": "GPT-6",
+        "title": "Cognition借助GPT-6 Astra提升Devin自测能力",
         "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "summary": "OpenAI称GPT-6 Astra提升了Devin测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
-        "comment": "AI编程工具正从写代码转向自验证闭环。",
+        "summary": "OpenAI称GPT-6 Astra增强了Devin测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
+        "comment": "AI编程代理正从写代码转向自验证闭环。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "月之暗面",
-        "title": "月之暗面瞄准20亿美元年收入",
-        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-        "summary": "Kimi开发商月之暗面将年收入目标定为20亿美元。尽管K3近期使用量略有下滑，OpenRouter数据显示其模型每日仍生成多达3000亿token。",
-        "comment": "收入目标激进，商业化压力不小。",
+        "tag": "机器人",
+        "title": "Mecka AI 获红杉领投，估值近5亿美元",
+        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "summary": "成立两年的机器人训练数据初创公司 Mecka AI 正进行由红杉资本领投的新一轮融资，估值接近5亿美元，距其A轮融资仅数月。",
+        "comment": "机器人数据赛道升温，资本抢滩卡位。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI与数学家矛盾持续升级",
+        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "summary": "25位顶尖数学家联名公开信，指控AI实验室威胁其智力工作，OpenAI与数学界的冲突进一步加剧。",
+        "comment": "AI与学术界的版权与伦理冲突正走向公开化。",
         "image": "",
         "score": 99
       },
@@ -67,7 +67,7 @@
         "tag": "人工智能",
         "title": "YC合伙人Garry Tan呼吁美国开放权重AI实验室蒸馏前沿模型",
         "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "summary": "Y Combinator的Garry Tan主张美国小型开放权重AI实验室应借鉴前沿实验室的训练技术，以增强美国开放权重模型的多样性和竞争力。",
+        "summary": "Y Combinator的Garry Tan主张美国小型开放权重AI实验室应蒸馏本国前沿模型，以增强美国开放权重生态的竞争力。",
         "comment": "蒸馏前沿模型或成美国开放权重AI的捷径。",
         "image": "",
         "score": 98
@@ -75,29 +75,29 @@
       {
         "category": "人工智能",
         "tag": "Nscale",
-        "title": "Nscale 邀前 OpenAI 高管 Fidji Simo 加入董事会",
+        "title": "Nscale 邀前 OpenAI 高管 Fidji Simo 加入董事会，筹备潜在 IPO",
         "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-        "summary": "AI 云公司 Nscale 在潜在 IPO 前任命前 OpenAI 二号高管 Fidji Simo 为董事，她曾于 2023 年带领 Instacart 上市。",
-        "comment": "招揽 IPO 老将，Nscale 上市意图明显。",
+        "summary": "Nscale 在潜在 IPO 前任命前 OpenAI 二号高管 Fidji Simo 为董事。她曾于 2023 年带领 Instacart 完成上市，具备资本市场经验。",
+        "comment": "IPO 前补强董事会，意在借其上市经验。",
         "image": "",
         "score": 98
       },
       {
         "category": "人工智能",
         "tag": "科技活动",
-        "title": "TechCrunch Disrupt 2026展位预订仅剩一周",
+        "title": "TechCrunch Disrupt 2026 展位预订仅剩一周",
         "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "summary": "TechCrunch Disrupt 2026展位预订仅剩一周，展位数量有限，可能在9月18日截止前售罄。",
-        "comment": "活动招商信息，与AI技术本身无关。",
+        "summary": "TechCrunch Disrupt 2026 展位预订仅剩一周，展位数量有限，可能在9月18日截止前售罄。",
+        "comment": "活动招商信息，与AI技术进展无关。",
         "image": "",
         "score": 94
       },
       {
         "category": "人工智能",
         "tag": "科技活动",
-        "title": "TechCrunch Disrupt 2026 周边活动申请今晚截止",
+        "title": "TechCrunch Disrupt 2026 边会申请今晚截止",
         "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "summary": "TechCrunch Disrupt 2026 官方周边活动主办申请将于太平洋时间9月11日23:59截止，这是最后机会。",
+        "summary": "TechCrunch Disrupt 2026 官方边会主办方申请将于9月11日太平洋时间23:59截止，这是最后机会。",
         "comment": "活动运营提醒，与AI技术本身无关。",
         "image": "",
         "score": 94
@@ -107,28 +107,18 @@
         "tag": "苹果",
         "title": "苹果折叠iPhone曝光：iOS液态玻璃设计成亮点",
         "link": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道苹果折叠iPhone，指出其真正折叠的是iOS系统，液态玻璃设计带来惊艳视觉体验，或重新定义折叠屏交互。",
-        "comment": "折叠屏竞争转向系统体验，苹果后发或改写规则。",
+        "summary": "爱范儿报道称，苹果折叠iPhone最惊艳之处在于iOS系统对液态玻璃设计的适配，折叠形态与系统交互深度融合。",
+        "comment": "折叠屏竞争已转向系统体验，苹果后发或改写规则。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "健康AI",
-        "title": "外滩大会观察：健康AI与硬件融合新路径",
-        "link": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "外滩大会展示健康AI与硬件结合的新方向，探讨如何让AI硬件成为用户长期使用的健康服务，而非短期噱头。",
-        "comment": "健康AI硬件需解决长期使用与真实价值问题。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
         "tag": "GPT-6",
-        "title": "GPT-6 3D案例被指用现成素材，爱范儿实测复现",
+        "title": "GPT-6爆火3D案例被指用现成素材，爱范儿实测复现",
         "link": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿发现 GPT-6 爆火的 3D 生成案例使用了现成素材，随后亲自用 GPT-6 与 Hyper3D MCP 实测复现，验证其真实创作能力。",
-        "comment": "案例翻车后实测，比宣传更有说服力。",
+        "summary": "爱范儿发现GPT-6爆火的3D生成案例使用了现成素材，随后亲自用GPT-6搭配Hyper3D MCP实测复现3D创作流程。",
+        "comment": "爆款案例掺水，实测才是检验工具的标准。",
         "image": "",
         "score": 91
       },
@@ -137,20 +127,30 @@
         "tag": "快充",
         "title": "制糖工厂发布硬糖小魔头Max60：60W AVS动态快充",
         "link": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，为新一代快充体验打造。",
-        "comment": "AVS快充落地，第三方配件抢先卡位。",
+        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，为新一代快充体验而来。",
+        "comment": "AVS快充落地配件，iPhone 18用户值得关注。",
         "image": "",
         "score": 90
       },
       {
         "category": "数码科技",
-        "tag": "数码科技",
-        "title": "早报：iPhone Duo炒作、人人影视再下架、高德避雷指南上线",
-        "link": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星借iPhone Duo调侃苹果，OpenAI限制竞品在ChatGPT投放广告，奥迪在华重划双品牌，人人影视回归约10天再次下架，高德上线避雷指南1.0。",
-        "comment": "科技圈热点频出，但炒作与下架更值得警惕。",
+        "tag": "健康AI",
+        "title": "外滩大会观察：健康AI与硬件融合新路径",
+        "link": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿在外滩大会观察到，健康AI与硬件结合正探索让用户长期使用的服务模式，而非短期噱头。",
+        "comment": "健康AI硬件需解决长期使用难题，方向正确但落地待验证。",
         "image": "",
         "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "早报：iPhone Duo 炒作、人人影视再下架、高德避雷指南",
+        "link": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "三星借 iPhone Duo 调侃苹果；OpenAI 限制竞品在 ChatGPT 投放广告；奥迪在华重划双品牌；人人影视回归约 10 天再次下架；高德上线避雷指南 1.0。",
+        "comment": "科技圈热点密集，但多为短期话题。",
+        "image": "",
+        "score": 89
       }
     ]
   }

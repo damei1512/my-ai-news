@@ -4,31 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "英伟达",
-        "title": "黄仁勋解释英伟达明年为何将惊人增长70%",
-        "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-        "summary": "黄仁勋称英伟达业务遍布各领域，未来一年仍将丰收，并强调其交易并非循环交易。",
-        "comment": "增长预期惊人，但循环交易质疑仍待观察。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
         "title": "研究者用Codex与ChatGPT搜寻新型抗菌分子",
         "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存及已灭绝生物基因组中筛选抗菌候选分子，以应对耐药感染。",
-        "comment": "AI正成为新药发现的关键工具，但实验验证仍是瓶颈。",
+        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存与已灭绝物种基因组中筛选抗菌候选分子，以应对耐药感染。",
+        "comment": "AI正从写代码走向驱动科学发现。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI在ChatGPT Work推出数据智能体",
+        "title": "OpenAI推出ChatGPT Work数据代理",
         "link": "https://openai.com/index/put-data-to-work",
-        "summary": "OpenAI在ChatGPT Work中上线Data agent，用户可用自然语言连接企业数据、挖掘洞察并构建交互式仪表盘，降低数据分析门槛。",
-        "comment": "自然语言直连企业数据，AI分析走向普惠。",
+        "summary": "OpenAI在ChatGPT Work中上线Data agent，可连接企业数据，用自然语言发现洞察并生成交互式仪表盘，降低数据分析门槛。",
+        "comment": "自然语言直连企业数据，BI工具格局或生变。",
         "image": "",
         "score": 100
       },
@@ -38,27 +28,27 @@
         "title": "OpenAI推出金融服务版ChatGPT",
         "link": "https://openai.com/index/introducing-chatgpt-financial-services",
         "summary": "OpenAI发布面向金融服务的ChatGPT，整合内置金融数据与GPT-6 Astra，支持研究、建模及客户材料生成。",
-        "comment": "金融场景专用化，AI垂直落地再进一步。",
+        "comment": "AI深入金融核心业务，合规与准确性待考。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与GSA合作向美国政府提供AI优惠",
+        "title": "OpenAI与GSA合作向美政府提供AI优惠",
         "link": "https://openai.com/index/expanding-ai-access-us-government",
-        "summary": "OpenAI与美国总务管理局合作，向符合条件的联邦、州、地方和部落政府提供零许可费、使用费五折及扩展网络防御支持。",
-        "comment": "AI巨头加速渗透政府市场，安全与竞争并重。",
+        "summary": "OpenAI与美国总务管理局合作，向符合条件的联邦、州、地方及部落政府提供零许可费、使用费五折及扩展网络防御支持。",
+        "comment": "低价换市场，AI公共部门渗透加速。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI API 推出 GPT-Live-1 语音模型",
+        "title": "OpenAI在API中推出GPT-Live-1语音模型",
         "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "summary": "OpenAI 在 API 中上线 GPT-Live-1，支持自然全双工语音对话，指令遵循更强，并新增自定义音色与电话接入能力。",
-        "comment": "语音交互向实时全双工演进，开发者生态再扩容。",
+        "summary": "OpenAI发布GPT-Live-1，为API带来自然全双工语音对话，支持更强指令遵循、自定义音色和电话集成。",
+        "comment": "语音交互API化，实时对话门槛再降。",
         "image": "",
         "score": 100
       },
@@ -67,18 +57,18 @@
         "tag": "OpenAI",
         "title": "OpenAI发布Agents API",
         "link": "https://openai.com/index/introducing-the-agents-api",
-        "summary": "OpenAI推出Agents API，基于Codex编排框架，支持云端智能体构建、长时运行会话与工具调用。",
-        "comment": "智能体开发门槛再降，平台化竞争加剧。",
+        "summary": "OpenAI推出Agents API，基于Codex编排框架，支持云代理构建与部署，可管理长时间会话和工具调用。",
+        "comment": "代理开发走向托管化，生态卡位意味明显。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
-        "tag": "智己LS6",
+        "tag": "智己",
         "title": "全新智己LS6预售20.99万元起，全系标配全线控底盘",
         "link": "https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "智己全新LS6开启预售，起售价20.99万元，全系标配全线控底盘，将这一技术作为品牌核心卖点。",
-        "comment": "全线控底盘下放至20万级，智己在操控上打差异牌。",
+        "comment": "全线控底盘下放至20万级，智己在操控上打出差异化。",
         "image": "",
         "score": 91
       }
