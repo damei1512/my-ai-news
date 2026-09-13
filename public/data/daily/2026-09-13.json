@@ -4,20 +4,50 @@
     "articles": [
       {
         "category": "游戏影视",
-        "tag": "影评",
-        "title": "马赫沙拉·阿里新片《Your Mother》IGN影评",
+        "tag": "英雄联盟",
+        "title": "AL夺LPL 2026总冠军，Tarzan获FMVP",
+        "link": "https://www.gcores.com/articles/219662",
+        "summary": "AL在《英雄联盟》LPL 2026总决赛以3比1击败BLG，夺得队史首座银龙杯，并将作为赛区一号种子出征全球总决赛，Tarzan获FMVP。",
+        "comment": "AL首冠含金量足，一号种子出征值得期待。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏硬件",
+        "title": "科隆展现无摇杆手柄BASH Controller",
+        "link": "https://www.gcores.com/articles/219661",
+        "summary": "科隆游戏展上出现BASH Controller，它去掉传统双摇杆，改用两块柔性硅胶操控，作者柏亚舟分享上手体验。",
+        "comment": "去摇杆设计大胆，但手感与精度仍待验证。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影",
+        "title": "《Your Mother》影评：马赫沙拉·阿里化身剑客",
         "link": "https://www.ign.com/articles/your-mother-your-mother-your-mother-review",
-        "summary": "IGN发布《Your Mother Your Mother Your Mother》影评，马赫沙拉·阿里饰演虔诚的持剑刺客，与曾有望执导《刀锋战士》的导演合作。",
-        "comment": "阿里再演持剑刺客，与失之交臂的刀锋导演合作，颇具看点。",
+        "summary": "IGN评《Your Mother Your Mother Your Mother》：马赫沙拉·阿里饰演虔诚的持剑刺客，与曾有望执导《刀锋战士》的导演合作。",
+        "comment": "阿里再演剑客，导演组合引人关注。",
         "image": "https://assets-prd.ignimgs.com/2026/08/27/your-mother-your-mother-your-mother-ymx3-01886-r-rgb-1787852336928.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
+        "tag": "暗黑破坏神5",
+        "title": "暗黑破坏神5公布三个职业，两个回归暗黑3",
+        "link": "https://www.gamespot.com/articles/diablo-5s-revealed-classes-are-throwbacks-to-diablo-3-with-one-exception/",
+        "summary": "暗黑破坏神5预计2029年春季发售，暴雪已公布三个可玩职业，其中武僧和恶魔猎手等两个职业回归暗黑3，另有一个例外。",
+        "comment": "职业回归暗黑3，暴雪在打安全牌。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo5ClassPlagueKnight.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
         "tag": "有声读物",
-        "title": "机核有声读物《深渊漫步者》上线",
+        "title": "机核有声读物《深渊漫步者》演绎深海怪谈",
         "link": "https://www.gcores.com/radios/219649",
-        "summary": "机核发布有声小说《深渊漫步者》，由《迪迦奥特曼》主编剧小中千昭创作，讲述深海6500探索日本海沟发现人体模型头颅的悬疑前传故事。",
+        "summary": "机核发布有声小说《深渊漫步者》，由《迪迦奥特曼》主编剧小中千昭创作，讲述日本海沟六千米深处发现人体模型头颅的怪谈故事。",
         "comment": "小中千昭的深海怪谈，有声形式更添诡异氛围。",
         "image": "",
         "score": 88
@@ -25,32 +55,92 @@
       {
         "category": "时事热点",
         "tag": "印尼",
-        "title": "印尼渡轮爪哇海失踪 6死107获救",
+        "title": "印尼渡轮爪哇海倾覆 6死130失踪",
         "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-        "summary": "印尼Virgo Transport 8号渡轮在爪哇海遭遇恶劣天气后失踪，已致6人死亡、107人获救，另有约130人下落不明，船只和直升机正展开搜救。",
-        "comment": "海上搜救争分夺秒，恶劣天气再敲安全警钟。",
+        "summary": "印尼渡轮Virgo Transport 8在爪哇海遭遇恶劣天气倾覆，已致6人死亡、130人失踪。船只和直升机正在搜救失踪人员。",
+        "comment": "恶劣天气下的渡轮安全再敲警钟。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "史酷比",
+        "title": "《史酷比：起源》真人版狗新照曝光",
+        "link": "https://www.ign.com/articles/scooby-doo-origins-new-dog-photo",
+        "summary": "IGN发布《史酷比：起源》真人版电影中史酷比狗的新照片，造型可爱，影片具体上映信息尚未公布。",
+        "comment": "萌宠造型讨喜，但影片质量仍待观察。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/11/scooby-s1-pullasides-00083r2cv2-1280-1789163418311.jpg",
+        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "AI安全",
         "title": "前Anthropic研究员称AI从业者对人类未来感到恐惧",
         "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-        "summary": "前Anthropic研究员向BBC表示，AI从业者对人类未来感到真切恐惧。此前该公司CEO以风险严重为由呼吁放缓AI开发。",
+        "summary": "一名前Anthropic研究员向BBC表示，AI行业员工对人类未来感到真切恐惧。此前该公司CEO呼吁放缓AI开发，称存在严重风险。",
         "comment": "内部人恐惧与CEO呼吁放缓，AI安全焦虑正从边缘走向主流。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "美国",
-        "title": "因发帖谈柯克遇刺被解雇者：有人获赔，有人从头再来",
-        "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-        "summary": "柯克遇刺后，一些员工因相关发帖被解雇。有人从雇主处获得高额和解赔偿，也有人被迫从零开始重建生活。",
-        "comment": "言论代价悬殊，法律与生计的博弈仍在继续。",
+        "tag": "金砖国家",
+        "title": "伊朗战争重塑金砖关系但暴露分歧",
+        "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+        "summary": "金砖国家成员一致认为需要新的全球秩序，但在替代方案及实现路径上难以达成共识。",
+        "comment": "共识止于口号，分歧才是现实。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "土耳其",
+        "title": "土耳其警方突袭同性恋酒吧并拘留LGBTQ+活动人士",
+        "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+        "summary": "土耳其警方突袭同性恋酒吧及LGBTQ+活动人士住所，拘留数十人。人权组织指责政府借家庭价值观运动打压该群体。",
+        "comment": "以家庭价值为名打压少数群体，令人警惕。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "特朗普访爱尔兰再挺统一爱尔兰",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普访爱第二天在爱尔兰公开赛上重申支持统一爱尔兰，称“很多人同意”其观点，引发关注。",
+        "comment": "特朗普再打爱尔兰牌，外交争议持续升温。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国",
+        "title": "因发帖谈柯克遇刺被解雇，有人获赔有人重来",
+        "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+        "summary": "柯克遇刺后，一些美国人因发帖谈论此事被雇主解雇。部分人赢得高额和解赔偿，另一些人则不得不从头开始。",
+        "comment": "言论与雇佣边界再成争议焦点。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "拳击",
+        "title": "加拿大传奇拳王乔治·丘瓦洛去世，享年89岁",
+        "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+        "summary": "加拿大重量级拳王乔治·丘瓦洛去世，享年89岁。他曾对阵穆罕默德·阿里和乔·弗雷泽等名将，职业生涯中从未被击倒。",
+        "comment": "从未被击倒的硬汉，拳坛传奇落幕。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国",
+        "title": "美议员飞机迫降湖面后游水上岸",
+        "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国众议员汤姆·蒂法尼乘坐的小型飞机因机械故障，在威斯康星州一湖泊紧急迫降，他随后游水上岸，未受伤。",
+        "comment": "机械故障迫降湖面，议员无恙，航空安全再敲警钟。",
+        "image": "",
+        "score": 84
       }
     ]
   }
