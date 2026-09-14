@@ -7,28 +7,38 @@
         "tag": "机器人",
         "title": "Mecka AI 获红杉领投，估值近5亿美元",
         "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "summary": "成立两年的机器人训练数据初创公司 Mecka AI 正进行红杉资本领投的新一轮融资，估值接近5亿美元，距其 A 轮融资仅数月。",
-        "comment": "机器人训练数据正成为资本争夺的新焦点。",
+        "summary": "成立两年的机器人训练数据公司 Mecka AI 正进行红杉领投的新一轮融资，估值接近5亿美元，距其A轮融资仅数月。",
+        "comment": "机器人数据赛道升温，资本抢滩卡位。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "月之暗面",
+        "title": "月之暗面瞄准20亿美元年收入",
+        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+        "summary": "TechCrunch报道，Kimi开发商月之暗面将年度营收目标定为20亿美元。OpenRouter数据显示，K3模型每日生成token量高达3000亿，但近期使用量略有下滑。",
+        "comment": "营收目标激进，K3用量下滑需警惕。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI存储架构支撑10亿ChatGPT用户",
+        "title": "OpenAI存储平台支撑10亿ChatGPT用户",
         "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "summary": "OpenAI将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户、每秒2200万次请求。",
-        "comment": "存储工程是AI规模化的隐形战场。",
+        "summary": "OpenAI将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户，每秒处理2200万次请求。",
+        "comment": "存储架构规模化是AI服务的关键基建。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI编程",
-        "title": "Cognition借助GPT-6 Astra让Devin自测代码",
+        "tag": "人工智能",
+        "title": "Cognition 用 GPT‑6 Astra 助 Devin 自测代码",
         "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "summary": "OpenAI称GPT-6 Astra提升了Devin测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
-        "comment": "AI编程代理正从写代码转向自证正确。",
+        "summary": "OpenAI 称 GPT‑6 Astra 提升了 Devin 测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
+        "comment": "AI 编程代理开始补上自测短板。",
         "image": "",
         "score": 100
       },
@@ -37,8 +47,8 @@
         "tag": "人工智能",
         "title": "YC合伙人Garry Tan呼吁美国开放权重AI实验室蒸馏前沿模型",
         "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "summary": "Y Combinator的Garry Tan主张美国小型开放权重AI实验室应借鉴前沿实验室的训练技术，以增强美国开放权重模型的多样性和竞争力。",
-        "comment": "蒸馏争议再起，开放与安全如何平衡？",
+        "summary": "Y Combinator的Garry Tan主张美国小型开放权重AI实验室应借鉴前沿实验室的训练技术，通过蒸馏方式增强美国开放权重模型生态，以应对全球竞争。",
+        "comment": "蒸馏前沿模型或加速美国开放权重生态追赶。",
         "image": "",
         "score": 99
       },
@@ -47,27 +57,17 @@
         "tag": "OpenAI",
         "title": "OpenAI与数学家矛盾持续升级",
         "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "summary": "25位顶尖数学家联名公开信，指责AI实验室威胁其智力工作，OpenAI与数学界的冲突进一步激化。",
-        "comment": "AI扩张正撞上学术伦理边界。",
+        "summary": "25位顶尖数学家联名公开信，指责AI实验室威胁其智力工作，OpenAI与数学界的冲突进一步加剧。",
+        "comment": "AI与学术界的版权与伦理摩擦正走向公开化。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "月之暗面",
-        "title": "月之暗面瞄准20亿美元年收入",
-        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-        "summary": "月之暗面为Kimi母公司，目标年收入20亿美元。K3模型近期使用量略降，但OpenRouter数据显示其每日生成token达3000亿。",
-        "comment": "K3用量回落仍撑起高营收目标，商业化待验证。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026 展位预订仅剩一周",
+        "tag": "科技活动",
+        "title": "TechCrunch Disrupt 2026展位预订仅剩一周",
         "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "summary": "TechCrunch Disrupt 2026 展位预订仅剩一周，展位数量有限，可能在9月18日截止前售罄，需尽快锁定。",
+        "summary": "TechCrunch Disrupt 2026展位预订仅剩一周，展位数量有限，可能在9月18日截止前售罄。",
         "comment": "活动招商信息，与AI技术本身无关。",
         "image": "",
         "score": 94
@@ -77,40 +77,20 @@
         "tag": "TechCrunch",
         "title": "TechCrunch Disrupt 2026 边会申请今晚截止",
         "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "summary": "TechCrunch Disrupt 2026 官方边会主办申请将于太平洋时间9月11日23:59截止，这是最后机会。",
-        "comment": "活动运营提醒，与AI技术本身无关。",
+        "summary": "TechCrunch Disrupt 2026 官方边会主办方申请将于太平洋时间9月11日23:59截止，这是最后申请机会。",
+        "comment": "活动报名提醒，行业关注度有限。",
         "image": "",
         "score": 94
       },
       {
         "category": "数码科技",
-        "tag": "GPT-6",
-        "title": "GPT-6 3D案例被指用现成素材，爱范儿实测复现",
-        "link": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿指出 GPT-6 爆火的 3D 生成案例使用了现成素材，并亲自用 GPT-6 与 Hyper3D MCP 组合实测 3D 创作效果。",
-        "comment": "案例翻车后实测，才是检验工具的真实方式。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果折叠iPhone：真正折叠的是iOS",
+        "title": "苹果折叠iPhone曝光：液态玻璃设计惊艳",
         "link": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析苹果折叠iPhone，指出其核心创新在于iOS系统对折叠形态的适配，液态玻璃交互设计带来惊艳体验。",
-        "comment": "折叠屏竞争已从硬件转向系统交互。",
+        "summary": "爱范儿报道苹果折叠iPhone，其液态玻璃设计成为亮点，真正折叠的是iOS系统，引发对折叠屏交互的重新理解。",
+        "comment": "折叠屏竞争转向系统交互，苹果后发或定新标准。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "快充",
-        "title": "制糖工厂发布硬糖小魔头Max60：60W AVS快充",
-        "link": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，让新一代快充体验更普及。",
-        "comment": "AVS快充落地配件，iPhone 18 Pro用户值得关注。",
-        "image": "",
-        "score": 90
+        "score": 92
       },
       {
         "category": "数码科技",
@@ -118,17 +98,27 @@
         "title": "外滩大会观察：健康AI与硬件融合新路径",
         "link": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "爱范儿在外滩大会观察到，健康AI与硬件结合正探索让用户长期使用的服务模式，而非短期噱头。",
-        "comment": "健康AI硬件需解决长期使用难题，方向对了。",
+        "comment": "健康AI硬件需解决长期使用难题，方向对但落地待验证。",
         "image": "",
-        "score": 90
+        "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "iPhone",
-        "title": "iPhone Duo未发先炒至9.9万，人人影视再下架",
-        "link": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星借iPhone Duo发布调侃苹果，OpenAI限制竞品在ChatGPT投放广告，奥迪在华重划双品牌，人人影视回归约10天再次下架。",
-        "comment": "炒作与下架齐飞，科技圈热闹依旧。",
+        "tag": "GPT-6",
+        "title": "GPT-6爆火3D案例被指用现成素材，爱范儿实测复现",
+        "link": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿指出GPT-6爆火的3D案例实际使用了现成素材，并亲自用GPT-6搭配Hyper3D MCP复现3D创作流程，验证其真实能力。",
+        "comment": "爆款案例掺水，实测才能看清工具成色。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "快充",
+        "title": "制糖工厂发布硬糖小魔头Max60：60W AVS动态快充",
+        "link": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，为新一代快充体验而来。",
+        "comment": "AVS快充落地配件，iPhone 18 Pro用户值得关注。",
         "image": "",
         "score": 90
       }

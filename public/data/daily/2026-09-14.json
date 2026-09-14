@@ -4,13 +4,113 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Perplexity用GPT-6 Astra实现端到端系统",
+        "tag": "GPT-6",
+        "title": "Perplexity用GPT-6 Astra端到端运维系统",
         "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-        "summary": "Perplexity借助GPT-6 Astra编写沟通内容、修改软件并监控生产系统，对模型的检查频率远低于早期模型。",
-        "comment": "AI代理正从辅助走向接管关键流程。",
+        "summary": "Perplexity借助GPT-6 Astra编写沟通内容、修改软件并监控生产系统，与早期模型相比人工检查频率大幅降低。",
+        "comment": "AI自主运维迈出实质一步，但风险管控仍是关键。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "iPhone 18 Pro首批售罄，发货延至10月",
+        "link": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿早报：iPhone 18 Pro首批售罄，发货延至10月；集邦咨询预计iPhone Duo今年出货500万台，占折叠屏市场近四分之一；OpenAI放弃今年上市；Kimi K2.8 Preview全量上线，会员开放100万上下文。",
+        "comment": "苹果新机热度不减，折叠屏与AI模型竞争同步升温。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "炉石传说",
+        "title": "小红花夺炉石世界冠军赛冠军",
+        "link": "https://www.gcores.com/articles/219680",
+        "summary": "暴雪嘉年华现场，黑马小红花击败上届冠军小惕夺冠，国服选手首次包揽冠亚军，并实现世界冠军三连冠。",
+        "comment": "国服炉石统治力尽显，新王登基实至名归。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "守望先锋",
+        "title": "《守望先锋》联动《赛博朋克：边缘行者》",
+        "link": "https://www.gcores.com/articles/219679",
+        "summary": "暴雪嘉年华现场，CDPR宣布《守望先锋》将与《赛博朋克：边缘行者》及续作联动，《赛博朋克2077》年内登陆国际服战网。",
+        "comment": "跨IP联动加战网上架，CDPR与暴雪各取所需。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "VR游戏",
+        "title": "VR《Moss》系列开发商Polyarc Games宣布关闭",
+        "link": "https://www.gcores.com/articles/219664",
+        "summary": "西雅图工作室Polyarc Games宣布停止运营，结束近12年开发历程。公司公布29人裁员名单，涵盖美术、设计、动画与工程岗位，呼吁业界联系这些前成员。",
+        "comment": "VR精品工作室再少一家，行业寒冬未过。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "守望先锋",
+        "title": "韩国4比1胜沙特夺守望先锋世界杯冠军",
+        "link": "https://www.gcores.com/articles/219678",
+        "summary": "2026年《守望先锋》世界杯在暴雪嘉年华现场落幕，韩国以4比1击败沙特夺冠，时隔八年重返巅峰，也是队史第四次捧杯。",
+        "comment": "韩国守望重回王座，沙特崛起仍差一步。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "索尼",
+        "title": "彭博社曝索尼与小岛秀夫分手原因",
+        "link": "https://www.gcores.com/articles/219665",
+        "summary": "彭博社称索尼因预算、盈利与独占性顾虑，不再与小岛工作室合作《PHYSINT》，且《死亡搁浅》系列商业表现未达预期。",
+        "comment": "商业回报优先，索尼对明星制作人也失去耐心。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI眼镜",
+        "title": "应用材料副总裁谈AI眼镜普及难题",
+        "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿专访应用材料公司副总裁Paul Meissner，探讨如何让不戴眼镜的人愿意每天佩戴AI眼镜，并体验多款智能眼镜技术样品。",
+        "comment": "AI眼镜普及关键在舒适与实用，而非炫技。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "RPG",
+        "title": "《寻星者：余晖》试玩Demo上线，愿望单破十万",
+        "link": "https://www.gcores.com/articles/219671",
+        "summary": "Epictellers开发的团队制RPG《寻星者：余晖》已开启试玩Demo，愿望单突破十万。游戏采用Paizo三行动系统，提供六种职业和回合制策略战斗。",
+        "comment": "三行动系统是核心卖点，但试玩能否兑现战术深度待验证。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "GPASS公布回归游戏季节目单",
+        "link": "https://www.gcores.com/articles/219339",
+        "summary": "机核GPASS公布新一季节目单，主题定为回归游戏，从具体游戏、公司或创作经历出发，重新聚焦游戏本身，并邀请多位被反复催更的熟悉声音回归。",
+        "comment": "回归游戏本身，是内容疲劳后的清醒选择。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "瑞典选举",
+        "title": "瑞典左翼阵营以微弱优势领先，选举结果难分胜负",
+        "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "summary": "瑞典选举机构部分计票显示，左翼反对派阵营预计将赢得三席多数，但选举结果仍难分胜负。",
+        "comment": "瑞典政局悬而未决，组阁前景不明。",
+        "image": "",
+        "score": 85
       }
     ]
   }

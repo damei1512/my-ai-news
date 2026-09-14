@@ -4,13 +4,113 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Perplexity用GPT-6 Astra实现端到端系统",
+        "tag": "GPT-6",
+        "title": "Perplexity用GPT-6 Astra端到端运维系统",
         "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-        "summary": "Perplexity借助GPT-6 Astra编写沟通内容、修改软件并监控生产系统，对模型的检查频率远低于早期模型。",
-        "comment": "AI代理正从辅助走向接管关键流程。",
+        "summary": "Perplexity借助GPT-6 Astra编写沟通内容、修改软件并监控生产系统，与早期模型相比人工检查频率大幅降低。",
+        "comment": "AI自主运维迈出实质一步，但风险管控仍是关键。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "iPhone 18 Pro首批售罄，发货延至10月",
+        "link": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿早报：iPhone 18 Pro首批售罄，发货延至10月；集邦咨询预计iPhone Duo今年出货500万台，占折叠屏市场近四分之一；OpenAI放弃今年上市；Kimi K2.8 Preview全量上线，会员开放100万上下文。",
+        "comment": "苹果新机热度不减，折叠屏与AI模型竞争同步升温。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "炉石传说",
+        "title": "小红花夺炉石世界冠军赛冠军",
+        "link": "https://www.gcores.com/articles/219680",
+        "summary": "暴雪嘉年华现场，黑马小红花击败上届冠军小惕夺冠，国服选手首次包揽冠亚军，并实现世界冠军三连冠。",
+        "comment": "国服炉石统治力尽显，新王登基实至名归。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "守望先锋",
+        "title": "《守望先锋》联动《赛博朋克：边缘行者》",
+        "link": "https://www.gcores.com/articles/219679",
+        "summary": "暴雪嘉年华现场，CDPR宣布《守望先锋》将与《赛博朋克：边缘行者》及续作联动，《赛博朋克2077》年内登陆国际服战网。",
+        "comment": "跨IP联动加战网上架，CDPR与暴雪各取所需。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "VR游戏",
+        "title": "VR《Moss》系列开发商Polyarc Games宣布关闭",
+        "link": "https://www.gcores.com/articles/219664",
+        "summary": "西雅图工作室Polyarc Games宣布停止运营，结束近12年开发历程。公司公布29人裁员名单，涵盖美术、设计、动画与工程岗位，呼吁业界联系这些前成员。",
+        "comment": "VR精品工作室再少一家，行业寒冬未过。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "守望先锋",
+        "title": "韩国4比1胜沙特夺守望先锋世界杯冠军",
+        "link": "https://www.gcores.com/articles/219678",
+        "summary": "2026年《守望先锋》世界杯在暴雪嘉年华现场落幕，韩国以4比1击败沙特夺冠，时隔八年重返巅峰，也是队史第四次捧杯。",
+        "comment": "韩国守望重回王座，沙特崛起仍差一步。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "索尼",
+        "title": "彭博社曝索尼与小岛秀夫分手原因",
+        "link": "https://www.gcores.com/articles/219665",
+        "summary": "彭博社称索尼因预算、盈利与独占性顾虑，不再与小岛工作室合作《PHYSINT》，且《死亡搁浅》系列商业表现未达预期。",
+        "comment": "商业回报优先，索尼对明星制作人也失去耐心。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI眼镜",
+        "title": "应用材料副总裁谈AI眼镜普及难题",
+        "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿专访应用材料公司副总裁Paul Meissner，探讨如何让不戴眼镜的人愿意每天佩戴AI眼镜，并体验多款智能眼镜技术样品。",
+        "comment": "AI眼镜普及关键在舒适与实用，而非炫技。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "RPG",
+        "title": "《寻星者：余晖》试玩Demo上线，愿望单破十万",
+        "link": "https://www.gcores.com/articles/219671",
+        "summary": "Epictellers开发的团队制RPG《寻星者：余晖》已开启试玩Demo，愿望单突破十万。游戏采用Paizo三行动系统，提供六种职业和回合制策略战斗。",
+        "comment": "三行动系统是核心卖点，但试玩能否兑现战术深度待验证。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "GPASS公布回归游戏季节目单",
+        "link": "https://www.gcores.com/articles/219339",
+        "summary": "机核GPASS公布新一季节目单，主题定为回归游戏，从具体游戏、公司或创作经历出发，重新聚焦游戏本身，并邀请多位被反复催更的熟悉声音回归。",
+        "comment": "回归游戏本身，是内容疲劳后的清醒选择。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "瑞典选举",
+        "title": "瑞典左翼阵营以微弱优势领先，选举结果难分胜负",
+        "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "summary": "瑞典选举机构部分计票显示，左翼反对派阵营预计将赢得三席多数，但选举结果仍难分胜负。",
+        "comment": "瑞典政局悬而未决，组阁前景不明。",
+        "image": "",
+        "score": 85
       }
     ]
   },
@@ -23,48 +123,78 @@
         "title": "奥巴马敦促民主党制定AI保障明确计划",
         "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
         "summary": "奥巴马表示民主党需将人工智能列为核心议程，并制定明确计划应对该技术带来的经济等担忧。",
-        "comment": "AI监管正成为美国政治议程焦点。",
+        "comment": "AI监管正成为美国政治核心议题。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "AI行业末日警告背后有何玄机",
+        "title": "AI行业末日警告背后动因",
         "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-        "summary": "TechCrunch的Equity节目讨论了AI行业最新争论：人工智能是否对人类构成生存威胁，并分析这些警告背后的动机。",
-        "comment": "末日论调常是商业与监管博弈的筹码。",
+        "summary": "TechCrunch的Equity节目讨论AI行业最新争论：人工智能是否对人类构成生存威胁，剖析警告背后的行业动机。",
+        "comment": "末日论既是风险提醒，也是行业博弈话术。",
         "image": "",
         "score": 98
       },
       {
         "category": "游戏影视",
+        "tag": "暗黑破坏神5",
+        "title": "暗黑破坏神5确认全面制作中，2029年发售",
+        "link": "https://www.ign.com/articles/diablo-5-director-confirms-game-is-already-in-full-production",
+        "summary": "IGN报道，游戏总监Joe Shely确认《暗黑破坏神5》已进入全面制作阶段，预计2029年推出，将新增职业、程序化世界，剧情时间线向前跳跃100年。",
+        "comment": "暴雪提前锁定五年后档期，意在稳住暗黑核心玩家。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/13/d5-1789336016630.png",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "蝙蝠侠",
+        "title": "《新蝙蝠侠2》片场照暗示猫头鹰法庭",
+        "link": "https://www.ign.com/articles/the-batman-part-2-set-photos-court-of-owls-anarky",
+        "summary": "IGN报道，《新蝙蝠侠2》伦敦片场新视频和照片流出，进一步助长哥谭秘密精英组织“猫头鹰法庭”将现身该片的传闻。",
+        "comment": "片场物料精准投喂，猫头鹰法庭或成续集核心。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/13/court-of-owls-1280b-1789341897060.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "暗黑破坏神",
+        "title": "暗黑4开发团队回应网飞动画剧集",
+        "link": "https://www.ign.com/articles/hdiablo-netflix-series-blizzcon-news-interview",
+        "summary": "暗黑4主创在暴雪嘉年华采访中表达对网飞《暗黑破坏神》动画剧集的兴奋，并谈及Switch 2移植与地狱遗产赛季。",
+        "comment": "暗黑IP跨媒介扩张，剧集质量决定口碑。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/13/diablo-blogroll-1789329136118.png",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
         "tag": "魔兽世界",
-        "title": "魔兽世界新作开发者称无需推出《魔兽世界2》",
+        "title": "魔兽世界：永恒开发者解释为何难有WoW 2",
         "link": "https://www.ign.com/articles/world-of-warcraft-forever-wow-2-unlikely",
-        "summary": "《魔兽世界》新作开发者Kris Zierhut与Mike Nuthals介绍新功能，并解释为何没必要开发《魔兽世界2》续作。",
-        "comment": "官方定调：魔兽靠持续更新而非续作延续。",
+        "summary": "《魔兽世界：永恒》开发者Kris Zierhut与Mike Nuthals介绍新功能，并解释为何无需开发《魔兽世界2》续作。",
+        "comment": "暴雪用持续更新替代续作，是务实也是路径依赖。",
         "image": "https://assets-prd.ignimgs.com/2026/09/13/blizzcon2026-blogroll-1789322991703.png",
         "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "暗黑破坏神",
-        "title": "暗黑4资料片时代结束，暴雪转向暗黑5",
+        "title": "暗黑4资料片时代终结",
         "link": "https://www.gamespot.com/articles/diablo-4s-expansion-days-are-over/",
-        "summary": "暴雪在BlizzCon 2026开幕式上宣布，《暗黑破坏神4》将不再推出新资料片，开发重心转向新公布的《暗黑破坏神5》。",
-        "comment": "暗黑4停更资料片，暴雪押注暗黑5，玩家需重新评估投入。",
+        "summary": "暴雪在BlizzCon 2026宣布，《暗黑破坏神4》将不再推出新资料片，开发重心转向新公布的《暗黑破坏神5》。",
+        "comment": "暗黑4停更资料片，暴雪押注暗黑5。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo4NoNewExpansions.jpg?w=300",
         "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "英雄联盟",
-        "title": "AL夺LPL 2026总冠军，Tarzan获FMVP",
-        "link": "https://www.gcores.com/articles/219662",
-        "summary": "《英雄联盟》LPL 2026总决赛，AL以3比1击败BLG，夺得队史首座银龙杯，并将作为赛区一号种子出征全球总决赛。Tarzan当选总决赛FMVP。",
-        "comment": "AL新王登基，LPL格局生变。",
-        "image": "",
+        "tag": "暗黑破坏神4",
+        "title": "《暗黑4》野蛮人获杰洛特皮肤，但需预购《巫师3》资料片",
+        "link": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch",
+        "summary": "CD Projekt与暴雪公布《暗黑破坏神4》杰洛特主题野蛮人皮肤，玩家需在战网预购《巫师3》资料片《往日之歌》才能获得。",
+        "comment": "联动皮肤绑定预购，促销意味明显。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/13/geralt-1789330423902.png",
         "score": 92
       },
       {
@@ -72,27 +202,37 @@
         "tag": "游戏影视",
         "title": "《Your Mother Your Mother Your Mother》评测：马赫沙拉·阿里化身持剑刺客",
         "link": "https://www.ign.com/articles/your-mother-your-mother-your-mother-review",
-        "summary": "IGN发布《Your Mother Your Mother Your Mother》评测，马赫沙拉·阿里与曾有望执导《刀锋战士》的导演合作，饰演一名虔诚的持剑刺客。",
-        "comment": "阿里再演持剑刺客，导演与主演的刀锋缘分成看点。",
+        "summary": "IGN发布《Your Mother Your Mother Your Mother》评测，马赫沙拉·阿里饰演虔诚的持剑刺客，与曾有望执导《刀锋战士》的导演再度合作。",
+        "comment": "阿里再演刺客，导演与题材双重呼应，值得关注。",
         "image": "https://assets-prd.ignimgs.com/2026/08/27/your-mother-your-mother-your-mother-ymx3-01886-r-rgb-1787852336928.jpg",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "星际争霸",
-        "title": "星际争霸重启作将聚焦单人战役",
+        "title": "星际争霸新作确认为第三人称射击游戏",
+        "link": "https://www.gamespot.com/articles/the-starcraft-shooter-is-a-third-person-game-and-blizzard-insists-that-you-have-to-feel-powerful/",
+        "summary": "暴雪在星际争霸新作公布后确认，该游戏为第三人称射击类型，强调玩家需在游戏中感受到“强大”的体验。",
+        "comment": "星际IP转型射击，暴雪能否兑现“强大感”是关键。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/blizzcon_6c87dc.jpg?w=300",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "星际争霸",
+        "title": "星际争霸重启作聚焦单人战役",
         "link": "https://www.gamespot.com/articles/starcraft-reboot-is-focusing-on-single-player-creative-director-says/",
         "summary": "星际争霸创意总监Dan Hay与开发运营副经理Anna Lee Hertling表示，重启作将聚焦单人游戏体验，而非多人竞技方向。",
-        "comment": "暴雪终于想起星际争霸的单机灵魂了。",
+        "comment": "暴雪终于想起星际争霸的单人叙事传统。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/StarCraftsingleplayer.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "暴雪",
-        "title": "暴雪解释为何现在公布2030年星际争霸射击游戏",
+        "title": "暴雪解释为何提前公布2030年星际争霸射击游戏",
         "link": "https://www.gamespot.com/articles/blizzard-explains-why-the-starcraft-shooter-coming-in-2030-was-announced-now/",
-        "summary": "暴雪在暴雪嘉年华开幕式上宣布了一款开放世界射击游戏，该游戏预计2030年推出。由于此前已有传闻和报道，这一消息并不完全出人意料。",
+        "summary": "暴雪在暴雪嘉年华开幕式上宣布了一款开放世界射击游戏，背景设定在星际争霸宇宙，预计2030年推出。官方解释称，由于此前已有传闻和报道，这一公布并不完全出人意料。",
         "comment": "提前十年画饼，暴雪意在稳定军心。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/starcraft_c79b57.jpg?w=300",
         "score": 92
@@ -100,21 +240,61 @@
       {
         "category": "游戏影视",
         "tag": "暗黑破坏神5",
-        "title": "《暗黑破坏神5》公布三个职业，两个回归《暗黑3》",
+        "title": "暗黑破坏神5公布三个职业，两个回归暗黑3",
         "link": "https://www.gamespot.com/articles/diablo-5s-revealed-classes-are-throwbacks-to-diablo-3-with-one-exception/",
-        "summary": "《暗黑破坏神5》预计2029年春季发售，暴雪已公布三个可玩职业，其中武僧和恶魔猎手回归《暗黑3》，另有一个例外职业。",
-        "comment": "提前三年公布职业，暴雪意在稳住老玩家。",
+        "summary": "暴雪已公布《暗黑破坏神5》三个可玩职业，其中武僧和恶魔猎手等两个职业延续《暗黑破坏神3》设定，另有一个例外。游戏预计2029年春季发售。",
+        "comment": "职业回归暗黑3，情怀与争议并存。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo5ClassPlagueKnight.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
+        "tag": "英雄联盟",
+        "title": "AL夺LPL 2026总冠军，Tarzan获FMVP",
+        "link": "https://www.gcores.com/articles/219662",
+        "summary": "AL在《英雄联盟》LPL 2026总决赛以3比1击败BLG，夺得队史首座银龙杯，并将作为赛区一号种子出征全球总决赛，Tarzan获FMVP。",
+        "comment": "队史首冠加一号种子，AL迎来突破赛季。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "众筹",
+        "title": "RM1 CD播放器艺术画框众筹，唤起怀旧情怀",
+        "link": "https://www.ign.com/articles/how-to-back-new-rm1-cd-player-art-frame-kickstarter-project",
+        "summary": "IGN报道Kickstarter上流行的RM1 CD播放器艺术画框，可播放CD并展示封面，晚期支持者享55%折扣。",
+        "comment": "CD怀旧与家居美学结合，创意众筹值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/11/cd-player-art-frame-blogroll-1789170098490.png",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "小羊肖恩",
+        "title": "《小羊肖恩：苔藓底之兽》评测",
+        "link": "https://www.ign.com/articles/shaun-the-sheep-the-beast-of-mossy-bottom-review",
+        "summary": "IGN发布《小羊肖恩：苔藓底之兽》评测，苔藓底农场居民回归，迎来首个万圣节冒险。",
+        "comment": "肖恩首部万圣节特辑，合家欢恐怖氛围值得一看。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/11/shaun-the-sheep-the-beast-of-mossy-bottom-stills-press-photos-first-look-5539x3693-sts-beast-teaser-image-halloween-2025-3-2-rgb-1789155488108.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
         "tag": "守望先锋",
-        "title": "守望先锋开发者确认猎空仍是游戏吉祥物",
+        "title": "暴雪确认猎空仍是《守望先锋》吉祥物",
         "link": "https://www.ign.com/articles/overwatch-devs-confirm-that-yes-tracer-is-still-the-games-mascot",
-        "summary": "尽管猎空近期较少出现在大型联动和宣传物料中，守望先锋开发者仍确认她依旧是游戏的门面角色。",
-        "comment": "官方重申猎空地位，意在回应玩家对其曝光减少的疑虑。",
+        "summary": "尽管近期大型联动和宣传物料中猎空出场不多，但《守望先锋》开发团队确认她依然是游戏的门面角色。",
+        "comment": "官方表态更像安抚粉丝，猎空地位需靠内容兑现。",
         "image": "https://assets-prd.ignimgs.com/2026/09/13/overwatch-blizzcon-2026-dev-interview-tracer-1789268684009.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "星际争霸",
+        "title": "星际争霸新作确认可对抗神族",
+        "link": "https://www.gamespot.com/articles/youll-fight-the-protoss-in-starcraft-too-dont-worry/",
+        "summary": "GameSpot报道，星际争霸新作预告片虽以人族和虫族对抗为主，但官方确认玩家也能与神族交战，三大种族均会登场。",
+        "comment": "三大种族齐活，老玩家可以放心了。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/zerg.jpg?w=300",
         "score": 91
       },
       {
@@ -122,8 +302,8 @@
         "tag": "游戏硬件",
         "title": "手柄摇杆的终极进化，是去掉摇杆？",
         "link": "https://www.gcores.com/articles/219661",
-        "summary": "科隆游戏展上出现BASH Controller，它去掉传统双摇杆，改用两块柔性硅胶替代，作者柏亚舟分享这一怪异新体验。",
-        "comment": "去摇杆设计大胆，但手感与精度待验证。",
+        "summary": "科隆游戏展上出现BASH Controller手柄，完全去掉传统摇杆，改用两块柔性硅胶替代，作者柏亚舟分享这一新奇体验。",
+        "comment": "去摇杆设计大胆，但手感与精度仍是疑问。",
         "image": "",
         "score": 90
       },
@@ -132,28 +312,18 @@
         "tag": "有声读物",
         "title": "机核有声读物《深渊漫步者》上线",
         "link": "https://www.gcores.com/radios/219649",
-        "summary": "机核发布有声小说《深渊漫步者》，由《迪迦奥特曼》主编剧小中千昭创作，讲述深海6500探索日本海沟时发现人体模型头颅的悬疑前传故事。",
-        "comment": "小中千昭的深海悬疑，有声形式值得一听。",
+        "summary": "机核发布有声小说《深渊漫步者》，由《迪迦奥特曼》主编剧小中千昭创作，讲述深海6500探索日本海沟发现人体模型头颅的悬疑前传故事。",
+        "comment": "小中千昭的深海怪谈，有声形式更添诡异氛围。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "星际争霸",
-        "title": "暴雪星际射击新作确认为第三人称游戏",
-        "link": "https://www.gamespot.com/articles/the-starcraft-shooter-is-a-third-person-game-and-blizzard-insists-that-you-have-to-feel-powerful/",
-        "summary": "暴雪公布星际争霸射击新作，确认采用第三人称视角，强调玩家必须感受到强大力量。此前亮相未说明游戏类型，引发玩家困惑。",
-        "comment": "星际IP转型射击，第三人称能否延续经典？",
-        "image": "",
-        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "俄乌冲突",
         "title": "约翰逊离开后俄军袭击乌克兰火车站",
         "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "summary": "英国前首相约翰逊与欧洲官员离开乌克兰一火车站后不久，俄军袭击了停靠在波兰边境的乌方列车。约翰逊谴责普京此举逻辑扭曲。",
-        "comment": "时机敏感，俄方意在震慑西方高层访问。",
+        "summary": "英国前首相约翰逊与欧洲官员离开乌克兰一火车站后不久，俄军袭击了停靠在该站的列车。约翰逊谴责普京此举逻辑扭曲。",
+        "comment": "时机敏感，俄军袭击意在威慑西方高层访问。",
         "image": "",
         "score": 87
       },
@@ -162,8 +332,18 @@
         "tag": "印尼",
         "title": "印尼渡轮爪哇海倾覆 6死130失踪",
         "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-        "summary": "印尼渡轮Virgo Transport 8在爪哇海遇恶劣天气倾覆，已致6人死亡、130人失踪，船只与直升机正展开搜救。",
+        "summary": "印尼“Virgo Transport 8”号渡轮在爪哇海遇恶劣天气倾覆，已致6人死亡、130人失踪，船只与直升机正展开搜救。",
         "comment": "恶劣天气下的渡轮安全再敲警钟。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "土耳其",
+        "title": "土耳其警方突袭同性恋酒吧并拘留数十人",
+        "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+        "summary": "土耳其警方突袭同性恋酒吧及LGBTQ+活动人士住所，拘留数十人。人权组织指责政府借家庭价值观运动打压该群体。",
+        "comment": "以家庭价值为名打压少数群体，令人警惕。",
         "image": "",
         "score": 87
       },
@@ -172,18 +352,18 @@
         "tag": "史酷比",
         "title": "《史酷比：起源》真人版狗新照曝光",
         "link": "https://www.ign.com/articles/scooby-doo-origins-new-dog-photo",
-        "summary": "IGN发布《史酷比：起源》真人版电影中史酷比狗的新剧照，造型可爱，影片具体上映信息尚未公布。",
+        "summary": "IGN发布《史酷比：起源》真人版电影中史酷比狗的新照片，造型可爱，影片具体上映信息尚未公布。",
         "comment": "萌宠造型讨喜，但真人化效果仍待正片检验。",
         "image": "https://assets-prd.ignimgs.com/2026/09/11/scooby-s1-pullasides-00083r2cv2-1280-1789163418311.jpg",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "AI风险",
+        "tag": "特朗普",
         "title": "特朗普淡化AI风险警告，称中国竞争是关键",
         "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国总统特朗普淡化AI风险警告，称“负面势力”在炒作“不会发生的事”，并强调与中国竞争的重要性。",
-        "comment": "AI安全议题被地缘竞争叙事盖过，值得警惕。",
+        "summary": "美国总统特朗普淡化AI风险警告，称“负面力量”在炒作“不会发生的事”，并强调与中国竞争。",
+        "comment": "AI安全议题被地缘竞争叙事裹挟，值得警惕。",
         "image": "",
         "score": 86
       },
@@ -192,38 +372,28 @@
         "tag": "人工智能",
         "title": "AI发展放缓会是什么样？疑问渐增",
         "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC探讨AI发展放缓的可能形态，指出控制AI开发节奏虽听起来简单，但实际操作远非易事。",
-        "comment": "AI减速知易行难，全球协调更是难题。",
+        "summary": "BBC探讨AI发展放缓的可能性，指出虽然控制开发节奏看似是快速解决方案，但实际操作远非易事，相关疑问正在增多。",
+        "comment": "放缓AI发展知易行难，全球协调是核心难题。",
         "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "土耳其",
-        "title": "土耳其警方突袭同性恋酒吧并拘留数十人",
-        "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-        "summary": "土耳其警方突袭同性恋酒吧及LGBTQ+活动人士住所，拘留数十人。人权组织指责政府借家庭价值观运动打压该群体。",
-        "comment": "以家庭价值为名打压少数群体，值得警惕。",
-        "image": "",
-        "score": 86
+        "score": 85
       },
       {
         "category": "时事热点",
         "tag": "金砖国家",
         "title": "伊朗战争重塑金砖关系但暴露分歧",
         "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-        "summary": "金砖国家一致认为需要新的全球秩序，但在替代方案及实现路径上难以达成共识，伊朗战争进一步凸显内部分歧。",
-        "comment": "共识止于批评旧秩序，建设性方案仍缺位。",
+        "summary": "金砖国家成员一致认为需要新的全球秩序，但在替代方案及实现路径上难以达成共识，伊朗战争进一步凸显了内部分歧。",
+        "comment": "共识止于口号，分歧始于方案。",
         "image": "",
-        "score": 86
+        "score": 85
       },
       {
         "category": "时事热点",
         "tag": "特朗普",
         "title": "特朗普称将取消爱尔兰威士忌关税",
         "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-        "summary": "特朗普结束两天访问时表示，将取消对爱尔兰共和国威士忌征收的15%关税，该税率适用于所有进入美国的欧盟商品。",
-        "comment": "关税豁免或为访问外交成果，实际落地待观察。",
+        "summary": "特朗普结束两天访问时表示，将取消对爱尔兰共和国威士忌征收的15%关税，该税率适用于进入美国的欧盟商品。",
+        "comment": "关税让步或为访问成果，但欧盟整体贸易摩擦未解。",
         "image": "",
         "score": 85
       },
@@ -232,30 +402,20 @@
         "tag": "拳击",
         "title": "加拿大传奇拳王乔治·丘瓦洛去世，享年89岁",
         "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-        "summary": "加拿大重量级拳王乔治·丘瓦洛去世，享年89岁。他曾对阵穆罕默德·阿里和乔·弗雷泽等名将，职业生涯从未被击倒或KO。",
-        "comment": "从未被击倒的硬汉，拳坛传奇落幕。",
+        "summary": "加拿大重量级拳王乔治·丘瓦洛去世，享年89岁。他曾对阵穆罕默德·阿里和乔·弗雷泽等名将，职业生涯从未被击倒。",
+        "comment": "从未被击倒的拳坛硬汉，一个时代的见证者。",
         "image": "",
         "score": 85
       },
       {
         "category": "时事热点",
-        "tag": "美国",
-        "title": "因发帖谈柯克遇刺被解雇，有人获赔有人重来",
-        "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-        "summary": "柯克遇刺后，一些美国人因发帖谈论此事遭解雇。部分人从雇主处获得高额和解金，另一些人则不得不从零开始。",
-        "comment": "言论代价悬殊，法律与生计的博弈仍在继续。",
-        "image": "",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国",
+        "tag": "航空安全",
         "title": "美议员飞机迫降湖面后游水上岸",
         "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
         "summary": "美国众议员汤姆·蒂法尼乘坐的小型飞机因机械故障，在威斯康星州一湖泊紧急迫降，他随后游水上岸，未受伤。",
-        "comment": "机械故障迫降湖面，议员无恙但航空安全再引关注。",
+        "comment": "机械故障迫降湖面，议员无恙但航空安全再敲警钟。",
         "image": "",
-        "score": 83
+        "score": 84
       }
     ]
   },
@@ -268,89 +428,19 @@
         "title": "OpenAI CEO称2026年上市“不明智”",
         "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
         "summary": "OpenAI已秘密提交IPO申请，但CEO Sam Altman表示公司今年不会上市，认为2026年上市并不明智。",
-        "comment": "AI巨头上市节奏受制于监管与市场窗口。",
+        "comment": "AI巨头上市节奏受战略与市场双重制约。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "AI治理",
-        "title": "Anthropic CEO提出放缓AI发展计划",
+        "title": "Anthropic CEO 提出放缓AI发展计划",
         "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-        "summary": "Anthropic的Dario Amodei与OpenAI的Sam Altman似乎都认同应“放缓前沿”，但具体如何实施仍待明确。",
-        "comment": "放缓AI发展共识渐成，落地路径才是关键。",
+        "summary": "Anthropic CEO Dario Amodei 与 OpenAI 的 Sam Altman 似乎一致认为应“放缓前沿”，但具体如何实施尚不明确。",
+        "comment": "放缓前沿需可执行机制，而非仅共识。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神5",
-        "title": "暗黑破坏神5公布三职业与UI首曝",
-        "link": "https://www.ign.com/articles/diablo-5-forging-the-next-era-panel-everything-announced",
-        "summary": "暴雪在2026暴雪嘉年华公布《暗黑破坏神5》三个职业、UI界面首度亮相，并展示更多内容。",
-        "comment": "暗黑5正式官宣，系列进入新纪元。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/12/blizzcon-2026-main-stage-diablo-v-forging-the-next-era-4-50-12-screenshot-1789251095454.png",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暴雪",
-        "title": "暴雪BlizzCon 2026压轴公布《魔兽世界：永恒》",
-        "link": "https://www.ign.com/articles/blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warcraft-forever",
-        "summary": "暴雪在BlizzCon 2026开幕式结尾抛出重磅消息，正式公布《魔兽世界：永恒》，作为整场活动的压轴内容。",
-        "comment": "暴雪用压轴新作稳住魔兽基本盘。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/12/wow2-1789239447240.png",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：无限》正式官宣",
-        "link": "https://www.gcores.com/articles/219633",
-        "summary": "暴雪嘉年华宣布《魔兽世界：无限》，基于经典60级艾泽拉斯分叉出全新平行世界线，加入新区域、地牢和副本。国际服9月17日测试，国服2026年11月5日全球同步上线。",
-        "comment": "经典60级平行世界，情怀与创新并行的豪赌。",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神",
-        "title": "《暗黑破坏神5》正式公布，2029年发售",
-        "link": "https://www.gcores.com/articles/219630",
-        "summary": "暴雪嘉年华现场公布《暗黑破坏神5》，定于2029年发售。故事设定在迪亚波罗获胜、庇护之地沦陷的世界，英雄不复存在，城镇也无法提供庇护。",
-        "comment": "暗黑IP重启新篇，黑暗设定拉满期待。",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "星际争霸",
-        "title": "星际争霸新作定档2030年",
-        "link": "https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030",
-        "summary": "IGN采访星际争霸新作开发者，解释为何公布如此遥远的发售日，并透露部分玩法元素。",
-        "comment": "2030年承诺更像画饼，暴雪信誉待考。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/12/starcraft-dev-interview-blizzcon-2026-1789253765891.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽争霸3",
-        "title": "《魔兽争霸3：重制版》遗落王国战役评测",
-        "link": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review",
-        "summary": "IGN评测《魔兽争霸3：重制版》新增单人战役“遗落王国”，认为其保留了经典魔兽3的手感，同时融入了一些新想法。",
-        "comment": "经典手感加新意，但重制版口碑仍是隐忧。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/12/warcraft-3-expansion-blogroll-1789246436615.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "守望先锋",
-        "title": "守望先锋曝光新智械英雄",
-        "link": "https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-coming-later-this-year",
-        "summary": "暴雪在公布Doctrine后，又放出另一位新守望先锋英雄的预告，该智械英雄预计今年晚些时候上线。",
-        "comment": "连续放料，暴雪在为守望先锋续热度。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/12/overwatch-omnic-hero-blizzcon-1789244711172.png",
-        "score": 93
       },
       {
         "category": "游戏影视",
@@ -368,38 +458,28 @@
         "title": "《魔兽争霸3》二十年来首个新RTS战役今日上线",
         "link": "https://www.gamespot.com/articles/warcraft-getting-its-first-new-rts-campaign-in-two-decades-and-its-playable-today/",
         "summary": "暴雪在BlizzCon 2026开幕宣布，《魔兽争霸3》新战役将探索被遗忘者的起源与幽暗城的建立，今日晚些时候即可游玩。",
-        "comment": "经典RTS时隔二十年补新章，情怀与内容双管齐下。",
+        "comment": "老IP靠新战役续命，情怀与内容缺一不可。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/1000003826.jpg?w=300",
         "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "炉石传说",
-        "title": "《炉石传说》新职业武僧公布，2V2模式同步揭晓",
-        "link": "https://www.gcores.com/articles/219631",
-        "summary": "《炉石传说》公布新职业武僧，将于2027年实装。嘉年华现场还揭晓酒馆战棋新随从，并确认推出2V2对战模式，玩家共享血线、可互传手牌，支持好友组队或随机匹配。",
-        "comment": "新职业加2V2，炉石试图用社交玩法拉回老玩家。",
-        "image": "",
+        "tag": "暴雪",
+        "title": "暴雪时隔六年为《风暴英雄》推出新角色",
+        "link": "https://www.gamespot.com/articles/for-the-first-time-in-6-years-blizzard-is-bringing-a-new-character-to-heroes-of-the-storm/",
+        "summary": "暴雪MOBA游戏《风暴英雄》自2022年开发团队转岗后基本停更，如今时隔六年首次加入新角色，打破长期无新英雄的局面。",
+        "comment": "停更多年后突然更新，更像情怀续命而非重启。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/hots.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "暴雪",
+        "tag": "暴雪嘉年华",
         "title": "暴雪嘉年华2026开幕式：重大公告与游戏汇总",
         "link": "https://www.gamespot.com/articles/blizzcon-2026-opening-ceremony-all-the-biggest-announcements-and-games/",
         "summary": "暴雪嘉年华2026开幕式公布多项重大公告与新游戏，涵盖暴雪旗下主要IP的最新动态。",
-        "comment": "暴雪急需用实质内容重赢玩家信任。",
+        "comment": "暴雪急需用实质内容重振玩家信心。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/BlizzCon-2026-2.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：最后的泰坦》CG首曝，先看萨拉塔斯",
-        "link": "https://www.gamespot.com/articles/wow-the-last-titan-cinematic-ups-the-stakes-but-first-xalatath/",
-        "summary": "暴雪在2026年暴雪嘉年华开幕式上公布《魔兽世界》新资料片《最后的泰坦》CG，延续传统为下一部资料片铺垫剧情。",
-        "comment": "CG先行，萨拉塔斯仍是关键伏笔。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Blizzcon-2026-Livestream-_-Day-1-2-11-35-screenshot.jpg?w=300",
         "score": 92
       },
       {
@@ -407,8 +487,8 @@
         "tag": "苹果",
         "title": "特努斯回应一切，技术型苹果CEO回归",
         "link": "https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果硬件工程高级副总裁特努斯罕见接受采访，回应外界关注的技术与产品问题，被视为技术派重新主导苹果的信号。",
-        "comment": "技术派回归，苹果或重拾硬核创新。",
+        "summary": "爱范儿报道，苹果硬件工程高级副总裁特努斯罕见回应外界关切，被视为技术派高管重新主导苹果的信号。",
+        "comment": "技术派回归，或影响苹果产品路线。",
         "image": "",
         "score": 91
       },
@@ -417,8 +497,8 @@
         "tag": "Apple Watch",
         "title": "Apple Watch 成为苹果最新 AI 硬件",
         "link": "https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，Apple Watch 刚刚成为苹果最新的 AI 硬件，显示苹果正将 AI 能力延伸至可穿戴设备。",
-        "comment": "可穿戴设备或成苹果 AI 落地关键入口。",
+        "summary": "爱范儿报道，Apple Watch 刚刚成为苹果最新的 AI 硬件，显示苹果正将 AI 能力扩展至可穿戴设备。",
+        "comment": "可穿戴设备或成苹果 AI 落地新入口。",
         "image": "",
         "score": 91
       },
@@ -427,78 +507,18 @@
         "tag": "苹果",
         "title": "苹果CEO回应折叠屏迟到：不做半成品",
         "link": "https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果CEO特努斯回应折叠屏迟到，称不做半成品；特斯拉Model Y高性能版36.9万元上市；长鑫存储利润率超三星海力士。",
-        "comment": "苹果宁缺毋滥，折叠屏赛道竞争仍存变数。",
+        "summary": "苹果CEO特努斯回应折叠屏迟到，称不做半成品；长鑫存储利润率超三星海力士；特斯拉Model Y高性能版36.9万元上市。",
+        "comment": "折叠屏迟到是策略，不是技术落后。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神",
-        "title": "《暗黑破坏神》动画官宣，暗黑4迎30周年新赛季",
-        "link": "https://www.gcores.com/articles/219634",
-        "summary": "为庆祝系列诞生三十周年，《暗黑破坏神》动画系列正式官宣，《暗黑破坏神4》将推出地狱遗赠新赛季及亚马逊职业包，赛季任务线将重制历代经典内容。",
-        "comment": "三十周年靠动画和赛季续命，暗黑IP仍在吃老本。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽争霸3",
-        "title": "《魔兽争霸3》重制版新资料片公布",
-        "link": "https://www.gcores.com/articles/219636",
-        "summary": "《魔兽争霸3》重制版公布新资料片“被遗忘的王国”，剧情衔接阿尔萨斯弑父后，讲述希尔瓦娜斯建立被遗忘者与幽暗城。新增英雄“被遗忘者圣骑士”，所有玩家可体验。",
-        "comment": "经典IP补剧情空白，情怀与内容双管齐下。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "守望先锋",
-        "title": "《守望先锋》新辅助英雄“血律”公布",
-        "link": "https://www.gcores.com/articles/219629",
-        "summary": "暴雪嘉年华公布《守望先锋》全新辅助英雄“血律”，末日铁拳宣布复活并率盟友从格里姆火山监测站将其救出，玩家即日起至15日可在限时试炼中抢先体验。",
-        "comment": "新英雄绑定末日铁拳复活剧情，叙事与玩法同步推进。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "X战警",
-        "title": "X战警新星谈如何练好罗刹女南方口音",
-        "link": "https://www.ign.com/articles/x-men-star-inde-navarrette-teases-her-plan-to-nail-rogues-southern-accent",
-        "summary": "因《Obsession》走红的印第·纳瓦雷特透露，她已制定计划，确保在新《X战警》电影中精准还原罗刹女标志性的南方口音。",
-        "comment": "口音细节见真章，演员用心值得肯定。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/12/inde-navarrette-rogue-accent-1789242103797.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暴雪",
-        "title": "暴雪时隔六年为《风暴英雄》推出新角色",
-        "link": "https://www.gamespot.com/articles/for-the-first-time-in-6-years-blizzard-is-bringing-a-new-character-to-heroes-of-the-storm/",
-        "summary": "暴雪MOBA游戏《风暴英雄》自2022年开发团队转移后基本停更，如今时隔六年首次加入新角色，打破长期无新英雄的局面。",
-        "comment": "停更多年后突然更新，更像情怀试探而非重启。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/hots.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "风暴英雄",
-        "title": "《风暴英雄》新英雄萨拉塔斯正式揭晓",
-        "link": "https://www.gcores.com/articles/219635",
-        "summary": "暴雪嘉年华现场揭晓《风暴英雄》新英雄萨拉塔斯，她离开艾泽拉斯前往万象界域，使用黑暗之心掌控战场，以虚无之力施压并随战斗变得更致命。国际服预购组合包可获造型与坐骑。",
-        "comment": "风暴要火喊了多年，这次新英雄能救活吗？",
-        "image": "",
-        "score": 90
       },
       {
         "category": "数码科技",
-        "tag": "科技产品",
+        "tag": "Duo",
         "title": "Duo 作为科技产品命名的前世今生",
         "link": "https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿梳理科技产品中「Duo」命名的历史，并展望 iPhone Duo 大屏可能带来的新用法。",
-        "comment": "命名考古有趣，但关键还是 iPhone Duo 的实际体验。",
+        "summary": "爱范儿梳理「Duo」在科技产品命名中的历史，并预告拿到 iPhone Duo 真机后，将重点体验大屏带来的新用法。",
+        "comment": "命名考古有趣，但真机体验才是关键。",
         "image": "",
         "score": 88
       }
@@ -512,28 +532,38 @@
         "tag": "机器人",
         "title": "Mecka AI 获红杉领投，估值近5亿美元",
         "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "summary": "成立两年的机器人训练数据初创公司 Mecka AI 正进行红杉资本领投的新一轮融资，估值接近5亿美元，距其 A 轮融资仅数月。",
-        "comment": "机器人训练数据正成为资本争夺的新焦点。",
+        "summary": "成立两年的机器人训练数据公司 Mecka AI 正进行红杉领投的新一轮融资，估值接近5亿美元，距其A轮融资仅数月。",
+        "comment": "机器人数据赛道升温，资本抢滩卡位。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "月之暗面",
+        "title": "月之暗面瞄准20亿美元年收入",
+        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+        "summary": "TechCrunch报道，Kimi开发商月之暗面将年度营收目标定为20亿美元。OpenRouter数据显示，K3模型每日生成token量高达3000亿，但近期使用量略有下滑。",
+        "comment": "营收目标激进，K3用量下滑需警惕。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI存储架构支撑10亿ChatGPT用户",
+        "title": "OpenAI存储平台支撑10亿ChatGPT用户",
         "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "summary": "OpenAI将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户、每秒2200万次请求。",
-        "comment": "存储工程是AI规模化的隐形战场。",
+        "summary": "OpenAI将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户，每秒处理2200万次请求。",
+        "comment": "存储架构规模化是AI服务的关键基建。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI编程",
-        "title": "Cognition借助GPT-6 Astra让Devin自测代码",
+        "tag": "人工智能",
+        "title": "Cognition 用 GPT‑6 Astra 助 Devin 自测代码",
         "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "summary": "OpenAI称GPT-6 Astra提升了Devin测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
-        "comment": "AI编程代理正从写代码转向自证正确。",
+        "summary": "OpenAI 称 GPT‑6 Astra 提升了 Devin 测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
+        "comment": "AI 编程代理开始补上自测短板。",
         "image": "",
         "score": 100
       },
@@ -542,8 +572,8 @@
         "tag": "人工智能",
         "title": "YC合伙人Garry Tan呼吁美国开放权重AI实验室蒸馏前沿模型",
         "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-        "summary": "Y Combinator的Garry Tan主张美国小型开放权重AI实验室应借鉴前沿实验室的训练技术，以增强美国开放权重模型的多样性和竞争力。",
-        "comment": "蒸馏争议再起，开放与安全如何平衡？",
+        "summary": "Y Combinator的Garry Tan主张美国小型开放权重AI实验室应借鉴前沿实验室的训练技术，通过蒸馏方式增强美国开放权重模型生态，以应对全球竞争。",
+        "comment": "蒸馏前沿模型或加速美国开放权重生态追赶。",
         "image": "",
         "score": 99
       },
@@ -552,27 +582,17 @@
         "tag": "OpenAI",
         "title": "OpenAI与数学家矛盾持续升级",
         "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "summary": "25位顶尖数学家联名公开信，指责AI实验室威胁其智力工作，OpenAI与数学界的冲突进一步激化。",
-        "comment": "AI扩张正撞上学术伦理边界。",
+        "summary": "25位顶尖数学家联名公开信，指责AI实验室威胁其智力工作，OpenAI与数学界的冲突进一步加剧。",
+        "comment": "AI与学术界的版权与伦理摩擦正走向公开化。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "月之暗面",
-        "title": "月之暗面瞄准20亿美元年收入",
-        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-        "summary": "月之暗面为Kimi母公司，目标年收入20亿美元。K3模型近期使用量略降，但OpenRouter数据显示其每日生成token达3000亿。",
-        "comment": "K3用量回落仍撑起高营收目标，商业化待验证。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026 展位预订仅剩一周",
+        "tag": "科技活动",
+        "title": "TechCrunch Disrupt 2026展位预订仅剩一周",
         "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "summary": "TechCrunch Disrupt 2026 展位预订仅剩一周，展位数量有限，可能在9月18日截止前售罄，需尽快锁定。",
+        "summary": "TechCrunch Disrupt 2026展位预订仅剩一周，展位数量有限，可能在9月18日截止前售罄。",
         "comment": "活动招商信息，与AI技术本身无关。",
         "image": "",
         "score": 94
@@ -582,40 +602,20 @@
         "tag": "TechCrunch",
         "title": "TechCrunch Disrupt 2026 边会申请今晚截止",
         "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "summary": "TechCrunch Disrupt 2026 官方边会主办申请将于太平洋时间9月11日23:59截止，这是最后机会。",
-        "comment": "活动运营提醒，与AI技术本身无关。",
+        "summary": "TechCrunch Disrupt 2026 官方边会主办方申请将于太平洋时间9月11日23:59截止，这是最后申请机会。",
+        "comment": "活动报名提醒，行业关注度有限。",
         "image": "",
         "score": 94
       },
       {
         "category": "数码科技",
-        "tag": "GPT-6",
-        "title": "GPT-6 3D案例被指用现成素材，爱范儿实测复现",
-        "link": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿指出 GPT-6 爆火的 3D 生成案例使用了现成素材，并亲自用 GPT-6 与 Hyper3D MCP 组合实测 3D 创作效果。",
-        "comment": "案例翻车后实测，才是检验工具的真实方式。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果折叠iPhone：真正折叠的是iOS",
+        "title": "苹果折叠iPhone曝光：液态玻璃设计惊艳",
         "link": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析苹果折叠iPhone，指出其核心创新在于iOS系统对折叠形态的适配，液态玻璃交互设计带来惊艳体验。",
-        "comment": "折叠屏竞争已从硬件转向系统交互。",
+        "summary": "爱范儿报道苹果折叠iPhone，其液态玻璃设计成为亮点，真正折叠的是iOS系统，引发对折叠屏交互的重新理解。",
+        "comment": "折叠屏竞争转向系统交互，苹果后发或定新标准。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "快充",
-        "title": "制糖工厂发布硬糖小魔头Max60：60W AVS快充",
-        "link": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，让新一代快充体验更普及。",
-        "comment": "AVS快充落地配件，iPhone 18 Pro用户值得关注。",
-        "image": "",
-        "score": 90
+        "score": 92
       },
       {
         "category": "数码科技",
@@ -623,17 +623,27 @@
         "title": "外滩大会观察：健康AI与硬件融合新路径",
         "link": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "爱范儿在外滩大会观察到，健康AI与硬件结合正探索让用户长期使用的服务模式，而非短期噱头。",
-        "comment": "健康AI硬件需解决长期使用难题，方向对了。",
+        "comment": "健康AI硬件需解决长期使用难题，方向对但落地待验证。",
         "image": "",
-        "score": 90
+        "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "iPhone",
-        "title": "iPhone Duo未发先炒至9.9万，人人影视再下架",
-        "link": "https://www.ifanr.com/1679695?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "三星借iPhone Duo发布调侃苹果，OpenAI限制竞品在ChatGPT投放广告，奥迪在华重划双品牌，人人影视回归约10天再次下架。",
-        "comment": "炒作与下架齐飞，科技圈热闹依旧。",
+        "tag": "GPT-6",
+        "title": "GPT-6爆火3D案例被指用现成素材，爱范儿实测复现",
+        "link": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿指出GPT-6爆火的3D案例实际使用了现成素材，并亲自用GPT-6搭配Hyper3D MCP复现3D创作流程，验证其真实能力。",
+        "comment": "爆款案例掺水，实测才能看清工具成色。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "快充",
+        "title": "制糖工厂发布硬糖小魔头Max60：60W AVS动态快充",
+        "link": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "制糖工厂推出60W动态电源硬糖小魔头Max60，支持iPhone 18 Pro的AVS动态快充，15分钟可充至50%，为新一代快充体验而来。",
+        "comment": "AVS快充落地配件，iPhone 18 Pro用户值得关注。",
         "image": "",
         "score": 90
       }
@@ -647,7 +657,7 @@
         "tag": "人工智能",
         "title": "研究者用Codex与ChatGPT搜寻新型抗菌分子",
         "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存与已灭绝物种基因组中筛选抗菌候选分子，以应对耐药感染。",
+        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存与灭绝物种基因组中筛选抗菌候选分子，以应对耐药感染。",
         "comment": "AI正从写代码走向驱动科学发现。",
         "image": "",
         "score": 100
@@ -657,8 +667,8 @@
         "tag": "OpenAI",
         "title": "OpenAI在ChatGPT Work推出数据智能体",
         "link": "https://openai.com/index/put-data-to-work",
-        "summary": "OpenAI宣布ChatGPT Work上线Data agent，用户可用自然语言连接公司数据、挖掘洞察并构建交互式仪表盘。",
-        "comment": "数据智能体落地，企业数据分析门槛再降。",
+        "summary": "OpenAI宣布ChatGPT Work上线Data agent，用户可连接企业数据，用自然语言发现洞察并构建交互式仪表板。",
+        "comment": "AI数据分析门槛进一步降低，企业BI格局或生变。",
         "image": "",
         "score": 100
       },
@@ -667,18 +677,18 @@
         "tag": "OpenAI",
         "title": "OpenAI推出金融服务版ChatGPT",
         "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-        "summary": "OpenAI发布面向金融服务的ChatGPT，整合内置金融数据与GPT-6 Astra，支持研究、建模及客户交付材料生成。",
-        "comment": "金融AI垂直化提速，数据合规是关键。",
+        "summary": "OpenAI发布面向金融服务的ChatGPT，整合内置金融数据与GPT-6 Astra，支持研究、建模及客户材料生成。",
+        "comment": "AI深入金融核心工作流，合规与准确性待考。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI向美国政府机构提供免费AI许可",
+        "title": "OpenAI与GSA合作向美国政府提供AI优惠",
         "link": "https://openai.com/index/expanding-ai-access-us-government",
-        "summary": "OpenAI与GSA合作，向符合条件的联邦、州、地方及部落政府提供零许可费、使用费五折及扩展网络防御支持。",
-        "comment": "低价换市场，AI政务竞争升温。",
+        "summary": "OpenAI与美国总务署合作，向符合条件的联邦、州、地方和部落政府提供零许可费、使用费五折及扩展网络防御支持。",
+        "comment": "OpenAI以低价换政府市场，AI公共采购竞争升温。",
         "image": "",
         "score": 100
       },
@@ -687,30 +697,20 @@
         "tag": "OpenAI",
         "title": "OpenAI在API中推出GPT-Live-1语音模型",
         "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "summary": "OpenAI发布GPT-Live-1，为API带来自然全双工语音对话，支持更强指令遵循、自定义音色和电话接入。",
-        "comment": "全双工语音API落地，实时交互门槛再降。",
+        "summary": "OpenAI发布GPT-Live-1，为API带来自然全双工语音对话，支持更强指令遵循、自定义音色和电话功能。",
+        "comment": "语音交互API化，实时对话门槛再降。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布Agents API，支持云端智能体",
+        "title": "OpenAI发布Agents API",
         "link": "https://openai.com/index/introducing-the-agents-api",
-        "summary": "OpenAI推出Agents API，基于Codex编排框架，支持长时间运行会话与工具调用，帮助开发者构建并部署云端智能体。",
-        "comment": "智能体开发门槛再降，云服务竞争升温。",
+        "summary": "OpenAI推出Agents API，基于Codex编排框架，支持云端智能体构建与部署，可管理长时间会话和工具调用。",
+        "comment": "智能体开发门槛再降，平台化竞争加剧。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "智己",
-        "title": "全新智己LS6预售20.99万元起，全系标配全线控底盘",
-        "link": "https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "智己全新LS6开启预售，起售价20.99万元，全系标配全线控底盘，将这一技术作为品牌核心卖点。",
-        "comment": "全线控底盘全系标配，智己在操控上押注差异化。",
-        "image": "",
-        "score": 91
       }
     ]
   },
@@ -719,11 +719,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI呼吁抓住AI政策窗口期",
+        "tag": "OpenAI",
+        "title": "OpenAI呼吁把握AI政策窗口期",
         "link": "https://openai.com/index/ai-policy-window",
-        "summary": "OpenAI的Chris Lehane发文称，AI能力越强，越需要更强的安全证据、共同标准和持久政策行动，呼吁在政策窗口仍开放时采取行动。",
-        "comment": "能力越强，安全与监管越不能滞后。",
+        "summary": "OpenAI高管Chris Lehane发文称，AI能力越强，越需要更强的安全证据、共同标准和持久政策行动，呼吁在政策窗口仍开放时采取行动。",
+        "comment": "AI安全治理进入政策窗口期，行业主动喊话意在抢占规则话语权。",
         "image": "",
         "score": 100
       }
