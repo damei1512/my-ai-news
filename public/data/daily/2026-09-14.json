@@ -4,133 +4,43 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "英伟达",
-        "title": "黄仁勋向特朗普表态：绝不允许AI发展放缓",
-        "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-        "summary": "英伟达CEO黄仁勋向特朗普表示不会让AI发展放缓，与马斯克、奥特曼支持阿莫代伊呼吁减速的立场形成对比。",
-        "comment": "算力巨头与安全派分歧公开化，AI竞速难刹车。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI 3亿美元收购手机相机公司Glass Imaging",
         "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-        "summary": "据报道，OpenAI以3亿美元收购Glass Imaging，后者由两名前苹果工程师创立，曾主导苹果人像模式开发。",
-        "comment": "OpenAI补齐影像硬件能力，意在多模态入口。",
+        "summary": "据报道，OpenAI以3亿美元收购Glass Imaging，该公司由两名前苹果工程师创立，曾负责苹果人像模式开发。",
+        "comment": "OpenAI补齐影像硬件能力，AI终端布局提速。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI助理",
-        "title": "Fyxer如何打造值得信赖的AI行政助理",
+        "title": "Fyxer用OpenAI模型打造可信AI行政助理",
         "link": "https://openai.com/index/fyxer",
-        "summary": "Fyxer利用OpenAI模型、微调、记忆和真实用户反馈，整理收件箱并按用户语气起草邮件。",
-        "comment": "AI助理落地关键在信任与个性化。",
+        "summary": "Fyxer利用OpenAI模型、微调、记忆和用户反馈，按用户语气整理收件箱并起草邮件。",
+        "comment": "AI助理落地关键在于信任与个性化。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "Perplexity 用 GPT-6 Astra 接管端到端系统",
+        "tag": "人工智能",
+        "title": "Perplexity用GPT-6 Astra端到端运维系统",
         "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-        "summary": "Perplexity 借助 GPT-6 Astra 撰写沟通内容、修改软件并监控生产系统，人工检查频率较早期模型大幅降低。",
-        "comment": "AI 从辅助工具走向系统操作者，信任边界正在外移。",
+        "summary": "Perplexity借助GPT-6 Astra编写通信、修改软件并监控生产系统，对模型的检查频率远低于早期模型。",
+        "comment": "AI代理正从辅助工具转向自主运维。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "苹果",
-        "title": "iOS 27 上线，Siri 改版后重新被使用",
-        "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-        "summary": "苹果在 iOS 27 中推出拖延已久的 Siri 大改版，日常实用性明显提升，作者称自己重新开始使用 Siri。",
-        "comment": "Siri 补课初见成效，但能否持续留住用户仍待观察。",
+        "tag": "英伟达",
+        "title": "黄仁勋向特朗普表态：不会让AI发展放缓",
+        "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+        "summary": "英伟达CEO黄仁勋向特朗普表示不会允许AI发展放缓，与马斯克、奥特曼支持放缓AI开发的立场形成对比。",
+        "comment": "算力巨头与安全派分歧公开化。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "苹果智能",
-        "title": "Daydream借苹果智能实现相册穿搭购物",
-        "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-        "summary": "时尚应用Daydream借助iOS 27的Apple Intelligence，可将相册中的穿搭照片转化为可购买商品，并支持通过Siri直接搜索产品，无需打开应用。",
-        "comment": "系统级AI正把相册变成购物入口。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "微软发布AI行为准则：禁止模型入侵系统或欺骗人类",
-        "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-        "summary": "微软推出AI行为准则，要求其模型支持而非取代人类，禁止入侵系统或欺骗人类，旨在加速人类繁荣。",
-        "comment": "准则虽好，关键在落地执行与行业约束力。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "TechCrunch Disrupt 2026：当OpenAI实现你的路线图",
-        "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-        "summary": "TechCrunch Disrupt 2026将探讨基础模型持续进化时，AI创业公司能否继续创造价值，而非被OpenAI等厂商的产品路线图取代。",
-        "comment": "基础模型迭代正倒逼AI应用层重估护城河。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Superhuman收购YC系笔记工具Fathom",
-        "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-        "summary": "Superhuman收购YC支持的会议笔记工具Fathom，后者免费方案已积累超40万月活用户，累计超100万人录制会议。",
-        "comment": "生产力平台正加速整合AI代理能力。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "TechCrunch Disrupt 2026将探讨AI如何助力物种复活",
-        "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-        "summary": "TechCrunch Disrupt 2026将举办专题讨论，聚焦AI如何推动已灭绝物种复活，从科幻走向十亿美元级创业公司的现实使命。",
-        "comment": "AI跨界生物修复，资本已先行押注。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "科技展会",
-        "title": "TechCrunch Disrupt 2026 参展申请仅剩5天",
-        "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-        "summary": "TechCrunch Disrupt 2026 展会参展桌申请将于9月18日截止，仅剩5天。申请者可获得博览会大厅展位，向约1万名参会者展示业务。",
-        "comment": "参会价值高，但本质是活动招商，非行业新闻。",
-        "image": "",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "欧盟",
-        "title": "欧盟儿童法案或要求玩家验证年龄",
-        "link": "https://www.ign.com/articles/eu-kids-act-could-require-gamers-to-prove-their-age-before-playing-certain-games",
-        "summary": "欧盟儿童法案将于周四提交欧洲议会，若通过，各年龄段玩家在访问特定游戏前可能需证明年龄，对游戏行业影响显著。",
-        "comment": "年龄验证或成游戏准入新门槛，隐私与合规待平衡。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/19/xboxwirelesscontroller-1779214687847.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神",
-        "title": "暴雪称《暗黑破坏神5》规模太大，无法作为4代资料片",
-        "link": "https://www.gamespot.com/articles/blizzard-says-diablo-5-was-too-big-to-be-a-diablo-4-expansion/",
-        "summary": "暴雪表示《暗黑破坏神4》不会再有新资料片，团队正筹备《暗黑破坏神5》，将讲述系列最黑暗的故事，因内容规模过大无法作为4代扩展推出。",
-        "comment": "暴雪跳过资料片直接推续作，暗黑4后续更新恐缩水。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo-demon-hunter.jpg?w=300",
-        "score": 93
       },
       {
         "category": "数码科技",
@@ -143,29 +53,9 @@
         "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox CEO或亲自回复用户客服工单",
-        "link": "https://www.ign.com/articles/xbox-ceo-asha-sharma-may-have-personally-responded-to-your-customer-support-ticket",
-        "summary": "IGN报道称，上任约半年的Xbox CEO Asha Sharma可能亲自处理用户客服工单。她此前已叫停争议营销并下调Game Pass Ultimate订阅价格。",
-        "comment": "高管亲回工单，姿态可嘉但难掩服务积弊。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/14/asha-sharma-matt-booty-1771937485512-1789419856720.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神5",
-        "title": "暗黑破坏神5战斗系统将更快更爽",
-        "link": "https://www.gamespot.com/articles/diablo-5-isnt-reinventing-the-combat-wheel-its-making-it-spin-even-faster/",
-        "summary": "GameSpot报道，暴雪表示《暗黑破坏神5》不会重造战斗轮盘，而是让战斗节奏更快。系列每代战斗规模都在扩大，新作目标再次提升玩法机制。",
-        "comment": "不颠覆只加速，暗黑5押注爽快感升级。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo-5-plague-Knight.jpg?w=300",
-        "score": 92
-      },
-      {
         "category": "数码科技",
-        "tag": "腾势N8L",
-        "title": "腾势N8L纯电版上市，续航960km售29.98万起",
+        "tag": "腾势",
+        "title": "腾势N8L纯电版上市：续航960km，29.98万起",
         "link": "https://www.ifanr.com/1680061?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "腾势N8L纯电版正式上市，起售价29.98万元，纯电续航达960km，语音助手成为最大亮点。",
         "comment": "续航与价格有竞争力，语音体验成差异化卖点。",
@@ -178,108 +68,18 @@
         "title": "理想 i9 Home 发布：车内长滑轨与对坐模式",
         "link": "https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "理想推出第二款 Home 级产品 i9 Home，车内配备长滑轨与对坐模式，主打类似市中心大平层的空间体验。",
-        "comment": "理想把客厅搬进车里，空间牌越打越熟。",
+        "comment": "理想把客厅搬进车里，空间牌越打越激进。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "AI眼镜",
-        "title": "应用材料公司谈AI眼镜普及难题",
+        "title": "专访应用材料副总裁：如何让不戴眼镜的人愿戴AI眼镜",
         "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿专访应用材料公司副总裁Paul Meissner，探讨如何让不戴眼镜的人愿意每天佩戴AI眼镜，并体验多款智能眼镜技术样品。",
-        "comment": "AI眼镜普及关键在舒适与实用，而非技术炫技。",
+        "summary": "爱范儿专访应用材料公司副总裁Paul Meissner，探讨智能眼镜如何吸引不戴眼镜的用户，并体验多款光子技术样品。",
+        "comment": "AI眼镜普及关键在让非眼镜用户也愿日常佩戴。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "iPhone",
-        "title": "iPhone 18 Pro首批售罄，发货延至10月",
-        "link": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "集邦咨询预计iPhone Duo今年出货500万台，占折叠屏市场近四分之一；Kimi K2.8 Preview全量上线，会员开放100万上下文；Grok 4.7延期。",
-        "comment": "苹果新机热度不减，AI模型竞争同步升温。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "乐高",
-        "title": "乐高任天堂Game Boy套装沃尔玛隐藏优惠省10美元",
-        "link": "https://www.ign.com/articles/lego-game-boy-deal-september-2026",
-        "summary": "IGN报道，沃尔玛隐藏优惠券码可让乐高任天堂Game Boy拼搭套装减价10美元，该套装被推荐为乐高与任天堂粉丝必入。",
-        "comment": "隐藏优惠码让热门套装更值得入手。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/14/legogameboy-1789422938579.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Wardogs",
-        "title": "Wardogs玩家因“最蠢玩家”标签避开Lonestar阵营",
-        "link": "https://www.ign.com/articles/wardogs-players-are-avoiding-one-of-the-games-factions-because-it-has-a-stigma-of-attracting-the-stupidest-players",
-        "summary": "IGN报道，Wardogs玩家正避开Lonestar阵营，认为该阵营吸引最差玩家且输得最多，形成负面标签。",
-        "comment": "阵营歧视背后，是玩家对胜负数据的集体焦虑。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/10/wardogsthumb-1789046591629.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "3D打印",
-        "title": "Flashforge Adventurer 5M 3D打印机降至135美元",
-        "link": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-september-2026",
-        "summary": "IGN报道，热门入门级3D打印机Flashforge Adventurer 5M降价至135美元含运费，适合预算有限的初学者。",
-        "comment": "入门3D打印门槛再降，值得新手关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/14/flashforge5m2-1789417422213.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Wardogs开发者严打经济作弊者",
-        "link": "https://www.gamespot.com/articles/wardogs-devs-are-watching-economy-cheaters-like-hawks/",
-        "summary": "FPS游戏Wardogs在Steam排行榜表现强势，开发商Bulkhead正密切关注游戏各系统，并发布新补丁加强监管经济作弊行为。",
-        "comment": "热门游戏需及时治理作弊，维护经济公平。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/wardogs-image-2.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "WoW Forever如何处理海量新任务",
-        "link": "https://www.gamespot.com/articles/how-wow-forever-handles-its-massive-set-of-new-quests/",
-        "summary": "暴雪在BlizzCon公布经典风格新作WoW Forever，官方透露将新增大量任务，并说明其任务系统的处理方式。",
-        "comment": "经典服新任务量是关键，平衡怀旧与新鲜感不易。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoWForever-Large.jpeg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《疯狂出租车》将拍真人电影，编剧来自《疯狂前女友》",
-        "link": "https://www.gamespot.com/articles/crazy-taxi-gets-crazier-with-crazy-ex-girlfriend-writers-for-new-movie/",
-        "summary": "Netflix与世嘉合作开发《疯狂出租车》真人电影，编剧由《疯狂前女友》团队担任。该系列还将于明年推出新游戏。",
-        "comment": "游戏改编潮持续，Netflix再押注世嘉IP。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Crazy-Taxi-World-Tour-Network-Test-Announced.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Wardogs",
-        "title": "Wardogs玩家强烈要求你关门，否则后果自负",
-        "link": "https://www.gamespot.com/articles/wardogs-players-really-want-you-to-close-the-doors-or-else/",
-        "summary": "Bulkhead开发的类战地大规模多人FPS《Wardogs》正火爆Steam，玩家在游戏中强烈要求队友关门，否则将面临惩罚。",
-        "comment": "关门成硬核玩法，社区自治催生新梗。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/wardogs-image.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "最后生还者2",
-        "title": "《最后生还者2》多人模式Mod因索尼要求被取消",
-        "link": "https://www.gamespot.com/articles/the-last-of-us-2-multiplayer-mod-canceled-on-behalf-of-sony-dev-says/",
-        "summary": "开发者称《最后生还者2》多人模式Mod因索尼要求而取消。顽皮狗曾在初代加入Factions多人模式，但续作放弃了该计划。",
-        "comment": "索尼对Mod的干预再次引发玩家对创作自由的担忧。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/tlou-Large.jpeg?w=300",
         "score": 91
       },
       {
@@ -287,80 +87,20 @@
         "tag": "AI",
         "title": "AI数学竞赛背后的虚荣心",
         "link": "https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿文章指出，大厂在AI数学能力上的竞赛，更多体现的是品牌宣传和虚荣心，而非真正的数学突破。",
-        "comment": "AI数学竞赛，大厂虚荣心作祟。",
+        "summary": "爱范儿文章指出，大厂在AI数学能力上的争夺更像一场名题竞赛，折射出科技公司的虚荣心，而非真正理解数学。",
+        "comment": "AI数学竞赛，比的不是数学，是大厂面子。",
         "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏展会",
-        "title": "Triple-I Initiative展示会2026年回归",
-        "link": "https://www.gamespot.com/articles/the-triple-i-initiative-showcase-is-getting-a-second-event-in-2026/",
-        "summary": "Triple-I Initiative展示会将于2026年10月8日举办第二届活动，届时将发布大量游戏预告片。",
-        "comment": "独立游戏宣发平台持续扩容，值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Triple-III.jpg?w=300",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "艾美奖",
-        "title": "2026年艾美奖完整获奖名单公布",
+        "title": "2026艾美奖获奖名单公布",
         "link": "https://www.ign.com/articles/2026-emmy-awards-winners",
-        "summary": "IGN发布2026年艾美奖完整获奖名单，涵盖剧情、喜剧、限定剧等主要奖项，揭晓年度电视行业最高荣誉归属。",
-        "comment": "艾美奖名单是年度美剧风向标，值得关注。",
+        "summary": "IGN发布2026年艾美奖完整获奖名单，涵盖剧情、喜剧、限定剧等主要奖项，揭晓年度电视佳作归属。",
+        "comment": "流媒体与传统电视的奖项争夺仍是看点。",
         "image": "https://assets-prd.ignimgs.com/2026/09/15/emmys-2026-kate-1789441490768.png",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "守望先锋",
-        "title": "守望先锋早期设定：猎空曾能从眼睛发射激光",
-        "link": "https://www.gamespot.com/articles/overwatchs-tracer-once-shot-lasers-from-her-eyes-and-it-could-happen-again/",
-        "summary": "暴雪在BlizzCon 2026透露，猎空早期设计曾拥有从眼睛发射激光的能力，若该方案保留，她将成为完全不同的英雄。",
-        "comment": "早期废案揭示角色设计的偶然性，猎空差点变成激光眼。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1456/14564277/3524612-gameplay_overwatchuprising_tracer_site.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "派对游戏",
-        "title": "奇幻派对游戏融合饮酒规则与D&D玩法",
-        "link": "https://www.ign.com/articles/this-fantasy-party-game-combines-drinking-rules-with-dd-themed-gameplay-is-on-sale",
-        "summary": "IGN推荐一款奇幻派对游戏，将饮酒规则与龙与地下城主题玩法结合，目前正在促销。",
-        "comment": "D&D加饮酒，聚会游戏新思路。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/14/wizards-tavern-1789419093065.png",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "特朗普",
-        "title": "小特朗普夫妇称普京盟友为婚礼部分买单",
-        "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-        "summary": "小特朗普夫妇在Instagram称，其在巴哈马的婚礼有两晚活动部分由普京盟友、国际拳联主席克列姆廖夫资助，并称这是礼物。",
-        "comment": "政治人物与俄方关系再引关注。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "鲍勃·麦基",
-        "title": "传奇服装设计师鲍勃·麦基去世，享年87岁",
-        "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-        "summary": "被誉为“亮片之王”的鲍勃·麦基去世，享年87岁。他曾为雪儿、蒂娜·特纳和埃尔顿·约翰等明星设计标志性华丽服装。",
-        "comment": "一代舞台造型大师谢幕，亮片时代随之远去。",
-        "image": "",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "野生动物",
-        "title": "赞比亚野狗兄弟创纪录跋涉2500英里寻偶",
-        "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-        "summary": "科学家称，三只野狗兄弟在赞比亚完成2500英里破纪录迁徙寻找配偶，显示野生动物在日益增大的生存压力下仍有存续希望。",
-        "comment": "迁徙奇迹背后，是栖息地破碎化的无奈。",
-        "image": "",
-        "score": 85
+        "score": 87
       }
     ]
   }
