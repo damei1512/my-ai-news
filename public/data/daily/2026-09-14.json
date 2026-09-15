@@ -4,58 +4,28 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI 3亿美元收购手机相机公司Glass Imaging",
-        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-        "summary": "据报道，OpenAI以3亿美元收购Glass Imaging，该公司由两名前苹果工程师创立，曾负责苹果人像模式开发。",
-        "comment": "OpenAI补齐影像硬件能力，AI终端布局提速。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "AI助理",
-        "title": "Fyxer用OpenAI模型打造可信AI行政助理",
+        "title": "Fyxer如何打造值得信赖的AI行政助理",
         "link": "https://openai.com/index/fyxer",
-        "summary": "Fyxer利用OpenAI模型、微调、记忆和用户反馈，按用户语气整理收件箱并起草邮件。",
-        "comment": "AI助理落地关键在于信任与个性化。",
+        "summary": "Fyxer利用OpenAI模型、微调、记忆和用户反馈，整理收件箱并按用户语气起草邮件。",
+        "comment": "AI助理落地关键在信任与个性化。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Perplexity用GPT-6 Astra端到端运维系统",
+        "title": "Perplexity 采用 GPT-6 Astra 实现端到端系统自动化",
         "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-        "summary": "Perplexity借助GPT-6 Astra编写通信、修改软件并监控生产系统，对模型的检查频率远低于早期模型。",
-        "comment": "AI代理正从辅助工具转向自主运维。",
+        "summary": "Perplexity 使用 GPT-6 Astra 撰写沟通内容、修改软件并监控生产系统，且相比早期模型，人工检查频率大幅降低。",
+        "comment": "AI 代理正从辅助工具转向自主运维，信任边界被重新定义。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "英伟达",
-        "title": "黄仁勋向特朗普表态：不会让AI发展放缓",
-        "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-        "summary": "英伟达CEO黄仁勋向特朗普表示不会允许AI发展放缓，与马斯克、奥特曼支持放缓AI开发的立场形成对比。",
-        "comment": "算力巨头与安全派分歧公开化。",
-        "image": "",
-        "score": 99
-      },
-      {
         "category": "数码科技",
-        "tag": "AI手机",
-        "title": "豆包手机助手首发体验：智能手机迈向行动终端",
-        "link": "https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿首发体验豆包手机助手，认为真正的AI手机应能主动执行任务，而非仅提供对话，智能手机正从信息终端转向行动终端。",
-        "comment": "AI手机竞争焦点正从模型能力转向任务执行。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "腾势",
-        "title": "腾势N8L纯电版上市：续航960km，29.98万起",
+        "tag": "腾势N8L",
+        "title": "腾势N8L纯电版上市，续航960km售29.98万起",
         "link": "https://www.ifanr.com/1680061?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "腾势N8L纯电版正式上市，起售价29.98万元，纯电续航达960km，语音助手成为最大亮点。",
         "comment": "续航与价格有竞争力，语音体验成差异化卖点。",
@@ -68,39 +38,39 @@
         "title": "理想 i9 Home 发布：车内长滑轨与对坐模式",
         "link": "https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "理想推出第二款 Home 级产品 i9 Home，车内配备长滑轨与对坐模式，主打类似市中心大平层的空间体验。",
-        "comment": "理想把客厅搬进车里，空间牌越打越激进。",
+        "comment": "理想把客厅概念搬进车里，空间玩法再升级。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI手机",
+        "title": "新豆包手机助手首发体验：智能手机正变为行动终端",
+        "link": "https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿首发体验新豆包手机助手，认为真正的AI手机应能主动执行任务，智能手机正从信息终端转向行动终端。",
+        "comment": "AI手机竞争从问答转向任务执行，方向对了。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "AI眼镜",
-        "title": "专访应用材料副总裁：如何让不戴眼镜的人愿戴AI眼镜",
+        "title": "应用材料副总裁谈AI眼镜普及难题",
         "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿专访应用材料公司副总裁Paul Meissner，探讨智能眼镜如何吸引不戴眼镜的用户，并体验多款光子技术样品。",
-        "comment": "AI眼镜普及关键在让非眼镜用户也愿日常佩戴。",
+        "summary": "爱范儿专访应用材料公司副总裁Paul Meissner，探讨如何让不戴眼镜的人愿意每天佩戴AI眼镜，并体验多款智能眼镜技术样品。",
+        "comment": "AI眼镜普及关键在体验，而非技术堆砌。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "AI",
-        "title": "AI数学竞赛背后的虚荣心",
+        "title": "AI数学竞赛背后的大厂虚荣心",
         "link": "https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿文章指出，大厂在AI数学能力上的争夺更像一场名题竞赛，折射出科技公司的虚荣心，而非真正理解数学。",
+        "summary": "爱范儿文章指出，在AI真正掌握数学能力之前，大厂已先陷入数学名题的争夺战，折射出行业竞争中的虚荣心态。",
         "comment": "AI数学竞赛，比的不是数学，是大厂面子。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "艾美奖",
-        "title": "2026艾美奖获奖名单公布",
-        "link": "https://www.ign.com/articles/2026-emmy-awards-winners",
-        "summary": "IGN发布2026年艾美奖完整获奖名单，涵盖剧情、喜剧、限定剧等主要奖项，揭晓年度电视佳作归属。",
-        "comment": "流媒体与传统电视的奖项争夺仍是看点。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/15/emmys-2026-kate-1789441490768.png",
-        "score": 87
       }
     ]
   }
