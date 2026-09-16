@@ -3,52 +3,32 @@
     "week": "周二",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "AI数据中心",
-        "title": "AI数据中心扩张引发城市反对浪潮",
-        "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-        "summary": "美国反对数据中心建设的声浪蔓延至费城，官员提议在曾受已关闭炼油厂影响的社区附近施工，引发居民担忧。",
-        "comment": "AI扩张与城市伤痕正面碰撞，选址矛盾难解。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta推出WhatsApp商业版AI代理配置工具",
-        "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-        "summary": "Meta发布WhatsApp Business MCP服务器，开发者可用Claude、Cursor、Codex等AI编码代理完成配置、消息模板、测试与故障排查。",
-        "comment": "AI代理正从写代码延伸至配置企业服务。",
-        "image": "",
-        "score": 99
-      },
-      {
         "category": "数码科技",
         "tag": "吉利",
         "title": "吉利银河战舰700预售19.98万起，最高1129匹马力",
         "link": "https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "吉利银河战舰700开启预售，起售价19.98万元，最高1129匹马力，配备三电机四驱系统，主打高性能新能源越野。",
+        "summary": "吉利银河战舰700开启预售，19.98万元起，最高1129匹马力，配备三电机四驱系统，主打高性能与户外场景。",
         "comment": "千匹马力下探20万级，性能平权再加速。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "豆包",
-        "title": "豆包工作联手飞书，推出中国首个团队Agent",
+        "tag": "AI办公",
+        "title": "豆包工作与飞书推出中国首个团队Agent",
         "link": "https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "豆包工作与飞书合作，将团队Agent引入工作群，实现办公场景的智能协作，提升团队效率。",
-        "comment": "团队Agent落地办公群，协作模式或迎变革。",
+        "summary": "豆包工作与飞书联合推出面向团队的办公Agent，可将AI助手拉入工作群，实现团队协作场景下的智能办公。",
+        "comment": "团队Agent落地办公群，协作效率或迎新变量。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "人工智能",
-        "title": "号称人类造的最后一个AI要来了，刷屏全网的RSI是什么",
+        "title": "号称人类造的最后一个AI要来了，RSI是什么",
         "link": "https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿解读刷屏全网的RSI概念，探讨AI开始造AI的递归自我改进路径，并分析其距离所谓智能爆炸究竟还有多远。",
-        "comment": "RSI是概念热词，离真正智能爆炸尚远。",
+        "summary": "爱范儿解析刷屏全网的RSI概念：AI开始造AI，但距离所谓智能爆炸究竟还有多远，值得冷静看待。",
+        "comment": "RSI概念热炒，警惕智能爆炸叙事泡沫。",
         "image": "",
         "score": 91
       },
@@ -61,36 +41,6 @@
         "comment": "Siri 补课成功，老机型也能沾光。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "微软回应Xbox Game Pass 2027年重大调整传闻",
-        "link": "https://www.gamespot.com/articles/microsoft-reacts-to-xbox-game-pass-rumor-that-could-change-the-service-in-a-big-way/",
-        "summary": "针对传闻称微软计划2027年对Xbox Game Pass进行重大改革，微软已发布声明回应，但未透露具体细节。",
-        "comment": "传闻先行，官方回应含糊，订阅制走向仍待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-1.png?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "James Pond合集预告被指AI生成",
-        "link": "https://www.gamespot.com/articles/james-pond-legacy-situation-is-more-than-meets-the-ai/",
-        "summary": "System 3为Switch 2推出《James Pond Legacy》四合一合集，预告片发布后因游戏画面疑似AI生成而引发争议，讨论盖过游戏本身。",
-        "comment": "AI争议盖过合集本身，信任危机难消。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/JamesPondLegacy_background-1350x815-v01-SfW.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "美军",
-        "title": "五角大楼监察长证实伊朗战争致美军弹药短缺",
-        "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "summary": "五角大楼监察长确认，伊朗战争导致美军弹药短缺，补给也出现瓶颈，这与特朗普称美国供应“几乎无限”的说法相矛盾。",
-        "comment": "官方证实弹药短缺，特朗普的“无限供应”说法被打脸。",
-        "image": "",
-        "score": 87
       }
     ]
   }

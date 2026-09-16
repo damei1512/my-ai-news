@@ -5,20 +5,20 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI存储架构支撑10亿ChatGPT用户",
+        "title": "OpenAI存储系统支撑10亿ChatGPT用户",
         "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "summary": "OpenAI将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户、每秒2200万次请求。",
-        "comment": "存储架构是AI规模化的隐形战场。",
+        "summary": "OpenAI将Habitat从Python库演进为全球分布式存储平台，支撑10亿ChatGPT用户、每秒2200万请求。",
+        "comment": "存储架构是AI规模化的隐形基石。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI编程",
-        "title": "Cognition借助GPT-6 Astra让Devin自测代码",
+        "title": "Cognition用GPT-6 Astra助Devin自测代码",
         "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "summary": "OpenAI称GPT-6 Astra提升了Devin测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
-        "comment": "AI编程代理正从写代码转向自证正确。",
+        "summary": "OpenAI介绍，GPT-6 Astra提升了Devin测试软件并验证其可用的能力，目标是让工程师减少代码审查、加快交付。",
+        "comment": "AI编程代理开始自证正确性，审查负担有望下降。",
         "image": "",
         "score": 100
       }
