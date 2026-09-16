@@ -4,151 +4,51 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "美数据中心2035年天然气用量或超德日总和",
-        "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-        "summary": "AI热潮推动美国数据中心天然气消耗激增，预计2035年用量将超过德国和日本两国总和，成为全球最大天然气消费领域之一。",
-        "comment": "AI算力扩张正把能源账单推向前台。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "OpenAI、Anthropic、谷歌就AI安全已磋商数周",
-        "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-        "summary": "OpenAI证实与Anthropic及谷歌DeepMind就AI安全进行了数周磋商。与此同时，特朗普团队淡化安全担忧，主张加快步伐以跟上中国。",
-        "comment": "安全磋商与政治提速形成张力，行业自律难抵政策转向。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI基建",
-        "title": "AI数据中心扩张引发城市抗议",
+        "tag": "AI数据中心",
+        "title": "AI数据中心扩张引发城市反对浪潮",
         "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-        "summary": "美国反对数据中心建设的声浪蔓延至费城，官员提议在曾受炼油厂影响的社区选址，引发当地居民不满。",
-        "comment": "AI基建狂飙，别让旧伤未愈的城市再添新痛。",
+        "summary": "美国反对数据中心建设的声浪蔓延至费城，官员提议在曾受已关闭炼油厂影响的社区附近施工，引发居民担忧。",
+        "comment": "AI扩张与城市伤痕正面碰撞，选址矛盾难解。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "Meta",
-        "title": "Meta推出WhatsApp Business配置AI代理工具",
+        "title": "Meta推出WhatsApp商业版AI代理配置工具",
         "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-        "summary": "Meta发布WhatsApp Business MCP服务器，开发者可用Claude、Cursor、Codex、ChatGPT等AI编码代理完成配置、消息模板、测试和故障排查。",
-        "comment": "AI代理正从写代码延伸至企业服务配置环节。",
+        "summary": "Meta发布WhatsApp Business MCP服务器，开发者可用Claude、Cursor、Codex等AI编码代理完成配置、消息模板、测试与故障排查。",
+        "comment": "AI代理正从写代码延伸至配置企业服务。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI治理",
-        "title": "AI代理举报热线问世",
-        "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-        "summary": "TechCrunch报道，AI Contact Hotline为目睹不当行为的AI代理提供秘密举报渠道，可向监管机构通报。",
-        "comment": "AI互相监督时代开启，治理难题才刚开始。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta推AI订阅套餐Meta One",
-        "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-        "summary": "Meta推出Meta One订阅，将AI工具扩展访问与Facebook、Instagram、WhatsApp高级功能打包，加速订阅变现。",
-        "comment": "AI功能成订阅新卖点，Meta变现提速。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI搜索优化",
-        "title": "Profound七个月内再融1.8亿美元，估值达18亿",
-        "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-        "summary": "AI搜索优化初创公司Profound完成1.8亿美元D轮融资，估值18亿美元，距其9600万美元C轮融资不到七个月。",
-        "comment": "AEO赛道资本狂热，估值飙升速度惊人。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AI项目墓地：那些失败或未达预期的AI项目盘点",
-        "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "summary": "TechCrunch整理了一份AI项目与初创公司失败清单，涵盖苹果多次推迟的Siri AI升级以及OpenAI混乱的超级应用发布等案例。",
-        "comment": "AI热潮下，失败案例同样值得复盘。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "最后生还者",
-        "title": "HBO高层暗示《最后生还者》剧集第三季完结",
-        "link": "https://www.ign.com/articles/hbo-boss-all-but-confirms-the-last-of-us-show-will-end-with-season-3",
-        "summary": "HBO CEO表示，他认为剧集主管克雷格·马津已计划让《最后生还者》在第三季迎来最终季。",
-        "comment": "剧集走向终章，第三季或成绝唱。",
-        "image": "https://assets-prd.ignimgs.com/2025/04/25/last-of-us-e3-review-blog-1745597055828.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "DC宇宙",
-        "title": "华纳前高管据称向扎克·施奈德表示后悔毁掉其DC宇宙",
-        "link": "https://www.ign.com/articles/warner-bros-reportedly-regrets-torching-zack-snyders-dc-universe-and-battling-with-him-on-justice-league",
-        "summary": "据导演扎克·施奈德透露，华纳兄弟一名前高管对当年在《正义联盟》上与其对抗、毁掉其DC宇宙表示后悔。",
-        "comment": "迟来的后悔难改DC已错失的十年。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/11/bvs-affleck-snyder-1280-1786492133143.jpg",
-        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "吉利",
         "title": "吉利银河战舰700预售19.98万起，最高1129匹马力",
         "link": "https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "吉利银河战舰700开启预售，19.98万元起，最高1129匹马力，配备三电机四驱系统，定位高性能新能源车型。",
-        "comment": "千匹马力下探20万级，性能车市场要变天。",
+        "summary": "吉利银河战舰700开启预售，起售价19.98万元，最高1129匹马力，配备三电机四驱系统，主打高性能新能源越野。",
+        "comment": "千匹马力下探20万级，性能平权再加速。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "AI Agent",
-        "title": "豆包工作联手飞书，推出首个团队Agent",
+        "tag": "豆包",
+        "title": "豆包工作联手飞书，推出中国首个团队Agent",
         "link": "https://www.ifanr.com/1680138?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "豆包工作与飞书合作，将中国首个团队Agent引入工作群，面向团队办公场景，提升协作效率。",
-        "comment": "团队Agent落地办公群，协作方式或迎变革。",
+        "summary": "豆包工作与飞书合作，将团队Agent引入工作群，实现办公场景的智能协作，提升团队效率。",
+        "comment": "团队Agent落地办公群，协作模式或迎变革。",
         "image": "",
         "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "漫威金刚狼",
-        "title": "《漫威金刚狼》解释罗根战衣为何能自愈",
-        "link": "https://www.ign.com/articles/marvels-wolverine-offers-up-a-canonical-explanation-for-why-logans-costume-regenerates",
-        "summary": "IGN报道，《漫威金刚狼》为罗根战衣能像身体一样自愈提供了官方设定解释，回应了玩家对角色服装再生能力的疑问。",
-        "comment": "用设定补丁回应玩家疑问，是IP叙事成熟的体现。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/04/wolverine-blog-1788529315805.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6 或即将公布音乐相关消息",
-        "link": "https://www.gamespot.com/articles/big-gta-6-news-could-be-coming-up-soon/",
-        "summary": "多位音乐人发布受GTA启发的预告内容，外界推测Rockstar即将公布《GTA 6》音乐相关信息。",
-        "comment": "音乐人联动预热，GTA 6宣发或进入新阶段。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Jason_and_Lucia_11_62255e.jpg?w=300",
-        "score": 92
-      },
-      {
         "category": "数码科技",
-        "tag": "AI",
-        "title": "号称人类造的最后一个AI要来了，RSI是什么",
+        "tag": "人工智能",
+        "title": "号称人类造的最后一个AI要来了，刷屏全网的RSI是什么",
         "link": "https://www.ifanr.com/1679813?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿解析刷屏全网的RSI概念：AI开始造AI，但距离所谓智能爆炸仍有距离，需理性看待递归自我改进。",
-        "comment": "RSI概念热炒，警惕智能爆炸叙事泡沫。",
+        "summary": "爱范儿解读刷屏全网的RSI概念，探讨AI开始造AI的递归自我改进路径，并分析其距离所谓智能爆炸究竟还有多远。",
+        "comment": "RSI是概念热词，离真正智能爆炸尚远。",
         "image": "",
         "score": 91
       },
@@ -157,29 +57,9 @@
         "tag": "iOS 27",
         "title": "iOS 27 正式版体验：Siri AI 开窍，老 iPhone 也有新功能",
         "link": "https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿发布 iOS 27 正式版体验，Siri AI 能力明显提升，老款 iPhone 升级后也能获得新功能，整体值得升级。",
-        "comment": "Siri 补课成功，老机型受益是亮点。",
+        "summary": "爱范儿体验 iOS 27 正式版，Siri AI 能力明显提升，老款 iPhone 升级后也能获得新功能，整体值得升级。",
+        "comment": "Siri 补课成功，老机型也能沾光。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "早报：iOS27推送，比亚迪称燃油车无未来",
-        "link": "https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "广汽一汽签署重组意向协议，一汽拟成第二大股东；中国地震台网中心正与苹果沟通iOS地震预警；马斯克旗下公司撤回对苹果反垄断诉讼，继续起诉OpenAI。",
-        "comment": "车企重组与苹果生态争议同日发酵，值得关注。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂Switch",
-        "title": "沃尔玛多款Switch游戏打折，还有隐藏优惠券",
-        "link": "https://www.ign.com/articles/nintendo-switch-customer-appreciation-sale-at-walmart-plus-secret-coupon",
-        "summary": "沃尔玛对十几款任天堂Switch游戏进行降价促销，并可通过隐藏优惠券额外节省10美元，适合Switch玩家入手。",
-        "comment": "Switch玩家可趁促销和隐藏券低价入手游戏。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/15/nintendoswitchgames-1789507904553.jpg",
         "score": 91
       },
       {
@@ -187,100 +67,30 @@
         "tag": "Xbox",
         "title": "微软回应Xbox Game Pass 2027年重大调整传闻",
         "link": "https://www.gamespot.com/articles/microsoft-reacts-to-xbox-game-pass-rumor-that-could-change-the-service-in-a-big-way/",
-        "summary": "针对传闻称微软计划2027年对Xbox Game Pass进行重大改革，微软已发表声明回应，但未透露具体细节。",
-        "comment": "传闻先行、官方模糊回应，订阅制走向仍待观察。",
+        "summary": "针对传闻称微软计划2027年对Xbox Game Pass进行重大改革，微软已发布声明回应，但未透露具体细节。",
+        "comment": "传闻先行，官方回应含糊，订阅制走向仍待观察。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-1.png?w=300",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "詹姆斯·庞德合集预告片陷AI生成争议",
+        "title": "James Pond合集预告被指AI生成",
         "link": "https://www.gamespot.com/articles/james-pond-legacy-situation-is-more-than-meets-the-ai/",
-        "summary": "System 3 Software为Switch 2发布《詹姆斯·庞德遗产》四合一合集预告，但实机画面被指疑似AI生成，引发外界质疑。",
-        "comment": "复古IP借AI省成本，恐透支玩家信任。",
+        "summary": "System 3为Switch 2推出《James Pond Legacy》四合一合集，预告片发布后因游戏画面疑似AI生成而引发争议，讨论盖过游戏本身。",
+        "comment": "AI争议盖过合集本身，信任危机难消。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/JamesPondLegacy_background-1350x815-v01-SfW.jpg?w=300",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "最后生还者",
-        "title": "HBO再称《最后生还者》第三季或为最终季",
-        "link": "https://www.gamespot.com/articles/the-last-of-us-season-3-is-probably-the-final-season-hbo-says-yet-again/",
-        "summary": "HBO负责人Casey Bloys再次表示，《最后生还者》第三季预计将是最终季，并透露该季将于2027年播出。",
-        "comment": "反复放风，更像为最终季提前定调。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/TLOUNew-Large.jpeg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox Game Pass九月新增12款游戏",
-        "link": "https://www.gamespot.com/articles/xbox-game-pass-gets-12-more-games-in-september/",
-        "summary": "Xbox Game Pass公布9月第二批游戏阵容，共12款新作加入，同时透露10月初部分上线内容。",
-        "comment": "订阅制竞争靠内容密度，微软继续加码。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Runescape.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "Stephen Root确认加盟GTA 6，成系列第二位艾美奖得主",
-        "link": "https://www.gamespot.com/articles/gta-6s-stephen-root-is-the-franchises-second-ever-emmy-winning-actor/",
-        "summary": "演员Stephen Root确认将在GTA 6中为毒贩Brian Heder配音，他因此成为该系列第二位获得艾美奖的演员。",
-        "comment": "GTA选角持续向影视实力派倾斜。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-8.42.06-AM.png?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox Game Pass本月再下架8款游戏",
-        "link": "https://www.gamespot.com/articles/xbox-game-pass-removes-8-more-games-very-soon/",
-        "summary": "微软公布Xbox Game Pass本月第二批下架名单，8款游戏即将离库。此前本月早些时候已移除10款游戏，订阅用户需留意时间。",
-        "comment": "订阅制游戏库频繁变动，玩家需及时游玩。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xboxreset.png?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PlayStation Plus",
-        "title": "PS Plus即将下架7款游戏",
-        "link": "https://www.gamespot.com/articles/playstation-plus-is-removing-7-games-soon-so-play-them-while-you-can/",
-        "summary": "PlayStation Plus游戏目录将新增一批游戏，但同时有7款游戏即将下架，Extra和Premium订阅用户需抓紧时间游玩。",
-        "comment": "订阅制游戏库轮换频繁，玩家需留意下架时间。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Yakuza-LAD.jpg?w=300",
-        "score": 89
       },
       {
         "category": "时事热点",
         "tag": "美军",
         "title": "五角大楼监察长证实伊朗战争致美军弹药短缺",
         "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "summary": "五角大楼监察长证实，伊朗战争已导致美军弹药短缺，补给也出现瓶颈，这与特朗普称美国供应“几乎无限”的说法相矛盾。",
-        "comment": "官方报告戳破“弹药无限”说法，暴露美军真实短板。",
+        "summary": "五角大楼监察长确认，伊朗战争导致美军弹药短缺，补给也出现瓶颈，这与特朗普称美国供应“几乎无限”的说法相矛盾。",
+        "comment": "官方证实弹药短缺，特朗普的“无限供应”说法被打脸。",
         "image": "",
         "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "霍尔木兹海峡",
-        "title": "霍尔木兹海峡油轮遇袭 两名船员失踪",
-        "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-        "summary": "阿曼称一艘油轮在霍尔木兹海峡遇袭后两名船员失踪。伊朗称该船触雷起火，美国则称其遭导弹和无人机袭击。",
-        "comment": "各方说法矛盾，海峡局势再添紧张。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "忍者神龟",
-        "title": "《忍者神龟：最后的浪人》精装版Prime会员降价",
-        "link": "https://www.ign.com/articles/tmnt-the-last-ronin-hardcovers-drop-to-a-new-low-price-for-prime-big-deal-days-2026",
-        "summary": "亚马逊Prime会员日期间，IGN报道《忍者神龟：最后的浪人》精装版降至新低价，适合收藏该系列漫画的玩家入手。",
-        "comment": "Prime会员日带动漫画精装版促销，价格触底。",
-        "image": "https://assets-prd.ignimgs.com/2023/12/13/tmnt-the-last-ronin-deal-blogroll-1702489005508.jpg",
-        "score": 86
       }
     ]
   }

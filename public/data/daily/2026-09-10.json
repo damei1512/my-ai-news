@@ -7,8 +7,8 @@
         "tag": "人工智能",
         "title": "研究者用Codex与ChatGPT搜寻新型抗菌分子",
         "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存与已灭绝基因组中筛选抗菌候选分子，以应对耐药感染。",
-        "comment": "AI正从写代码走向驱动科学发现。",
+        "summary": "César de la Fuente实验室利用Codex和ChatGPT，从现存与已灭绝物种基因组中筛选抗菌候选分子，以应对耐药感染。",
+        "comment": "AI正把基因组数据变成新抗生素的发现引擎。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "OpenAI",
         "title": "OpenAI在ChatGPT Work推出数据智能体",
         "link": "https://openai.com/index/put-data-to-work",
-        "summary": "OpenAI宣布ChatGPT Work上线Data agent，用户可连接企业数据，用自然语言发现洞察并构建交互式仪表盘。",
-        "comment": "AI数据分析走向自然语言化，企业BI门槛再降。",
+        "summary": "OpenAI宣布ChatGPT Work新增数据智能体，可连接企业数据，用自然语言挖掘洞察并构建交互式仪表板。",
+        "comment": "数据智能体让非技术员工也能直接分析企业数据。",
         "image": "",
         "score": 100
       },
@@ -28,37 +28,17 @@
         "title": "OpenAI推出金融服务版ChatGPT",
         "link": "https://openai.com/index/introducing-chatgpt-financial-services",
         "summary": "OpenAI发布面向金融服务的ChatGPT，整合内置金融数据与GPT-6 Astra，支持研究、建模及客户材料生成。",
-        "comment": "金融场景落地，数据与合规是成败关键。",
+        "comment": "AI深入金融核心业务，合规与准确性待考。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与GSA合作扩大政府AI访问与网络防御",
+        "title": "OpenAI向美国各级政府提供免费AI许可与网络安全支持",
         "link": "https://openai.com/index/expanding-ai-access-us-government",
-        "summary": "OpenAI与美国总务管理局合作，为符合条件的联邦、州、地方和部落政府提供零许可费、使用费五折及扩展网络防御支持。",
-        "comment": "OpenAI以低价策略加速政府AI渗透，安全与商业并进。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI在API中推出GPT-Live-1语音模型",
-        "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-        "summary": "OpenAI发布GPT-Live-1，为API带来自然全双工语音对话，支持更强指令遵循、自定义音色和电话功能。",
-        "comment": "全双工语音API落地，实时交互门槛再降。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出Agents API，支持云端智能体构建",
-        "link": "https://openai.com/index/introducing-the-agents-api",
-        "summary": "OpenAI发布Agents API，基于Codex编排框架，提供托管服务，支持长时间运行会话与工具调用，帮助开发者构建并部署云端智能体。",
-        "comment": "智能体开发门槛再降，托管化是趋势。",
+        "summary": "OpenAI与美国总务管理局合作，为符合条件的联邦、州、地方及部落政府提供零许可费、使用费五折优惠及扩展网络安全防御支持。",
+        "comment": "低价换市场，AI政务渗透加速。",
         "image": "",
         "score": 100
       }
