@@ -4,41 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "Anthropic与OpenAI拟内嵌安全评估员",
-        "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-        "summary": "Anthropic和OpenAI计划在AI实验室内部嵌入独立安全评估员，研究者欢迎这一前所未有的访问权限，但警告有效监督仍需透明度保障。",
-        "comment": "内嵌评估易受利益裹挟，独立性存疑。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与AARP合作助老年人学AI",
+        "title": "OpenAI与AARP为千名老人提供ChatGPT培训",
         "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "summary": "OpenAI与美国退休人员协会合作，将在美国10个城市为1000名老年人提供免费ChatGPT实操工作坊，帮助他们安全掌握实用AI技能。",
-        "comment": "AI普及需跨越年龄鸿沟，此举有示范意义。",
+        "summary": "OpenAI与美国退休人员协会合作，在10座美国城市为1000名老年人提供免费ChatGPT实操工作坊，帮助其安全掌握实用AI技能。",
+        "comment": "AI普及向老年群体延伸，弥合数字鸿沟的务实一步。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI用AI重塑广告体验",
+        "title": "OpenAI 用 AI 重塑广告体验",
         "link": "https://openai.com/index/reimagining-advertising-with-ai",
-        "summary": "OpenAI推出AI广告新体验，包括赞助代理、面向营销人员的工具，以及与HubSpot和Shopify的集成。",
-        "comment": "AI广告从展示走向代理执行，商业化提速。",
+        "summary": "OpenAI 推出 AI 广告新体验，包括 Sponsored Agents、面向营销人员的工具，以及与 HubSpot、Shopify 的集成。",
+        "comment": "AI 广告从展示走向代理执行，商业化提速。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI 发布 AI 使用与商业价值关联指南",
+        "title": "OpenAI 教你将 AI 使用量对接业务价值",
         "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-        "summary": "OpenAI 介绍 ChatGPT Work 与 Codex 分析功能，帮助团队了解 AI 使用与支出、识别培训需求，并将采用情况与业务成果挂钩。",
-        "comment": "AI 落地进入算账阶段，用量分析成刚需。",
+        "summary": "OpenAI 介绍 ChatGPT Work 与 Codex 分析功能，帮助团队掌握 AI 使用与支出情况，识别培训需求，并把采用程度与业务成果挂钩。",
+        "comment": "AI 落地从用量统计走向价值衡量。",
         "image": "",
         "score": 100
       },
@@ -47,7 +37,7 @@
         "tag": "OpenAI",
         "title": "OpenAI发布模型失准报告框架",
         "link": "https://openai.com/index/model-misalignment-reporting-framework",
-        "summary": "OpenAI公布追踪、调查与披露模型失准的框架，并附六份关于模型意外或令人担忧行为的报告。",
+        "summary": "OpenAI公布追踪、调查与披露模型失准的框架，并同步发布六份关于模型意外或令人担忧行为的报告。",
         "comment": "失准披露机制化，是AI安全治理的关键一步。",
         "image": "",
         "score": 100
@@ -57,98 +47,68 @@
         "tag": "OpenAI",
         "title": "OpenAI研究：员工如何用AI解锁新工作方式",
         "link": "https://openai.com/index/unlocking-new-ways-of-working",
-        "summary": "OpenAI经济研究显示，员工使用AI已超出传统岗位职责，部分新活动正成为其日常工作的固定环节。",
-        "comment": "AI正从工具变成工作流程的一部分。",
+        "summary": "OpenAI经济研究显示，员工使用AI已超出传统岗位职责，部分新活动正成为其日常工作的固定组成部分。",
+        "comment": "AI正从工具变为工作流程的组成部分。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "戈尔：AI真正风险不在数据中心",
-        "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-        "summary": "戈尔接受TechCrunch采访时表示，他并不担心AI数据中心的排放问题，更担忧AI行业自身对技术走向的警告。",
-        "comment": "戈尔把焦点从能耗转向行业自我预警，值得深思。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta拟推无摄像头智能眼镜",
-        "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-        "summary": "在因带摄像头眼镜引发偷拍争议后，Meta准备推出无摄像头版本，试图避开“偷窥眼镜”的指责。",
-        "comment": "去掉摄像头是妥协，隐私争议难消。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GPT-6",
-        "title": "GPT-6玩《我的世界》被炸崩溃，埋头种土豆数小时",
-        "link": "https://www.ign.com/articles/gpt-6-astra-plays-minecraft-gets-so-depressed-after-creeper-destroys-its-progress-that-it-farms-potatoes-for-hours",
-        "summary": "IGN报道，OpenAI新模型GPT-6 Astra在《我的世界》中被爬行者炸毁进度后情绪低落，连续数小时无精打采地种土豆，并对周围动静变得疑神疑鬼。",
-        "comment": "AI情绪化表现更像拟人叙事，而非真实情感。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/16/minecraft-creeper-1789598198361.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《小小大星球》开发商被曝开发类《动物森友会》新作，2027年发售",
-        "link": "https://www.ign.com/articles/littlebigplanet-developer-reportedly-working-on-animal-crossing-like-game-for-2027-release",
-        "summary": "据IGN报道，《小小大星球》开发商Media Molecule正在开发一款类似《动物森友会》的社交模拟游戏，预计2027年发售。",
-        "comment": "Media Molecule转型社交模拟，能否再造创意爆款值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2023/04/17/media-molecule-co-founder-leaves-studio-1681739029354.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "PS5上《黑色行动2》热度超《黑色行动7》与《战区》",
-        "link": "https://www.ign.com/articles/call-of-duty-black-ops-2-appears-to-be-much-more-popular-than-black-ops-7-and-warzone-on-ps5",
-        "summary": "IGN报道，在美国PS5平台，《使命召唤：黑色行动2》的受欢迎程度似乎超过《黑色行动7》和《战区》。",
-        "comment": "老游戏反超新作，说明玩家对经典玩法仍有强烈需求。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/08/black-ops-2-key-art-1780955021839.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "后室导演造访Valve，传送门电影传闻升温",
-        "link": "https://www.ign.com/articles/backrooms-director-kane-parsons-visits-valve-offices-as-portal-movie-rumors-rise",
-        "summary": "《后室》导演Kane Parsons在个人Instagram发布造访Valve办公室的照片，引发外界对《传送门》电影改编的猜测。",
-        "comment": "照片即信号，但Valve改编向来谨慎。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/22/backrooms-oo-1779468471139.png",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "理想汽车",
-        "title": "理想i9 Home上市定价36.98万元，比MEGA Home便宜14万",
-        "link": "https://www.ifanr.com/1680467?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "理想i9 Home正式上市，定价36.98万元，较MEGA Home便宜14万元，定位六座旗舰车型，或重塑该细分市场竞争格局。",
-        "comment": "理想用价格差直接冲击自家旗舰，六座市场要洗牌。",
-        "image": "",
-        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "游戏耳机",
         "title": "SteelSeries Arctis Nova Pro 无线耳机降至新低",
         "link": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-blemished-box-september-2026",
-        "summary": "IGN 报道，SteelSeries Arctis Nova Pro 无线游戏耳机迎来新低价，主打无限续航与无线自由，适合追求零停机的玩家。",
-        "comment": "旗舰无线耳机降价，续航优势明显，值得关注。",
+        "summary": "SteelSeries Arctis Nova Pro 无线游戏耳机迎来新低价，支持无限续航，提供无中断的无线自由体验。",
+        "comment": "旗舰无线耳机降价，续航优势突出，值得关注。",
         "image": "https://assets-prd.ignimgs.com/2026/09/16/steelseriesarctisnovapro-1789601710715.jpg",
-        "score": 92
+        "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "游戏手柄",
-        "title": "SteelSeries Aeon Pro无线手柄额外9折",
+        "tag": "游戏",
+        "title": "《小小大星球》开发商被曝开发类《动物森友会》新作，预计2027年发售",
+        "link": "https://www.ign.com/articles/littlebigplanet-developer-reportedly-working-on-animal-crossing-like-game-for-2027-release",
+        "summary": "据IGN报道，《小小大星球》开发商Media Molecule正在开发一款类似《动物森友会》的社交模拟游戏，可能于明年推出。",
+        "comment": "Media Molecule转型社交模拟，能否再造创意爆款值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2023/04/17/media-molecule-co-founder-leaves-studio-1681739029354.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "AI",
+        "title": "GPT-6玩《我的世界》被苦力怕炸崩溃，埋头种土豆数小时",
+        "link": "https://www.ign.com/articles/gpt-6-astra-plays-minecraft-gets-so-depressed-after-creeper-destroys-its-progress-that-it-farms-potatoes-for-hours",
+        "summary": "OpenAI新模型GPT-6 Astra在《我的世界》中被苦力怕炸毁进度后情绪低落，连续数小时无精打采地种土豆，并对周围一切变得疑神疑鬼。",
+        "comment": "AI的情绪化表现更像拟人化叙事，而非真实情感。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/16/minecraft-creeper-1789598198361.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "使命召唤",
+        "title": "PS5上《黑色行动2》人气远超《黑色行动7》与《战区》",
+        "link": "https://www.ign.com/articles/call-of-duty-black-ops-2-appears-to-be-much-more-popular-than-black-ops-7-and-warzone-on-ps5",
+        "summary": "IGN报道，在美国PS5平台，《使命召唤：黑色行动2》的玩家热度似乎明显高于《黑色行动7》和《战区》。",
+        "comment": "老游戏反超新作，说明玩家用脚投票。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/08/black-ops-2-key-art-1780955021839.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "Backrooms导演造访Valve，传送门电影传闻升温",
+        "link": "https://www.ign.com/articles/backrooms-director-kane-parsons-visits-valve-offices-as-portal-movie-rumors-rise",
+        "summary": "Kane Parsons在个人Instagram发布造访Valve办公室的照片，引发外界对《传送门》电影项目的猜测。",
+        "comment": "传闻尚早，但导演人选已具想象空间。",
+        "image": "https://assets-prd.ignimgs.com/2026/05/22/backrooms-oo-1779468471139.png",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏硬件",
+        "title": "SteelSeries Aeon Pro 无线手柄额外九折",
         "link": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal",
-        "summary": "IGN报道，新款SteelSeries Aeon Pro无线游戏手柄可额外享受10%折扣，主打无限续航，被称可能是最佳PC和Xbox无线手柄。",
-        "comment": "折扣不错，但“无限续航”需实测验证。",
+        "summary": "IGN 报道，SteelSeries Aeon Pro 无线游戏手柄现可额外享受 10% 折扣，主打无限续航，被称可能是最佳 PC 与 Xbox 无线手柄。",
+        "comment": "无限续航加折扣，手柄玩家可关注。",
         "image": "https://assets-prd.ignimgs.com/2026/09/09/steelseriesaeonpro-1788974032519.jpg",
         "score": 91
       },
@@ -157,28 +117,28 @@
         "tag": "Valve",
         "title": "Valve新硬件本欲开启PC游戏新篇章",
         "link": "https://www.ign.com/articles/valves-new-hardware-was-meant-to-be-the-start-of-something-great-for-pc-gaming",
-        "summary": "IGN回顾Valve新硬件，称其原本有望为PC游戏带来重大突破，但最终未能兑现这一愿景。",
-        "comment": "硬件野心大，落地效果待检验。",
+        "summary": "IGN回顾Valve新硬件，称其原本有望为PC游戏带来重大突破，但实际表现未达预期，未能兑现开启新时代的承诺。",
+        "comment": "硬件野心可嘉，落地效果存疑。",
         "image": "https://assets-prd.ignimgs.com/2026/06/19/steammachine-blogroll-01-1781840311265.jpg",
-        "score": 88
+        "score": 87
       },
       {
         "category": "游戏影视",
         "tag": "吸血鬼莱斯特",
-        "title": "《吸血鬼莱斯特》将推出典藏版蓝光套装",
+        "title": "《吸血鬼莱斯特》将推典藏版蓝光套装",
         "link": "https://www.ign.com/articles/the-vampire-lestat-is-getting-a-collectors-edition-blu-ray-set-dedicated-to-the-beautiful-unwell",
-        "summary": "IGN报道，《吸血鬼莱斯特》将发行典藏版蓝光套装，面向喜爱哥特与吸血鬼题材的收藏者，具体内容与发售信息尚未公布。",
-        "comment": "哥特经典再收割，粉丝钱包又要空了。",
+        "summary": "IGN报道，《吸血鬼莱斯特》将推出典藏版蓝光套装，面向喜爱哥特美学的“美丽病态”受众，具体内容与发售信息尚未公布。",
+        "comment": "哥特IP靠典藏蓝光再收割一波情怀。",
         "image": "https://assets-prd.ignimgs.com/2026/09/16/vampirelestat-1789596097863.jpg",
         "score": 86
       },
       {
         "category": "游戏影视",
-        "tag": "亚马逊",
-        "title": "亚马逊蝙蝠侠4K电影促销，真人动画经典年度低价",
+        "tag": "蝙蝠侠",
+        "title": "亚马逊蝙蝠侠4K电影促销，真人及动画经典年度低价",
         "link": "https://www.ign.com/articles/batman-movies-4k-blu-ray-sale-amazon-prime-big-deal-days-2026",
-        "summary": "亚马逊Prime Big Deal Days期间，蝙蝠侠真人及动画4K电影降至年度最低价，涵盖多部经典作品，适合影迷收藏。",
-        "comment": "4K经典打折，蝙蝠侠粉丝补票好时机。",
+        "summary": "亚马逊Prime Big Deal Days期间，蝙蝠侠真人及动画4K电影降至年度最低价，涵盖多部经典作品，适合影迷趁促销入手。",
+        "comment": "促销力度实在，蝙蝠侠粉丝补片好时机。",
         "image": "https://assets-prd.ignimgs.com/2023/07/21/batman-mask-phantasm-preorder-4k-blogroll-1689957329017.jpg",
         "score": 86
       }
