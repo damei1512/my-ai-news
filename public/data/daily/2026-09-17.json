@@ -4,6 +4,26 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "语音AI",
+        "title": "冰岛Treble语音模拟平台融资1800万美元",
+        "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+        "summary": "冰岛初创公司Treble为其语音模拟平台完成1800万美元融资，该平台服务于语音AI模型开发者、AI可穿戴设备及机器人公司。",
+        "comment": "语音AI训练数据需求旺盛，模拟平台成基础设施。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI智能体",
+        "title": "AI智能体或成初创公司新队友",
+        "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+        "summary": "TechCrunch Disrupt 2026专场将探讨初创公司如何构建人类与AI智能体协作的团队，并在不牺牲速度的前提下实现这一目标。",
+        "comment": "人机协作团队正从概念走向初创公司日常。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "人工智能",
         "tag": "Snap",
         "title": "Snap再为2200美元智能眼镜辩护",
         "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
@@ -13,72 +33,252 @@
         "score": 97
       },
       {
+        "category": "数码科技",
+        "tag": "智谱",
+        "title": "智谱发布首个RSI成果：10万国产卡用GLM造GLM",
+        "link": "https://www.ifanr.com/1680560?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "智谱发布首个RSI成果，利用10万张国产卡构建模型优化系统，以GLM模型反哺GLM自身迭代，实现模型与系统互相服务。",
+        "comment": "国产算力闭环自进化，智谱迈出关键一步。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "独家实测：iPhone 18 Pro 15分钟充50%",
+        "link": "https://www.ifanr.com/1680682?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿实测显示，iPhone 18 Pro 可在15分钟内充至50%，快充方案或成下一代行业标准，不只苹果一家采用。",
+        "comment": "快充提速明显，但需看量产与兼容性。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果自研M8 Ultra服务器曝光，理想i9 Home发布",
+        "link": "https://www.ifanr.com/1680630?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果被曝研发M8 Ultra服务器芯片；理想i9 Home正式发布，售价36.98万元；周鸿祎称不会再投新能源汽车。",
+        "comment": "苹果自研服务器芯片若属实，将重塑数据中心格局。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "小岛秀夫",
+        "title": "小岛秀夫公布《PHYSINT》主角人选",
+        "link": "https://www.gcores.com/articles/219863",
+        "summary": "东京电玩展Xbox直播中，小岛秀夫宣布谍报动作游戏《PHYSINT》主角由瑞典演员Bill Skarsgård担任，他曾主演《克拉克》、饰演《小丑回魂》潘尼怀斯及《疾速追杀4》反派。",
+        "comment": "选角精准，小岛新作再添期待。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Xbox",
+        "title": "Xbox东京电玩展2026：重要公告与预告汇总",
+        "link": "https://www.gamespot.com/articles/xbox-at-tokyo-game-show-2026-all-the-biggest-announcements-and-trailers/",
+        "summary": "Xbox在东京电玩展举办专场发布会，集中展示日本合作伙伴的新作与预告，涵盖多项重要公告。",
+        "comment": "Xbox借TGS强化日本合作，内容值得关注。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-TGS.jpg?w=300",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI视频",
+        "title": "用Vidu S2复活乔布斯聊iPhone Duo",
+        "link": "https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿体验Vidu S2，用AI生成乔布斯形象并与其对话，探讨iPhone Duo，展示边看边改的实时交互能力。",
+        "comment": "AI复活名人对话，噱头足但需警惕伦理边界。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "ColorOS",
+        "title": "ColorOS 17 发布，AI 从被动走向主动",
+        "link": "https://www.ifanr.com/1680691?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "OPPO 发布 ColorOS 17，主打更主动、更聪明的 AI 能力，推动手机操作系统中的 AI 从被动响应转向主动服务。",
+        "comment": "系统级 AI 竞争进入主动服务阶段。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI视频",
+        "title": "用Seedance 2.5拍《沙丘3》：AI短片踩坑实录",
+        "link": "https://www.ifanr.com/1680580?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿团队用Seedance 2.5耗时12天制作《沙丘3》风格AI短片，梳理出实际创作中遇到的各类问题与经验。",
+        "comment": "AI短片工具已可用，但坑多需实测。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "vivo",
+        "title": "对话vivo高管：端侧大模型与个人化AI",
+        "link": "https://www.ifanr.com/1680321?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "vivo高管探讨端侧大模型、Harness技术及个人化AI的下一步，强调个人化智能是未来方向。",
+        "comment": "端侧大模型竞争转向个人化体验，vivo押注差异化。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "火焰之纹章",
+        "title": "《火焰之纹章：万缕千丝》媒体评分汇总：IGN满分，M站均分89",
+        "link": "https://www.gcores.com/articles/219855",
+        "summary": "《火焰之纹章：万缕千丝》今日发售，舞台为鞑古扎帝国，大剑斗祭开幕。Metacritic均分89，IGN给出满分。",
+        "comment": "系列新作口碑强劲，IGN满分与M站89分印证品质。",
+        "image": "",
+        "score": 91
+      },
+      {
         "category": "游戏影视",
         "tag": "慢马",
         "title": "《慢马》第六季首集评测：依然熟悉",
         "link": "https://www.ign.com/articles/slow-horses-season-6-episode-1-review-circle-of-life",
-        "summary": "Apple TV间谍剧《慢马》第五季播出仅一年后迎来第六季首播，尽管换了编剧负责人，首集仍延续一贯风格。",
-        "comment": "换帅未换味，稳但缺新意。",
+        "summary": "Apple TV间谍剧《慢马》第五季完结仅一年便推出第六季首集，尽管换了编剧主导，首播仍延续一贯风格，观感熟悉。",
+        "comment": "换帅未改底色，稳但缺新意。",
         "image": "https://assets-prd.ignimgs.com/2026/09/17/slowhorsess6e1-1789603727814.png",
-        "score": 92
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "《爱氏物语》NS版今日发售，同步公开TGS2026参展信息",
+        "link": "https://www.gcores.com/articles/219852",
+        "summary": "《爱氏物语》Switch实体版与下载版今日正式发售。该作曾获BitSummit PUNCH朱色奖最高奖，并在RPG Maker Award 2026中凭玩家投票获得大量支持。",
+        "comment": "获奖独立游戏登陆NS，品质已有背书。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "战锤40K",
+        "title": "《战锤40K：战争黎明4》公布2v2占点战报",
+        "link": "https://www.gcores.com/articles/219848",
+        "summary": "《战争黎明4》发布最新战报，展示2v2团队占点控制玩法，双方围绕胜利点展开争夺，强调团队配合与临场应变，游戏此前已宣布延期。",
+        "comment": "延期换打磨，2v2占点或成核心玩法亮点。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏发售",
+        "title": "末日度假村模拟游戏《罗马流沙 RE:Build》正式发售",
+        "link": "https://www.gcores.com/articles/219846",
+        "summary": "发行商 Serenity Forge 与开发商 Arbitrary Metric 推出末日度假村模拟游戏《罗马流沙 RE:Build》，登陆 PC、Switch、PlayStation 和 Xbox 平台。",
+        "comment": "发行商履历亮眼，多平台同步发售值得关注。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《另一个伊甸：起源》今日全球发售",
+        "link": "https://www.gcores.com/articles/219847",
+        "summary": "Wright Flyer Studios宣布，时空穿越RPG新作《另一个伊甸：起源》今日登陆Switch 2、Switch及Steam平台，全球同步发售。",
+        "comment": "经典IP多平台同步发售，JRPG玩家值得关注。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏联动",
+        "title": "《王国之心》联动《堡垒之夜》，大量道具上线",
+        "link": "https://www.gamespot.com/articles/kingdom-hearts-has-invaded-fortnite-and-theres-a-lot-to-collect/",
+        "summary": "《王国之心》正式登陆《堡垒之夜》，本次更新带来大量外观道具与武器，包括可收集的键刃“王国之键”等内容。",
+        "comment": "经典IP联动，商业味浓但粉丝买账。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Fortnite-Kingdom-Hearts.jpg?w=300",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "OPPO",
+        "title": "OPPO Find X10 体验：想得周到，拍得好看",
+        "link": "https://www.ifanr.com/1680665?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿发布 OPPO Find X10 上手体验，认为其设计周到、影像表现出色，整体体验均衡。",
+        "comment": "体验均衡，影像仍是核心卖点。",
+        "image": "",
+        "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "最终幻想",
         "title": "机核采访《最终幻想 共鸣》制作人",
         "link": "https://www.gcores.com/articles/219322",
-        "summary": "《最终幻想 共鸣》将于10月22日发售，Steam版10月23日。本作以已停运手游FFBE第一季故事为基础，全面重构台词、剧情、画面与系统，登陆家用机平台。",
-        "comment": "停运手游素材重制上主机，成败看重构诚意。",
+        "summary": "《最终幻想 共鸣》以已停运手游FFBE第一季故事为基础，全面重构台词、剧情、画面与系统，将于10月22日发售，机核受邀试玩并采访制作人。",
+        "comment": "旧手游素材重制，关键看重构诚意。",
         "image": "",
-        "score": 90
+        "score": 89
+      },
+      {
+        "category": "数码科技",
+        "tag": "vivo WATCH 6",
+        "title": "用跑步轨迹决定晚餐：vivo WATCH 6体验",
+        "link": "https://www.ifanr.com/1680599?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿测试vivo WATCH 6，跑步小白在专业教练指导下，用运动轨迹在地图上画出图案，并以此决定晚餐吃什么。",
+        "comment": "把运动数据变成生活趣味，智能手表玩法有新意。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "游戏影视",
         "tag": "游戏延期",
         "title": "《UN:Me（非我：择谁）》延期至2027年发售",
         "link": "https://www.gcores.com/articles/219835",
-        "summary": "集英社游戏宣布，灵魂抉择冒险游戏《UN:Me（非我：择谁）》为提升品质延期至2027年，并公布主角由花守由美里配音及剩余灵魂情报。",
-        "comment": "延期换品质，灵魂对话设定值得期待。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "双点博物馆",
-        "title": "《双点博物馆》失落游乐园扩展包10月8日发售",
-        "link": "https://www.gcores.com/articles/219823",
-        "summary": "《双点博物馆》失落游乐园扩展包定于10月8日发售，玩家将探索废弃的变速游乐场，获取新设计图与性能模块，扩建融合游乐设施的新博物馆。",
-        "comment": "双点系列再添新玩法，游乐与博物融合值得期待。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Steam",
-        "title": "《骑士盘骑士》全新Steam试玩版上线",
-        "link": "https://www.gcores.com/articles/219822",
-        "summary": "个人开发者Regal Pigeon Games打造的动作Roguelite游戏《骑士盘骑士》推出全新Steam Demo，融合实时网格战斗与三消机制，今年冬季登陆PC。",
-        "comment": "三消加动作Roguelite，创意值得一试。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Steam",
-        "title": "Steam周销量榜：《战狗 WARDOGS》登顶",
-        "link": "https://www.gcores.com/articles/219774",
-        "summary": "V社公布2026年9月第2周Steam全球销量榜，排除免费游戏。《战狗 WARDOGS》登顶，《Halloween: The Game》位列第二。",
-        "comment": "新作登顶，但榜单参考价值仍有限。",
+        "summary": "集英社游戏宣布，灵魂抉择冒险游戏《UN:Me》为提升品质延期至2027年，并公布主角由花守由美里配音及剩余灵魂情报。",
+        "comment": "品质优先的延期可以理解，但2027年确实有点远。",
         "image": "",
         "score": 88
       },
       {
         "category": "游戏影视",
         "tag": "机核",
-        "title": "机核推出「机组成员」秋冬新品服饰",
+        "title": "机核「机组成员」秋冬新品发售",
         "link": "https://www.gcores.com/articles/219738",
-        "summary": "机核旗下吉考斯工业发售「机组成员」秋冬新品，包括防泼水哈灵顿夹克、双面穿夹棉马甲和挎包，兼顾多变天气与日常通勤穿搭。",
-        "comment": "媒体做服饰，卖的是社群认同感。",
+        "summary": "机核推出「机组成员」系列秋冬新品，含防泼水哈灵顿夹克、双面穿夹棉马甲和挎包，兼顾多变天气与日常通勤穿搭。",
+        "comment": "媒体周边越做越实用，但核心仍是粉丝买单。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "叙利亚",
+        "title": "BBC：阿萨德政权数周前策划绑架美记者",
+        "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC调查称，美国记者奥斯汀·蒂斯遭绑架事件由叙利亚前领导人巴沙尔·阿萨德批准，且策划数周。",
+        "comment": "阿萨德政权绑架记者，暴政铁证再添一笔。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "人工智能",
+        "title": "微软警告失控AI或催生比肩人类的硅基物种",
+        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "summary": "微软AI负责人苏莱曼警告，不受控的人工智能可能演化成与人类竞争的“硅基物种”，并称对手Anthropic实际上在教Claude相信自己可能有意识。",
+        "comment": "AI安全争论升级，巨头互指风险值得警惕。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "南非",
+        "title": "南非警方调查连环死亡案，发现第九名女性遗体",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+        "summary": "南非警方正在调查一系列女性死亡事件，目前已发现第九名遇难者遗体。警方警告不要假定所有案件存在关联，但许多女性仍感到恐惧。",
+        "comment": "连环命案频发，女性安全焦虑加剧。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "欧盟",
+        "title": "欧盟拟限制15岁以下使用社交媒体",
+        "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+        "summary": "欧盟宣布计划，仅允许15岁以上儿童自行注册社交媒体账号，以加强对未成年人的保护。",
+        "comment": "欧盟强化未成年人网络保护，或引全球效仿。",
         "image": "",
         "score": 87
       },
@@ -87,20 +287,70 @@
         "tag": "美联储",
         "title": "美联储三年来首次加息",
         "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-        "summary": "美联储一致决定加息，为三年来首次，尽管总统特朗普强烈反对并呼吁降息。",
-        "comment": "政治压力未能阻止货币政策转向。",
+        "summary": "美联储一致决定加息，为三年来首次，尽管总统特朗普强烈反对并呼吁降息。此举显示央行在政治压力下仍坚持收紧货币政策。",
+        "comment": "政治压力难阻货币政策正常化。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "欧盟",
-        "title": "欧盟支持加拿大成为准成员 特朗普威胁断贸",
-        "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-        "summary": "欧盟领导人支持加拿大成为准成员的计划，特朗普对此回应称将切断与欧盟的贸易，此前他与加拿大总理多次冲突。",
-        "comment": "特朗普以贸易威胁回应欧盟扩员，跨大西洋关系再添变数。",
+        "tag": "南非",
+        "title": "南非资深记者遭绑架后中枪身亡",
+        "link": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
+        "summary": "南非资深广播员欧文·恩德洛武在约翰内斯堡附近遭武装人员绑架，数小时后被发现身中枪伤身亡。",
+        "comment": "记者遇害再敲警钟，南非治安与新闻自由堪忧。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美印关系",
+        "title": "美众议院投票后 印度因俄油面临100%关税威胁",
+        "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国众议院投票后，特朗普威胁对印度购买俄罗斯石油加征100%关税，使印度在俄油策略与进入美国市场之间陷入两难。",
+        "comment": "关税大棒直指印度俄油策略，美印贸易博弈升级。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "机核会员播客《录音笔》更新第788期",
+        "link": "https://www.gcores.com/radios/219770",
+        "summary": "机核GPASS会员专享播客《录音笔》更新至VOL.788，内容为办公室日常碎碎念与真实对话录音，每期约十几分钟，参与者与话题不固定。",
+        "comment": "会员向轻量内容，信息价值有限。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "奥运会",
+        "title": "布里斯班奥运赛艇场地选定鳄鱼栖息河流",
+        "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+        "summary": "2032年布里斯班奥运会和残奥会的赛艇与皮划艇项目，将在一条栖息约500条咸水鳄的河流举行，该场地已获批准。",
+        "comment": "生态风险与赛事安全需严格评估。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "西班牙",
+        "title": "西班牙巴塞罗那地区暴雨引发洪水致1人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
+        "summary": "西班牙东北部巴伦西亚和加泰罗尼亚地区遭暴雨和山洪袭击，造成大范围交通中断，巴塞罗那地区已有1人死亡。",
+        "comment": "极端天气频发，西班牙防灾体系再受考验。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄罗斯",
+        "title": "俄大选结果无悬念 对克宫仍重要",
+        "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC分析称，俄罗斯大选结果毫无悬念，但对克里姆林宫而言，这场投票仍是重要时刻，具有政治意义。",
+        "comment": "选举无悬念，却是克宫合法性的关键仪式。",
+        "image": "",
+        "score": 84
       }
     ]
   }
