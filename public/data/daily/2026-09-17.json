@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI算力",
-        "title": "Crusoe融资39亿美元建AI数据中心",
-        "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-        "summary": "Crusoe完成39亿美元融资，估值达309亿美元，将用于建设大型数据中心及小型模块化AI工厂。",
-        "comment": "AI算力基建热度不减，资本持续加码。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "FAA斥资8.75亿美元用AI升级空管系统",
-        "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-        "summary": "美国联邦航空管理局启动新AI软件项目，投入8.75亿美元，帮助空中交通管制员更高效地管理美国空域航班。",
-        "comment": "AI进入空管核心系统，安全验证是关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "ChatGPT",
         "title": "Cooley用ChatGPT加速IPO流程",
         "link": "https://openai.com/index/cooley-gopublic",
-        "summary": "Cooley基于ChatGPT Work打造GO Public工具，将智能引入IPO流程，帮助律师更早发现问题，把判断力集中在关键环节。",
-        "comment": "AI正从辅助工具切入专业服务核心流程。",
+        "summary": "律所Cooley基于ChatGPT Work打造GO Public工具，将智能引入IPO流程，帮助律师更早发现问题，把判断力集中在关键环节。",
+        "comment": "AI正从辅助写作切入专业核心流程。",
         "image": "",
         "score": 100
       },
@@ -37,80 +17,40 @@
         "tag": "OpenAI",
         "title": "OpenAI推出法律专用AI产品Astra",
         "link": "https://openai.com/index/astra-for-law",
-        "summary": "OpenAI发布面向法律行业的Astra，提供前沿智能、律所定制工作流、法律数据源连接及符合法律保密要求的管控功能。",
-        "comment": "法律AI竞争升温，OpenAI以合规与定制切入专业市场。",
+        "summary": "OpenAI发布Astra for Law，面向律所提供定制工作流、法律数据源连接及保密客户工作所需的法律级管控。",
+        "comment": "OpenAI垂直化落地法律场景，合规与数据管控是关键。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AGI",
-        "title": "谷歌DeepMind成立研究所拓宽AGI讨论",
-        "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-        "summary": "谷歌DeepMind新设研究所，旨在汇集谷歌、DeepMind与全球研究界对AGI的不同观点，承认各方不会总是一致。",
-        "comment": "AGI治理需要多元声音，而非一家之言。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI智能体",
-        "title": "失控AI智能体的解药可能是更多AI",
-        "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-        "summary": "企业将更长更复杂的任务交给AI智能体后，面临监督难题：智能体行动更快、持续更久、数量更大，人类难以实时审查。",
-        "comment": "用AI监督AI，是解药还是新风险？",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "大模型",
-        "title": "PrismML推微型大模型，欲改变AI使用方式",
-        "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-        "summary": "AI实验室PrismML发布微型大模型，主张以更小体量实现本地化AI应用，试图改变用户与AI的交互方式。",
-        "comment": "小模型路线再添玩家，落地能力待验证。",
-        "image": "",
-        "score": 98
       },
       {
         "category": "数码科技",
         "tag": "智谱",
         "title": "智谱发布首个RSI成果：10万国产卡用GLM造GLM",
         "link": "https://www.ifanr.com/1680560?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "智谱发布首个RSI成果，用10万张国产卡以GLM模型优化GLM自身，形成模型与系统互相服务的闭环。",
-        "comment": "国产算力闭环造模型，智谱迈出关键一步。",
+        "summary": "智谱发布首个RSI成果，依托10万张国产卡，用GLM模型优化GLM自身，形成模型与系统互相服务的闭环。",
+        "comment": "国产算力与自研模型闭环，值得关注。",
         "image": "",
-        "score": 93
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "iPhone",
         "title": "独家实测：iPhone 18 Pro 15分钟充50%",
         "link": "https://www.ifanr.com/1680682?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测显示，iPhone 18 Pro 可在15分钟内充至50%，快充方案或成下一代行业标准，并非苹果独有选择。",
-        "comment": "快充提速明显，但需验证长期电池损耗。",
+        "summary": "爱范儿独家实测显示，iPhone 18 Pro 可在15分钟内充至50%，快充方案或成下一代行业方向，并非苹果独有选择。",
+        "comment": "快充提速明显，但需验证量产与发热表现。",
         "image": "",
         "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "Rockstar称《GTA 6》将带来游戏内电台的下一代进化",
-        "link": "https://www.gamespot.com/articles/gta-6-will-feature-the-next-evolution-of-in-game-radio-rockstar-says/",
-        "summary": "Rockstar在宣布《GTA 6：专辑》的博客末尾透露，游戏在声音与音乐方面还有更多更新，并称将带来游戏内电台的下一代进化。",
-        "comment": "电台是GTA灵魂，进化值得期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "罗布乐思游戏《森林99夜》改编电影邀奥斯卡导演执导",
-        "link": "https://www.gamespot.com/articles/roblox-movie-99-nights-in-the-forest-brings-on-oscar-winning-toy-story-4-director/",
-        "summary": "据《好莱坞报道》，基于热门罗布乐思生存恐怖游戏《森林99夜》改编的电影已聘请奥斯卡获奖导演乔什·库雷执导，他曾执导《玩具总动员4》。",
-        "comment": "游戏IP影视化再提速，奥斯卡导演加持提升期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/99-Large.jpeg?w=300",
-        "score": 92
+        "category": "数码科技",
+        "tag": "零跑",
+        "title": "零跑官宣第二品牌，新车将具备小米SUV同款升顶能力",
+        "link": "https://www.ifanr.com/1680808?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "零跑宣布推出第二品牌，新车将搭载与小米SUV同款的升顶功能，被视为其独特造车方法论的体现。",
+        "comment": "零跑借升顶功能对标小米，意在差异化突围。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
@@ -125,82 +65,32 @@
       {
         "category": "数码科技",
         "tag": "ColorOS",
-        "title": "ColorOS 17发布，OPPO推动AI主动化",
+        "title": "ColorOS 17 发布：OPPO 让 AI 更主动聪明",
         "link": "https://www.ifanr.com/1680691?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OPPO发布ColorOS 17，重点升级AI能力，让手机系统从被动响应转向主动服务，提升智能化体验。",
-        "comment": "AI主动化是系统竞争新方向，关键看落地体验。",
+        "summary": "OPPO 发布 ColorOS 17，主打 AI 从被动响应转向主动服务，强调更聪明、更前置的智能体验。",
+        "comment": "系统级 AI 竞争进入主动服务阶段。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "零跑",
-        "title": "零跑官宣第二品牌，新车将具备小米SUV同款升顶能力",
-        "link": "https://www.ifanr.com/1680808?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "零跑宣布推出第二品牌，新车将搭载与小米SUV同款的升顶能力，体现其独特造车方法论。",
-        "comment": "零跑借升顶功能对标小米，意在差异化突围。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
         "tag": "AI",
-        "title": "用Vidu S2复活乔布斯聊iPhone Duo",
+        "title": "用Vidu S2模拟乔布斯聊iPhone Duo",
         "link": "https://www.ifanr.com/1680700?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿体验Vidu S2，用AI生成乔布斯形象并与其对话，讨论iPhone Duo，展示边看边改的实时交互能力。",
-        "comment": "AI数字人对话体验有新意，但噱头大于实用。",
+        "summary": "爱范儿体验Vidu S2，通过AI生成乔布斯形象并与其对话，讨论iPhone Duo，展示边看边改的交互方式。",
+        "comment": "AI复活名人对话，噱头足但实用性待验证。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "科学家发现新猫种，GTA 6仍未完工",
-        "link": "https://www.gamespot.com/articles/scientists-discovered-a-new-cat-before-rockstar-could-finish-gta-6/",
-        "summary": "GameSpot调侃称，GTA 6自2015年开发至今，期间科学家已发现新猫种。文章借时间跨度讽刺游戏开发周期过长。",
-        "comment": "开发九年，猫都进化了，游戏还没出。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Lucia_Caminos_07_e160c0.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "街头霸王",
-        "title": "街头霸王电影爆米花桶设计获赞",
-        "link": "https://www.gamespot.com/articles/street-fighter-movies-popcorn-bucket-is-absolutely-perfect-no-notes/",
-        "summary": "GameSpot报道，街头霸王电影推出的爆米花桶设计独特，被评价为完美无缺，在众多电影周边中脱颖而出。",
-        "comment": "创意周边成电影营销新亮点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/streetfighter-Large.jpeg?w=300",
-        "score": 89
       },
       {
         "category": "数码科技",
         "tag": "OPPO",
         "title": "OPPO Find X10 体验：想得周到，拍得好看",
         "link": "https://www.ifanr.com/1680665?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿发布 OPPO Find X10 上手体验，评价其设计周到、影像表现好看，并引导关注官方公众号获取更多内容。",
-        "comment": "体验文偏软，核心信息有限，影像仍是卖点。",
+        "summary": "爱范儿发布 OPPO Find X10 上手体验，认为其设计考虑周到，拍照表现好看，整体体验成熟。",
+        "comment": "体验均衡，影像仍是核心卖点。",
         "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "生物多样性",
-        "title": "玻利维亚发现新野猫物种，仅存一只已知活体",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-        "summary": "一种长期被误认为近亲的斑纹野猫在玻利维亚被确认为新物种，目前仅知一只存活个体，引发保护关注。",
-        "comment": "新物种仅存一例，保护紧迫性极高。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "尼日利亚",
-        "title": "尼日利亚人抢购丹格特炼油厂股份",
-        "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-        "summary": "许多尼日利亚人首次购买股票，入股非洲首富阿里科·丹格特拥有的炼油厂，掀起一股抢购热潮。",
-        "comment": "民众入股本土能源巨头，折射经济自主期待。",
-        "image": "",
-        "score": 85
+        "score": 89
       }
     ]
   }
