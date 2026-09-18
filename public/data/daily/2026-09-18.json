@@ -3,22 +3,132 @@
     "week": "周五",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "Level-5",
+        "title": "Level-5因AI争议重传预告片并道歉",
+        "link": "https://www.ign.com/articles/professor-layton-developer-level-5-scrambles-to-reupload-trailers-as-ai-backlash-intensifies",
+        "summary": "《雷顿教授》开发商Level-5在生成式AI使用引发强烈批评后，发布新声明道歉，并重新上传相关预告片以平息争议。",
+        "comment": "AI滥用引反弹，厂商补救难消信任裂痕。",
+        "image": "https://assets-prd.ignimgs.com/2023/11/29/laytonthumb-1701279830123.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "扎克·施奈德",
+        "title": "扎克·施奈德《纽约大逃亡》翻拍版剧情首曝",
+        "link": "https://www.ign.com/articles/first-plot-details-for-zack-snyders-escape-from-new-york-remake",
+        "summary": "扎克·施奈德透露其翻拍版《纽约大逃亡》的剧情设定，并暗示可能已有人选出演主角斯内克·普利斯肯。",
+        "comment": "施奈德风格或为经典注入新暴力美学。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/14/01g7ck3qh2wfrf2ep791-1776175978159.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "育碧",
+        "title": "育碧40周年特卖：PC游戏低至1折，还可免费领一款",
+        "link": "https://www.ign.com/articles/ubisoft-40-year-anniversary-sale-best-deals-on-pc-games",
+        "summary": "育碧40周年特卖开启，PC游戏最高优惠90%，低至2美元，另可免费领取一款游戏。",
+        "comment": "折扣力度罕见，免费游戏是亮点。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/18/ubisoftsale2-1789690124331.jpg",
+        "score": 93
+      },
+      {
         "category": "数码科技",
-        "tag": "赛力斯",
-        "title": "赛力斯回应问界撤出华为门店，豆包座舱助手发布",
-        "link": "https://www.ifanr.com/1680525?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "赛力斯回应问界撤出华为门店；豆包座舱助手发布；罗永浩否认为钟薛高重启造势。OpenAI将定期披露模型异常行为，华为昇腾960提前至明年一季度推出，恒大汽车退出汽车制造。",
-        "comment": "华为系汽车渠道与AI座舱同步调整，值得关注。",
+        "tag": "机器人",
+        "title": "Figure机器人首次无遥操进陌生家庭干活",
+        "link": "https://www.ifanr.com/1680884?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Figure机器人未提前学习、无遥操作，首次进入陌生家庭即可完成叠被子等家务，展示通用泛化能力。",
+        "comment": "泛化能力突破，但离商用仍有距离。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "生化危机",
+        "title": "《生化危机》新电影结局解析",
+        "link": "https://www.ign.com/articles/resident-evil-movie-2026-ending-explained",
+        "summary": "Zach Cregger执导的《生化危机》电影已上映，IGN解析片尾是否有彩蛋，以及结局对系列未来走向意味着什么。",
+        "comment": "结局解析是粉丝刚需，但关键看是否埋下续集伏笔。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/18/resident-evil-ending-explained-thumb-1789692320532.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 5",
+        "title": "GTA 5 源码泄露曝光大量被删内容",
+        "link": "https://www.gamespot.com/articles/new-gta-5-source-code-leak-is-uncovering-a-ton-of-cut-content/",
+        "summary": "Rockstar 此前泄露的大批文件再度流传，展示《GTA 5》被取消的内容，包括规模惊人的自由城相关素材。",
+        "comment": "泄露持续发酵，玩家得以窥见未完成的野心。",
+        "image": "https://www.gamespot.com/wp-content/uploads/original/1813/18138562/4240381-gta5promowebsite.png?w=300",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "iPhone 18 Pro 开售，新 AI 功能被指自相矛盾",
+        "link": "https://www.ifanr.com/1680844?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "iPhone 18 Pro 系列正式开售，其新 AI 功能引发争议。爱范儿指出，摄像头需在算法介入前证明像素来源，功能逻辑存在矛盾。",
+        "comment": "AI 功能自相矛盾，苹果这次翻车了。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "赛力斯",
+        "title": "早报：赛力斯回应问界撤出华为门店",
+        "link": "https://www.ifanr.com/1680525?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "赛力斯回应问界撤出华为门店；豆包座舱助手发布；罗永浩否认为钟薛高重启造势。OpenAI将定期披露模型异常行为，华为昇腾960提前至明年一季度推出。",
+        "comment": "问界渠道调整与华为芯片提速，值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《黎明行者之血》确认将加入二周目模式",
+        "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-dev-confirms-new-game-plus-is-on-the-way",
+        "summary": "《黎明行者之血》游戏总监确认，本作未来将推出二周目模式，具体上线时间尚未公布。",
+        "comment": "二周目是加分项，但关键还得看本体质量。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/18/dawnwalker-1789722104782.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "万智牌",
+        "title": "万智牌漫威指挥官套牌折扣对比",
+        "link": "https://www.ign.com/articles/mtg-marvel-commander-deck-amazon-deals",
+        "summary": "亚马逊上MTG漫威毁灭博士指挥官套牌打折，但复仇者联盟套牌玩法价值更高且更便宜。",
+        "comment": "别只看折扣，复仇者套牌性价比更优。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/17/mtg-marvel-commander-deck-best-1789633611874.png",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "逃离塔科夫",
+        "title": "《逃离塔科夫：竞技场》第三赛季上线 BlastGang加入局内经济",
+        "link": "https://www.gcores.com/articles/219902",
+        "summary": "Battlestate Games发布《逃离塔科夫：竞技场》大型更新，BlastGang模式加入局内经济系统，新增实验室复刻版地图，并开启第三赛季“疫病纪元”及专属奖励。",
+        "comment": "塔科夫竞技场靠经济系统强化策略深度，值得关注。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "《木木屋》全平台首发告捷，好评率近100%",
+        "link": "https://www.gcores.com/articles/219897",
+        "summary": "温馨解谜冒险游戏《木木屋》登陆PC、PS5、Xbox及Switch全平台，首发成绩亮眼，好评率接近100%，发行商Daedalic Entertainment收获成功。",
+        "comment": "慢节奏治愈系解谜获市场认可，全平台策略奏效。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "GTA6",
         "title": "《GTA6》实体原声专辑公布 11月19日发售",
         "link": "https://www.gcores.com/articles/219880",
-        "summary": "R星公布《GTA6》实体原声专辑，11月19日发售，含34首原创曲目。CD套装19.98美元，黑胶49.98美元，限量黑胶124.98美元，后续将揭晓动态配乐与游戏内电台。",
-        "comment": "发售日未定，原声先行，R星营销节奏耐人寻味。",
+        "summary": "R星公布《GTA6》实体原声专辑，11月19日发售，含34首原创曲目。限量版CD售19.98美元，黑胶49.98美元，限量黑胶124.98美元，后续将揭晓动态配乐与游戏内电台。",
+        "comment": "原声先行，R星在为发售预热铺路。",
         "image": "",
         "score": 90
       },
@@ -27,7 +137,7 @@
         "tag": "怪物猎人",
         "title": "《怪物猎人：荒野》27年起免费编辑角色",
         "link": "https://www.gcores.com/articles/219875",
-        "summary": "卡普空宣布，配合2027年超大型扩充内容《凌越》上线，玩家重新编辑角色将无需消耗造型券，可免费不限次数修改。造型券将于2026年12月停售。",
+        "summary": "卡普空宣布，配合2027年超大型扩充内容《凌越》上线，玩家重编角色将无需消耗造型券，可免费不限次数编辑。2026年12月起各平台停售造型券。",
         "comment": "造型券退场，玩家自由度提升，但来得有点晚。",
         "image": "",
         "score": 90
@@ -38,19 +148,89 @@
         "title": "《电锯甜心2 Back2Back》公布，2027年登陆PS5",
         "link": "https://www.gcores.com/articles/219882",
         "summary": "《电锯甜心》系列新作《电锯甜心2 Back2Back》正式公布，计划2027年登陆PS5。2026年东京电玩展世嘉Atlus展位将提供试玩及舞台活动。",
-        "comment": "系列重启后趁热打铁，但2027年档期尚远。",
+        "comment": "系列续作终于官宣，但2027年发售略显遥远。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Steam",
+        "title": "《不朽遗志》国区Steam售价168元起",
+        "link": "https://www.gcores.com/articles/219901",
+        "summary": "《幽灵行者》团队新作《不朽遗志》10月13日发售，国区标准版168元，主线约20小时，豪华版内容同步公布。",
+        "comment": "类魂加拿破仑题材，定价务实，成败看手感。",
         "image": "",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "独立游戏",
-        "title": "合作游戏《CRACK》正式公开 10月登陆Steam",
+        "title": "独立合作游戏《CRACK》正式公开，10月登陆Steam",
         "link": "https://www.gcores.com/articles/219741",
-        "summary": "独立开发者Rafoli公布1-4人合作增量冒险游戏《CRACK》，玩家需与朋友合力敲开神秘巨蛋，预计今年10月登陆Steam。",
-        "comment": "概念极简但合作玩法有潜力，关键看执行。",
+        "summary": "开发者Rafoli公布独立游戏《CRACK》，支持1至4人合作，玩家需与朋友一起敲开神秘巨蛋，预计今年10月登陆Steam。",
+        "comment": "敲蛋玩法简单，合作乐趣或成亮点。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "模拟游戏",
+        "title": "《护林员之路：国家公园模拟器》11月17日推出正式版",
+        "link": "https://www.gcores.com/articles/219898",
+        "summary": "《护林员之路：国家公园模拟器》将于2026年11月17日结束抢先体验，推出正式版并登陆PS5和Xbox Series X|S，新宣传片展示了未来几周加入的新内容。",
+        "comment": "自然模拟小众品类，多平台发行有望扩大受众。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "巴基斯坦",
+        "title": "巴基斯坦清真寺遭袭至少16人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+        "summary": "巴基斯坦一座清真寺在周五礼拜期间遭载有爆炸物的车辆撞击，一名高级警官向BBC表示，袭击已造成至少16人死亡。",
+        "comment": "宗教场所再成袭击目标，安全形势严峻。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "机核推出会员专享节目「机核之声」",
+        "link": "https://www.gcores.com/radios/219904",
+        "summary": "机核GPASS推出会员专享节目「机核之声」，内容为办公室日常碎碎念与真实对话录音，每期约十几分钟，形式随意。",
+        "comment": "会员专属的办公室闲聊，胜在真实随性。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "消防模拟",
+        "title": "《消防模拟：火苗燃动》施工现场DLC全平台上线",
+        "link": "https://www.gcores.com/articles/219899",
+        "summary": "《消防模拟：火苗燃动》推出“施工现场任务DLC”，登陆PC、PS5和Xbox Series X|S，新增三项主线任务及全新任务环境。",
+        "comment": "消防模拟靠DLC续命，题材垂直但受众稳定。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "菲律宾",
+        "title": "菲律宾学校枪击案致3死8伤",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+        "summary": "菲律宾发生学校枪击事件，造成包括枪手在内3人死亡、8人受伤。这是该国自6月以来第三起校园枪击案。",
+        "comment": "校园枪击频发，菲律宾枪支管控亟待加强。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "白宫",
+        "title": "瑞典歌手批评白宫用其歌曲制作驱逐视频",
+        "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
+        "summary": "瑞典歌手Zara Larsson批评白宫在驱逐视频中使用她的歌曲《Midnight Sun》，称该片段“非人化”。白宫随后从一则视频中移除了这首歌。",
+        "comment": "艺人公开抵制政治挪用作品，白宫被迫撤歌。",
+        "image": "",
+        "score": 84
       }
     ]
   }
