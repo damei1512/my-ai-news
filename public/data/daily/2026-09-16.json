@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与AARP合作助老年人学AI",
+        "title": "OpenAI与AARP为千名老人提供ChatGPT培训",
         "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "summary": "OpenAI与美国退休人员协会合作，将在美国10座城市为1000名老年人提供免费ChatGPT实操工作坊，帮助其安全掌握实用AI技能。",
-        "comment": "AI普及正从年轻人向银发群体延伸。",
+        "summary": "OpenAI与美国退休人员协会合作，在10座美国城市为1000名老年人提供免费ChatGPT实操工作坊，帮助其安全掌握实用AI技能。",
+        "comment": "AI普及需跨越年龄鸿沟，此举具示范意义。",
         "image": "",
         "score": 100
       },
@@ -17,18 +17,28 @@
         "tag": "OpenAI",
         "title": "OpenAI用AI重塑广告体验",
         "link": "https://openai.com/index/reimagining-advertising-with-ai",
-        "summary": "OpenAI推出AI广告新体验，包括赞助代理、营销工具，并集成HubSpot与Shopify，探索AI驱动的广告模式。",
-        "comment": "AI广告从展示转向代理执行，商业化提速。",
+        "summary": "OpenAI推出AI广告新体验，包括赞助代理、面向营销人员的工具，以及与HubSpot和Shopify的集成。",
+        "comment": "AI广告从展示转向代理，商业化提速。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Hex借助GPT-6 Astra将复杂分析转为可视化报告",
+        "link": "https://openai.com/index/hex-gpt-6-astra",
+        "summary": "OpenAI介绍Hex的数据代理利用GPT-6 Astra，把分析答案转化为可交互可视化，让员工更愿意分享。",
+        "comment": "AI正把数据分析从查询推向自动可视化表达。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI教你连接AI使用与商业价值",
+        "title": "OpenAI 发布指南：如何将 AI 使用与商业价值挂钩",
         "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-        "summary": "OpenAI介绍ChatGPT Work与Codex分析功能，帮助团队了解AI使用与支出、识别培训需求，并将采用情况与业务成果挂钩。",
-        "comment": "AI落地关键在量化价值，而非盲目使用。",
+        "summary": "OpenAI 介绍 ChatGPT Work 与 Codex 分析功能，帮助团队了解 AI 使用与支出、识别培训需求，并将采用情况与业务成果关联。",
+        "comment": "AI 落地进入算账阶段，用量分析成刚需。",
         "image": "",
         "score": 100
       },
@@ -37,8 +47,8 @@
         "tag": "OpenAI",
         "title": "OpenAI发布模型失准报告框架",
         "link": "https://openai.com/index/model-misalignment-reporting-framework",
-        "summary": "OpenAI公布追踪、调查和披露模型失准的框架，并附带六份关于模型意外或令人担忧行为的报告。",
-        "comment": "模型失准披露机制化，安全治理迈出关键一步。",
+        "summary": "OpenAI公布追踪、调查与披露模型失准的框架，并附六份关于模型意外或令人担忧行为的报告。",
+        "comment": "失准披露机制化，是AI安全治理的关键一步。",
         "image": "",
         "score": 100
       },
@@ -47,8 +57,8 @@
         "tag": "OpenAI",
         "title": "OpenAI研究：员工如何用AI解锁新工作方式",
         "link": "https://openai.com/index/unlocking-new-ways-of-working",
-        "summary": "OpenAI经济研究显示，员工正将AI用于传统角色之外，部分新用法已固化为日常重复性工作环节。",
-        "comment": "AI正从工具变为工作流的一部分。",
+        "summary": "OpenAI经济研究显示，员工使用AI已超出传统岗位职责，部分新活动正成为其日常工作的固定组成部分。",
+        "comment": "AI正从工具变为工作流程的组成部分。",
         "image": "",
         "score": 100
       }
