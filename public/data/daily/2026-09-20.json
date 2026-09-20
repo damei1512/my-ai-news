@@ -3,32 +3,72 @@
     "week": "周日",
     "articles": [
       {
-        "category": "游戏影视",
-        "tag": "独立游戏",
-        "title": "《梦之形》一周年更新携主机版上线",
-        "link": "https://www.gcores.com/articles/219948",
-        "summary": "韩国团队Lizard Smoothie的MOBA肉鸽《梦之形》发售一周年，推出主机版及周年更新，此前已历经三次大版本更新，销量超百万份。",
-        "comment": "独立游戏靠持续更新兑现承诺，主机版上线正当其时。",
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "iPhone 18 Pro 系列开卖，苹果未公开的细节",
+        "link": "https://www.ifanr.com/1681102?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "iPhone 18 Pro 系列正式开卖，爱范儿指出苹果在用户不易察觉之处进行了重要升级，但官方并未主动宣传这些改动。",
+        "comment": "苹果的隐藏升级往往比参数更值得关注。",
         "image": "",
-        "score": 90
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果M8 Ultra芯片能否让Mac重返服务器市场",
+        "link": "https://www.ifanr.com/1681050?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿分析苹果最强芯片M8 Ultra在特努斯时代的战略意义，探讨其能否帮助Mac重新进入服务器市场，完成乔布斯未竟事业。",
+        "comment": "芯片强不代表生态能赢，服务器市场考验的是软件与生态。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "大模型",
+        "title": "阶跃Step 5 Preview体验：重回国产大模型主桌",
+        "link": "https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿体验阶跃Step 5 Preview，认为该模型表现亮眼，让阶跃重新回到国产大模型第一梯队，并开始面向更广泛人群。",
+        "comment": "阶跃这次更新有实力，但主桌之争仍看后续生态。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "CDPR",
         "title": "CDPR解释《巫师4》弃用自研引擎原因",
         "link": "https://www.gcores.com/articles/219944",
-        "summary": "CDPR联合CEO称，《巫师4》改用虚幻引擎5并非因《赛博朋克2077》首发失利，而是出于公司长期愿景，与REDengine本身问题无关。",
-        "comment": "换引擎是战略选择，非危机公关。",
+        "summary": "CDPR联合CEO称《巫师4》改用虚幻引擎5并非因《赛博朋克2077》首发失利，而是出于公司长期愿景，与REDengine技术问题无关。",
+        "comment": "换引擎是战略选择，不是甩锅技术。",
         "image": "",
-        "score": 90
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "Fate",
         "title": "《Fate/EXTRA Record》TGS2026试玩与采访",
         "link": "https://www.gcores.com/articles/219936",
-        "summary": "机核在TGS2026试玩了延期后的《Fate/EXTRA Record》，并参加Aniplex媒体说明会与采访，介绍试玩内容与采访要点。",
-        "comment": "延期后终于有实机，型月粉丝可关注。",
+        "summary": "《Fate/EXTRA Record》延期后在TGS2026提供试玩，机核体验部分内容并参加Aniplex媒体说明会与采访，介绍试玩感受与采访要点。",
+        "comment": "延期后终于落地，试玩与采访值得型月粉丝关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "真人互动影视",
+        "title": "真人互动影视《有这么一个家伙》9月24日全球上线",
+        "link": "https://www.gcores.com/articles/219964",
+        "summary": "SUCH ONE研发、NiuGamer发行的真人互动影视作品《有这么一个家伙》定档9月24日，登陆Switch、PS5、Xbox、PC、WeGame及蒸汽平台，支持远程游玩与Play Anywhere。",
+        "comment": "多平台同步发行，真人互动影视赛道再添新作。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "《梦之形》一周年更新携主机版上线",
+        "link": "https://www.gcores.com/articles/219948",
+        "summary": "韩国团队Lizard Smoothie的moba肉鸽《梦之形》发售一周年，销量超百万份，历经三次大版本更新后，本月推出周年更新并正式登陆主机平台。",
+        "comment": "一年三更兑现承诺，主机版上线是独立游戏的长线胜利。",
         "image": "",
         "score": 90
       },
@@ -37,40 +77,80 @@
         "tag": "MELTY BLOOD",
         "title": "TGS2026《MELTY BLOOD: TWI-LUMINA》制作人采访",
         "link": "https://www.gcores.com/articles/219937",
-        "summary": "机核在TGS2026采访《MELTY BLOOD》系列制作人芹泽鸭音，他展示了新作TWI-LUMINA的Grand Scenario，并谈及故事规模与远野志贵等内容。",
-        "comment": "经典格斗系列新作情报，系列粉丝值得关注。",
+        "summary": "机核在TGS2026采访《MELTY BLOOD》系列制作人芹泽鸭音，他展示了新作《MELTY BLOOD: TWI-LUMINA》新增的Grand Scenario部分，并谈及故事规模等内容。",
+        "comment": "经典格斗系列新作情报，粉丝值得关注。",
         "image": "",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "独立游戏",
-        "title": "《纸牌巫：魔女决战》11月9日开启抢先体验",
+        "title": "《纸牌巫:魔女决战》11月9日抢先体验",
         "link": "https://www.gcores.com/articles/219942",
-        "summary": "CitalesGames开发的《纸牌巫：魔女决战》将于11月9日以抢先体验形式发售，融合高速Parry、卡组构筑与Boss Rush，主打高难度魂系动作体验。",
-        "comment": "Parry加卡组构筑的魂系Boss Rush，小众但精准。",
+        "summary": "CitalesGames开发的《纸牌巫:魔女决战》将于11月9日以抢先体验形式发售，融合高速Parry、卡组构筑与Boss Rush，主打高难度魂系动作体验。",
+        "comment": "Parry加卡组构筑的魂系Boss Rush，小众但方向明确。",
         "image": "",
         "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏更新",
+        "title": "《魔女：终末旅途》新版上线，天使角色登场",
+        "link": "https://www.gcores.com/articles/219962",
+        "summary": "多人联机卡牌Roguelite《魔女：终末旅途》推出新版本，新增五名天使主题角色，并与《朝露：境界旅程》联动，官方同步开启限时20%折扣。",
+        "comment": "新角色加折扣，拉新促活意图明显。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "游戏影视",
         "tag": "Epic",
         "title": "Epic喜加二：《将军 对决》《心灵警探》免费领",
         "link": "https://www.gcores.com/articles/219884",
-        "summary": "Epic商城即日起至9月24日23时免费送出《将军 对决》和《心灵警探》，总价107元。《将军 对决》是含rogue-like与牌组构建的回合制战斗游戏。",
-        "comment": "Epic持续用喜加一拉新，两款独立游戏值得入库。",
+        "summary": "Epic商城开启喜加二活动，即日起至9月24日晚11时，玩家可免费领取总价107元的《将军 对决》与《心灵警探》。《将军 对决》融合rogue-like与牌组构建，为回合制战斗游戏。",
+        "comment": "Epic持续用免费策略拉新，两款独立游戏值得一试。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
-        "tag": "艾德·希兰",
-        "title": "艾德·希兰回应麦克勒莫尔争议 承认\"错误\"",
-        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-        "summary": "艾德·希兰在费城演唱会上首次回应麦克勒莫尔被移出巡演一事，谈及以色列和加沙问题，并承认自己犯了\"错误\"。",
-        "comment": "明星涉足敏感政治议题，表态需谨慎。",
+        "tag": "俄乌冲突",
+        "title": "乌克兰大规模无人机袭击莫斯科地区，俄称两人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "summary": "俄罗斯称莫斯科遭“前所未有”无人机袭击，450架被击落，两人死亡，一座大型炼油厂也被击中。",
+        "comment": "无人机战升级，俄乌冲突向俄腹地蔓延。",
         "image": "",
-        "score": 84
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "机核录音笔VOL.780：从挨骂到倒苦水，中年油腻之辩",
+        "link": "https://www.gcores.com/radios/219963",
+        "summary": "机核会员专享节目录音笔第780期，记录办公室日常对话，本期围绕从挨骂到倒苦水是否算中年油腻展开闲聊。",
+        "comment": "中年话题的碎碎念，真实但略显随意。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "德国选举",
+        "title": "德国选举开跑，或决定默茨总理命运",
+        "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+        "summary": "德国举行选举投票，总理默茨面临巨大政治压力；若其政党在周日投票中表现不佳，压力将进一步加大。",
+        "comment": "选举结果将检验默茨执政根基是否稳固。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "艾德·希兰",
+        "title": "艾德·希兰巡演首秀承认失误，回应麦克勒莫尔争议",
+        "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "summary": "艾德·希兰在麦克勒莫尔因亲巴勒斯坦言论被取消巡演后首次登台，谈及以色列和加沙问题，并承认自己有过失误。",
+        "comment": "艺人涉政治表态，商业与立场难两全。",
+        "image": "",
+        "score": 85
       }
     ]
   }
