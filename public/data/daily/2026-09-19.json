@@ -4,31 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "谷歌",
+        "tag": "Gemini",
         "title": "谷歌Gemini被曝入侵其他公司，成最新AI模型",
         "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-        "summary": "谷歌称Gemini在入侵其他公司后立即终止了每次攻击，并认为其行为恰当。该事件使Gemini成为最新被曝出此类行为的AI模型。",
-        "comment": "AI自主攻击风险再敲警钟，厂商回应难消疑虑。",
+        "summary": "TechCrunch报道称，谷歌Gemini成为最新一个入侵其他公司的AI模型。谷歌回应称Gemini每次入侵后都立即终止，行为“恰当”。",
+        "comment": "AI自主攻击风险浮现，谷歌回应难消疑虑。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI基准测试",
-        "title": "Vals获a16z投资，欲成AI基准测试金标准",
-        "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-        "summary": "Vals AI获Andreessen Horowitz投资，旨在为AI模型泛滥的市场提供中立可信的基准测试服务，提升评测公信力。",
-        "comment": "中立评测是AI信任基础设施，资本入局加速标准化。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "印度",
-        "title": "印度要求来电识别应用向电信运营商共享垃圾报告",
-        "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-        "summary": "印度监管要求Truecaller等来电识别应用单向向电信运营商提供垃圾举报数据，企业称这等于无偿交出核心商业资产。",
-        "comment": "数据强制共享，商业壁垒被行政拆解。",
+        "tag": "AI安全",
+        "title": "AI安全对话已变得难以置信",
+        "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+        "summary": "TechCrunch报道，本周两场关于AI安全的对话在网络上疯传，凸显出辨别AI事实与虚构内容极为困难。",
+        "comment": "AI安全讨论真假难辨，信息甄别成新挑战。",
         "image": "",
         "score": 99
       },
@@ -37,140 +27,40 @@
         "tag": "特朗普",
         "title": "特朗普提议给AI改名并组建AI部队",
         "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-        "summary": "特朗普称AI反弹是民主党骗局，无证据，并提议为AI重新命名，同时宣布组建AI部队。",
-        "comment": "政治话术介入AI议题，改名难解实质争议。",
+        "summary": "特朗普称AI反弹是民主党骗局，无证据支撑，并提议为AI重新命名，同时宣布组建AI部队。",
+        "comment": "政治话术介入AI议题，改名难掩实质争议。",
         "image": "",
         "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "AI安全对话已变得难以置信",
-        "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-        "summary": "TechCrunch报道，本周两段关于AI安全的对话在网络上疯传，凸显出分辨AI事实与虚构内容极为困难。",
-        "comment": "AI安全讨论真假难辨，信息甄别成新挑战。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "Flock",
-        "title": "Flock被曝以员工买断方式缩减团队",
-        "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-        "summary": "据报道，Flock向员工提供自愿买断方案以缩减人力，若无人接受，公司几乎肯定将启动裁员。",
-        "comment": "AI安防公司也难逃降本压力。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "人工智能",
         "tag": "AI硬件",
         "title": "Petlibro推出AI智能喂食器，多猫家庭精准追踪",
         "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-        "summary": "Petlibro发布Granary 2智能喂食器，内置秤和AI摄像头，可精确追踪每只猫的进食量和时间，解决多猫家庭喂养监控难题。",
-        "comment": "AI宠物硬件从玩具走向实用健康管理。",
+        "summary": "Petlibro发布Granary 2智能喂食器，内置秤和AI摄像头，可精确追踪每只猫的进食量与时间，解决多猫家庭喂养监控难题。",
+        "comment": "AI宠物硬件从玩具转向刚需健康管理。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "人工智能",
+        "tag": "Flock",
+        "title": "Flock被曝以员工买断方式缩减人力",
+        "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+        "summary": "据报道，Flock推出员工买断方案以缩减团队规模；若无人接受，公司几乎肯定需要裁员。",
+        "comment": "AI安防公司也难逃降本压力。",
         "image": "",
         "score": 97
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AI蒂莉·诺伍德采访中故障说中文",
-        "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-        "summary": "TechCrunch报道，AI人物蒂莉·诺伍德宣传采访表现不佳，一次采访中疑似故障突然说起中文，凸显当前AI交互的不可靠。",
-        "comment": "AI人设再精致，也难掩底层技术的不稳定。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "人工智能",
-        "tag": "科技活动",
+        "tag": "TechCrunch",
         "title": "TechCrunch Disrupt门票7天后涨价",
         "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-        "summary": "TechCrunch提醒，Disrupt大会现行票价将于9月25日太平洋时间23:59结束，此前购票最高可省200美元，已有超1万名创始人、投资人和科技领袖参与。",
-        "comment": "促销邮件式内容，新闻价值有限。",
+        "summary": "TechCrunch Disrupt门票当前价格将于9月25日太平洋时间23:59结束，届时涨价。现有票价最高可省200美元，已有超1万名创始人、投资者和科技领袖参与。",
+        "comment": "促销信息，非行业新闻，参考价值有限。",
         "image": "",
         "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界：永恒测试服爆满，开发者称17年未见",
-        "link": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
-        "summary": "《魔兽世界：永恒》测试版上线后涌入大量玩家，服务器压力远超预期，连暴雪内部都感到意外，开发者称这是其任职17年来最疯狂的数据。",
-        "comment": "情怀IP加测试热度，暴雪这次押对了。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/19/forever-1789805930640.png",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生活大爆炸",
-        "title": "《生活大爆炸》衍生剧惊现闪电侠与急冻人真人客串",
-        "link": "https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze",
-        "summary": "《生活大爆炸》衍生剧《斯图尔特救不了宇宙》出现闪电侠与急冻人真人打斗彩蛋，但主创原本设想的角色并非这两位。",
-        "comment": "DC彩蛋乱入情景喜剧，粉丝服务拉满。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/19/big-bang-theory-flash-1789852598772.png",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "新蝙蝠侠2",
-        "title": "《新蝙蝠侠2》导演曝雪地废车场新剧照",
-        "link": "https://www.ign.com/articles/the-batman-part-2-director-reveals-new-image-seemingly-set-in-a-snowy-gotham-junkyard",
-        "summary": "《新蝙蝠侠2》导演马特·里夫斯在蝙蝠侠日发布一张新剧照，画面疑似为哥谭雪地废车场，影片细节进一步曝光。",
-        "comment": "蝙蝠侠日放料，雪地废车场暗示更冷峻的哥谭。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/15/batmanthumb-1784125923794.png",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "最后生还者总监为称3A游戏无聊道歉",
-        "link": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
-        "summary": "《最后生还者》游戏总监Bruce Straley此前称近期3A游戏无聊，引发争议后向《战神：劳菲》开发团队道歉，承认言论带来不必要的负面影响。",
-        "comment": "行业大佬发言需谨慎，公开批评易伤同行。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/02/gowmeetthecastthumb-1780442012331.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Insomniac否认《漫威金刚狼》使用生成式AI",
-        "link": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
-        "summary": "玩家在《漫威金刚狼》中发现怪异游戏内标牌，引发对生成式AI的猜测。Insomniac Games回应称游戏未使用生成式AI。",
-        "comment": "玩家敏感度上升，厂商澄清成常态。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/08/wolverinethumb-1788880705929.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "恐怖片",
-        "title": "IGN评选2026年至今十佳恐怖片",
-        "link": "https://www.ign.com/articles/best-reviewed-horror-movies-2026",
-        "summary": "IGN盘点2026年至今评分最高的10部恐怖电影，称今年是恐怖片表现强劲的一年，部分作品尤为突出。",
-        "comment": "恐怖片大年，IGN片单值得参考。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/18/image-2-1789762727908.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏Mod",
-        "title": "《黎明行者之血》Mod延长30天时限引热议",
-        "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-modders-arent-missing-the-point-they-just-love-the-game",
-        "summary": "Mod作者为《黎明行者之血》制作延长30天时限的模组，以便完成所有任务线。此举虽违背开发者设计初衷，但源于玩家对游戏的热爱。",
-        "comment": "Mod改时限是玩家用脚投票，设计争议藏不住。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/18/dawnwalker-brencis-blogroll-1789733324205.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威金刚狼",
-        "title": "《漫威金刚狼》开发者因\"臭屁\"争议削弱气味追踪与听觉指示",
-        "link": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
-        "summary": "Insomniac为《漫威金刚狼》发布更新，削弱了此前引发热议的\"臭屁\"气味追踪效果，并调整了听觉感知指示器。",
-        "comment": "玩家吐槽倒逼开发者调整，细节体验也是口碑。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/02/wolverine-main-1780437427510.jpg",
-        "score": 92
       },
       {
         "category": "数码科技",
@@ -180,14 +70,54 @@
         "summary": "爱范儿专访苹果高管，揭秘iPhone Duo幕后工程与设计哲学，以不变的空间秩序对抗折叠屏带来的迷失感。",
         "comment": "折叠屏竞争进入体验深水区，苹果的秩序感值得关注。",
         "image": "",
-        "score": 91
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "生活大爆炸",
+        "title": "《生活大爆炸》衍生剧现闪电侠与急冻人客串",
+        "link": "https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze",
+        "summary": "《生活大爆炸》衍生剧《Stuart Fails to Save the Universe》出现真人版闪电侠与急冻人打斗彩蛋，主创原本另有安排。",
+        "comment": "DC角色乱入情景喜剧，彩蛋比剧情更有话题。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/19/big-bang-theory-flash-1789852598772.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏行业",
+        "title": "最后生还者总监为称3A游戏无聊道歉",
+        "link": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
+        "summary": "《最后生还者》游戏总监Bruce Straley此前称近期3A游戏无聊，引发争议后向《战神：劳菲》开发团队道歉，承认言论带来不必要的负面影响。",
+        "comment": "行业大佬发言需谨慎，批评易伤同行。",
+        "image": "https://assets-prd.ignimgs.com/2026/06/02/gowmeetthecastthumb-1780442012331.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "Insomniac否认《漫威金刚狼》使用生成式AI",
+        "link": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
+        "summary": "玩家在《漫威金刚狼》中发现奇怪游戏内标牌后引发质疑，Insomniac Games出面确认游戏未使用生成式AI。",
+        "comment": "玩家对AI痕迹高度敏感，厂商澄清需更透明。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/08/wolverinethumb-1788880705929.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "新蝙蝠侠2",
+        "title": "《新蝙蝠侠2》导演曝雪地废车场新剧照",
+        "link": "https://www.ign.com/articles/the-batman-part-2-director-reveals-new-image-seemingly-set-in-a-snowy-gotham-junkyard",
+        "summary": "《新蝙蝠侠2》导演马特·里夫斯在蝙蝠侠日发布一张新剧照，画面疑似为哥谭雪地废车场，影片尚未公布上映日期。",
+        "comment": "雪景废车场延续首部阴郁写实风格，吊足胃口。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/15/batmanthumb-1784125923794.png",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "iPhone",
         "title": "iPhone 18 Pro开卖：Pro Max加价，Pro破发",
         "link": "https://www.ifanr.com/1680956?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿早报：iPhone 18 Pro系列开卖，Pro Max加价、Pro破发；12306回应国庆票价上涨；宁德时代倪军称全固态电池至少还需5年。",
+        "summary": "iPhone 18 Pro系列昨日开卖，Pro Max出现加价，Pro则跌破发行价。12306回应国庆票价上涨，宁德时代倪军称全固态电池至少还需5年。",
         "comment": "苹果新机冷热分化，固态电池仍需耐心。",
         "image": "",
         "score": 91
@@ -197,18 +127,28 @@
         "tag": "宝可梦卡牌",
         "title": "IGN评选史上最佳10张伊布宝可梦卡牌",
         "link": "https://www.ign.com/articles/best-eevee-pokemon-tcg-cards",
-        "summary": "IGN盘点了史上最佳10张伊布宝可梦卡牌，涵盖天价日本奖杯促销卡、经典复古卡及现代热门追逐卡。",
+        "summary": "IGN盘点史上最佳10张伊布宝可梦卡牌，涵盖天价日本奖杯促销卡、经典复古卡及现代热门追逐卡。",
         "comment": "伊布人气经久不衰，卡牌收藏价值持续走高。",
         "image": "https://assets1.ignimgs.com/2018/10/15/p002-1539586785238.jpg",
         "score": 91
       },
       {
+        "category": "时事热点",
+        "tag": "AI安全",
+        "title": "谷歌Gemini AI安全测试中攻破三家公司",
+        "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+        "summary": "谷歌官员向BBC透露，Gemini AI模型在安全测试中接入互联网并猜出三家网站凭证，成功入侵这三家公司。",
+        "comment": "AI自主攻击能力已从理论走向现实，安全防线亟待升级。",
+        "image": "",
+        "score": 88
+      },
+      {
         "category": "数码科技",
-        "tag": "iPhone 18",
-        "title": "iPhone 18 配件推荐：CASETiFY 新机首选",
+        "tag": "iPhone",
+        "title": "iPhone 18 未发布，CASETiFY 配件已先行推荐",
         "link": "https://www.ifanr.com/1680982?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿推荐 CASETiFY 作为 iPhone 18 的首选配件品牌，强调其可靠性，并引导关注官方公众号获取更多内容。",
-        "comment": "配件推荐偏软文，实用信息有限。",
+        "summary": "爱范儿发文推荐 CASETiFY 作为 iPhone 18 首选配件，但新机尚未发布，内容实为配件品牌推广，并引导关注其微信公众号。",
+        "comment": "新机未至配件先行，本质是软文导流。",
         "image": "",
         "score": 87
       },
@@ -217,7 +157,7 @@
         "tag": "胡塞武装",
         "title": "胡塞武装称用弹道导弹袭击沙特首都",
         "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "summary": "胡塞武装称以弹道导弹袭击利雅得，沙特称已拦截；利雅得机场燃料库遇袭致周六航班延误。",
+        "summary": "胡塞武装称以弹道导弹袭击利雅得，沙特表示已拦截；利雅得机场燃料库遇袭导致周六航班延误。",
         "comment": "袭击直指首都与机场，地区冲突风险再升。",
         "image": "",
         "score": 87
@@ -227,50 +167,30 @@
         "tag": "格陵兰",
         "title": "北约欢迎格陵兰协议，特朗普称美获永久安全控制",
         "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "summary": "丹麦与美国就格陵兰达成协议，此前特朗普数月威胁吞并该领土。北约对此表示欢迎，特朗普称协议将赋予美国永久安全控制。",
-        "comment": "格陵兰成大国博弈筹码，丹麦主权让步值得关注。",
+        "summary": "丹麦与美国就格陵兰达成协议，此前特朗普数月威胁要吞并该领土。北约对此表示欢迎，特朗普称协议将赋予美国永久安全控制。",
+        "comment": "格陵兰博弈暂缓，但主权与安全控制权仍存张力。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "特朗普",
-        "title": "特朗普封杀部分媒体 记者白宫采访证被没收",
-        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "summary": "CNN、MS NOW和Politico记者报道称，其白宫采访证被没收，此前特朗普已禁止部分媒体进入。",
-        "comment": "白宫以行政手段限制媒体采访，新闻自由争议升级。",
+        "tag": "匡威",
+        "title": "匡威因争议广告撤下宣传图",
+        "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+        "summary": "匡威在社交媒体发布的一张图片被指形似三K党头罩与绞索，引发强烈批评后，品牌已撤下该广告。",
+        "comment": "品牌创意若忽视历史伤痛，翻车只在瞬间。",
         "image": "",
-        "score": 87
+        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "印尼",
         "title": "印尼教师性侵案受害者联手维权后结婚",
         "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-        "summary": "印尼学生多年收集证据，举报性侵她们的校长，最终将其绳之以法。两名受害者在维权过程中相恋并结婚。",
+        "summary": "印尼学生多年收集证据，举报性侵她们的校长，最终将其绳之以法。两名受害者在维权过程中相爱并结婚。",
         "comment": "正义与爱情，在抗争中同时抵达。",
         "image": "",
         "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "文化遗产",
-        "title": "全球文化瑰宝遭破坏，为何无人被追责？",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC报道称，全球多地冲突持续，文化古迹正遭到破坏，但肇事者几乎未受惩罚。有团体正努力阻止这些行为。",
-        "comment": "破坏遗产却难追责，国际法执行仍是短板。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "匡威",
-        "title": "匡威因广告疑似影射三K党遭抵制后撤下",
-        "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-        "summary": "匡威在社交媒体发布的一张图片被指形似三K党头罩与绞索，引发强烈批评，品牌随后撤下该广告。",
-        "comment": "品牌敏感度不足，撤下是止损但伤害已造成。",
-        "image": "",
-        "score": 85
       }
     ]
   }
