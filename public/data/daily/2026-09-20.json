@@ -3,61 +3,91 @@
     "week": "周日",
     "articles": [
       {
+        "category": "游戏影视",
+        "tag": "小岛秀夫",
+        "title": "小岛秀夫首谈索尼放弃Physint内幕",
+        "link": "https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint",
+        "summary": "小岛秀夫在Physint被PlayStation放弃后首次接受采访，披露与索尼之间发生的事情，引发外界对双方合作破裂原因的关注。",
+        "comment": "合作生变，小岛去向再添悬念。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/14/kojima-1789384796872.jpg",
+        "score": 95
+      },
+      {
+        "category": "人工智能",
+        "tag": "科技活动",
+        "title": "TechCrunch Disrupt 2026 门票6天后涨价",
+        "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "summary": "TechCrunch Disrupt 2026 当前票价将于9月25日23:59（太平洋时间）结束，届时涨价。已有超1万名创始人、投资者和科技领袖参与，现在购票最高可省200美元。",
+        "comment": "本质是会议促销，非AI技术新闻。",
+        "image": "",
+        "score": 94
+      },
+      {
         "category": "数码科技",
-        "tag": "iPhone",
-        "title": "iPhone 18 Pro 系列开卖，苹果未公开的细节",
-        "link": "https://www.ifanr.com/1681102?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "iPhone 18 Pro 系列正式开卖，爱范儿指出苹果在用户不易察觉之处进行了重要升级，但官方并未主动宣传这些改动。",
-        "comment": "苹果的隐藏升级往往比参数更值得关注。",
+        "tag": "机器人",
+        "title": "启元机器人19999元起售，瞄准个人机器人市场",
+        "link": "https://www.ifanr.com/1681137?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "启元机器人以19999元起售，试图将个人机器人带入普通家庭。文章指出，比制造机器人更难的，是为其找到实际应用场景。",
+        "comment": "价格下探是好事，但应用场景仍是硬伤。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果M8 Ultra芯片能否让Mac重返服务器市场",
+        "title": "苹果最强芯片 M8 Ultra 能否让 Mac 重返服务器市场",
         "link": "https://www.ifanr.com/1681050?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析苹果最强芯片M8 Ultra在特努斯时代的战略意义，探讨其能否帮助Mac重新进入服务器市场，完成乔布斯未竟事业。",
-        "comment": "芯片强不代表生态能赢，服务器市场考验的是软件与生态。",
+        "summary": "爱范儿分析苹果 M8 Ultra 芯片，探讨其能否让 Mac 重回服务器市场，并称这是特努斯时代完成乔布斯未竟事业的机会。",
+        "comment": "芯片强不等于服务器生态成，关键看软件与成本。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "大模型",
-        "title": "阶跃Step 5 Preview体验：重回国产大模型主桌",
+        "title": "体验完 Step 5 Preview，阶跃重新坐上国产大模型主桌",
         "link": "https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿体验阶跃Step 5 Preview，认为该模型表现亮眼，让阶跃重新回到国产大模型第一梯队，并开始面向更广泛人群。",
-        "comment": "阶跃这次更新有实力，但主桌之争仍看后续生态。",
+        "summary": "爱范儿体验阶跃 Step 5 Preview，认为其表现让阶跃重回国产大模型第一梯队，模型能力与产品化均有提升。",
+        "comment": "阶跃这次靠实力重回主桌，值得关注。",
         "image": "",
         "score": 91
       },
       {
-        "category": "游戏影视",
-        "tag": "CDPR",
-        "title": "CDPR解释《巫师4》弃用自研引擎原因",
-        "link": "https://www.gcores.com/articles/219944",
-        "summary": "CDPR联合CEO称《巫师4》改用虚幻引擎5并非因《赛博朋克2077》首发失利，而是出于公司长期愿景，与REDengine技术问题无关。",
-        "comment": "换引擎是战略选择，不是甩锅技术。",
+        "category": "数码科技",
+        "tag": "电动车",
+        "title": "50年首款纯电后驱GTI，被指赶不上时代",
+        "link": "https://www.ifanr.com/1681086?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "大众推出50年来首款纯电后驱GTI，性能号称史上最强，但爱范儿认为其理念已落后于时代。",
+        "comment": "电动化浪潮下，GTI情怀难掩转型迟缓。",
         "image": "",
-        "score": 91
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "iPhone 18 Pro 系列开卖，苹果未公开的细节",
+        "link": "https://www.ifanr.com/1681102?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿指出，苹果在 iPhone 18 Pro 系列中隐藏了未公开的升级细节，这些变化不在官方宣传中，却可能影响实际体验。",
+        "comment": "苹果的隐藏升级，往往比发布会更有看头。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "Fate",
-        "title": "《Fate/EXTRA Record》TGS2026试玩与采访",
-        "link": "https://www.gcores.com/articles/219936",
-        "summary": "《Fate/EXTRA Record》延期后在TGS2026提供试玩，机核体验部分内容并参加Aniplex媒体说明会与采访，介绍试玩感受与采访要点。",
-        "comment": "延期后终于落地，试玩与采访值得型月粉丝关注。",
+        "tag": "剑星",
+        "title": "专访金亨泰：《剑星》×《猎天使魔女》联动幕后",
+        "link": "https://www.gcores.com/articles/219971",
+        "summary": "《剑星》与《猎天使魔女》联动正式落地，第四套服装Black Tresses公开。机核在TGS采访创意总监金亨泰，谈及动作设计与服装喜好及联动缘由。",
+        "comment": "联动背后是金亨泰对动作游戏的个人偏好。",
         "image": "",
-        "score": 91
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "真人互动影视",
-        "title": "真人互动影视《有这么一个家伙》9月24日全球上线",
+        "title": "真人互动影视《有这么一个家伙》定档9月24日",
         "link": "https://www.gcores.com/articles/219964",
-        "summary": "SUCH ONE研发、NiuGamer发行的真人互动影视作品《有这么一个家伙》定档9月24日，登陆Switch、PS5、Xbox、PC、WeGame及蒸汽平台，支持远程游玩与Play Anywhere。",
+        "summary": "SUCH ONE研发、NiuGamer发行的真人互动影视作品《有这么一个家伙》将于9月24日登陆Switch、PS5、XBOX、PC及WeGame等平台，支持远程游玩与Xbox Play Anywhere。",
         "comment": "多平台同步发行，真人互动影视赛道再添新作。",
         "image": "",
         "score": 90
@@ -67,8 +97,8 @@
         "tag": "独立游戏",
         "title": "《梦之形》一周年更新携主机版上线",
         "link": "https://www.gcores.com/articles/219948",
-        "summary": "韩国团队Lizard Smoothie的moba肉鸽《梦之形》发售一周年，销量超百万份，历经三次大版本更新后，本月推出周年更新并正式登陆主机平台。",
-        "comment": "一年三更兑现承诺，主机版上线是独立游戏的长线胜利。",
+        "summary": "韩国团队Lizard Smoothie的moba肉鸽《梦之形》发售一周年，销量超百万份，经历三次大版本更新后，本月推出周年更新并正式登陆主机平台。",
+        "comment": "独立游戏靠持续更新兑现承诺，主机版上线再拓用户。",
         "image": "",
         "score": 90
       },
@@ -77,47 +107,67 @@
         "tag": "MELTY BLOOD",
         "title": "TGS2026《MELTY BLOOD: TWI-LUMINA》制作人采访",
         "link": "https://www.gcores.com/articles/219937",
-        "summary": "机核在TGS2026采访《MELTY BLOOD》系列制作人芹泽鸭音，他展示了新作《MELTY BLOOD: TWI-LUMINA》新增的Grand Scenario部分，并谈及故事规模等内容。",
-        "comment": "经典格斗系列新作情报，粉丝值得关注。",
+        "summary": "机核在TGS2026采访《MELTY BLOOD》系列制作人芹泽鸭音，他展示了新作TWI-LUMINA的Grand Scenario部分，并谈及故事规模与远野志贵等内容。",
+        "comment": "经典格斗新作情报，系列粉丝值得关注。",
         "image": "",
-        "score": 89
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "CDPR",
+        "title": "CDPR解释《巫师4》弃用自研引擎原因",
+        "link": "https://www.gcores.com/articles/219944",
+        "summary": "CDPR联合CEO称《巫师4》改用虚幻引擎5并非因《赛博朋克2077》首发失利，而是出于公司长期愿景，与REDengine技术问题无关。",
+        "comment": "换引擎是战略选择，不是甩锅。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "独立游戏",
-        "title": "《纸牌巫:魔女决战》11月9日抢先体验",
+        "title": "《纸牌巫: 魔女决战》11月9日抢先体验发售",
         "link": "https://www.gcores.com/articles/219942",
-        "summary": "CitalesGames开发的《纸牌巫:魔女决战》将于11月9日以抢先体验形式发售，融合高速Parry、卡组构筑与Boss Rush，主打高难度魂系动作体验。",
-        "comment": "Parry加卡组构筑的魂系Boss Rush，小众但方向明确。",
+        "summary": "CitalesGames开发的《纸牌巫: 魔女决战》将于11月9日以抢先体验形式发售，融合高速Parry、卡组构筑与Boss Rush，定位高难度魂系单人实时动作游戏。",
+        "comment": "Parry加卡牌加Boss Rush，硬核组合值得关注。",
         "image": "",
-        "score": 89
+        "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《魔女：终末旅途》新版上线，天使角色登场",
-        "link": "https://www.gcores.com/articles/219962",
-        "summary": "多人联机卡牌Roguelite《魔女：终末旅途》推出新版本，新增五名天使主题角色，并与《朝露：境界旅程》联动，官方同步开启限时20%折扣。",
-        "comment": "新角色加折扣，拉新促活意图明显。",
+        "tag": "刺客信条",
+        "title": "跨越七万余年的神祇：第一文明如何现代转生？",
+        "link": "https://www.gcores.com/radios/219596",
+        "summary": "机核节目从七万年前伊述文明的大灾变讲起，梳理《刺客信条》第一文明如何影响戴斯蒙牺牲后的世界，属失落故事线专题。",
+        "comment": "第一文明设定是刺客信条叙事魅力的核心。",
         "image": "",
-        "score": 88
+        "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "Epic",
         "title": "Epic喜加二：《将军 对决》《心灵警探》免费领",
         "link": "https://www.gcores.com/articles/219884",
-        "summary": "Epic商城开启喜加二活动，即日起至9月24日晚11时，玩家可免费领取总价107元的《将军 对决》与《心灵警探》。《将军 对决》融合rogue-like与牌组构建，为回合制战斗游戏。",
+        "summary": "Epic商城开启喜加二活动，9月24日23时前可免费领取总价107元的《将军 对决》与《心灵警探》。《将军 对决》是含rogue-like与牌组构建的回合制战斗游戏。",
         "comment": "Epic持续用免费策略拉新，两款独立游戏值得一试。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏更新",
+        "title": "《魔女：终末旅途》新版本上线，新增天使角色与限时折扣",
+        "link": "https://www.gcores.com/articles/219962",
+        "summary": "多人联机卡牌Roguelite《魔女：终末旅途》更新上线，新增五名天使角色，含《朝露：境界旅程》联动角色，并开启官方限时20%折扣。",
+        "comment": "新角色加折扣，拉新促活意图明显。",
         "image": "",
         "score": 88
       },
       {
         "category": "时事热点",
         "tag": "俄乌冲突",
-        "title": "乌克兰大规模无人机袭击莫斯科地区，俄称两人死亡",
+        "title": "乌克兰大规模无人机袭击莫斯科，致两人死亡",
         "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "summary": "俄罗斯称莫斯科遭“前所未有”无人机袭击，450架被击落，两人死亡，一座大型炼油厂也被击中。",
+        "summary": "莫斯科市长称，夜间遭遇大规模无人机袭击，共有450架无人机被击落，袭击造成两人死亡。这是针对莫斯科的最大规模攻击。",
         "comment": "无人机战升级，俄乌冲突向俄腹地蔓延。",
         "image": "",
         "score": 88
@@ -125,20 +175,30 @@
       {
         "category": "游戏影视",
         "tag": "播客",
-        "title": "机核录音笔VOL.780：从挨骂到倒苦水，中年油腻之辩",
+        "title": "机核录音笔VOL.780：从挨骂到倒苦水是中年油腻吗",
         "link": "https://www.gcores.com/radios/219963",
-        "summary": "机核会员专享节目录音笔第780期，记录办公室日常对话，本期围绕从挨骂到倒苦水是否算中年油腻展开闲聊。",
-        "comment": "中年话题的碎碎念，真实但略显随意。",
+        "summary": "机核会员专享节目录音笔VOL.780，记录办公室日常对话，本期探讨从挨骂聊到倒苦水是否算中年油腻，内容为碎碎念与真实录音。",
+        "comment": "中年话题的碎碎念，真实但略私人化。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "德国选举",
-        "title": "德国选举开跑，或决定默茨总理命运",
+        "title": "德国选举开跑，或决定总理默茨命运",
         "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-        "summary": "德国举行选举投票，总理默茨面临巨大政治压力；若其政党在周日投票中表现不佳，压力将进一步加大。",
-        "comment": "选举结果将检验默茨执政根基是否稳固。",
+        "summary": "德国举行选举，总理默茨面临巨大政治压力；若其政党在周日投票中表现不佳，压力将进一步加大。",
+        "comment": "选举结果将检验默茨执政根基。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "特朗普称凯旋门将兼作军事弹药库",
+        "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普表示，应美军要求并出于国家安全考虑，其计划中的凯旋门将扩建为可储存弹药的军事综合体。",
+        "comment": "凯旋门变弹药库，国家安全名义下的奇观。",
         "image": "",
         "score": 86
       },
@@ -148,7 +208,7 @@
         "title": "艾德·希兰巡演首秀承认失误，回应麦克勒莫尔争议",
         "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
         "summary": "艾德·希兰在麦克勒莫尔因亲巴勒斯坦言论被取消巡演后首次登台，谈及以色列和加沙问题，并承认自己有过失误。",
-        "comment": "艺人涉政治表态，商业与立场难两全。",
+        "comment": "艺人涉政治表态风险高，巡演方切割迅速。",
         "image": "",
         "score": 85
       }
