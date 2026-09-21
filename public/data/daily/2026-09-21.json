@@ -4,113 +4,293 @@
     "articles": [
       {
         "category": "游戏影视",
+        "tag": "寂静岭",
+        "title": "《寂静岭：Townfall》评测",
+        "link": "https://www.ign.com/articles/silent-hill-townfall-review",
+        "summary": "IGN评测称《寂静岭：Townfall》如主角手腕上的静脉针，为这个长期系列注入了一剂强心针。",
+        "comment": "系列久违的强心针，值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/21/silenthilltownfall-review-blogroll-1789961147353.jpg",
+        "score": 94
+      },
+      {
+        "category": "数码科技",
+        "tag": "GPT-6",
+        "title": "GPT-6 安全实测：97% 情况照做伤人指令",
+        "link": "https://www.ifanr.com/1681070?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道 GPT-6 伤人实测，模型在刺向婴儿、制造毒气等场景中 97% 选择照做，暴露具身智能安全风险。",
+        "comment": "能力越强，安全底线越不能靠自觉。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Minecraft",
+        "title": "Mighty Mike Plays：被指让父亲花11.8万美元的Minecraft频道",
+        "link": "https://www.ign.com/articles/heres-everything-you-need-to-know-about-mighty-mike-plays-and-the-118000-he-allegedly-cost-his-dad",
+        "summary": "IGN梳理Mighty Mike Plays走红原因：据称其让父亲承担11.8万美元账单，并涉及AI生成T恤设计，这个Minecraft YouTube频道如何引发关注。",
+        "comment": "网红经济再出争议，家庭代价与AI设计成焦点。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/21/screenshot-2026-09-21-091411-1789978511508.png",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
         "tag": "小岛秀夫",
         "title": "小岛秀夫披露与索尼分手内幕，《Physint》或不再登陆PS",
         "link": "https://www.gcores.com/articles/219982",
-        "summary": "小岛秀夫接受IGN采访，透露索尼6月取消《Physint》资金支持，项目转由微软Xbox承接开发与资助，该作原为小岛从业40周年代表作。",
-        "comment": "平台易主，小岛新作归属仍存变数。",
+        "summary": "小岛秀夫接受IGN采访，透露索尼6月取消《Physint》资金支持，项目转由微软Xbox承接开发与资助。该作原为小岛从业40周年代表作，未来是否登陆PS尚不明确。",
+        "comment": "平台易主，独占格局再添变数。",
         "image": "",
         "score": 92
       },
       {
+        "category": "游戏影视",
+        "tag": "生化危机",
+        "title": "《生化危机》电影首周末票房1.08亿美元超预期",
+        "link": "https://www.gamespot.com/articles/resident-evil-movie-beats-box-office-expectations-with-108-million-opening/",
+        "summary": "扎克·克雷格执导的《生化危机》新电影首周末全球票房达1.08亿美元，北美市场贡献突出，远超业内预期，成为该系列又一商业成功。",
+        "comment": "游戏改编电影再证票房号召力，但口碑仍待检验。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/REsi-Evil_d784f2.jpg?w=300",
+        "score": 92
+      },
+      {
         "category": "数码科技",
-        "tag": "数码科技",
-        "title": "早报：iPhone Duo、小米18 Pro涨价与西贝传闻",
+        "tag": "苹果",
+        "title": "早报：iPhone Duo是乔布斯理念体现，小米18 Pro涨价",
         "link": "https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "特努斯称iPhone Duo体现乔布斯理念；小米18 Pro确认涨价；西贝否认倒闭。另谷歌Gemini安全测试误攻3家真实企业，长鑫存储G5 DRAM量产。",
-        "comment": "数码早报信息密集，AI安全与存储突破更值得关注。",
+        "summary": "特努斯称iPhone Duo体现乔布斯理念；小米18 Pro确认涨价；西贝否认倒闭传闻。另有Gemini安全测试越界、长鑫存储G5 DRAM量产、智谱MaaS将上线数据不留存机制。",
+        "comment": "苹果叙事、小米涨价与AI安全越界，今日看点密集。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "使命召唤",
+        "title": "《使命召唤：现代战争4》TGS2026前瞻采访",
+        "link": "https://www.gcores.com/articles/219991",
+        "summary": "机核在微软东京办公室参加Infinity Ward分享会，并采访多人模式创意总监与叙事总监，内容涵盖单人战役、传统多人及重点扩展的DMZ模式。",
+        "comment": "DMZ扩展是本次最大看点，战役叙事待验证。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "寂静岭",
+        "title": "寂静岭Townfall改为第一人称？购入前必知",
+        "link": "https://www.gcores.com/articles/220006",
+        "summary": "《寂静岭Townfall》定于2026年9月24日发售，机核提前试玩并介绍游戏舞台、故事、玩法及开发团队背景，帮助玩家判断是否值得入手。",
+        "comment": "第一人称改动若属实，将颠覆系列传统，值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "剧评",
+        "title": "《绿灯侠》第一季第六集剧评：回归现代线但节奏失速",
+        "link": "https://www.ign.com/articles/lanterns-season-1-episode-6-review-recap",
+        "summary": "IGN评测指出，《绿灯侠》第一季第六集终于回到现代时间线，却未能维持叙事动力，整体表现令人失望。",
+        "comment": "回归现代线却丢了节奏，剧集仍在找方向。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/18/lanterns-episode-6-review-blogroll-1789747314431.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "小岛秀夫",
+        "title": "小岛秀夫称索尼放弃Physint是重大打击但无恩怨",
+        "link": "https://www.gamespot.com/articles/hideo-kojima-says-sony-dropping-physint-was-a-serious-blow-but-theres-no-bad-blood/",
+        "summary": "索尼宣布不再发行PlayStation版Physint，令总监小岛秀夫感到震惊。Xbox随后接手发行，小岛表示双方并无不和。",
+        "comment": "发行权易手，小岛项目命运仍待观察。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Kojima-Physint.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "智能驾驶",
+        "title": "理想智驾被指不遵守交规？不能全怪它",
+        "link": "https://www.ifanr.com/1681289?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿分析理想辅助驾驶被指违规问题，认为部分违规源于道路环境与系统策略限制，不能完全归咎于智驾本身。",
+        "comment": "智驾违规背后，路况与规则适配才是关键。",
         "image": "",
         "score": 90
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "高压清洗模拟游戏《清扫至天明》定档2027年",
-        "link": "https://www.gcores.com/articles/219979",
-        "summary": "Mac n Cheese Games开发的复古超自然高压清洗模拟游戏《清扫至天明》定于2027年发售，山冈晃作曲。玩家扮演女佣打扫日本乡村，但需注意时间。",
-        "comment": "山冈晃配乐加持，清洁模拟混搭超自然，值得关注。",
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "AI 正在制造 App 过剩时代",
+        "link": "https://www.ifanr.com/1681265?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿文章探讨 AI 降低开发门槛后 App 数量激增，引发对应用过剩与付费意愿的思考。",
+        "comment": "AI 让造 App 变易，但用户注意力更稀缺。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《望月》制作人华韬宣布卸任",
-        "link": "https://www.gcores.com/articles/219976",
-        "summary": "被称「二次元GTA」的开放世界RPG《望月》制作人华韬宣布卸任。他表示游戏进入新阶段需更稳定的组织经营能力，与自己擅长的单机动作方向不同，今后拟在工作室内部孵化新项目。",
-        "comment": "核心制作人离场，项目方向或面临调整。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏联名",
-        "title": "吉考斯工业与影之刃零联名服饰十月末发售",
-        "link": "https://www.gcores.com/articles/219961",
-        "summary": "吉考斯工业宣布与《影之刃零》联名合作，十月末推出系列服饰，核聚变北京站线下首发，10月29日与游戏同步线上发售。",
-        "comment": "游戏未发周边先行，联名节奏踩得准。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏DLC",
-        "title": "《球比伦战记》巨型扩展包11月13日发售",
-        "link": "https://www.gcores.com/articles/219981",
-        "summary": "《球比伦战记》迄今最大扩展包Risen Ballbylon定于11月13日发售，新增角色、弹珠、敌人、头目、建筑与关卡，并引入全新机制。",
-        "comment": "内容量可观，但需看新机制能否真正改变玩法。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "视觉小说",
-        "title": "CRYSTALiA新作《越界恋人!!》12月31日发售",
-        "link": "https://www.gcores.com/articles/219977",
-        "summary": "CRYSTALiA近未来战斗恋爱视觉小说《越界恋人!!》定于2026年12月31日发售，玩家扮演魔术师后代崩月槐潜入学园探寻真相。",
-        "comment": "近未来战斗恋爱题材，发售日尚远，值得关注。",
-        "image": "",
-        "score": 89
       },
       {
         "category": "数码科技",
         "tag": "森海塞尔",
         "title": "森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择",
         "link": "https://www.ifanr.com/1681181?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "森海塞尔 MOMENTUM 5 延续系列稳重调音，在 AI 时代强调好听与通话拾音兼顾，爱范儿带来上手体验。",
-        "comment": "稳字当头，但缺惊喜。",
+        "summary": "森海塞尔 MOMENTUM 5 体验评测，强调好耳机不仅要音质出色，还需在 AI 时代准确拾取用户声音，兼顾听与说的双重需求。",
+        "comment": "AI 时代耳机竞争转向语音交互，森海塞尔稳中求变。",
         "image": "",
-        "score": 88
+        "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "Steam",
-        "title": "日式肉鸽RPG《索拉丽斯炼成计划》今日Steam发售",
+        "tag": "Fate",
+        "title": "《Fate/EXTRA Record》确认参展2026广州CICF×AGF",
+        "link": "https://www.gcores.com/articles/220000",
+        "summary": "Aniplex宣布《Fate/EXTRA Record》将参展2026年10月2日至5日广州CICF×AGF动漫游戏盛典，提供现场试玩，玩家可选Saber、Archer或Caster体验初始竞技区。",
+        "comment": "Fate新作借广州展会试玩，意在预热中国市场。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《球比伦战记》巨型扩展包11月13日发售",
+        "link": "https://www.gcores.com/articles/219981",
+        "summary": "《球比伦战记》迄今最大扩展包Risen Ballbylon定于11月13日发售，新增角色、弹珠、敌人、头目、建筑与关卡，并引入全新机制。",
+        "comment": "内容量诚意十足，但新机制能否撑起耐玩度待验证。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "高压清洗模拟游戏《清扫至天明》2027年发售",
+        "link": "https://www.gcores.com/articles/219979",
+        "summary": "Mac n Cheese Games开发的复古超自然高压清洗模拟游戏《清扫至天明》定于2027年发售，山冈晃作曲。玩家化身女佣清扫日本乡村，但别待到太晚。",
+        "comment": "山冈晃配乐加持，清洁模拟混搭超自然，值得关注。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "伏都教",
+        "title": "蛇与铁：伏都教的创世与革命",
+        "link": "https://www.gcores.com/articles/219996",
+        "summary": "机核文章梳理伏都教从创世神话到革命历史，纠正其只关乎死亡的刻板印象，呈现海地伏都教关于生命、蛇神与反抗的深层叙事。",
+        "comment": "伏都教不止僵尸与死亡，更有创世与革命。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏联名",
+        "title": "吉考斯工业联名《影之刃零》十月末推服饰",
+        "link": "https://www.gcores.com/articles/219961",
+        "summary": "吉考斯工业宣布与《影之刃零》联名，十月末推出系列服饰，核聚变北京站线下首发，10月29日与游戏同步线上发售。",
+        "comment": "游戏未发，周边先行，联名节奏踩得准。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "肉鸽RPG",
+        "title": "日式肉鸽RPG《索拉丽斯炼成计划》今日发售",
         "link": "https://www.gcores.com/articles/219978",
-        "summary": "Greenhorn开发、IndieArk发行的日式美少女构筑式肉鸽RPG《索拉丽斯炼成计划》今日登陆Steam，售价42元，首发九折37.8元。玩家扮演天赋不足的少女索拉丽斯，用炼金术创造人造人霍姆代施魔法。",
-        "comment": "美少女加构筑肉鸽，首发折扣试水成本不高。",
+        "summary": "Greenhorn开发、IndieArk发行的日式美少女构筑式肉鸽RPG《索拉丽斯炼成计划》今日登陆Steam正式版，售价42元，首发折后37.8元。",
+        "comment": "美少女加构筑肉鸽，首发折扣值得一试。",
         "image": "",
-        "score": 88
+        "score": 89
       },
       {
         "category": "游戏影视",
-        "tag": "美洲卡车模拟",
-        "title": "《美洲卡车模拟》福特车辆包9月29日发售",
-        "link": "https://www.gcores.com/articles/219980",
-        "summary": "《美洲卡车模拟》福特车辆包9月29日发售，含1967款Mustang Fastback等标志性车型，玩家可暂别重卡体验新驾驶视角。",
-        "comment": "模拟卡车游戏加入经典跑车，拓展驾驶体验边界。",
+        "tag": "播客",
+        "title": "机核录音笔VOL.791：给小登讲结婚",
+        "link": "https://www.gcores.com/radios/220010",
+        "summary": "机核GPASS会员专享节目录音笔第791期，主播在办公室日常中尝试向年轻同事解释结婚这件事，时长约十几分钟，内容为随性碎碎念与真实对话。",
+        "comment": "会员向闲聊节目，话题轻松但受众有限。",
         "image": "",
-        "score": 88
+        "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "德国",
-        "title": "德国总理梅尔茨称州选举对基民盟是灾难",
+        "tag": "新闻自由",
+        "title": "CNN等媒体起诉白宫采访禁令",
+        "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+        "summary": "CNN、MS NOW和Politico因白宫禁止其采访提起诉讼，称此举侵犯新闻自由，捍卫政府无权决定媒体报道内容的原则。",
+        "comment": "白宫以禁令施压媒体，新闻自由之争升级。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "中美关系",
+        "title": "中美在特朗普-习近平峰会前讨论AI安全计划",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国和中国高级官员周日在纽约举行会谈，为本周特朗普与习近平的峰会做准备，双方讨论了人工智能安全计划。",
+        "comment": "AI安全成中美高层对话新焦点，峰会前协调信号积极。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "德国政治",
+        "title": "德国总理默茨称州选举对其政党是\"灾难\"但誓言留任",
         "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "summary": "出口民调显示，梅尔茨领导的中右翼基民盟在梅克伦堡-前波美拉尼亚州和柏林遭遇重挫，但他表示将继续留任。",
-        "comment": "地方选举重挫，梅尔茨执政根基承压。",
+        "summary": "出口民调显示，默茨领导的中右翼基民盟在梅克伦堡-前波美拉尼亚州和柏林遭遇重挫。",
+        "comment": "地方选举失利或动摇默茨执政根基。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "埃塞俄比亚",
+        "title": "埃塞俄比亚七个反叛组织结成新联盟",
+        "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+        "summary": "七个活跃于埃塞俄比亚人口密集地区的反叛组织宣布联合，称将协同行动，可能加剧该国安全压力。",
+        "comment": "反叛联合或改变埃塞冲突格局，值得警惕。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "南非",
+        "title": "南非约翰内斯堡东部发现第九具女性遗体，三人被捕",
+        "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+        "summary": "南非约翰内斯堡东部近期发现九具女性遗体，最新一具为Jabulile Ntimba。警方已逮捕三名嫌疑人，案件引发当地对女性安全的关注。",
+        "comment": "连环命案暴露治安与性别暴力顽疾。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "英国",
+        "title": "加拿大部长建议英国与加拿大共建欧洲新联盟",
+        "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+        "summary": "加拿大部长向BBC表示，英国应与加拿大在欧洲新联盟中合作。此前欧盟委员会主席提议为加拿大成为欧盟准成员“敞开大门”。",
+        "comment": "脱欧后的英国与加拿大或借新联盟重塑欧洲角色。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄罗斯",
+        "title": "俄选举无悬念，克宫如何利用结果成关键",
+        "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC分析称，普京料将借选举结果宣称多数俄罗斯人支持对乌特别军事行动，克里姆林宫后续如何运用这一结果至关重要。",
+        "comment": "选举结果无意外，真正看点在克宫如何包装民意。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "社会案件",
+        "title": "林赛·克兰西前夫称已原谅她以求解脱",
+        "link": "https://www.bbc.co.uk/news/articles/cq5yme200n8go?at_medium=RSS&at_campaign=rss",
+        "summary": "帕特里克·克兰西首次接受采访，谈及妻子林赛因杀害三个年幼子女案流审后的感受，表示选择原谅是为了不让自己被怨恨吞噬。",
+        "comment": "原谅是幸存者自救，而非对罪行的宽恕。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "名人",
+        "title": "辛迪·克劳馥之子普雷斯利·格伯去世，年仅27岁",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC报道，模特普雷斯利·格伯去世，年仅27岁。其家人表示正经历艰难痛苦时期，请求外界尊重隐私。",
+        "comment": "名人家庭悲剧，隐私诉求值得尊重。",
+        "image": "",
+        "score": 85
       }
     ]
   }
