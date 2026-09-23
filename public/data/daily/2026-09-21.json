@@ -4,31 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI成立数学与AI顾问组",
-        "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-        "summary": "OpenAI与独立顾问组合作，指导新兴AI成果的评审与传播，聚焦数学与人工智能交叉领域。",
-        "comment": "AI数学成果需独立评审，此举意在建立信任。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
         "title": "Higgsfield AI借助GPT-6 Astra一天内上线新视频功能",
         "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-        "summary": "Higgsfield AI利用GPT-6 Astra推出新视频功能，让小型企业更轻松制作视频广告，并加快创意工具上市速度。",
-        "comment": "AI视频工具迭代提速，小企业广告制作门槛再降。",
+        "summary": "Higgsfield AI利用GPT-6 Astra推出新视频功能，帮助小企业更轻松制作视频广告，并加快创意工具上市速度。",
+        "comment": "AI视频工具迭代提速，小企业营销门槛再降。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
+        "title": "OpenAI成立数学与AI顾问组",
+        "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "summary": "OpenAI与独立顾问组合作，指导新兴AI成果的数学审查与沟通，确保结果可靠传达。",
+        "comment": "AI数学能力需独立审查，此举有助提升可信度。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI治理",
         "title": "OpenAI呼吁建立全球AI标准",
         "link": "https://openai.com/index/building-standards-next-phase-ai",
-        "summary": "OpenAI发文提出全球AI标准路径，呼吁协调评估、报告与治理，以提升AI安全性。",
-        "comment": "标准之争，实为AI治理话语权之争。",
+        "summary": "OpenAI发文提出全球AI标准路径，主张通过协调评估、报告与治理机制提升AI安全性，推动下一阶段规范落地。",
+        "comment": "标准之争已从技术转向治理话语权。",
         "image": "",
         "score": 100
       },
@@ -38,49 +38,19 @@
         "title": "OpenAI Academy新增多角色AI学习路径",
         "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
         "summary": "OpenAI Academy推出面向员工、开发者、领导者、教育者和学生的新学习路径，帮助不同人群构建并展示实用AI技能。",
-        "comment": "AI技能培训正从通用教程转向分角色体系化。",
+        "comment": "AI技能培训正从开发者向全员普及。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI V7 为 AI 智能体构建机构记忆",
+        "tag": "AI智能体",
+        "title": "V7如何为AI智能体构建机构记忆",
         "link": "https://openai.com/index/v7",
-        "summary": "OpenAI 介绍 V7 基于 GPT-5.6，将企业分散文件转化为智能体可用的上下文，支持完成复杂且可溯源的工作。",
-        "comment": "企业 AI 竞争正从模型转向上下文与记忆层。",
+        "summary": "V7利用GPT-5.6将企业分散文件转化为智能体可用的上下文，以完成复杂且可溯源的工作。",
+        "comment": "机构记忆或成AI智能体落地企业关键。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "Mac mini",
-        "title": "新 Mac mini 首发实测：我的第一台多 Agent 电脑",
-        "link": "https://www.ifanr.com/1681211?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿首发实测新 Mac mini，认为能跑大模型只是 AI PC 的起点，重点在于多 Agent 协同体验。",
-        "comment": "多 Agent 才是 AI PC 的真正分水岭。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "日产",
-        "title": "日产新一代Skyline将搭载双涡轮V6，或配6速手动挡",
-        "link": "https://www.ifanr.com/1681312?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "日产新一代Skyline即将推出，搭载双涡轮V6发动机，并可能提供6速手动变速箱选项，引发车迷关注。",
-        "comment": "手动挡若成真，Skyline的驾驶乐趣值得期待。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "vivo",
-        "title": "vivo X500 Pro Max：直出决定性瞬间",
-        "link": "https://www.ifanr.com/1681350?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "vivo X500 Pro Max 主打随手拍出好照片，让用户放下旅行出片压力，先生活再出片，捕捉曾被误认为废片的瞬间。",
-        "comment": "影像卖点转向情绪价值，切中出片焦虑。",
-        "image": "",
-        "score": 89
       }
     ]
   }
