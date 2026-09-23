@@ -4,41 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI发布GPT-6 Sol与Luna，成本更低错误更少",
-        "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-        "summary": "OpenAI推出GPT-6 Sol和Luna两款新模型，官方称其与Astra同源，主打更低使用成本和更少错误率。",
-        "comment": "双模型策略兼顾成本与准确，OpenAI继续拉大代差。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic发布Opus 5.5，降价且性能达Fable级",
-        "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-        "summary": "Anthropic推出Opus 5.5模型，价格下调，性能达到Fable级别，官方称其为迄今测试过的最强模型。",
-        "comment": "降价加性能跃升，大模型竞争再升温。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "航天",
-        "title": "AstroForge 让 AI 指挥其下一艘航天器",
-        "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-        "summary": "AstroForge 的 Autonomy-1 任务将让一个小型基于 Transformer 的 AI 模型接管太空探测器，负责在轨自主决策与控制。",
-        "comment": "AI 从辅助走向航天器指挥，自主性边界再推进。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "GPT-6 提示缓存优化：命中率更高、延迟成本更低",
+        "tag": "GPT-6",
+        "title": "GPT-6 提示缓存优化：提升命中率并降低成本",
         "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-        "summary": "OpenAI 介绍 GPT-6 提示缓存改进：提升缓存命中率，新增诊断工具、显式断点与调控选项，以降低延迟和成本。",
-        "comment": "缓存优化直击推理成本痛点，工程价值明确。",
+        "summary": "OpenAI 介绍 GPT-6 的提示缓存改进，包括更高缓存命中率、新诊断工具、显式断点及延迟与成本控制。",
+        "comment": "缓存优化直击推理成本痛点，实用性强。",
         "image": "",
         "score": 100
       },
@@ -48,7 +18,7 @@
         "title": "OpenAI发布GPT-6 Sol与Luna双模型",
         "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
         "summary": "OpenAI推出GPT-6 Sol和Luna两款模型，以不同能力与成本组合，将前沿智能引入日常工作场景。",
-        "comment": "双模型策略意在兼顾性能与成本，加速AI落地。",
+        "comment": "双模型策略意在细分市场，兼顾性能与成本。",
         "image": "",
         "score": 100
       },
@@ -57,8 +27,8 @@
         "tag": "GPT-6",
         "title": "Parallel借助GPT-6 Astra将研究时间与成本减半",
         "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-        "summary": "OpenAI称，Parallel的智能体使用GPT-6 Astra研究并整合劳动力市场数据，相比此前模型，耗时和成本均减半。",
-        "comment": "模型迭代正把研究效率转化为直接成本优势。",
+        "summary": "OpenAI称，Parallel的智能体使用GPT-6 Astra研究并综合劳动力市场数据，相比此前模型，时间和成本均减半。",
+        "comment": "模型效率提升正直接转化为企业成本优势。",
         "image": "",
         "score": 100
       },
@@ -67,229 +37,49 @@
         "tag": "AI安全",
         "title": "OpenAI发布第三方AI安全评估原则",
         "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-        "summary": "OpenAI提出对前沿模型进行严格、安全、独立第三方评估的优先事项与原则，以强化AI安全保障。",
-        "comment": "第三方评估是AI安全治理的关键一步。",
+        "summary": "OpenAI提出对前沿模型及防护措施进行严格、安全、独立第三方评估的优先事项与原则，旨在规范AI安全审查流程。",
+        "comment": "第三方评估是AI安全治理的关键一步，但独立性落地仍待观察。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI训练数据",
-        "title": "Snorkel AI估值翻三倍达35亿美元，AI训练数据需求激增",
+        "title": "Snorkel AI估值翻三倍至35亿美元，AI训练数据需求激增",
         "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-        "summary": "成立七年的Snorkel AI完成3.5亿美元E轮融资，估值升至35亿美元，其数据即服务模式受益于AI训练数据需求爆发。",
+        "summary": "成立七年的Snorkel AI完成3.5亿美元E轮融资，估值升至35亿美元，将用于扩展其数据即服务模式，反映AI训练数据需求持续增长。",
         "comment": "数据标注赛道升温，资本押注AI基础设施上游。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "高通",
-        "title": "高通发布两款主打AI的新手机芯片",
-        "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-        "summary": "高通推出两款新手机芯片，称其旗舰芯片可在本地运行300亿参数的混合专家模型，强调端侧AI能力。",
-        "comment": "端侧大模型竞赛升温，高通抢占手机AI算力高地。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta承认Muse与OpenClaw相似并非巧合",
-        "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-        "summary": "Meta称Muse从零构建，但承认该AI助手受OpenClaw“深度启发”，连部分工作区文件名和内容都相似。",
-        "comment": "从零构建却连文件名都像，创新叙事站不住。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "TechCrunch Disrupt 2026 五场AI安全会议",
-        "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-        "summary": "TechCrunch Disrupt 2026 设五场AI安全会议，覆盖AI Stage与Real World AI Stage，Anthropic、英伟达、AWS、Waabi等企业负责人参与。",
-        "comment": "AI安全正从理念走向创始人必听议程。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "机器人",
-        "title": "Hello Robot CEO将在TechCrunch Disrupt 2026现场演示Stretch 4",
-        "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-        "summary": "Hello Robot CEO兼联合创始人Aaron Edsinger将在TechCrunch Disrupt 2026的Real World AI Stage现场演示Stretch 4机器人，9月25日前注册可享优惠。",
-        "comment": "现场演示比参数更能检验机器人真实能力。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
         "tag": "创业",
         "title": "TechCrunch创始人峰会11月4日波士顿议程公布",
         "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-        "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行，议程涵盖融资、招聘与AI洞察，旨在帮助创业者降低创业难度、提升成功体验。",
-        "comment": "创业服务活动，信息增量有限。",
+        "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行，议程涵盖融资、招聘与人工智能洞察，旨在帮助创业者降低创业难度。",
+        "comment": "创业活动扎堆，关键看内容是否真能落地。",
         "image": "",
-        "score": 95
+        "score": 96
       },
       {
         "category": "游戏影视",
-        "tag": "微软",
-        "title": "微软拟在Boss战间隙插播广告",
-        "link": "https://www.ign.com/articles/microsoft-wants-to-show-you-ads-in-between-boss-fights",
-        "summary": "微软已在Xbox Series X登录界面展示广告，现正探索广告支持模式，让玩家通过观看广告租玩游戏。",
-        "comment": "广告侵入游戏核心体验，恐引玩家反感。",
-        "image": "https://assets-prd.ignimgs.com/2023/07/12/xbox-2-blogroll-1689179393588.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "微软宣布《光环》新作由动视开发",
-        "link": "https://www.gamespot.com/articles/halo-next-game-is-coming-from-an-unexpected-developer-activision/",
-        "summary": "微软官方宣布《光环》系列新作将交由动视组建专门团队开发，这是该系列首次脱离343 Industries主导，标志重大战略调整。",
-        "comment": "动视接手《光环》，微软第一方招牌外包，风险与变数并存。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/HaloInfinite_CampaignKeyArt_CLEAN_1920x1080.jpg?w=300",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏本",
-        "title": "Alienware 16X Aurora游戏本降价1050美元",
-        "link": "https://www.ign.com/articles/alienware-16x-aurora-gaming-laptop-deal-september-2026-updated",
-        "summary": "沃尔玛GeForce周促销期间，Alienware 16X Aurora RTX 5060游戏本直降1050美元，配备全金属机身、OLED屏和英特尔最强移动CPU。",
-        "comment": "高端配置叠加千元折扣，值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/22/alienwareaurora16x2-1790116549893.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "《腐烂国度》开发商脱离Xbox后大幅裁员",
-        "link": "https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox",
-        "summary": "《腐烂国度3》开发商Undead Labs确认，在脱离Xbox独立后进行了大幅裁员。",
-        "comment": "独立代价显现，工作室前景堪忧。",
-        "image": "https://assets-prd.ignimgs.com/2024/06/09/sod2-1717953324498.png",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "NBA球星亚当斯：GTA 6发售将致运动员表现下滑",
-        "link": "https://www.ign.com/articles/nba-star-steven-adams-says-gta-6s-launch-will-lead-to-a-league-wide-drop-in-performance-for-athletes-and-coaches",
-        "summary": "NBA球员史蒂文·亚当斯警告称，GTA 6在11月发售将导致全联盟运动员和教练表现下滑，因大家都会沉迷游戏。",
-        "comment": "游戏魅力连职业球员也难挡，玩笑背后是GTA 6的恐怖影响力。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/27/mega-1-1787855222702.jpeg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "掌机",
-        "title": "联想Legion Go S掌机不到500美元",
-        "link": "https://www.ign.com/articles/lenovo-legion-go-s-handheld-gaming-pc-deal-september-2026",
-        "summary": "联想Legion Go S（Ryzen Z2 Go版）现以低于500美元的价格出售，成色极佳。它比Xbox Ally更强，并像Steam Deck一样运行SteamOS。",
-        "comment": "性价比突出，SteamOS掌机竞争加剧。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/22/lenovolegiongos-1790036379217.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界：永恒版欲对玩家制造曼德拉效应",
-        "link": "https://www.gamespot.com/articles/wow-forever-aspires-to-have-a-mandela-effect-on-players/",
-        "summary": "《魔兽世界：永恒版》正以大量新内容重塑经典艾泽拉斯，暴雪希望玩家难以分辨新旧差异，从而产生曼德拉效应。",
-        "comment": "重制经典若以假乱真，既是致敬也是冒险。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Mandela-Effect.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox裁员仍未结束，微软再裁268人",
-        "link": "https://www.gamespot.com/articles/xbox-layoffs-are-not-done-yet/",
-        "summary": "微软本周宣布Xbox业务再裁员268人，并伴随组织与运营调整，这是其“重置”计划的下一阶段。",
-        "comment": "Xbox重组持续加码，短期难见止跌。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/xboxreset-Large.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "微软重组Xbox游戏部门，Forza工作室合并",
-        "link": "https://www.gamespot.com/articles/xboxs-forza-studios-have-been-tag-teaming-for-years-now-theyre-becoming-one/",
-        "summary": "微软宣布对Xbox游戏部门进行大规模重组，动视和Bethesda将扩大职权，Forza系列工作室在多年合作后正式合并。",
-        "comment": "整合资源，聚焦核心IP，但需警惕创意同质化。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Forza-Horizon-6.jpg?w=300",
+        "tag": "黑曜石",
+        "title": "黑曜石新辐射游戏仍在开发，工作室归入Bethesda旗下",
+        "link": "https://www.gamespot.com/articles/obsidians-new-fallout-game-is-still-coming-as-the-studio-moves-under-bethesdas-umbrella/",
+        "summary": "Xbox裁员近300人并调整子公司架构，黑曜石娱乐被划归Bethesda旗下，但其新《辐射》游戏项目仍在推进。",
+        "comment": "架构调整不改项目，但Xbox动荡值得警惕。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/fnv-image.jpg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "OPPO",
-        "title": "OPPO新旗舰搭载两亿像素，6799元起售",
+        "title": "OPPO新旗舰搭载两亿像素，起售价6799元",
         "link": "https://www.ifanr.com/1681522?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OPPO发布新旗舰手机，配备两亿像素摄像头，起售价6799元，主打高规格影像堆料。",
-        "comment": "两亿像素下放，影像旗舰价格战升级。",
+        "summary": "OPPO发布新旗舰手机，主打两亿像素影像系统，堆料充足，起售价6799元，定位高端市场。",
+        "comment": "两亿像素下放，高端影像竞争再升温。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "广汽传祺",
-        "title": "广汽传祺越7上市，16.18万元起配三把锁",
-        "link": "https://www.ifanr.com/1681498?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "广汽传祺越7正式上市，起售价16.18万元，配备三把差速锁，主打城市与越野兼顾的方盒子SUV定位。",
-        "comment": "三把锁下探至16万级，硬派SUV竞争加剧。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Switch 2",
-        "title": "Switch 2《卡比空中骑手》降价27%",
-        "link": "https://www.ign.com/articles/kirby-air-riders-switch-2-game-deal-september-2026-updated",
-        "summary": "IGN报道，任天堂Switch 2游戏《卡比空中骑手》现降价27%，优惠信息已更新，适合关注该作的玩家入手。",
-        "comment": "新平台游戏促销，折扣力度尚可。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/02/kirbyairriders-1788391942553.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "星际争霸",
-        "title": "星际争霸新作或非Xbox独占",
-        "link": "https://www.gamespot.com/articles/starcraft-doesnt-sound-like-an-xbox-exclusive/",
-        "summary": "暴雪在BlizzCon 2026公布新《星际争霸》射击游戏，但未明确登陆平台。GameSpot称其听起来不会是Xbox独占。",
-        "comment": "平台策略模糊，暴雪留足后手。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/StarCraft-Not-Xbox-Exclusive.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox游戏工作室现状解析",
-        "link": "https://www.gamespot.com/articles/what-is-xbox-game-studios-at-this-point/",
-        "summary": "GameSpot分析Xbox游戏工作室架构，指出其组织长期复杂臃肿，最新一轮调整与裁员后仍未改变，微软的“重置”效果存疑。",
-        "comment": "架构臃肿未解，重置恐难奏效。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/3928555-0594946278-39285.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》首发不让萨满和术士坦克",
-        "link": "https://www.gamespot.com/articles/wow-forever-doesnt-let-shamans-or-warlocks-tank-but-that-could-change/",
-        "summary": "《魔兽世界：永恒》将对WoW经典沙盒做出重大改动，但首发时萨满和术士仍无法担任坦克，未来可能调整。",
-        "comment": "职业定位松动，但坦克门槛暂未放开。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-No-Shaman-Warlock-Tanks.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "黑曜石",
-        "title": "黑曜石新辐射游戏仍在开发，工作室划归Bethesda",
-        "link": "https://www.gamespot.com/articles/obsidians-new-fallout-game-is-still-coming-as-the-studio-moves-under-bethesdas-umbrella/",
-        "summary": "Xbox裁员近300人并调整子公司架构，黑曜石娱乐被划入Bethesda旗下，其新《辐射》游戏确认仍在开发中。",
-        "comment": "架构调整未砍项目，但Xbox收缩信号明显。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/fnv-image.jpg?w=300",
         "score": 91
       },
       {
@@ -297,8 +87,8 @@
         "tag": "日产",
         "title": "日产新N7上市，10.99万元起售",
         "link": "https://www.ifanr.com/1681515?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "日产新款N7正式上市，起售价10.99万元，配置升级且价格下调，延续“沙发厂”舒适定位。",
-        "comment": "加量又降价，日产在新能源市场放下身段。",
+        "summary": "日产新款N7正式上市，起售价10.99万元，配置升级但价格下调，主打性价比。",
+        "comment": "加量降价，日产在新能源市场发力。",
         "image": "",
         "score": 90
       },
@@ -307,70 +97,20 @@
         "tag": "岚图",
         "title": "岚图梦想家9涨价9万，41.99万元起售",
         "link": "https://www.ifanr.com/1681478?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "岚图梦想家9售价41.99万元，较前代涨价9万元，主打更具体的旗舰感，引发对其定价合理性的讨论。",
-        "comment": "涨价9万，岚图品牌力能否撑起41.99万定价存疑。",
+        "summary": "岚图梦想家9上市，售价41.99万元，较前代涨价9万元，主打旗舰感与配置升级。",
+        "comment": "涨价9万，岚图品牌力能否撑起旗舰定位？",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "银行应用",
-        "title": "Spruce银行应用功能解析",
-        "link": "https://www.ign.com/articles/spruce-banking-app-explained",
-        "summary": "IGN介绍Spruce银行应用，主打智能消费、储蓄和预算跟踪，并对比其与其他银行应用的区别。",
-        "comment": "游戏媒体推银行应用，跨界内容需谨慎看待。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/22/untitled-design-21-1790108979764.png",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "血源",
-        "title": "《血源》电影请JackSepticEye当制片，自称负责把关氛围",
-        "link": "https://www.gamespot.com/articles/bloodbornes-jacksepticeye-says-hes-a-vibe-checker-for-the-movie/",
-        "summary": "R级《血源》电影官宣后，YouTuber JackSepticEye以制片人身份加入，他回应称自己的角色是“氛围检查员”，为影片基调把关。",
-        "comment": "网红挂名制片常见，能否真影响成片待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/bloodborne-Large.jpeg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "大富翁GO",
-        "title": "《大富翁GO》万圣季联动KPop Demon Hunters与捉鬼敢死队",
+        "tag": "Monopoly Go",
+        "title": "Monopoly Go万圣节联动KPop Demon Hunters与捉鬼敢死队",
         "link": "https://www.gamespot.com/articles/kpop-demon-hunters-and-ghostbusters-come-to-monopoly-go-for-spooky-season/",
-        "summary": "Scopely宣布《大富翁GO》万圣季活动，联动KPop Demon Hunters与《捉鬼敢死队》，为北半球秋季和万圣节预热。",
-        "comment": "节日联动是手游拉新的常规操作，IP选择贴合万圣氛围。",
+        "summary": "Scopely宣布Monopoly Go万圣节活动，联动KPop Demon Hunters和捉鬼敢死队，迎接秋季与万圣节到来。",
+        "comment": "手游借万圣节IP联动拉活跃，常规运营动作。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/monopolygo-Large.jpeg?w=300",
         "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "格陵兰",
-        "title": "美国与丹麦达成协议 将在格陵兰建两座军事基地",
-        "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-        "summary": "该防务协议在联合国大会期间签署，同时重申丹麦对其半自治北极领土格陵兰的主权。",
-        "comment": "北极战略博弈升温，美国强化前沿军事存在。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "欧盟制裁",
-        "title": "欧盟将俄寡头移出制裁名单引乌克兰不满",
-        "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-        "summary": "欧盟将乌斯马诺夫和弗里德曼移出制裁名单，两人与普京关系密切。基辅批评此举向莫斯科释放错误信号。",
-        "comment": "制裁松动或削弱对俄施压效果。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "摩洛哥大选",
-        "title": "足球、休达与以色列如何影响摩洛哥大选",
-        "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-        "summary": "摩洛哥大选临近，年轻选民成为争夺焦点，各阵营以足球口号、就业承诺和反以色列集会号召拉拢选票。",
-        "comment": "足球与反以情绪正被用作选举动员工具。",
-        "image": "",
-        "score": 85
       }
     ]
   }
