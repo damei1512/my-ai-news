@@ -4,71 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "GPT-6",
-        "title": "GPT-6 提示缓存优化：提升命中率并降低成本",
-        "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-        "summary": "OpenAI 介绍 GPT-6 的提示缓存改进，包括更高缓存命中率、新诊断工具、显式断点及延迟与成本控制。",
-        "comment": "缓存优化直击推理成本痛点，实用性强。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布GPT-6 Sol与Luna双模型",
-        "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-        "summary": "OpenAI推出GPT-6 Sol和Luna两款模型，以不同能力与成本组合，将前沿智能引入日常工作场景。",
-        "comment": "双模型策略意在细分市场，兼顾性能与成本。",
+        "title": "GPT-6 提示缓存优化：命中率提升、延迟成本双降",
+        "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "summary": "OpenAI 介绍 GPT-6 提示缓存改进：更高缓存命中率、新增诊断工具、显式断点与精细控制，可降低延迟和成本。",
+        "comment": "缓存优化直击推理成本痛点，实用性提升明显。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "GPT-6",
-        "title": "Parallel借助GPT-6 Astra将研究时间与成本减半",
-        "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-        "summary": "OpenAI称，Parallel的智能体使用GPT-6 Astra研究并综合劳动力市场数据，相比此前模型，时间和成本均减半。",
-        "comment": "模型效率提升正直接转化为企业成本优势。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "OpenAI发布第三方AI安全评估原则",
-        "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-        "summary": "OpenAI提出对前沿模型及防护措施进行严格、安全、独立第三方评估的优先事项与原则，旨在规范AI安全审查流程。",
-        "comment": "第三方评估是AI安全治理的关键一步，但独立性落地仍待观察。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI训练数据",
-        "title": "Snorkel AI估值翻三倍至35亿美元，AI训练数据需求激增",
-        "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-        "summary": "成立七年的Snorkel AI完成3.5亿美元E轮融资，估值升至35亿美元，将用于扩展其数据即服务模式，反映AI训练数据需求持续增长。",
-        "comment": "数据标注赛道升温，资本押注AI基础设施上游。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "创业",
-        "title": "TechCrunch创始人峰会11月4日波士顿议程公布",
-        "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-        "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行，议程涵盖融资、招聘与人工智能洞察，旨在帮助创业者降低创业难度。",
-        "comment": "创业活动扎堆，关键看内容是否真能落地。",
-        "image": "",
-        "score": 96
       },
       {
         "category": "游戏影视",
         "tag": "黑曜石",
         "title": "黑曜石新辐射游戏仍在开发，工作室归入Bethesda旗下",
         "link": "https://www.gamespot.com/articles/obsidians-new-fallout-game-is-still-coming-as-the-studio-moves-under-bethesdas-umbrella/",
-        "summary": "Xbox裁员近300人并调整子公司架构，黑曜石娱乐被划归Bethesda旗下，但其新《辐射》游戏项目仍在推进。",
-        "comment": "架构调整不改项目，但Xbox动荡值得警惕。",
+        "summary": "Xbox裁员近300人并调整子公司架构，黑曜石娱乐被划归Bethesda旗下，但其新《辐射》游戏仍在开发中。",
+        "comment": "架构调整不改项目，但Xbox动荡值得关注。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/fnv-image.jpg?w=300",
         "score": 92
       },
@@ -77,8 +27,8 @@
         "tag": "OPPO",
         "title": "OPPO新旗舰搭载两亿像素，起售价6799元",
         "link": "https://www.ifanr.com/1681522?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OPPO发布新旗舰手机，主打两亿像素影像系统，堆料充足，起售价6799元，定位高端市场。",
-        "comment": "两亿像素下放，高端影像竞争再升温。",
+        "summary": "OPPO发布新旗舰手机，配备两亿像素摄像头，起售价6799元，主打高规格影像配置。",
+        "comment": "两亿像素下放，影像竞争再升级。",
         "image": "",
         "score": 91
       },
@@ -87,8 +37,8 @@
         "tag": "日产",
         "title": "日产新N7上市，10.99万元起售",
         "link": "https://www.ifanr.com/1681515?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "日产新款N7正式上市，起售价10.99万元，配置升级但价格下调，主打性价比。",
-        "comment": "加量降价，日产在新能源市场发力。",
+        "summary": "日产新款N7正式上市，起售价10.99万元，配置升级且价格下调，延续“沙发厂”舒适卖点。",
+        "comment": "加量降价，日产想用性价比抢市场。",
         "image": "",
         "score": 90
       },
@@ -97,20 +47,10 @@
         "tag": "岚图",
         "title": "岚图梦想家9涨价9万，41.99万元起售",
         "link": "https://www.ifanr.com/1681478?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "岚图梦想家9上市，售价41.99万元，较前代涨价9万元，主打旗舰感与配置升级。",
-        "comment": "涨价9万，岚图品牌力能否撑起旗舰定位？",
+        "summary": "岚图梦想家9上市，起售价41.99万元，较前代涨价9万元，主打更具体的旗舰感，引发市场对其定价合理性的讨论。",
+        "comment": "涨价9万，岚图品牌力能否撑起40万级定价？",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Monopoly Go",
-        "title": "Monopoly Go万圣节联动KPop Demon Hunters与捉鬼敢死队",
-        "link": "https://www.gamespot.com/articles/kpop-demon-hunters-and-ghostbusters-come-to-monopoly-go-for-spooky-season/",
-        "summary": "Scopely宣布Monopoly Go万圣节活动，联动KPop Demon Hunters和捉鬼敢死队，迎接秋季与万圣节到来。",
-        "comment": "手游借万圣节IP联动拉活跃，常规运营动作。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/monopolygo-Large.jpeg?w=300",
-        "score": 89
       }
     ]
   }
