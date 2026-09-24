@@ -4,21 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "YouTube",
-        "title": "YouTube 将用 AI 让用户自建算法",
-        "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-        "summary": "YouTube 推出自定义信息流，用户可用自然语言描述想看的内容，由 Gemini 据此生成个性化推荐流。",
-        "comment": "推荐算法从黑箱走向用户可编程。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI Academy 两周年：AI技能普及更多社区",
+        "title": "OpenAI Academy 成立两周年",
         "link": "https://openai.com/index/two-years-of-openai-academy",
-        "summary": "OpenAI Academy 成立两周年，致力于将AI技能带给更多社区，扩大教育普及范围。",
-        "comment": "AI教育普惠是长期工程，两周年仅是起点。",
+        "summary": "OpenAI 回顾 Academy 项目两年来向更多社区普及 AI 技能的进展，并宣布进一步扩大覆盖范围。",
+        "comment": "AI 教育下沉，生态卡位意味明显。",
         "image": "",
         "score": 100
       },
@@ -27,58 +17,58 @@
         "tag": "OpenAI",
         "title": "OpenAI向乌克兰政府开放Daybreak网络防御计划",
         "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-        "summary": "OpenAI宣布将Daybreak项目权限扩展至乌克兰政府，用于支持民用基础设施的网络防御，帮助应对持续的网络攻击威胁。",
-        "comment": "AI能力正被直接嵌入国家网络防御体系。",
+        "summary": "OpenAI宣布将Daybreak计划的使用权限扩展至乌克兰政府，用于支持民用基础设施的网络防御工作。",
+        "comment": "AI能力正加速进入国家网络防御实战场景。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "OpenAI CEO 在联合国安理会谈AI安全",
+        "tag": "人工智能",
+        "title": "OpenAI CEO在联合国安理会谈AI安全",
         "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-        "summary": "OpenAI CEO Sam Altman 在联合国安理会发言，讨论AI安全、人类控制及国际合作，强调全球协同治理AI风险。",
-        "comment": "AI治理进入国际安全议程，信号意义强。",
+        "summary": "OpenAI CEO Sam Altman在联合国安理会发言，讨论AI安全、人类控制及国际合作，呼吁全球共同应对AI风险。",
+        "comment": "AI安全进入联合国议程，全球治理紧迫性上升。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "法律AI",
-        "title": "Harvey借助GPT-6 Astra提升法律文书质量",
+        "tag": "人工智能",
+        "title": "Harvey借助GPT-6 Astra提升法律文书起草质量",
         "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-        "summary": "OpenAI介绍Harvey使用GPT-6 Astra生成结构更清晰、更贴合上下文的法律文书，帮助律师将精力转向策略性工作。",
-        "comment": "法律AI从辅助检索走向核心文书生产。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "GPT-6",
-        "title": "invideo借助GPT-6 Astra将调色效率提升三倍",
-        "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-        "summary": "OpenAI介绍invideo使用GPT-6 Astra规划剪辑，调色与色彩校正效率提升三倍，一天内产出50个自定义效果。",
-        "comment": "AI正深入视频后期核心环节，效率提升显著。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI客服",
-        "title": "Ringg用OpenAI智能体解决65%客服来电",
-        "link": "https://openai.com/index/ringg",
-        "summary": "Ringg基于GPT-5.6打造多语言AI客服，覆盖语音、聊天、WhatsApp和网页，成本比GPT-4.1降低90%，可解决高达65%的客户来电。",
-        "comment": "AI客服降本增效再进一步，落地能力值得关注。",
+        "summary": "OpenAI介绍Harvey利用GPT-6 Astra生成结构更清晰、更贴合语境的法律文书，让律师能专注于策略性工作。",
+        "comment": "AI正从辅助工具走向法律核心生产环节。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI推出心理健康基准MentalHealthBench",
+        "title": "OpenAI：GPT-6 Astra助invideo调色效率提升三倍",
+        "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+        "summary": "OpenAI介绍，invideo借助GPT-6 Astra实现更精准的剪辑规划，色彩校正与调色效率提升三倍，并可在一天内生成50种自定义特效。",
+        "comment": "AI正从生成内容深入专业后期工作流。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI客服",
+        "title": "Ringg用AI代理解决65%客户来电",
+        "link": "https://openai.com/index/ringg",
+        "summary": "Ringg基于GPT-5.6构建多语言AI代理，覆盖语音、聊天、WhatsApp和网页，客户来电解决率达65%，成本比GPT-4.1低90%。",
+        "comment": "AI客服降本增效再进一步，但65%解决率仍需人工兜底。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI发布心理健康评估基准MentalHealthBench",
         "link": "https://openai.com/index/introducing-mentalhealthbench",
-        "summary": "OpenAI发布MentalHealthBench，一个由专家参与设计的基准，用于评估AI在真实心理健康对话中回应的有用性与安全性。",
-        "comment": "AI涉足心理健康，安全评估须先行。",
+        "summary": "OpenAI推出MentalHealthBench，由专家参与设计，用于评估AI在真实心理健康对话中是否提供有益且安全的回应。",
+        "comment": "AI涉足心理健康，安全评估基准比能力更重要。",
         "image": "",
         "score": 100
       },
@@ -87,8 +77,8 @@
         "tag": "ChatGPT",
         "title": "ChatGPT广告扩展至东南亚和台湾",
         "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-        "summary": "OpenAI宣布ChatGPT Ads扩展至东南亚和台湾，符合条件的企业可在60多个国家触达用户，获得新的广告投放渠道。",
-        "comment": "广告版图扩张，商业化提速但需平衡体验。",
+        "summary": "OpenAI宣布ChatGPT Ads扩展至东南亚和台湾，符合条件的企业可在60多个国家触达用户。",
+        "comment": "广告变现提速，OpenAI商业化再下一城。",
         "image": "",
         "score": 100
       },
@@ -98,199 +88,19 @@
         "title": "Airbnb扩大GPT-6 Astra与OpenAI前沿模型使用",
         "link": "https://openai.com/index/airbnb-gpt-6-astra",
         "summary": "Airbnb扩大对GPT-6 Astra及OpenAI前沿模型的访问，帮助工程团队排查缺陷、设计系统并加快交付。",
-        "comment": "AI编码工具正从试点走向规模化落地。",
+        "comment": "AI编程工具正从试点走向规模化落地。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与Grab合作在东南亚推广AI技能",
+        "title": "OpenAI与Grab在东南亚推AI技能计划",
         "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-        "summary": "OpenAI与Grab推出“GO Forward with AI”区域项目，帮助东南亚3万名合作伙伴掌握实用AI技能。",
-        "comment": "AI技能培训下沉，东南亚市场争夺战开启。",
+        "summary": "OpenAI与Grab联合推出GO Forward with AI区域项目，帮助东南亚3万名合作伙伴掌握实用AI技能。",
+        "comment": "AI技能下沉东南亚，生态卡位意味明显。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta推出无摄像头AI眼镜",
-        "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-        "summary": "Meta发布无摄像头AI眼镜，主打更轻重量与最长12小时续航，试图在隐私争议下拓展可穿戴AI形态。",
-        "comment": "去掉摄像头，是隐私妥协也是产品取舍。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic生物实验室称已取得重大发现",
-        "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-        "summary": "Anthropic表示其生物实验室已发现重大成果，但强调Claude并未在实验室自主运行，人类仍处于决策闭环中。",
-        "comment": "AI科研突破，但人类把关仍是底线。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI制药",
-        "title": "Enveda获3.11亿美元推进AI天然药物临床试验",
-        "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-        "summary": "AI生物技术公司Enveda完成3.11亿美元融资，估值达20亿美元，正测试治疗皮肤病及停用GLP-1后维持减重效果的药物。",
-        "comment": "AI制药融资回暖，天然产物路线获资本重注。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "ChatGPT",
-        "title": "ChatGPT移动端新增语音智能体功能",
-        "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-        "summary": "ChatGPT移动应用为Pro和Plus用户推出Work标签，支持通过语音指令完成智能体任务，进一步拓展手机端自动化操作能力。",
-        "comment": "语音智能体落地移动端，AI助手向执行者演进。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "调查：每日使用AI的美国人仍担忧该技术",
-        "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-        "summary": "报告显示，即便每天使用AI，美国民众仍对其感到不安，且这种担忧不会因接触增多而缓解，公众对AI监管的支持也不会因此减少。",
-        "comment": "高频使用并未消解不安，监管呼声难降温。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "YouTube Music",
-        "title": "YouTube Music推出AI对话式音乐搜索",
-        "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-        "summary": "YouTube Music应用内新增Ask Music功能，用户可用日常语言描述想听的内容，无需再搜索具体歌曲或艺人。",
-        "comment": "音乐搜索从关键词转向自然语言，体验更贴近对话。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "风险投资",
-        "title": "TechCrunch Disrupt 2026探讨AI如何重塑风投规则",
-        "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-        "summary": "StrictlyVC将在TechCrunch Disrupt 2026举办专场，讨论AI如何改变风险投资格局。活动设投资者通行证，9月25日前可省200美元。",
-        "comment": "AI正改写风投玩法，但活动本质仍是卖票。",
-        "image": "",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "Double Fine创始人质疑游戏业经济模式",
-        "link": "https://www.ign.com/articles/double-fine-founder-tim-schafer-questions-economics-of-the-game-industry-amid-mass-layoffs-and-studio-closures",
-        "summary": "Double Fine创始人Tim Schafer在Xbox大规模裁员及行业工作室关闭潮后表示，他已不再理解游戏开发的经济逻辑。",
-        "comment": "行业寒冬下，连资深从业者也看不懂账本了。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/23/double-fine-tim-schafer-game-industry-economics-layoffs-1790201916197.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "YouTube",
-        "title": "YouTube测试视频A/B功能引担忧",
-        "link": "https://www.ign.com/articles/youtubes-new-ab-video-test-feature-is-already-creating-fears-over-weaponized-negativity",
-        "summary": "YouTube推出新功能，允许创作者测试视频不同剪辑版本，粉丝担忧该功能可能被用于恶意操作。",
-        "comment": "A/B测试或成负面情绪武器，平台需警惕。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/23/youtube-1790203481227.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "宝可梦",
-        "title": "宝可梦30周年基拉祈卡画师回应已故主播最后开包",
-        "link": "https://www.ign.com/articles/artist-behind-pokemon-30th-anniversary-jirachi-sir-card-gives-tearful-response-to-late-influencers-heart-wrenching-final-pack-opening",
-        "summary": "宝可梦30周年基拉祈SIR卡画师含泪回应已故主播Avery the Poké Kid生前最后一次开包抽中该卡，事件引发玩家社区广泛共鸣。",
-        "comment": "卡牌承载的不只是收藏价值，更是人与人的情感联结。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/23/jirachi-card-artist-responds-avery-poke-kid-1790205304963.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "夜魔侠",
-        "title": "金并演员文森特·多诺费奥告别《夜魔侠：重生》",
-        "link": "https://www.ign.com/articles/kingpin-actor-vincent-donofrio-says-goodbye-to-daredevil-born-again",
-        "summary": "文森特·多诺费奥就《夜魔侠：重生》将在第三季完结的消息作出回应，他饰演的金并/威尔逊·菲斯克是该剧核心角色。",
-        "comment": "三季收官，金并的谢幕值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/25/daredevil-season-2-ep-1-thumb-1774482954303.jpg",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果拟从iPhone 18起为照片加隐形水印",
-        "link": "https://www.ifanr.com/1681780?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果计划从iPhone 18开始为相机拍摄的照片加入不可见水印，用于证明照片由真实相机拍摄，以应对AI生成图像泛滥带来的真实性争议。",
-        "comment": "用硬件水印对抗AI造假，方向对但生态兼容是关键。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "华纳",
-        "title": "华纳推迟DC《动态双雄》，并延后《小精灵3》一年",
-        "link": "https://www.ign.com/articles/warner-bros-pushes-back-dcs-dynamic-duo-film-gremlins-3-gets-one-year-delay",
-        "summary": "华纳兄弟宣布推迟DC电影《动态双雄》，同时将《小精灵3》的上映时间延后整整一年。",
-        "comment": "华纳档期调整频繁，DC新片与小精灵续集均受影响。",
-        "image": "https://assets1.ignimgs.com/2017/11/09/gremlins-1510265666951.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "索尼",
-        "title": "索尼WH-1000XX降噪耳机限时六折",
-        "link": "https://www.ign.com/articles/sony-wh-1000xx-the-collexion-noise-canceling-wireless-headphone-deal-september-2026",
-        "summary": "IGN报道，索尼WH-1000XX“The Collexion”不锈钢降噪无线耳机现享40%折扣，定位超高端。",
-        "comment": "高端降噪耳机罕见大降价，值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/23/sonywh1000xx-1790203688538.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "CyberPowerPC 搭载 RTX 5070 公版显卡游戏主机促销",
-        "link": "https://www.ign.com/articles/cyberpowerpc-gaming-pcs-with-founders-edition-nvidia-geforce-rtx-5070-gpus-are-on-sale",
-        "summary": "CyberPowerPC 配备英伟达 GeForce RTX 5070 公版显卡的游戏主机正在促销，属于沃尔玛 GeForce 周促销活动，9 月 27 日结束。",
-        "comment": "RTX 5070 整机促销，适合想升级的玩家。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/23/cyberpowerpcfoundersedition-1790199796577.jpg",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "小米",
-        "title": "小米18 Pro Max首发评测：最好玩的小米手机",
-        "link": "https://www.ifanr.com/1681778?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿发布小米18 Pro Max首发评测，称其为最好的小米手机，并试图摆脱1999元定价印象与固有标签。",
-        "comment": "小米高端化再进一步，但品牌标签难一朝撕下。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "慢马",
-        "title": "《慢马》第六季第二集剧评：预告片剧透毁了悬念",
-        "link": "https://www.ign.com/articles/slow-horses-season-6-episode-2-review-daddy-issues",
-        "summary": "IGN评《慢马》第六季第二集《Daddy Issues》，指出Apple TV唯一一支预告片提前泄露了本集结尾，削弱了观剧体验。",
-        "comment": "预告片剧透关键结局，实属宣发失误。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/23/shs6e2-1790202559632.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "光环粉丝激辩：动视应重启系列还是延续士官长故事",
-        "link": "https://www.ign.com/articles/halo-fans-are-divided-over-whether-activision-should-reboot-the-series-and-start-fresh",
-        "summary": "IGN报道，光环粉丝对动视是否应彻底重启该系列、另起炉灶，还是继续讲述士官长的故事产生分歧。",
-        "comment": "重启与否，折射出玩家对系列未来的焦虑。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/22/halocampaignevolved-review-blogroll-1784759127552.jpg",
-        "score": 91
       },
       {
         "category": "游戏影视",
@@ -298,8 +108,18 @@
         "title": "Discord启动年龄验证并与FanDuel达成赞助合作",
         "link": "https://www.gamespot.com/articles/discord-begins-rolling-out-age-verification-and-a-sponsorship-with-fanduel/",
         "summary": "Discord今日正式启动年龄验证措施，此前已宣布将对未验证账户施加限制，同时与博彩平台FanDuel达成赞助合作。",
-        "comment": "年龄验证与博彩赞助并行，Discord商业化与合规压力同步上升。",
+        "comment": "年龄验证叠加博彩赞助，Discord商业化与合规并行。",
         "image": "https://www.gamespot.com/wp-content/uploads/original/1690/16904437/4656519-discord.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "VR游戏",
+        "title": "《High on Life》助推Quest大型游戏发展",
+        "link": "https://www.gamespot.com/articles/high-on-life-is-helping-make-the-case-for-bigger-games-on-quest/",
+        "summary": "《High on Life》自2022年发售以来凭借古怪幽默和流畅玩法大获成功，如今其VR版本正帮助证明Quest平台能承载更大型的游戏。",
+        "comment": "爆款IP移植VR，为Quest内容升级探路。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/High-on-Life-2.jpg?w=300",
         "score": 91
       },
       {
@@ -308,139 +128,49 @@
         "title": "育碧谈《彩虹六号》如何应对GTA6竞争",
         "link": "https://www.gamespot.com/articles/rainbow-six-siege-dev-on-competing-with-gta-6-and-why-there-are-no-plans-for-siege-2/",
         "summary": "育碧开发者回应《彩虹六号：围攻》如何面对11月发售的《GTA6》，并解释为何没有开发《围攻2》的计划。",
-        "comment": "避开GTA6锋芒，长线运营比出续作更明智。",
+        "comment": "避开GTA6锋芒，长线运营比出续作更务实。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Siege-Large.jpeg?w=300",
-        "score": 91
+        "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "VR游戏",
-        "title": "《High on Life》推动Quest大型游戏发展",
-        "link": "https://www.gamespot.com/articles/high-on-life-is-helping-make-the-case-for-bigger-games-on-quest/",
-        "summary": "《High on Life》自2022年发售以来凭借古怪幽默和流畅玩法大获成功，如今其VR版本正助力证明Quest平台能承载更大型游戏。",
-        "comment": "VR大作化趋势渐显，Quest生态迎来关键验证。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/High-on-Life-2.jpg?w=300",
-        "score": 91
+        "tag": "Arc Raiders",
+        "title": "Arc Raiders新赛季通行证不再全免费",
+        "link": "https://www.gamespot.com/articles/arc-raiders-battle-pass-wont-be-totally-free-anymore-but-itll-pay-for-itself/",
+        "summary": "Arc Raiders将于10月8日上线Frozen Trail大型更新，更新本身免费，但新战斗通行证不再完全免费，官方称其可通过游玩回本。",
+        "comment": "通行证转向可回本模式，考验玩家留存与付费平衡。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/ArcRaiders_FrozenTrail_Keyart_16-9.jpg?w=300",
+        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "宝可梦",
         "title": "30年后，收集宝可梦卡牌已大不相同",
         "link": "https://www.gamespot.com/articles/30-years-later-collecting-pokemon-cards-hits-a-little-different/",
-        "summary": "GameSpot回顾宝可梦卡牌收藏30年变迁：从90年代末的休闲爱好，到如今高度商业化、投机化的收藏市场。",
-        "comment": "卡牌从童年玩具变成投资标的，情怀难敌资本。",
+        "summary": "GameSpot作者回顾90年代末收集宝可梦卡牌的休闲时光，对比30年后卡牌收藏在价格、文化与玩家心态上的巨大变化。",
+        "comment": "宝可梦卡牌从童年爱好变成投资品，时代变了。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Ash-Card-1.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Arc Raiders",
-        "title": "Arc Raiders新赛季通行证将不再完全免费",
-        "link": "https://www.gamespot.com/articles/arc-raiders-battle-pass-wont-be-totally-free-anymore-but-itll-pay-for-itself/",
-        "summary": "Arc Raiders大型更新Frozen Trail将于10月8日上线，更新免费，但新战斗通行证不再完全免费，官方称其可通过游玩回本。",
-        "comment": "通行证转向付费回本模式，考验玩家接受度。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/ArcRaiders_FrozenTrail_Keyart_16-9.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "指环王",
-        "title": "Aspyr 宣布更多《指环王》游戏重制发行",
-        "link": "https://www.gamespot.com/articles/more-lord-of-the-rings-game-re-releases-revealed-and-theyre-great/",
-        "summary": "Aspyr Media 于9月22日公布更多《指环王》游戏重制发行计划，具体作品尚未完全披露，但被评价为值得期待。",
-        "comment": "经典IP重制潮持续，老玩家情怀与新玩家入坑双赢。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/LOTR.png?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威",
-        "title": "漫威金刚狼爪成真，切菜购物两不误",
-        "link": "https://www.gamespot.com/articles/marvels-wolverine-claws-are-real-now-and-your-groceries-dont-stand-a-chance/",
-        "summary": "GameSpot报道，现实中无需接受加拿大黑 ops 改造手术，就能获得漫威金刚狼标志性钢爪。这款周边产品让粉丝体验切割快感，甚至可用于日常购物。",
-        "comment": "漫威周边脑洞大开，娱乐性十足。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Wolverine_51c578.jpg?w=300",
         "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "星球大战",
-        "title": "星球大战：零连销量破百万，但够吗？",
-        "link": "https://www.gamespot.com/articles/star-wars-zero-company-reportedly-hits-1-million-sales-but-will-it-be-enough/",
-        "summary": "市场数据机构Alinea Analytics估算，《星球大战：零连》8月底发售后销量已达100万份，显示该作已找到一定受众。",
-        "comment": "百万销量对星战IP不算亮眼，后续表现待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Zero-Company.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "《生化危机》电影导演公布最爱四款游戏",
-        "link": "https://www.gamespot.com/articles/resident-evil-movie-director-reveals-his-four-favorite-games/",
-        "summary": "新《生化危机》电影导演扎克·克雷格公开了自己最喜欢的四款电子游戏，选择颇为靠谱，引发玩家关注。",
-        "comment": "导演游戏品味在线，或为电影加分。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Cregger.png?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "中美关系",
-        "title": "特朗普与习近平会面，中美竞逐AI主导权",
-        "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-        "summary": "特朗普与习近平面对面会晤，中美在争夺人工智能主导权的同时，寻求将AI置于人类控制之下。",
-        "comment": "AI竞赛已成中美博弈核心议题。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "韦恩斯坦",
-        "title": "韦恩斯坦因性侵被判15年监禁",
-        "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-        "summary": "好莱坞制片人哈维·韦恩斯坦因性侵罪名成立，被判处15年监禁。受害者米里亚姆·哈利表示，此事对她生活和安全感的毁灭性影响可能永远无法消除。",
-        "comment": "好莱坞反性侵运动的重要司法节点。",
-        "image": "",
-        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "伊朗",
         "title": "伊朗总统联大强硬表态：绝不向特朗普屈服",
         "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-        "summary": "伊朗总统佩泽希齐扬在联合国发表强硬讲话，回应特朗普威胁若不尽快达成和平协议将“摧毁”伊朗，称伊朗绝不会“屈膝”。",
-        "comment": "美伊隔空强硬对峙，中东局势再添变数。",
+        "summary": "伊朗总统佩泽希齐扬在联合国发表强硬讲话，回应特朗普威胁称若不能尽快达成和平协议将“摧毁”伊朗，表示伊朗绝不会“屈膝”。",
+        "comment": "美伊隔空交锋升级，谈判前景更趋复杂。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "西班牙",
-        "title": "西班牙87岁老妇遭驱逐，凸显住房危机",
+        "title": "西班牙87岁老妇遭驱逐凸显住房危机",
         "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-        "summary": "马德里87岁租客玛丽卡门因无力支付新业主设定的租金而被驱逐，事件凸显西班牙住房短缺问题。",
-        "comment": "住房危机下，弱势群体首当其冲，政策亟待调整。",
+        "summary": "马德里87岁租客Maricarmen因无力支付新业主设定的租金而被驱逐，事件凸显西班牙住房短缺问题。",
+        "comment": "住房危机下，弱势群体首当其冲。",
         "image": "",
         "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "加拿大毒贩案",
-        "title": "加拿大毒贩案英国幸存者称其利用绝望",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
-        "summary": "英国幸存者Elisabeth Belien在Kenneth Law量刑听证会上表示，她23岁时服下毒药，指控对方利用她的绝望情绪。",
-        "comment": "量刑听证揭示网络售毒对脆弱者的精准伤害。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "多莉·帕顿",
-        "title": "多莉·帕顿经纪人指控其侄子威胁恐吓",
-        "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-        "summary": "多莉·帕顿的经纪人布莱恩·西弗被指控试图勒索其遗产，此前他曾向外界宣布帕顿去世的消息。",
-        "comment": "名人遗产纠纷再起，亲属与经纪人矛盾公开化。",
-        "image": "",
-        "score": 83
       }
     ]
   }
