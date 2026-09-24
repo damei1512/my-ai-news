@@ -3,52 +3,22 @@
     "week": "周二",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "GPT-6 提示缓存优化：命中率提升、延迟成本双降",
-        "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-        "summary": "OpenAI 介绍 GPT-6 提示缓存改进：更高缓存命中率、新增诊断工具、显式断点与精细控制，可降低延迟和成本。",
-        "comment": "缓存优化直击推理成本痛点，实用性提升明显。",
-        "image": "",
-        "score": 100
-      },
-      {
         "category": "游戏影视",
         "tag": "黑曜石",
-        "title": "黑曜石新辐射游戏仍在开发，工作室归入Bethesda旗下",
+        "title": "黑曜石新辐射游戏仍在开发，工作室并入Bethesda",
         "link": "https://www.gamespot.com/articles/obsidians-new-fallout-game-is-still-coming-as-the-studio-moves-under-bethesdas-umbrella/",
-        "summary": "Xbox裁员近300人并调整子公司架构，黑曜石娱乐被划归Bethesda旗下，但其新《辐射》游戏仍在开发中。",
-        "comment": "架构调整不改项目，但Xbox动荡值得关注。",
+        "summary": "Xbox裁员近300人并调整子公司架构，黑曜石娱乐被划归Bethesda旗下，其新《辐射》游戏项目确认仍在推进。",
+        "comment": "架构调整下项目未砍，但黑曜石自主权恐收窄。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/fnv-image.jpg?w=300",
         "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "OPPO",
-        "title": "OPPO新旗舰搭载两亿像素，起售价6799元",
-        "link": "https://www.ifanr.com/1681522?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OPPO发布新旗舰手机，配备两亿像素摄像头，起售价6799元，主打高规格影像配置。",
-        "comment": "两亿像素下放，影像竞争再升级。",
-        "image": "",
-        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "日产",
         "title": "日产新N7上市，10.99万元起售",
         "link": "https://www.ifanr.com/1681515?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "日产新款N7正式上市，起售价10.99万元，配置升级且价格下调，延续“沙发厂”舒适卖点。",
-        "comment": "加量降价，日产想用性价比抢市场。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "岚图",
-        "title": "岚图梦想家9涨价9万，41.99万元起售",
-        "link": "https://www.ifanr.com/1681478?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "岚图梦想家9上市，起售价41.99万元，较前代涨价9万元，主打更具体的旗舰感，引发市场对其定价合理性的讨论。",
-        "comment": "涨价9万，岚图品牌力能否撑起40万级定价？",
+        "summary": "日产新款N7正式上市，起售价10.99万元，配置升级且价格下调，主打舒适性，延续“沙发厂”口碑。",
+        "comment": "加量降价，日产在新能源市场放下身段。",
         "image": "",
         "score": 90
       }
