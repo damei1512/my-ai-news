@@ -3,12 +3,52 @@
     "week": "周五",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "Lightspeed",
+        "title": "Lightspeed拟为印度新基金募资2.5亿美元，聚焦早期AI",
+        "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+        "summary": "Lightspeed首次将印度募资周期与全球基金对齐，转向更短投资周期，目标募资2.5亿美元，重点投向早期AI项目。",
+        "comment": "印度AI早期投资升温，Lightspeed加速卡位。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影",
+        "title": "Ebon Moss-Bachrach洽谈加盟《盗火线2》",
+        "link": "https://www.ign.com/articles/ebon-moss-bachrach-in-final-talks-for-heat-2-role",
+        "summary": "迈克尔·曼的《盗火线2》将于11月开拍，《熊家餐馆》的埃邦·莫斯-巴赫拉赫正洽谈饰演凯尔索，该角色原由汤姆·努南饰演。",
+        "comment": "原班底重启，选角延续曼恩的硬派风格。",
+        "image": "https://assets-prd.ignimgs.com/2023/12/14/best-character-2023-richie-1702554357482.jpg",
+        "score": 93
+      },
+      {
         "category": "数码科技",
         "tag": "鸿蒙",
-        "title": "早报：网易云音乐鸿蒙版上线，任正非重申华为不造车",
+        "title": "网易云音乐鸿蒙版上线，任正非重申华为不造车",
         "link": "https://www.ifanr.com/1682171?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "网易云音乐鸿蒙版正式上线；任正非重申华为不造车；腾讯QClaw将停运；腾讯WorkBuddy上线微信小程序生成发布能力；Google下周测试TPU太空运行；尼康发布9999元Z5IIC相机。",
+        "summary": "网易云音乐鸿蒙版正式上线；任正非重申华为不造车；腾讯QClaw将停运，WorkBuddy上线微信小程序生成发布能力；Google下周测试TPU太空运行；尼康发布9999元Z5IIC相机。",
         "comment": "鸿蒙生态补关键应用，华为造车边界再明确。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "野间崇史与GOOD SMILE COMPANY启动全新IP《炽焰界》",
+        "link": "https://www.gcores.com/articles/220236",
+        "summary": "Monochrome与GOOD SMILE COMPANY公布全新IP《炽焰界》，首款游戏《黎明凝视者》由野间崇史团队开发，先导PV已公开。",
+        "comment": "野间崇史新IP值得关注，但游戏尚在开发中。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "AI安全",
+        "title": "硅谷AI巨头呼吁减速，真心还是策略？",
+        "link": "https://www.gcores.com/radios/220234",
+        "summary": "Anthropic CEO阿莫迪呼吁放缓前沿大模型迭代，硅谷闭源实验室集体响应，但一边呼吁刹车一边加码算力投入，引发对其动机与可行性的讨论。",
+        "comment": "呼吁减速与加码投入并行，更像话语策略而非真刹车。",
         "image": "",
         "score": 91
       },
@@ -24,53 +64,93 @@
       },
       {
         "category": "游戏影视",
+        "tag": "Steam",
+        "title": "俯视角PVE搜打撤《查无此地》定档10月14日",
+        "link": "https://www.gcores.com/articles/220223",
+        "summary": "凉屋游戏暴击组开发的俯视角射击撤离游戏《查无此地》将于10月14日在Steam开启抢先体验，玩家扮演U.R.C.成员进入破碎维度搜集物资并撤离。",
+        "comment": "搜打撤赛道再添新兵，凉屋能否打出差异值得关注。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
         "tag": "游戏联动",
         "title": "《开球! REMATCH》第五赛季联动《蓝色监狱》",
         "link": "https://www.gcores.com/articles/220222",
-        "summary": "Sloclap推出《开球! REMATCH》第五赛季，9月24日至10月23日与动画《蓝色监狱》联动，新增限时模式、活动通行证、外观奖励及角色捆绑包。",
-        "comment": "足球游戏借动漫IP联动，是拉新与留存的有效手段。",
+        "summary": "Sloclap推出《开球! REMATCH》第五赛季，9月24日至10月23日联动《蓝色监狱》，带来新限时模式、活动通行证、外观奖励及角色捆绑包。",
+        "comment": "足球游戏借动画IP联动，是拉新与留存的有效手段。",
         "image": "",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "Steam",
-        "title": "俯视角PVE搜打撤《查无此地》10月14日Steam抢先体验",
-        "link": "https://www.gcores.com/articles/220223",
-        "summary": "凉屋游戏暴击组开发的俯视角射击撤离游戏《查无此地》定档10月14日Steam抢先体验。玩家扮演U.R.C.成员，在维度碎片中搜集物资、对抗威胁并限时撤离。",
-        "comment": "搜打撤赛道再添新兵，凉屋能否做出差异化值得观察。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Steam",
-        "title": "拆卡模拟器《再拆亿包！》公布 将登Steam",
+        "title": "拆卡模拟器《再拆亿包！》公布 即将登陆Steam",
         "link": "https://www.gcores.com/articles/220225",
-        "summary": "Cybernetic Walrus公布卡牌收集模拟游戏《再拆亿包！》，主打拆包操作触感与数千张卡牌收集整理，即将登陆Steam并支持中文。",
-        "comment": "拆卡上瘾感做成游戏，题材讨巧但需防玩法单薄。",
+        "summary": "Cybernetic Walrus公布卡牌收集模拟游戏《再拆亿包！》，主打拆包操作触感，可收集整理数千张卡牌，即将登陆Steam并支持中文。",
+        "comment": "拆卡上瘾体验做成游戏，题材讨巧但需防玩法单薄。",
         "image": "",
-        "score": 88
+        "score": 89
       },
       {
         "category": "时事热点",
-        "tag": "美国政治",
-        "title": "特朗普封杀媒体被拒白宫晚宴采访",
+        "tag": "白宫",
+        "title": "法官令恢复采访证 白宫仍拒CNN等媒体晚宴报道",
         "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-        "summary": "CNN与MS NOW称，尽管法官裁定恢复其记者通行证，白宫仍拒绝其记者采访国宴到访环节。",
-        "comment": "行政权与司法裁决的公开对抗。",
+        "summary": "CNN与MS NOW记者称，尽管法官裁定应恢复其采访证，他们仍被禁止报道白宫国宴。",
+        "comment": "行政权与司法裁决的公开对抗，新闻自由再受考验。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "中美关系",
+        "title": "习近平获特朗普红毯欢迎，但未如愿以偿",
+        "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC报道称，中国希望在贸易、技术和台湾问题上取得进展，但实际收获不及预期。",
+        "comment": "红毯礼遇难掩实质分歧，中美博弈仍存变数。",
+        "image": "",
+        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "以色列",
         "title": "内塔尼亚胡联大演讲前多国代表退场",
         "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列总理内塔尼亚胡在联合国大会演讲前遭遇多国代表退场，他称离场者为“道德懦夫”，并为其军事行动辩护。",
-        "comment": "联大退场凸显以色列外交孤立加剧。",
+        "summary": "内塔尼亚胡在联合国大会演讲前，多国代表集体退场。他随后为以色列军事行动辩护，并称退场者为“道德懦夫”。",
+        "comment": "联大退场凸显以色列外交孤立加深。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "非洲基建",
+        "title": "非洲首富出资6.6亿美元建埃塞俄比亚至吉布提燃油管道",
+        "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+        "summary": "非洲首富出资参与建设连接埃塞俄比亚和吉布提的6.6亿美元燃油管道，旨在加强内陆国埃塞俄比亚的能源安全，并在吉布提港口创造就业。",
+        "comment": "私营资本介入非洲跨境基建，能源安全与就业双赢。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "中美关系",
+        "title": "特朗普与习近平国宴互致善意，关键议题无进展",
+        "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普与习近平在国宴上互致善意并互赠礼物，但双方在关键分歧议题上未取得实质进展。",
+        "comment": "外交礼节难掩分歧，实质突破仍需观察。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "教皇",
+        "title": "教皇访巴黎 预计数十万人到场",
+        "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+        "summary": "教皇访问巴黎，重头戏是一场预计超过50万人参加的大型弥撒，巴黎将迎来大规模人流。",
+        "comment": "宗教盛事叠加安保压力，巴黎考验不小。",
+        "image": "",
+        "score": 85
       }
     ]
   }
