@@ -3,22 +3,42 @@
     "week": "周四",
     "articles": [
       {
+        "category": "数码科技",
+        "tag": "Meta",
+        "title": "Meta新眼镜以低价轻量挑战Vision Pro",
+        "link": "https://www.ifanr.com/1682116?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "Meta推出新眼镜，价格仅为Vision Pro的三分之一，重量仅为其八分之一，定位为面向超级智能的穿戴设备。",
+        "comment": "轻量与低价或成XR普及关键变量。",
+        "image": "",
+        "score": 92
+      },
+      {
         "category": "游戏影视",
         "tag": "任天堂",
-        "title": "任天堂被曝取消育碧开发的加农道夫主角塞尔达游戏",
+        "title": "任天堂据报取消育碧开发的加农道夫主角塞尔达游戏",
         "link": "https://www.gamespot.com/articles/nintendo-reportedly-canceled-a-ubisoft-developed-zelda-game-starring-ganondorf/",
-        "summary": "据报道，育碧曾开发一款以反派加农道夫为主角的塞尔达传说游戏，但该项目已被任天堂取消，具体细节尚未公开。",
-        "comment": "塞尔达衍生作被砍，育碧与任天堂合作再添遗憾。",
+        "summary": "据报道，任天堂曾取消一款由育碧开发、以反派加农道夫为主角的塞尔达游戏。近年塞尔达新作不断，但这款另类作品最终未能问世。",
+        "comment": "育碧操刀塞尔达反派主角，夭折令人惋惜。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/4226365-sexyganon.webp?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "Meta",
-        "title": "Meta新眼镜以低价轻量挑战Vision Pro",
-        "link": "https://www.ifanr.com/1682116?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，Meta新眼镜价格仅为Vision Pro的三分之一，重量仅为其八分之一，定位为面向超级智能的穿戴设备。",
-        "comment": "轻量与低价或成XR普及关键变量。",
+        "tag": "新能源汽车",
+        "title": "奕境X9上市28.98万元起，华为系大六座新选项",
+        "link": "https://www.ifanr.com/1682142?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "奕境X9正式上市，起售价28.98万元，定位大六座SUV，搭载华为系技术方案，为华为生态车型增添新选择。",
+        "comment": "华为系再添大六座，价格下探或搅动市场。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "HarmonyOS",
+        "title": "小团队创意如何在HarmonyOS 7落地",
+        "link": "https://www.ifanr.com/1682085?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿分析小团队创意在HarmonyOS 7上变为现实的原因，指出系统承担底层能力，产品团队可专注灵感与体验创新。",
+        "comment": "系统能力下沉，小团队创新门槛降低。",
         "image": "",
         "score": 91
       },
@@ -27,7 +47,7 @@
         "tag": "小米",
         "title": "小米18 Pro系列发布，5999元起售",
         "link": "https://www.ifanr.com/1682002?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米18 Pro系列新品发布会公布起售价5999元，具体配置与亮点未在摘要中展开，需查看原文获取完整信息。",
+        "summary": "小米18 Pro系列新品发布会公布起售价5999元，定位高端旗舰，具体配置与开售信息待官方进一步披露。",
         "comment": "定价上探，小米高端化再进一步。",
         "image": "",
         "score": 91
@@ -37,8 +57,8 @@
         "tag": "高通",
         "title": "高通骁龙峰会发布多款个人AI平台",
         "link": "https://www.ifanr.com/1682048?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "高通在为期两天的骁龙峰会上推出覆盖手机、电脑、耳机、手表、眼镜及VR/XR的全新平台，宣称已为个人AI时代做好准备。",
-        "comment": "全场景布局，但个人AI落地仍待验证。",
+        "summary": "高通在为期两天的骁龙峰会上发布覆盖手机、电脑、耳机、手表、眼镜及VR/XR的全新平台，宣称已为个人AI时代做好准备。",
+        "comment": "高通正把AI从手机扩展到全场景终端。",
         "image": "",
         "score": 91
       },
@@ -47,18 +67,8 @@
         "tag": "高通",
         "title": "高通布局全设备AI，欲包办用户AI体验",
         "link": "https://www.ifanr.com/1681946?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "高通提出AI下一站是全设备覆盖，意在通过芯片与终端整合，主导用户跨设备的AI体验入口。",
-        "comment": "芯片厂商正从底层争夺AI生态主导权。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Ninjala 2",
-        "title": "TGS2026机核专访《Ninjala 2》总监",
-        "link": "https://www.gcores.com/articles/220227",
-        "summary": "Gungho在TGS 2026公布《Ninjala 2》，距前作登陆Switch已六年。新作从前作PvP对战转向PvE开放世界动作游戏，保留高速移动与动作特色。",
-        "comment": "忍者IP转型开放世界，成败看执行。",
+        "summary": "高通提出AI下一站是全设备覆盖，意在通过芯片与终端整合，包办用户的AI体验，推动AI从单一设备走向多设备协同。",
+        "comment": "高通抢滩全设备AI入口，生态整合是关键。",
         "image": "",
         "score": 91
       },
@@ -67,18 +77,8 @@
         "tag": "汽车",
         "title": "全新旅行者7开启预售，14.99万元起",
         "link": "https://www.ifanr.com/1682158?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "全新旅行者7正式开启预售，起售价14.99万元，提供插混与燃油两种动力选择，满足不同用户需求。",
-        "comment": "双动力布局覆盖更广，价格有竞争力。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "新能源汽车",
-        "title": "奕境X9上市28.98万元起，华为系大六座新选项",
-        "link": "https://www.ifanr.com/1682142?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "奕境X9正式上市，起售价28.98万元，定位大六座SUV，搭载华为系技术方案，为家庭用户提供新选择。",
-        "comment": "华为技术加持，奕境X9以性价比切入大六座市场。",
+        "summary": "全新旅行者7开启预售，起售价14.99万元，提供插混与燃油两种动力选择，兼顾不同用户需求。",
+        "comment": "双动力布局务实，价格有竞争力。",
         "image": "",
         "score": 90
       },
@@ -88,17 +88,7 @@
         "title": "00后开发者推荐鸿蒙新能力",
         "link": "https://www.ifanr.com/1682109?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "三位00后鸿蒙开发者分享AI在鸿蒙开发中的实际作用，以及哪些细节仍需人工打磨，展现AI原生时代的工作方式。",
-        "comment": "AI提效但打磨仍靠人，开发者经验值得关注。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "HarmonyOS",
-        "title": "小团队创意如何在HarmonyOS 7落地",
-        "link": "https://www.ifanr.com/1682085?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析HarmonyOS 7如何降低开发门槛，让小团队专注产品创意，底层能力由系统承担。",
-        "comment": "系统能力下沉，小团队创新空间被打开。",
+        "comment": "一线开发者视角比官方宣传更有参考价值。",
         "image": "",
         "score": 90
       },
@@ -107,8 +97,18 @@
         "tag": "智能手表",
         "title": "智能手表新趋势：小团队用减法抢占穿戴蓝海",
         "link": "https://www.ifanr.com/1681759?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道称，智能手表竞争转向做减法，小团队聚焦手腕上的小需求，以几秒钟的体验切入穿戴新蓝海。",
+        "summary": "爱范儿报道，智能手表领域出现新思路，小团队通过聚焦几秒钟的小需求，以做减法的方式在穿戴设备市场寻找新机会。",
         "comment": "减法策略或成穿戴设备差异化突破口。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Ninjala 2",
+        "title": "TGS2026机核专访《Ninjala 2》总监",
+        "link": "https://www.gcores.com/articles/220227",
+        "summary": "Gungho在TGS 2026公布《Ninjala 2》，距初代登陆Switch已六年。新作从前作PvP对战转向PvE开放世界动作游戏，保留高速移动与动作特色。",
+        "comment": "玩法大转向，开放世界能否撑起忍者IP值得观察。",
         "image": "",
         "score": 90
       },
@@ -117,18 +117,18 @@
         "tag": "索尼克",
         "title": "TGS2026专访索尼克赛车制作人：35周年与哥斯拉EVA联动",
         "link": "https://www.gcores.com/articles/220226",
-        "summary": "索尼克系列35周年之际，制作人饭冢隆在TGS2026受访，谈及《索尼克赛车：交叉世界》第二赛季与哥斯拉、新世纪福音战士的联动内容及未来规划。",
-        "comment": "35周年联动哥斯拉与EVA，索尼克试图用IP碰撞延续热度。",
+        "summary": "索尼克系列迎来35周年，SEGA推出纪念企划。TGS2026期间，《索尼克赛车：交叉世界》公布第二赛季内容，包括哥斯拉与EVA联动。制作人饭冢隆接受专访。",
+        "comment": "35周年借联动造势，索尼克IP运营思路清晰。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "电影",
-        "title": "麦登电影首支完整预告片令人困惑",
+        "title": "麦登传记片首支完整预告令人困惑",
         "link": "https://www.gamespot.com/articles/first-full-madden-movie-trailer-has-us-so-very-confused/",
-        "summary": "大卫·O·拉塞尔执导、尼古拉斯·凯奇主演的约翰·麦登传记片发布首支完整预告片，但内容令人完全摸不着头脑。",
-        "comment": "预告片风格混乱，传记片定位成谜。",
+        "summary": "大卫·O·拉塞尔执导、尼古拉斯·凯奇主演的约翰·麦登传记片发布首支完整预告，GameSpot称看完完全摸不着头脑。",
+        "comment": "预告风格诡异，成片质量令人存疑。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-24-at-4.34.33-PM.jpg?w=300",
         "score": 90
       },
@@ -137,8 +137,8 @@
         "tag": "电锯惊魂",
         "title": "《电锯惊魂：创世纪》抢先体验推迟至2027年",
         "link": "https://www.gamespot.com/articles/the-best-news-for-saw-genesis-is-we-have-to-wait-longer-to-play-it/",
-        "summary": "Bloober Team宣布，《电锯惊魂：创世纪》原定2026年推出的抢先体验版推迟至2027年，这款非对称多人恐怖游戏将延后与玩家见面。",
-        "comment": "延期未必是坏事，打磨品质比赶工更重要。",
+        "summary": "Bloober Team宣布，《电锯惊魂：创世纪》原定2026年推出的抢先体验版将推迟至2027年，这款非对称多人恐怖游戏因此延期。",
+        "comment": "延期或为打磨品质，但恐怖游戏市场竞争激烈。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/ss_8b5d22f46341214530ecdd8786e76203043dfbd3.1920x1080.webp?w=300",
         "score": 89
       },
@@ -147,20 +147,10 @@
         "tag": "恐怖游戏",
         "title": "《Saraab: Beyond the Veil》11月3日发售",
         "link": "https://www.gamespot.com/articles/in-saraab-beyond-the-veil-your-inner-demons-are-coming-for-you-this-november/",
-        "summary": "独立开发者Lubna Ahmed宣布，恐怖冒险游戏《Saraab: Beyond the Veil》将于11月3日推出，玩家将在游戏中直面内心恶魔。",
-        "comment": "独立恐怖新作定档，题材契合万圣节后档期。",
+        "summary": "独立开发者Lubna Ahmed宣布恐怖冒险游戏《Saraab: Beyond the Veil》将于11月3日发售，玩家将在游戏中直面内心恶魔。",
+        "comment": "独立恐怖游戏再添新作，11月档期值得关注。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Saraab.jpg?w=300",
         "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "播客",
-        "title": "安利之王推荐战争狗与金刚狼",
-        "link": "https://www.gcores.com/radios/219911",
-        "summary": "机核《安利之王》新一期，安利灵魂导师组合推荐游戏《战争狗》，并感叹《金刚狼》太难安利，附时间轴制作信息。",
-        "comment": "游戏安利节目，选题有趣但信息量有限。",
-        "image": "",
-        "score": 87
       }
     ]
   }
