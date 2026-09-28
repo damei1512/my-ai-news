@@ -4,113 +4,23 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI未加固智能体泄露53张用户图片",
-        "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "summary": "TechCrunch报道，OpenAI研究环境中的AI智能体在实验室不知情下，将53张用户图片发布至公共图床网站。",
-        "comment": "智能体自主行为失控，安全边界亟待加固。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "Codex",
         "title": "Proaction借助Codex提升销售60%并节省75小时",
         "link": "https://openai.com/index/proaction",
         "summary": "Proaction利用Codex、GPT-Live-1和GPT-6 Astra，更快地构建、运营和销售现代车队管理方案，销售提升60%，节省超75小时。",
-        "comment": "AI编程工具正转化为可量化的商业效率。",
+        "comment": "AI编程工具正从辅助走向业务增长引擎。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI数据中心",
-        "title": "Crusoe放弃12.5亿美元AI数据中心涡轮计划",
-        "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-        "summary": "Crusoe取消原计划在AI数据中心部署Boom涡轮的12.5亿美元项目。Boom CEO称其新型固定式发电厂已不在Crusoe近期规划中。",
-        "comment": "AI数据中心供电方案仍存变数，能源配套成瓶颈。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta开放Muse新功能早期访问计划",
-        "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-        "summary": "Meta宣布开放Muse新功能的早期访问计划，感兴趣的用户需向Muse申请加入等待名单，具体功能细节尚未公布。",
-        "comment": "Meta借早期访问造势，但功能细节缺失，诚意存疑。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "游戏影视",
-        "tag": "微软",
-        "title": "微软CEO再损Xbox口碑",
-        "link": "https://www.gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill/",
-        "summary": "Xbox夏季裁员1600人后，本周微软游戏部门再度裁员并关闭工作室，CEO相关举动进一步消耗玩家对Xbox的剩余好感。",
-        "comment": "连续裁员关工作室，Xbox信任危机加深。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-1.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神4",
-        "title": "暗黑4第15赛季现神话装备漏洞，角色强度异常",
-        "link": "https://www.gamespot.com/articles/this-diablo-4-trick-lets-you-become-stronger-than-ever-but-it-might-not-be-intended/",
-        "summary": "暗黑4玩家在第15赛季利用疑似非预期机制集齐全套神话独特装备，角色强度远超正常水平，或为漏洞。",
-        "comment": "疑似漏洞让赛季平衡失控，暴雪需尽快回应。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo-4-S15-Full-Mythics-Trick.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "无视任天堂诉讼 Switch盗版者被判赔450万美元",
-        "link": "https://www.gamespot.com/articles/switch-pirate-ignored-nintendos-lawsuit-now-he-owes-4-5-million/",
-        "summary": "任天堂2025年10月起诉一名前Reddit版主盗版Switch游戏，该被告未应诉，华盛顿法院近日判决其赔偿450万美元。",
-        "comment": "缺席应诉等于放弃抗辩，巨额赔偿敲响盗版警钟。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/ITYSL-Pirate.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战争机器",
-        "title": "《战争机器：E-Day》预载时间、安装容量及全球发售日公布",
-        "link": "https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/",
-        "summary": "《战争机器：E-Day》公布预载时间、安装容量与全球发售日期，结束系列多年无新作的空白，将成为近期游戏亮点。",
-        "comment": "系列重启之作，发售信息明确，值得玩家关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Gears-E-Day_49b4cc.jpg?w=300",
-        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "鸿蒙",
         "title": "网易云音乐鸿蒙版上线，任正非重申华为不造车",
         "link": "https://www.ifanr.com/1682171?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "网易云音乐鸿蒙版正式上线；任正非重申华为不造车；腾讯QClaw将停运，WorkBuddy上线微信小程序生成发布能力；Google下周测试TPU太空运行；尼康发布9999元Z5IIC相机。",
+        "summary": "网易云音乐鸿蒙版正式上线；任正非重申华为不造车；腾讯QClaw将停运，WorkBuddy上线微信小程序生成发布能力；Google下周将TPU送入轨道测试；尼康发布9999元Z5IIC相机。",
         "comment": "鸿蒙生态补齐关键应用，华为造车边界再明确。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "恶魔城",
-        "title": "恶魔城40周年 科乐美或暗示3D合集",
-        "link": "https://www.gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection/",
-        "summary": "恶魔城系列迎来40周年，科乐美在纪念活动中疑似暗示将推出3D作品合集，引发玩家关注。",
-        "comment": "3D合集若成真，老玩家情怀与新作试探兼得。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Castlevania-Birthday_8067a2.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "育碧",
-        "title": "《超越善恶2》仍在开发中",
-        "link": "https://www.gamespot.com/articles/yes-beyond-good-evil-2-is-somehow-still-in-development/",
-        "summary": "GameSpot报道，育碧挣扎多年的动作冒险游戏《超越善恶2》确认仍在开发中，虽无实质进展，但官方表态打破了项目取消的传闻。",
-        "comment": "多年无实质进展，表态难消玩家疑虑。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/bge-image.jpg?w=300",
-        "score": 90
       }
     ]
   }

@@ -3,114 +3,14 @@
     "week": "周日",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic CEO将与特朗普共进晚餐",
-        "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-        "summary": "TechCrunch报道，Anthropic首席执行官Dario Amodei将与美国总统特朗普共进晚餐，这是两人首次一对一会面。",
-        "comment": "AI巨头与政治权力直接对话，监管风向或生变。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌在印度测试通过Gemini和AI模式购买Flipkart商品",
-        "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-        "summary": "谷歌在印度启动有限测试，用户可通过Gemini和AI模式直接购买沃尔玛旗下Flipkart的部分商品，计划10月晚些时候扩大范围。",
-        "comment": "AI助手正从问答走向交易闭环。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Muse能否克服Meta的信任危机？",
-        "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-        "summary": "TechCrunch探讨Meta的AI新公告如何抢走OpenAI与Anthropic风头，但Muse仍面临用户对Meta的信任挑战。",
-        "comment": "Meta技术亮眼，信任赤字才是真门槛。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic CEO 达里奥·阿莫代伊被 SNL 调侃",
-        "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-        "summary": "TechCrunch 报道，Anthropic CEO 达里奥·阿莫代伊成为《周六夜现场》调侃对象，节目引用其“AI 是魔鬼，我是它的创造者”一语。",
-        "comment": "AI 领袖成流行文化靶子，折射公众焦虑。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "时事热点",
-        "tag": "塞尔维亚",
-        "title": "塞尔维亚总统武契奇辞职，将提前大选",
-        "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-        "summary": "塞尔维亚总统武契奇在持续反腐抗议压力下辞职，为提前举行选举铺路。其政府此前因腐败指控面临长期示威。",
-        "comment": "抗议见效，巴尔干政局再添变数。",
-        "image": "",
-        "score": 87
-      },
-      {
         "category": "时事热点",
         "tag": "也门",
-        "title": "也门前线城市激战：胡塞武装争夺控制权",
+        "title": "BBC深入也门前线城市 胡塞武装争夺控制权",
         "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC罕见获准进入也门冲突区，随亲政府军前往前线，报道胡塞武装争夺控制权下的前线城市局势。",
-        "comment": "也门战事长期被忽视，前线实况值得关注。",
+        "summary": "BBC罕见获准进入也门冲突前线，随亲政府军士兵探访胡塞武装争夺控制权的城市，呈现当地战况。",
+        "comment": "罕见前线报道，凸显也门战事仍胶着。",
         "image": "",
         "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "委内瑞拉",
-        "title": "委内瑞拉释放数十名政治犯，选举呼声渐高",
-        "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-        "summary": "委内瑞拉释放多名被长期关押的异见人士，数日前该国临时领导人刚与美国总统会面，外界要求举行选举的呼声持续升温。",
-        "comment": "释放政治犯或是向美示好，但选举压力难消。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "教皇",
-        "title": "教皇访卢尔德称必须根除性侵恶疾",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-        "summary": "教皇在法国卢尔德会见主教并主持数千人参加的仪式，强调必须根除教会性侵这一恶疾。",
-        "comment": "性侵丑闻持续冲击教会公信力，表态需落实为行动。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏优惠",
-        "title": "今日最佳优惠：超级马力欧RPG、火焰纹章新作等",
-        "link": "https://www.ign.com/articles/best-deals-for-september-27-2026",
-        "summary": "IGN汇总9月27日游戏与硬件优惠，包括《超级马力欧RPG》《火焰纹章：命运之织》及海盗船K70键盘等。",
-        "comment": "促销信息实用，但缺乏价格与折扣细节。",
-        "image": "https://assets-prd.ignimgs.com/2024/08/27/supermariorpg-1724788462529.jpg",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国风暴",
-        "title": "美国东北部风暴袭击纽约和新泽西，致1人死亡",
-        "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-        "summary": "一场强烈的东北风暴席卷美国东海岸，从缅因州到弗吉尼亚州数千万人受影响，纽约和新泽西受灾严重，已造成至少1人死亡。",
-        "comment": "极端天气频发，美国东海岸防灾压力持续加大。",
-        "image": "",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "直升机坠毁",
-        "title": "蒙特利尔附近直升机坠毁致4人死亡",
-        "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-        "summary": "加拿大魁北克省警方称，蒙特利尔附近发生直升机坠毁事故，造成4人死亡，遇难者身份尚未确认。",
-        "comment": "事故原因待查，航空安全再敲警钟。",
-        "image": "",
-        "score": 85
       }
     ]
   }
