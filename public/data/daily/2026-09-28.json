@@ -4,51 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI融资",
-        "title": "Modal Labs 拟融资7.5亿美元，估值达157.5亿",
-        "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-        "summary": "据TechCrunch报道，AI推理服务商Modal Labs即将完成7.5亿美元融资，估值达157.5亿美元，较四个月前增长逾两倍。",
-        "comment": "AI推理基础设施估值飙升，资本押注算力需求。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AMD",
-        "title": "AMD 82亿美元收购李飞飞World Labs",
-        "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-        "summary": "AMD宣布以82亿美元收购李飞飞创办的World Labs，李飞飞将出任AMD执行副总裁兼首席科学家。",
-        "comment": "芯片巨头押注空间智能，AI人才争夺再升级。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Shopify",
-        "title": "Shopify结账向浏览器AI代理开放",
-        "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-        "summary": "Shopify将WebMCP支持扩展至结账环节，浏览器AI代理可在买家授权下更新订单信息并完成购买。",
-        "comment": "电商结账入口向AI代理开放，支付授权与安全边界成关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达推出管控失控AI智能体的新平台",
-        "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-        "summary": "英伟达CEO黄仁勋发布软硬件工具包，为AI智能体增加独立安全层，确保其行为不超出测试范围。",
-        "comment": "AI智能体安全治理正从理念走向产品化。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI就澳大利亚政府网站事件致歉",
+        "title": "OpenAI就涉澳政府网站事件致歉并承诺加强防护",
         "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-        "summary": "OpenAI就涉及澳大利亚政府网站的事件致歉，并公布更严格的保障措施与支持方案，以协助加强澳大利亚网络防御。",
-        "comment": "AI安全事件频发，平台责任与监管协作亟待加强。",
+        "summary": "OpenAI就涉及澳大利亚政府网站的事件致歉，并公布更严格的防护措施与支持方案，以协助强化澳大利亚网络防御能力。",
+        "comment": "AI巨头安全事件波及政府网站，整改承诺待检验。",
         "image": "",
         "score": 100
       },
@@ -58,17 +18,27 @@
         "title": "OpenAI发布前沿AI训练安全案例指南",
         "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
         "summary": "OpenAI发布前沿AI训练安全案例早期指南，涵盖技术保障、操作实践及失准事件调查，旨在为高风险模型训练建立安全论证框架。",
-        "comment": "安全案例制度化，是前沿AI治理的关键一步。",
+        "comment": "安全案例从原则走向工程化，但落地效果仍待验证。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI扩大与Lenfest研究所合作",
+        "title": "OpenAI扩大对Lenfest人工智能项目支持",
         "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-        "summary": "OpenAI宣布扩大Lenfest AI协作与奖学金项目，提供500万美元资金及最高500万美元软件额度和工程支持。",
-        "comment": "资金加算力，OpenAI深耕新闻业AI落地。",
+        "summary": "OpenAI宣布扩大Lenfest人工智能协作与奖学金项目，提供500万美元资金及最高500万美元软件额度和工程支持。",
+        "comment": "OpenAI借资助新闻业，扩大AI生态影响力。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI：GPT-6 Astra 让 Basis 报税工作簿处理提速一倍",
+        "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+        "summary": "OpenAI 称 GPT-6 Astra 完成 50 标签页报税工作簿的速度是 GPT-5.6 Sol 的两倍，对用户意图理解更强，让 Basis 对实际应用更有信心。",
+        "comment": "模型迭代正从跑分转向真实业务效率。",
         "image": "",
         "score": 100
       },
@@ -77,190 +47,20 @@
         "tag": "OpenAI",
         "title": "OpenAI征集Codex用户真实故事",
         "link": "https://openai.com/form/codex-originals",
-        "summary": "OpenAI发起Codex Originals征集，面向开发者、研究者与创作者，收集使用Codex完成项目的真实案例，入选者将参与Codex下一阶段内容。",
-        "comment": "征集用户故事，为Codex生态造势。",
+        "summary": "OpenAI发起Codex Originals征集，面向开发者、研究者与创作者，收集使用Codex完成项目的真实案例，入选者或参与Codex下一阶段内容。",
+        "comment": "征集案例，意在为Codex生态造势。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI：GPT-6 Astra助Basis税务工作簿提速两倍",
-        "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-        "summary": "OpenAI称，GPT-6 Astra完成50个标签页的税务工作簿，速度是GPT-5.6 Sol的两倍，且对用户意图理解更强，让Basis对实际应用更有信心。",
-        "comment": "模型迭代正从拼参数转向拼真实任务效率。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI 据报因安全顾虑放弃新模型",
-        "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-        "summary": "TechCrunch 援引《华尔街日报》报道，OpenAI 一名高管称涉事模型指令遵循能力不佳，因此决定放弃该模型。",
-        "comment": "安全与服从性成模型取舍关键，值得关注。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "AI热潮席卷气候周，引发业界分歧",
-        "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-        "summary": "TechCrunch报道，AI与数据中心成为气候周焦点，气候科技创始人和投资者对此态度分裂，争议加剧。",
-        "comment": "AI抢镜气候周，能源与气候矛盾待解。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic发布Sonnet 5.5，更便宜更快",
-        "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-        "summary": "Anthropic推出中端模型Sonnet 5.5，主打更快响应与更低token消耗，定位为更经济高效的工作伙伴。",
-        "comment": "中端模型价格战升级，性价比成竞争焦点。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌将停用Gemini的Gems功能，转向Skills",
-        "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-        "summary": "随着Meta的Muse和Instinct等一体化AI代理兴起，谷歌决定终止用于构建特定任务代理的Gems功能，转而推出Skills。",
-        "comment": "AI代理竞争加剧，谷歌调整策略应对。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "《生化危机》新电影上映两周打破系列票房纪录",
-        "link": "https://www.gamespot.com/articles/resident-evil-movie-demolishes-franchise-record-after-just-two-weekends/",
-        "summary": "扎克·克雷格执导的《生化危机》新片口碑强劲，第二个周末票房再创系列新高，上映仅两周便刷新多项 franchise 纪录。",
-        "comment": "口碑驱动票房，系列重启初见成效。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/REMovie-Large-1.jpeg?w=300",
-        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "鸿蒙智行",
         "title": "智界RX上市，余承东称鸿蒙智行最好开的车",
         "link": "https://www.ifanr.com/1682272?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为鸿蒙智行旗下智界RX正式上市，起售价25.98万元。余承东称其为鸿蒙智行最好开的车，智界迎来背水一战。",
-        "comment": "智界急需爆款，定价与产品力是关键考验。",
+        "summary": "华为鸿蒙智行旗下智界RX正式上市，起售价25.98万元，余承东称其为最好开的车，被视为智界背水一战。",
+        "comment": "价格有诚意，但智界能否翻身仍看交付。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "豆包",
-        "title": "豆包输入法大更新，AI入口回归键盘",
-        "link": "https://www.ifanr.com/1682232?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "豆包输入法迎来大更新，主打用AI减少输入折腾，让键盘重新成为最自然的AI交互入口。",
-        "comment": "输入法正成为AI落地的新战场。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "粉丝将《生化危机》电影角色做成RE2模组",
-        "link": "https://www.ign.com/articles/resident-evil-fans-have-already-modded-austin-abrams-character-from-the-movie-into-re2",
-        "summary": "《生化危机》电影全球上映之际，有粉丝已将奥斯汀·艾布拉姆斯饰演的布莱恩制作成《生化危机2》模组。",
-        "comment": "电影未热，模组先行，粉丝热情可见一斑。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/24/resident-evil-movie-trailer-comments-1784908375651.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界：永恒测试服持续扩容",
-        "link": "https://www.gamespot.com/articles/wow-forevers-beta-just-keeps-getting-bigger/",
-        "summary": "《魔兽世界：永恒》测试服热度高涨，暴雪不得不增加服务器容量，这或许预示着正式上线将非常火爆。",
-        "comment": "测试服火爆，正式服表现值得期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Beta-Popularity.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "巫师",
-        "title": "《巫师》粉丝迎来多款新作与重制版",
-        "link": "https://www.gamespot.com/articles/witcher-fans-are-eating-well/",
-        "summary": "GameSpot报道，《巫师》系列未来几年将推出大量新内容，本周率先发布《巫师3》重制版，后续还有更多项目。",
-        "comment": "巫师IP进入密集产出期，粉丝值得期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/W3.png?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "最后生还者",
-        "title": "《最后生还者》第三季新增约翰·古德曼等演员",
-        "link": "https://www.gamespot.com/articles/the-last-of-us-season-3-adds-john-goodman-and-even-more-actors-from-the-games/",
-        "summary": "HBO公布《最后生还者》第三季更多选角，约翰·古德曼加盟，游戏配音演员劳拉·贝利等也将出演，该季可能是最终季。",
-        "comment": "游戏原班人马回归，选角诚意足，但最终季悬念更吸睛。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-9.32.59-AM.png?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "动视公布《现代战争4》双倍经验代币新规",
-        "link": "https://www.gamespot.com/articles/activision-keeps-saying-all-the-right-things-about-modern-warfare-4/",
-        "summary": "动视宣布《使命召唤：现代战争4》双倍经验代币将可跨赛季保留，不再随赛季结束失效，玩家反馈积极。",
-        "comment": "代币不失效是玩家长期诉求，动视终于让步。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "索尼",
-        "title": "索尼首次缺席CES，2027年展会不再参展",
-        "link": "https://www.gamespot.com/articles/for-the-first-time-ever-sony-skips-ces-which-was-home-to-one-of-playstations-silliest-announcements/",
-        "summary": "索尼自1967年CES创办以来每届都参展，但这一纪录将在2027年1月终结。索尼确认缺席该展会，不再借CES发布新品。",
-        "comment": "CES常客索尼缺席，或转向独立发布会。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/ps5logoreveal.png?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神4",
-        "title": "暗黑4第15赛季藏大量秘密，玩家持续发掘",
-        "link": "https://www.gamespot.com/articles/diablo-4-season-15-is-filled-to-the-brim-with-big-secrets-and-they-just-keep-coming/",
-        "summary": "暗黑4第15赛季“地狱遗产”上线两周，仍不断有玩家发现埋藏多年的秘密内容，GameSpot报道其秘密数量惊人。",
-        "comment": "长线埋梗被持续挖出，赛季热度得以延续。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo-4-Season-15-Secrets.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魂类游戏",
-        "title": "魂类新作Valor Mortis配音阵容公布，黑金属主唱加盟",
-        "link": "https://www.gamespot.com/articles/this-promising-new-soulslike-features-a-black-metal-vocalist-among-its-impressive-cast/",
-        "summary": "GameSpot报道，即将推出的魂类游戏Valor Mortis公布主要配音阵容，其中最引人注目的是黑金属乐队主唱的跨界加盟。",
-        "comment": "黑金属主唱配魂类游戏，气质意外契合。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4551962-valor-mortis.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox推《战争机器》60美元披萨刀",
-        "link": "https://www.gamespot.com/articles/behold-the-60-gears-of-war-pizza-cutter-that-looks-like-a-real-pain-in-the-butt-to-clean/",
-        "summary": "Xbox与Prince St. Pizza合作推出《战争机器》主题披萨及售价60美元的定制披萨刀，但该刀具造型奇特，清洗起来似乎很麻烦。",
-        "comment": "联名周边定价离谱，实用性堪忧。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/GearsofPizza.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "乌干达",
-        "title": "乌干达记者在激烈继承争议中加冕为王",
-        "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌干达一名记者在王室内部围绕年轻继承人的争议中加冕为王，该继承人不被王室家族承认。",
-        "comment": "继承争议折射传统王权与现代政治的张力。",
-        "image": "",
-        "score": 85
       }
     ]
   }
