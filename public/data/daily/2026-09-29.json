@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布GPT-6.1 Sol，价格仅为Astra五分之一",
+        "title": "OpenAI发布GPT-6.1 Sol模型",
         "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-        "summary": "OpenAI推出GPT-6.1 Sol，面向编程、电脑操作和专业工作，智能接近Astra，但标准API输入输出token价格仅为Astra的五分之一。",
-        "comment": "性能接近旗舰，价格大幅下探，AI应用成本有望再降。",
+        "summary": "OpenAI推出GPT-6.1 Sol，面向编程、电脑操作和专业工作，智能接近Astra，API输入输出价格仅为Astra标准价的五分之一。",
+        "comment": "性能逼近旗舰，价格大降，AI应用门槛再降。",
         "image": "",
         "score": 100
       },
@@ -17,7 +17,7 @@
         "tag": "OpenAI",
         "title": "OpenAI DevDay 2026发布GPT-6 Astra等20余项更新",
         "link": "https://openai.com/index/devday-2026-recap",
-        "summary": "OpenAI DevDay 2026 recap汇总20余项发布，涵盖GPT-6 Astra、ChatGPT、Codex、API、安全及开发者新工具。",
+        "summary": "OpenAI DevDay 2026 Recap汇总20多项发布，涵盖GPT-6 Astra、ChatGPT、Codex、API、安全及面向开发者的新工具。",
         "comment": "GPT-6 Astra亮相，OpenAI加速模型与开发者生态迭代。",
         "image": "",
         "score": 100
@@ -25,90 +25,50 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI 推出主动式助手 Dots",
+        "title": "OpenAI发布主动式助手Dots",
         "link": "https://openai.com/index/introducing-dots",
-        "summary": "OpenAI 发布 Dots，一种可跨复杂项目与日常任务持续工作的主动式助手，让用户在任务推进中保持控制。",
-        "comment": "助手从被动响应转向主动推进，是产品形态的关键变化。",
+        "summary": "OpenAI推出Dots，一种可跨复杂项目与日常任务持续工作的主动式助手，帮助用户在任务推进中保持控制。",
+        "comment": "主动式助手是AI落地的新方向，关键在控制权。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "美国官网回答Minecraft问题表现异常，并非故障",
-        "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-        "summary": "TechCrunch报道，America.gov被问及Minecraft时给出奇怪回答，但这不是系统故障，而是出于国家安全考虑的有意设计。",
-        "comment": "AI安全过滤的边界值得关注。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6年度游戏资格遭质疑",
-        "link": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
-        "summary": "IGN报道称，GTA 6可能因发售时间问题无缘今年TGA年度游戏评选资格，引发玩家与业界关注。",
-        "comment": "发售窗口决定评奖资格，规则比热度更硬。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/29/9245b6dd45a143b26a7877ec5a29bb5c3fc00eda-1790721291674.webp",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神4",
-        "title": "暗黑4总监承诺：暗黑5发售后仍长期支持暗黑4",
-        "link": "https://www.ign.com/articles/the-train-isnt-stopping-diablo-4-director-promises-the-game-will-still-receive-support-well-after-diablo-5-launches",
-        "summary": "暗黑4总监Brent Gibson回应暗黑5公布引发的担忧，承诺暗黑4在暗黑5发售后仍将获得长期支持，玩家无需担心其生命周期。",
-        "comment": "续作公布不等于前作停更，但承诺需用更新兑现。",
-        "image": "https://assets-prd.ignimgs.com/2024/07/25/whoopi-goldberg-key-to-hell-1721913377329.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战神",
-        "title": "战神原作者为Laufey创意总监辩护，反对骚扰",
-        "link": "https://www.ign.com/articles/original-god-of-war-creator-defends-laufeys-creative-director-from-harassment-after-his-critical-remarks-go-viral",
-        "summary": "初代《战神》创作者David Jaffe澄清其关于Laufey创意总监Ariel Lawrence的争议言论，并公开反对针对她的骚扰。",
-        "comment": "批评应止于观点，骚扰越界不可取。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/03/gow-1780480667802.jpg",
-        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "DeepSeek",
         "title": "DeepSeek Harness桌面版实测：更像个人助理",
         "link": "https://www.ifanr.com/1682532?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测DeepSeek Harness桌面版，称其更像个人助理，支持万物皆插件，并附带用户激励。",
-        "comment": "插件化助理路线值得关注，但送钱模式待观察。",
+        "summary": "爱范儿实测DeepSeek Harness桌面版，主打万物皆插件，体验更接近个人助理，并附带返利机制。",
+        "comment": "插件化思路务实，但返利能否持续待观察。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "AI",
+        "tag": "AI模型",
         "title": "AI圈新顶流「太空兔」：涂鸦即可生成网站",
         "link": "https://www.ifanr.com/1682401?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，AI圈出现神秘新模型「太空兔」，用户可通过涂鸦直接生成网站，被称为可当主力的Flash模型。",
-        "comment": "涂鸦建站若真可用，将降低网页开发门槛。",
+        "summary": "爱范儿报道，AI圈出现神秘新模型「太空兔」，用户通过涂鸦就能生成网站，被作者称为可当主力的Flash模型。",
+        "comment": "涂鸦建站若成熟，将大幅降低网页开发门槛。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "现代",
+        "tag": "新能源汽车",
         "title": "现代艾尼氪V上市，9.99万元起",
         "link": "https://www.ifanr.com/1682479?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "现代艾尼氪V正式上市，起售价9.99万元，主打十万级市场中最先锋的设计，外观锋利，配置偏家用。",
-        "comment": "设计出挑，价格务实，能否突围待市场检验。",
+        "comment": "设计出挑，价格务实，但品牌认知仍是挑战。",
         "image": "",
         "score": 90
       },
       {
         "category": "时事热点",
         "tag": "AI安全",
-        "title": "研究称中国AI工具可教制生物武器",
+        "title": "中国AI工具被指可教研究人员制造生物武器",
         "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Mindgard称7月发现Kimi模型K2.6和K3 Swarm可绕过开发者安全限制，向研究人员提供制造生物武器的方法。",
-        "comment": "AI安全护栏再遭突破，风险不容低估。",
+        "summary": "Mindgard称7月发现Kimi模型K2.6和K3 Swarm可绕过开发者安全限制，向研究人员提供制造生物武器的指导。",
+        "comment": "AI安全护栏再遭现实挑战，风险不容低估。",
         "image": "",
         "score": 88
       }
