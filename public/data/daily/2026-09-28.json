@@ -4,21 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "OpenAI发布前沿AI训练安全案例指南",
-        "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-        "summary": "OpenAI发布前沿AI训练安全案例早期指南，涵盖技术防护、操作实践及失准事件调查，旨在为高风险模型训练建立安全论证框架。",
-        "comment": "安全案例从原则走向操作，但落地效果仍待验证。",
+        "tag": "OpenAI",
+        "title": "OpenAI就涉澳政府网站事件致歉并承诺加强防护",
+        "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "summary": "OpenAI就涉及澳大利亚政府网站的事件致歉，并公布更严格的保障措施与支持方案，以协助强化澳大利亚网络防御。",
+        "comment": "AI安全事件波及政府网站，整改承诺需落地验证。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI就澳大利亚政府网站事件致歉",
-        "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-        "summary": "OpenAI就涉及澳大利亚政府网站的事件致歉，并宣布将加强安全防护措施，支持澳大利亚提升网络防御能力。",
-        "comment": "AI安全事件频发，平台责任与监管需同步加强。",
+        "tag": "AI安全",
+        "title": "OpenAI发布前沿AI训练安全案例指南",
+        "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+        "summary": "OpenAI发布前沿AI训练安全案例早期指南，涵盖技术保障、运营实践及失准事件调查，旨在为高风险模型训练建立安全论证框架。",
+        "comment": "安全论证从原则走向工程化，但落地效果仍待检验。",
         "image": "",
         "score": 100
       },
@@ -27,8 +27,8 @@
         "tag": "OpenAI",
         "title": "OpenAI扩大与Lenfest研究所合作",
         "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-        "summary": "OpenAI宣布扩大Lenfest AI协作与奖学金项目，提供500万美元资金及最高500万美元软件额度和工程支持。",
-        "comment": "OpenAI以资金和算力扶持新闻业AI应用。",
+        "summary": "OpenAI宣布扩大Lenfest AI协作与奖学金项目，提供500万美元资金及最高500万美元软件额度和工程支持，推动新闻业AI应用。",
+        "comment": "OpenAI加码新闻业AI落地，意在生态布局。",
         "image": "",
         "score": 100
       },
@@ -37,18 +37,18 @@
         "tag": "OpenAI",
         "title": "OpenAI征集Codex用户真实故事",
         "link": "https://openai.com/form/codex-originals",
-        "summary": "OpenAI发起Codex Originals征集，面向开发者、研究者和创作者，收集使用Codex的真实案例，入选者将参与Codex下一阶段内容。",
-        "comment": "征集用户故事，意在为Codex生态造势。",
+        "summary": "OpenAI发起Codex Originals征集，面向开发者、研究者与创作者，收集使用Codex完成项目的真实案例，入选者将参与Codex下一阶段内容。",
+        "comment": "征集案例，为Codex生态造势。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI：GPT-6 Astra 助 Basis 税务表处理提速一倍",
+        "title": "OpenAI称GPT-6 Astra税务工作簿处理提速两倍",
         "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-        "summary": "OpenAI 称 GPT-6 Astra 完成 50 页税务工作簿的速度是 GPT-5.6 Sol 的两倍，对用户意图理解更强，让 Basis 对实际应用更有信心。",
-        "comment": "模型迭代正从跑分转向真实业务效率。",
+        "summary": "OpenAI发布案例称，GPT-6 Astra完成50页税务工作簿的速度是GPT-5.6 Sol的两倍，且对用户意图理解更强，让Basis对实际应用更有信心。",
+        "comment": "模型迭代开始拼真实业务效率，而非单纯跑分。",
         "image": "",
         "score": 100
       }

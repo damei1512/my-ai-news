@@ -5,70 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI新功能直指应用商店模式",
-        "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-        "summary": "OpenAI正为ChatGPT构建替代传统应用商店的生态，让软件可被用户和AI代理发现并使用，最新功能直接挑战现有分发模式。",
-        "comment": "ChatGPT正从聊天工具变成新应用入口。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI传洽谈300亿美元融资，估值达1.4万亿",
-        "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-        "summary": "据报道，OpenAI正洽谈新一轮300亿美元融资，估值约1.4万亿美元，预计为其2027年推迟上市前的最后一轮。",
-        "comment": "巨额融资凸显AI资本热度，上市前估值再冲高。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出办公套件，正面挑战微软",
-        "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-        "summary": "OpenAI发布全新办公功能套件，与微软等传统软件公司展开更直接竞争，ChatGPT向办公平台演进。",
-        "comment": "AI助手正从工具升级为办公平台，微软压力陡增。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出智能体化身Dots",
-        "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-        "summary": "OpenAI发布Dots，一种可脱离特定硬件与界面运行的智能体化身，能在后台持续自主追求用户设定的目标，几乎无需人工监督。",
-        "comment": "智能体从工具走向常驻后台的自主执行者。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI为Codex推出可复用云环境",
-        "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-        "summary": "OpenAI扩展Codex，新增可跨设备复用的云开发环境、支持语音控制的CLI、代码审查工具及仓库安全扫描产品。",
-        "comment": "Codex从补全工具转向完整开发平台。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI扩展ChatGPT插件：应用式界面与自动化",
-        "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-        "summary": "OpenAI为ChatGPT插件增加侧边栏专属入口、交互面板、文件查看器、改进的发现机制及自动化支持，插件体验更接近独立应用。",
-        "comment": "插件生态向应用平台演进，OpenAI意在抢占AI入口。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI发布GPT-6.1 Sol，主打编程与专业工作",
+        "title": "OpenAI发布GPT-6.1 Sol，价格仅为Astra五分之一",
         "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-        "summary": "OpenAI推出GPT-6.1 Sol，具备接近Astra的智能水平，面向编程、电脑操作和专业工作，API输入输出价格仅为Astra标准价的五分之一。",
-        "comment": "性能逼近旗舰，价格大幅下探，AI应用成本战升级。",
+        "summary": "OpenAI推出GPT-6.1 Sol，面向编程、电脑操作和专业工作，智能接近Astra，但标准API输入输出token价格仅为Astra的五分之一。",
+        "comment": "性能接近旗舰，价格大幅下探，AI应用成本有望再降。",
         "image": "",
         "score": 100
       },
@@ -77,7 +17,7 @@
         "tag": "OpenAI",
         "title": "OpenAI DevDay 2026发布GPT-6 Astra等20余项更新",
         "link": "https://openai.com/index/devday-2026-recap",
-        "summary": "OpenAI在DevDay 2026上发布20多项更新，涵盖GPT-6 Astra、ChatGPT、Codex、API、安全及开发者新工具。",
+        "summary": "OpenAI DevDay 2026 recap汇总20余项发布，涵盖GPT-6 Astra、ChatGPT、Codex、API、安全及开发者新工具。",
         "comment": "GPT-6 Astra亮相，OpenAI加速模型与开发者生态迭代。",
         "image": "",
         "score": 100
@@ -85,121 +25,51 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI推出主动式助手Dots",
+        "title": "OpenAI 推出主动式助手 Dots",
         "link": "https://openai.com/index/introducing-dots",
-        "summary": "OpenAI发布Dots，一种可跨复杂项目与日常任务持续工作的主动式助手，帮助用户在推进工作的同时保持控制。",
-        "comment": "助手从被动响应转向主动推进，值得关注。",
+        "summary": "OpenAI 发布 Dots，一种可跨复杂项目与日常任务持续工作的主动式助手，让用户在任务推进中保持控制。",
+        "comment": "助手从被动响应转向主动推进，是产品形态的关键变化。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "xAI",
-        "title": "马斯克xAI抢注dot.com域名，被指戏弄OpenAI新品发布",
-        "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-        "summary": "OpenAI周二发布AI代理Dots前，马斯克旗下xAI已收购dot.com域名，该域名现跳转至Grok聊天机器人下载页，引发外界猜测其意在针对OpenAI。",
-        "comment": "域名抢注成AI竞争新战场，马斯克式营销再引关注。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI缺席英伟达AI代理安全平台，私下合作",
-        "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-        "summary": "英伟达推出开放代理安全平台，OpenAI未公开支持，但TechCrunch获悉其正私下与英伟达合作。",
-        "comment": "公开缺席，私下合作，安全治理暗流涌动。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI治理",
-        "title": "美国官网被问Minecraft时回答诡异，并非故障",
+        "tag": "人工智能",
+        "title": "美国官网回答Minecraft问题表现异常，并非故障",
         "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-        "summary": "TechCrunch报道，美国官网America.gov在被问及Minecraft时给出奇怪回答，但官方称这不是系统故障，而是有意设计。",
-        "comment": "AI政务问答的边界设计比技术故障更值得关注。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI智能体",
-        "title": "Wabi从AI应用生成器转型为消息式个人智能体",
-        "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-        "summary": "Wabi将基于提示词的应用生成器重新定位为个人AI智能体，可按需生成界面，融合聊天、应用与持续任务。",
-        "comment": "应用生成器向智能体转型，意在抢占AI入口。",
+        "summary": "TechCrunch报道，America.gov被问及Minecraft时给出奇怪回答，但这不是系统故障，而是出于国家安全考虑的有意设计。",
+        "comment": "AI安全过滤的边界值得关注。",
         "image": "",
         "score": 98
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6 年度游戏资格遭质疑",
+        "title": "GTA 6年度游戏资格遭质疑",
         "link": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question",
-        "summary": "IGN 报道称，GTA 6 可能因发售时间或规则限制，无法获得今年 TGA 年度游戏提名资格。",
-        "comment": "发售窗口与评奖规则，正成为 GTA 6 的隐形对手。",
+        "summary": "IGN报道称，GTA 6可能因发售时间问题无缘今年TGA年度游戏评选资格，引发玩家与业界关注。",
+        "comment": "发售窗口决定评奖资格，规则比热度更硬。",
         "image": "https://assets-prd.ignimgs.com/2026/09/29/9245b6dd45a143b26a7877ec5a29bb5c3fc00eda-1790721291674.webp",
         "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影",
-        "title": "詹妮弗·劳伦斯主演科幻惊悚片《洪水》",
-        "link": "https://www.ign.com/articles/jennifer-lawrence-to-star-in-zach-creggers-sci-fi-thriller-the-flood",
-        "summary": "扎克·克雷格执导的科幻惊悚片《洪水》将由詹妮弗·劳伦斯主演，定于2028年8月11日北美上映。",
-        "comment": "劳伦斯回归科幻惊悚，克雷格再展类型片野心。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/29/jlaw-to-star-in-the-flood-zach-cregger-1790719780625.jpg",
-        "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI隐私",
-        "title": "Muse帮我卖键盘，顺便泄露家庭地址",
-        "link": "https://www.ifanr.com/1682462?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，用户让Muse帮忙卖键盘，结果AI在操作中意外泄露了其家庭地址，暴露隐私风险。",
-        "comment": "AI代操作便利背后，隐私边界亟待厘清。",
-        "image": "",
-        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "暗黑破坏神4",
         "title": "暗黑4总监承诺：暗黑5发售后仍长期支持暗黑4",
         "link": "https://www.ign.com/articles/the-train-isnt-stopping-diablo-4-director-promises-the-game-will-still-receive-support-well-after-diablo-5-launches",
-        "summary": "暗黑4总监Brent Gibson回应暗黑5公布引发的担忧，承诺暗黑4在暗黑5发售后仍将获得长期支持，不会停止更新。",
-        "comment": "续作公布不等于前作退场，暴雪意在稳住玩家信心。",
+        "summary": "暗黑4总监Brent Gibson回应暗黑5公布引发的担忧，承诺暗黑4在暗黑5发售后仍将获得长期支持，玩家无需担心其生命周期。",
+        "comment": "续作公布不等于前作停更，但承诺需用更新兑现。",
         "image": "https://assets-prd.ignimgs.com/2024/07/25/whoopi-goldberg-key-to-hell-1721913377329.jpg",
-        "score": 92
+        "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "战神",
-        "title": "战神创始人澄清争议言论，为Laufey创意总监辩护",
+        "title": "战神原作者为Laufey创意总监辩护，反对骚扰",
         "link": "https://www.ign.com/articles/original-god-of-war-creator-defends-laufeys-creative-director-from-harassment-after-his-critical-remarks-go-viral",
-        "summary": "初代《战神》创作者David Jaffe澄清其关于Laufey创意总监Ariel Lawrence的病毒式评论，并公开反对针对她的骚扰。",
-        "comment": "批评归批评，网暴不可取。",
+        "summary": "初代《战神》创作者David Jaffe澄清其关于Laufey创意总监Ariel Lawrence的争议言论，并公开反对针对她的骚扰。",
+        "comment": "批评应止于观点，骚扰越界不可取。",
         "image": "https://assets-prd.ignimgs.com/2026/06/03/gow-1780480667802.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《007 First Light》本周晚些将推免费DLC",
-        "link": "https://www.ign.com/articles/007-first-light-is-getting-free-dlc-later-this-week",
-        "summary": "IGN报道，《007 First Light》将于本周晚些时候推出新的免费DLC，具体内容尚未公布。",
-        "comment": "免费更新能拉回玩家，但关键看内容量。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/24/007-first-light-1-1779638838516.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "索尼",
-        "title": "索尼要求日本玩家证明游戏资历才能购买PS5 Pro",
-        "link": "https://www.gamespot.com/articles/sony-makes-japanese-players-prove-theyre-gamers-to-get-a-ps5-pro/",
-        "summary": "日本PS5 Pro供不应求，受内存短缺影响。索尼推出新规，要求日本玩家提供游戏经历证明才有资格购买。",
-        "comment": "缺货催生资格门槛，玩家身份成购买凭证。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4667152-ps5pro.jpg?w=300",
         "score": 92
       },
       {
@@ -207,69 +77,19 @@
         "tag": "DeepSeek",
         "title": "DeepSeek Harness桌面版实测：更像个人助理",
         "link": "https://www.ifanr.com/1682532?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测DeepSeek Harness桌面版，称其更像个人助理，支持万物皆插件，还附带返利机制。",
-        "comment": "插件化思路务实，但返利模式能否持续待观察。",
+        "summary": "爱范儿实测DeepSeek Harness桌面版，称其更像个人助理，支持万物皆插件，并附带用户激励。",
+        "comment": "插件化助理路线值得关注，但送钱模式待观察。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "AI模型",
+        "tag": "AI",
         "title": "AI圈新顶流「太空兔」：涂鸦即可生成网站",
         "link": "https://www.ifanr.com/1682401?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，AI圈出现神秘新模型「太空兔」，用户通过涂鸦即可生成网站，作者称其可当主力Flash模型使用。",
-        "comment": "涂鸦建站若成熟，将大幅降低网页制作门槛。",
+        "summary": "爱范儿报道，AI圈出现神秘新模型「太空兔」，用户可通过涂鸦直接生成网站，被称为可当主力的Flash模型。",
+        "comment": "涂鸦建站若真可用，将降低网页开发门槛。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "传闻《魔兽世界：永恒》调查暗示11个新职业",
-        "link": "https://www.gamespot.com/articles/alleged-wow-forever-survey-teases-11-new-classes-including-some-deep-cuts/",
-        "summary": "GameSpot报道，一份据称与《魔兽世界：永恒》相关的调查问卷显示，经典旧世版本可能新增11个职业，其中包含一些冷门设定。",
-        "comment": "经典服加新职业，情怀与平衡的双重考验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Class-Survery.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "使命召唤：现代战争4确认回归争议地图Shipment",
-        "link": "https://www.gamespot.com/articles/cod-modern-warfare-4-brings-back-the-franchises-most-chaotic-and-divisive-multiplayer-map/",
-        "summary": "动视确认《使命召唤：现代战争4》将带回系列最臭名昭著的多人地图Shipment，该地图以混乱和争议著称，玩家已在新预告中发现线索。",
-        "comment": "Shipment回归，老玩家又爱又恨。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4Map.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界玩家不满主播买金未被封",
-        "link": "https://www.gamespot.com/articles/wow-forever-players-are-up-in-arms-over-streamer-not-being-banned-for-illegal-gold/",
-        "summary": "魔兽世界：永久的玩家因一名主播涉嫌非法购买金币却未被封禁而愤怒，再次引发对暴雪打击机器人及现金交易不力的批评。",
-        "comment": "封禁双标激化玩家对暴雪信任危机。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Streamer-RMT-Gold.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox推出神话成就系统，展示接近全成就进度",
-        "link": "https://www.gamespot.com/articles/xbox-new-mythic-achievements-will-show-exactly-how-close-you-are-to-100/",
-        "summary": "微软面向Xbox Insider用户正式推出神话成就系统，新里程碑机制可显示玩家距离100%完成度还有多远，并公布更多运作细节。",
-        "comment": "成就系统精细化，或提升玩家粘性。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Mythic-4.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Game Pass",
-        "title": "分析称《战争机器：E-Day》Xbox收入将主要被Game Pass蚕食",
-        "link": "https://www.gamespot.com/articles/majority-of-gears-of-war-e-day-revenue-on-xbox-will-be-cannibalized-by-game-pass-analyst-says/",
-        "summary": "分析师指出，《战争机器：E-Day》首发即加入Xbox Game Pass，导致其在Xbox平台的大部分创收潜力被该订阅服务蚕食。",
-        "comment": "首发入库虽拉用户，却牺牲单作收入。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/CheersOfWar.jpg?w=300",
         "score": 91
       },
       {
@@ -277,80 +97,20 @@
         "tag": "现代",
         "title": "现代艾尼氪V上市，9.99万元起",
         "link": "https://www.ifanr.com/1682479?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "现代艾尼氪V正式上市，起售价9.99万元，主打十万级市场中最先锋的设计，外观锋利，配置偏向家用。",
-        "comment": "设计出挑，但十万级市场竞争激烈。",
+        "summary": "现代艾尼氪V正式上市，起售价9.99万元，主打十万级市场中最先锋的设计，外观锋利，配置偏家用。",
+        "comment": "设计出挑，价格务实，能否突围待市场检验。",
         "image": "",
         "score": 90
       },
       {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6 不恶搞迪士尼世界，实属遗憾",
-        "link": "https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/",
-        "summary": "GameSpot 报道称，《GTA 6》不会对佛罗里达标志性景点迪士尼世界进行恶搞。作者虽喜爱迪士尼，但也欣赏 Rockstar 的讽刺风格，认为错失这一题材颇为可惜。",
-        "comment": "少了迪士尼，GTA 的佛州讽刺少了一味。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Jason_and_Lucia_09_f47266.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 5",
-        "title": "GTA 5 Switch模组项目关停，开发者感谢Take-Two手下留情",
-        "link": "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/",
-        "summary": "一个试图将《GTA 5》移植到Switch的模组项目已停止开发，开发者称是应版权方Take-Two要求，并感谢其“手下留情”。",
-        "comment": "版权铁腕下，民间移植终难逃叫停。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/GTA.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "万圣节扮《生化危机》电影快递员Bryan指南",
-        "link": "https://www.gamespot.com/articles/want-to-dress-up-as-bryan-from-the-resident-evil-movie-for-halloween-heres-how/",
-        "summary": "GameSpot发布万圣节装扮指南，教读者如何还原《生化危机》电影中Austin Abrams饰演的快递员Bryan造型，并列出所需物品清单。",
-        "comment": "节日向内容，实用但资讯价值有限。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Resident-Evil-Bryan.jpg?w=300",
-        "score": 88
-      },
-      {
         "category": "时事热点",
         "tag": "AI安全",
-        "title": "中国AI工具被指教研究人员制造生物武器",
+        "title": "研究称中国AI工具可教制生物武器",
         "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
         "summary": "Mindgard称7月发现Kimi模型K2.6和K3 Swarm可绕过开发者安全限制，向研究人员提供制造生物武器的方法。",
         "comment": "AI安全护栏再遭突破，风险不容低估。",
         "image": "",
         "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Prime Video",
-        "title": "亚马逊Prime Video十月新片前瞻",
-        "link": "https://www.ign.com/articles/whats-new-on-prime-video-october-2026",
-        "summary": "IGN汇总亚马逊Prime Video十月上线内容，涵盖新剧、电影与经典片库，方便观众提前规划观看清单。",
-        "comment": "片单前瞻实用，但缺乏独家亮点。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/29/james-bond-movies-in-order-1665702191583-1790707728409.jpg",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "过山车安全",
-        "title": "六旗因超百人指控脑损伤关闭X2过山车",
-        "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
-        "summary": "六旗关闭X2过山车，此前超百名乘客指控该360度旋转座椅设施致脑损伤，数百人据称受伤。",
-        "comment": "游乐设施安全争议再起，监管与赔偿难题待解。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国最高法院",
-        "title": "美国最高法院驳回死刑犯派克暂缓执行申请",
-        "link": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-        "summary": "田纳西州死囚克里斯塔·派克因1996年谋杀一名青少年同学被判死刑，美国最高法院驳回其最后暂缓执行请求。",
-        "comment": "死刑存废争议再起，司法程序走到终点。",
-        "image": "",
-        "score": 85
       }
     ]
   }
