@@ -3,6 +3,36 @@
     "week": "周四",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "卫星AI",
+        "title": "前谷歌SpaceX产品经理创立Satlyt，融资800万美元在卫星上运行AI",
+        "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+        "summary": "Satlyt由前谷歌和SpaceX产品经理创立，获800万美元融资，旨在打造轨道计算的开放软件平台，兼容多家卫星，对标SpaceX封闭的一体化方案。",
+        "comment": "开放轨道计算平台或成卫星AI新变量。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Netflix",
+        "title": "Netflix《伊甸之东》剧评：弗洛伦丝·皮尤主演",
+        "link": "https://www.ign.com/articles/east-of-eden-review-netflix-florence-pugh",
+        "summary": "IGN评价Netflix剧集《伊甸之东》：画面精美、剧情扣人心弦，弗洛伦丝·皮尤、克里斯托弗·阿波特和迈克·费斯特主演，值得一口气看完。",
+        "comment": "皮尤新剧口碑稳，Netflix又添一部必追剧。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/01/east-of-eden-florence-pugh-thumb-1790814427888.jpg",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "华为",
+        "title": "华为 Mate 90 系列发布：5999 元起即日开售",
+        "link": "https://www.ifanr.com/1682801?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "华为 Mate 90 系列正式发布，起售价 5999 元，即日开售。该系列机型数量丰富，被形容为形成一片机海。",
+        "comment": "机海战术回归，华为意在全面覆盖高端市场。",
+        "image": "",
+        "score": 92
+      },
+      {
         "category": "数码科技",
         "tag": "Gemini 4",
         "title": "Gemini 4 正式发布，写作能力超越代码",
@@ -14,21 +44,41 @@
       },
       {
         "category": "游戏影视",
+        "tag": "乐高",
+        "title": "乐高PlayStation套装登陆LEGO Insiders，附赠Astro Bot",
+        "link": "https://www.ign.com/articles/lego-playstation-is-now-available-for-lego-insiders",
+        "summary": "乐高PlayStation套装现已在LEGO Insiders上线，购买即赠Astro Bot套装。用户可免费注册成为Insiders会员获取。",
+        "comment": "游戏IP联名乐高，粉丝向收藏再添新品。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/30/lego-playstation-1790778717610.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
         "tag": "Marathon",
         "title": "《Marathon》总监确认撤离模式仍是核心",
         "link": "https://www.ign.com/articles/extraction-is-still-a-major-part-of-marathon-marathon-game-director-reassures-fans-main-game-mode-isnt-going-anywhere",
-        "summary": "《Marathon》游戏总监Del Chafe回应玩家担忧，确认撤离模式仍是游戏主要部分。此前开发者公布了加入PvE和死斗模式的新路线图。",
-        "comment": "新路线图引发误解，总监及时澄清稳住核心玩家。",
+        "summary": "《Marathon》游戏总监Del Chafe回应玩家担忧，确认撤离模式仍是游戏主要部分，不会因新增PvE和死斗模式而被取代。",
+        "comment": "安抚及时，但新模式加入后平衡才是真考验。",
         "image": "https://assets-prd.ignimgs.com/2026/03/09/marathon-blog-1773061347424.jpg",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "早报：曝苹果10月13日发布家庭中枢，豆包接入机票火车票预订",
+        "title": "曝苹果10月13日发布家庭中枢，豆包接入票务预订",
         "link": "https://www.ifanr.com/1682780?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "美光全年营收1331.88亿美元，下季预计615亿；派拉蒙获准收购华纳，美泰CEO将任合并公司联席CEO；豆包接入机票和火车票预订，新增出行统一入口。",
-        "comment": "苹果家庭中枢与豆包出行入口，生态卡位战升温。",
+        "summary": "美光全年营收1331.88亿美元，下季预计615亿；派拉蒙获准收购华纳；豆包新增机票火车票预订入口；东方甄选溜溜凳双倍退款。",
+        "comment": "苹果家庭中枢若落地，智能家居入口战再升温。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏行业",
+        "title": "草蜢工作室宣布与网易游戏分道扬镳",
+        "link": "https://www.gcores.com/articles/220435",
+        "summary": "草蜢工作室宣布脱离网易游戏恢复独立。网易2021年从GungHo手中收购该工作室，CEO须田刚一称新作《罗密欧是个绝命侠》口碑良好，工作室已成立28周年。",
+        "comment": "收购四年即分手，独立后草蜢走向待观察。",
         "image": "",
         "score": 91
       },
@@ -40,45 +90,45 @@
         "summary": "Deep Silver与KING Art Games公布《战锤40K：战争黎明4》完整CGI开场动画，血鸦与黑暗天使在克洛诺斯之战中并肩作战。",
         "comment": "CGI水准在线，但玩家更关心实机玩法。",
         "image": "",
-        "score": 91
+        "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "草蜢工作室与网易分道扬镳，恢复独立",
-        "link": "https://www.gcores.com/articles/220435",
-        "summary": "草蜢工作室宣布脱离网易游戏，重新恢复独立。网易2021年从GungHo手中收购该工作室。CEO须田刚一称新作《罗密欧是个绝命侠》口碑良好，工作室已成立28周年。",
-        "comment": "独立或利于草蜢保持创作个性，但资金压力随之而来。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "独立游戏",
+        "tag": "3i计划",
         "title": "3i计划秋季发布会阵容曝光，32款游戏参展",
         "link": "https://www.gcores.com/articles/220433",
-        "summary": "3i计划十月发布会公布32款游戏阵容，含《潜水员戴夫》《土豆兄弟》等已上线爆款，以及《塔罗斯法则3》《要塞4》等未上线新作，并将全球首曝8款全新游戏。",
-        "comment": "独立游戏阵容扎实，首曝新作值得关注。",
+        "summary": "3i计划十月发布会公布32款游戏阵容，含《潜水员戴夫》《土豆兄弟》等已上线作品，以及《塔罗斯法则3》等未上线新作，并将全球首发8款全新游戏。",
+        "comment": "阵容扎实，独立游戏爱好者值得关注。",
         "image": "",
         "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "机核",
+        "title": "机核推出BOSS直聘主题会员节目9月号",
+        "link": "https://www.gcores.com/radios/220321",
+        "summary": "机核GPASS会员独享节目《那我问你》9月号上线，本期包含BOSS直聘相关内容，编辑部从留言中选问题录制分享。",
+        "comment": "会员专属互动节目，选题贴近职场话题。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "中东安全",
+        "title": "以总理称尚难断定伊朗涉迪拜至特拉维夫航班袭击",
+        "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+        "summary": "以色列总理内塔尼亚胡表示，一名飞行员在飞往以色列的航班上刺伤另一名飞行员，目前该案正由沙特阿拉伯调查，尚难断定伊朗是否涉案。",
+        "comment": "袭击动机未明，地区安全风险再度上升。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "航空安全",
         "title": "迪拜航空飞以色列航班发生飞行员被刺事件",
         "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-        "summary": "迪拜航空一架飞往以色列的航班上，一名飞行员遭另一名飞行员刺伤，涉事飞行员已被逮捕并接受讯问，事件原因尚在调查中。",
+        "summary": "迪拜航空一架飞往以色列的航班上，一名飞行员遭另一名飞行员刺伤，涉事飞行员已被逮捕并接受讯问，事件详情仍在调查中。",
         "comment": "航空安全再响警钟，机组内部冲突风险不容忽视。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "死刑",
-        "title": "美国死囚两次注射死刑未死 被送医",
-        "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国死囚克里斯塔·派克在两次注射戊巴比妥后仍存活，律师称其正接受抢救措施。",
-        "comment": "死刑执行失败暴露程序漏洞与人道争议。",
         "image": "",
         "score": 87
       },
@@ -87,30 +137,60 @@
         "tag": "气候变化",
         "title": "瑞士冰川遭遇灾难性消融年，威胁供水",
         "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
-        "summary": "科学家指出，在气候变化持续加速的背景下，瑞士冰川如此迅速的融化已不再令人意外，这将威胁当地水资源供应。",
-        "comment": "冰川消融已从预警变为现实危机。",
+        "summary": "科学家称，瑞士冰川今年冰量损失严重，快速融化已不再令人意外，这将威胁当地水资源供应。",
+        "comment": "冰川消融加速，供水危机迫近。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "航空安全",
-        "title": "以色列总理：迪拜-特拉维夫航班袭击动机尚不明确",
-        "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-        "summary": "以色列总理内塔尼亚胡表示，一名飞行员在飞往以色列的航班上刺伤另一名飞行员，目前沙特阿拉伯正在调查此事，袭击动机尚不清楚。",
-        "comment": "袭击动机未明，沙特调查成关键。",
+        "tag": "埃塞俄比亚",
+        "title": "埃塞俄比亚首都禁飞无人机后传出爆炸声",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+        "summary": "埃塞俄比亚首都亚的斯亚贝巴在禁止无人机飞行后传出爆炸声。一周前，政府军与新兴武装联盟在首都以北爆发战斗。",
+        "comment": "禁飞与爆炸接连出现，局势恐进一步升级。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "死刑",
+        "title": "美国死囚两次注射死刑未遂送医",
+        "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国死囚克里斯塔·派克在两次注射戊巴比妥后未被执行死刑，律师称其正在医院接受抢救措施。",
+        "comment": "死刑执行失败暴露程序漏洞，引发伦理争议。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "童婚",
-        "title": "加州禁止童婚，美国仍有32州允许",
-        "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
-        "summary": "加州州长纽森签署法案禁止童婚，称此举保护加州年轻人。但美国仍有32个州允许童婚，法律漏洞亟待填补。",
-        "comment": "童婚禁令凸显美国各州法律差异与改革滞后。",
+        "tag": "日本",
+        "title": "日本将永久居留费上调20倍",
+        "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+        "summary": "日本大幅提高永久居留申请费用，涨幅达20倍，作为移民政策调整的一部分，以应对不断增长的外国人口。",
+        "comment": "费用猛涨，筛选意图明显。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "津巴布韦",
+        "title": "津巴布韦大亨奇瓦约与妻子在直升机坠毁中身亡",
+        "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+        "summary": "津巴布韦富商威克内尔·奇瓦约与妻子在直升机坠毁事故中遇难。他以奢华生活、与非洲多国总统的密切关系及政府合同闻名。",
+        "comment": "争议富豪骤然离世，津巴布韦政商网络或生变数。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "韩国",
+        "title": "韩团Winner成员因违反兵役法获刑",
+        "link": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
+        "summary": "韩国男团Winner一名成员因多次缺席替代服役工作，被法院判处缓刑，违反兵役法罪名成立。",
+        "comment": "兵役在韩国是敏感红线，明星亦难例外。",
+        "image": "",
+        "score": 85
       }
     ]
   }
