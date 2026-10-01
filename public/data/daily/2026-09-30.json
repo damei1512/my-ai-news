@@ -4,30 +4,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌发布Gemini 4 Argon，称迄今最强模型",
-        "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-        "summary": "谷歌发布最新Gemini模型Gemini 4 Argon，主打编程与网络安全场景，官方称其为迄今最强模型。",
-        "comment": "谷歌再推旗舰模型，编程与安全成主战场。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI语音",
-        "title": "AI语音创企ElevenLabs估值翻倍至220亿美元",
-        "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-        "summary": "ElevenLabs完成3亿美元员工股权转让，由Wellington和T. Rowe Price联合领投，公司估值升至220亿美元，较此前翻倍。",
-        "comment": "语音AI赛道热度不减，资本押注头部效应明显。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI 阻断协同模型蒸馏攻击",
+        "title": "OpenAI 打击协同模型蒸馏攻击",
         "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-        "summary": "OpenAI 披露其阻断了一场协同模型蒸馏行动，该行动试图提取受保护的模型推理过程，公司同时加强了针对对抗性蒸馏的防御。",
+        "summary": "OpenAI 披露其阻止了一场协同模型蒸馏行动，该行动试图提取受保护的模型推理数据，公司正加强防御对抗性蒸馏。",
         "comment": "模型蒸馏攻防升级，知识产权保护成焦点。",
         "image": "",
         "score": 100
@@ -43,132 +23,22 @@
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Flow Engineering获红杉等投资，估值7.5亿美元",
-        "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-        "summary": "AI初创公司Flow Engineering将AI代理引入硬件设计，获Valor、Atreides和红杉资本投资，估值达7.5亿美元，红杉合伙人Roelof Botha以天使投资人身份加入董事会。",
-        "comment": "AI代理切入硬件设计，资本押注工程自动化新赛道。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出Decisions API，或助其管控集群智能体",
-        "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-        "summary": "TechCrunch报道，OpenAI的Decisions API被视为Jev克隆，印证快速廉价智能的重要性，可能帮助该前沿实验室阻止其集群智能体失控。",
-        "comment": "快速廉价智能正成为智能体管控的关键基础设施。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Reddit",
-        "title": "Reddit因AI爬虫关闭RSS并终止公开API",
-        "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-        "summary": "Reddit宣布停止支持RSS订阅并终止公开API访问，以应对AI机器人抓取用户内容，进一步收紧数据开放。",
-        "comment": "内容平台与AI爬虫的攻防战升级，开放互联网再退一步。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "消费级AI",
-        "title": "消费级AI的糟糕经济账",
-        "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-        "summary": "前沿实验室对消费级AI态度转冷，原因并非技术不足，而是商业回报难以覆盖高昂成本。",
-        "comment": "消费级AI烧钱难回本，巨头被迫转向。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta否认Muse未经许可读取用户私信",
-        "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-        "summary": "Meta称其Muse AI代理未经明确许可无法访问用户Messages，反驳一名记者关于该代理读取其私信的指控。",
-        "comment": "AI代理权限边界再引隐私争议，Meta回应难消疑虑。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "外卖",
-        "title": "DoorDash推出可短信下单的AI代理",
-        "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-        "summary": "DoorDash上线AI代理，用户可通过短信直接下单，意在对抗Uber Eats和Grubhub，提升点餐便捷性与竞争力。",
-        "comment": "外卖竞争转向AI入口，短信下单降低使用门槛。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Destro AI 让机器人与人类协同",
-        "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-        "summary": "Destro AI 称其优势在于并非机器人公司，而是让机器人与人类在同一页面协作，从而在竞争中胜出。",
-        "comment": "非机器人公司身份反成差异化优势。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "巫师3",
-        "title": "《巫师3：狂猎》重制版评测更新",
-        "link": "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-review",
-        "summary": "IGN更新《巫师3：狂猎》重制版评测，称这是这款本就出色的RPG迄今最佳版本。",
-        "comment": "重制版让经典RPG再获新生，值得重温。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/30/thewitcher3-wildhunt-remastered-review-blogroll-1790805134412.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA6",
-        "title": "Rockstar暗示《GTA6》或无缘迪士尼等佛州地标",
-        "link": "https://www.ign.com/articles/rockstar-suggests-disney-world-and-seaworld-probably-wont-be-in-gta-6",
-        "summary": "Rockstar暗示《GTA6》可能不会收录迪士尼世界和海洋世界等佛罗里达州标志性景点。",
-        "comment": "避开真实地标，既省版权纠纷也留创作自由。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《绝地潜兵》电影定档2028，艾伦·里奇森确认主演",
-        "link": "https://www.ign.com/articles/alan-ritchson-confirmed-to-star-in-helldivers-movie-as-release-date-pushed-back",
-        "summary": "IGN报道，《侠探杰克》主演艾伦·里奇森确认出演《绝地潜兵》电影版，饰演一名绝地潜兵，影片上映时间推迟至2028年。",
-        "comment": "游戏改编再添大牌，但2028年档期考验玩家耐心。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/30/alan-ritchson-helldivers-release-date-1790802486655.jpg",
-        "score": 93
-      },
-      {
         "category": "数码科技",
         "tag": "苹果",
         "title": "苹果全新产品线曝光，Siri AI 进家门",
         "link": "https://www.ifanr.com/1682750?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿爆料称苹果将推出全新产品线，把 Siri AI 带入家庭场景，被形容为致敬 2002、面向 2030。",
-        "comment": "苹果家庭 AI 硬件若成真，将重塑智能家居入口。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "ChatGPT",
-        "title": "ChatGPT一夜抄完半个AI圈，演示频频翻车",
-        "link": "https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，ChatGPT新功能被指模仿多家AI产品，现场演示多次出错；奥特曼称AI将带来新文艺复兴而非新工业革命。",
-        "comment": "功能堆砌与演示翻车并存，AI竞争进入模仿快跑阶段。",
+        "summary": "爱范儿爆料苹果全新产品线，Siri AI 将进入家庭场景，被指致敬 2002、面向 2030。",
+        "comment": "苹果把 Siri 塞进家门，智能家居战事升级。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "OpenAI",
-        "title": "OpenAI年度发布会总结：25个新品发布，用户额度减半",
+        "title": "OpenAI年度发布会：25款新品发布，用户额度减半",
         "link": "https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenAI年度发布会推出25个新品，但个人用户使用额度减半，引发用户不满。",
-        "comment": "新品虽多，但额度减半让个人用户吃亏。",
+        "summary": "OpenAI年度发布会推出25款新品，但个人用户使用额度减半，引发用户不满。",
+        "comment": "新品虽多，但额度缩水，个人用户吃亏。",
         "image": "",
         "score": 92
       },
@@ -177,39 +47,9 @@
         "tag": "Xbox",
         "title": "Xbox重组：光环交动视，黑曜石归Bethesda",
         "link": "https://www.gcores.com/radios/219909",
-        "summary": "Bungie宣布《命运2》被封存内容全部回归；微软Xbox再裁268人，《光环》交由动视开发，黑曜石划归Bethesda，Xbox Game Studios仅存三家直属工作室。",
-        "comment": "Xbox架构大洗牌，IP归属变动或重塑未来。",
+        "summary": "Bungie宣布《命运2》封存内容全部回归；微软Xbox再裁268人，《光环》交由动视开发，Rare与World's Edge划归动视，黑曜石划归Bethesda，Xbox Game Studios仅存三家直属工作室。",
+        "comment": "Xbox架构大洗牌，IP归属变动比裁员更值得关注。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影",
-        "title": "《龙虎少年队24》定档2027年12月，原班人马回归",
-        "link": "https://www.ign.com/articles/24-jump-street-gets-december-2027-release-date-original-cast-returning",
-        "summary": "IGN报道，乔纳·希尔与查宁·塔图姆主演的《龙虎少年队24》终于定档2027年12月，原班演员将回归出演。",
-        "comment": "跳票多年终定档，原班回归是最大卖点。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/22jumpstreet-new-1781133185698.webp",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox CEO否认出售游戏业务",
-        "link": "https://www.gamespot.com/articles/xbox-ceo-insists-its-not-for-sale-amid-studio-closures-layoffs/",
-        "summary": "在工作室关闭与裁员引发微软或退出游戏业的猜测后，Xbox CEO Asha Sharma明确否认游戏部门将被出售。",
-        "comment": "否认难消疑虑，关键看后续投入。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-not-for-sale.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox光盘转数字计划正式向所有用户开放",
-        "link": "https://www.gamespot.com/articles/xbox-disc-to-digital-program-is-officially-live-for-everyone/",
-        "summary": "继Xbox Insider测试后，微软光盘转数字计划正式面向所有Xbox One和Xbox Series X用户开放，玩家可将实体光盘转换为数字版游戏。",
-        "comment": "实体游戏加速退场，微软顺势推数字化。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/4689246-xbox-11-1.webp?w=300",
         "score": 92
       },
       {
@@ -217,179 +57,59 @@
         "tag": "问界M8",
         "title": "问界新M8预售38.98万元，赛力斯主导后首战",
         "link": "https://www.ifanr.com/1682703?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "问界新M8开启预售，起售价38.98万元。这是赛力斯自行主导后迎来的第一场实战，后续市场表现将检验其独立运营能力。",
-        "comment": "赛力斯独立主导后，首战定价与销量是关键考验。",
+        "summary": "问界新M8开启预售，定价38.98万元。这是赛力斯自行主导后迎来的第一场实战，其市场表现将检验品牌独立运营能力。",
+        "comment": "自主主导首战，定价与销量将检验赛力斯成色。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "宝马",
-        "title": "宝马新一代3系亮相，内外焕新配3.0T六缸",
+        "title": "宝马新一代3系亮相：内外全换新，顶配3.0T六缸",
         "link": "https://www.ifanr.com/1682682?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "宝马新一代3系正式亮相，外观与内饰全面换新，顶配车型搭载3.0T六缸发动机，标志着3系进入新世代。",
-        "comment": "3系换代，宝马在燃油与电动间找平衡。",
+        "summary": "宝马新一代3系正式亮相，外观与内饰全面换新，顶配车型搭载3.0T六缸发动机，标志3系进入新世代。",
+        "comment": "3系换代力度大，六缸保留是燃油车迷的安慰。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "ChatGPT",
+        "title": "ChatGPT一夜抄完半个AI圈，演示频频翻车",
+        "link": "https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道，ChatGPT新功能被指一次性模仿半个AI圈，但现场演示多次出错。奥特曼称AI将带来新文艺复兴，而非新工业革命。",
+        "comment": "功能堆砌难掩演示翻车，AI竞争进入模仿混战。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "早报：曝苹果新CEO想更快发产品，华为Mate 90进店",
+        "title": "早报：曝苹果新CEO欲加速产品发布，华为Mate 90进店",
         "link": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿早报：曝苹果新CEO希望加快产品发布节奏，华为Mate 90真机已进店；GPT-6.1 Sol推出，价格仅为Astra五分之一；DeepSeek Harness发布桌面端预览版。",
-        "comment": "苹果换帅节奏与华为新机同台，AI价格战再升级。",
+        "summary": "爱范儿早报：曝苹果新CEO希望更快发布产品，华为Mate 90真机已进店，GPT-6.1 Sol推出且价格仅为Astra五分之一，DeepSeek Harness发布桌面端预览版。",
+        "comment": "苹果换帅节奏与华为新机落地，值得关注。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "Moza R5 直驱方向盘促销，5.5Nm 力反馈",
-        "link": "https://www.ign.com/articles/moza-r5-racing-wheel-deal-september-2026",
-        "summary": "IGN 报道，Moza R5 赛车方向盘正在 Best Buy 促销，提供 5.5Nm 直驱力反馈，价格亲民。",
-        "comment": "入门直驱方向盘降价，值得模拟赛车玩家关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/30/mozar5-1790804795174.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "索尼克",
-        "title": "世嘉：索尼克电影虽遭差评，却助力游戏开发",
-        "link": "https://www.gamespot.com/articles/you-can-hate-the-sonic-movies-but-they-help-the-games-get-made-sega-says/",
-        "summary": "世嘉承认索尼克游戏近期表现不佳，但表示索尼克电影虽受批评，其收益仍反哺游戏开发，为系列提供资金支持。",
-        "comment": "影游联动成IP续命关键，世嘉务实。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/sonic-image.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》隐藏超12500件物品",
-        "link": "https://www.gamespot.com/articles/wow-forever-is-keeping-more-than-12500-items-secret/",
-        "summary": "《魔兽世界：永恒》测试版中超过12500件物品被隐藏，防止数据挖掘者提前泄露内容，目前测试正在进行。",
-        "comment": "大规模隐藏物品，或为防剧透，也吊足玩家胃口。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/WoW-Forever-Secret-Items.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "前光环总监建议动视招募前光环开发者",
-        "link": "https://www.gamespot.com/articles/activision-should-hire-former-halo-devs-for-next-mainline-game-former-franchise-director-says/",
-        "summary": "前《光环》系列总监建议动视暴雪为下一部主线作品招募前光环开发者，此前该系列未来开发已交由动视暴雪负责。",
-        "comment": "换帅后能否延续光环品质，关键看人才。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/halo-image.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "前PlayStation高管建议Xbox明确战略方向",
-        "link": "https://www.gamespot.com/articles/ex-playstation-boss-has-some-advice-for-xbox-pick-a-lane/",
-        "summary": "前PlayStation负责人对Xbox提出建议，认为其应明确战略方向。Xbox在新管理层接手后经历重大调整，包括多轮裁员和业务变动。",
-        "comment": "Xbox战略摇摆已久，聚焦才是出路。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox.jpg?w=300",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "iQOO 16",
-        "title": "iQOO 16 体验：可能是今年最卷的性能旗舰",
+        "tag": "iQOO",
+        "title": "iQOO 16 体验：今年最卷性能旗舰",
         "link": "https://www.ifanr.com/1682609?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "爱范儿发布 iQOO 16 上手体验，称其可能是今年最卷的性能旗舰，主打日常使用场景。",
-        "comment": "性能旗舰竞争白热化，iQOO 16 以日常体验破局。",
+        "comment": "性能旗舰竞争白热化，iQOO 16 试图以日常体验破局。",
         "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "赛车经理2",
-        "title": "《赛车经理2》实机首曝 2027年登Steam",
-        "link": "https://www.gcores.com/articles/220430",
-        "summary": "Playsport发布《赛车经理2》PC版首段实机玩法，展示更广阔的赛车世界、深度车队管理与全新实时应变竞赛系统，游戏将于2027年登陆Steam。",
-        "comment": "续作升级竞赛系统，2027年值得期待。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏版号",
-        "title": "米哈游《源初之结》等215款游戏过审",
-        "link": "https://www.gcores.com/articles/220426",
-        "summary": "国家新闻出版署公布2026年9月网络游戏审批信息，共215款游戏获发版号，其中国产206款、进口3款，米哈游《源初之结》在列。",
-        "comment": "版号发放常态化，米哈游新品进度值得关注。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏周边",
-        "title": "Flexispot摇椅躺椅清仓价250美元",
-        "link": "https://www.ign.com/articles/flexispot-xc6-swivel-rocker-recliner-chair-deal",
-        "summary": "IGN报道，Flexispot Lotus旋转摇椅躺椅正在清仓促销，售价250美元并免运费，适合游戏时放松使用。",
-        "comment": "游戏舒适装备好价，但非核心游戏新闻。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/24/flexispotxc6-1790284147110.jpg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "《生化危机：安魂曲》制作人解释标题反令人困惑",
-        "link": "https://www.gamespot.com/articles/resident-evil-requiem-producer-explains-games-title-confusing-us-more/",
-        "summary": "《生化危机：安魂曲》年初公布时标题含义看似明确，但制作人竹内润的最新解释反而让玩家更困惑，GameSpot 报道称其说法未能厘清命名逻辑。",
-        "comment": "官方解释越描越黑，营销悬念玩过头。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1639/16394322/4658267-4655296-resident-evil-requiem-basement-.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "细胞分裂",
-        "title": "细胞分裂重制版近五年仍无实质进展",
-        "link": "https://www.gamespot.com/articles/the-splinter-cell-remake-is-still-lurking-in-the-shadows/",
-        "summary": "GameSpot报道，初代《细胞分裂》重制版公布近五年，至今未放出任何实机画面或预告片，项目状态成谜。",
-        "comment": "五年零画面，育碧的沉默比潜行更彻底。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/4654028-splintercellremake.webp?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "街头霸王",
-        "title": "《街头霸王》电影主题曲被赞百搭",
-        "link": "https://www.gamespot.com/articles/yes-guile-street-fighter-movie-theme-goes-with-everything/",
-        "summary": "GameSpot评价《街头霸王》真人电影充满对原作的致敬，动作与服装风格夸张，而古烈主题曲意外地适配各种场景。",
-        "comment": "游戏改编电影靠魔性配乐先赢一局。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Guile-SFM.jpg?w=300",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "VR",
-        "title": "Meta Connect现场见闻与VR眼镜、Steam Frame讨论",
+        "title": "Meta Connect现场见闻与VR设备讨论",
         "link": "https://www.gcores.com/radios/220440",
-        "summary": "机核电台回顾Meta Connect现场见闻，主播与嘉宾探讨Meta VR眼镜的体验，并关注Steam Frame社区的热烈反响。",
-        "comment": "VR生态正从硬件转向社区与内容体验。",
+        "summary": "机核电台回顾Meta Connect现场见闻，探讨Meta VR Glasses与Steam Frame社区反响，由多位VR玩家主播以虚拟圆桌形式直播录制。",
+        "comment": "VR硬件讨论热度不减，社区声音值得关注。",
         "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "播客",
-        "title": "播客解析《逆转裁判4-1》谜题构筑法",
-        "link": "https://www.gcores.com/radios/211460",
-        "summary": "机核播客《谜题构筑法》第2集，以《逆转裁判4-1扑克谋杀案》和《x的悲剧》为例，讲解推理故事如何构建逻辑链，涉及剧透，共6集。",
-        "comment": "拆解推理逻辑链，对创作和欣赏都有实用价值。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PS Plus",
-        "title": "PS Plus 2026年10月免费游戏公布",
-        "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/",
-        "summary": "索尼公布2026年10月PS Plus免费游戏，所有会员自10月6日起可领取三款，其中包括《F1 25》。",
-        "comment": "免费阵容中规中矩，体育游戏撑场。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1179/11799911/4574311-image(7)large.jpeg?w=300",
         "score": 89
       },
       {
@@ -397,40 +117,10 @@
         "tag": "游戏推荐",
         "title": "国庆假期游戏推荐：Control, I'm Not Coming Back",
         "link": "https://www.gcores.com/articles/220429",
-        "summary": "机核推荐国庆假期玩《Control, I'm Not Coming Back》，游戏约1小时，起于一场火箭发射，玩家与指挥官等待点火信号。",
-        "comment": "短小精悍的叙事体验，适合假期碎片时间。",
+        "summary": "机核推荐国庆假期玩《Control, I'm Not Coming Back》，游戏约1小时，起于一场火箭发射，玩家与指挥官执行航天任务，等待点火信号。",
+        "comment": "短小精悍的航天叙事体验，适合假期尝鲜。",
         "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌战争",
-        "title": "普京讲话无停战迹象，俄加大对乌攻势",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-        "summary": "俄总统发表外交政策讲话，外界密切关注，但种种迹象表明俄对乌全面入侵仍将持续，战争短期内难以结束。",
-        "comment": "俄方姿态强硬，停战遥遥无期。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "塞尔达传说",
-        "title": "亚马逊Prime会员多款塞尔达T恤降价",
-        "link": "https://www.ign.com/articles/a-ton-of-legend-of-zelda-t-shirts-are-getting-price-cuts-for-amazon-prime-members",
-        "summary": "IGN报道，亚马逊为Prime会员推出多款《塞尔达传说》主题T恤折扣，涵盖多种款式，适合粉丝入手。",
-        "comment": "粉丝向周边促销，实用但非重大新闻。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/30/legend-of-zelda-shirts-1790805561902.png",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "尼康",
-        "title": "尼康摄影赛争议：小图引发大反弹",
-        "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-        "summary": "尼康Small World In Motion摄影赛出现争议，参赛者徐宁博士否认违反比赛规则，事件引发广泛关注。",
-        "comment": "规则争议考验赛事公信力。",
-        "image": "",
-        "score": 84
+        "score": 87
       }
     ]
   }
