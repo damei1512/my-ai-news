@@ -3,12 +3,52 @@
     "week": "周日",
     "articles": [
       {
+        "category": "数码科技",
+        "tag": "OpenAI",
+        "title": "OpenAI元老离职信揭露奥特曼隐忧",
+        "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "OpenAI元老离职信引发关注，内容指向奥特曼不愿承认的真相，涉及AI伦理与内部治理问题。",
+        "comment": "AI伦理争议再起，OpenAI内部裂痕显现。",
+        "image": "",
+        "score": 92
+      },
+      {
         "category": "时事热点",
-        "tag": "校园安全",
+        "tag": "俄乌冲突",
+        "title": "俄无人机袭击基辅桥梁，德总理突访",
+        "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "summary": "画面显示无人机击中基辅北桥，车辆通行时发生爆炸形成火球。德国总理同日突访乌克兰，俄乌局势持续紧张。",
+        "comment": "俄军袭桥与德总理突访同日，局势更趋复杂。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "巴西大选",
+        "title": "巴西大选：卢拉与博索纳罗之子对决",
+        "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+        "summary": "巴西大选将迎来左翼现任总统卢拉与右翼对手弗拉维奥·博索纳罗的对决，民调显示选情胶着。",
+        "comment": "卢拉与博索纳罗家族对决，巴西政治极化延续。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "航空安全",
+        "title": "澳大利亚调查Flydubai副驾驶与本国关联",
+        "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+        "summary": "澳大利亚警方与安全机构正调查一名Flydubai副驾驶，该飞行员曾试图控制飞往以色列的航班。",
+        "comment": "航空安全事件牵出跨国安全审查，值得关注。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "康奈尔大学",
         "title": "康奈尔校长回应兄弟会强奸指控",
         "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-        "summary": "康奈尔大学校长科特利科夫称，一名女子指控遭下药和轮奸的事件“令人深感不安”，并表示学校必须做得更好。",
-        "comment": "校园性侵指控再敲警钟，问责与改革不能止于表态。",
+        "summary": "康奈尔大学校长科特利科夫称，一名女性指控在兄弟会遭下药和轮奸，事件令人深感不安，校方必须改进。",
+        "comment": "名校性侵丑闻再敲校园安全警钟。",
         "image": "",
         "score": 86
       },
@@ -18,16 +58,16 @@
         "title": "西班牙数万人抗议住房危机",
         "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
         "summary": "西班牙政府紧急住房法案未获议会通过，周六全国爆发50多场抗议，数万人上街表达愤怒。",
-        "comment": "住房危机正成为欧洲多国政治火药桶。",
+        "comment": "住房危机正演变为西班牙的政治压力测试。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "航空安全",
-        "title": "美国海岸失踪飞机残骸被找到",
+        "tag": "航空事故",
+        "title": "美国海岸失踪飞机残骸被发现",
         "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-        "summary": "一架飞机在美国海岸附近失联，飞行数据显示其曾大幅下降高度并与管制员失去通信，目前残骸已被发现。",
+        "summary": "一架飞机在美国海岸附近失联，飞行数据显示其曾大幅下降高度，随后与空管失去联系，目前残骸已被找到。",
         "comment": "残骸现身，事故原因仍待调查。",
         "image": "",
         "score": 86
