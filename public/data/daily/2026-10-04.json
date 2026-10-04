@@ -3,52 +3,132 @@
     "week": "周日",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "特朗普推出新超级智能工作组",
+        "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "summary": "特朗普成立新工作组，回应AI安全争论，这是其针对该议题的最新动作。",
+        "comment": "AI安全议题被政治化，工作组实效待观察。",
+        "image": "",
+        "score": 98
+      },
+      {
         "category": "数码科技",
         "tag": "OpenAI",
-        "title": "OpenAI元老离职信揭露奥特曼隐忧",
+        "title": "OpenAI元老离职信揭露奥特曼不愿承认的真相",
         "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenAI元老离职信引发关注，内容指向奥特曼不愿承认的真相，涉及AI伦理与内部治理问题。",
-        "comment": "AI伦理争议再起，OpenAI内部裂痕显现。",
+        "summary": "爱范儿报道，OpenAI一位元老在离职信中披露了公司内部问题，直指奥特曼不愿承认的真相，引发对AI企业治理与伦理的讨论。",
+        "comment": "AI伦理争议再起，内部信比公关稿更真实。",
         "image": "",
         "score": 92
       },
       {
+        "category": "数码科技",
+        "tag": "华为",
+        "title": "十年前的「外挂相机」如何在华为 Mate 90 上复活",
+        "link": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿回顾十年前的外挂相机概念，分析其为何在华为 Mate 90 上重新出现，认为这一超前想法终于等到适合的时代。",
+        "comment": "超前概念能否落地，关键看生态和时机。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏博物馆",
+        "title": "万物破元游戏博物馆的兴衰故事",
+        "link": "https://www.gcores.com/radios/220319",
+        "summary": "节目录制于深圳核聚变前，在广州与独立游戏前辈拼命玩三郎和盲灯对谈，回顾万物破元游戏博物馆的建立与告别，探讨游戏人文精神的代际传递。",
+        "comment": "游戏博物馆的消亡，折射出国内游戏文化保存的困境。",
+        "image": "",
+        "score": 90
+      },
+      {
         "category": "时事热点",
         "tag": "俄乌冲突",
-        "title": "俄无人机袭击基辅桥梁，德总理突访",
+        "title": "俄无人机再袭基辅，击中北桥起火",
         "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "summary": "画面显示无人机击中基辅北桥，车辆通行时发生爆炸形成火球。德国总理同日突访乌克兰，俄乌局势持续紧张。",
-        "comment": "俄军袭桥与德总理突访同日，局势更趋复杂。",
+        "summary": "画面显示无人机击中基辅北桥，桥上车辆行驶时发生爆炸并形成巨大火球。德国总理同日突访基辅。",
+        "comment": "俄军持续空袭基辅，德总理突访时机敏感。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "基辅桥梁连续两日遭俄军打击",
+        "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC记者在基辅北桥附近报道，该桥连续第二天遭俄军打击，俄方对基辅桥梁的袭击情况持续引发关注。",
+        "comment": "桥梁连遭打击，俄军或意在切断基辅补给线。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "巴西大选",
-        "title": "巴西大选：卢拉与博索纳罗之子对决",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-        "summary": "巴西大选将迎来左翼现任总统卢拉与右翼对手弗拉维奥·博索纳罗的对决，民调显示选情胶着。",
-        "comment": "卢拉与博索纳罗家族对决，巴西政治极化延续。",
+        "tag": "也门",
+        "title": "也门宣布军事行动收复胡塞武装控制区",
+        "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+        "summary": "也门总统宣布发起军事行动，从伊朗支持的胡塞武装手中收复失地。此前胡塞武装与沙特领导的联军互相发动袭击。",
+        "comment": "也门战事升级，地区代理人冲突风险加剧。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "航空安全",
+        "tag": "埃塞俄比亚",
+        "title": "埃塞俄比亚叛军撤出提格雷首府",
+        "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+        "summary": "埃塞俄比亚提格雷叛军撤出地区首府默克莱，两名当地居民向BBC表示，亲政府部队已控制该市。",
+        "comment": "战局逆转，提格雷冲突或进入新阶段。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "驻日美军",
+        "title": "驻日美军士兵因冲绳女性遇害案被捕",
+        "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+        "summary": "日本政府就冲绳一名女性遇害事件向美方提出正式抗议，要求美军官员采取行动。一名美国海军陆战队士兵因涉嫌此案被捕。",
+        "comment": "驻日美军犯罪再触冲绳敏感神经，治外法权争议难消。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "澳大利亚",
         "title": "澳大利亚调查Flydubai副驾驶与本国关联",
         "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-        "summary": "澳大利亚警方与安全机构正调查一名Flydubai副驾驶，该飞行员曾试图控制飞往以色列的航班。",
+        "summary": "澳大利亚警方与安全机构正调查一名Flydubai副驾驶，该飞行员曾试图控制一架飞往以色列的航班。",
         "comment": "航空安全事件牵出跨国安全审查，值得关注。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "康奈尔大学",
+        "tag": "巴西大选",
+        "title": "巴西大选：卢拉对决弗拉维奥·博索纳罗",
+        "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+        "summary": "巴西大选将迎来左翼现任总统卢拉与右翼对手弗拉维奥·博索纳罗的对决，民调显示选情胶着。",
+        "comment": "巴西左右翼对决，选情胶着值得关注。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "印度",
+        "title": "印度警方被控在抗议中骚扰记者",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+        "summary": "印度警方在拘留要求选举负责人辞职的抗议者时，被指控对记者实施性骚扰。抗议针对选民名册变更。",
+        "comment": "执法者涉嫌骚扰记者，凸显印度新闻自由与抗议权利受挤压。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "校园安全",
         "title": "康奈尔校长回应兄弟会强奸指控",
         "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-        "summary": "康奈尔大学校长科特利科夫称，一名女性指控在兄弟会遭下药和轮奸，事件令人深感不安，校方必须改进。",
-        "comment": "名校性侵丑闻再敲校园安全警钟。",
+        "summary": "康奈尔大学校长科特利科夫称，一名女性指控遭下药和轮奸的事件“令人深感不安”，并表示学校“必须做得更好”。",
+        "comment": "校园性侵指控再敲警钟，校方问责不能止于表态。",
         "image": "",
         "score": 86
       },
@@ -59,16 +139,6 @@
         "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
         "summary": "西班牙政府紧急住房法案未获议会通过，周六全国爆发50多场抗议，数万人上街表达愤怒。",
         "comment": "住房危机正演变为西班牙的政治压力测试。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "航空事故",
-        "title": "美国海岸失踪飞机残骸被发现",
-        "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-        "summary": "一架飞机在美国海岸附近失联，飞行数据显示其曾大幅下降高度，随后与空管失去联系，目前残骸已被找到。",
-        "comment": "残骸现身，事故原因仍待调查。",
         "image": "",
         "score": 86
       }
