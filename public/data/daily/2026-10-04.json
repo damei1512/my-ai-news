@@ -4,71 +4,121 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "谷歌",
+        "title": "谷歌因AI提交激增冻结开源漏洞赏金计划",
+        "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "summary": "谷歌暂停开源漏洞赏金计划，原因是AI生成的漏洞报告数量大幅上升，低质量提交淹没了审核流程。",
+        "comment": "AI滥用正倒逼漏洞赏金机制改革。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
         "tag": "人工智能",
-        "title": "特朗普推出新超级智能工作组",
-        "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-        "summary": "特朗普成立新工作组，回应AI安全争论，这是其针对该议题的最新动作。",
-        "comment": "AI安全议题被政治化，工作组实效待观察。",
+        "title": "超级智能与非约束性安全协议能否改善AI形象？",
+        "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "summary": "TechCrunch播客Equity讨论特朗普政府试图重塑AI形象，探讨超级智能概念与非约束性安全协议能否解决AI面临的公众信任问题。",
+        "comment": "AI形象修复靠口号难奏效，监管缺位是硬伤。",
         "image": "",
         "score": 98
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "特朗普公布新超级智能工作组",
+        "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "summary": "特朗普针对AI安全争论成立新工作组，名为“超级智能力量”，具体职能与成员尚未披露。",
+        "comment": "AI安全议题被政治化，实际举措待观察。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影票房",
+        "title": "汤姆·克鲁斯新片《掘金者》全球首周票房仅2000万美元",
+        "link": "https://www.ign.com/articles/tom-cruises-digger-bombs-hard-with-20-million-global-opening-in-theaters",
+        "summary": "汤姆·克鲁斯主演的《掘金者》全球首周末票房约2000万美元，表现惨淡，票房遇冷。",
+        "comment": "巨星号召力难救平庸题材，票房惨败。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/20/diggerthumb2-1784555245673.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "漫威",
+        "title": "《复联4》重映再超《阿凡达》登影史票房冠军",
+        "link": "https://www.ign.com/articles/avengers-endgame-beats-avatar-to-become-the-highest-grossing-movie-of-all-time-again",
+        "summary": "漫威《复仇者联盟4：终局之战》借重映票房再度超越《阿凡达》，重新成为全球影史票房最高电影。",
+        "comment": "重映刷榜，冠军含金量存疑。",
+        "image": "https://assets-prd.ignimgs.com/2026/04/19/avengers-endgame-re-release-1776625157270.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "SNL小品调侃GTA 6与塞尔达传说之争",
+        "link": "https://www.ign.com/articles/snl-weighs-in-on-gta-6-vs-the-legend-of-zelda-with-skit-featuring-jason-and-link",
+        "summary": "SNL在Weekend Update环节推出小品，让GTA 6主角Jason与塞尔达传说主角林克同台，调侃两款游戏的对比话题。",
+        "comment": "游戏圈热度已溢出到主流喜剧舞台。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/04/snl-gta-6-zelda-1791128866565.png",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "华为",
+        "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？",
+        "link": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿「硬哲学」回顾十年前的外挂相机概念，分析这一超前想法为何在华为 Mate 90 上重新出现，并探讨其是否终于迎来适合的市场与技术时机。",
+        "comment": "超前概念能否落地，关键看生态与时机。",
+        "image": "",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "OpenAI",
         "title": "OpenAI元老离职信揭露奥特曼不愿承认的真相",
         "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，OpenAI一位元老在离职信中披露了公司内部问题，直指奥特曼不愿承认的真相，引发对AI企业治理与伦理的讨论。",
-        "comment": "AI伦理争议再起，内部信比公关稿更真实。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "华为",
-        "title": "十年前的「外挂相机」如何在华为 Mate 90 上复活",
-        "link": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿回顾十年前的外挂相机概念，分析其为何在华为 Mate 90 上重新出现，认为这一超前想法终于等到适合的时代。",
-        "comment": "超前概念能否落地，关键看生态和时机。",
+        "summary": "爱范儿报道，OpenAI元老离职信揭示公司内部矛盾，指出在教会AI善待人类前，应先学会善待人，引发对AI伦理与管理的关注。",
+        "comment": "AI伦理困局，根源在人性。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏博物馆",
-        "title": "万物破元游戏博物馆的兴衰故事",
+        "title": "广州万物破元游戏博物馆的兴衰故事",
         "link": "https://www.gcores.com/radios/220319",
-        "summary": "节目录制于深圳核聚变前，在广州与独立游戏前辈拼命玩三郎和盲灯对谈，回顾万物破元游戏博物馆的建立与告别，探讨游戏人文精神的代际传递。",
-        "comment": "游戏博物馆的消亡，折射出国内游戏文化保存的困境。",
+        "summary": "机核节目回顾广州万物破元游戏博物馆的建立与告别，对话独立游戏前辈拼命玩三郎和盲灯，探讨游戏人文精神在不同年代玩家中的传递。",
+        "comment": "游戏博物馆的消逝，折射出国内游戏文化保存的困境。",
         "image": "",
         "score": 90
       },
       {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "俄无人机再袭基辅，击中北桥起火",
-        "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "summary": "画面显示无人机击中基辅北桥，桥上车辆行驶时发生爆炸并形成巨大火球。德国总理同日突访基辅。",
-        "comment": "俄军持续空袭基辅，德总理突访时机敏感。",
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《恐龙猎人：起源》TGS试玩体验",
+        "link": "https://www.gcores.com/articles/220518",
+        "summary": "TGS2026试玩Saber Interactive用UE5重启的《恐龙猎人：起源》，画面与动作已达现代水准，同时保留系列狩猎乐趣。",
+        "comment": "老IP重启，UE5加持下狩猎手感值得期待。",
         "image": "",
-        "score": 88
+        "score": 89
       },
       {
         "category": "时事热点",
         "tag": "俄乌冲突",
-        "title": "基辅桥梁连续两日遭俄军打击",
-        "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC记者在基辅北桥附近报道，该桥连续第二天遭俄军打击，俄方对基辅桥梁的袭击情况持续引发关注。",
-        "comment": "桥梁连遭打击，俄军或意在切断基辅补给线。",
+        "title": "俄无人机袭击基辅桥梁 德总理突访",
+        "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "summary": "画面显示无人机击中基辅北桥，车辆通行时爆炸形成巨大火球。德国总理同日突访乌克兰，俄方袭击持续升级。",
+        "comment": "俄军袭击与德总理突访同日，局势更趋紧张。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
         "tag": "也门",
-        "title": "也门宣布军事行动收复胡塞武装控制区",
+        "title": "也门政府宣布对胡塞武装全面开战",
         "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-        "summary": "也门总统宣布发起军事行动，从伊朗支持的胡塞武装手中收复失地。此前胡塞武装与沙特领导的联军互相发动袭击。",
-        "comment": "也门战事升级，地区代理人冲突风险加剧。",
+        "summary": "也门总统宣布全面战争以收复胡塞武装控制区，此前胡塞武装与沙特领导的联军互相发动袭击。",
+        "comment": "也门局势再度升级，和平前景更加渺茫。",
         "image": "",
         "score": 87
       },
@@ -77,10 +127,40 @@
         "tag": "埃塞俄比亚",
         "title": "埃塞俄比亚叛军撤出提格雷首府",
         "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-        "summary": "埃塞俄比亚提格雷叛军撤出地区首府默克莱，两名当地居民向BBC表示，亲政府部队已控制该市。",
-        "comment": "战局逆转，提格雷冲突或进入新阶段。",
+        "summary": "埃塞俄比亚叛军从提格雷州首府默克莱撤出，当地居民向BBC表示亲政府部队已控制该市。",
+        "comment": "提格雷战局出现关键转折，政府军重夺首府。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "巴西大选",
+        "title": "巴西大选：卢拉与博索纳罗之子对决",
+        "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+        "summary": "巴西大选投票展开，民调显示左翼现任总统卢拉与右翼对手弗拉维奥·博索纳罗势均力敌，选情胶着。",
+        "comment": "巴西政治极化加剧，选举结果将影响拉美格局。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "俄军连续两日袭击基辅桥梁",
+        "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC记者在基辅北桥附近报道，该桥连续第二天遭俄军袭击。",
+        "comment": "连续打击桥梁，俄军或意在切断基辅补给线。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "死刑",
+        "title": "美国女死囚注射死刑失败 律师称预后不明",
+        "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国死囚克里斯塔·派克的律师表示，在执行死刑失败后，医生仍在试图清除其体内两剂致命剂量的戊巴比妥。",
+        "comment": "死刑执行失败暴露程序漏洞，人道与司法双重困境。",
+        "image": "",
+        "score": 86
       },
       {
         "category": "时事热点",
@@ -88,13 +168,23 @@
         "title": "驻日美军士兵因冲绳女性遇害案被捕",
         "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
         "summary": "日本政府就冲绳一名女性遇害事件向美方提出正式抗议，要求美军官员采取行动。一名美国海军陆战队士兵因涉嫌此案被捕。",
-        "comment": "驻日美军犯罪再触冲绳敏感神经，治外法权争议难消。",
+        "comment": "驻日美军犯罪再触冲绳敏感神经。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "澳大利亚",
+        "tag": "印度",
+        "title": "印度警方被指抗议活动中性骚扰记者",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+        "summary": "印度警方在抗议活动中被指性骚扰记者，此前警方拘留了数十名要求选举负责人辞职的抗议者，争议源于选民名册变更。",
+        "comment": "执法者涉嫌性骚扰记者，严重损害公信力。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "航空安全",
         "title": "澳大利亚调查Flydubai副驾驶与本国关联",
         "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
         "summary": "澳大利亚警方与安全机构正调查一名Flydubai副驾驶，该飞行员曾试图控制一架飞往以色列的航班。",
@@ -104,41 +194,11 @@
       },
       {
         "category": "时事热点",
-        "tag": "巴西大选",
-        "title": "巴西大选：卢拉对决弗拉维奥·博索纳罗",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-        "summary": "巴西大选将迎来左翼现任总统卢拉与右翼对手弗拉维奥·博索纳罗的对决，民调显示选情胶着。",
-        "comment": "巴西左右翼对决，选情胶着值得关注。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "印度",
-        "title": "印度警方被控在抗议中骚扰记者",
-        "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-        "summary": "印度警方在拘留要求选举负责人辞职的抗议者时，被指控对记者实施性骚扰。抗议针对选民名册变更。",
-        "comment": "执法者涉嫌骚扰记者，凸显印度新闻自由与抗议权利受挤压。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "校园安全",
-        "title": "康奈尔校长回应兄弟会强奸指控",
-        "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-        "summary": "康奈尔大学校长科特利科夫称，一名女性指控遭下药和轮奸的事件“令人深感不安”，并表示学校“必须做得更好”。",
-        "comment": "校园性侵指控再敲警钟，校方问责不能止于表态。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
         "tag": "西班牙",
         "title": "西班牙数万人抗议住房危机",
         "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
         "summary": "西班牙政府紧急住房法案未获议会通过，周六全国爆发50多场抗议，数万人上街表达愤怒。",
-        "comment": "住房危机正演变为西班牙的政治压力测试。",
+        "comment": "住房危机正演变为西班牙政治压力测试。",
         "image": "",
         "score": 86
       }
