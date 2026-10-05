@@ -3,112 +3,22 @@
     "week": "周日",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌暂停开源漏洞赏金计划，因AI提交激增",
-        "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-        "summary": "谷歌因AI生成的漏洞报告数量显著上升，暂停其开源漏洞赏金计划，低质量AI提交正冲击安全众测机制。",
-        "comment": "AI灌水正侵蚀开源安全协作的信任基础。",
+        "category": "数码科技",
+        "tag": "OpenAI",
+        "title": "OpenAI元老离职信揭露奥特曼不愿承认的真相",
+        "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道，OpenAI一位元老在离职信中披露了公司内部问题，直指奥特曼不愿承认的真相，涉及AI伦理与团队管理。",
+        "comment": "AI公司治理与伦理问题再敲警钟。",
         "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "特朗普公布新超级智能工作组",
-        "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-        "summary": "特朗普成立新工作组，回应AI安全争论，这是其针对该议题的最新动作。",
-        "comment": "AI安全议题正被政治化，工作组实效待观察。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "超级智能与非约束性安全协议能否改善AI形象？",
-        "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-        "summary": "TechCrunch探讨特朗普政府试图重塑AI形象，讨论超级智能与非约束性安全协议能否解决AI公众信任问题。",
-        "comment": "非约束性协议难解AI信任危机。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "铁拳8",
-        "title": "盲眼玩家从新手打上《铁拳8》最高段位",
-        "link": "https://www.ign.com/articles/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-from-beginner",
-        "summary": "职业选手SuperBrine戴睡眠眼罩完全盲操角色Alisa，从新手一路打上《铁拳8》最高段位“破坏神”，引发热议。",
-        "comment": "盲操登顶，刷新格斗游戏认知上限。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/04/tekken-8-pro-gets-god-of-destruction-alisa-blindfolded-1791154556788.jpg",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威",
-        "title": "《刀锋战士》导演力挺凯文·费奇，漫威砍掉马赫沙拉·阿里吸血鬼电影",
-        "link": "https://www.ign.com/articles/blade-director-defends-good-dude-kevin-feige-after-marvel-scrapped-mahershala-alis-1920s-vampire-movie",
-        "summary": "《刀锋战士》导演巴萨姆·塔里克退出马赫沙拉·阿里主演的漫威电影后自称像失败者，但他不怪罪凯文·费奇，并称费奇是好人。",
-        "comment": "项目夭折，导演仍护费奇，足见漫威内部人情与压力。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/04/mahershala-ali-1791148012054.png",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏主播",
-        "title": "Mighty Mike父亲回应AI衬衫争议，承诺退款",
-        "link": "https://www.ign.com/articles/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-refunds-for-ai-shirts",
-        "summary": "Mighty Mike Plays的父亲Dave承诺为AI衬衫退款，并发布长文解释，此前网友要求其说明儿子购买的YouTube广告。",
-        "comment": "AI周边翻车，退款是止损第一步。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/04/mighty-mike-plays-dad-1791154371431.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "DC",
-        "title": "詹姆斯·古恩否认詹森·阿克斯出演蝙蝠侠",
-        "link": "https://www.ign.com/articles/james-gunn-shuts-down-jensen-ackles-batman-casting-rumors",
-        "summary": "DC影业联合CEO詹姆斯·古恩否认了《邪恶力量》主演詹森·阿克斯已加盟DCU出演蝙蝠侠的传闻。",
-        "comment": "选角传闻遭官方否认，DCU蝙蝠侠人选仍悬而未决。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/04/jensen-ackles-1791142779543.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影票房",
-        "title": "汤姆·克鲁斯新片《掘金者》全球首周票房仅2000万美元",
-        "link": "https://www.ign.com/articles/tom-cruises-digger-bombs-hard-with-20-million-global-opening-in-theaters",
-        "summary": "汤姆·克鲁斯主演的《掘金者》全球首周末票房约2000万美元，表现惨淡，票房遇冷。",
-        "comment": "巨星号召力失灵，票房惨败敲响警钟。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/20/diggerthumb2-1784555245673.png",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "华为",
-        "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？",
+        "title": "十年前的\"外挂相机\"，如何在华为 Mate 90 上复活",
         "link": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿回顾十年前的外挂相机概念，分析其在华为 Mate 90 上以新形态复活的技术背景与产品逻辑，探讨这一超前想法为何如今才迎来合适时机。",
-        "comment": "外挂相机借华为新机回归，是技术成熟还是需求轮回？",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "OpenAI",
-        "title": "OpenAI元老离职信揭露奥特曼真相",
-        "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，OpenAI元老离职信揭示奥特曼不愿承认的真相，核心观点是教会AI善待人类前，先学会善待人。",
-        "comment": "AI伦理问题终究是人的问题。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "恐龙猎人",
-        "title": "《恐龙猎人：起源》TGS试玩体验",
-        "link": "https://www.gcores.com/articles/220518",
-        "summary": "TGS2026试玩《恐龙猎人：起源》，Saber Interactive用UE5重启90年代经典系列，画面与动作表现已达现代水准，狩猎乐趣回归。",
-        "comment": "老IP重启，UE5加持，狩猎手感是关键。",
+        "summary": "爱范儿回顾十年前的外挂相机概念，分析该想法为何在华为 Mate 90 上重新出现，并探讨其是否终于迎来适合的时代。",
+        "comment": "超前概念能否借华为新机真正落地，值得观察。",
         "image": "",
         "score": 90
       },
@@ -117,20 +27,20 @@
         "tag": "游戏博物馆",
         "title": "万物破元游戏博物馆的兴衰故事",
         "link": "https://www.gcores.com/radios/220319",
-        "summary": "机核节目回顾广州万物破元游戏博物馆的建立与告别，对话独立游戏前辈拼命玩三郎和盲灯，探讨游戏人文精神在不同年代玩家间的传递。",
-        "comment": "博物馆虽逝，游戏人文火种仍在玩家间传递。",
+        "summary": "节目录制于深圳核聚变前，在广州与独立游戏前辈拼命玩三郎和盲灯对谈，回顾万物破元游戏博物馆的建立与告别，探讨游戏人文精神在不同年代玩家间的传递。",
+        "comment": "游戏博物馆的消亡，折射出国内游戏文化保存的困境。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "游戏优惠",
-        "title": "今日游戏硬件优惠：星战零连、AirPods Pro 3等",
-        "link": "https://www.ign.com/articles/best-deals-for-october-4-2026",
-        "summary": "IGN汇总今日优惠，包括《星球大战：零连》、《空之轨迹1st》及AirPods Pro 3等游戏与硬件折扣。",
-        "comment": "常规促销汇总，无独家信息。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/23/ss-68d5acedd1b34badb379215eaf2bd0af3f43c3b1-1920x1080-1790160103533.jpg",
-        "score": 85
+        "tag": "游戏",
+        "title": "《恐龙猎人：起源》TGS试玩体验",
+        "link": "https://www.gcores.com/articles/220518",
+        "summary": "TGS2026试玩《恐龙猎人：起源》，该作由Saber Interactive用UE5重启90年代经典系列，画面与动作表现已达现代水准，在恐龙与枪械间找回狩猎乐趣。",
+        "comment": "老IP用UE5重启，方向对了，关键看玩法能否撑住。",
+        "image": "",
+        "score": 89
       }
     ]
   }

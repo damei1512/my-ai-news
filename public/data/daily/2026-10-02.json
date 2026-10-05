@@ -7,7 +7,7 @@
         "tag": "OpenAI",
         "title": "OpenAI发布GPT-6家族模型实用指南",
         "link": "https://openai.com/index/practical-guide-building-gpt-6",
-        "summary": "OpenAI发布指南，介绍初创企业如何选择GPT-6模型、调整推理强度、优化提示与技能、协调工具，并为生产环境准备流程。",
+        "summary": "OpenAI发布指南，介绍初创企业如何选择GPT-6模型、调整推理强度、优化提示与技能、协调工具，并为生产环境准备工作流。",
         "comment": "GPT-6落地指南，重在工程化而非炫技。",
         "image": "",
         "score": 100
@@ -15,120 +15,40 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Chatham用OpenAI将交易验证缩至4分钟",
+        "title": "Chatham借助OpenAI将交易验证缩至4分钟内",
         "link": "https://openai.com/index/chatham-financial",
-        "summary": "Chatham Financial借助Codex与GPT-5.6开发技术并重构工作流，将交易验证时间从30分钟压缩到4分钟以内。",
-        "comment": "AI落地金融后台，效率提升近8倍。",
+        "summary": "Chatham Financial利用Codex和GPT-5.6构建技术并重塑工作流，将交易验证时间从30分钟压缩至4分钟以内，展现AI在资本市场专业场景的效率提升。",
+        "comment": "AI落地金融后台，效率提升近8倍，值得关注。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "Stability AI",
-        "title": "肖恩·帕克围绕音乐重建Stability AI",
-        "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-        "summary": "TechCrunch报道，曾让音乐行业领教先斩后奏的肖恩·帕克，如今带着唱片公司的祝福与资金回归，围绕音乐重建Stability AI。",
-        "comment": "帕克从颠覆者变合作者，AI音乐版权或迎新玩法。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026 推出75美元优惠票",
-        "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-        "summary": "TechCrunch 针对受裁员影响者推出 Disrupt 2026 Expo+ 通行证，售价75美元，限前100名符合条件者，称下一次机会可能只差一次对话。",
-        "comment": "促销借裁员焦虑引流，商业意图明显。",
-        "image": "",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6 将荒诞现实放大到极致",
-        "link": "https://www.gamespot.com/articles/gta-6-takes-the-ridiculous-world-we-live-in-and-turns-it-up-to-11/",
-        "summary": "GameSpot 报道称，Rockstar 在《GTA 6》中刻意映射并放大当下世界的荒诞现实，让游戏与现实的距离进一步缩短。",
-        "comment": "现实越离谱，GTA 越像纪录片。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Lucia.jpg?w=300",
-        "score": 92
-      },
-      {
         "category": "数码科技",
         "tag": "MiniMax",
-        "title": "MiniMax M3.1 同题挑战 Opus 5.5，Flash 能力超纲",
+        "title": "MiniMax M3.1 与 Opus 5.5 同题交卷，Flash 表现超纲",
         "link": "https://www.ifanr.com/1682850?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道 MiniMax M3.1 与 Opus 5.5 同题对比，称其让 Flash 开始超纲，兼顾智能高度与使用广度。",
-        "comment": "国产模型同题对标，Flash 能力边界被推高。",
+        "summary": "爱范儿报道 MiniMax M3.1 与 Opus 5.5 同题对比，称其在智能高度与使用广度上均有突破，Flash 表现超出预期。",
+        "comment": "国产模型同题对标国际旗舰，值得关注。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "开发者称GTA 6应为游戏涨价开路",
-        "link": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
-        "summary": "Rockstar的GTA 6标准版定价80美元，有开发者表示希望其他团队效仿，提高新游戏售价以帮助行业发展。",
-        "comment": "涨价若成趋势，玩家买单意愿是关键。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Ambrosia_05.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏展",
-        "title": "第二届RED LAND登陆复兴岛 160+IP齐聚",
+        "tag": "游戏",
+        "title": "第二届RED LAND开岛：160+IP齐聚复兴岛",
         "link": "https://www.gcores.com/articles/220480",
-        "summary": "10月2日，小红书RED LAND在上海复兴岛开幕，场地扩至15万平方米，超160个游戏动漫IP登岛，活动持续至10月6日。",
-        "comment": "规模翻倍，二次元线下狂欢热度不减。",
+        "summary": "10月2日，小红书RED LAND在上海复兴岛开幕，规模翻倍至15万平方米，超160个游戏动漫IP登岛，并推出全球首创游戏二次元花车巡游，活动持续至10月6日。",
+        "comment": "规模翻倍、花车首创，二次元线下场景正加速升级。",
         "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏补丁",
-        "title": "《深渊终结》发售次日补丁修复多数问题",
-        "link": "https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/",
-        "summary": "GameSpot评测称《深渊终结》有趣但体验不稳定，发售仅一天后官方补丁便修复了评测中提出的大部分问题。",
-        "comment": "快速响应值得肯定，但首发品质仍显仓促。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/end-of-abyss-sgf-demo-screenshot-2-1920x1080-723902e259f1.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6新截图疑似致敬《低俗小说》",
-        "link": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
-        "summary": "GameSpot报道，GTA 6新截图被玩家发现疑似引用昆汀·塔伦蒂诺1994年电影《低俗小说》的经典开场场景，显示游戏可能大量融入电影梗。",
-        "comment": "电影彩蛋或成GTA 6的叙事调味剂。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_13.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox Game Pass 10月将下架9款游戏",
-        "link": "https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/",
-        "summary": "GameSpot报道，Xbox Game Pass 10月将移除9款游戏，月初通常也会公布新增入库作品。",
-        "comment": "订阅制游戏库持续换血，玩家需留意离库时间。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1713/17133350/4557789-clair-obscur-franchise.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Netflix",
-        "title": "Netflix CEO回应五年后是否仍做游戏",
-        "link": "https://www.gamespot.com/articles/in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said/",
-        "summary": "Netflix CEO被问及五年后是否仍会留在游戏领域，此前公司已试验游戏业务一段时间，外界关注其是否会退出。",
-        "comment": "Netflix游戏业务前景未明，CEO表态成关键信号。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/netflix-Large.jpeg?w=300",
-        "score": 90
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "Kindle",
         "title": "铝合金版Kindle曝光，压泡面更稳",
         "link": "https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道称铝合金材质Kindle亮相，机身更坚固，延续其“泡面盖”网络梗，引发数码爱好者关注。",
-        "comment": "材质升级是亮点，但阅读体验才是核心。",
+        "summary": "爱范儿报道称铝合金Kindle即将推出，机身更坚固，延续了用Kindle压泡面的网络梗。",
+        "comment": "材质升级是好事，但阅读体验才是核心。",
         "image": "",
         "score": 89
       }

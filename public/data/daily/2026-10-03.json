@@ -3,82 +3,42 @@
     "week": "周六",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI安全员工辞职，称公司文化已崩坏",
-        "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-        "summary": "OpenAI安全团队成员David Robinson在辞职时公开警告，称公司安全文化已破裂。他承认自己的举动像典型桥段，但仍选择发声。",
-        "comment": "安全团队出走，OpenAI治理再受拷问。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "亚马逊",
-        "title": "亚马逊回应数据中心争议，称已停用保密协议",
-        "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-        "summary": "AWS CEO回应外界对数据中心的普遍质疑，表示亚马逊已不再使用保密协议，试图缓解社区与监管压力。",
-        "comment": "停用NDA是姿态，关键看选址与用电透明度。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta免费开放Muse，瞄准各类智能设备",
-        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-        "summary": "Meta将Muse代码免费开放，鼓励开发者将其嵌入电视、家电等设备，意在扩大AI生态影响力。",
-        "comment": "免费开源是抢占入口的惯用打法。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI智能体",
-        "title": "可驻留短信中的AI智能体盘点",
-        "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "summary": "TechCrunch梳理了多款可运行在短信中的AI智能体，涵盖通用助手及面向家庭、旅行和工作的专用代理。",
-        "comment": "短信成AI智能体新入口，轻量场景值得关注。",
-        "image": "",
-        "score": 98
-      },
-      {
         "category": "数码科技",
         "tag": "AI视频",
         "title": "AI视频榜全球第二，新影视公司野心显现",
         "link": "https://www.ifanr.com/1682888?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "一家影视公司凭借视频模型冲上全球AI视频榜单第二，显示其在AI视频生成领域的竞争力与布局野心。",
-        "comment": "影视公司切入AI视频模型，行业边界正在模糊。",
+        "summary": "一家影视公司凭借视频模型冲上全球AI视频榜单第二，显示其在生成式视频领域的技术实力与行业野心。",
+        "comment": "影视公司切入AI视频模型，或重塑内容生产格局。",
         "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "B站",
         "title": "B站连续三年独家承办WF手办模型展，站内模玩UP主超76万",
         "link": "https://www.gcores.com/articles/220495",
-        "summary": "WF2026于10月3日至4日在上海举办，预计线下参与超15万人次，吸引400余家品牌展商，续展率95.8%，B站连续三年独家承办。",
+        "summary": "WF2026于10月3日至4日在上海举办，预计线下参与超15万人次，吸引400余家品牌展商，老展商续展率95.8%，新增77家新品牌。",
         "comment": "B站以独家承办绑定头部展会，模玩生态护城河加深。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "游戏消费",
-        "title": "游戏内消费心理探讨：为何总想在游戏里花钱",
-        "link": "https://www.gcores.com/radios/220498",
-        "summary": "机核播客节目讨论玩家为何总喜欢在游戏里花钱，由Nadya、西蒙和Ryoma主持，分析游戏内消费的心理动机。",
-        "comment": "游戏消费心理值得深思，但节目深度有限。",
+        "tag": "游戏推荐",
+        "title": "秋促8.4元《火线迈阿密》：高难度为何让人欲罢不能",
+        "link": "https://www.gcores.com/articles/220484",
+        "summary": "机核推荐秋促仅8.4元的《火线迈阿密》，这款2012年游戏以高难度和极度耐玩著称，虽让人死到红温，却仍舍不得关掉。",
+        "comment": "低价高难，痛并快乐着的经典。",
         "image": "",
-        "score": 88
+        "score": 89
       },
       {
         "category": "游戏影视",
-        "tag": "火线迈阿密",
-        "title": "秋促8.4元《火线迈阿密》为何让人死到红温仍不舍",
-        "link": "https://www.gcores.com/articles/220484",
-        "summary": "机核推荐秋促仅8.4元的《火线迈阿密》，称其高难度却极度耐玩，玩家反复失败仍不愿关游戏，是10元预算内最值得推荐的选择。",
-        "comment": "低价高难，虐到上头才是真耐玩。",
+        "tag": "游戏消费",
+        "title": "游戏内消费心理探讨：为何总想在游戏里花钱",
+        "link": "https://www.gcores.com/radios/220498",
+        "summary": "机核播客“核电波”讨论玩家为何总在游戏里花钱，由Nadya、西蒙、Ryoma主持，本期为视频播客音频版。",
+        "comment": "游戏消费心理话题贴近玩家，但内容形式偏闲聊。",
         "image": "",
         "score": 88
       }
