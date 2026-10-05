@@ -3,22 +3,222 @@
     "week": "周一",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI在ChatGPT推出新视觉广告格式",
+        "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "summary": "OpenAI为ChatGPT引入新视觉广告格式，并扩展广告衡量工具、归因合作与品牌适配能力，面向广告主开放。",
+        "comment": "AI助手商业化提速，广告与体验的平衡成关键。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "生成式AI",
+        "title": "Safeworld能否让人相信生成式AI机器人无害",
+        "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+        "summary": "Safeworld正构建数字人类，以确保机器人不伤害真实人类，试图解决生成式AI机器人安全信任问题。",
+        "comment": "机器人安全信任是落地关键，数字人方案待验证。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "Rockstar为GTA 6研究深入佛州，与帮派和警察同行",
+        "link": "https://www.ign.com/articles/gta-6-research-gang-members",
+        "summary": "Rockstar透露，为制作GTA 6，团队曾与帮派成员和警察一起穿越佛罗里达实地考察，还乘直升机盘旋在碧昂丝演唱会上方。",
+        "comment": "极致考据背后，是开放世界真实感的军备竞赛。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg",
+        "score": 94
+      },
+      {
         "category": "游戏影视",
         "tag": "绿灯侠",
-        "title": "《绿灯侠》第一季结局评测：转折可预见但情感动人",
+        "title": "粉丝称钱德勒版绿灯侠选角媲美钢铁侠",
+        "link": "https://www.ign.com/articles/lanterns-star-kyle-chandlers-hal-jordan-is-a-superhero-casting-that-rivals-robert-downey-jrs-iron-man-fans-say",
+        "summary": "《绿灯侠》第一季完结，粉丝认为凯尔·钱德勒饰演的哈尔·乔丹堪称史上最佳超级英雄选角之一，可与小罗伯特·唐尼的钢铁侠相提并论。",
+        "comment": "粉丝盛赞选角，但能否比肩唐尼仍需时间检验。",
+        "image": "https://assets-prd.ignimgs.com/2026/07/24/lanterns-kyle-chandler-thumb-1784930448218.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "绿灯侠",
+        "title": "《绿灯侠》第一季结局评测：转折可预见但情感收尾令人满意",
         "link": "https://www.ign.com/articles/lanterns-season-1-finale-review-recap",
-        "summary": "IGN评测指出，《绿灯侠》第一季第8集虽多数转折提前可猜，但结局在情感层面令人满意，为整季画上圆满句号。",
-        "comment": "套路虽旧，情感收尾仍有效。",
+        "summary": "IGN评测指出，《绿灯侠》第一季第8集虽多数转折提前可猜，但整体以情感饱满的方式收尾，令观众满意。",
+        "comment": "套路虽旧，情感落点救了结局。",
         "image": "https://assets-prd.ignimgs.com/2026/10/01/lanterns-episode-8-preview-hbo-max-0-18-screenshot-1790875719176.png",
         "score": 92
       },
       {
+        "category": "游戏影视",
+        "tag": "蜘蛛夫人",
+        "title": "达科塔·约翰逊自嘲《蜘蛛夫人》成好莱坞票房惨败",
+        "link": "https://www.ign.com/articles/the-movie-still-hasnt-made-any-money-dakota-johnson-is-happy-to-joke-about-madame-web-being-one-of-hollywoods-worst-ever-flops",
+        "summary": "达科塔·约翰逊公开调侃自己主演的《蜘蛛夫人》票房惨败，称该片仍未盈利，并笑对这部广受差评的超级英雄电影成为好莱坞史上最失败作品之一。",
+        "comment": "敢自嘲，反显清醒，比硬撑体面。",
+        "image": "https://assets-prd.ignimgs.com/2024/02/13/madameweb-review-blogroll-1707831175936.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏改编",
+        "title": "生化危机工作室瞄准战地电影改编",
+        "link": "https://www.gamespot.com/articles/resident-evil-studio-thats-making-nintendos-zelda-movie-now-gunning-for-battlefield-as-well/",
+        "summary": "继参与任天堂塞尔达电影后，生化危机制作工作室又瞄准战地系列。据报道，索尼影业在竞标战中领先，有望获得战地电影改编权。",
+        "comment": "游戏IP改编热潮持续，索尼再下一城。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/bf6-Large.jpeg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "恋与深空",
+        "title": "《恋与深空》开发者请求玩家勿饮毒药",
+        "link": "https://www.gamespot.com/articles/love-and-deepspace-devs-have-one-simple-request-please-dont-drink-the-poison/",
+        "summary": "《恋与深空》开发商Papergames在Valko争议后向玩家发出请求，希望玩家不要饮用毒药，此前社区因争议陷入分裂。",
+        "comment": "官方喊话防极端行为，社区矛盾已升级。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Oh-right-the-poison.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "影之刃零",
+        "title": "WF2026首曝《影之刃零》主角魂1:1雕像",
+        "link": "https://www.gcores.com/articles/220527",
+        "summary": "WF2026上海展会上，INART首次展出《影之刃零》主角魂的1:1与1:3雕像，现场人气火爆。3D美术负责人王琛同步放出实拍照片及研发细节物料。",
+        "comment": "国产游戏IP的实体化展示正走向高规格。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "手办模型",
+        "title": "15万人线下手办聚会为何仍被需要",
+        "link": "https://www.gcores.com/articles/220529",
+        "summary": "机核作者回顾连续三年国庆赴上海参加WF2026手办模型展，现场预计突破15万人次，年轻人拖着行李箱、推车与防震摄影包涌入，展现线下展会独特吸引力。",
+        "comment": "线下手办展的价值在人与物的真实相遇。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "时事热点",
+        "tag": "航空安全",
+        "title": "迪拜航空副驾驶被曝图谋驾机撞击特拉维夫机场",
+        "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+        "summary": "报道称，一名阿曼籍迪拜航空副驾驶系“独狼”极端分子，曾计划驾机撞击以色列特拉维夫机场或建筑。",
+        "comment": "若属实，航空安保与人员审查漏洞值得警惕。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "三国",
+        "title": "白话三国第十回：文丑扎营延津渡",
+        "link": "https://www.gcores.com/radios/219364",
+        "summary": "本期节目讲述文丑率大军回到黄河渡口为颜良复仇，在阵上遭遇新对手，并关注曹操的用人本领是否依旧。",
+        "comment": "三国评书持续更新，文丑复仇战值得一听。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "三国",
+        "title": "白话三国第九回：袁绍怒斩刘备",
+        "link": "https://www.gcores.com/radios/219363",
+        "summary": "颜良被斩消息传回冀州，袁绍得知缘由后大怒，刘备因此身陷险境，性命危在旦夕。",
+        "comment": "三国评书式节目，本期冲突升级，刘备处境堪忧。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "法国",
+        "title": "法国校园抗议者与警察冲突，一少年手被炸断",
+        "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+        "summary": "法国加来海峡省一所学校抗议者与警察发生冲突，一名15岁少年的手被炸断。省长称事件“非常严重”，但少年生命“没有危险”。",
+        "comment": "校园抗议升级为肢体伤残，执法尺度亟待追问。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "诺贝尔奖",
+        "title": "诺贝尔奖授予揭示大脑内部运作机制的研究",
+        "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国精神病学家兼神经学家卡尔·戴瑟罗斯与德国同事彼得·黑格曼、格奥尔格·内格尔因揭示大脑内部运作机制的研究获诺贝尔奖。",
+        "comment": "脑科学基础突破再获诺奖认可。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国枪击",
+        "title": "佐治亚州枪击案致2死35伤，警方追捕嫌犯",
+        "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国佐治亚州一场返校庆祝活动遭枪击，数十发子弹射向人群，造成2人死亡、35人受伤，警方正追捕嫌疑人。",
+        "comment": "公共场所枪击频发，美国控枪困境依旧。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "西班牙",
+        "title": "西班牙首相桑切斯宣布提前大选",
+        "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+        "summary": "西班牙首相桑切斯在住房危机相关措施受挫后，宣布将于11月29日提前举行大选。",
+        "comment": "住房抗议成导火索，桑切斯以提前大选寻求民意授权。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "英国",
+        "title": "美撤轰炸机后英方坚称费尔福德基地安全",
+        "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+        "summary": "美媒称因新威胁，美军于周日从英国费尔福德基地撤走轰炸机。此前该基地附近曾发生一起事件。英国首相府坚称基地安全。",
+        "comment": "撤机与表态矛盾，暴露英美安全信息不同步。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "冲绳",
+        "title": "驻日美军士兵涉谋杀被捕 冲绳抗议再起",
+        "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+        "summary": "一名美国海军陆战队员因涉嫌谋杀在冲绳被捕，当地民众长期对驻日美军基地的不满与愤怒再度爆发，抗议活动重新升温。",
+        "comment": "驻军犯罪反复刺痛冲绳，治外法权争议难解。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "尼日利亚",
+        "title": "尼日利亚警方称炸弹阻碍营救被绑青年",
+        "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
+        "summary": "尼日利亚19名青年遭绑架，警方称现场炸弹阻碍救援。一名被绑者父亲告诉BBC，他因担忧已三天未进食。",
+        "comment": "炸弹阻援，人质危机更显紧迫。",
+        "image": "",
+        "score": 86
+      },
+      {
         "category": "时事热点",
         "tag": "巴西大选",
-        "title": "巴西大选进入第二轮，右翼候选人博索纳罗领先",
+        "title": "巴西大选首轮：右翼博索纳罗胜出",
         "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-        "summary": "巴西总统选举首轮无人得票过半，右翼候选人弗拉维奥·博索纳罗领先，选举将于10月25日举行第二轮投票。",
-        "comment": "巴西政治极化加剧，第二轮对决悬念仍存。",
+        "summary": "巴西大选首轮无人得票过半，右翼候选人弗拉维奥·博索纳罗胜出，将与对手于10月25日进入第二轮决选。",
+        "comment": "博索纳罗家族势头延续，巴西政治极化加剧。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "航空事故",
+        "title": "美国海岸附近失踪飞机六名乘客推定遇难",
+        "link": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+        "summary": "一架飞机在美国海岸附近失联，飞行数据显示其曾大幅下降高度并与空管失去联系，机上六人推定死亡。",
+        "comment": "失联前高度骤降，事故原因待查。",
         "image": "",
         "score": 86
       }
