@@ -5,19 +5,19 @@
       {
         "category": "人工智能",
         "tag": "苹果",
-        "title": "苹果收紧macOS完全磁盘访问权限，应对AI代理新风险",
+        "title": "苹果收紧macOS完全磁盘访问权限，应对AI代理风险",
         "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-        "summary": "苹果宣布将围绕macOS的完全磁盘访问权限增加新管控，警告能力日益增强的AI代理可能滥用对用户文件、信息和邮件的广泛访问权限。",
-        "comment": "AI代理倒逼系统权限模型升级，安全边界需重划。",
+        "summary": "苹果宣布将为macOS的完全磁盘访问权限增加新管控，警告能力日益增强的AI代理可能滥用对用户文件、信息和邮件的广泛访问权限。",
+        "comment": "AI代理倒逼系统权限收紧，安全边界需重划。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI发布GPT-6系列模型实用指南",
+        "tag": "GPT-6",
+        "title": "GPT-6家族模型实用指南发布",
         "link": "https://openai.com/index/practical-guide-building-gpt-6",
-        "summary": "OpenAI发布指南，介绍初创企业如何选择GPT-6模型、调整推理强度、优化提示与技能、协调工具，并为生产环境准备工作流。",
+        "summary": "OpenAI发布指南，介绍初创企业如何选择GPT-6模型、调节推理强度、优化提示与技能、协调工具，并为生产环境准备流程。",
         "comment": "GPT-6落地指南，重在工程化与生产适配。",
         "image": "",
         "score": 100
@@ -25,7 +25,7 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Chatham用OpenAI将交易验证缩至4分钟内",
+        "title": "Chatham用OpenAI将交易验证缩至4分钟",
         "link": "https://openai.com/index/chatham-financial",
         "summary": "Chatham Financial借助Codex与GPT-5.6开发技术并重构工作流，将交易验证时间从30分钟压缩到4分钟以内。",
         "comment": "AI落地金融后台，效率提升近8倍。",
@@ -34,40 +34,30 @@
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "Stability AI",
         "title": "肖恩·帕克围绕音乐重建 Stability AI",
         "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-        "summary": "TechCrunch 报道，曾以先斩后奏方式冲击音乐行业的肖恩·帕克，如今在唱片公司支持与资金加持下，正围绕音乐业务重建 Stability AI。",
-        "comment": "旧颠覆者获唱片业背书，AI音乐格局生变。",
+        "summary": "TechCrunch 报道，曾以先斩后奏方式冲击音乐行业的肖恩·帕克，如今获得唱片公司支持与资金，正围绕音乐业务重建 Stability AI。",
+        "comment": "从颠覆者到合作者，AI音乐版权博弈进入新阶段。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026 推出75美元优惠票",
+        "title": "TechCrunch 2026大会推出75美元优惠票",
         "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-        "summary": "TechCrunch 为受裁员影响者提供 Disrupt 2026 Expo+ 通行证，售价75美元，限前100名符合条件者，旨在帮助其拓展职业机会。",
-        "comment": "裁员潮下，科技媒体用低价门票切入求职需求。",
+        "summary": "TechCrunch为受裁员影响者提供Disrupt 2026 Expo+通行证优惠，仅75美元，限前100名符合条件者。",
+        "comment": "科技裁员潮下，大会借优惠票吸引潜在参会者。",
         "image": "",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "开发者称GTA 6应引领游戏涨价潮",
-        "link": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
-        "summary": "Rockstar的GTA 6标准版定价80美元，有开发者表示希望其他团队效仿，提高新游戏售价以帮助行业发展。",
-        "comment": "涨价若成常态，玩家买单意愿将受考验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Ambrosia_05.jpg?w=300",
-        "score": 92
+        "score": 95
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
         "title": "GTA 6 将荒诞现实放大到极致",
         "link": "https://www.gamespot.com/articles/gta-6-takes-the-ridiculous-world-we-live-in-and-turns-it-up-to-11/",
-        "summary": "GameSpot 报道称，Rockstar 在《GTA 6》中不再只是虚构，而是有意映射并放大当下世界的荒诞状态，让游戏与现实的距离进一步缩短。",
+        "summary": "GameSpot 报道，Rockstar 的 GTA 6 不再只是远离现实的游戏，而是有意映照并放大当下世界的荒诞状态，把现实推向更夸张的十一级。",
         "comment": "当现实足够荒诞，游戏反而成了最诚实的镜子。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Lucia.jpg?w=300",
         "score": 92
@@ -77,8 +67,8 @@
         "tag": "MiniMax",
         "title": "MiniMax M3.1 与 Opus 5.5 同题交卷，Flash 开始超纲",
         "link": "https://www.ifanr.com/1682850?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道 MiniMax M3.1 与 Opus 5.5 同题对比，称其让 Flash 开始超纲，兼顾智能高度与使用广度。",
-        "comment": "国产模型同题对标，性能与普及度双线逼近。",
+        "summary": "爱范儿报道 MiniMax M3.1 与 Opus 5.5 同题对比，称其在智能高度与使用广度上均有突破，Flash 表现超出预期。",
+        "comment": "国产模型同题对标国际旗舰，值得关注。",
         "image": "",
         "score": 91
       },
@@ -95,11 +85,11 @@
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6新截图疑似致敬《低俗小说》",
-        "link": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
-        "summary": "GameSpot报道，GTA 6新截图被玩家发现疑似引用昆汀·塔伦蒂诺1994年电影《低俗小说》的经典开场场景，暗示游戏将大量融入电影梗。",
-        "comment": "R星玩梗老手，电影彩蛋或成营销利器。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_13.jpg?w=300",
+        "title": "开发者称GTA 6应引领游戏涨价潮",
+        "link": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
+        "summary": "Rockstar的GTA 6标准版定价80美元。有开发者表示，希望其他团队效仿，提高新游戏售价以帮助行业发展。",
+        "comment": "涨价若成趋势，玩家钱包先承压。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Ambrosia_05.jpg?w=300",
         "score": 91
       },
       {
@@ -108,7 +98,7 @@
         "title": "Netflix CEO回应五年后是否仍做游戏",
         "link": "https://www.gamespot.com/articles/in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said/",
         "summary": "Netflix CEO被问及五年后是否仍会留在游戏领域，此前公司已试验游戏业务一段时间，外界关注其是否会退出。",
-        "comment": "Netflix游戏业务前景未明，CEO表态成关键信号。",
+        "comment": "Netflix游戏业务前景仍不明朗，CEO表态值得关注。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/netflix-Large.jpeg?w=300",
         "score": 91
       },
@@ -117,8 +107,8 @@
         "tag": "GTA 6",
         "title": "热火队将在GTA 6发售前一天穿主题球衣比赛",
         "link": "https://www.gamespot.com/articles/nbas-miami-heat-will-wear-gta-6-jerseys-and-play-on-a-branded-court-the-day-before-release/",
-        "summary": "迈阿密热火队宣布11月18日主场迎战雄鹿队时，将身穿GTA 6主题球衣，并使用品牌定制球场，比赛恰逢游戏发售前一天。",
-        "comment": "体育与游戏跨界营销，时机精准。",
+        "summary": "迈阿密热火宣布11月18日主场迎战雄鹿时，将身穿GTA 6主题球衣，并使用品牌定制球场，比赛恰在游戏发售前一天。",
+        "comment": "体育与游戏联动营销，时机精准。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_09.jpg?w=300",
         "score": 91
       },
@@ -127,8 +117,8 @@
         "tag": "暴雪",
         "title": "暴雪封禁宣传买金的主播",
         "link": "https://www.gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it/",
-        "summary": "《魔兽世界：永恒》知名主播因在直播中鼓励观众代其购买金币而被封禁，显示暴雪可能终于认真对待游戏内金币交易问题。",
-        "comment": "封禁主播是姿态，能否根治买金仍待观察。",
+        "summary": "《魔兽世界：永恒》知名主播因在直播中鼓励观众代其购买金币而被封禁，显示暴雪可能开始认真打击游戏内金币交易。",
+        "comment": "封禁主播是信号，关键看后续执行。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Streamer-Ban.jpg?w=300",
         "score": 91
       },
@@ -138,7 +128,7 @@
         "title": "第二届RED LAND开岛：160+IP齐聚复兴岛",
         "link": "https://www.gcores.com/articles/220480",
         "summary": "10月2日，小红书RED LAND在上海复兴岛开幕，规模翻倍至15万平方米，超160个游戏动漫IP登岛，并首创游戏二次元花车巡游，活动持续至10月6日。",
-        "comment": "IP翻倍、场地翻倍，二次元线下热度仍在攀升。",
+        "comment": "规模翻倍加花车首创，线下二次元热度仍在攀升。",
         "image": "",
         "score": 90
       },
@@ -148,7 +138,7 @@
         "title": "《007 初露锋芒》免费DLC「进阶行动」上线",
         "link": "https://www.gcores.com/articles/220472",
         "summary": "IO Interactive与Amazon MGM Studios宣布，《007 初露锋芒》免费DLC「进阶行动」正式上线，新增新游戏+、00难度、武器动画优化、拍照模式及Valhalla协议任务。",
-        "comment": "免费补足社区核心诉求，诚意可嘉。",
+        "comment": "免费DLC精准回应社区诉求，诚意可嘉。",
         "image": "",
         "score": 90
       },
@@ -158,27 +148,27 @@
         "title": "《深渊终结》发售次日补丁修复多数问题",
         "link": "https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/",
         "summary": "GameSpot评测称《深渊终结》有趣但体验不稳定，开发商在发售仅一天后推出补丁，修复了评测中提出的大部分问题。",
-        "comment": "快速响应值得肯定，但首发品质仍需反思。",
+        "comment": "快速响应补丁值得肯定，但首发品质仍显仓促。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/end-of-abyss-sgf-demo-screenshot-2-1920x1080-723902e259f1.jpg?w=300",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox Game Pass 十月下架九款游戏",
-        "link": "https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/",
-        "summary": "GameSpot 报道，Xbox Game Pass 十月将下架九款游戏，月初通常也会公布新增阵容，订阅用户需留意离库时间。",
-        "comment": "订阅制游戏进出频繁，玩家需提前规划。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1713/17133350/4557789-clair-obscur-franchise.jpg?w=300",
+        "tag": "GTA 6",
+        "title": "GTA 6新截图疑似致敬《低俗小说》",
+        "link": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
+        "summary": "GameSpot报道，Rockstar发布《GTA 6》新截图，玩家发现画面疑似致敬昆汀·塔伦蒂诺1994年电影《低俗小说》的经典开场场景。",
+        "comment": "彩蛋先行，实机与发售日仍成谜。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_13.jpg?w=300",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "PS5",
-        "title": "索尼新版PS5 Slim成本或降低，售价未变",
+        "title": "索尼再改款PS5 Slim，成本或降售价不变",
         "link": "https://www.gamespot.com/articles/sonys-revised-ps5-slim-could-be-getting-cheaper-to-make-but-not-to-buy/",
-        "summary": "索尼再次悄然修订PS5主机，主板内部组件出现新变化。目前尚不清楚新型号何时上市，但制造成本可能下降，零售价预计不变。",
-        "comment": "成本降了，玩家未必受益。",
+        "summary": "索尼再次悄然修订PS5 Slim，主板内部组件有调整，新机型何时上市尚不明确。分析称制造成本可能降低，但零售价预计不会下调。",
+        "comment": "降本不降价，索尼利润优先。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/06/PS5-Body.jpg?w=300",
         "score": 90
       },
@@ -187,18 +177,28 @@
         "tag": "死亡美学",
         "title": "死亡美学：电影与绘画中的死亡狂欢",
         "link": "https://www.gcores.com/videos/220475",
-        "summary": "从欧洲中世纪死亡之舞到墨西哥亡灵节，机核借绘画与电影梳理不同文明对死亡的迷恋与想象，拆解死亡美学的视觉表达。",
-        "comment": "死亡是艺术最持久的缪斯，视角有趣。",
+        "summary": "从欧洲中世纪死亡之舞到墨西哥亡灵节，文章借绘画与电影梳理不同文明对死亡的想象，拆解令人迷恋的死亡美学。",
+        "comment": "死亡被艺术反复消费，也反复照亮生者。",
         "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Xbox Game Pass",
+        "title": "Xbox Game Pass 10月将下架9款游戏",
+        "link": "https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/",
+        "summary": "GameSpot报道，Xbox Game Pass确认10月将有9款游戏离开订阅库，月初通常也会公布新增游戏名单。",
+        "comment": "订阅制游戏库持续换血，玩家需留意下架时间。",
+        "image": "https://www.gamespot.com/wp-content/uploads/original/1713/17133350/4557789-clair-obscur-franchise.jpg?w=300",
         "score": 89
       },
       {
         "category": "数码科技",
         "tag": "Kindle",
-        "title": "铝合金版Kindle曝光，压泡面更稳",
+        "title": "铝合金版Kindle曝光，泡面盖升级",
         "link": "https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道称铝合金材质Kindle即将推出，机身更坚固，网友调侃其压泡面功能更稳。",
-        "comment": "材质升级是好事，但Kindle的痛点从来不在外壳。",
+        "summary": "爱范儿报道称铝合金版Kindle亮相，机身更坚固，调侃其压泡面更稳，并引导关注公众号获取更多内容。",
+        "comment": "材质升级是亮点，但阅读体验才是关键。",
         "image": "",
         "score": 88
       },
@@ -207,8 +207,8 @@
         "tag": "游戏",
         "title": "火焰纹章与金刚狼游戏日记",
         "link": "https://www.gcores.com/radios/220491",
-        "summary": "机核播客讨论最佳《火焰纹章》与最差《金刚狼》，并涉及《瘟疫传说》新作和《战狗》，录制于国庆节当晚。",
-        "comment": "播客闲聊游戏优劣，观点鲜明但偏主观。",
+        "summary": "机核播客讨论最佳《火焰纹章》与最差《金刚狼》，兼谈《瘟疫传说》新作及《战狗》，录制于国庆当晚。",
+        "comment": "游戏评价两极，播客闲聊有料。",
         "image": "",
         "score": 88
       }
