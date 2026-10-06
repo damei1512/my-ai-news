@@ -1,10 +1,10 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-10-06T05:07:03Z",
+  "finished_at": "2026-10-06T12:51:22Z",
   "sources": 9,
   "raw_items": 70,
-  "stories": 69,
+  "stories": 70,
   "database": "/home/runner/work/my-ai-news/my-ai-news/data/app.db",
   "publish_dir": "/home/runner/work/my-ai-news/my-ai-news/public/data",
   "status_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/status.json",
@@ -209,7 +209,7 @@
     ],
     "stale": true,
     "stale_reason": "X feeds returned no new items; preserved previous digest.",
-    "generated_at": "2026-10-06T05:07:03Z",
+    "generated_at": "2026-10-06T12:51:22Z",
     "last_success_at": "2026-05-17T08:25:41Z"
   },
   "source_statuses": [
