@@ -4,21 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI智能体",
-        "title": "研究者追踪中国AI智能体集群",
-        "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-        "summary": "独立研究者发现一个疑似运行于腾讯基础设施、针对阿里高德地图服务的AI智能体集群。",
-        "comment": "智能体集群化或成AI竞争新形态。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI公布欧盟文本溯源规则应对方案",
         "link": "https://openai.com/index/eu-text-provenance",
-        "summary": "OpenAI介绍在欧盟规则下文本水印的适用场景、检测机制，以及为何优先向研究人员开放访问。",
-        "comment": "水印落地关键在检测与开放边界。",
+        "summary": "OpenAI介绍在欧盟规则下文本水印的适用场景、检测机制，并说明为何检测权限首先向研究人员开放。",
+        "comment": "水印落地关键在检测权限与透明度。",
         "image": "",
         "score": 100
       },
@@ -27,178 +17,18 @@
         "tag": "OpenAI",
         "title": "OpenAI在ChatGPT推出新视觉广告格式",
         "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "summary": "OpenAI为ChatGPT引入新视觉广告格式，并扩展测量工具、归因合作与品牌适配能力，面向广告主开放。",
+        "summary": "OpenAI为ChatGPT引入新视觉广告格式，并扩展广告测量工具、归因合作与品牌适配能力，面向广告主开放。",
         "comment": "AI对话场景正式成为广告新战场。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI将在欧盟为ChatGPT文本加水印",
-        "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-        "summary": "为遵守欧盟《人工智能法案》，OpenAI将在欧盟为ChatGPT和Codex生成的文本添加水印，但编辑后水印可能更难被检测。",
-        "comment": "合规先行，但水印易被编辑绕过，实际效果存疑。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "开源模型",
-        "title": "Reflection发布开源权重模型Beam，低算力对标中国模型",
-        "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-        "summary": "Reflection推出开源权重AI模型Beam，主打更低算力成本，对标中国模型，面向企业与主权国家，并计划打造可定制“AI工厂”。",
-        "comment": "开源权重加低算力，瞄准主权AI市场。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Instinct将AI代理引入群聊，无账户好友也能用",
-        "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-        "summary": "Instinct推出群聊功能，让好友共同使用其AI代理，完成规划旅行、拼车、协调活动等任务，且无账户好友也可参与。",
-        "comment": "AI代理从个人工具转向群组协作，降低使用门槛。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "TikTok",
-        "title": "TikTok推出AI购物助手与一键结账",
-        "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-        "summary": "TikTok上线对话式AI购物助手，帮助用户发现并购买商品，同时推出了一键结账功能。",
-        "comment": "社交电商竞争升级，AI导购成新战场。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI招聘",
-        "title": "HackerRank AI面试官已完成超50万场面试",
-        "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-        "summary": "HackerRank的AI面试官已进行超50万场面试，Snowflake、Snorkel和凯捷等公司参与早期测试，展示招聘面试的自动化前景。",
-        "comment": "AI面试规模化落地，招聘公平与体验待检验。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出图像生成结果旁的视觉广告",
-        "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-        "summary": "OpenAI将在美国率先推出视觉广告，出现在图像生成结果旁，首批为测试广告商的商品与服务，本月晚些时候上线。",
-        "comment": "AI生成结果正被商业化，广告边界再扩张。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI应用",
-        "title": "Hot Girl Hotline：AI时代的情感咨询热线",
-        "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-        "summary": "两姐妹创办Hot Girl Hotline，利用AI为年轻女性提供个性化约会与恋爱建议，强调安全并避免情感依赖。",
-        "comment": "AI情感咨询需警惕依赖风险。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "开放还是闭源AI？创始人在TechCrunch Disrupt 2026上的选择",
-        "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-        "summary": "TechCrunch Disrupt 2026探讨创始人如何在开放与闭源AI之间做技术选型，活动提供注册优惠，可节省100美元并获半价第二张通行证。",
-        "comment": "开放与闭源之争，实为成本与控制的权衡。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "人工智能",
-        "tag": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026创业擂台评委公布",
-        "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-        "summary": "TechCrunch公布Disrupt 2026创业擂台最后五位评委，他们将决定路演竞赛冠军。购票可省100美元，第二张半价。",
-        "comment": "评委阵容公布，但实质信息有限，更像活动推广。",
-        "image": "",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6如何制作？揭秘Rockstar开发流程",
-        "link": "https://www.gamespot.com/articles/how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done/",
-        "summary": "GameSpot解析Rockstar如何打造GTA 6，这款年度最受期待游戏以庞大世界和精细细节著称，文章揭秘其开发幕后。",
-        "comment": "GTA 6开发内幕曝光，玩家期待值再拉满。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_Duval_03_a6b7f7.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "小岛秀夫",
-        "title": "小岛秀夫预告将在某部大片中客串",
-        "link": "https://www.ign.com/articles/hideo-kojima-says-youll-see-him-cameo-in-a-big-live-action-movie-but-which-one-is-it",
-        "summary": "小岛秀夫透露自己将在一部大制作真人电影中客串，但暂未公布具体是哪部影片。",
-        "comment": "游戏大师跨界客串，悬念营销拉满。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/05/hideo-kojima-cameo-1791239209795.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "小岛秀夫",
-        "title": "比尔·斯卡斯加德如何成为小岛秀夫Physint代言面孔",
-        "link": "https://www.gamespot.com/articles/how-bill-skarsgard-became-the-face-of-hideo-kojimas-physint/",
-        "summary": "小岛秀夫新作Physint登陆Xbox，比尔·斯卡斯加德（《小丑回魂》主演）成为该游戏代言面孔，GameSpot解析其合作缘由。",
-        "comment": "小岛秀夫选角眼光独到，明星效应或助Physint破圈。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Skarsgard-Boy-Kills-World.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "NBA 2K25",
-        "title": "NBA 2K25即将下架，单机模式也将关闭",
-        "link": "https://www.gamespot.com/articles/nba-2k25-is-getting-delisted-soon-single-player-modes-also-closing-down/",
-        "summary": "2K Sports宣布NBA 2K25即将停售并关闭服务器，连单机MyCareer模式也无法继续游玩，已购玩家同样受影响。",
-        "comment": "单机模式随服务器关闭，玩家权益再受侵蚀。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/NBA2K-Large.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "神秘海域",
-        "title": "神秘海域5传闻中，德雷克配音演员称愿回归但有条件",
-        "link": "https://www.gamespot.com/articles/amid-uncharted-5-rumors-nathan-drake-actor-says-he-would-come-back-but-with-one-catch/",
-        "summary": "在《神秘海域5》传闻不断之际，为内森·德雷克配音的诺兰·诺斯表示愿意回归，但提出了一个前提条件。",
-        "comment": "演员松口，但条件或成回归关键。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/north-Large.jpeg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA",
-        "title": "GTA联合创始人为何回避GTA 6及所有开放世界游戏",
-        "link": "https://www.gamespot.com/articles/why-gta-studio-co-founder-is-avoiding-gta-6-and-all-open-world-games/",
-        "summary": "Rockstar联合创始人Dan Houser于2020年离职，现经营Absurd Ventures。他坦言正刻意回避GTA 6及所有开放世界游戏，以摆脱过去创作惯性。",
-        "comment": "功成身退后主动远离旧作，是创作者难得的清醒。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA6-Large.jpeg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "小岛秀夫",
-        "title": "小岛秀夫谈新作OD：保持神秘感以强化恐怖体验",
-        "link": "https://www.gamespot.com/articles/hideo-kojima-wants-to-keep-od-a-mystery-even-by-his-standards/",
-        "summary": "小岛秀夫表示，其恐怖新作OD将延续他一贯的神秘风格，但这次会更刻意隐藏信息，目的是让玩家的恐惧感更强烈。",
-        "comment": "神秘营销是小岛的老套路，但恐怖题材确实吃这套。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4545842-od-3.jpg?w=300",
-        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "手办模型",
         "title": "15万人线下手办聚会为何仍被需要",
         "link": "https://www.gcores.com/articles/220529",
-        "summary": "机核作者柏亚舟记录2026年哔哩哔哩上海国际手办模型文化博览会，预计15万人次参与，现场多见拖行李箱、推车和防震摄影包的年轻人，展现线下手办展会的独特吸引力。",
-        "comment": "线下手办展的狂热，是线上交易替代不了的社交与体验。",
+        "summary": "机核作者柏亚舟记录2026年哔哩哔哩上海国际手办模型文化博览会，预计线下参与人次突破15万，年轻人拖行李箱、推小推车、背防震摄影包到场。",
+        "comment": "线下手办展的拥挤，恰是线上交易无法替代的仪式感。",
         "image": "",
         "score": 90
       },
@@ -207,48 +37,18 @@
         "tag": "影之刃零",
         "title": "WF2026首曝《影之刃零》主角魂1:1雕像",
         "link": "https://www.gcores.com/articles/220527",
-        "summary": "WF2026上海展上，INART首次展出《影之刃零》主角魂的1:1与1:3雕像，现场人气火爆。3D美术负责人王琛同步在微博放出实拍照片及研发细节物料。",
-        "comment": "国产游戏IP的实体化展示正成为展会流量担当。",
+        "summary": "WF2026上海展上，INART首次展出《影之刃零》主角魂1:1与1:3雕像，现场人气火爆。3D美术负责人王琛同步放出实拍照片及研发细节物料。",
+        "comment": "国产游戏周边工艺已能撑起1:1雕像，值得关注。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "亚马逊",
-        "title": "亚马逊Prime Day：Fanttik T1 Max无线烙铁套装七折",
-        "link": "https://www.ign.com/articles/fanttik-t1-max-cordless-soldering-iron-deal-amazon-october-prime-day-sale-2026",
-        "summary": "亚马逊十月Prime Day促销期间，Fanttik T1 Max无线烙铁套装降价37%，适合电子DIY爱好者入手。",
-        "comment": "工具好价，但非游戏玩家刚需。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/05/fanttiksolderingironkit-1791231865853.jpg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏DLC",
-        "title": "《月光光心慌慌》首个DLC将致敬系列烂续集",
-        "link": "https://www.gamespot.com/articles/halloweens-first-dlc-reveals-even-the-bad-sequels-will-get-some-love/",
-        "summary": "《月光光心慌慌》游戏首个付费DLC将于10月27日上线，为杀手迈克尔·迈尔斯新增皮肤，灵感来自口碑不佳的《月光光心慌慌5》。",
-        "comment": "连烂续集也不放过，粉丝向操作稳了。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/3452413-005.webp?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战争机器",
-        "title": "《战争机器：E-Day》首个补丁修复巨型呕吐蛙错误代码",
-        "link": "https://www.gamespot.com/articles/new-gears-of-war-e-day-patch-addresses-giant-vomiting-frog-error-codes/",
-        "summary": "《战争机器：E-Day》将于10月6日全球上线，开发商The Coalition根据抢先体验玩家反馈，通过首个补丁修复了包括巨型呕吐蛙错误代码在内的多个问题。",
-        "comment": "抢先体验成免费测试，巨型呕吐蛙错误代码颇具喜感。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Gears-of-Frog.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "白话三国",
+        "tag": "三国",
         "title": "白话三国第十回：文丑扎营延津渡",
         "link": "https://www.gcores.com/radios/219364",
-        "summary": "机核《白话三国》第十回上线，文丑率大军回黄河渡口为颜良复仇，本期讲述他在阵上遭遇何人，以及曹操搬救兵的本领是否依旧。",
-        "comment": "三国评书连载，文丑复仇线值得一听。",
+        "summary": "机核《白话三国》第十回更新，文丑率大军回黄河渡口为颜良复仇，本期讲述他在阵上遭遇何人，以及曹操搬救兵的本领是否依旧。",
+        "comment": "三国评书连载，文丑复仇线正式展开。",
         "image": "",
         "score": 87
       },
@@ -257,18 +57,8 @@
         "tag": "三国",
         "title": "白话三国第九回：袁绍怒斩刘备",
         "link": "https://www.gcores.com/radios/219363",
-        "summary": "颜良被斩消息传回冀州，袁绍得知缘由后大怒，刘备因此身陷险境，性命危在旦夕。",
-        "comment": "三国评书式演绎，冲突张力拉满。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "沙特",
-        "title": "沙特男子因脸书帖文被判死刑引关注",
-        "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-        "summary": "一名男子因在脸书发表评论被认定亵渎罪并判处死刑，外界呼吁沙特阿拉伯免除其死刑。",
-        "comment": "言论表达获死刑，司法尺度引国际担忧。",
+        "summary": "颜良被斩消息传回冀州，袁绍得知缘由后大怒，刘备因此身陷险境。本期节目由老斧子制作时间轴。",
+        "comment": "三国评书式叙事，冲突张力足。",
         "image": "",
         "score": 87
       }
