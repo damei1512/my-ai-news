@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI算力",
-        "title": "英伟达支持的Lambda拟IPO前融资40亿美元",
-        "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-        "summary": "英伟达支持的AI计算公司Lambda在计划2027年IPO前融资至多40亿美元，投前估值145亿美元，由Coatue和黑石领投。",
-        "comment": "AI算力军备竞赛延续，资本加速押注基础设施。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Mistral",
-        "title": "Mistral发布1T参数多模态模型Large 4",
-        "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-        "summary": "法国AI实验室Mistral AI发布Mistral Large 4，一款新的大型多模态模型，目标是在闭源与开源阵营中超越中美竞争对手。",
-        "comment": "欧洲AI试图以规模与多模态突围，但竞争窗口正收窄。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "量化交易",
-        "title": "Jump Trading用ChatGPT扩展量化研究",
+        "title": "Jump Trading借助ChatGPT扩展量化研究",
         "link": "https://openai.com/index/jump-trading",
-        "summary": "Jump Trading借助OpenAI扩展量化研究，通过长时间运行的AI工作流整合多源数据，并保留人工审核环节。",
-        "comment": "AI进入量化核心流程，人机协同成关键。",
+        "summary": "Jump Trading利用OpenAI扩展量化研究，通过长周期AI工作流整合多源数据，并保留人工审核环节。",
+        "comment": "量化巨头用AI提效，人机协同仍是关键。",
         "image": "",
         "score": 100
       },
@@ -37,18 +17,18 @@
         "tag": "OpenAI",
         "title": "OpenAI发布AI数学研究新进展",
         "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-        "summary": "OpenAI公布内部前沿模型解决数学开放问题的成果，并在GitHub公开Lean证明形式化及研究细节。",
-        "comment": "AI攻数学开放问题，验证与协作成关键。",
+        "summary": "OpenAI公布内部前沿模型解决数学开放问题的新成果，并在GitHub上分享Lean证明形式化及研究细节。",
+        "comment": "AI正从辅助工具走向数学发现参与者。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与Ironclad推进AI合同流程应用",
+        "title": "OpenAI与Ironclad推进AI电脑操作",
         "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-        "summary": "OpenAI与Ironclad合作，训练和评估AI代理处理复杂合同工作流，以推进计算机使用在专业工作场景中的落地。",
-        "comment": "AI代理正从演示走向专业合同实操。",
+        "summary": "OpenAI与Ironclad合作，在复杂合同工作流中训练和评估AI智能体，以推进面向专业工作的电脑操作能力。",
+        "comment": "AI智能体正从聊天走向真实专业工作流。",
         "image": "",
         "score": 100
       },
@@ -63,172 +43,22 @@
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "AI审核",
-        "title": "AI决策模型或改变内容审核",
-        "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-        "summary": "Musubi发布轻量级实时审核决策模型PolicyLM-1.7B，并开放权重，或为内容审核带来新方案。",
-        "comment": "轻量开源模型降低审核门槛，但效果待验证。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "AI代理新难题：网站拒绝其访问",
-        "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-        "summary": "个人AI代理可代用户购物、订票和预订，但网站的反机器人防御和刻意封锁正阻碍其运行，消费者因此陷入困境。",
-        "comment": "AI代理落地卡在网站准入，生态博弈才刚开始。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Mirror Particle打造人类行为世界模型",
-        "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-        "summary": "Mirror Particle将在TechCrunch Disrupt的Startup Battlefield 200上发布从零构建的世界模型，用于预测人类行为，并认为LLM角色扮演存在不足。",
-        "comment": "从零构建行为世界模型，或为AI预测人类提供新路径。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic向初创企业免费提供一年Claude Team及千美元额度",
-        "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-        "summary": "Anthropic推出初创扶持计划，免费提供一年Claude Team企业服务及1000美元代币额度，旨在通过开发者生态扩大AI模型的实际应用。",
-        "comment": "补贴抢开发者，Anthropic加速生态卡位。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "前Ramp工程师弃首款产品，为Melius融资2000万美元",
-        "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-        "summary": "前Ramp工程师创办的Melius放弃广告支出管理工具，转向生成创意素材与营销活动，并完成2000万美元融资。",
-        "comment": "转型做创意生成，方向更聚焦但竞争激烈。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI助手",
-        "title": "Hark发布注重隐私的AI个人助手",
-        "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-        "summary": "AI实验室Hark推出个人助手，主打隐私保护，定位为未来操作系统，将与Muse、Dots和Instinct竞争。",
-        "comment": "隐私成AI助手新卖点，但生态突围仍难。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "LibreOffice",
-        "title": "LibreOffice称无AI成为软件特性",
-        "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-        "summary": "开源文档编辑器LibreOffice表示，出于用户隐私考虑，不计划在默认配置中加入AI功能，并将无AI视为一项软件特性。",
-        "comment": "隐私优先的反潮流选择，值得尊重。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "Pinterest",
-        "title": "Pinterest AI将美妆图片转为行动方案",
-        "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-        "summary": "Pinterest推出AI美妆指南，可将发型和美甲图片翻译成沙龙术语，并估算费用、预约时长及维护需求。",
-        "comment": "AI落地垂直场景，重在可执行转化。",
-        "image": "",
-        "score": 98
-      },
-      {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "苹果突发收紧Mac权限，全是AI惹的祸",
+        "title": "苹果突发收紧Mac权限，AI成导火索",
         "link": "https://www.ifanr.com/1682953?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果突然收紧Mac权限，据称与AI功能相关，同时苹果与Meta这对超级冤家再次成为焦点。",
-        "comment": "AI竞赛正重塑苹果的生态管控策略。",
+        "summary": "苹果突然收紧Mac权限，据称与AI功能相关，同时苹果与Meta这对超级冤家再次交锋，事件引发关注。",
+        "comment": "AI竞争正重塑苹果的权限策略。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "招魂",
-        "title": "《招魂》新游突袭公布，下周登陆Netflix",
-        "link": "https://www.gamespot.com/articles/a-scary-looking-new-conjuring-game-just-got-announced-and-its-out-next-week-on-netflix/",
-        "summary": "Netflix与《直到黎明》开发商Supermassive Games突然公布《招魂》改编游戏《The Conjuring: Unspoken》，将于10月13日上线。",
-        "comment": "突袭式发行，恐怖游戏与流媒体联动的新尝试。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/conjuring-Large.jpeg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏主机",
-        "title": "GameStop二手PS5 Pro标价1400美元",
-        "link": "https://www.gamespot.com/articles/gamestop-is-preparing-us-for-next-gen-pricing-with-1400-used-ps5-pros/",
-        "summary": "GameStop开始以1400美元出售二手PS5 Pro，远高于官方新机售价，被指为下一代主机定价试水。",
-        "comment": "二手比新机还贵，主机涨价信号明显。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4513332-ps5-pro.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox CEO称业务已触底反弹，但未提供证据",
-        "link": "https://www.gamespot.com/articles/xbox-was-at-an-all-time-low-but-is-now-growing-again-after-huge-cuts-ceo-says/",
-        "summary": "Xbox CEO Asha Sharma在全员大会上安抚员工，称公司经历大规模裁员和工作室关闭的“重置”后，业务已从历史低点恢复增长，但未给出具体数据支撑。",
-        "comment": "裁员后喊增长，缺数据难服众。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset.png?w=300",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "使命召唤Richtofen配音演员希望角色回归",
-        "link": "https://www.gamespot.com/articles/call-of-dutys-richtofen-actor-wants-him-to-come-back-says-2027s-cod-could-be-from-sledgehammer/",
-        "summary": "资深配音演员Nolan North表示希望再次饰演黑色行动僵尸模式中的Richtofen博士，并透露2027年使命召唤可能由Sledgehammer开发。",
-        "comment": "僵尸模式粉丝或迎老角色回归，但需等官方确认。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/richtofen-Large.jpeg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "逃离塔科夫",
-        "title": "《逃离塔科夫》1.2.0.0更新：PvE转生与EXFIL Brothers启动",
-        "link": "https://www.gcores.com/articles/220540",
-        "summary": "Battlestate Games发布《逃离塔科夫》1.2.0.0版本，大幅改进PvE体验，优化AI行为并加入转生进度机制，同时启动鼓励老玩家邀请新人的EXFIL Brothers项目。",
-        "comment": "PvE转生机制或成留存新抓手，但平衡性待验证。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "雷蛇",
-        "title": "雷蛇发布Wolverine V4高端手柄",
-        "link": "https://www.gamespot.com/articles/razers-wolverine-v4-controller-is-overkill-for-most-gamers-and-thats-the-point/",
-        "summary": "雷蛇正式公布Wolverine V4游戏手柄，面向Xbox与PC平台，主打竞技玩家，定位高端，对普通玩家性能过剩。",
-        "comment": "堆料旗舰，只服务硬核竞技玩家。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Wolverine-4.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "恐怖游戏",
-        "title": "独立恐怖游戏开发者揭秘墨西哥真实闹鬼岛屿",
-        "link": "https://www.gamespot.com/articles/solo-horror-dev-makes-a-creepy-connection-to-a-real-haunted-island-in-mexico/",
-        "summary": "一位独立恐怖游戏开发者将游戏背景与墨西哥真实闹鬼岛屿相连，讲述创作灵感来源及岛上诡异传说。",
-        "comment": "真实闹鬼地加持，恐怖游戏氛围拉满。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/unnamed-Large.jpeg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "鸣潮",
-        "title": "《鸣潮》3.7版本体验：玄方城剧情收束",
-        "link": "https://www.gcores.com/articles/220515",
-        "summary": "《鸣潮》3.7版本主线“梦枢心相由心生”完成玄方城叙事收束，从3.5到3.7三个版本铺陈该地区过去、现在与未来，朝月会灯火与烟火场景营造出归乡氛围。",
-        "comment": "三版本铺垫终见成效，玄方叙事收束扎实。",
+        "tag": "播客",
+        "title": "《上海谍战风云录》主题曲《灯下无名》上线",
+        "link": "https://www.gcores.com/radios/220570",
+        "summary": "机核播客《上海谍战风云录》主题曲《灯下无名》正式上线，由鼓润作曲、邹佩君作词，以三十年代上海石库门雨夜与苏州河烟波为意象，为尘封往事赋予声音载体。",
+        "comment": "用旋律还原真实上海，比荧幕浮华更有分量。",
         "image": "",
         "score": 89
       },
@@ -238,47 +68,47 @@
         "title": "狼叔谈用游戏陪伴女儿成长",
         "link": "https://www.gcores.com/radios/220320",
         "summary": "机核节目回顾狼叔从女儿幼时到上大学期间，如何通过游戏陪伴她成长，分享其中的纪念时刻与遗憾。",
-        "comment": "游戏育儿是温情陪伴，而非教育捷径。",
+        "comment": "游戏育儿是真实的情感纽带，值得一听。",
         "image": "",
-        "score": 88
+        "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "罗技",
         "title": "罗技G PRO X3系列新品开箱",
         "link": "https://www.gcores.com/articles/220530",
-        "summary": "罗技9月底发布G PRO系列多款新品，包括PRO X 2 RT键盘、GPW5 ULTRA鼠标和PRO X 3耳机。GPW5 ULTRA延续系列内敛设计，外观变动不大。",
-        "comment": "罗技更新旗舰外设，稳中求变。",
+        "summary": "罗技9月底发布G PRO系列多款新品，包括PRO X 2 RT磁轴键盘、GPW5 ULTRA鼠标和PRO X 3无线耳机。GPW5 ULTRA延续系列内敛设计，外观变动不大。",
+        "comment": "罗技更新旗舰外设，但鼠标外观创新不足。",
         "image": "",
-        "score": 88
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "鸣潮",
+        "title": "《鸣潮》3.7版本体验：玄方城剧情收束",
+        "link": "https://www.gcores.com/articles/220515",
+        "summary": "《鸣潮》3.7版本主线“梦枢心相由心生”完成玄方城剧情收束，从3.5到3.7三个版本逐步铺陈这片土地的过去与现在，朝月会灯火与烟火营造出热闹氛围。",
+        "comment": "三版本铺垫终迎收束，叙事节奏值得肯定。",
+        "image": "",
+        "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "游戏播客",
         "title": "再荐茶社42：她在时间之外，他在坟圈子之内",
         "link": "https://www.gcores.com/radios/220536",
-        "summary": "机核《再荐茶社》第42期更新，涵盖贝塞斯达接管黑曜石、《逆转裁判5 VR》、XBOX神话成就、绝地求生黑域撤离终止开发及Steam秋促等近期新闻与新游推荐。",
-        "comment": "游戏播客资讯密度高，但标题党风格明显。",
+        "summary": "机核《再荐茶社》第42期更新，涵盖贝塞斯达接管黑曜石、《逆转裁判5 VR》、Xbox神话成就、绝地求生黑域撤离终止开发及Steam秋促等近期新闻与新游。",
+        "comment": "游戏播客资讯密度高，但标题党味略重。",
         "image": "",
         "score": 88
       },
       {
         "category": "游戏影视",
         "tag": "播客",
-        "title": "游戏是浪费时间还是人生解药？播客对谈",
-        "link": "https://www.gcores.com/radios/220537",
-        "summary": "《游戏开始》主持人Even做客《非正常营业》，畅谈游戏人生，反思“玩游戏等于浪费时间”的规训，探讨游戏与生活的真实关系。",
-        "comment": "游戏价值之争，本质是生活方式之争。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "机核",
         "title": "机核电台：时间黑猫控火焰",
         "link": "https://www.gcores.com/radios/220557",
-        "summary": "机核9月第二期电台，内容涵盖肝系与休闲游戏，重点推荐《Slow Roads》，适合上班族放松。",
-        "comment": "杂谈电台，推荐游戏贴合节后返工情绪。",
+        "summary": "机核9月第二期电台，内容涵盖硬核与休闲游戏，重点推荐适合通勤放松的《Slow Roads》。",
+        "comment": "假期后摸鱼电台，推荐游戏很应景。",
         "image": "",
         "score": 87
       }
