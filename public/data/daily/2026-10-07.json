@@ -4,28 +4,8 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "ChatGPT",
-        "title": "ChatGPT青少年模式被指危机中仍鼓励对话",
-        "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-        "summary": "TechCrunch测试发现，ChatGPT青少年保护机制在用户处于心理危机时仍鼓励持续互动，可能助长不健康使用行为。",
-        "comment": "安全机制形同虚设，青少年保护需更硬约束。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta推出AI工具检测暗导儿童性虐待材料的广告",
-        "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-        "summary": "Meta发现平台上有广告看似正常，却将用户引向站外有害内容，因此推出新AI工具用于识别这类隐蔽广告。",
-        "comment": "平台治理从内容审核延伸到广告跳转链路。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI为青少年推出ChatGPT大学申请规划功能",
+        "title": "OpenAI为青少年推出ChatGPT大学申请规划工具",
         "link": "https://openai.com/index/teens-learn-and-plan",
         "summary": "OpenAI在ChatGPT青少年版中上线College Planner，帮助学生管理大学申请，并新增闪卡、测验功能及青少年AI顾问委员会。",
         "comment": "AI深入教育场景，青少年使用边界值得关注。",
@@ -35,182 +15,42 @@
       {
         "category": "人工智能",
         "tag": "ChatGPT",
-        "title": "丽笙酒店接入ChatGPT，可搜索比价预订",
+        "title": "丽笙酒店集团将酒店搜索引入ChatGPT",
         "link": "https://openai.com/index/radisson",
-        "summary": "丽笙酒店集团与埃森哲合作，基于OpenAI技术打造ChatGPT插件，让旅客在规划行程时直接查找、比较并预订酒店。",
-        "comment": "酒店预订入口正被AI对话界面重构。",
+        "summary": "丽笙酒店集团与埃森哲合作，基于OpenAI技术打造ChatGPT插件，帮助旅客在规划行程时查找、比较并预订酒店。",
+        "comment": "酒店预订正被AI入口重构，OTA压力加大。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "GPT-6",
-        "title": "GPT-6全球上线ChatGPT，推出智能UI",
+        "title": "OpenAI全球发布GPT-6并推出智能UI",
         "link": "https://openai.com/index/gpt-6-for-everyone",
-        "summary": "OpenAI宣布GPT-6在全球ChatGPT中上线，并推出智能UI，提供更快响应、可视化与可交互体验，用户可直接探索使用。",
-        "comment": "GPT-6落地，交互升级比参数更值得关注。",
+        "summary": "OpenAI宣布GPT-6在全球ChatGPT上线，搭配智能UI，响应更快，支持可视化与交互体验，用户可直接探索使用。",
+        "comment": "GPT-6落地，AI交互从对话迈向可视化操作。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Nous Research估值15亿美元，推出企业AI代理",
-        "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-        "summary": "Hermes Agent开发商Nous Research完成9000万美元B轮融资，估值达15亿美元，并面向企业用户推出AI代理产品。",
-        "comment": "开源模型厂商加速商业化，企业代理赛道再添变量。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "微软发布搭载英伟达芯片的新款AI PC",
-        "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-        "summary": "微软公布Surface Laptop Ultra规格与售价，该AI PC采用英伟达芯片，专为运行AI模型和智能体设计，并搭载改版Windows 11。",
-        "comment": "AI PC竞争升温，微软借英伟达强化本地AI能力。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "ChatGPT",
-        "title": "ChatGPT推出全新界面，视觉交互大幅升级",
-        "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-        "summary": "OpenAI为ChatGPT发布新用户界面，引入交互式视觉元素，使对话体验更直观、更具可视化。",
-        "comment": "ChatGPT从纯文本走向视觉交互，多模态竞争再提速。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌测试AI游戏创作平台Playground",
-        "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-        "summary": "谷歌实验室正开发AI游戏创作平台Playground，用户可通过简单文本提示构建浏览器游戏，目前处于实验阶段。",
-        "comment": "AI降低游戏创作门槛，但实际体验仍待验证。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "医疗AI",
-        "title": "Healthleap融资3800万美元，AI监测住院患者病情",
-        "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-        "summary": "Healthleap获3800万美元融资，包括红杉资本和First Round联合领投的800万美元种子轮，以及Hummingbird Ventures领投的3000万美元A轮。其AI用于标记可能需要密切关注的住院患者。",
-        "comment": "AI辅助临床监测获资本认可，落地效果待验证。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI硬件",
-        "title": "iPod之父：首波AI硬件为何失败",
-        "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-        "summary": "被称为“iPod之父”的Tony Fadell指出，第一代AI硬件未能解决真实问题，下一波产品必须赢得消费者信任。",
-        "comment": "AI硬件缺的不是算力，是真实需求。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta的Muse在移动端首秀一个月后登陆iPad",
-        "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-        "summary": "Meta的AI助手Muse在移动端上线仅一个月后即推出iPad版本，显示公司正快速扩大该助手的覆盖范围和集成能力。",
-        "comment": "Meta正以高频迭代抢占AI助手入口。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI高管将出席TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-        "summary": "OpenAI的Alexander Embiricos将在TechCrunch Disrupt 2026的AI Stage亮相，此时距Dots发布仅数日。活动开放注册。",
-        "comment": "Dots发布后高管即登台，OpenAI节奏紧凑。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "英伟达",
         "title": "DLSS 5正式版体验：英伟达如何让游戏画面以假乱真",
         "link": "https://www.ifanr.com/1682974?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿体验DLSS 5正式版，指出其不只提升画面质量，更改变游戏画面的生产流程，探讨英伟达如何让停滞十年的游戏画面实现以假乱真。",
+        "summary": "爱范儿体验DLSS 5正式版，指出其不仅提升画面质量，更改变游戏画面的生产流程，让停滞十年的游戏画面实现以假乱真。",
         "comment": "DLSS 5从渲染工具升级为生产流程变革者。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "恐怖游戏",
-        "title": "争议恐怖系列新作请来《寂静岭》作曲与蒂米特雷斯库夫人",
-        "link": "https://www.gamespot.com/articles/controversial-horror-series-ropes-me-back-in-with-silent-hills-original-composer-and-lady-dimitrescu/",
-        "summary": "《Remothered》系列新作将邀请《寂静岭》原作曲者与《生化危机8》蒂米特雷斯库夫人演员参与，该邪典恐怖系列因风格极端而评价两极。",
-        "comment": "邪典恐怖靠情怀牌续命，阵容是亮点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_f504ed3405320bb12b21ce54c905536f3ef5598a.1920x1080.jpg?w=300",
+        "tag": "极限竞速",
+        "title": "《极限竞速：地平线6》PS5版延期至2027年",
+        "link": "https://www.gamespot.com/articles/forza-horizon-6-for-ps5-apparently-delayed-to-2027-and-its-getting-a-disc-release/",
+        "summary": "微软此前称《极限竞速：地平线6》PS5版仍计划2026年发售，但新报道称该作已延期至2027年，首个付费扩展包将同步登陆全平台。",
+        "comment": "跨平台策略反复，微软的发行节奏再添变数。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/FH6.jpg?w=300",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "《生化危机》电影将成扎克·克雷格票房最高作品",
-        "link": "https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/",
-        "summary": "据Deadline报道，扎克·克雷格执导的《生化危机》电影票房有望超越其此前作品《武器》，成为他职业生涯票房最高的电影。",
-        "comment": "游戏改编加导演上升期，票房潜力可观。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/REMovie-Large.jpeg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "光环",
-        "title": "光环新作走向：无尽族或不再登场",
-        "link": "https://www.gamespot.com/articles/whats-next-for-halo-under-activision-probably-not-the-endless/",
-        "summary": "GameSpot报道，光环宇宙原本可能成为主要新敌对势力的无尽族已被完整揭示，但在动视接手后，其未来是否还会登场仍不明朗。",
-        "comment": "光环换东家后，剧情伏笔恐被搁置。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Halo-Endless-Revealed.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "星战",
-        "title": "星战零连开发者部分停职员工返岗",
-        "link": "https://www.gamespot.com/articles/star-wars-zero-company-developer-sees-portion-of-furloughed-workers-return/",
-        "summary": "《星球大战：零连》8月底发售获好评，但开发商Bit Reactor大批员工被停职。最新消息称部分停职员工已返岗。",
-        "comment": "好评难掩裁员阴影，返岗只是喘息。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/star-wars-zero-company-tactics.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "逃生试炼",
-        "title": "《逃生试炼》三年后同时在线玩家破12万创纪录",
-        "link": "https://www.gamespot.com/articles/three-years-later-the-outlast-trials-just-smashed-its-concurrent-player-record/",
-        "summary": "Red Barrels开发的合作恐怖游戏《逃生试炼》同时在线玩家突破12万，刷新自身纪录。该作设定在《逃生》宇宙中，发售三年后热度回升。",
-        "comment": "长线运营让合作恐怖游戏迎来第二春。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/4268355-fv0lrv0w.webp?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "城市天际线",
-        "title": "《城市：天际线》登陆Switch 2，续作主机版仍缺席",
-        "link": "https://www.gamespot.com/articles/cities-skylines-announced-for-switch-2-while-sequels-console-ports-are-still-mia/",
-        "summary": "Paradox宣布《城市：天际线》扩展版将登陆Switch 2，这是2015年热门城建游戏的新移植。但续作的主机版至今仍未推出。",
-        "comment": "旧作移植救场，续作主机版难产暴露发行困境。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-1.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "007",
-        "title": "007 First Light 愿望单破700万，解锁一只好狗狗",
-        "link": "https://www.gamespot.com/articles/007-first-light-players-unlock-a-very-good-boy/",
-        "summary": "《007 First Light》已发售，Steam愿望单仍突破700万，官方为此在游戏中加入了一只“好狗狗”作为奖励。",
-        "comment": "愿望单破700万还能解锁彩蛋，营销玩得溜。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/firstlight-Large.jpeg?w=300",
-        "score": 89
       }
     ]
   }
