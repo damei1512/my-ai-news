@@ -5,7 +5,7 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI被解雇安全研究员否认不当行为",
+        "title": "被解雇OpenAI安全研究员否认不当行为，警告寒蝉效应",
         "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
         "summary": "三名被解雇的OpenAI安全研究员公开反驳敏感信息处理不当的指控，警告解雇行为正在安全团队中制造寒蝉效应。",
         "comment": "安全团队遭清洗，OpenAI治理风险加剧。",
@@ -15,40 +15,20 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI年化收入被曝比预期少200亿美元",
-        "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-        "summary": "此前有报道称OpenAI年化收入约700亿美元，但最新报道称其实际收入远低于这一数字，差距高达200亿美元。",
-        "comment": "收入预期大幅缩水，OpenAI商业化能力遭质疑。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌将智能体AI引入Gemini，从企业场景起步",
-        "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-        "summary": "谷歌把Gemini升级为可规划并执行任务的AI智能体，能跨企业应用与系统协作，还可调用子智能体和多个AI模型。",
-        "comment": "企业级智能体竞争升温，谷歌开始补生态短板。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "Oracle用ChatGPT与Codex将数日工作缩至分钟",
+        "title": "甲骨文用ChatGPT和Codex将数日工作缩至分钟",
         "link": "https://openai.com/index/oracle",
-        "summary": "OpenAI介绍Oracle在招聘、工程和运营中借助ChatGPT Work与Codex，把专家知识转化为快速可复用的工作流。",
-        "comment": "企业AI落地关键在流程复用，而非单点提效。",
+        "summary": "OpenAI介绍甲骨文在招聘、工程和运营中借助ChatGPT Work与Codex，把专家知识转化为快速可复用的工作流。",
+        "comment": "企业AI落地正从试点走向核心流程提效。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Pollo AI 用 OpenAI 模型生成广告创意",
+        "title": "Pollo AI借OpenAI模型将创意转化为广告活动",
         "link": "https://openai.com/index/pollo-ai",
-        "summary": "Pollo AI 借助 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，将创意想法转化为精细图像与电影级视频广告。",
-        "comment": "AI 广告生产链再进一步，创意到成片加速。",
+        "summary": "Pollo AI利用GPT-5.6、GPT-6 Astra和GPT-Image-2.5，帮助创作者将创意转化为精细图像和电影级视频广告。",
+        "comment": "AI广告创作工具再进一步，但落地效果待验证。",
         "image": "",
         "score": 100
       },
@@ -57,7 +37,7 @@
         "tag": "AI编程",
         "title": "LegalOn将Codex成本减半，开发速度不减",
         "link": "https://openai.com/index/legalon-halves-codex-costs",
-        "summary": "LegalOn将每日Codex预估成本削减65%，同时保持开发速度。其做法是按任务匹配Astra、Sol和Luna模型，并策略性管理预算。",
+        "summary": "LegalOn将每日Codex预估成本降低65%，同时保持开发速度。其做法是按任务匹配Astra、Sol和Luna模型，并策略性管理预算。",
         "comment": "模型分级加预算管控，是AI编程降本的可复制路径。",
         "image": "",
         "score": 100
@@ -67,159 +47,39 @@
         "tag": "OpenAI",
         "title": "OpenAI 打击AI虚假媒体影响行动",
         "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-        "summary": "OpenAI 披露并打击了两起利用AI伪装记者和智库的影响行动，这些行动旨在传播地缘政治信息。",
-        "comment": "AI被用于伪造媒体身份，平台治理压力升级。",
+        "summary": "OpenAI 披露并阻断两起利用AI的隐蔽影响行动，涉及假记者与智库，用于传播地缘政治信息。",
+        "comment": "AI被武器化做舆论战，平台治理压力升级。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI评测",
-        "title": "AI排行榜Arena估值10个月近翻倍至31亿美元",
-        "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-        "summary": "LMArena排行榜母公司获Lightspeed与Khosla领投2亿美元融资，估值达31亿美元，并开始评估AI模型在说谎等对齐问题上的表现。",
-        "comment": "AI评测成资本新宠，但榜单公信力仍待检验。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic更新使用政策 禁止模型滥用与选举干预",
-        "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-        "summary": "Anthropic更新使用政策，明确禁止极端情况下反复滥用Claude，并禁止选举干预，但普通表达不满和批评仍被允许。",
-        "comment": "AI公司收紧使用边界，选举与滥用成监管重点。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "智能戒指",
-        "title": "Natura推出99美元AI智能戒指",
-        "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-        "summary": "Natura发布99美元Interface智能戒指，按键即可召唤AI代理完成任务、记录想法、控制设备，并兼具健康追踪功能。",
-        "comment": "低价戒指成AI代理新入口，但实用性待验证。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "Goodfire推出低成本AI代理监控方案",
-        "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-        "summary": "Goodfire发布新型监控方案，通过直接查看模型内部状态而非调用第二个AI审查全部行为，以更低成本发现失控AI代理。",
-        "comment": "内部监控思路务实，成本优势或成关键卖点。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI数学证明未达学界标准",
-        "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-        "summary": "TechCrunch报道，OpenAI生成的大量数学证明偏离了其咨询的数学研究者小组制定的规范，尚未达到该领域标准。",
-        "comment": "AI数学能力需以学界规范为准绳。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
         "tag": "人工智能",
-        "title": "工程师用庭审文件还原霍姆斯办公桌网站",
+        "title": "工程师用庭审文件还原霍姆斯办公桌模拟网站",
         "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-        "summary": "Extend工程师Bo Lau利用美国诉Elizabeth Holmes案中逾千封邮件、幻灯片、短信和文件，搭建了一个模拟坐在Holmes办公桌前的网站。",
-        "comment": "庭审材料变成沉浸式体验，猎奇与警示并存。",
+        "summary": "Extend工程师Bo Lau利用美国诉霍姆斯案中逾千份邮件、幻灯片、短信和文档，搭建了一个模拟伊丽莎白·霍姆斯办公桌的网站，还原其工作场景。",
+        "comment": "庭审材料变成沉浸式体验，猎奇有余但隐私边界存疑。",
         "image": "",
         "score": 96
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "本·阿弗莱克精通AI知识走红网络",
-        "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-        "summary": "演员本·阿弗莱克因深入了解神经网络、Transformer和开放权重等AI知识而走红网络，他此前已将AI电影制作初创公司出售给Netflix。",
-        "comment": "明星懂AI成流量密码，但技术深度仍待验证。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威",
-        "title": "芬·琼斯谈铁拳回归《夜魔侠：重生》",
-        "link": "https://www.ign.com/articles/finn-jones-iron-fist-daredevil-born-again-season-3",
-        "summary": "芬·琼斯在纽约漫展谈及以丹尼·兰德/铁拳身份回归《夜魔侠：重生》第三季，称获得漫威第二次机会是“美妙的礼物”。",
-        "comment": "铁拳回归，漫威电视宇宙再添情怀牌。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/08/iron-fist-finn-jones-1280x-1791503295882.jpg",
-        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "Windows",
-        "title": "Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战",
+        "title": "Windows 迎来 AI 时代最大更新，联手英伟达向 Mac 宣战",
         "link": "https://www.ifanr.com/1683177?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微软发布 Windows 重大 AI 更新，联合英伟达黄仁勋，强化本地 AI 能力，直接对标苹果 Mac，试图吸引用户回归 Windows 阵营。",
+        "summary": "微软发布 Windows 的 AI 时代重大更新，并联合英伟达黄仁勋，意在挑战苹果 Mac，吸引用户回归 Windows 阵营。",
         "comment": "AI PC 战事升级，微软借英伟达向苹果施压。",
         "image": "",
         "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "育碧",
-        "title": "育碧宣布《彩虹六号手游》停运，上线不足一年",
-        "link": "https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/",
-        "summary": "育碧宣布《彩虹六号手游》即将停运。该作2023年软启动，2024年正式上线，运营不足一年便终止服务。",
-        "comment": "手游化受挫，育碧收缩战线止损。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/SixMobile.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "赛博朋克2077",
-        "title": "《赛博朋克2077》将拍电影，派拉蒙与变形金刚制片人加盟",
-        "link": "https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/",
-        "summary": "派拉蒙宣布将把《赛博朋克2077》改编为电影，由《变形金刚》制片人参与，该工作室同时负责《使命召唤》电影项目。",
-        "comment": "游戏改编电影再添一员，成败取决于能否还原夜之城气质。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/CP2077.jpg?w=300",
-        "score": 92
-      },
-      {
         "category": "数码科技",
         "tag": "捷豹",
-        "title": "捷豹发布Type 01，千匹动力开启新时代",
+        "title": "捷豹发布Type 01：千匹动力开启新时代",
         "link": "https://www.ifanr.com/1683214?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "捷豹发布全新Type 01，搭载千匹动力，标志品牌告别过往、迎接新买家。",
-        "comment": "捷豹彻底转型，千匹动力能否赢回市场？",
+        "summary": "捷豹发布全新Type 01，搭载千匹动力，定位彻底转型，告别过往设计语言，瞄准新一批买家。",
+        "comment": "捷豹彻底告别旧形象，千匹动力能否赢得新买家？",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "独立游戏",
-        "title": "Triple-I Initiative 2026年10月发布会内容汇总",
-        "link": "https://www.gamespot.com/articles/triple-i-initiative-october-2026-everything-announced-at-the-showcase/",
-        "summary": "Triple-I Initiative今年罕见举办第二场发布会，Evil Empire公布多款独立游戏新作与更新，GameSpot汇总全部公布内容。",
-        "comment": "一年两场，独立游戏曝光节奏明显加快。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4679775-triple-i.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Strange Scaffold拯救新战术游戏免于取消",
-        "link": "https://www.gamespot.com/articles/strange-scaffold-saved-this-new-tactics-game-from-cancellation/",
-        "summary": "Triple-i Initiative展示会上公布叙事驱动战术游戏《Gods With Badges》，讲述一名失宠警察回归的故事，由Strange Scaffold挽救免于取消。",
-        "comment": "发行商救活创意项目，值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Gods-With-Badges.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Arc Raiders",
-        "title": "Arc Raiders大型更新后玩家数飙升至数月新高",
-        "link": "https://www.gamespot.com/articles/arc-raiders-big-update-has-it-surging-to-numbers-it-hasnt-seen-in-months/",
-        "summary": "Embark曾表示需要数月才能推出Arc Raiders的重大更新，如今更新上线后，这款撤离射击游戏的同时在线人数回升至数月未见的高位。",
-        "comment": "长线运营靠更新兑现，玩家用回归投票。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Arc-spread-the-word.jpg?w=300",
         "score": 91
       },
       {
@@ -227,8 +87,8 @@
         "tag": "保时捷",
         "title": "保时捷将推新超跑，靠厚利寡销翻盘",
         "link": "https://www.ifanr.com/1683229?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "保时捷计划推出新超跑，延续高利润、低销量策略以提振业绩。苹果CEO蒂姆·库克曾公开表示喜爱保时捷。",
-        "comment": "豪车市场收缩，保时捷押注稀缺性保利润。",
+        "summary": "保时捷计划推出新超跑，采取厚利寡销策略应对市场变化。苹果CEO曾公开表达对该品牌的喜爱。",
+        "comment": "超跑市场收缩，保时捷押注稀缺性保利润。",
         "image": "",
         "score": 90
       },
@@ -237,40 +97,10 @@
         "tag": "AI视频",
         "title": "Vidu Q4 Preview 实测：奥特曼与 Dario 组男团跳 APT",
         "link": "https://www.ifanr.com/1683089?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿用 Vidu Q4 Preview 生成视频，把奥特曼和 Dario 凑成男团跳 APT，成本约 9 分钱每秒。",
-        "comment": "AI 视频玩梗能力升级，成本已低到可随手试。",
+        "summary": "爱范儿用 Vidu Q4 Preview 生成视频，把奥特曼和 Dario 凑成男团跳 APT，成本约 9 分钱每秒，展示 AI 视频生成新玩法。",
+        "comment": "AI 视频玩梗能力再升级，成本已低到可随手试。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6 官方周边公布 含鳄鱼墨镜T恤",
-        "link": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/",
-        "summary": "Rockstar 公布 GTA 6 官方周边系列，为 11 月发售预热，其中包括一件印有戴墨镜喝鸡尾酒鳄鱼的 T 恤。",
-        "comment": "周边先行，营销节奏已启动。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/alligator.png?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "堡垒之夜",
-        "title": "本·阿弗莱克谈《堡垒之夜》皮肤与难度",
-        "link": "https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/",
-        "summary": "两届奥斯卡得主本·阿弗莱克公开谈论《堡垒之夜》的皮肤设计，并坦言这款游戏对他而言难度颇高，引发玩家关注。",
-        "comment": "影帝吐槽游戏难度，跨界话题自带流量。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/affleck.png?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "摩纳哥",
-        "title": "摩纳哥炸弹袭击案嫌疑人接受BBC采访",
-        "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-        "summary": "与乌克兰裔富商遇刺未遂案有关的嫌疑人Vitalii Zhykovych向BBC讲述了自己的说法。",
-        "comment": "嫌疑人主动受访，案情或现新变数。",
-        "image": "",
-        "score": 85
       }
     ]
   }
