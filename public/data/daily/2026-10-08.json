@@ -5,20 +5,20 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "被解雇的OpenAI安全研究员反驳不当行为指控，警告寒蝉效应",
+        "title": "OpenAI被解雇安全研究员否认不当行为",
         "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "summary": "三名被解雇的OpenAI安全研究员公开反驳敏感信息处理不当的指控，并警告解雇事件正在安全团队中制造寒蝉效应。",
-        "comment": "安全团队遭清洗，AI治理信任危机加剧。",
+        "summary": "三名被解雇的OpenAI安全研究员公开反驳敏感信息处理不当的指控，警告解雇行为正在安全团队中制造寒蝉效应。",
+        "comment": "安全团队遭清洗，OpenAI治理风险加剧。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI年化收入据报比预期少200亿美元",
+        "title": "OpenAI年化收入被曝比预期少200亿美元",
         "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-        "summary": "此前报道称OpenAI年化收入约700亿美元，但新报告称实际数字远低于此，差距达200亿美元，引发对其商业化能力的质疑。",
-        "comment": "收入预期大幅缩水，OpenAI商业化承压。",
+        "summary": "此前有报道称OpenAI年化收入约700亿美元，但最新报道称其实际收入远低于这一数字，差距高达200亿美元。",
+        "comment": "收入预期大幅缩水，OpenAI商业化能力遭质疑。",
         "image": "",
         "score": 100
       },
@@ -27,28 +27,28 @@
         "tag": "谷歌",
         "title": "谷歌将智能体AI引入Gemini，从企业场景起步",
         "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-        "summary": "谷歌把Gemini升级为可规划、执行任务的AI智能体，能跨企业应用与系统工作，并可调度子智能体和多种模型。",
-        "comment": "Gemini从助手转向可执行任务的智能体，企业落地是关键一步。",
+        "summary": "谷歌把Gemini升级为可规划并执行任务的AI智能体，能跨企业应用与系统协作，还可调用子智能体和多个AI模型。",
+        "comment": "企业级智能体竞争升温，谷歌开始补生态短板。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "甲骨文用ChatGPT与Codex将数日工作缩至分钟",
+        "title": "Oracle用ChatGPT与Codex将数日工作缩至分钟",
         "link": "https://openai.com/index/oracle",
-        "summary": "OpenAI介绍甲骨文在招聘、工程和运营中借助ChatGPT Work与Codex，把专家知识转化为快速可复用的工作流，将原本数日的工作压缩至分钟级。",
-        "comment": "大企业AI落地样本，效率提升可量化。",
+        "summary": "OpenAI介绍Oracle在招聘、工程和运营中借助ChatGPT Work与Codex，把专家知识转化为快速可复用的工作流。",
+        "comment": "企业AI落地关键在流程复用，而非单点提效。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Pollo AI用OpenAI模型生成广告创意",
+        "title": "Pollo AI 用 OpenAI 模型生成广告创意",
         "link": "https://openai.com/index/pollo-ai",
-        "summary": "Pollo AI借助GPT-5.6、GPT-6 Astra和GPT-Image-2.5，帮助创作者将创意转化为精细图像和电影级视频广告。",
-        "comment": "AI广告创作工具再进一步，落地场景更清晰。",
+        "summary": "Pollo AI 借助 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，将创意想法转化为精细图像与电影级视频广告。",
+        "comment": "AI 广告生产链再进一步，创意到成片加速。",
         "image": "",
         "score": 100
       },
@@ -57,8 +57,8 @@
         "tag": "AI编程",
         "title": "LegalOn将Codex成本减半，开发速度不减",
         "link": "https://openai.com/index/legalon-halves-codex-costs",
-        "summary": "LegalOn将Codex每日预估成本削减65%，同时保持开发速度。其做法是按任务匹配Astra、Sol和Luna模型，并策略性管理预算。",
-        "comment": "模型分级与预算管控，是AI编程降本的可复制路径。",
+        "summary": "LegalOn将每日Codex预估成本削减65%，同时保持开发速度。其做法是按任务匹配Astra、Sol和Luna模型，并策略性管理预算。",
+        "comment": "模型分级加预算管控，是AI编程降本的可复制路径。",
         "image": "",
         "score": 100
       },
@@ -67,28 +67,48 @@
         "tag": "OpenAI",
         "title": "OpenAI 打击AI虚假媒体影响行动",
         "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-        "summary": "OpenAI 披露并打击了两起利用AI的隐蔽影响行动，涉及假冒记者和智库，传播地缘政治信息。",
-        "comment": "AI滥用已从生成内容升级为伪装机构，平台治理压力加大。",
+        "summary": "OpenAI 披露并打击了两起利用AI伪装记者和智库的影响行动，这些行动旨在传播地缘政治信息。",
+        "comment": "AI被用于伪造媒体身份，平台治理压力升级。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI评测",
-        "title": "AI排行榜Arena估值10个月翻倍至31亿美元",
+        "title": "AI排行榜Arena估值10个月近翻倍至31亿美元",
         "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-        "summary": "LMArena排行榜母公司获Lightspeed与Khosla领投的2亿美元融资，估值升至31亿美元，并开始评估AI模型说谎等对齐问题。",
-        "comment": "评测平台成资本新宠，对齐评测或成下一战场。",
+        "summary": "LMArena排行榜母公司获Lightspeed与Khosla领投2亿美元融资，估值达31亿美元，并开始评估AI模型在说谎等对齐问题上的表现。",
+        "comment": "AI评测成资本新宠，但榜单公信力仍待检验。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "Anthropic",
-        "title": "Anthropic更新使用政策，禁止模型滥用与选举干预",
+        "title": "Anthropic更新使用政策 禁止模型滥用与选举干预",
         "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-        "summary": "Anthropic更新使用政策，明确禁止极端情况下反复滥用Claude，但普通不满与批评仍被允许，同时禁止选举干预。",
-        "comment": "AI公司收紧使用边界，选举干预成监管新焦点。",
+        "summary": "Anthropic更新使用政策，明确禁止极端情况下反复滥用Claude，并禁止选举干预，但普通表达不满和批评仍被允许。",
+        "comment": "AI公司收紧使用边界，选举与滥用成监管重点。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "智能戒指",
+        "title": "Natura推出99美元AI智能戒指",
+        "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+        "summary": "Natura发布99美元Interface智能戒指，按键即可召唤AI代理完成任务、记录想法、控制设备，并兼具健康追踪功能。",
+        "comment": "低价戒指成AI代理新入口，但实用性待验证。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI安全",
+        "title": "Goodfire推出低成本AI代理监控方案",
+        "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+        "summary": "Goodfire发布新型监控方案，通过直接查看模型内部状态而非调用第二个AI审查全部行为，以更低成本发现失控AI代理。",
+        "comment": "内部监控思路务实，成本优势或成关键卖点。",
         "image": "",
         "score": 99
       },
@@ -98,67 +118,37 @@
         "title": "OpenAI数学证明未达学界标准",
         "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
         "summary": "TechCrunch报道，OpenAI生成的大量数学证明偏离了其咨询的数学研究者小组制定的规范，尚未达到该领域标准。",
-        "comment": "AI攻数学，先过规范关。",
+        "comment": "AI数学能力需以学界规范为准绳。",
         "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "智能戒指",
-        "title": "Natura推出99美元AI智能戒指",
-        "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-        "summary": "Natura发布99美元Interface智能戒指，按压即可召唤AI代理完成任务、记录想法并控制设备，同时兼具健康追踪功能。",
-        "comment": "低价AI戒指能否成为随身入口，尚待验证。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI安全",
-        "title": "Goodfire推出低成本AI代理监控方案",
-        "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-        "summary": "Goodfire发布新型监控方案，通过直接查看模型内部状态而非调用第二个AI审查全部行为，以更低成本检测失控AI代理。",
-        "comment": "内部监控思路新颖，成本优势或成关键卖点。",
-        "image": "",
-        "score": 99
+        "score": 98
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "工程师用庭审文件还原霍姆斯办公桌",
+        "title": "工程师用庭审文件还原霍姆斯办公桌网站",
         "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-        "summary": "Extend工程师Bo Lau利用美国诉伊丽莎白·霍姆斯案庭审中的上千封邮件、幻灯片、短信和文件，搭建了一个模拟霍姆斯办公桌的网站，还原其工作场景。",
-        "comment": "庭审材料变成沉浸式体验，猎奇之外也有史料价值。",
+        "summary": "Extend工程师Bo Lau利用美国诉Elizabeth Holmes案中逾千封邮件、幻灯片、短信和文件，搭建了一个模拟坐在Holmes办公桌前的网站。",
+        "comment": "庭审材料变成沉浸式体验，猎奇与警示并存。",
         "image": "",
-        "score": 97
+        "score": 96
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "本·阿弗莱克精通AI知识引网络热议",
+        "title": "本·阿弗莱克精通AI知识走红网络",
         "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-        "summary": "演员本·阿弗莱克因深入了解神经网络、Transformer和开放权重等AI知识走红网络，其AI电影制作初创公司此前已出售给Netflix。",
-        "comment": "明星懂AI成谈资，但技术深度仍待检验。",
+        "summary": "演员本·阿弗莱克因深入了解神经网络、Transformer和开放权重等AI知识而走红网络，他此前已将AI电影制作初创公司出售给Netflix。",
+        "comment": "明星懂AI成流量密码，但技术深度仍待验证。",
         "image": "",
         "score": 96
       },
       {
         "category": "游戏影视",
         "tag": "漫威",
-        "title": "查理·考克斯谈《捍卫者联盟》回归：需要某种收尾",
-        "link": "https://www.ign.com/articles/charlie-cox-on-the-return-of-the-defenders-there-needed-to-be-some-kind-of-closure-nycc-2026",
-        "summary": "查理·考克斯在纽约漫展透露《捍卫者联盟》角色将回归，并称《夜魔侠：重生》第三季为最终季，呼吁粉丝发起“拯救夜魔侠”活动。",
-        "comment": "漫威街头英雄线收束，粉丝呼声终获回应。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/19/dd-suit-oo-1-1773963923006.jpg",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威",
         "title": "芬·琼斯谈铁拳回归《夜魔侠：重生》",
         "link": "https://www.ign.com/articles/finn-jones-iron-fist-daredevil-born-again-season-3",
-        "summary": "芬·琼斯在纽约漫展回应回归《夜魔侠：重生》第三季饰演丹尼·兰德/铁拳，称获得漫威第二次机会是“美妙的礼物”。",
-        "comment": "铁拳回归，漫威在修补旧账。",
+        "summary": "芬·琼斯在纽约漫展谈及以丹尼·兰德/铁拳身份回归《夜魔侠：重生》第三季，称获得漫威第二次机会是“美妙的礼物”。",
+        "comment": "铁拳回归，漫威电视宇宙再添情怀牌。",
         "image": "https://assets-prd.ignimgs.com/2026/10/08/iron-fist-finn-jones-1280x-1791503295882.jpg",
         "score": 93
       },
@@ -167,49 +157,9 @@
         "tag": "Windows",
         "title": "Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战",
         "link": "https://www.ifanr.com/1683177?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微软发布 Windows 重大 AI 更新，联合英伟达黄仁勋展示新功能，直接对标苹果 Mac，试图吸引用户回归 Windows 阵营。",
+        "summary": "微软发布 Windows 重大 AI 更新，联合英伟达黄仁勋，强化本地 AI 能力，直接对标苹果 Mac，试图吸引用户回归 Windows 阵营。",
         "comment": "AI PC 战事升级，微软借英伟达向苹果施压。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "英伟达",
-        "title": "黄仁勋发布史上最强Surface，专为无限智能设计",
-        "link": "https://www.ifanr.com/1683127?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "英伟达黄仁勋发布号称史上最强Surface，专为无限智能设计，引发对微软Windows生态控制力的讨论。",
-        "comment": "黄仁勋站台Surface，AI PC战局再升温。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果新品曝光，全球纯汽油车份额首跌破50%",
-        "link": "https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果多款新品最快下周发布；全球纯汽油车市场份额首次跌破50%；微软发布2599美元起的Surface Laptop Ultra。OpenAI向Chat用户推送GPT-6并加入可交互界面。",
-        "comment": "苹果与微软齐发新品，纯汽油车拐点已至。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "查理·考克斯确认参演未公布世嘉游戏",
-        "link": "https://www.ign.com/articles/daredevil-star-charlie-cox-confirms-hes-in-an-unannounced-sega-game-nycc-2026",
-        "summary": "在纽约动漫展上，《夜魔侠》主演查理·考克斯确认他正参演一款尚未公布的世嘉游戏，此前他曾为《使命召唤》等作品配音。",
-        "comment": "演员跨界游戏配音渐成常态，世嘉新作值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/08/charlie-cox-confirms-he-stars-in-unnanounced-sega-game-1791501696523.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "Jay与Silent Bob大麻农场模拟游戏首曝预告",
-        "link": "https://www.ign.com/articles/jay-silent-bob-joint-venture-trailer-gameplay",
-        "summary": "IGN报道，凯文·史密斯笔下的Jay与Silent Bob将化身大麻农场模拟游戏主角，首支预告与细节在纽约漫展2026公布，主打粗口与休闲种田。",
-        "comment": "IP改编种田游戏，猎奇但契合原作气质。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/08/joint-venture-1280c-1791483925424.jpg",
         "score": 92
       },
       {
@@ -217,7 +167,7 @@
         "tag": "育碧",
         "title": "育碧宣布《彩虹六号手游》停运，上线不足一年",
         "link": "https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/",
-        "summary": "育碧宣布《彩虹六号手游》将停运。该作2023年软启动，2024年正式上线，运营不足一年即被关闭。",
+        "summary": "育碧宣布《彩虹六号手游》即将停运。该作2023年软启动，2024年正式上线，运营不足一年便终止服务。",
         "comment": "手游化受挫，育碧收缩战线止损。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/SixMobile.png?w=300",
         "score": 92
@@ -225,10 +175,10 @@
       {
         "category": "游戏影视",
         "tag": "赛博朋克2077",
-        "title": "《赛博朋克2077》将改编电影，派拉蒙携手变形金刚制片人",
+        "title": "《赛博朋克2077》将拍电影，派拉蒙与变形金刚制片人加盟",
         "link": "https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/",
-        "summary": "派拉蒙宣布将制作《赛博朋克2077》电影，由《变形金刚》制片人参与，该工作室也在开发《使命召唤》电影。",
-        "comment": "游戏改编热潮再添一员，成败取决于能否还原夜之城气质。",
+        "summary": "派拉蒙宣布将把《赛博朋克2077》改编为电影，由《变形金刚》制片人参与，该工作室同时负责《使命召唤》电影项目。",
+        "comment": "游戏改编电影再添一员，成败取决于能否还原夜之城气质。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/CP2077.jpg?w=300",
         "score": 92
       },
@@ -237,29 +187,9 @@
         "tag": "捷豹",
         "title": "捷豹发布Type 01，千匹动力开启新时代",
         "link": "https://www.ifanr.com/1683214?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "捷豹发布全新Type 01，搭载千匹马力动力系统，彻底告别过往设计语言，瞄准新一代买家。",
-        "comment": "捷豹以千匹电动化转型豪赌新市场。",
+        "summary": "捷豹发布全新Type 01，搭载千匹动力，标志品牌告别过往、迎接新买家。",
+        "comment": "捷豹彻底转型，千匹动力能否赢回市场？",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI视频",
-        "title": "Vidu Q4 Preview 实测：9分钱每秒生成奥特曼与Dario男团舞",
-        "link": "https://www.ifanr.com/1683089?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿用 Vidu Q4 Preview 生成视频，把奥特曼和 Dario 凑成男团跳 APT，成本仅 9 分钱每秒，展示 AI 视频生成新玩法。",
-        "comment": "AI 视频生成价格战开打，创意玩法成关键。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电影",
-        "title": "IGN评《另一个妈妈》：杰西卡·查斯坦新片创意佳但成片欠佳",
-        "link": "https://www.ign.com/articles/other-mommy-review",
-        "summary": "IGN评测杰西卡·查斯坦主演的《另一个妈妈》，认为影片创意出色，但整体执行不佳，未能将好点子转化为一部更好的电影。",
-        "comment": "好创意没拍好，查斯坦也救不回。",
-        "image": "https://assets-prd.ignimgs.com/2026/07/21/othermommythumb-1784640435783.png",
         "score": 91
       },
       {
@@ -267,18 +197,18 @@
         "tag": "独立游戏",
         "title": "Triple-I Initiative 2026年10月发布会内容汇总",
         "link": "https://www.gamespot.com/articles/triple-i-initiative-october-2026-everything-announced-at-the-showcase/",
-        "summary": "2026年Triple-I Initiative罕见地举办第二场发布会，主办方Evil Empire公布多款独立游戏新作与更新，GameSpot汇总全部公布内容。",
-        "comment": "一年两场，独立游戏宣发节奏正在加快。",
+        "summary": "Triple-I Initiative今年罕见举办第二场发布会，Evil Empire公布多款独立游戏新作与更新，GameSpot汇总全部公布内容。",
+        "comment": "一年两场，独立游戏曝光节奏明显加快。",
         "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4679775-triple-i.jpg?w=300",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
-        "title": "Strange Scaffold 挽救新战术游戏免于取消",
+        "title": "Strange Scaffold拯救新战术游戏免于取消",
         "link": "https://www.gamespot.com/articles/strange-scaffold-saved-this-new-tactics-game-from-cancellation/",
-        "summary": "在 Triple-i Initiative 展示会上，叙事驱动战术游戏《Gods With Badges》亮相，讲述一名失宠警察回归的故事，由 Strange Scaffold 出手挽救，使其免于被取消。",
-        "comment": "发行商救场，让这款有潜力的战术新作得以面世。",
+        "summary": "Triple-i Initiative展示会上公布叙事驱动战术游戏《Gods With Badges》，讲述一名失宠警察回归的故事，由Strange Scaffold挽救免于取消。",
+        "comment": "发行商救活创意项目，值得关注。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Gods-With-Badges.jpg?w=300",
         "score": 91
       },
@@ -287,8 +217,8 @@
         "tag": "Arc Raiders",
         "title": "Arc Raiders大型更新后玩家数飙升至数月新高",
         "link": "https://www.gamespot.com/articles/arc-raiders-big-update-has-it-surging-to-numbers-it-hasnt-seen-in-months/",
-        "summary": "Embark此前表示需要数月才能推出Arc Raiders的大型更新，如今更新上线后，这款撤离射击游戏的同时在线人数回升至数月未见的高位。",
-        "comment": "长线运营靠更新兑现承诺，玩家用回归投票。",
+        "summary": "Embark曾表示需要数月才能推出Arc Raiders的重大更新，如今更新上线后，这款撤离射击游戏的同时在线人数回升至数月未见的高位。",
+        "comment": "长线运营靠更新兑现，玩家用回归投票。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Arc-spread-the-word.jpg?w=300",
         "score": 91
       },
@@ -297,39 +227,29 @@
         "tag": "保时捷",
         "title": "保时捷将推新超跑，靠厚利寡销翻盘",
         "link": "https://www.ifanr.com/1683229?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，苹果CEO最爱的汽车品牌保时捷计划推出新超跑，以厚利寡销策略寻求市场翻盘。",
-        "comment": "豪车市场收缩，保时捷押注稀缺性。",
+        "summary": "保时捷计划推出新超跑，延续高利润、低销量策略以提振业绩。苹果CEO蒂姆·库克曾公开表示喜爱保时捷。",
+        "comment": "豪车市场收缩，保时捷押注稀缺性保利润。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI视频",
+        "title": "Vidu Q4 Preview 实测：奥特曼与 Dario 组男团跳 APT",
+        "link": "https://www.ifanr.com/1683089?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿用 Vidu Q4 Preview 生成视频，把奥特曼和 Dario 凑成男团跳 APT，成本约 9 分钱每秒。",
+        "comment": "AI 视频玩梗能力升级，成本已低到可随手试。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6周边公布：墨镜鳄鱼喝鸡尾酒T恤",
+        "title": "GTA 6 官方周边公布 含鳄鱼墨镜T恤",
         "link": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/",
-        "summary": "Rockstar公布GTA 6官方周边系列，为11月发售预热，包括印有戴墨镜喝鸡尾酒鳄鱼的T恤等单品。",
-        "comment": "发售前周边先行，营销节奏稳。",
+        "summary": "Rockstar 公布 GTA 6 官方周边系列，为 11 月发售预热，其中包括一件印有戴墨镜喝鸡尾酒鳄鱼的 T 恤。",
+        "comment": "周边先行，营销节奏已启动。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/alligator.png?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "生化危机系列电影票房排行：新作未登顶",
-        "link": "https://www.gamespot.com/articles/here-are-the-highest-grossing-resident-evil-movies-ever-and-the-new-one-isnt-no-1/",
-        "summary": "GameSpot盘点生化危机系列电影全球票房排名，扎克·克雷格执导的新作虽口碑不俗、票房表现强劲，但并非系列最高。",
-        "comment": "新作口碑票房双收，却难撼系列旧王。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Resident.png?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "塞尔达传说",
-        "title": "百思买重现1998年《塞尔达传说：时之笛》午夜首发",
-        "link": "https://www.gamespot.com/articles/best-buy-wants-to-travel-back-to-1998-with-zelda-ocarina-of-time-midnight-launch/",
-        "summary": "百思买将复刻1998年《塞尔达传说：时之笛》N64首发午夜排队活动，当时家用主机尚无数字商店，玩家只能到店购买。",
-        "comment": "怀旧营销精准，但难掩实体零售的焦虑。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/0b9ca24526fc399ba297a38fe4ef67307acb15b597520858e7db19b86488810c.jpeg?w=300",
         "score": 90
       },
       {
@@ -338,99 +258,19 @@
         "title": "本·阿弗莱克谈《堡垒之夜》皮肤与难度",
         "link": "https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/",
         "summary": "两届奥斯卡得主本·阿弗莱克公开谈论《堡垒之夜》的皮肤设计，并坦言这款游戏对他而言难度颇高，引发玩家关注。",
-        "comment": "影帝吐槽游戏难，跨界话题自带流量。",
+        "comment": "影帝吐槽游戏难度，跨界话题自带流量。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/affleck.png?w=300",
         "score": 89
       },
       {
-        "category": "游戏影视",
-        "tag": "降世神通",
-        "title": "《降世神通：七重天堂》本周首播，新集播出时间公布",
-        "link": "https://www.ign.com/articles/avatar-seven-havens-episode-release-schedule",
-        "summary": "IGN公布《降世神通：七重天堂》本周首播及新集播出时间表，观众可据此安排观看。",
-        "comment": "经典IP续作开播，粉丝需盯紧时间表。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/08/avatar-seven-havens-thumb-1791469256030.jpg",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "俄军袭击克拉马托尔斯克巴士致至少30人死亡",
-        "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰指控俄罗斯袭击克拉马托尔斯克前线城市两辆拥挤车辆，造成至少30人死亡，意在尽可能多地杀害平民。",
-        "comment": "针对平民车辆的袭击凸显战争残酷升级。",
-        "image": "",
-        "score": 88
-      },
-      {
         "category": "时事热点",
         "tag": "摩纳哥",
-        "title": "摩纳哥炸弹袭击案嫌犯在乌克兰监狱受访",
+        "title": "摩纳哥炸弹袭击案嫌疑人接受BBC采访",
         "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC采访了涉嫌参与摩纳哥针对乌克兰裔富商未遂暗杀案的嫌犯Vitalii Zhykovych，他目前在乌克兰监狱中自述案情。",
-        "comment": "跨国暗杀案嫌犯狱中发声，案情仍待核实。",
+        "summary": "与乌克兰裔富商遇刺未遂案有关的嫌疑人Vitalii Zhykovych向BBC讲述了自己的说法。",
+        "comment": "嫌疑人主动受访，案情或现新变数。",
         "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "死刑",
-        "title": "美国死刑执行失败后 女囚已能行走",
-        "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-        "summary": "律师称，杀害科琳·斯莱默的女囚克里斯塔·派克在两次注射死刑未果后幸存，目前已在医院病房内走动。",
-        "comment": "死刑执行失败暴露程序漏洞，后续处置更棘手。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "西班牙",
-        "title": "西班牙住房危机抗议者指责“秃鹫基金”",
-        "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-        "summary": "数百人在马德里市中心搭帐篷抗议住房危机，西班牙首相宣布提前举行大选。",
-        "comment": "住房危机叠加提前大选，社会矛盾或成选战焦点。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "诺贝尔文学奖",
-        "title": "加拿大诗人安妮·卡森获诺贝尔文学奖",
-        "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-        "summary": "76岁的加拿大诗人安妮·卡森荣获诺贝尔文学奖，其作品常跨越诗歌、小说与学术的界限，以大胆创新著称。",
-        "comment": "跨文体写作获诺奖，文学边界再被拓宽。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "委内瑞拉",
-        "title": "委内瑞拉前领导人马杜罗被控共谋实施酷刑",
-        "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC报道，委内瑞拉前总统马杜罗被控共谋实施酷刑，新指控涉及其在任期间美国公民在委内瑞拉遭酷刑对待。",
-        "comment": "卸任后追责，美委关系再添变数。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国移民",
-        "title": "人权组织称美国遣返非洲移民非法且利用苦难",
-        "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-        "summary": "人权观察引用美国数据称，已有500多名移民被美国驱逐至非洲国家，此举被指非法且利用移民苦难。",
-        "comment": "遣返政策再陷人权争议，非洲国家成转移目标。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "印度电影",
-        "title": "印度演员纳纳·帕特卡突然去世，享年75岁",
-        "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-        "summary": "以强烈表演风格闻名的印度演员纳纳·帕特卡突然去世，享年75岁。他在印度影坛留下了独特印记。",
-        "comment": "印度影坛失去一位敢言的实力派演员。",
-        "image": "",
-        "score": 86
+        "score": 85
       }
     ]
   }
