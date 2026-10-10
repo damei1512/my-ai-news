@@ -5,9 +5,9 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Oracle用ChatGPT和Codex将数天工作缩至分钟",
+        "title": "Oracle用ChatGPT和Codex将数日工作缩至分钟",
         "link": "https://openai.com/index/oracle",
-        "summary": "OpenAI介绍Oracle在招聘、工程和运营中借助ChatGPT Work与Codex，把专家知识转化为快速可复用的工作流，将原本数天的工作压缩到分钟级。",
+        "summary": "OpenAI介绍Oracle在招聘、工程和运营中借助ChatGPT Work与Codex，将专家知识转化为快速可复用的工作流，大幅压缩任务耗时。",
         "comment": "企业AI落地正从试点走向核心流程提效。",
         "image": "",
         "score": 100
@@ -15,42 +15,32 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Pollo AI 借助 OpenAI 将创意转化为广告活动",
+        "title": "Pollo AI 用 OpenAI 模型生成广告创意",
         "link": "https://openai.com/index/pollo-ai",
-        "summary": "Pollo AI 利用 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，帮助创作者将创意转化为精细图像和电影级视频广告。",
-        "comment": "AI 广告创作工具再进一步，创意到成片链路更短。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI编程",
-        "title": "LegalOn 将 Codex 成本减半，开发速度不减",
-        "link": "https://openai.com/index/legalon-halves-codex-costs",
-        "summary": "LegalOn 将 Codex 每日预估成本降低 65%，同时保持开发速度。其方法是将 Astra、Sol 和 Luna 匹配到不同任务，并策略性管理预算。",
-        "comment": "AI 编程工具降本关键在于任务与模型精准匹配。",
+        "summary": "Pollo AI 借助 GPT-5.6、GPT-6 Astra 与 GPT-Image-2.5，帮助创作者将创意转化为精细图像和电影级视频广告。",
+        "comment": "AI 广告生产链再进一步，创意到成片加速。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI 打击AI虚假媒体影响行动",
-        "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-        "summary": "OpenAI 披露并打击了两起利用AI的隐蔽影响行动，相关操作伪装成记者和智库，传播地缘政治信息。",
-        "comment": "AI被用于伪装媒体，平台治理压力上升。",
+        "title": "LegalOn 将 Codex 成本减半",
+        "link": "https://openai.com/index/legalon-halves-codex-costs",
+        "summary": "LegalOn 将 Codex 每日预估成本削减 65%，同时保持开发速度。其通过将 Astra、Sol 和 Luna 匹配到任务并策略性管理预算实现。",
+        "comment": "成本优化案例，值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "工程师用千份庭审文件还原霍姆斯办公桌",
-        "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-        "summary": "Extend工程师Bo Lau利用美国诉霍姆斯案中上千封邮件、幻灯片、短信和文件，搭建了一个模拟伊丽莎白·霍姆斯办公桌的网站，可沉浸式浏览庭审材料。",
-        "comment": "庭审材料变成沉浸式体验，猎奇之外也有信息价值。",
+        "tag": "OpenAI",
+        "title": "OpenAI 打击两起 AI 虚假媒体影响行动",
+        "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "summary": "OpenAI 披露已封禁两起利用 AI 冒充记者与智库的影响行动，这些账号借虚假媒体身份散布地缘政治信息。",
+        "comment": "AI 被用于伪造媒体身份，平台治理压力上升。",
         "image": "",
-        "score": 97
+        "score": 100
       }
     ]
   }
