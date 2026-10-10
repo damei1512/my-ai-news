@@ -5,102 +5,62 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "被解雇OpenAI安全研究员否认不当行为，警告寒蝉效应",
-        "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "summary": "三名被解雇的OpenAI安全研究员公开反驳敏感信息处理不当的指控，警告解雇行为正在安全团队中制造寒蝉效应。",
-        "comment": "安全团队遭清洗，OpenAI治理风险加剧。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "甲骨文用ChatGPT和Codex将数日工作缩至分钟",
+        "title": "甲骨文用ChatGPT与Codex将数日工作缩至分钟",
         "link": "https://openai.com/index/oracle",
-        "summary": "OpenAI介绍甲骨文在招聘、工程和运营中借助ChatGPT Work与Codex，把专家知识转化为快速可复用的工作流。",
-        "comment": "企业AI落地正从试点走向核心流程提效。",
+        "summary": "OpenAI介绍甲骨文在招聘、工程和运营中借助ChatGPT Work与Codex，把专家知识转化为快速可复用的工作流，将原本数日的工作压缩到分钟级。",
+        "comment": "企业AI落地关键在流程复用，而非单点提效。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Pollo AI借OpenAI模型将创意转化为广告活动",
+        "title": "Pollo AI 用 OpenAI 模型生成广告大片",
         "link": "https://openai.com/index/pollo-ai",
-        "summary": "Pollo AI利用GPT-5.6、GPT-6 Astra和GPT-Image-2.5，帮助创作者将创意转化为精细图像和电影级视频广告。",
-        "comment": "AI广告创作工具再进一步，但落地效果待验证。",
+        "summary": "Pollo AI 借助 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，帮助创作者把创意转化为精细图像与电影级视频广告。",
+        "comment": "AI 广告生产链正在成型，创意到成片一步到位。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI编程",
-        "title": "LegalOn将Codex成本减半，开发速度不减",
+        "title": "LegalOn将Codex成本减半且不降开发速度",
         "link": "https://openai.com/index/legalon-halves-codex-costs",
-        "summary": "LegalOn将每日Codex预估成本降低65%，同时保持开发速度。其做法是按任务匹配Astra、Sol和Luna模型，并策略性管理预算。",
-        "comment": "模型分级加预算管控，是AI编程降本的可复制路径。",
+        "summary": "LegalOn将Codex日均成本估算削减65%，同时保持开发速度。其做法是按任务匹配Astra、Sol和Luna模型，并策略性管理预算。",
+        "comment": "模型分级与预算管控，是AI编码降本的可复制路径。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI 打击AI虚假媒体影响行动",
+        "title": "OpenAI 打击AI虚假记者与智库影响行动",
         "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-        "summary": "OpenAI 披露并阻断两起利用AI的隐蔽影响行动，涉及假记者与智库，用于传播地缘政治信息。",
-        "comment": "AI被武器化做舆论战，平台治理压力升级。",
+        "summary": "OpenAI 披露并打击了两起利用AI伪装记者和智库的影响行动，这些行动传播地缘政治信息。",
+        "comment": "AI影响行动已从水军升级为伪装机构，平台需持续对抗。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "工程师用庭审文件还原霍姆斯办公桌模拟网站",
+        "title": "工程师用庭审文件还原霍姆斯办公桌",
         "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-        "summary": "Extend工程师Bo Lau利用美国诉霍姆斯案中逾千份邮件、幻灯片、短信和文档，搭建了一个模拟伊丽莎白·霍姆斯办公桌的网站，还原其工作场景。",
-        "comment": "庭审材料变成沉浸式体验，猎奇有余但隐私边界存疑。",
+        "summary": "Extend工程师Bo Lau利用美国诉伊丽莎白·霍姆斯案庭审中逾千封邮件、幻灯片、短信和文件，搭建了一个模拟霍姆斯办公桌的网站，细节丰富。",
+        "comment": "庭审材料变成沉浸式体验，猎奇之外也有史料价值。",
         "image": "",
-        "score": 96
-      },
-      {
-        "category": "数码科技",
-        "tag": "Windows",
-        "title": "Windows 迎来 AI 时代最大更新，联手英伟达向 Mac 宣战",
-        "link": "https://www.ifanr.com/1683177?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微软发布 Windows 的 AI 时代重大更新，并联合英伟达黄仁勋，意在挑战苹果 Mac，吸引用户回归 Windows 阵营。",
-        "comment": "AI PC 战事升级，微软借英伟达向苹果施压。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "捷豹",
-        "title": "捷豹发布Type 01：千匹动力开启新时代",
-        "link": "https://www.ifanr.com/1683214?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "捷豹发布全新Type 01，搭载千匹动力，定位彻底转型，告别过往设计语言，瞄准新一批买家。",
-        "comment": "捷豹彻底告别旧形象，千匹动力能否赢得新买家？",
-        "image": "",
-        "score": 91
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "保时捷",
         "title": "保时捷将推新超跑，靠厚利寡销翻盘",
         "link": "https://www.ifanr.com/1683229?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "保时捷计划推出新超跑，采取厚利寡销策略应对市场变化。苹果CEO曾公开表达对该品牌的喜爱。",
-        "comment": "超跑市场收缩，保时捷押注稀缺性保利润。",
+        "summary": "保时捷计划推出新超跑，延续高利润、低销量的策略，以提振业绩。该品牌也是苹果CEO库克偏爱的汽车品牌。",
+        "comment": "超跑救不了规模，但能救利润。",
         "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI视频",
-        "title": "Vidu Q4 Preview 实测：奥特曼与 Dario 组男团跳 APT",
-        "link": "https://www.ifanr.com/1683089?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿用 Vidu Q4 Preview 生成视频，把奥特曼和 Dario 凑成男团跳 APT，成本约 9 分钱每秒，展示 AI 视频生成新玩法。",
-        "comment": "AI 视频玩梗能力再升级，成本已低到可随手试。",
-        "image": "",
-        "score": 90
+        "score": 89
       }
     ]
   }
