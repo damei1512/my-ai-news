@@ -3,52 +3,222 @@
     "week": "周一",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "AI应用",
+        "title": "前Plaud高管为后台监听AI应用融资2600万美元",
+        "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+        "summary": "Ambi获2600万美元融资，推出iPhone、Mac和Apple Watch应用，支持环境持续录音与捕捉。",
+        "comment": "环境监听赛道升温，隐私与实用边界待解。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "人工智能",
+        "tag": "科技大会",
+        "title": "TechCrunch Disrupt 2026明日开幕",
+        "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+        "summary": "TechCrunch Disrupt 2026将于明日太平洋时间上午8点在旧金山Moscone West开幕，超万名创始人、投资者和科技从业者将参加为期三天的活动。",
+        "comment": "大会临近，门票优惠是最后营销窗口。",
+        "image": "",
+        "score": 96
+      },
+      {
         "category": "游戏影视",
-        "tag": "毁灭战士",
-        "title": "《毁灭战士》2016作曲者称愿随时回归系列",
-        "link": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-hed-return-to-the-doom-series-in-a-heartbeat",
-        "summary": "曾为《毁灭战士》2016作曲的Mick Gordon表示，他愿意随时回归该系列。此前他与id Software在《毁灭战士：永恒》原声带制作上存在分歧。",
-        "comment": "音乐是DOOM灵魂，回归意愿值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/07/doom-soundtrack-gets-full-concert-first-time-1786133726275.jpg",
-        "score": 93
+        "tag": "游戏",
+        "title": "星露谷作者新作更偏动作RPG",
+        "link": "https://www.ign.com/articles/haunted-chocolatier-more-of-an-action-rpg-compared-to-stardew-valley-concernedape-says",
+        "summary": "ConcernedApe表示，《Haunted Chocolatier》相比《星露谷物语》更偏向动作RPG，两者定位存在明显差异。",
+        "comment": "星露谷作者新作转型动作RPG，值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2026/02/02/stardewvalley-feature-hauntedchocolatier-blogroll-1770062121132.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "类魂游戏",
+        "title": "《Valor Mortis》评测：创意新颖的类魂游戏",
+        "link": "https://www.ign.com/articles/valor-mortis-review",
+        "summary": "IGN评测《Valor Mortis》，称其为创意丰富的类魂新作，虽有些机制执行不够流畅，但整体充满有趣想法。",
+        "comment": "想法亮眼，打磨尚欠火候。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/12/valormortis-review-blogroll-1791779447871.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "宝可梦卡牌",
+        "title": "宝可梦卡牌30周年纪念补充包补货但价格飙升",
+        "link": "https://www.ign.com/articles/pokemon-tcg-30th-celebration-boosters-are-back-in-stock-at-online-retailers",
+        "summary": "亚马逊近日补货宝可梦集换式卡牌30周年纪念补充包，但售价已飙升至历史新高，玩家需谨慎比价。",
+        "comment": "补货难抑炒作，官方渠道缺位助长溢价。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/16/untitled-1-1789559789375.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "宝可梦卡牌",
+        "title": "宝可梦卡牌市场价为何成新常态",
+        "link": "https://www.ign.com/articles/why-paying-market-price-pokemon-cards-the-new-normal",
+        "summary": "宝可梦集换式卡牌市场价常高于官方建议零售价，但能帮收藏者避开黄牛最离谱的报价，因此粉丝仍依赖市场价。",
+        "comment": "市场价成常态，反映供需失衡与黄牛顽疾。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/17/most-expensive-pokemon-cards-of-2026-2-1786972372948.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏公司",
+        "title": "战锤制造商Games Workshop股价下跌引关注",
+        "link": "https://www.ign.com/articles/why-games-workshops-falling-share-price-is-all-of-a-sudden-in-the-news",
+        "summary": "战锤40K制造商Games Workshop因股价下跌突然成为新闻焦点，外界关注其背后原因。",
+        "comment": "股价异动背后或藏经营隐忧，值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/12/gw-1791800697378.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "战争机器",
+        "title": "《战争机器：E-Day》开发商确认遭DDoS攻击",
+        "link": "https://www.ign.com/articles/gears-of-war-e-day-dev-confirms-ddos-attack",
+        "summary": "《战争机器：E-Day》开发商The Coalition确认，该游戏在周末遭遇DDoS攻击，影响玩家正常体验。",
+        "comment": "新作未发先遭攻击，安全防护需跟上。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/12/gears-1791797492273.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6再泄密视频：露西亚全裸画面引质疑",
+        "link": "https://www.ign.com/articles/latest-leaked-gta-6-video-shows-lucia-fully-naked-sparks-fan-skepticism",
+        "summary": "GTA 6泄密者再发未授权视频，声称展示露西亚全裸画面，实为推广加密货币骗局，引发粉丝质疑。",
+        "comment": "泄密炒作搭加密货币，可信度存疑。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/12/ultimate-edition-stock-305-04-1791796445495.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "铁拳8",
+        "title": "范马勇次郎将加入《铁拳8》",
+        "link": "https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/",
+        "summary": "万代南梦宫发布《铁拳8》新预告，主要展示袋鼠罗杰，同时短暂预告《刃牙》角色范马勇次郎将参战。",
+        "comment": "跨界联动够劲，但预告重点有点跑偏。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Hanma-1.jpg?w=300",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
         "title": "早报：库克谈iPhone Duo，腾讯关停Agent，SpaceXAI改名",
         "link": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果与ADT合作提供家居中枢安装服务；蔚来广东换电站达500座；苹果COO探访郑州工厂，披露iPhone Duo屏幕与芯片工艺；腾讯继QClaw后再关停一个Agent；SpaceXAI改名SpaceXSI。",
-        "comment": "苹果造车未成，家居与芯片双线发力，腾讯收缩AI战线。",
+        "summary": "苹果与ADT合作提供家居中枢安装服务；蔚来广东换电站达500座，六城新增第五代站；苹果COO探访郑州工厂，披露iPhone Duo屏幕与芯片工艺。",
+        "comment": "苹果造车未成，家居与手机双线并进。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
+        "tag": "任天堂",
+        "title": "任天堂确认继续推出实体游戏",
+        "link": "https://www.gcores.com/articles/220794",
+        "summary": "任天堂拉美高管表示不会放弃实体游戏，将根据玩家偏好调整策略。此前PlayStation宣布全面放弃实体版，引发行业对数字化的讨论。",
+        "comment": "实体游戏仍有市场，任天堂选择尊重玩家习惯。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏停运",
+        "title": "《全境封锁2》国服12月14日停服",
+        "link": "https://www.gcores.com/articles/220792",
+        "summary": "腾讯宣布因业务策略调整，《全境封锁2》国服将于2026年12月14日停运，10月12日起停止充值与新用户注册，12月22日关闭论坛及客服。",
+        "comment": "国服停运再显海外游戏本地化运营之难。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《宇宙巨人希曼：毁灭龙珠》定档2027年2月4日",
+        "link": "https://www.ign.com/articles/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-release-date-confirmed",
+        "summary": "IGN报道，《宇宙巨人希曼：毁灭龙珠》确认将于2027年2月4日发售，官方同步公布具体上市日期。",
+        "comment": "希曼新作定档，但两年等待期偏长。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/12/unnamed-5-1791812244961.png",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
         "tag": "星际公民",
-        "title": "《星际公民》衍生单机《42中队》上线Steam页面",
-        "link": "https://www.gcores.com/articles/220765",
-        "summary": "Cloud Imperium Games开发的《星际公民》衍生单机游戏《42中队》已推出Steam商城页。玩家将以新兵身份加入UEE海军，展开电影感单人太空冒险，与全明星阵容船员并肩作战。",
-        "comment": "多年跳票后终于有实质进展，但发售日仍未公布。",
+        "title": "《42中队》新预告惊艳，2027年发售难令人信服",
+        "link": "https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/",
+        "summary": "《星际公民》单人模式《42中队》发布新预告，展示豪华演员阵容与星际战争场面。该作已开发12年，2027年发售日期引发质疑。",
+        "comment": "预告再好，也难掩12年跳票史。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Squadron-42.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "《闹鬼巧克力师》面向星露谷矿工玩家",
+        "link": "https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/",
+        "summary": "《星露谷物语》创作者Eric Barone的第二款游戏《闹鬼巧克力师》已开发超五年，2021年10月公布。新作面向喜欢下矿的玩家群体。",
+        "comment": "星露谷粉丝苦等五年，新作定位精准。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Haunted-Chocolatier.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "鬼武者",
+        "title": "《鬼武者：剑之道》能否重返巅峰？",
+        "link": "https://www.gcores.com/radios/220780",
+        "summary": "机核节目聊喀普康时隔二十年的《鬼武者》新作《剑之道》，战斗系统获好评，但半开放世界养成与收集要素引发争议，探讨重启能否带系列回巅峰。",
+        "comment": "战斗手感在线，开放世界设计成最大变数。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "恐怖游戏",
-        "title": "心理恐怖游戏《铁道人》2027年3月发售",
-        "link": "https://www.gcores.com/articles/220766",
-        "summary": "11位工作室与恐怖游戏开发者雷姆·米哈尔斯基合作打造《铁道人》，玩家扮演铁路道口工，在偏僻铁路驻守一个月并戒酒，2027年3月10日登陆PC Steam。",
-        "comment": "时间管理叠加心理恐怖，设定新颖值得关注。",
+        "tag": "Roguelike",
+        "title": "Team Instant Defeat公布Roguelike新作《地块梦战》",
+        "link": "https://www.gcores.com/articles/220767",
+        "summary": "新工作室Team Instant Defeat携手11位工作室公布快节奏俯视角动作Roguelike《地块梦战》，玩家需构筑战场抵御异星敌人。",
+        "comment": "新工作室首作，地块构筑玩法值得关注。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "游戏展会",
+        "tag": "出版",
+        "title": "安东尼·波登《厨房机密》推出Folio Society精装版",
+        "link": "https://www.ign.com/articles/anthony-bourdains-kitchen-confidential-gets-deluxe-folio-society-release",
+        "summary": "安东尼·波登的经典回忆录《厨房机密》将由Folio Society推出新版，内含这位已故名厨的独家肖像。",
+        "comment": "名厨遗作再版，收藏价值大于新闻性。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/11/mixcollage-11-oct-2026-09-36-am-1606-1791725836353.jpg",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "书单",
+        "title": "2026年10月最佳书籍推荐",
+        "link": "https://www.ign.com/articles/the-best-books-you-can-read-in-october-2026",
+        "summary": "IGN盘点2026年10月上市新书，涵盖科幻、爱情与惊悚等类型，为读者提供当月书单参考。",
+        "comment": "书单实用，但游戏媒体荐书略显跨界。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/12/october-books-2-1791801075108.png",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "任天堂",
+        "title": "任天堂称暂不放弃实体游戏",
+        "link": "https://www.gamespot.com/articles/nintendo-says-it-has-no-plans-to-ditch-physical-games-yet/",
+        "summary": "任天堂表示Switch 2将延续实体与数字并行的策略，不效仿索尼2028年转向纯数字市场，对实体游戏保持开放态度。",
+        "comment": "实体游戏仍有玩家基本盘，任天堂选择稳妥。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Switch-2-cart.jpg?w=300",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "核聚变",
         "title": "Boltray Games携5款多元游戏亮相2026北京核聚变",
         "link": "https://www.gcores.com/articles/220745",
-        "summary": "核聚变游戏嘉年华北京站10月24、25日在首钢国际会展中心举行，Boltray Games将携5款风格多元游戏参展，提供试玩、舞台活动、限定周边及GGG音乐联欢夜。",
-        "comment": "多元阵容参展，核聚变玩家值得期待。",
+        "summary": "Boltray Games将在2026北京核聚变游戏嘉年华展出5款风格多元的游戏，活动于10月24日至25日在首钢国际会展中心举行，含试玩、舞台活动及限定周边。",
+        "comment": "多元阵容参展，核聚变玩家值得关注。",
         "image": "",
         "score": 89
       },
@@ -57,30 +227,120 @@
         "tag": "逃离后室",
         "title": "《逃离后室》失物招领更新10月29日上线",
         "link": "https://www.gcores.com/articles/220769",
-        "summary": "《逃离后室》开发团队宣布“失物招领”更新将于10月29日上线，作为2026年第四季度更新路线图的开端，带来2款免费流浪者皮肤及5款DLC皮肤，后续还将推出全新层级。",
+        "summary": "《逃离后室》开发团队宣布“失物招领”更新将于10月29日上线，作为2026年第四季度更新路线图的开端，将带来2款免费流浪者皮肤及5款DLC皮肤，后续还计划推出全新层级。",
         "comment": "免费皮肤开路，新层级才是留住玩家的关键。",
         "image": "",
         "score": 89
       },
       {
         "category": "游戏影视",
-        "tag": "Roguelike",
-        "title": "Team Instant Defeat公布Roguelike新作《地块梦战》",
-        "link": "https://www.gcores.com/articles/220767",
-        "summary": "新工作室Team Instant Defeat携手11位工作室公布快节奏俯视角动作Roguelike《地块梦战》，玩家需构筑战场抵御异星敌人。",
-        "comment": "新团队首作，地块构筑玩法值得关注。",
+        "tag": "推理",
+        "title": "机核《谜题构筑法》第3集免费加更",
+        "link": "https://www.gcores.com/radios/211461",
+        "summary": "机核推出推理播客《谜题构筑法》第3集，探讨谜题不止于凶手是谁，涉及《占星术杀人魔法》《利刃出鞘3》等作品，含剧透提示。",
+        "comment": "推理创作课，拆解谜题比猜凶手更有料。",
         "image": "",
-        "score": 89
+        "score": 88
       },
       {
         "category": "游戏影视",
-        "tag": "极限竞速",
-        "title": "《极限竞速：地平线6》首个大型拓展包2027年1月上线",
-        "link": "https://www.gcores.com/articles/220768",
-        "summary": "微软宣布《极限竞速：地平线6》首个大型拓展包将于2027年1月21日发布，包含在尊享版及升级包中，无需额外付费，也可单独购买。",
-        "comment": "发售日尚远，先卖升级包，玩家需耐心等待。",
+        "tag": "Steam",
+        "title": "Steam挂机钓鱼游戏《喵！一起摸鱼吧~》定档11月5日",
+        "link": "https://www.gcores.com/articles/220685",
+        "summary": "《喵！一起摸鱼吧~》将于11月5日登陆Steam，是一款桌面挂机钓鱼游戏。玩家可自由调整窗口位置，边忙边等鱼儿上钩，还能钓鱼、收集、换装并邀请朋友一起玩。",
+        "comment": "桌面挂机钓鱼，治愈系摸鱼新选择。",
         "image": "",
-        "score": 89
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏展",
+        "title": "核聚变游戏嘉年华2026北京站周六门票售罄",
+        "link": "https://www.gcores.com/articles/220746",
+        "summary": "核聚变游戏嘉年华2026北京站10月24日至25日在首钢国际会展中心举行，周六门票已售罄。活动含热门新游试玩、舞台活动、限定周边及GGG游戏节奏联欢夜。",
+        "comment": "周六票售罄，线下游戏展热度不减。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "阿布拉莫维奇",
+        "title": "BBC调查：阿布拉莫维奇财富涉伪造文件逃税",
+        "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC调查发现，俄罗斯寡头阿布拉莫维奇的财富通过伪造文件逃税，追溯日期的文书还让其游艇和豪宅从账目中消失。",
+        "comment": "离岸避税再曝系统性造假，监管漏洞值得追问。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "沙特",
+        "title": "沙特部长誓言对胡塞武装袭击机场作出严肃回应",
+        "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+        "summary": "胡塞武装袭击利雅得国际机场及另一设施，致13人死亡，沙特部长称将作出严肃回应，地区冲突显著升级。",
+        "comment": "胡塞袭击沙特腹地，地区冲突风险骤升。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "法国",
+        "title": "法国校园枪击案：14岁学生被捕，两名教师受伤",
+        "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+        "summary": "法国一所中学发生枪击事件，校长和一名教师受伤，一名14岁学生被拘留。",
+        "comment": "校园枪击再现，法国控枪与校园安全再受拷问。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "播客",
+        "title": "机核录音笔VOL.801：谁在厕所抽烟？",
+        "link": "https://www.gcores.com/radios/220800",
+        "summary": "机核GPASS会员专享节目《录音笔》第801期，收录办公室日常碎念与真实对话，时长约十几分钟，内容随性无固定主题。",
+        "comment": "会员向闲聊节目，选题随意，适合粉丝消遣。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "南非",
+        "title": "南非副警察总监因性犯罪指控辞职",
+        "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+        "summary": "南非副警察总监沙德拉克·西比亚因涉嫌诱骗16岁少女并强奸18岁女性被起诉，他此前否认指控，现已辞职。",
+        "comment": "高层警官涉性犯罪辞职，南非警界公信力再受冲击。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "洗钱案",
+        "title": "美国拘押涉委内瑞拉数十亿美元洗钱案男子",
+        "link": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
+        "summary": "美方曾悬赏1000万美元征集线索，现拘押被控参与委内瑞拉数十亿美元洗钱计划的阿尔瓦罗·普利多。",
+        "comment": "巨额洗钱案落网，美委博弈再添筹码。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "印度",
+        "title": "印度反对派领袖游行至最高法院，要求选举负责人辞职",
+        "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+        "summary": "印度反对派领导人游行至最高法院，要求选举负责人辞职。此前德里经历混乱周末，数千名抗议者被警方拘留。",
+        "comment": "选举争议升级，印度政治紧张加剧。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "电影票房",
+        "title": "汤姆·克鲁斯新片《掘金者》或成好莱坞最大票房惨败之一",
+        "link": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
+        "summary": "汤姆·克鲁斯主演的《掘金者》次周末票房下跌约60%，预计将成为好莱坞史上最大票房惨败之一。",
+        "comment": "巨星号召力失灵，高成本影片风险凸显。",
+        "image": "",
+        "score": 84
       }
     ]
   }
