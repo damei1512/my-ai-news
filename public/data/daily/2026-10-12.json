@@ -3,133 +3,13 @@
     "week": "周一",
     "articles": [
       {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta发布首个前沿模型Muse Wonder",
-        "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-        "summary": "Meta推出前沿模型Muse Wonder，相比轻量级Muse Spark，其规模更大、能力更强，基准测试分数更高，性能表现更优。",
-        "comment": "Meta正式加入前沿模型竞赛，格局生变。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "WindBorne获美空军近5000万美元气象合同",
-        "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-        "summary": "硅谷初创公司WindBorne利用气象气球与AI预测天气，赢得美国军方近5000万美元合同，显示AI气象技术在国防领域的应用加速。",
-        "comment": "AI气象数据正成为国防采购新标的。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI监管",
-        "title": "微软总裁称英国最适合主导AI监管",
-        "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-        "summary": "微软总裁布拉德·史密斯呼吁紧急监管AI，称牛奶和洗衣机受到的监督都比AI公司更多，并认为英国最有条件推动相关规则。",
-        "comment": "科技巨头主动喊监管，意在抢占规则话语权。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI建筑",
-        "title": "AI初创称数分钟生成合规建筑蓝图",
-        "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-        "summary": "圣莫尼卡初创公司Blueprints AI开发软件，可从照片、PDF或草图生成符合建筑规范的施工蓝图，号称数分钟完成审批级图纸。",
-        "comment": "若属实，将大幅压缩建筑设计前期流程。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI应用",
-        "title": "前Plaud高管为后台监听AI应用融资2600万美元",
-        "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-        "summary": "前Plaud高管创办的AI应用获2600万美元融资，该应用在后台持续监听用户，以积累个人上下文并提供更精准的任务协助与建议。",
-        "comment": "后台常驻监听是AI助手的关键一步，但隐私边界亟待明确。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI工具",
-        "title": "Honeyjar推出AI工具，改善企业公关与传播",
-        "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-        "summary": "Honeyjar推出AI工具，旨在优化企业公关与传播流程。针对公关流程失灵的问题，该工具尝试用AI提升效率。",
-        "comment": "AI切入公关，关键看能否解决信任与效率痛点。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "TechCrunch",
-        "title": "TechCrunch Disrupt 2026明日开幕",
-        "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-        "summary": "TechCrunch Disrupt 2026将于明日开幕，超万名创始人、投资者与科技从业者齐聚旧金山Moscone West，活动为期三天，门票最高可省100美元。",
-        "comment": "大会临近，门票优惠是最后营销窗口。",
-        "image": "",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "星际公民",
-        "title": "《42中队》新预告亮相，2027年发售日难令人信服",
-        "link": "https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/",
-        "summary": "《星际公民》单人模式《42中队》发布新预告，展示豪华演员阵容与星际战争场面。该作已开发12年，2027年发售日期引发质疑。",
-        "comment": "预告惊艳，但12年跳票史让2027年承诺可信度存疑。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Squadron-42.jpg?w=300",
-        "score": 92
-      },
-      {
         "category": "数码科技",
         "tag": "阿维塔",
-        "title": "阿维塔T09巴黎首秀：三电机千匹马力，进军旗舰大六座",
+        "title": "阿维塔T09巴黎首秀：三电机千匹马力",
         "link": "https://www.ifanr.com/1683851?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "阿维塔T09在巴黎完成首秀，搭载三电机系统，综合马力达千匹，定位旗舰大六座SUV市场，是阿维塔品牌向上突破的重要产品。",
-        "comment": "三电机千匹参数亮眼，但大六座市场更考验品牌与体验。",
+        "summary": "阿维塔T09在巴黎首发亮相，搭载三电机系统，综合马力达千匹，定位旗舰大六座市场，展现品牌冲击高端新能源SUV的意图。",
+        "comment": "参数亮眼，但品牌溢价仍是硬仗。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "恐怖游戏",
-        "title": "蒂姆·伯顿式恐怖登陆Steam新游，唤起2010年代惊悚游戏记忆",
-        "link": "https://www.gamespot.com/articles/tim-burton-horror-lives-in-weird-steam-adventure-that-reminds-me-of-the-creepiest-2010s-games/",
-        "summary": "GameSpot作者回忆2012年沉迷《瘦长鬼影：八页纸》等早期恐怖游戏，如今一款风格怪诞的Steam冒险新作重现蒂姆·伯顿式恐怖氛围，令人想起那个惊悚游戏黄金期。",
-        "comment": "怪诞美学回潮，独立恐怖游戏正复刻2010年代的惊悚魔力。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_7e81727ac477d552bc8bcd3e252cf761efe56139.1920x1080.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂称暂不放弃实体游戏",
-        "link": "https://www.gamespot.com/articles/nintendo-says-it-has-no-plans-to-ditch-physical-games-yet/",
-        "summary": "任天堂表示Switch 2将坚持实体与数字并行的\"不可知论\"策略，不会像索尼那样从2028年起转向纯数字市场。",
-        "comment": "实体游戏仍有市场，任天堂选择稳妥。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Switch-2-cart.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "铁拳8",
-        "title": "《刃牙》勇次郎将加入《铁拳8》",
-        "link": "https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/",
-        "summary": "万代南梦宫发布《铁拳8》新预告，主要展示袋鼠罗杰，同时短暂预告《刃牙》角色勇次郎将参战。",
-        "comment": "跨界联动再添猛男，铁拳变肌肉鉴赏模拟器。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Hanma-1.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "独立游戏",
-        "title": "《闹鬼巧克力师》面向《星露谷》矿洞玩家",
-        "link": "https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/",
-        "summary": "《星露谷物语》作者Eric Barone新作《闹鬼巧克力师》已开发超五年，2021年10月公布。他称这款游戏面向喜欢下矿的玩家群体。",
-        "comment": "延续星露谷基因，但更聚焦冒险与战斗。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Haunted-Chocolatier.jpg?w=300",
         "score": 91
       },
       {
@@ -137,60 +17,10 @@
         "tag": "苹果",
         "title": "早报：库克谈iPhone Duo，腾讯关停Agent，SpaceXAI改名",
         "link": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果与ADT合作提供家居中枢安装服务；蔚来广东换电站达500座，六城新增第五代站；苹果COO探访郑州工厂，披露iPhone Duo屏幕与芯片工艺。",
-        "comment": "苹果生态扩张与国内换电基建同步加速。",
+        "summary": "苹果与ADT合作提供家居中枢安装服务；蔚来广东换电站达500座；苹果COO探访郑州工厂，披露iPhone Duo屏幕与芯片工艺。",
+        "comment": "苹果造车未成，家居与手机双线并进。",
         "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "USB-C线",
-        "title": "6.6英尺直角USB-C线两件装仅5美元",
-        "link": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
-        "summary": "IGN推荐一款6.6英尺直角USB-C线两件装，售价5美元，单根仅2.5美元，适用于Switch 2、Steam Deck或iPhone 18等设备。",
-        "comment": "低价实用配件，但需确认兼容性。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/12/ainopecable-1791840203679.jpg",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "独立游戏",
-        "title": "《闹鬼巧克力师》难产，诡异茶会模拟游戏可解馋",
-        "link": "https://www.gamespot.com/articles/haunted-chocolatier-is-still-missing-but-this-freaky-tea-party-sim-could-scratch-your-itch/",
-        "summary": "ConcernedApe的《闹鬼巧克力师》发售遥遥无期，GameSpot推荐一款风格诡异的茶会模拟游戏，或能填补等待期的空缺。",
-        "comment": "星露谷作者新作跳票，同类怪诞模拟游戏趁机补位。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_1d8fec4162c28b1a56b4396ca515eff2a084a932.1920x1080.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "街头霸王",
-        "title": "Mondo海报设计胜过街头霸王电影宣传",
-        "link": "https://www.gamespot.com/articles/sorry-street-fighter-movie-but-mondo-just-won-the-poster-fight/",
-        "summary": "GameSpot报道，Mondo为街头霸王系列设计的新海报艺术胜过电影官方宣传物料，引发粉丝关注。",
-        "comment": "Mondo海报设计再次证明其艺术实力。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/SF2.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "泽连斯基称特朗普宣布停火后俄袭击乌六处能源设施",
-        "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "summary": "泽连斯基表示，尽管特朗普宣布能源基础设施不再成为打击目标，俄罗斯仍持续袭击乌克兰能源设施，已致六处受损。",
-        "comment": "停火承诺沦为空文，能源战仍在升级。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "桌游",
-        "title": "《幸福工厂》将推出桌游版",
-        "link": "https://www.ign.com/articles/satisfactory-the-board-game-preview",
-        "summary": "IGN公开《幸福工厂》桌游版预览，这款以自动化建造为核心的游戏将登陆实体桌面。",
-        "comment": "工厂流水线搬上桌面，能否还原建造乐趣待观察。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/12/1000025749-1791838956989.jpeg",
-        "score": 86
+        "score": 91
       }
     ]
   }
