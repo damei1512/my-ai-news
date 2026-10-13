@@ -4,71 +4,41 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Sophos借助OpenAI将威胁调查时间缩短96%",
+        "tag": "网络安全",
+        "title": "Sophos借助OpenAI Daybreak将威胁调查时间缩短96%",
         "link": "https://openai.com/index/sophos",
         "summary": "Sophos利用OpenAI的Daybreak将网络威胁调查时间缩短96%，并自动化处理52%的MDR案例，同时保留人工监督。",
-        "comment": "AI落地安全运营，效率提升显著但需警惕误判风险。",
+        "comment": "AI正把安全运营从人力密集推向自动化。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Asana用GPT-6.1 Sol将浏览器代理成本降低76倍",
+        "title": "Asana浏览器代理成本降76倍",
         "link": "https://openai.com/index/asana-browser-agent",
-        "summary": "Asana在Codex中使用GPT-6 Astra，使其浏览器代理在测试中成本降低76倍、速度提升5倍，从而为客户提供更强的模型能力。",
-        "comment": "成本骤降与提速，或加速浏览器代理规模化落地。",
+        "summary": "Asana借助Codex中的GPT-6 Astra优化浏览器代理，测试中成本降低76倍、速度提升5倍，可为客户提供更强模型。",
+        "comment": "降本增效显著，AI代理落地提速。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战地6",
-        "title": "《战地6》第五赛季将加入服务器浏览器",
-        "link": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/",
-        "summary": "EA与战地工作室公布《战地6》第五赛季详情，将新增玩家自首日就呼吁的服务器浏览器功能，可自主筛选和加入对局。",
-        "comment": "服务器浏览器迟到但总算来了，玩家自主权回归。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/battlefieldbvegas.png?w=300",
-        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "使命召唤",
         "title": "《使命召唤：现代战争4》抢先体验含DMZ模式",
         "link": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
-        "summary": "动视宣布，《使命召唤：现代战争4》预购玩家可提前一周体验战役，DMZ模式也将同步开放抢先体验，官方公布了参与方式。",
+        "summary": "动视宣布，《使命召唤：现代战争4》预购玩家可提前一周游玩战役，DMZ模式也将同步开放抢先体验，官方公布了参与方式。",
         "comment": "预购绑定抢先体验，动视继续用内容节奏拉动销量。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DMZ.png?w=300",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《战争机器：E-Day》首发销量表现分析",
-        "link": "https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/",
-        "summary": "微软新独占游戏《战争机器：E-Day》本周发售，多位分析师首次披露其商业表现，引发对Xbox独占策略成效的关注。",
-        "comment": "独占大作销量成Xbox战略试金石。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/marcus.png?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "街头霸王",
-        "title": "《街头霸王》曾濒临消亡，玩家群体老龄化严重",
-        "link": "https://www.gamespot.com/articles/street-fighter-was-on-deaths-door-and-its-players-werent-getting-any-younger/",
-        "summary": "GameSpot报道称，《街头霸王5》2016年发售时状态糟糕，若情况未变，这个经典格斗游戏系列可能在2026年前消亡，且玩家群体老龄化问题突出。",
-        "comment": "经典IP靠改革续命，老龄化是格斗游戏通病。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Ryu-Old_594d64.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
         "tag": "扫雷",
-        "title": "3A级扫雷恶搞游戏走红，幸好不是真的",
+        "title": "3A级扫雷恶搞视频走红，幸好不是真的",
         "link": "https://www.gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real/",
-        "summary": "GameSpot报道了一款虚构的3A级扫雷游戏恶搞作品，以夸张方式展示经典扫雷若被现代大作化会是什么样子，引发玩家调侃。",
-        "comment": "恶搞戳中3A游戏过度包装的痛点。",
+        "summary": "GameSpot报道，一段模仿3A大作风格的扫雷恶搞视频引发关注，用夸张画面和演出展示现代扫雷可能的样子，但该项目并非真实游戏。",
+        "comment": "扫雷做成3A，笑点精准，也戳中游戏业浮夸。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Minesweeper-AAA-parody.jpg?w=300",
         "score": 89
       }

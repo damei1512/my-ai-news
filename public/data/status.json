@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-10-12T14:34:31Z",
+  "finished_at": "2026-10-13T00:13:15Z",
   "sources": 9,
   "raw_items": 70,
   "stories": 70,
@@ -36,7 +36,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/elonmusk"
         ],
-        "error_message": "<unknown>:26:113: not well-formed (invalid token)"
+        "error_message": "empty feed"
       },
       {
         "account_id": "realdonaldtrump",
@@ -209,7 +209,7 @@
     ],
     "stale": true,
     "stale_reason": "X feeds returned no new items; preserved previous digest.",
-    "generated_at": "2026-10-12T14:34:31Z",
+    "generated_at": "2026-10-13T00:13:15Z",
     "last_success_at": "2026-05-17T08:25:41Z"
   },
   "source_statuses": [
