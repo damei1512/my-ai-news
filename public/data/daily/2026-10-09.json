@@ -4,21 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "网络安全",
+        "tag": "人工智能",
         "title": "Sophos借助OpenAI Daybreak将威胁调查时间缩短96%",
         "link": "https://openai.com/index/sophos",
-        "summary": "Sophos利用OpenAI的Daybreak将网络威胁调查时间缩短96%，并自动化处理52%的MDR案例，同时保留人工监督。",
-        "comment": "AI正把安全运营从人力密集推向自动化。",
+        "summary": "Sophos利用OpenAI的Daybreak将网络威胁调查时间缩短96%，并自动处理52%的MDR案例，同时保留人工监督。",
+        "comment": "AI在安全运营中已从辅助走向核心提效。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Asana用GPT-6.1将浏览器代理成本降76倍",
+        "title": "Asana浏览器代理成本降76倍",
         "link": "https://openai.com/index/asana-browser-agent",
-        "summary": "Asana借助Codex中的GPT-6 Astra优化浏览器代理，测试中成本降低76倍、速度提升5倍，可为客户提供更强模型。",
-        "comment": "模型成本骤降，代理应用商业化提速。",
+        "summary": "Asana借助Codex中的GPT-6 Astra，在浏览器测试中将代理成本降低76倍、速度提升5倍，从而为客户提供更强模型。",
+        "comment": "降本增效显著，但测试数据待验证。",
         "image": "",
         "score": 100
       }
