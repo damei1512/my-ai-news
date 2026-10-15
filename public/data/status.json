@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-10-14T21:20:12Z",
+  "finished_at": "2026-10-15T04:51:58Z",
   "sources": 9,
   "raw_items": 70,
   "stories": 70,
@@ -17,9 +17,11 @@
     "base_urls": [
       "https://api.deepseek.com"
     ],
-    "status": "success",
-    "degraded_items": 0,
-    "error_counts": {}
+    "status": "degraded",
+    "degraded_items": 5,
+    "error_counts": {
+      "unexpected_error": 5
+    }
   },
   "x_digest": {
     "path": "/home/runner/work/my-ai-news/my-ai-news/public/data/x-digest.json",
@@ -209,7 +211,7 @@
     ],
     "stale": true,
     "stale_reason": "X feeds returned no new items; preserved previous digest.",
-    "generated_at": "2026-10-14T21:20:12Z",
+    "generated_at": "2026-10-15T04:51:58Z",
     "last_success_at": "2026-05-17T08:25:41Z"
   },
   "source_statuses": [
