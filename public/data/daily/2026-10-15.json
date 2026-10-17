@@ -4,41 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta推出可在Mac本地运行的开放权重AI模型",
-        "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-        "summary": "Meta与苹果合作发布Muse Spark Open，该开放权重模型可在Apple芯片Mac上本地运行，无需云端。",
-        "comment": "本地化运行或成隐私与效率新解法。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI推出GPT-Rosalind学术计划",
         "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-        "summary": "OpenAI发布Rosalind学术计划，符合条件的学术实验室可获赞助访问GPT-Rosalind及工具，用于推进生命科学研究。",
-        "comment": "以赞助换科研生态，OpenAI加速渗透学术界。",
+        "summary": "OpenAI推出Rosalind学术计划，为符合条件的学术实验室提供GPT-Rosalind及工具的赞助访问权限，以推进生命科学研究。",
+        "comment": "AI巨头以赞助方式切入学术科研，意在抢占生命科学入口。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI推出葡萄牙语教育AI与学习模式",
+        "title": "OpenAI教师节推出葡语AI教育工具",
         "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-        "summary": "OpenAI在教师节推出巴西葡萄牙语版教育AI，并展示学习模式如何帮助教师支持学生主动、分步学习。",
-        "comment": "AI教育工具本地化，重在辅助而非替代教师。",
+        "summary": "OpenAI在教师节发布巴西葡萄牙语版AI for Educators，并介绍Study Mode如何帮助教师支持学生主动、分步学习。",
+        "comment": "AI教育工具本地化，重点在引导而非代答。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与律所合作开发协议分析AI工具",
+        "title": "OpenAI与律所合作开发协议审查AI工具",
         "link": "https://openai.com/index/sullivan-cromwell",
-        "summary": "OpenAI与Sullivan & Cromwell合作开发Agreement Analyzer，用于识别合同草案中的问题，将法律专业知识融入AI协议审查。",
-        "comment": "AI深入法律核心业务，专业服务模式面临重塑。",
+        "summary": "OpenAI与Sullivan & Cromwell合作开发Agreement Analyzer，用于识别协议草案中的问题，将法律专业经验融入AI审查流程。",
+        "comment": "法律AI落地加速，专业经验与模型结合是关键。",
         "image": "",
         "score": 100
       },
@@ -55,50 +45,40 @@
       {
         "category": "数码科技",
         "tag": "保时捷",
-        "title": "保时捷Mission S正式发布，展示超级跑车新形态",
+        "title": "保时捷Mission S正式发布",
         "link": "https://www.ifanr.com/1684559?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "保时捷正式发布Mission S超级跑车，以全新设计和技术展示超级跑车应有的模样，引发广泛关注。",
-        "comment": "保时捷用Mission S重新定义超级跑车标准。",
+        "summary": "保时捷发布Mission S超级跑车，展示超级跑车应有的设计形态，爱范儿带来相关报道。",
+        "comment": "保时捷用Mission S重申超级跑车标准。",
         "image": "",
-        "score": 92
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "宝马",
-        "title": "宝马新世代i3续航1213公里，百公里能耗8.8度",
+        "title": "宝马新世代i3实测续航1213公里，百公里能耗8.8度",
         "link": "https://www.ifanr.com/1684510?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "宝马新世代i3搭载大圆柱电池，实测续航达1213公里，百公里能耗仅8.8度，展现低能耗与长续航的潜力。",
-        "comment": "大圆柱电池加持，宝马电动化效率亮眼。",
+        "summary": "宝马新世代i3搭载大圆柱电池，实测续航1213公里，百公里能耗仅8.8度，展现低能耗与大电池组合的效率优势。",
+        "comment": "续航与能耗数据亮眼，量产落地才是真考验。",
         "image": "",
-        "score": 92
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "禾赛",
-        "title": "禾赛发布AI空间相机，可复刻现实世界",
+        "title": "禾赛推出AI空间相机，可复刻现实世界",
         "link": "https://www.ifanr.com/1684538?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "禾赛科技推出一款AI空间相机，能对现实世界进行三维扫描与复刻，生成虚拟现实场景，探索空间数字化新应用。",
-        "comment": "空间扫描硬件再添玩家，关键看落地场景。",
+        "summary": "禾赛发布AI空间相机，能对现实场景进行三维复刻，生成虚拟现实内容，探索空间数字化应用。",
+        "comment": "空间数字化硬件再添玩家，关键看落地场景。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "华为",
-        "title": "华为十年研发投入1.3万亿，选择走自己的路",
-        "link": "https://www.ifanr.com/1684477?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，华为十年累计研发投入达1.3万亿元，坚持走自主技术路线，不走捷径。",
-        "comment": "巨额研发投入是华为技术底气的来源。",
-        "image": "",
-        "score": 91
+        "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "街头霸王",
-        "title": "《街头霸王》电影首日票房仅400万美元",
+        "tag": "游戏改编",
+        "title": "《街头霸王》电影北美首日票房仅400万美元",
         "link": "https://www.gamespot.com/articles/street-fighter-movie-box-office-results/",
-        "summary": "《街头霸王》电影周四美国首日票房仅400万美元，低于《真人快打2》同期表现，开局遇冷。",
-        "comment": "游戏改编电影票房魔咒难破，首轮表现堪忧。",
+        "summary": "据Deadline报道，《街头霸王》电影北美周四提前场票房为400万美元，低于《真人快打2》同期表现，首轮票房前景不乐观。",
+        "comment": "游戏改编电影热度有限，首日数据已显疲态。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/04/Street-Fighter.jpg?w=300",
         "score": 90
       }
