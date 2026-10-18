@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI智能体",
-        "title": "Amp借助OpenAI模型将AI智能体拓展至编程之外",
+        "tag": "AI代理",
+        "title": "Amp借助OpenAI模型将AI代理拓展至编程之外",
         "link": "https://openai.com/index/amp-beyond-coding",
-        "summary": "Amp利用GPT-6 Astra、Ultrafast、GPT-Live-1及ChatGPT登录，探索AI智能体在编程之外的应用边界。",
-        "comment": "智能体从写代码走向通用任务，生态竞争加剧。",
+        "summary": "OpenAI介绍Amp如何利用GPT-6 Astra、Ultrafast、GPT-Live-1及ChatGPT登录，将AI代理能力从写代码扩展到更广泛任务。",
+        "comment": "代理竞争正从代码生成转向通用任务执行。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "人工智能",
         "title": "SentinelOne借助OpenAI将恶意软件分析从数周缩短至数小时",
         "link": "https://openai.com/index/sentinelone",
-        "summary": "SentinelOne利用OpenAI Daybreak将恶意软件分析从数周压缩到数小时，从而腾出能力调查更多威胁。",
-        "comment": "AI正在重塑安全运营效率，威胁响应窗口被大幅压缩。",
+        "summary": "SentinelOne利用OpenAI Daybreak将恶意软件分析从数周压缩到数小时，从而释放出调查更多威胁的产能。",
+        "comment": "AI落地安全运营，提效路径清晰可复制。",
         "image": "",
         "score": 100
       },
@@ -27,7 +27,7 @@
         "tag": "智能体",
         "title": "Third Moment Research用GPT-6运行万级智能体超36小时",
         "link": "https://openai.com/index/third-moment-research",
-        "summary": "OpenAI介绍Third Moment Research借助GPT-6 Astra、GPT-6.1 Sol、Codex及Daybreak，构建可连续专注数日并随使用改进的智能体。",
+        "summary": "OpenAI介绍Third Moment Research借助GPT-6 Astra、GPT-6.1 Sol、Codex及Daybreak，构建可持续专注数天并随使用改进的智能体。",
         "comment": "长时运行智能体从演示走向工程化，值得关注。",
         "image": "",
         "score": 100
@@ -35,10 +35,10 @@
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "Block借助OpenAI技术构建AI安全体系",
+        "title": "Block利用OpenAI技术构建AI安全体系",
         "link": "https://openai.com/index/block-ai-powered-security",
-        "summary": "Block利用OpenAI技术打造AI安全能力，其安全团队能更快调查威胁，并在数分钟内提出补丁方案。",
-        "comment": "AI安全从检测走向自动修复，落地价值明确。",
+        "summary": "Block借助OpenAI技术打造AI安全能力，其安全团队可更快调查威胁，并在数分钟内提出补丁方案。",
+        "comment": "AI安全落地案例，效率提升明显，值得关注。",
         "image": "",
         "score": 100
       }
