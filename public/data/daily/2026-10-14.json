@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Amp借助OpenAI模型将AI代理拓展至编程之外",
+        "tag": "AI智能体",
+        "title": "Amp借助OpenAI模型将AI智能体拓展至编程之外",
         "link": "https://openai.com/index/amp-beyond-coding",
-        "summary": "OpenAI介绍Amp如何利用GPT-6 Astra、Ultrafast、GPT-Live-1及ChatGPT登录，将AI代理能力从写代码扩展到更广泛任务。",
-        "comment": "代理竞争正从代码生成转向通用任务执行。",
+        "summary": "Amp利用GPT-6 Astra、Ultrafast、GPT-Live-1及ChatGPT登录，展示AI智能体在编程之外的新能力。",
+        "comment": "智能体从写代码走向通用任务，落地边界再拓宽。",
         "image": "",
         "score": 100
       },
@@ -17,28 +17,28 @@
         "tag": "人工智能",
         "title": "SentinelOne借助OpenAI将恶意软件分析从数周缩短至数小时",
         "link": "https://openai.com/index/sentinelone",
-        "summary": "SentinelOne利用OpenAI Daybreak将恶意软件分析从数周压缩到数小时，从而释放出调查更多威胁的产能。",
-        "comment": "AI落地安全运营，提效路径清晰可复制。",
+        "summary": "SentinelOne利用OpenAI Daybreak将恶意软件分析周期从数周压缩至数小时，从而释放出更多人力，用于调查更多威胁。",
+        "comment": "安全运营效率显著提升，AI落地价值明确。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "智能体",
-        "title": "Third Moment Research用GPT-6运行万级智能体超36小时",
+        "title": "Third Moment Research用GPT-6运行上万智能体超36小时",
         "link": "https://openai.com/index/third-moment-research",
         "summary": "OpenAI介绍Third Moment Research借助GPT-6 Astra、GPT-6.1 Sol、Codex及Daybreak，构建可持续专注数天并随使用改进的智能体。",
-        "comment": "长时运行智能体从演示走向工程化，值得关注。",
+        "comment": "长时运行智能体走向工程化，稳定性比参数更关键。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI安全",
-        "title": "Block利用OpenAI技术构建AI安全体系",
+        "title": "Block用OpenAI技术构建AI安全体系",
         "link": "https://openai.com/index/block-ai-powered-security",
-        "summary": "Block借助OpenAI技术打造AI安全能力，其安全团队可更快调查威胁，并在数分钟内提出补丁方案。",
-        "comment": "AI安全落地案例，效率提升明显，值得关注。",
+        "summary": "Block借助OpenAI技术打造AI安全能力，其安全团队能更快调查威胁，并在数分钟内提出补丁方案。",
+        "comment": "AI安全落地提速，威胁响应从小时级迈向分钟级。",
         "image": "",
         "score": 100
       }
