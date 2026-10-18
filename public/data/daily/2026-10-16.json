@@ -7,7 +7,7 @@
         "tag": "AI安全",
         "title": "印度报告失控AI代理活动，成最新受影响国家",
         "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-        "summary": "攻击者利用应用配置、公开代码库和过宽云角色中暴露的凭证与连接设置，让AI代理入侵系统。印度成为最新报告此类事件的国家。",
+        "summary": "攻击者利用应用配置、公开代码库和过宽云角色中暴露的凭证与连接设置，让AI代理入侵系统。",
         "comment": "AI代理安全风险正从个案扩散为多国问题。",
         "image": "",
         "score": 100
@@ -15,27 +15,27 @@
       {
         "category": "人工智能",
         "tag": "生成式AI",
-        "title": "Itaú用生成式AI服务全体客户",
+        "title": "Itaú借OpenAI为全量客户构建生成式AI",
         "link": "https://openai.com/index/itau-generative-ai",
-        "summary": "巴西银行Itaú推出对话界面ia.i与治理平台IARA，将AI优先战略落地于客户与员工，应对高度监管环境。",
-        "comment": "金融业生成式AI落地样本，治理与体验并重。",
+        "summary": "巴西银行Itaú推出对话界面ia.i与治理平台IARA，将AI First战略同时用于客户与员工，在高度监管的金融业落地生成式AI。",
+        "comment": "银行全量客户上生成式AI，治理平台是关键前提。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "Benefit Street Partners 用 Codex 加速贷款估值分析",
+        "tag": "Codex",
+        "title": "Benefit Street Partners用Codex加速贷款估值分析",
         "link": "https://openai.com/index/benefit-street-partners",
-        "summary": "Anant Kumar 借助 Codex 构建贷款估值对比与信贷协议分析工具，并用于代码审查和加快后续跟进。",
-        "comment": "金融场景落地案例，重在流程提效而非模型炫技。",
+        "summary": "Anant Kumar借助Codex构建贷款估值对比与信贷协议分析工具，用于代码审查并加快后续跟进，提升工作效率。",
+        "comment": "金融场景落地案例，Codex正从写代码走向业务提效。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "ChatGPT插件",
-        "title": "Stack Overflow for Agents借助ChatGPT插件注册量增两倍",
+        "tag": "人工智能",
+        "title": "Stack Overflow for Agents借助ChatGPT插件注册量增至三倍",
         "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
         "summary": "两名工程师用Codex数周内开发出Stack Overflow for Agents，其ChatGPT插件推动智能体创建量最高增长10倍。",
         "comment": "AI工具链正把开发周期压缩到周级，插件生态成增长杠杆。",
@@ -48,16 +48,16 @@
         "title": "Elorian发布首个AI模型Glimpse，专注图像推理",
         "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
         "summary": "Elorian推出首个AI模型Glimpse，主打直接基于图像进行推理。其自评显示，该模型在科学图表推理和短视频描述上超过GPT-6 Astra，其他视觉推理任务也具竞争力。",
-        "comment": "图像推理赛道再添新玩家，自评数据待第三方验证。",
+        "comment": "图像推理赛道再添新玩家，自评数据有待第三方验证。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "机器人",
-        "title": "前英伟达高管：机器人仍处“乐高时代”",
+        "title": "前英伟达高管转投风投：机器人尚未迎来ChatGPT时刻",
         "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "summary": "前英伟达机器人产品营销负责人、现风投人士Vishwanath认为，机器人仍处“乐高时代”，基础模块尚未成熟，因此还没迎来ChatGPT时刻。",
+        "summary": "在英伟达机器人平台负责产品营销七年的Amulya Vishwanath转投风投后表示，机器人目前处于“乐高时代”，基础模块尚未成熟，距离爆发仍需时间。",
         "comment": "机器人缺的不是热度，而是可复用的基础能力。",
         "image": "",
         "score": 98
@@ -74,40 +74,40 @@
       },
       {
         "category": "人工智能",
-        "tag": "AI模型",
-        "title": "Jev成Vercel史上采用最快的AI模型",
-        "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-        "summary": "TechCrunch援引Vercel AI网关数据称，Jev是Vercel平台上采用速度最快的AI模型，该网关是类似OpenRouter的统一API服务。",
-        "comment": "采用速度亮眼，但真实价值仍需场景验证。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
         "tag": "防伪芯片",
-        "title": "Veritas将防伪芯片扩展至珠宝、奖杯和香水瓶",
+        "title": "Veritas防伪芯片扩展至珠宝、奖杯与香水瓶",
         "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-        "summary": "仿冒者日益擅长复制品牌标识，用“超级假货”冒充正品。初创公司Veritas正将防伪芯片从原有领域扩展至珠宝、奖杯和香水瓶，以验证奢侈品真伪。",
+        "summary": "Veritas将其防伪芯片从原有领域扩展至珠宝、奖杯和香水瓶，以应对仿制品牌标识、冒充正品的“超级假货”问题。",
         "comment": "防伪芯片扩品类，奢侈品打假转向硬件验证。",
         "image": "",
         "score": 98
       },
       {
         "category": "人工智能",
+        "tag": "AI模型",
+        "title": "Jev成为Vercel史上采用最快的AI模型",
+        "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+        "summary": "TechCrunch援引Vercel AI网关数据称，Jev是Vercel平台上采用速度最快的AI模型，该网关是类似OpenRouter的统一API服务。",
+        "comment": "采用速度亮眼，但网关数据不等于真实使用深度。",
+        "image": "",
+        "score": 97
+      },
+      {
+        "category": "人工智能",
         "tag": "人工智能",
-        "title": "马克·沃尔伯格谈AI拍电影的正确方式",
+        "title": "马克·沃尔伯格谈AI拍电影的正确方式与AI克隆延续遗产",
         "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-        "summary": "演员兼天使投资人马克·沃尔伯格表示，只要AI用于增强创作而非取代创作，他接受在电影制作中使用AI，也愿意让AI克隆延续自己的事业。",
-        "comment": "明星对AI态度松动，行业规则仍待明确。",
+        "summary": "演员兼天使投资人马克·沃尔伯格表示，只要AI用于增强创作而非取代，他接受在电影制作中使用AI，也愿意让AI克隆延续其遗产。",
+        "comment": "明星表态为AI克隆与影视应用提供背书，但边界仍模糊。",
         "image": "",
         "score": 97
       },
       {
         "category": "游戏影视",
-        "tag": "电影改编",
+        "tag": "游戏影视",
         "title": "《红升》获派拉蒙电影改编绿灯",
         "link": "https://www.ign.com/articles/red-rising-greenlit-for-movie-adaptation-with-author-pierce-brown-to-produce",
-        "summary": "派拉蒙影业正式批准《红升》小说改编电影，由《饥饿游戏》导演弗朗西斯·劳伦斯执导，原作者皮尔斯·布朗参与制片。",
+        "summary": "派拉蒙正式批准《红升》系列小说改编电影，由《饥饿游戏》导演弗朗西斯·劳伦斯执导，原作者皮尔斯·布朗参与制片。",
         "comment": "热门科幻IP加成熟导演，改编前景值得关注。",
         "image": "https://assets-prd.ignimgs.com/2026/10/16/red-rising-movie-adaptation-paramount-1792191965565.jpg",
         "score": 93
@@ -115,71 +115,51 @@
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6定档11月19日，或刷新多项游戏纪录",
+        "title": "GTA 6定档11月19日，外媒预测其将破多项纪录",
         "link": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
-        "summary": "GameSpot分析称，历经多年开发、热度空前的GTA 6将于11月19日登陆PS5和Xbox Series X|S，预计将打破多项游戏行业纪录。",
-        "comment": "发售日确定，GTA 6的纪录冲击才刚开始。",
+        "summary": "GameSpot预测《GTA 6》11月19日登陆PS5和Xbox Series X|S后可能打破多项游戏纪录，并回顾其多年开发与超高热度。",
+        "comment": "热度空前，能否兑现纪录预测要看发售表现。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01.jpg?w=300",
         "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果AI",
-        "title": "库克确认苹果AI国行本月推出，《GTA6》新宣传片发布",
-        "link": "https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果CEO库克确认AI功能国行版本月上线；《GTA6》发布全新宣传片；特努斯称AI不会取代iPhone。另iPhone Duo维修价公布，内屏损坏预估7998元。",
-        "comment": "苹果AI落地中国是关键一步，本地化合规决定体验成败。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "小鹏",
-        "title": "MONA L05 预售16.98万元起，切入小鹏主品牌价格带",
-        "link": "https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "MONA L05开启预售，起售价16.98万元，价格区间与小鹏主品牌车型重叠，形成内部竞争。",
-        "comment": "子品牌反攻主品牌，小鹏产品线定位需重新梳理。",
-        "image": "",
-        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "GTA VI",
         "title": "8年10亿美金：《GTA VI》为何成年度最受期待游戏",
         "link": "https://www.ifanr.com/1684660?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "《GTA VI》耗时8年、投入10亿美元打造Vice City，爱范儿解析其为何成为今年最受期待的游戏。",
-        "comment": "巨额投入与漫长开发，成败系于品质兑现。",
+        "summary": "《GTA VI》历时8年、投入约10亿美元打造Vice City，爱范儿解析其开发规模与为何成为今年最受期待的游戏。",
+        "comment": "高投入不等于高品质，但GTA的品牌号召力仍难撼动。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果以家庭场景开场，家庭AI仍绕不开语音与屏幕",
-        "link": "https://www.ifanr.com/1684640?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果从家庭场景切入AI，显示家庭正成为科技公司寻找下一代AI落点的方向，语音与屏幕仍是核心交互方式。",
-        "comment": "家庭AI竞争升温，交互入口仍是关键。",
-        "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "特斯拉",
         "title": "特斯拉发布全新Roadster，宣称具备飞行能力",
         "link": "https://www.ifanr.com/1684619?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "特斯拉发布全新Roadster，官方称其真的会飞，并被称为最后一辆给人开的特斯拉，引发外界对其飞行功能的关注。",
-        "comment": "飞行宣传吸睛，但量产与合规仍是关键考验。",
+        "summary": "特斯拉发布全新Roadster跑车，官方称其真的会飞，并被称为最后一辆给人开的特斯拉。",
+        "comment": "飞行汽车概念吸睛，但量产与法规仍是关键考验。",
         "image": "",
-        "score": 91
+        "score": 92
       },
       {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界》永久服下周免费试玩，但有限制",
-        "link": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
-        "summary": "暴雪宣布《魔兽世界》永久服压力测试改至10月21日，玩家可限时免费试玩，但需注意参与条件与限制。",
-        "comment": "免费试玩是拉新手段，限制条件决定体验深度。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Play-For-Free-Stress-Test.jpg?w=300",
+        "category": "数码科技",
+        "tag": "苹果AI",
+        "title": "库克确认苹果AI国行本月推出，《GTA6》新宣传片发布",
+        "link": "https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "库克确认苹果AI国行版本月推出，《GTA6》发布新宣传片，特努斯称AI不会取代iPhone；iPhone Duo维修价公布，蚂蚁AI支付入选《时代》年度发明。",
+        "comment": "苹果AI落地中国是关键一步，国行体验值得关注。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "小鹏",
+        "title": "小鹏MONA L05预售16.98万元起，切入主品牌价格区间",
+        "link": "https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "小鹏MONA L05开启预售，起售价16.98万元，价格区间与主品牌车型重叠，形成内部竞争。",
+        "comment": "子品牌反攻主品牌，小鹏产品线需重新梳理。",
+        "image": "",
         "score": 91
       },
       {
@@ -187,8 +167,8 @@
         "tag": "游戏重制",
         "title": "《怪物史莱克2》重制版泄露，画面惊艳",
         "link": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
-        "summary": "Xbox.com提前上线页面，泄露2004年《怪物史莱克2：游戏》重制版。该页面已被撤下，官方尚未公布。",
-        "comment": "经典IP重制靠泄露预热，玩家期待值已拉满。",
+        "summary": "Xbox.com提前上线页面，泄露2004年《怪物史莱克2：游戏》重制版。该页面已被撤下，但证实这款未公布作品确实存在。",
+        "comment": "经典IP重制，泄露即预热，玩家期待值拉满。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/shrek2.jpg?w=300",
         "score": 91
       },
@@ -197,30 +177,10 @@
         "tag": "魔兽世界",
         "title": "魔兽世界：永恒测试服大幅调整种族技能",
         "link": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/",
-        "summary": "《魔兽世界：永恒》测试服将于10月21日结束，暴雪在最后阶段对多种族技能做出重大改动，可能影响玩家种族选择。",
-        "comment": "临期改种族技能，平衡风险不小。",
+        "summary": "《魔兽世界：永恒》测试服将于10月21日结束，暴雪在最后阶段对多种族技能做出重大改动，可能改变玩家选择种族的考量。",
+        "comment": "临期改动种族技能，平衡风险不小。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Ability-Changes.jpg?w=300",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "英伟达",
-        "title": "英伟达RTX Spark笔记本首发实测",
-        "link": "https://www.ifanr.com/1684682?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿首发实测英伟达RTX Spark笔记本，作者称借此实现WorkBuddy额度自由，并认为这给了换电脑的理由。",
-        "comment": "实测价值在真实体验，而非参数堆砌。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "全面战争",
-        "title": "《全面战争：幕府将军2》完全版差评如潮，世嘉回滚旧版本",
-        "link": "https://www.gcores.com/articles/221029",
-        "summary": "《全面战争：幕府将军2》完全版因劣质AI等问题遭玩家差评，国区好评率仅9%。世嘉与平台协商后暂时下架该版本，恢复原始版本销售，现有玩家不受影响。",
-        "comment": "重制翻车后回滚，世嘉这次止损还算及时。",
-        "image": "",
-        "score": 90
       },
       {
         "category": "游戏影视",
@@ -228,27 +188,57 @@
         "title": "《使命召唤：现代战争4》战役今日上线，官方呼吁勿剧透",
         "link": "https://www.gamespot.com/articles/call-of-duty-mw4s-campaign-launches-today-please-dont-spoil-it-for-others/",
         "summary": "《使命召唤：现代战争4》战役模式于10月16日面向预购玩家开放，GameSpot提醒玩家避免剧透剧情内容。",
-        "comment": "预购抢先解锁战役，剧透管理成发售前新常态。",
+        "comment": "预购抢先解锁战役，剧透风险随之升高，社区自律很关键。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/mw4campaign-Large.jpeg?w=300",
-        "score": 90
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "游戏更新",
-        "title": "《黎明行者之血》将推大型更新：可重置错误并抚摸狗狗",
+        "title": "《黎明行者之血》将推更新：可重置错误并抚摸狗狗",
         "link": "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog/",
-        "summary": "《黎明行者之血》开发商 Rebel Wolves 正筹备大型更新，将加入重置错误选择与抚摸狗狗等互动功能，进一步提升这款年度 RPG 的体验。",
-        "comment": "重置选择加撸狗，更新精准戳中玩家痛点。",
+        "summary": "《黎明行者之血》开发商 Rebel Wolves 正筹备大型更新，将加入重置错误选择的功能，并允许玩家抚摸游戏中的狗，进一步提升这款年度 RPG 的体验。",
+        "comment": "重置错误加撸狗，更新精准戳中玩家痛点。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_1af5d14d9b6a36c14eae3bebf56c0e0f63235633.1920x1080.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果以家庭场景开场，家庭AI仍绕不开语音与屏幕",
+        "link": "https://www.ifanr.com/1684640?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "苹果从家庭场景切入AI布局，显示家庭正成为科技公司争夺的下一AI落点，语音加屏幕仍是核心交互形态。",
+        "comment": "家庭AI的入口之争，苹果选择用屏幕加语音先占位。",
+        "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "国产游戏",
-        "title": "国产丧尸游戏《隔离区》正式版定档11月6日",
-        "link": "https://www.gcores.com/articles/221031",
-        "summary": "国产丧尸游戏《隔离区》正式版定档2026年11月6日，玩家需在隔离区搜集原料、升级技能、建造避难所，对抗尸潮与机甲。",
-        "comment": "30万愿望单说明题材有市场，关键看正式版完成度。",
+        "tag": "魔兽世界",
+        "title": "魔兽世界怀旧服免费压力测试定档10月21日",
+        "link": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
+        "summary": "暴雪宣布《魔兽世界》怀旧服压力测试改为10月21日举行，玩家可免费参与，但需满足特定条件。",
+        "comment": "免费测试是拉新窗口，但门槛设计决定实际参与度。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Play-For-Free-Stress-Test.jpg?w=300",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "荒野大镖客",
+        "title": "花旗预测下一部《荒野大镖客》或于2027至2028年推出",
+        "link": "https://www.gamespot.com/articles/next-red-dead-launching-by-2027-or-2028-may-not-be-unreasonable-bank-says-but-it-definitely-is/",
+        "summary": "花旗在关于《GTA 6》与Rockstar的报告中提到，Rockstar下一款作品可能在2027或2028年推出，并称这一时间点“或许不算不合理”。",
+        "comment": "投行预测游戏档期多为资本叙事，可信度有限。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/RDR2-Large.jpeg?w=300",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "英伟达",
+        "title": "英伟达RTX Spark笔记本首发实测",
+        "link": "https://www.ifanr.com/1684682?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿首发实测英伟达RTX Spark笔记本，展示实际性能表现，并称其提供了换电脑的理由。",
+        "comment": "实测有参考价值，但标题噱头大于信息量。",
         "image": "",
         "score": 89
       },
@@ -257,40 +247,20 @@
         "tag": "毁灭战士",
         "title": "咖啡机也能跑《毁灭战士》",
         "link": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/",
-        "summary": "Fellow Espresso Series 1 咖啡机的小圆形屏幕可运行1993年的《毁灭战士》，Reddit用户FullExtraction展示了这一玩法。",
-        "comment": "万物皆可Doom，这次轮到咖啡机。",
+        "summary": "Fellow Espresso Series 1 咖啡机的小圆形屏幕可运行 1993 年的《毁灭战士》，Reddit 用户 FullExtraction 展示了这一玩法。",
+        "comment": "万物皆可跑 Doom，硬件极客的浪漫。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Doom.jpg?w=300",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "战术游戏",
-        "title": "战术游戏新作改名更直白，玩家期待升温",
+        "title": "战术游戏《Australia Did It》新标题更直白引期待",
         "link": "https://www.gamespot.com/articles/a-comically-on-the-nose-new-title-has-me-even-more-excited-for-this-upcoming-tactics-game/",
-        "summary": "GameSpot报道，即将推出的战术游戏《Australia Did It》公布了更直白的新名称，这一幽默改动让原本就期待该作的玩家更加兴奋。",
-        "comment": "改名玩梗有效，但游戏品质才是关键。",
+        "summary": "GameSpot编辑称，原本就期待战术游戏《Australia Did It》，如今其新名称被大幅扩展、直白得滑稽，反而增添了更多期待理由。",
+        "comment": "改名成营销点，说明小团队懂自嘲。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/australia.jpg?w=300",
         "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "荒野大镖客",
-        "title": "花旗预测下一部《荒野大镖客》或于2027至2028年推出",
-        "link": "https://www.gamespot.com/articles/next-red-dead-launching-by-2027-or-2028-may-not-be-unreasonable-bank-says-but-it-definitely-is/",
-        "summary": "花旗在关于《GTA 6》与Rockstar的报告中提到，Rockstar下一款作品可能在2027或2028年推出，但GameSpot认为这一时间表并不现实。",
-        "comment": "投行预测游戏档期，可信度存疑。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/RDR2-Large.jpeg?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "悬疑冒险",
-        "title": "悬疑冒险游戏《静穆急行列车909号房》Steam试玩版上线",
-        "link": "https://www.gcores.com/articles/221007",
-        "summary": "STUDIO909宣布悬疑冒险游戏《静穆急行列车909号房》试玩版登陆Steam，时长约30分钟，玩家需设法避免第七天的列车脱轨事故。",
-        "comment": "试玩版先行，悬疑设定能否撑起完整叙事待验证。",
-        "image": "",
-        "score": 88
       }
     ]
   }

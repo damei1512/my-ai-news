@@ -4,23 +4,93 @@
     "articles": [
       {
         "category": "游戏影视",
+        "tag": "游戏发售",
+        "title": "核周报10.17：新作井喷与PS5 Pro涨价",
+        "link": "https://www.gcores.com/radios/220703",
+        "summary": "10月游戏发售潮持续，多款新作相继上市；内存短缺推高主机售价，PS5 Pro市场价突破万元，供应紧张或持续至2027年Q1。",
+        "comment": "新作密集但硬件涨价更值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "消费电子",
+        "title": "消费电子设计陷低谷，设计大师纷纷离场",
+        "link": "https://www.ifanr.com/1683441?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿文章指出消费电子创新乏力、设计趋同，连设计大师也选择离开，反映行业进入好设计的坏时代。",
+        "comment": "设计退场是行业创新疲软的信号。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏试玩",
+        "title": "《收割者：诸神已死》北京核聚变全球首次线下试玩",
+        "link": "https://www.gcores.com/articles/221047",
+        "summary": "核聚变游戏嘉年华北京站10月24日至25日在首钢国际会展中心举行，《收割者：诸神已死》提供全球首次线下试玩，并有舞台活动、限定周边和GGG联票音乐演出。",
+        "comment": "全球首试是核心卖点，但活动信息比游戏内容更抢眼。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
         "tag": "核聚变",
         "title": "核聚变2026北京站携CRITICAL REFLEX 16款作品亮相",
         "link": "https://www.gcores.com/articles/220989",
-        "summary": "核聚变游戏嘉年华北京站10月24日至25日在首钢国际会展中心举行，CRITICAL REFLEX带来16款可玩作品，并有舞台活动、限定周边与GGG联票音乐演出。",
-        "comment": "展会信息明确，CRITICAL REFLEX作品阵容是核心看点。",
+        "summary": "核聚变游戏嘉年华北京站10月24日至25日在首钢国际会展中心举行，CRITICAL REFLEX带来16款可玩作品，含试玩、舞台活动与限定周边。",
+        "comment": "独立发行商集中亮相，是观察新作风向的好窗口。",
         "image": "",
         "score": 89
       },
       {
-        "category": "时事热点",
-        "tag": "特朗普",
-        "title": "特朗普豁免多项对俄制裁，与泽连斯基矛盾加剧",
-        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "summary": "特朗普以国家安全为由，暂停执行国会近期通过的多项对俄制裁，同时与泽连斯基的争执升级。",
-        "comment": "美对俄政策转向，盟友关系承压。",
+        "category": "游戏影视",
+        "tag": "核聚变",
+        "title": "《符文世界：龙之荒野》亮相核聚变2026北京站",
+        "link": "https://www.gcores.com/articles/221044",
+        "summary": "核聚变2026北京站将于10月24日至25日在首钢国际会展中心举行，《符文世界：龙之荒野》设展区供玩家试玩，并有舞台活动、限定周边与GGG联票音乐演出。",
+        "comment": "展会信息明确，但内容偏活动预告，实质资讯有限。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "特朗普",
+        "title": "特朗普豁免多项对俄制裁，与泽连斯基争执升级",
+        "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国总统以国家安全为由，暂停执行国会近期通过的多项对俄制裁，同时与乌克兰总统泽连斯基的矛盾加剧。",
+        "comment": "制裁松动与盟友摩擦同步，美对俄乌政策现重大转向。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "法国抗议",
+        "title": "巴黎抗议演变为骚乱 车辆被焚店铺遭抢",
+        "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+        "summary": "法国全国抗议活动中爆发暴力与破坏行为，约1800人被捕，巴黎街头出现烧毁车辆和破碎玻璃。",
+        "comment": "抗议失控为骚乱，治安与治理压力同步上升。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国毒品危机",
+        "title": "自制合成毒品席卷美国 危机加深",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC走访使用者、毒贩、监狱与戒毒工作者，揭示美国正应对一场致命的新型毒品泛滥危机。",
+        "comment": "合成毒品迭代快、监管难，美国毒品危机恐进一步恶化。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "加拿大",
+        "title": "加拿大军事基地发生大火 多人死伤",
+        "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+        "summary": "加拿大沃恩赖特军事基地发生重大火灾，已致多人死伤。官方称现场情况仍非常活跃且敏感，暂未公布起火原因和具体死亡人数。",
+        "comment": "军事基地火灾原因不明，需关注后续调查与安全漏洞。",
+        "image": "",
+        "score": 86
       }
     ]
   }
