@@ -4,30 +4,30 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "Meta",
+        "title": "Meta删除引发抓取与AI训练担忧的条款",
+        "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "summary": "Meta修改服务条款，删除涉及网页抓取与AI训练的表述，发言人称抓取方式未变，但外界仍质疑其数据使用透明度。",
+        "comment": "删条款不改行为，透明度才是关键。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "人工智能",
         "tag": "Replit",
         "title": "Replit将OpenAI设为默认模型供应商",
         "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
         "summary": "Replit CEO Masad澄清，OpenAI将取代Anthropic成为平台默认模型供应商，Claude仍可供客户使用。",
-        "comment": "模型供应商格局生变，OpenAI再下一城。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta删除引发抓取与AI训练担忧的条款",
-        "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "summary": "Meta修改服务条款，删除涉及网页抓取与AI训练的表述，发言人称抓取方式未变，但外界仍质疑其数据使用边界。",
-        "comment": "删条款不等于改行为，透明度反而更值得追问。",
+        "comment": "模型供应商竞争加剧，平台默认选择影响开发者生态。",
         "image": "",
         "score": 98
       },
       {
         "category": "人工智能",
         "tag": "Anthropic",
-        "title": "Anthropic称员工资历结构上移，会议时间增多",
+        "title": "Anthropic称员工资历提升，会议时间增多",
         "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-        "summary": "Anthropic表示，过去一年员工构成与工作类型显著变化：初级员工占比下降，团队花在会议上的时间增多。",
+        "summary": "Anthropic表示，过去一年员工构成与工作类型显著变化：初级员工比例下降，团队花在会议上的时间增多。",
         "comment": "AI公司扩张后组织成本上升，效率问题浮现。",
         "image": "",
         "score": 97
@@ -37,38 +37,18 @@
         "tag": "独立游戏",
         "title": "俄轮盘饮酒游戏开发者因AI抄袭担忧取消Steam试玩",
         "link": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
-        "summary": "俄罗斯轮盘动漫游戏《Drunken Goddess Reflux》开发者取消Steam公开试玩计划，理由是担心AI快速复制其玩法与美术。",
-        "comment": "AI仿制压力正改变独立游戏的发行节奏。",
+        "summary": "俄罗斯轮盘动漫游戏《Drunken Goddess Reflux》开发者取消Steam公开试玩计划，理由是担心AI抄袭者利用试玩内容快速仿制。",
+        "comment": "AI仿制压力已开始改变独立游戏的发行策略。",
         "image": "https://assets-prd.ignimgs.com/2026/10/17/drunken-goddess-reflux-1792277336624.png",
         "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战地6",
-        "title": "《战地6》开发者回应玩家质疑：拼写错误与五把手枪皮肤",
-        "link": "https://www.ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
-        "summary": "《战地6》第五赛季新增外观道具引发玩家争议，涉及拼写错误和一款含五把手枪的皮肤，开发团队已作出回应。",
-        "comment": "细节失误暴露品控问题，回应能否平息争议待观察。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/17/battlefield-6-season-5-1792272082254.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "票房",
-        "title": "卡梅隆再贺《复联4》票房超《阿凡达》",
-        "link": "https://www.ign.com/articles/james-cameron-congratulates-marvel-after-avengers-endgame-beats-avatar-at-the-box-office-yet-again",
-        "summary": "《复仇者联盟4》与《阿凡达》票房排名再度互换，卡梅隆再次发文祝贺漫威，展现导演风度。",
-        "comment": "票房易位成常态，卡梅隆的祝贺更显格局。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/17/james-cameron-marvel-1792267708335.png",
-        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "iPhone",
         "title": "早报：iPhone Duo预购发货排到明年，特斯拉超跑发布会现场飞了",
         "link": "https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "华为云下月上调AI专业服务价格，原型开发基础版升至85.12万元；17岁研究员陈广宇离开Kimi，否认加入Anthropic；四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任。",
-        "comment": "三条消息各有看点，AI服务涨价与人才流动更值得关注。",
+        "summary": "爱范儿早报：iPhone Duo开启预购，发货排到明年；特斯拉超跑发布会现场出现飞行演示；华为阔直板出货量超71万台。另有华为云AI服务涨价、17岁研究员陈广宇离开Kimi、四部门规范车企宣传。",
+        "comment": "三条硬件消息同框，消费电子与车企宣传监管值得关注。",
         "image": "",
         "score": 90
       }

@@ -4,51 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic承诺捐出5%股份设立公益基金",
-        "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-        "summary": "Anthropic宣布将公司5%的股份投入公益基金，用于支持公共利益相关项目，具体运作与治理细节尚未披露。",
-        "comment": "AI巨头用股权绑定公益，姿态积极但落地待观察。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
         "tag": "迪士尼",
         "title": "迪士尼同意聘用Character.AI多数员工",
         "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "summary": "文件显示，Character.AI获迪士尼录用邀请的员工中绝大多数已接受。但该交易属竞标基准报价，其他公司仍可能提出更高收购方案。",
+        "summary": "文件显示，Character.AI获迪士尼录用邀请的员工中绝大多数已接受。该交易属竞标基准方案，其他公司仍可能提出更高报价。",
         "comment": "AI人才争夺战升级，迪士尼借收购补强团队。",
         "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "Anthropic",
+        "title": "Anthropic承诺捐出5%股份设立公益基金",
+        "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+        "summary": "Anthropic宣布将公司5%的股份投入公益基金，用于公共事业，具体用途和治理方式尚未披露。",
+        "comment": "AI巨头用股权做公益，姿态积极但细节待明。",
+        "image": "",
         "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "昆汀",
-        "title": "昆汀确认已写完第十部也是最后一部电影剧本",
-        "link": "https://www.ign.com/articles/quentin-tarantino-says-hes-written-a-script-for-10th-and-final-film-but-he-wants-to-live-before-making-it",
-        "summary": "昆汀·塔伦蒂诺确认已写完第十部也是最后一部电影的剧本，但他打算先好好生活一段时间，再开拍这部收官之作。",
-        "comment": "收官之作剧本已就位，影迷还得等他先生活。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/18/quentin-tarantino-1792338519262.png",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "好莱坞",
-        "title": "杰西·艾森伯格称获金酸莓奖后难获片厂角色",
-        "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-couldnt-get-movie-studio-parts-after-winning-his-batman-v-superman-razzie",
-        "summary": "杰西·艾森伯格表示，因在《蝙蝠侠大战超人》中饰演莱克斯·卢瑟获得金酸莓最差男配角奖后，他难以获得好莱坞片厂电影角色。",
-        "comment": "奖项反噬选角，演员自述行业偏见。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/18/jesse-eisenberg-lex-luthor-1792362539309.png",
-        "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "星球大战",
         "title": "塔伊加·维迪提确认星战电影项目搁置",
         "link": "https://www.ign.com/articles/taika-waititi-says-his-star-wars-movie-is-on-ice",
-        "summary": "导演塔伊加·维迪提确认，其开发多年的《星球大战》电影项目已正式搁置，短期内不会推进。",
-        "comment": "星战新片计划再遇波折，粉丝期待恐落空。",
+        "summary": "导演塔伊加·维迪提确认，其长期开发的《星球大战》电影项目已正式搁置，目前没有推进计划。",
+        "comment": "星战新片再遇变数，粉丝期待恐落空。",
         "image": "https://assets-prd.ignimgs.com/2026/10/18/taika-waititi-star-wars-1792356580858.png",
         "score": 92
       },
@@ -57,8 +37,8 @@
         "tag": "实体游戏",
         "title": "《寂静岭》重制工作室称将尽可能长期发行实体游戏",
         "link": "https://www.ign.com/articles/silent-hill-remake-studio-wants-to-make-physical-games-for-as-long-as-possible",
-        "summary": "《寂静岭》重制版开发商Bloober Team表示，将尽可能长期为旗下游戏推出实体版本，在数字发行主导的趋势下坚持实体游戏。",
-        "comment": "逆数字化潮流表态，对实体玩家是明确利好。",
+        "summary": "《寂静岭》重制版开发商Bloober Team表示，只要条件允许，就会尽可能长期为旗下游戏推出实体版本。",
+        "comment": "实体游戏式微之际，这一表态难得且值得关注。",
         "image": "https://assets-prd.ignimgs.com/2024/05/30/silenthill2-1717063971235.jpg",
         "score": 92
       },
@@ -67,80 +47,50 @@
         "tag": "街头霸王",
         "title": "《街头霸王》电影首周末票房5110万美元登顶",
         "link": "https://www.ign.com/articles/street-fighter-tops-the-box-office-with-51-million-opening-weekend-amid-lackluster-reviews",
-        "summary": "尽管影评不佳，卡普空《街头霸王》电影首周末仍斩获5110万美元，登上全球票房榜首。",
-        "comment": "游戏IP票房号召力强，口碑与市场明显脱节。",
+        "summary": "卡普空《街头霸王》电影首周末全球票房5110万美元，登顶票房榜，但影评口碑不佳。",
+        "comment": "游戏改编靠IP号召力，口碑难掩票房冲动。",
         "image": "https://assets-prd.ignimgs.com/2026/10/18/street-fighter-chun-li-1792347311503.png",
         "score": 92
       },
       {
-        "category": "数码科技",
-        "tag": "消费电子",
-        "title": "消费电子设计陷低谷，设计大师纷纷离场",
-        "link": "https://www.ifanr.com/1683441?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿文章指出消费电子创新乏力、设计趋同，连设计大师也选择离开，行业进入好设计的坏时代。",
-        "comment": "设计退场是行业创新疲态的缩影。",
-        "image": "",
-        "score": 90
+        "category": "游戏影视",
+        "tag": "昆汀",
+        "title": "昆汀确认已写完第十部也是最后一部电影剧本",
+        "link": "https://www.ign.com/articles/quentin-tarantino-says-hes-written-a-script-for-10th-and-final-film-but-he-wants-to-live-before-making-it",
+        "summary": "昆汀·塔伦蒂诺确认已写完第十部暨最后一部电影的剧本，但他表示想先好好生活一段时间，再启动拍摄。",
+        "comment": "收官之作剧本已就位，档期仍取决于他何时愿意开工。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/18/quentin-tarantino-1792338519262.png",
+        "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "游戏发售",
-        "title": "核周报10.17：新作井喷与PS5 Pro涨价",
-        "link": "https://www.gcores.com/radios/220703",
-        "summary": "10月游戏发售潮持续，《恶魔城：贝尔蒙特的诅咒》等多款新作上市；内存荒推高主机售价，PS5 Pro市场价破万元，供应紧张或持续至2027年Q1。",
-        "comment": "新作密集但硬件涨价，玩家钱包两头受压。",
-        "image": "",
-        "score": 90
+        "tag": "好莱坞",
+        "title": "杰西·艾森伯格称获金酸莓奖后难获片厂角色",
+        "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-couldnt-get-movie-studio-parts-after-winning-his-batman-v-superman-razzie",
+        "summary": "杰西·艾森伯格表示，因在《蝙蝠侠大战超人》中饰演莱克斯·卢瑟获金酸莓最差男配角奖，此后难以获得好莱坞片厂电影角色。",
+        "comment": "奖项反噬选角，演员职业风险被放大。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/18/jesse-eisenberg-lex-luthor-1792362539309.png",
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "恐怖游戏",
         "title": "《Tenebris Somnia》融合2D画面与真人恐怖场景，发售即打折",
         "link": "https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/",
-        "summary": "恐怖游戏《Tenebris Somnia》将2D视觉与真人恐怖场景结合，强调营造不安与紧张感，且游戏发售时已开启促销。",
-        "comment": "2D加真人恐怖是差异化卖点，但发售即打折略显信心不足。",
+        "summary": "恐怖游戏《Tenebris Somnia》将2D视觉与真人实拍恐怖场景结合，靠不安氛围营造紧张感，游戏发售时已开启促销。",
+        "comment": "2D加真人实拍的混搭有辨识度，但恐怖感最终要看执行。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/fanatical-tenebris-somnia-discount.jpg?w=300",
         "score": 90
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏设计",
-        "title": "《沉星之序》背后的谜题构建者",
-        "link": "https://www.gcores.com/radios/220705",
-        "summary": "机核节目从Jonathan Blow的游戏哲学切入，不只聚焦他个人，还展现一群把制造谜题当作手艺与信仰的创作者群体。",
-        "comment": "谜题设计者的手艺值得被单独看见。",
+        "category": "数码科技",
+        "tag": "消费电子",
+        "title": "消费电子设计陷低谷，设计大师纷纷离场",
+        "link": "https://www.ifanr.com/1683441?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿文章指出消费电子创新乏力、设计趋同，连设计大师也选择离开，反映出行业好设计稀缺的困境。",
+        "comment": "设计退场是行业创新疲软的信号。",
         "image": "",
         "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "香槟",
-        "title": "香槟在中国为何水土不服？孟蕾聊酒类市场",
-        "link": "https://www.gcores.com/radios/221059",
-        "summary": "机核播客探讨香槟在中国销量低迷的原因。孟蕾带汉洋走访法国兰斯香槟酒庄，从亲身体验出发分析这一知名酒类为何在中国市场遇冷。",
-        "comment": "香槟遇冷折射中国酒饮文化与消费习惯的深层差异。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "法国骚乱",
-        "title": "马克龙呼吁法国骚乱后保持冷静与秩序",
-        "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-        "summary": "法国多地骚乱并出现抢劫后，马克龙发表全国讲话，呼吁冷静与秩序，巴黎仍有零星抢劫。",
-        "comment": "骚乱考验治理，恢复秩序是当务之急。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "加拿大",
-        "title": "加拿大军事基地大火致4死数十伤",
-        "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-        "summary": "加拿大一军事基地发生重大火灾，造成4人死亡、数十人受伤。总理卡尼称军方与应急人员整夜在极其恶劣的条件下灭火。",
-        "comment": "军事设施重大伤亡，需追问安全管理漏洞。",
-        "image": "",
-        "score": 87
       },
       {
         "category": "时事热点",
@@ -148,38 +98,18 @@
         "title": "特朗普称暂停对俄制裁是为维持和谈",
         "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
         "summary": "特朗普在多项对俄制裁生效前两天将其叫停，称此举旨在保持和平谈判继续推进。",
-        "comment": "制裁变筹码，和谈前景仍存变数。",
+        "comment": "制裁暂缓换谈判空间，但让步时机耐人寻味。",
         "image": "",
         "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "法国抗议",
-        "title": "法国利摩日历史市政厅疑遭纵火",
-        "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-        "summary": "法国利摩日一座历史市政厅在全国抗议日当天疑遭纵火受损，居民震惊。",
-        "comment": "抗议浪潮下公共设施遭冲击，社会撕裂加剧。",
-        "image": "",
-        "score": 86
       },
       {
         "category": "游戏影视",
         "tag": "游戏优惠",
         "title": "IGN今日游戏优惠：艾略特冒险、皮克敏4等",
         "link": "https://www.ign.com/articles/best-deals-for-october-18-2026",
-        "summary": "IGN汇总10月18日游戏优惠，涵盖《艾略特冒险》《皮克敏4》《Mouse: P.I. For Hire》等多款作品，方便玩家挑选折扣。",
-        "comment": "常规促销汇总，实用但无独家信息。",
+        "summary": "IGN汇总10月18日游戏优惠，涵盖《艾略特冒险》《皮克敏4》《Mouse: P.I. For Hire》等多款作品。",
+        "comment": "常规折扣汇总，实用但无独家信息。",
         "image": "https://assets-prd.ignimgs.com/2025/07/31/elliot-blog-1-copy-1753970300455.jpg",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "欧盟关税",
-        "title": "乌克兰钢铁业称欧盟对华关税措施波及本国",
-        "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰最大钢铁企业之一负责人称，欧盟为限制廉价进口而采取的措施把乌克兰“捆绑”其中，使乌方受到波及。",
-        "comment": "欧盟对华关税外溢，乌克兰钢铁业无辜受累。",
-        "image": "",
         "score": 85
       }
     ]
