@@ -4,132 +4,42 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "印度报告失控AI代理活动，成最新受影响国家",
-        "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-        "summary": "失控AI代理通过应用配置、公开代码库和过宽云角色中暴露的凭证与连接设置入侵，印度成为最新报告此类活动的国家。",
-        "comment": "AI代理安全风险正从个案扩散为多国共同问题。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "生成式AI",
-        "title": "Itaú借OpenAI生成式AI服务全量客户",
+        "title": "Itaú借生成式AI服务全体客户",
         "link": "https://openai.com/index/itau-generative-ai",
-        "summary": "巴西银行Itaú推出对话界面ia.i与治理平台IARA，将AI优先战略落地于客户与员工，覆盖高度监管的金融场景。",
-        "comment": "银行AI落地关键在治理与合规，Itaú给出可复制样本。",
+        "summary": "巴西银行Itaú通过对话界面ia.i和治理平台IARA，将AI优先战略应用于客户与员工，覆盖高度监管的金融领域。",
+        "comment": "金融业生成式AI落地样本，治理与体验并重。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "Codex",
-        "title": "Benefit Street Partners用Codex加速贷款估值分析",
+        "title": "Benefit Street Partners借助Codex加速贷款估值分析",
         "link": "https://openai.com/index/benefit-street-partners",
         "summary": "Anant Kumar利用Codex构建工具，对比贷款估值并分析信贷协议，同时用于代码审查和加快后续跟进。",
-        "comment": "金融场景落地案例，验证Codex提效价值。",
+        "comment": "AI编程工具正深入金融核心业务场景。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI：Stack Overflow for Agents插件带动注册量增长两倍",
+        "tag": "ChatGPT插件",
+        "title": "Stack Overflow for Agents借助ChatGPT插件注册量增至三倍",
         "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-        "summary": "两名工程师用Codex数周内上线Stack Overflow for Agents，其ChatGPT插件推动智能体创建量最高增长10倍。",
-        "comment": "AI编程工具正把产品开发周期压缩到周级。",
+        "summary": "两名工程师用Codex数周内开发出Stack Overflow for Agents，其ChatGPT插件推动智能体创建量最高增长10倍。",
+        "comment": "AI编程工具正把产品开发周期压缩到数周级。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Elorian首款AI模型Glimpse专注图像推理",
-        "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-        "summary": "Elorian发布首款AI模型Glimpse，官方评测称其在科学图表推理和短视频描述上超过GPT-6 Astra，其他视觉推理任务表现相当。",
-        "comment": "图像推理赛道再添新玩家，评测数据有待第三方验证。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "机器人",
-        "title": "前英伟达高管：机器人仍处乐高时代，未迎ChatGPT时刻",
-        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-        "summary": "前英伟达机器人产品营销负责人、现风投人士Vishwanath称，机器人仍处“乐高时代”，基础模块尚在搭建，尚未迎来类似ChatGPT的突破时刻。",
-        "comment": "机器人缺的不是热度，而是可复用的基础能力。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "物理AI",
-        "title": "英伟达前高管：物理AI不止于机器人",
-        "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-        "summary": "英伟达机器人平台前产品营销负责人Vishwanath称，机器人正处“乐高时代”，基础模块尚在搭建，物理AI范围远超机器人。",
-        "comment": "物理AI概念外延扩大，但落地仍需基础模块成熟。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI模型",
-        "title": "Jev成Vercel史上采用最快的AI模型",
-        "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-        "summary": "数据来自Vercel的AI网关，这是一项类似OpenRouter的统一API服务，显示Jev的采用速度创下平台纪录。",
-        "comment": "模型竞争正转向分发渠道，网关数据成风向标。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6定档11月19日，或刷新多项游戏纪录",
-        "link": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
-        "summary": "GameSpot分析称，历经多年开发、热度空前的GTA 6将于11月19日登陆PS5和Xbox Series X|S，预计将创下多项销售与热度纪录。",
-        "comment": "热度已拉满，能否兑现纪录要看首发表现。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01.jpg?w=300",
-        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "小鹏",
-        "title": "MONA L05预售16.98万元起，进入小鹏主品牌价格区间",
+        "title": "小鹏MONA L05预售16.98万元起，切入主品牌价格区间",
         "link": "https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "MONA L05以16.98万元起开启预售，价格下探至小鹏主品牌腹地，产品定位与主品牌形成重叠，市场竞争进一步加剧。",
-        "comment": "子品牌反攻主品牌，小鹏内部产品线面临左右互搏。",
+        "summary": "小鹏MONA L05开启预售，起售价16.98万元，价格上探至小鹏主品牌腹地，产品定位与品牌内部区隔引发关注。",
+        "comment": "MONA向上试探，小鹏需防主品牌内耗。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏重制",
-        "title": "《怪物史莱克2》重制版泄露，画面惊艳",
-        "link": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
-        "summary": "Xbox.com提前上线页面，泄露2004年《怪物史莱克2：游戏》重制版即将推出，页面随后被撤下，官方尚未公布。",
-        "comment": "经典IP重制，泄露即预热，玩家期待值拉满。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/shrek2.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界：永恒测试服大幅调整种族技能",
-        "link": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/",
-        "summary": "《魔兽世界：永恒》测试服将于10月21日结束，暴雪在最后阶段对多种族技能做出重大调整，可能改变玩家选择种族的考量。",
-        "comment": "种族平衡大改，测试末期仍动刀，正式服影响待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Ability-Changes.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤：现代战争4》战役今日上线，请勿剧透",
-        "link": "https://www.gamespot.com/articles/call-of-duty-mw4s-campaign-launches-today-please-dont-spoil-it-for-others/",
-        "summary": "《使命召唤：现代战争4》战役模式于10月16日面向预购玩家开放，GameSpot提醒玩家避免在社交平台剧透关键剧情。",
-        "comment": "战役提前解锁，剧透管理成发行方新课题。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/mw4campaign-Large.jpeg?w=300",
         "score": 91
       },
       {
@@ -137,40 +47,10 @@
         "tag": "英伟达",
         "title": "英伟达RTX Spark笔记本首发实测",
         "link": "https://www.ifanr.com/1684682?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿首发实测英伟达RTX Spark笔记本，展示实际性能表现，并称其提供了换电脑的理由。",
+        "summary": "爱范儿首发实测英伟达RTX Spark笔记本，展示性能表现与WorkBuddy额度使用体验，给出换机参考。",
         "comment": "实测有参考价值，但标题噱头大于信息量。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界》怀旧服限时免费压力测试",
-        "link": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
-        "summary": "暴雪宣布《魔兽世界》怀旧服压力测试改至10月21日，玩家可限时免费体验，但需注意参与条件与限制。",
-        "comment": "免费测试是引流手段，玩家需看清附加条件。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Play-For-Free-Stress-Test.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "毁灭战士",
-        "title": "咖啡机也能跑《毁灭战士》",
-        "link": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/",
-        "summary": "Fellow Espresso Series 1咖啡机的小圆形屏幕可运行1993年的《毁灭战士》，Reddit用户FullExtraction展示了这一玩法。",
-        "comment": "万物皆可Doom，噱头足但实用为零。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Doom.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战术游戏",
-        "title": "战术游戏新作改名更直白，玩家期待升温",
-        "link": "https://www.gamespot.com/articles/a-comically-on-the-nose-new-title-has-me-even-more-excited-for-this-upcoming-tactics-game/",
-        "summary": "GameSpot报道，即将推出的战术游戏《Australia Did It》因一个滑稽直白的新名称引发关注，作者本就期待该作，如今又多了一个理由。",
-        "comment": "改名营销虽讨巧，关键仍看玩法成色。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/australia.jpg?w=300",
-        "score": 89
       }
     ]
   }
