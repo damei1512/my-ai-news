@@ -5,9 +5,9 @@
       {
         "category": "人工智能",
         "tag": "算力交易",
-        "title": "Nscale与Anthropic据报洽谈450亿美元算力交易",
+        "title": "Nscale与Anthropic洽谈450亿美元算力交易",
         "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-        "summary": "据报道，Nscale与Anthropic正洽谈一项450亿美元算力协议。若达成，这将是Anthropic过去一年签署的一系列巨额算力交易中的最新一笔。",
+        "summary": "据报道，Nscale与Anthropic正洽谈一项450亿美元算力协议。若达成，这将是Anthropic过去一年签署的又一项巨额算力交易。",
         "comment": "算力军备竞赛再升级，AI巨头正以天价锁定基础设施。",
         "image": "",
         "score": 100
@@ -17,38 +17,18 @@
         "tag": "亚马逊",
         "title": "亚马逊推出TorchNeuron工具，挑战英伟达PyTorch主导地位",
         "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-        "summary": "亚马逊发布TorchNeuron开发工具，旨在打破英伟达对PyTorch生态的控制，让更多开发者将AI应用迁移至其自研芯片等替代硬件。",
-        "comment": "从框架层切入，亚马逊直击英伟达生态护城河。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenCode",
-        "title": "黑客攻击AI编程工具OpenCode，致用户AI账户被扣费",
-        "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-        "summary": "开源AI编程代理OpenCode部分在线平台遭黑客入侵，攻击者窃取用户API凭证并在其AI账户上产生费用，该工具是Claude Code和Cursor的热门替代品。",
-        "comment": "开源AI工具的安全短板正从代码层蔓延到账户层。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI芯片",
-        "title": "Tenstorrent估值达62亿美元，融资15亿扩展开源AI芯片",
-        "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-        "summary": "曾吸引收购兴趣的英伟达挑战者Tenstorrent完成15亿美元融资，估值达62亿美元，将保持独立并扩展开源权重AI芯片。",
-        "comment": "开源芯片路线获资本重注，英伟达之外再添变量。",
+        "summary": "亚马逊发布TorchNeuron开发工具，旨在降低开发者对英伟达芯片的依赖，推动AI应用在其自研芯片等替代硬件上运行。",
+        "comment": "亚马逊直击PyTorch生态，英伟达护城河面临实质挑战。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI提升低资源编程语言支持",
+        "title": "OpenAI提升低资源编程语言编码能力",
         "link": "https://openai.com/index/low-resource-programming-languages",
-        "summary": "OpenAI改进ChatGPT对低资源编程语言的支持，新增软件工程、SQLite和COBOL迁移评估。",
-        "comment": "补齐长尾语言能力，务实但商业化价值有限。",
+        "summary": "OpenAI改进ChatGPT对低资源编程语言的支持，新增软件工程、SQLite和COBOL迁移评测，提升相关编码与迁移能力。",
+        "comment": "补短板比刷高分更实用，COBOL迁移切中企业痛点。",
         "image": "",
         "score": 100
       },
@@ -57,88 +37,28 @@
         "tag": "AI代理",
         "title": "微软称AI代理如内部威胁，前沿模型不可信",
         "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-        "summary": "微软建议企业密切监控员工使用的AI代理，尤其是接入非OpenAI、Anthropic等实验室控制系统的代理，以防内部风险。",
-        "comment": "AI代理权限扩张，信任边界正成企业安全新难题。",
+        "summary": "微软建议企业密切监控员工使用的、由OpenAI和Anthropic等AI实验室之外系统控制的AI代理，将其视为类似内部威胁的风险源。",
+        "comment": "AI代理权限失控风险被低估，企业需前置管控。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "AI治理",
-        "title": "Hugging Face政策负责人：嵌入式AI评估器并非易事",
+        "title": "Hugging Face政策负责人：嵌入式AI评估员并非易事",
         "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-        "summary": "Hugging Face政策负责人指出，在AI机构内部设置所谓中立的第三方嵌入式评估器并非简单方案，这一近月流行的治理思路面临实际落地难题。",
-        "comment": "嵌入式评估听着中立，落地却难逃利益与独立性冲突。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI伴侣",
-        "title": "Tolan获3000万美元融资，AI伴侣用户超25万",
-        "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-        "summary": "AI伴侣应用Tolan完成3000万美元新融资，活跃用户已超25万，主打帮助用户应对日常生活。",
-        "comment": "AI伴侣赛道热度不减，用户留存才是真考验。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "智能电视",
-        "title": "用户用AI让智能电视重新变“笨”",
-        "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-        "summary": "部分智能电视用户厌倦广告、追踪和卡顿界面，借助AI代理清除预装软件，重新掌控电视。",
-        "comment": "AI反成去智能化的工具，折射智能电视体验倒退。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI助手",
-        "title": "Replika创始人推出免费个人AI助手Wabi",
-        "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-        "summary": "Replika创始人Eugenia Kuyda的新公司Wabi推出免费可下载的个人AI助手，实现她12年前在Disrupt大会提出的构想。",
-        "comment": "旧构想借AI热潮落地，免费策略能否突围待观察。",
+        "summary": "Hugging Face政策负责人指出，在AI组织内部安插所谓中立的第三方评估员这一设想虽流行，但实施难度大，难以成为有效解决方案。",
+        "comment": "嵌入式评估听着美好，落地却难，治理不能只靠外部监督。",
         "image": "",
         "score": 97
-      },
-      {
-        "category": "游戏影视",
-        "tag": "生化危机",
-        "title": "扎克·克雷格《生化危机》电影获粉丝自制PS1风格游戏",
-        "link": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-gets-viral-fan-made-ps1-style-video-game",
-        "summary": "粉丝将扎克·克雷格版《生化危机》电影改编为复古PS1风格游戏，采用固定视角，玩家可扮演奥斯汀·艾布拉姆斯，该作品已在网络走红。",
-        "comment": "粉丝二创反哺电影热度，复古玩法精准击中情怀。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/01/resident-evil-090126-poster-thumb-1788295069881.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "Mr. Beast发布《使命召唤：MW4》DMZ视频，胜者获百万美元",
-        "link": "https://www.gamespot.com/articles/mr-beast-teases-a-huge-call-of-duty-video-focused-on-dmz-with-real-life-content-creators/",
-        "summary": "拥有超5亿订阅者的YouTube明星Mr. Beast于10月19日发布《使命召唤》视频，为《现代战争》新作造势，DMZ模式胜者将获100万美元奖金。",
-        "comment": "顶流主播加百万奖金，是游戏营销的新范式。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/COD-Large.jpeg?w=300",
-        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
         "title": "苹果首个AI机器人或为可动HomeView",
         "link": "https://www.ifanr.com/1684921?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，苹果首个AI机器人可能是能动的HomeView，即为屏幕装上可动结构，使其具备运动能力。",
-        "comment": "苹果把AI装进可动屏幕，家庭交互入口之争升温。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "DeepSeek",
-        "title": "新版DeepSeek实测：4块钱让特斯拉飞起来",
-        "link": "https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测新版DeepSeek，用4元成本实现特斯拉相关操作，展示模型能力与低成本应用潜力。",
-        "comment": "低价调用大模型，实用场景比参数更值得关注。",
+        "summary": "爱范儿报道称，苹果首个AI机器人可能是能动的HomeView，即为屏幕装上可移动底座，让智能家居屏具备运动能力。",
+        "comment": "苹果把AI藏进家居硬件，形态创新比参数更值得看。",
         "image": "",
         "score": 91
       },
@@ -147,18 +67,18 @@
         "tag": "微信",
         "title": "微信鸿蒙版两周年：700天从陌生到并肩",
         "link": "https://www.ifanr.com/1684608?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微信鸿蒙版开发两周年，回顾平台与伙伴700天协作历程，克服困难完成适配，背后辛酸故事鲜为人知。",
-        "comment": "鸿蒙生态关键一步，适配难度折射国产系统突围不易。",
+        "summary": "爱范儿回顾微信鸿蒙版开发历程，讲述平台与伙伴并肩作战、克服困难的700天，披露不为人知的辛酸故事。",
+        "comment": "鸿蒙生态关键拼图，开发难度折射生态建设之艰。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "微信",
-        "title": "微信鸿蒙版两周年：从零重写追至8.0",
+        "title": "微信鸿蒙版两周年：从零重写到追平8.0",
         "link": "https://www.ifanr.com/1684869?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微信鸿蒙版用两年从1.0迭代到8.0，团队从零重写应用，爱范儿讲述开发背后的故事。",
-        "comment": "鸿蒙原生应用攻坚的典型样本，值得关注。",
+        "summary": "爱范儿讲述微信鸿蒙版两年从1.0追到8.0的历程，披露从零重写背后的团队故事与开发细节。",
+        "comment": "鸿蒙生态关键应用落地，重写成本与协作值得关注。",
         "image": "",
         "score": 91
       },
@@ -167,200 +87,30 @@
         "tag": "设计 AI",
         "title": "实测 Lovart 2.0：设计 AI 进入个人助理时代",
         "link": "https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测 Lovart 2.0，设计 AI 可像个人助理一样持续工作，用户下班后 Arti 仍能继续执行任务。",
-        "comment": "设计 AI 从工具转向助理，关键在持续执行能力。",
+        "summary": "爱范儿实测 Lovart 2.0，称其让设计 AI 从工具转向个人助理，用户下班后 Arti 仍可继续工作。",
+        "comment": "设计 AI 竞争转向持续协作能力，助理化是方向。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果机械臂HomeView开发中，蔚来销量首超BBA",
-        "link": "https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "曝苹果正开发机械臂版HomeView；蔚来三季度销量首次超越BBA；英伟达否认RTX 5090停产；三星拟用台积电3nm为英伟达定制HBM。",
-        "comment": "苹果新形态与国产车崛起同框，硬件生态竞争加剧。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "MacBook Air",
-        "title": "2026款M5芯片MacBook Air黑五前降价150美元",
-        "link": "https://www.ign.com/articles/2026-apple-macbook-air-laptop-deal-october-2026",
-        "summary": "IGN报道，搭载苹果M5芯片的2026款MacBook Air在黑五前优惠150美元，被称为最适合多数人的MacBook。",
-        "comment": "游戏媒体推笔记本优惠，跨界但实用。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/19/macbookair-1792449654030.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "DC",
-        "title": "《泥面人》主演盛赞《蝙蝠侠：动画系列》与罗恩·普尔曼",
-        "link": "https://www.ign.com/articles/clayface-cast-batman-animated-series-fandom",
-        "summary": "《泥面人》主演汤姆·里斯·哈里斯与娜奥米·阿基回忆在英国长大时追看《蝙蝠侠：动画系列》，并称赞罗恩·普尔曼配音表演出色。",
-        "comment": "动画版影响力延续至今，选角自带情怀加成。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/19/btas-clayface-thumb-1792450433852.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《养鬼吃人》创作者克莱夫·巴克：曾担心新游戏遭过度审查，最终成果令他无比自豪",
-        "link": "https://www.ign.com/articles/hellraisers-clive-barker-feared-new-game-would-be-overly-censored-but-is-proud-as-fk-at-the-end-result",
-        "summary": "《养鬼吃人》创作者克莱夫·巴克曾担心系列新游戏会被过度审查，但最终对团队能推进的尺度感到无比自豪。",
-        "comment": "原作者背书，说明游戏尺度获认可。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/10/clivebarkershellrasierrevivaloriginsdeveloperdiaryvideo-ign-blogroll-1773154687012.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "USB-C",
-        "title": "6.6英尺240W USB-C线不到3美元",
-        "link": "https://www.ign.com/articles/lisen-usb-cable-deals-october-2026",
-        "summary": "IGN推荐Lisen USB-C线，6.6英尺、240W，单根不到3美元，适用于Switch 2、Steam Deck、iPhone 18和笔记本。",
-        "comment": "低价高规格线材，适合多设备用户囤货。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/19/lisenusbcable-1792443421176.jpg",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "魔兽世界",
-        "title": "魔兽世界：Forever 测试火热，Midnight 资料片陷困境",
+        "title": "魔兽世界：怀旧服Forever火热，正式服Midnight陷困境",
         "link": "https://www.gamespot.com/articles/wow-forever-is-soaring-but-midnight-is-struggling/",
-        "summary": "GameSpot 报道，魔兽世界 Forever 凭热门测试与即将上线势头强劲，而正式服 Midnight 资料片相比之下处境艰难，形成鲜明反差。",
-        "comment": "怀旧与正式服冷热分化，暴雪需正视正式服危机。",
+        "summary": "魔兽世界怀旧服Forever凭热门测试和即将上线势头强劲，而正式服Midnight资料片相比之下陷入危机状态。",
+        "comment": "怀旧服热度反衬正式服内容与运营困境。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Midnight-patch-1215.jpg?w=300",
-        "score": 90
+        "score": 91
       },
       {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "无需昂贵主机或高端PC也能玩《现代战争4》",
-        "link": "https://www.gamespot.com/articles/you-dont-need-an-expensive-console-or-high-end-pc-to-play-call-of-duty-modern-warfare-4/",
-        "summary": "《使命召唤：现代战争4》本周发售，在主机与高性能PC价格高企的背景下，GameSpot探讨是否还有其他途径可以游玩这款游戏。",
-        "comment": "云游戏或成低门槛入口，但体验仍受网络制约。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/COD1.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "黑色洛城",
-        "title": "演员Rahul Kohli提出《黑色洛城》衍生作构想",
-        "link": "https://www.gamespot.com/articles/this-la-noire-spinoff-idea-sounds-incredible/",
-        "summary": "英国演员Rahul Kohli在BAFTA Games访谈中提出新的《黑色洛城》衍生游戏构想，GameSpot称其想法相当出色。",
-        "comment": "演员跨界提案，能否成真仍看Rockstar态度。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/LANoire.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏更新",
-        "title": "《Saros》Zenith更新加入Boss Rush与大量难度选项",
-        "link": "https://www.gamespot.com/articles/saros-gets-boss-rush-and-tons-of-difficulty-options-with-zenith-update/",
-        "summary": "科幻射击游戏《Saros》推出Zenith更新，新增Boss Rush模式和多种难度选项，为玩家提供重玩与挑战空间。",
-        "comment": "高评价射击游戏补强可玩性，更新诚意值得肯定。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Saros-Zenith.webp?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "星战游戏",
-        "title": "卢卡斯影业转向大厂之外，星战游戏或更多元",
-        "link": "https://www.gamespot.com/articles/star-wars-games-could-get-more-interesting-as-lucasfilm-looks-beyond-the-big-studios/",
-        "summary": "GameSpot称，今年两款星战游戏各具新意，Bit Reactors的《星球大战：零连》借鉴XCOM玩法。卢卡斯影业正把目光投向大型工作室之外。",
-        "comment": "星战授权松绑，小团队或带来更多玩法实验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Galactic-Racer-2.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "《Samson》主机表现较好仍未能挽救开发商 Liquid Swords 关闭",
-        "link": "https://www.gamespot.com/articles/open-world-crime-game-samson-did-better-on-console-but-not-enough-to-save-its-developer-from-shutting-down/",
-        "summary": "瑞典开发商 Liquid Swords 确认关闭，创始人 Christofer Sundberg 在破产报道后证实此事。其开放世界犯罪游戏《Samson》主机端表现较好，但不足以维持公司运营。",
-        "comment": "主机表现尚可仍难敌成本压力，中小工作室生存艰难。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/samsonnew.png?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "星球大战",
-        "title": "《星球大战：银河赛车手》角色由摔角手配音",
-        "link": "https://www.gamespot.com/articles/star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ringmaster-pro-wrestler-and-this-makes-sense/",
-        "summary": "《星球大战：银河赛车手》中外星角色Biddy Blas由一名以邪恶马戏团班主形象著称的职业摔角手配音，GameSpot分析这一选角与角色气质高度契合。",
-        "comment": "摔角手配音外星怪角，选角思路野但合理。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Biddy-Blas-Crowley.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "泽连斯基顾问称美限制情报共享致乌人员死亡",
-        "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-        "summary": "泽连斯基顾问对BBC称，美国限制情报共享导致预警时间不足，乌方难以及时提醒民众躲避导弹袭击；白宫表示情报共享政策未变。",
-        "comment": "情报共享争议暴露乌方预警短板，美乌互信承压。",
+        "category": "数码科技",
+        "tag": "DeepSeek",
+        "title": "新版DeepSeek实测：4块钱让特斯拉飞起来",
+        "link": "https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿实测新版DeepSeek，用4元成本实现特斯拉相关创意操作，展示模型能力与低成本玩法。",
+        "comment": "低价调用大模型，创意玩法比参数更吸睛。",
         "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "火星探测",
-        "title": "探测器发射升空，将采集火星卫星样本返回地球",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-        "summary": "一艘探测器启程执行采样返回任务，计划从火星卫星取回10克尘埃样本，以研究火星卫星的起源与演化。",
-        "comment": "火星卫星采样返回若成功，将填补行星科学关键空白。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "肯尼亚",
-        "title": "肯尼亚邪教头目因191项谋杀罪被判有罪",
-        "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "summary": "自称牧师的保罗·麦肯齐被认定191项谋杀罪成立，其中190名受害者为儿童，他曾要求父母让孩子挨饿。",
-        "comment": "邪教蛊惑酿成惨剧，司法追责只是第一步。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "OpenAI",
-        "title": "前OpenAI员工被控植入窃听设备，检方称其获沙特支持",
-        "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-        "summary": "前OpenAI员工Abdulrahman Alfozan被控植入录音设备，检方称其获沙特支持，保释申请已被驳回。",
-        "comment": "AI公司内部安全与地缘政治风险交织，值得警惕。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "塞尔达传说",
-        "title": "塞尔达传说百科全书今日在亚马逊促销",
-        "link": "https://www.ign.com/articles/the-legend-of-zelda-encyclopedia-book-sale-amazon-october-2026",
-        "summary": "IGN报道，《塞尔达传说百科全书》在亚马逊开启促销，该书汇总系列世界观、角色与设定资料，适合收藏与查阅。",
-        "comment": "促销信息实用，但收藏价值取决于版本与折扣力度。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/19/legend-of-zelda-encyclopedia-1792447541948.png",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "网球",
-        "title": "斯维托丽娜称乌克兰战争情感压力致与孟菲尔斯分开",
-        "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰网球名将斯维托丽娜表示，战争带来的情感负担导致她与法国选手孟菲尔斯分开。两人2021年结婚并育有一子。",
-        "comment": "战争创伤外溢至私人生活，运动员也难幸免。",
-        "image": "",
-        "score": 84
-      },
-      {
-        "category": "时事热点",
-        "tag": "Vinted",
-        "title": "Vinted封禁法国劫掠者售卖赃物",
-        "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-        "summary": "二手平台Vinted表示，自周末以来已采取即时行动，识别并下架与劫掠相关的商品链接，阻止法国劫掠者售卖赃物。",
-        "comment": "平台主动封堵赃物交易，但事后拦截难掩审核漏洞。",
-        "image": "",
-        "score": 84
+        "score": 90
       }
     ]
   }
