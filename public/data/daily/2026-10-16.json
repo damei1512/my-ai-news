@@ -5,32 +5,42 @@
       {
         "category": "人工智能",
         "tag": "生成式AI",
-        "title": "Itaú用生成式AI服务全体客户",
+        "title": "Itaú借助OpenAI为全量客户构建生成式AI",
         "link": "https://openai.com/index/itau-generative-ai",
-        "summary": "巴西银行Itaú推出对话界面ia.i与治理平台IARA，将AI优先战略应用于客户和员工，覆盖高度监管的金融领域。",
-        "comment": "银行AI落地关键在治理，Itaú案例值得关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Codex",
-        "title": "Benefit Street Partners用Codex加速贷款估值分析",
-        "link": "https://openai.com/index/benefit-street-partners",
-        "summary": "Anant Kumar利用Codex构建贷款估值对比与信贷协议分析工具，并通过代码审查加快后续跟进。",
-        "comment": "金融场景落地案例，重点在提效而非炫技。",
+        "summary": "巴西银行Itaú推出对话界面ia.i与治理平台IARA，将AI First战略同时用于客户与员工，在高度监管的金融业落地生成式AI。",
+        "comment": "银行全量客户落地生成式AI，治理平台是关键前提。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI：Stack Overflow for Agents借助ChatGPT插件注册量增至三倍",
-        "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-        "summary": "两名工程师用Codex数周内开发出Stack Overflow for Agents，其ChatGPT插件推动智能体创建量最高增长10倍。",
-        "comment": "插件分发正成为AI产品增长的关键杠杆。",
+        "title": "Benefit Street Partners用Codex加速贷款估值分析",
+        "link": "https://openai.com/index/benefit-street-partners",
+        "summary": "Anant Kumar利用Codex构建工具，对比贷款估值并分析信贷协议，同时用于代码审查和加快后续跟进。",
+        "comment": "金融场景落地案例，验证Codex提效价值。",
         "image": "",
         "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "ChatGPT插件",
+        "title": "Stack Overflow for Agents借助ChatGPT插件注册量增至三倍",
+        "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "summary": "两名工程师用Codex数周内开发出Stack Overflow for Agents，其ChatGPT插件推动智能体创建量最高增长10倍。",
+        "comment": "AI工具正把开发周期压缩到周级，插件生态成增长杠杆。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏重制",
+        "title": "《怪物史莱克2》游戏重制版意外泄露后官宣",
+        "link": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
+        "summary": "Xbox.com提前上架2004年《怪物史莱克2：游戏》重制版页面，泄露后Aspyr正式宣布该作。",
+        "comment": "经典IP重制靠泄露造势，情怀牌能否打赢GTA6？",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/shrek2.jpg?w=300",
+        "score": 90
       }
     ]
   }
