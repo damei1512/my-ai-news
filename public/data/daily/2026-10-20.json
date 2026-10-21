@@ -4,31 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌联手亚马逊挑战英伟达AI开发者生态",
-        "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-        "summary": "谷歌推出开发者工具，帮助PyTorch用户将应用从英伟达GPU迁移，与亚马逊一道削弱英伟达在AI应用开发中的主导地位。",
-        "comment": "云厂商正从软件层瓦解英伟达的生态壁垒。",
+        "tag": "AI安全",
+        "title": "Anthropic推AI安全法案：或可致50人以上死亡即拦模型",
+        "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "summary": "Anthropic提出AI安全法案，称可防AI失控，实则要求联邦机构须经法官许可才能阻止模型发布。",
+        "comment": "安全名义下，司法前置或成监管掣肘。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta旗下Muse应用40天美国下载量破千万",
-        "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-        "summary": "Meta的Muse应用上线40天在美国下载量突破1000万，仅11款其他应用曾达此量级，且用户留存率高于同类AI竞品。",
-        "comment": "下载与留存双高，Meta在AI应用分发上显出优势。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI案例：加盟商用ChatGPT Work大幅缩短对账时间",
+        "tag": "ChatGPT",
+        "title": "OpenAI案例：加盟商用ChatGPT Work大幅提效",
         "link": "https://openai.com/index/ted-taylor-restaurant",
-        "summary": "OpenAI发布案例称，一位Schlotzsky’s与Cinnabon独立加盟商借助ChatGPT Work将对账时间缩短94%，菜单调价时间减少95%，并搭建出可释放约10万美元现金流的工作流。",
-        "comment": "案例价值在流程改造，而非单纯提效。",
+        "summary": "独立加盟商Ted Taylor借助ChatGPT Work将菜单调价时间缩短95%，现金对账时间减少94%，并搭建可释放10万美元现金流的工作流。",
+        "comment": "AI落地餐饮后台，降本增效可量化。",
         "image": "",
         "score": 100
       },
@@ -37,38 +27,28 @@
         "tag": "人工智能",
         "title": "Terminal X用GPT-6.1评估投资，与资深投资人判断一致率88.6%",
         "link": "https://openai.com/index/terminal-x",
-        "summary": "Terminal X的Eval Agent按54项标准评分，借助GPT-6.1 Sol识别出比基准多25%的基金任务偏离。",
-        "comment": "AI评估投资判断接近资深人类，但离替代仍有距离。",
+        "summary": "Terminal X的Eval Agent按54项标准评分，借助GPT-6.1 Sol识别出比基金要求多25%的偏差，与资深投资人判断一致率达88.6%。",
+        "comment": "AI评估投资判断逼近人类专家，合规审查或率先被重塑。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI收购Orchestra Bio，布局生命科学AI研发",
+        "title": "OpenAI收购Orchestra Bio，将AI运营引入生命科学研发",
         "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-        "summary": "OpenAI宣布收购Orchestra Bio，将AI运营能力引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法。",
-        "comment": "AI巨头切入生物医药研发链条，行业整合提速。",
+        "summary": "OpenAI宣布收购Orchestra Bio，把AI驱动的运营能力引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法。",
+        "comment": "AI巨头向药物研发纵深扩张，行业整合加速。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "Anthropic推AI安全法案：或可致50人以上死亡即拦模型",
-        "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-        "summary": "Anthropic提出AI安全法案，称可防范失控模型，但实际要求联邦机构须经法官许可才能阻止模型发布。",
-        "comment": "安全之名下，司法门槛或成监管掣肘。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
         "tag": "Anthropic",
-        "title": "Anthropic云合作陷入混乱",
+        "title": "Anthropic云合作陷困境：算力难求且伙伴变对手",
         "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-        "summary": "Anthropic据报难以从日益将其视为竞争对手的云厂商获得足够算力，同时基础设施支出在IPO前大幅膨胀。",
-        "comment": "云厂商既供算力又做竞品，Anthropic处境尴尬。",
+        "summary": "Anthropic据称难以从云厂商获得足够算力，这些厂商日益将其视为竞争对手，而其基础设施支出正大幅膨胀。",
+        "comment": "云厂商既供算力又做竞品，Anthropic的算力困局难解。",
         "image": "",
         "score": 99
       },
@@ -78,7 +58,7 @@
         "title": "SpaceX第三季度扭亏为盈，AI业务成增长引擎",
         "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
         "summary": "SpaceX第三季度实现盈利，净利润44亿美元，AI业务成为主要驱动力，表现超出预期。",
-        "comment": "航天公司靠AI赚钱，跨界竞争加剧。",
+        "comment": "航天公司靠AI赚钱，跨界竞争值得关注。",
         "image": "",
         "score": 99
       },
@@ -87,150 +67,50 @@
         "tag": "OpenAI",
         "title": "OpenAI收购Orchestra Bio，强化生物科技业务",
         "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-        "summary": "OpenAI宣布将Orchestra团队与技术并入生命科学AI模型Rosalind及配套工具Rosalind Workbench，以增强生物科技领域能力。",
-        "comment": "收购补强垂直场景，生命科学AI竞争升温。",
+        "summary": "OpenAI宣布将Orchestra团队与技术并入生命科学研究模型Rosalind及配套工具Rosalind Workbench，以加强其生物科技布局。",
+        "comment": "AI巨头正把生命科学当作下一块必争之地。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "ChatGPT",
-        "title": "ChatGPT 推出聊天锁定功能",
-        "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-        "summary": "OpenAI 为 ChatGPT 新增聊天锁定功能，用户可将涉及个人隐私或惊喜计划的对话设为私密，防止他人查看。",
-        "comment": "隐私控制补课，但本地锁定难消云端顾虑。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "施密特据报持有Anthropic股份约为CEO阿莫迪一半",
-        "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-        "summary": "TechCrunch报道，前谷歌CEO施密特据称持有Anthropic约相当于CEO达里奥·阿莫迪一半的股份，其财富有望进一步增长。",
-        "comment": "AI股权暗线，施密特押注再下一城。",
-        "image": "",
-        "score": 98
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
         "title": "Hugging Face CEO 指 Netflix OpenAI 纪录片失实",
         "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-        "summary": "Hugging Face 联合创始人 Clem Delangue 称，Netflix 纪录片《AI Gone Rogue》渲染末日论调、内容不准确，提醒观众勿轻信转发。",
-        "comment": "AI 纪录片需事实核查，当事人发声值得重视。",
+        "summary": "Hugging Face 联合创始人 Clem Delangue 称，Netflix 纪录片《AI Gone Rogue》渲染末日论调、内容不准确，提醒观众分享前先核实。",
+        "comment": "AI 叙事被戏剧化，行业当事人出面纠偏值得关注。",
         "image": "",
-        "score": 97
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏影视",
-        "title": "《KPop Demon Hunters 2》确定院线上映",
-        "link": "https://www.ign.com/articles/kpop-demon-hunters-2-gets-a-theatrical-release-after-first-movies-smashing-success-on-streaming",
-        "summary": "首部《KPop Demon Hunters》在流媒体大获成功后，续集不再重蹈前作发行方式，已锁定院线上映。",
-        "comment": "流媒体爆款反攻院线，发行策略转向。",
-        "image": "https://assets-prd.ignimgs.com/2026/03/16/kpopdemonhunters-prores422hq-sdr-2ch-20250424-00-03-37-12-1750301439611-1773632529753.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "CS2",
-        "title": "CS2职业选手Aleksib因税务欺诈面临四个月缓刑",
-        "link": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud",
-        "summary": "芬兰CS2职业选手Aleksi Virolainen（Aleksib）因涉嫌严重税务欺诈、未申报收入，面临四个月缓刑判决。",
-        "comment": "电竞选手税务合规问题再敲警钟。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/20/cs2-pro-aleksib-charged-aggravated-tax-fraud-1792536150894.jpg",
-        "score": 93
+        "score": 98
       },
       {
         "category": "数码科技",
         "tag": "VAST",
         "title": "VAST开源从一句话到可玩世界的完整链路",
         "link": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "VAST将规则归入交互系统、画面交由模型生成，开源从一句话生成可玩世界的整条技术链路。",
-        "comment": "开源整条生成链路，降低互动世界创作门槛。",
+        "summary": "VAST将规则交由交互系统、画面交由模型，开源从一句话生成可玩世界的整条链路，降低互动内容创作门槛。",
+        "comment": "开源整条生成链路，比单点模型更有生态价值。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6粉丝猜测Rockstar在迈阿密拍摄昂贵真人预告片",
-        "link": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
-        "summary": "Rockstar粉丝发现迈阿密有摄制组拍摄GTA主题车队，猜测官方正在制作高成本真人预告片。",
-        "comment": "粉丝侦查热情高，但官方未证实，仍属猜测。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "梅尔·布鲁克斯",
-        "title": "梅尔·布鲁克斯坚持先拍《太空炮弹》新作个人戏份",
-        "link": "https://www.ign.com/articles/mel-brooks-spaceballs-sequel-scenes-filmed-first",
-        "summary": "百岁喜剧传奇梅尔·布鲁克斯要求《太空炮弹：新作》先拍摄他的戏份，以确保其角色尤格特顺利完成。",
-        "comment": "百岁仍亲力亲为，老派敬业精神令人敬佩。",
-        "image": "https://assets-prd.ignimgs.com/2025/06/12/mel-brooks-spaceballs-1749746107195.png",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "AI记忆",
+        "tag": "AI",
         "title": "MemT 1.0开源：记忆原生破局养成系AI",
         "link": "https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "MemT 1.0开源，提出记忆原生新解法，瞄准养成系AI下半场，试图解决AI长期记忆与个性化养成的核心难题。",
-        "comment": "记忆原生是养成系AI的关键突破口，开源值得关注。",
+        "summary": "MemT 1.0开源，提出记忆原生新解法，瞄准养成系AI下半场，试图以记忆机制突破现有AI交互局限。",
+        "comment": "记忆原生能否落地，关键看工程化与真实场景验证。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Switch 2",
-        "title": "三星P9 512GB Switch 2存储卡降价50美元",
-        "link": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026",
-        "summary": "三星P9 MicroSD Express存储卡降价50美元，容量512GB，可将Switch 2总存储扩大至三倍，该产品经IGN实测验证。",
-        "comment": "存储卡降价对Switch 2玩家是实在利好。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/20/samsungp9-1792532942646.jpg",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "特斯拉",
-        "title": "特斯拉飞行车争议：科学家称放屁车，FAA称不符航空器定义",
+        "title": "特斯拉飞行车争议：科学家称其“放屁车”，FAA称不符合航空器定义",
         "link": "https://www.ifanr.com/1684938?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "特斯拉飞行车只能飞5秒引发争议，科学家嘲讽其为放屁车，联邦航空局表示不符合航空器定义。",
-        "comment": "飞行5秒的汽车更像营销噱头，监管定性值得关注。",
+        "summary": "特斯拉飞行车只能飞5秒引发争议，科学家嘲讽其为“放屁车”，联邦航空局表示不符合航空器定义，马斯克回应带调侃。",
+        "comment": "飞行5秒的飞行车更像营销噱头，监管定性已说明问题。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "时事热点",
-        "tag": "苏丹冲突",
-        "title": "苏丹军方无人机袭击葬礼人群与燃料市场，致300余人死亡",
-        "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-        "summary": "消息称，苏丹军方无人机袭击了一辆载有参加葬礼人员的卡车，以及一处被指为快速支援部队供应燃料的市场，造成300多人死亡。",
-        "comment": "针对葬礼与民用市场的袭击若属实，冲突底线再度失守。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "美乌关系",
-        "title": "特朗普与泽连斯基分歧依旧 新乐观难掩美乌政策疑虑",
-        "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC报道称，乌克兰领导人泽连斯基在挪威首都与美方特使威特科夫拥抱，但难以消除外界对美国对乌政策的疑虑，特朗普与泽连斯基仍存分歧。",
-        "comment": "拥抱难掩分歧，美乌关系仍存变数。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "纳尼亚传奇",
-        "title": "纳尼亚传奇丛书亚马逊促销，含精装豪华版",
-        "link": "https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026",
-        "summary": "IGN报道，亚马逊正在促销《纳尼亚传奇》系列丛书，其中包括精装豪华版，适合收藏或作为礼物。",
-        "comment": "经典奇幻IP促销，收藏党可关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/20/narnia-books-1792535453710.png",
-        "score": 85
       }
     ]
   }
