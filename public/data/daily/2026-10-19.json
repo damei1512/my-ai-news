@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI提升低资源编程语言编码能力",
+        "title": "OpenAI提升低资源编程语言代码能力",
         "link": "https://openai.com/index/low-resource-programming-languages",
-        "summary": "OpenAI介绍ChatGPT在低资源编程语言上的改进，并新增软件工程、SQLite与COBOL迁移等评测，展示模型在冷门语言编码任务中的能力提升。",
-        "comment": "补齐冷门语言短板，利于企业遗留系统迁移。",
+        "summary": "OpenAI介绍ChatGPT在低资源编程语言上的改进，新增软件工程、SQLite和COBOL迁移评测，以衡量并提升模型在这些语言上的编码表现。",
+        "comment": "补齐长尾语言能力，实用价值高于跑分。",
         "image": "",
         "score": 100
       },
@@ -17,30 +17,10 @@
         "tag": "苹果",
         "title": "苹果首个AI机器人或为可动HomeView",
         "link": "https://www.ifanr.com/1684921?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道称，苹果首款AI机器人可能是带机械结构的HomeView，给屏幕装上可动底座，让智能屏具备运动能力。",
-        "comment": "苹果把AI塞进会动的屏幕，家居交互有新想象。",
+        "summary": "爱范儿报道，苹果首款AI机器人可能是带机械结构的HomeView，让屏幕能转动，暗示智能家居设备将具备运动能力。",
+        "comment": "苹果把AI藏进机械动作，家居交互或迎新入口。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "微信",
-        "title": "微信鸿蒙版两周年：700天从陌生到并肩",
-        "link": "https://www.ifanr.com/1684608?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微信鸿蒙版开发历时700天，平台与伙伴并肩克服困难，背后辛酸故事鲜为人知，回顾两年协作历程。",
-        "comment": "生态共建不易，700天见证双方磨合与坚持。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "DeepSeek",
-        "title": "新版DeepSeek实测：4块钱让特斯拉飞起来",
-        "link": "https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测新版DeepSeek，用4元成本实现特斯拉相关创意操作，展示模型能力与低成本玩法。",
-        "comment": "低价调用大模型，创意落地门槛再降。",
-        "image": "",
-        "score": 90
       }
     ]
   }
