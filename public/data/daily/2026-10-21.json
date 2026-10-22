@@ -7,7 +7,7 @@
         "tag": "OpenAI",
         "title": "AT&T与OpenAI合作重塑内部法务工作",
         "link": "https://openai.com/index/att-legal",
-        "summary": "AT&T与OpenAI合作，让法律知识更易获取，其LegalEdge团队正重新设计需求受理流程，并规模化应用法律判断。",
+        "summary": "AT&T与OpenAI合作，让法律知识更易获取，其LegalEdge团队正重构需求受理流程并扩展法律判断能力。",
         "comment": "法律知识普惠化，企业法务效率有望提升。",
         "image": "",
         "score": 100
@@ -15,10 +15,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布一致标准下的广泛访问说明",
+        "title": "OpenAI发布一致标准下的广泛访问政策",
         "link": "https://openai.com/index/broad-access-through-consistent-standards",
-        "summary": "OpenAI说明如何与分发伙伴合作，维持一致的安全防护、支持负责任访问，并明确使用政策中的预期。",
-        "comment": "重点在分发环节的安全一致性，而非新模型。",
+        "summary": "OpenAI说明如何与分发伙伴合作，维持一致的安全保障、支持负责任访问，并在使用政策中明确各方预期。",
+        "comment": "开放与安全并重，关键看执行细则。",
         "image": "",
         "score": 100
       },
@@ -28,17 +28,17 @@
         "title": "OpenAI模型将登陆Google Cloud",
         "link": "https://openai.com/index/openai-models-google-cloud",
         "summary": "OpenAI与Google Cloud合作，将前沿模型和Codex工作流引入Gemini的Model Garden，并通过Google Cloud Marketplace提供。",
-        "comment": "竞合关系微妙，云市场格局或生变。",
+        "comment": "竞争对手变合作伙伴，云与模型边界加速重构。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出Patch the Planet协调漏洞响应",
+        "tag": "开源安全",
+        "title": "OpenAI推出Patch the Planet协调漏洞修复",
         "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-        "summary": "OpenAI推出Patch the Planet，连接安全研究员、维护者与应急响应者，协助处理开源软件中的关键漏洞。",
-        "comment": "AI厂商介入开源漏洞协调，响应机制值得关注。",
+        "summary": "OpenAI发起Patch the Planet，连接安全研究员、维护者与应急响应者，协同处理开源软件中的关键漏洞。",
+        "comment": "AI厂商介入开源安全协调，补位生态短板。",
         "image": "",
         "score": 100
       },
@@ -47,8 +47,8 @@
         "tag": "ChatGPT",
         "title": "ChatGPT广告扩展至26国，超10万广告主已使用",
         "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-        "summary": "OpenAI宣布ChatGPT广告业务新增26个国家，已有超过10万广告主通过该平台触达用户，覆盖从本地商家到全球品牌。",
-        "comment": "AI对话场景加速商业化，广告成OpenAI新增长点。",
+        "summary": "OpenAI宣布ChatGPT广告业务扩展至26个新国家，已有超过10万广告主使用该平台，覆盖本地商家与全球品牌。",
+        "comment": "广告变现提速，ChatGPT商业化进入规模扩张阶段。",
         "image": "",
         "score": 100
       },
@@ -58,7 +58,7 @@
         "title": "OpenAI用数千AI智能体挖掘生物数据新线索",
         "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
         "summary": "OpenAI、PerturbAI与Scripps Research利用分布式AI智能体，从数百万脑细胞数据中筛选出有前景的研究线索。",
-        "comment": "AI智能体正从工具变为科研协作者。",
+        "comment": "AI智能体正从工具走向科研协作者。",
         "image": "",
         "score": 100
       },
@@ -67,78 +67,18 @@
         "tag": "人工智能",
         "title": "Cloudflare借助OpenAI加速漏洞发现与修复",
         "link": "https://openai.com/index/cloudflare-cyber",
-        "summary": "Cloudflare用OpenAI Daybreak调查漏洞并提出修复建议供审核，开发者用Codex加快构建并提升代码质量。",
-        "comment": "AI安全从发现漏洞走向辅助修复，落地价值更实。",
+        "summary": "Cloudflare利用OpenAI Daybreak调查漏洞并提出修复方案供审核，开发者用Codex加快开发并提升代码质量。",
+        "comment": "AI正从写代码延伸到安全防御闭环。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI详解ChatGPT广告系统架构",
-        "link": "https://openai.com/index/building-chatgpt-ad-stack",
-        "summary": "OpenAI介绍ChatGPT广告技术栈，用大模型理解对话意图，将广告与回答分离，在保障用户信任的同时实现规模化精准投放。",
-        "comment": "广告入对话，信任与商业化的平衡是关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta拟发行新类别股票为AI扩张融资",
-        "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-        "summary": "Meta计划创设新类别股票，为其AI模型与服务的大规模投资提供资金支持，以新融资工具支撑持续扩张。",
-        "comment": "用股权工具为AI军备竞赛输血，成本与稀释风险待观察。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta称Muse用户超千万，购物成主要用途",
-        "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-        "summary": "Meta在第三季度财报电话会上表示，其AI应用Muse用户已超过1000万，用户主要将其用于购物和个人生产力场景。",
-        "comment": "AI应用靠购物场景破圈，商业化路径渐清晰。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI编程",
-        "title": "Recursive发布Flint笔记本编程模型，称主要由AI构建",
-        "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-        "summary": "初创公司Recursive发布免费笔记本级编程模型Flint，称其大部分由自家AI研究系统构建，用于早期测试可自我改进的AI。",
-        "comment": "AI造AI迈出实测一步，但自我改进仍待验证。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "黑石",
-        "title": "黑石AI负责人称AI基建债务担忧被夸大",
-        "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-        "summary": "黑石AI业务负责人Jas Khaira回应市场对AI基建债务的担忧，认为恐慌被夸大，私募巨头并未因此动摇。",
-        "comment": "巨头喊话稳预期，但债务风险仍需数据验证。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "人工智能",
-        "tag": "TechCrunch",
-        "title": "TechCrunch创始人峰会2026：波士顿11月4日举行",
-        "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-        "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行，全天活动面向各阶段创始人，提供与顶级风投及资深创业者交流的实战洞察。",
-        "comment": "活动信息为主，对AI行业无实质增量。",
-        "image": "",
-        "score": 94
       },
       {
         "category": "数码科技",
         "tag": "比亚迪",
         "title": "比亚迪新一代海鸥尺寸大涨，售价6.59万元起",
         "link": "https://www.ifanr.com/1685151?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪新一代海鸥尺寸明显增大，起售价6.59万元，产品定位与性价比同步提升。",
-        "comment": "尺寸升级加低价，小型电动车竞争再加剧。",
+        "summary": "比亚迪新一代海鸥尺寸明显增大，起售价6.59万元，产品定位和性价比引发关注。",
+        "comment": "尺寸升级加低价，海鸥竞争力进一步增强。",
         "image": "",
         "score": 91
       },
@@ -155,10 +95,10 @@
       {
         "category": "数码科技",
         "tag": "小米汽车",
-        "title": "小米神秘新车曝光：SU9 LUX 进军行政轿车市场",
+        "title": "小米神秘新车曝光：SU9 LUX进军行政轿车市场",
         "link": "https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "小米汽车被曝将推 SU9 LUX 行政轿车，或还有 SU7 LUX，显示其产品线向高端行政市场延伸。",
-        "comment": "小米扩产品线，行政轿车能否复制热度待观察。",
+        "summary": "小米汽车新车信息曝光，SU9 LUX将进军行政轿车市场，可能还有SU7 LUX版本，显示小米正拓展产品线。",
+        "comment": "小米从运动轿车转向行政市场，产品矩阵扩张意图明显。",
         "image": "",
         "score": 91
       },
@@ -167,18 +107,18 @@
         "tag": "Sonos",
         "title": "Sonos Beam Ultra体验：回音壁变身全场景声音中枢",
         "link": "https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Sonos Beam Ultra体验显示，回音壁从被动电视伴音工具演进为客厅全场景声音中枢，实现多场景通吃。",
+        "summary": "Sonos Beam Ultra体验显示，回音壁从被动电视伴音工具演进为客厅全场景声音中枢，兼顾多场景音频需求。",
         "comment": "回音壁正从配件升级为客厅音频核心。",
         "image": "",
         "score": 90
       },
       {
         "category": "数码科技",
-        "tag": "iPhone",
+        "tag": "iPhone Duo",
         "title": "首发体验：2万iPhone Duo指挥8万Mac Studio",
         "link": "https://www.ifanr.com/1685170?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿首发体验用2万元iPhone Duo远程指挥8万元Mac Studio干活，作者称体验很爽，并引导关注其公众号获取更多内容。",
-        "comment": "高价设备联动更像炫技，实用价值待验证。",
+        "summary": "爱范儿首发体验用2万元iPhone Duo远程指挥8万元Mac Studio干活，作者称体验很爽，并引导关注其公众号。",
+        "comment": "高价设备联动更像炫技，实用性待验证。",
         "image": "",
         "score": 89
       }
