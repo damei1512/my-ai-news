@@ -4,71 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "Anthropic推AI安全法案：或可致50人以上死亡即拦模型",
-        "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-        "summary": "Anthropic提出AI安全法案，称可防AI失控，实则要求联邦机构须经法官许可才能阻止模型发布。",
-        "comment": "安全名义下，司法前置或成监管掣肘。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "ChatGPT",
-        "title": "OpenAI案例：加盟商用ChatGPT Work大幅提效",
+        "title": "OpenAI案例：加盟商用ChatGPT Work大幅缩短对账时间",
         "link": "https://openai.com/index/ted-taylor-restaurant",
-        "summary": "独立加盟商Ted Taylor借助ChatGPT Work将菜单调价时间缩短95%，现金对账时间减少94%，并搭建可释放10万美元现金流的工作流。",
-        "comment": "AI落地餐饮后台，降本增效可量化。",
+        "summary": "一位独立经营Schlotzsky's和Cinnabon的加盟商借助ChatGPT Work，将菜单调价时间缩短95%，对账时间减少94%，并搭建出可释放10万美元现金流的工作流。",
+        "comment": "AI落地餐饮后台运营，降本增效可量化。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Terminal X用GPT-6.1评估投资，与资深投资人判断一致率88.6%",
-        "link": "https://openai.com/index/terminal-x",
-        "summary": "Terminal X的Eval Agent按54项标准评分，借助GPT-6.1 Sol识别出比基金要求多25%的偏差，与资深投资人判断一致率达88.6%。",
-        "comment": "AI评估投资判断逼近人类专家，合规审查或率先被重塑。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI收购Orchestra Bio，将AI运营引入生命科学研发",
-        "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-        "summary": "OpenAI宣布收购Orchestra Bio，把AI驱动的运营能力引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法。",
-        "comment": "AI巨头向药物研发纵深扩张，行业整合加速。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic云合作陷困境：算力难求且伙伴变对手",
-        "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-        "summary": "Anthropic据称难以从云厂商获得足够算力，这些厂商日益将其视为竞争对手，而其基础设施支出正大幅膨胀。",
-        "comment": "云厂商既供算力又做竞品，Anthropic的算力困局难解。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "SpaceX",
-        "title": "SpaceX第三季度扭亏为盈，AI业务成增长引擎",
-        "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-        "summary": "SpaceX第三季度实现盈利，净利润44亿美元，AI业务成为主要驱动力，表现超出预期。",
-        "comment": "航天公司靠AI赚钱，跨界竞争值得关注。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI收购Orchestra Bio，强化生物科技业务",
-        "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-        "summary": "OpenAI宣布将Orchestra团队与技术并入生命科学研究模型Rosalind及配套工具Rosalind Workbench，以加强其生物科技布局。",
-        "comment": "AI巨头正把生命科学当作下一块必争之地。",
+        "tag": "AI安全",
+        "title": "Anthropic推AI安全法案：或可阻止致50人以上死亡模型",
+        "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "summary": "Anthropic提出AI安全法案，称可防范AI失控，但实际要求联邦机构须经法官许可才能阻止模型发布。",
+        "comment": "安全名义下的司法门槛，或削弱监管效率。",
         "image": "",
         "score": 99
       },
@@ -77,40 +27,20 @@
         "tag": "人工智能",
         "title": "Hugging Face CEO 指 Netflix OpenAI 纪录片失实",
         "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-        "summary": "Hugging Face 联合创始人 Clem Delangue 称，Netflix 纪录片《AI Gone Rogue》渲染末日论调、内容不准确，提醒观众分享前先核实。",
+        "summary": "Hugging Face 联合创始人 Clem Delangue 称，Netflix 纪录片《AI Gone Rogue》过度渲染末日论，内容不准确，提醒观众勿轻信转发。",
         "comment": "AI 叙事被戏剧化，行业当事人出面纠偏值得关注。",
         "image": "",
-        "score": 98
+        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "VAST",
-        "title": "VAST开源从一句话到可玩世界的完整链路",
+        "title": "VAST开源从一句话生成可玩世界的完整链路",
         "link": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "VAST将规则交由交互系统、画面交由模型，开源从一句话生成可玩世界的整条链路，降低互动内容创作门槛。",
-        "comment": "开源整条生成链路，比单点模型更有生态价值。",
+        "comment": "开源全链路，互动内容生产门槛明显下探。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "MemT 1.0开源：记忆原生破局养成系AI",
-        "link": "https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "MemT 1.0开源，提出记忆原生新解法，瞄准养成系AI下半场，试图以记忆机制突破现有AI交互局限。",
-        "comment": "记忆原生能否落地，关键看工程化与真实场景验证。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "特斯拉",
-        "title": "特斯拉飞行车争议：科学家称其“放屁车”，FAA称不符合航空器定义",
-        "link": "https://www.ifanr.com/1684938?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "特斯拉飞行车只能飞5秒引发争议，科学家嘲讽其为“放屁车”，联邦航空局表示不符合航空器定义，马斯克回应带调侃。",
-        "comment": "飞行5秒的飞行车更像营销噱头，监管定性已说明问题。",
-        "image": "",
-        "score": 90
       }
     ]
   }
