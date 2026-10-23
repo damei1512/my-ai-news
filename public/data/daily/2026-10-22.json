@@ -5,10 +5,20 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI拟IPO前融资300亿美元，估值1.25万亿",
+        "title": "OpenAI拟IPO前融资300亿美元，估值达1.25万亿",
         "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-        "summary": "OpenAI正筹备300亿美元新融资，估值达1.25万亿美元，并计划IPO。若达成，将刷新纪录，成为史上估值最高的私营公司。",
-        "comment": "万亿估值押注IPO，AI泡沫与野心同高。",
+        "summary": "OpenAI正筹备300亿美元新融资，估值1.25万亿美元，并计划IPO。若达成，将刷新纪录，成为史上估值最高的私营公司。",
+        "comment": "万亿估值加IPO预期，AI资本泡沫与野心同现。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "微软",
+        "title": "微软AI疑难病例诊断表现超越医生",
+        "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+        "summary": "微软新AI诊断系统在《科学》研究中于疑难病例上胜过全科医生，但提升主要来自底层AI模型。",
+        "comment": "模型能力提升不等于临床落地，需谨慎看待。",
         "image": "",
         "score": 100
       },
@@ -17,8 +27,8 @@
         "tag": "网络安全",
         "title": "微软指控中国关联黑客借AI代理攻击ConnectWise数千客户",
         "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-        "summary": "微软称，与中国关联的黑客组织入侵IT巨头ConnectWise后，利用AI代理快速攻击其数千家客户企业，并实施间谍活动。",
-        "comment": "AI代理正把供应链攻击推向自动化、规模化。",
+        "summary": "微软称，与中国关联的黑客组织入侵IT巨头ConnectWise后，利用AI代理快速攻击其数千家客户企业并实施间谍活动。",
+        "comment": "AI代理正被武器化，供应链攻击风险陡增。",
         "image": "",
         "score": 100
       },
@@ -27,18 +37,18 @@
         "tag": "OpenAI",
         "title": "OpenAI推出Decisions API，提升应用响应速度",
         "link": "https://openai.com/index/decisions-api",
-        "summary": "OpenAI发布Decisions API，为各类应用提供快速、聚焦、低成本的决策能力，帮助开发者构建响应更快的应用。",
-        "comment": "决策能力API化，应用智能化门槛再降低。",
+        "summary": "OpenAI发布Decisions API，为各类应用提供快速、聚焦且低成本的决策能力，帮助开发者构建响应更快的应用。",
+        "comment": "决策API降低AI集成门槛，但实际效果待验证。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI解读前向部署工程的含义",
+        "title": "OpenAI解读FDE：前沿部署工程含义",
         "link": "https://openai.com/index/forward-deployed-engineering-means",
-        "summary": "OpenAI发文解释前向部署工程（FDE）在公司的具体含义，涉及工程团队如何贴近客户与业务场景落地AI能力。",
-        "comment": "OpenAI借FDE强调落地能力，AI竞争转向交付。",
+        "summary": "OpenAI发文解释前沿部署工程（FDE）在其内部的具体含义，涉及工程团队如何贴近客户与业务场景落地AI能力。",
+        "comment": "OpenAI借FDE释放信号：AI落地正从模型转向交付。",
         "image": "",
         "score": 100
       },
@@ -47,8 +57,8 @@
         "tag": "ChatGPT",
         "title": "Uber向3万员工全面部署ChatGPT Work",
         "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-        "summary": "Uber在OpenAI支持下向逾3万名员工推广ChatGPT Work，用于研究、数据分析、制作演示文稿及完成复杂工作流程。",
-        "comment": "企业级AI落地加速，规模化部署成新竞争点。",
+        "summary": "Uber在超3万名员工中推广ChatGPT Work，用于研究、数据分析、制作演示文稿及完成复杂工作流。",
+        "comment": "大企业AI落地从试点走向全员，示范效应明显。",
         "image": "",
         "score": 100
       },
@@ -58,7 +68,7 @@
         "title": "1Password推出AI代理代登录功能，无需查看密码",
         "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
         "summary": "1Password新功能允许AI代理登录用户个人账户，同时保护账户凭据不被代理看到，兼顾自动化与密码安全。",
-        "comment": "密码管理转向代理授权，安全边界需重新定义。",
+        "comment": "AI代理代登录的关键一步，但信任边界仍需验证。",
         "image": "",
         "score": 99
       },
@@ -67,18 +77,8 @@
         "tag": "OpenAI",
         "title": "OpenAI开放决策模型，与Jev竞争升温",
         "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-        "summary": "OpenAI将其决策模型向全球开放，直接对标原始Jev模型，决策模型赛道竞争加剧。",
-        "comment": "决策模型进入正面交锋，OpenAI意在抢占标准话语权。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "微软AI疑难病例诊断表现超普通医生",
-        "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-        "summary": "微软新AI诊断系统在《科学》研究中于疑难病例上优于普通医生，但提升主要来自底层AI模型。",
-        "comment": "模型能力提升不等于临床落地，需谨慎看待。",
+        "summary": "OpenAI将其决策模型向全球开放，直接对标Jev。决策模型赛道竞争加剧，OpenAI能否后来居上成为关注焦点。",
+        "comment": "决策模型竞争进入正面交锋，开放策略意在抢生态。",
         "image": "",
         "score": 99
       },
@@ -87,8 +87,8 @@
         "tag": "Uber",
         "title": "Uber向全部3万名员工部署ChatGPT Work",
         "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-        "summary": "Uber此前仅小范围试点ChatGPT Work，现将其推广至全公司3万名员工，成为企业级AI代理的大规模应用案例。",
-        "comment": "企业级AI代理从试点走向全员，落地速度值得关注。",
+        "summary": "Uber此前仅小范围试点ChatGPT Work，现将其推广至全公司3万名员工，成为企业级AI代理的大规模落地案例。",
+        "comment": "企业AI从试点走向全员，规模化落地提速。",
         "image": "",
         "score": 99
       },
@@ -98,7 +98,7 @@
         "title": "Spotify押注AI代理：成为代理首选的音乐服务",
         "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
         "summary": "Spotify联合CEO Söderström解释，AI代理兴起可能对音乐服务有利，Spotify正押注成为AI代理优先选择的音乐平台。",
-        "comment": "入口从人转向代理，音乐平台需重争分发权。",
+        "comment": "AI代理入口之争，音乐平台开始抢位。",
         "image": "",
         "score": 99
       },
@@ -107,7 +107,7 @@
         "tag": "Canva",
         "title": "Canva发布首个图像生成模型",
         "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-        "summary": "Canva推出自研图像生成模型并向所有用户开放，宣称性能更好、可定制性更强且成本更低。",
+        "summary": "Canva推出自研图像生成模型并向所有用户开放，主打更高质量、更强可定制性和更低成本。",
         "comment": "设计工具自研模型，意在降低对第三方依赖。",
         "image": "",
         "score": 98
@@ -115,91 +115,31 @@
       {
         "category": "数码科技",
         "tag": "PHP",
-        "title": "OpenAI发现PHP世纪漏洞，全球70%网站面临风险",
+        "title": "OpenAI发现PHP世纪漏洞，全球70%网站受影响",
         "link": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenAI披露PHP存在被称为世纪漏洞的安全问题，影响范围可能覆盖全球约70%的网站，具体细节尚未完全公开。",
-        "comment": "影响面极大，但需等待技术细节验证。",
+        "summary": "OpenAI披露PHP存在被称为世纪漏洞的高危安全问题，全球约70%网站可能受影响，具体细节与修复进展仍待公布。",
+        "comment": "漏洞影响面极大，需尽快确认修复方案。",
         "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "EA",
-        "title": "前工作室负责人称EA或出售BioWare IP以应对巨额债务",
-        "link": "https://www.gamespot.com/articles/ea-could-sell-bioware-ip-as-it-looks-to-tackle-its-massive-debt-former-boss-says/",
-        "summary": "EA宣布关闭《质量效应》《龙腾世纪》开发商BioWare，前工作室负责人称EA可能出售其IP以缓解巨额债务压力。",
-        "comment": "关闭工作室再卖IP，EA的债务自救代价由玩家承担。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Dragon-Age.jpg?w=300",
         "score": 93
       },
       {
         "category": "数码科技",
         "tag": "PHP",
-        "title": "PHP爆雷引发全球紧急拔网线，AI难救互联网",
+        "title": "PHP爆雷引发全球紧急拔网线",
         "link": "https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "PHP安全漏洞致网站被攻破，数据、密码和令牌可能泄露，全球紧急应对，AI无法替代基础安全防护。",
-        "comment": "基础软件漏洞比AI神话更值得警惕。",
+        "summary": "PHP安全漏洞遭大规模利用，网站被攻破后数据、密码和令牌均可能泄露，全球紧急应对。",
+        "comment": "基础软件漏洞比AI更现实，安全欠账终须还。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "赛博朋克2",
-        "title": "《赛博朋克2》副总监称半数任务团队来自模组作者",
-        "link": "https://www.ign.com/articles/cyberpunk-2-associate-director-says-half-of-games-quest-team-are-former-modders",
-        "summary": "《赛博朋克2》副游戏总监Pawel Sasko透露，游戏任务团队中约一半成员曾是模组作者，后被CD Projekt Red招募参与开发。",
-        "comment": "模组社区成人才库，折射游戏业用人新路径。",
-        "image": "https://assets-prd.ignimgs.com/2025/11/26/ss-b20689e73e3ac19bcc5fad2c18d0353c769de144-1920x1080-1764175642324.jpg",
-        "score": 92
+        "score": 93
       },
       {
         "category": "游戏影视",
         "tag": "游戏",
         "title": "BioWare关闭后 质量效应精神续作Exodus新画面曝光",
         "link": "https://www.gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look/",
-        "summary": "EA关闭BioWare并终止质量效应5开发后，由前BioWare成员创立的Archetype Entertainment公布了精神续作Exodus的新画面。",
-        "comment": "老班底另起炉灶，能否接住质量效应的衣钵值得观察。",
+        "summary": "EA关闭BioWare并终止质量效应5开发后，前BioWare成员创立的Archetype Entertainment公布精神续作Exodus新画面。",
+        "comment": "老班底接棒，能否延续经典仍待观察。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/10/NewJun.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6新电视预告片曝光，内容略有不同",
-        "link": "https://www.gamespot.com/articles/gta-6s-new-tv-trailer-is-a-bit-different-see-it-for-yourself/",
-        "summary": "GTA 6营销力度明显加大，新电视广告被眼尖玩家发现包含额外内容，与以往预告片有所不同。",
-        "comment": "营销升温说明发售临近，细节差异值得玩家细究。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01-1.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "质量效应",
-        "title": "泄露的《质量效应5》预告片令人心碎",
-        "link": "https://www.gamespot.com/articles/the-leaked-mass-effect-5-trailer-is-absolutely-heartbreaking/",
-        "summary": "EA关闭BioWare后，泄露的《质量效应5》预告片流出，令《质量效应》与《龙腾世纪》粉丝倍感惋惜。",
-        "comment": "工作室关闭叠加预告泄露，经典IP前景更显黯淡。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ME5Asari.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "半条命3",
-        "title": "玩家猜测Valve意外确认《半条命3》",
-        "link": "https://www.gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3/",
-        "summary": "Valve开发者在提及代号HLX的项目后，玩家猜测这可能意外证实新《半条命》游戏存在，相关讨论迅速升温。",
-        "comment": "代号线索难成实锤，官方沉默才是关键。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/HL.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "战争机器",
-        "title": "《战争机器：E-Day》据称耗资5亿美元开发",
-        "link": "https://www.gamespot.com/articles/gears-of-war-e-day-cost-half-a-billion-to-make-apparently/",
-        "summary": "多家媒体报道称《战争机器：E-Day》预算达5亿美元，Kotaku与The Game Business的Chris Dring同日发布相关消息。",
-        "comment": "5亿美元预算若属实，将刷新3A游戏成本纪录。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/EDay_7cc033.jpg?w=300",
         "score": 92
       },
       {
@@ -215,72 +155,22 @@
       {
         "category": "数码科技",
         "tag": "iPhone Duo",
-        "title": "首发体验：iPhone Duo 一周使用全记录",
+        "title": "iPhone Duo 一周使用体验：天马行空又脚踏实地",
         "link": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿首发实测 iPhone Duo 一周，评价其产品哲学兼具天马行空与脚踏实地，并汇总用户关心的核心体验。",
-        "comment": "首发实测有参考价值，但结论仍需更多用户验证。",
+        "summary": "爱范儿首发 iPhone Duo 一周使用体验，称其产品哲学在天马行空与脚踏实地之间，并引导关注公众号获取更多内容。",
+        "comment": "标题有悬念，但摘要偏宣传，实质信息有限。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "EA裁员",
-        "title": "EA裁员波及Skate，GameSpot作者表达担忧",
-        "link": "https://www.gamespot.com/articles/im-getting-very-worried-about-skate-following-ea-layoffs/",
-        "summary": "EA近期裁撤400个岗位，并关闭BioWare，Skate项目也受波及。GameSpot作者对该游戏前景表示担忧。",
-        "comment": "裁员连锁反应显现，Skate开发稳定性存疑。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/skate-image.jpg?w=300",
-        "score": 91
+        "score": 90
       },
       {
         "category": "数码科技",
-        "tag": "iPhone",
-        "title": "早报：iPhone Duo限购两台，雷军谈汽车安全",
+        "tag": "科技早报",
+        "title": "早报：iPhone Duo限购两台，雷军谈汽车安全，宝马员工离职潮",
         "link": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "PHP修复两个严重漏洞，攻击者可远程执行代码；三星、SK海力士升级中国工厂，拟转产更高层数NAND；Today AI累计融资超2亿美元，腾讯、蚂蚁等参投。",
-        "comment": "安全漏洞与AI融资并行，科技业风险与机会同在。",
+        "summary": "PHP紧急修复两个严重漏洞，攻击者可远程执行代码；三星、SK海力士升级中国工厂，拟转产更高层数NAND；Today AI累计融资超2亿美元，腾讯、蚂蚁等参投。",
+        "comment": "漏洞、产能、融资三线并进，科技业安全与竞争压力不减。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》测试藏有未公开秘密",
-        "link": "https://www.gamespot.com/articles/wow-forever-is-keeping-its-secrets-close-to-the-chest/",
-        "summary": "暴雪表示，尽管玩家已仔细搜索《魔兽世界：永恒》测试版，但游戏正式上线后仍有大量秘密等待发现。",
-        "comment": "暴雪刻意保留内容，意在延长探索周期。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/wowforeversecrets.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》应玩家需求新增RP-PvP服务器",
-        "link": "https://www.gamespot.com/articles/wow-forever-is-getting-a-new-server-option-by-popular-demand/",
-        "summary": "《魔兽世界：永恒》应玩家呼声，将在上线时新增第四种服务器规则：角色扮演对玩家对战（RP-PvP），暴雪已公布该消息。",
-        "comment": "玩家需求推动规则细化，经典服运营更贴近社区。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-RP-PvP-Server-Added.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "足球明星哈兰德在《使命召唤》中蹲点，玩家很恼火",
-        "link": "https://www.gamespot.com/articles/soccer-star-erling-haaland-is-a-call-of-duty-camper-and-i-really-hate-it/",
-        "summary": "GameSpot作者吐槽：足球明星哈兰德在《使命召唤》中当蹲点玩家，击杀回放显示他藏身暗处偷袭，令人抓狂。",
-        "comment": "名人玩家蹲点，娱乐话题大于游戏本身。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/eh-image.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "也门冲突",
-        "title": "也门冲突加剧饥荒，新生双胞胎挣扎求生",
-        "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-        "summary": "也门政府军与胡塞武装交战，拉加德和拉德一家徒步逃离家园，新生双胞胎在饥饿危机中挣扎求生。",
-        "comment": "战争叠加饥荒，平民尤其是婴幼儿付出最惨痛代价。",
-        "image": "",
-        "score": 87
       }
     ]
   }
