@@ -3,6 +3,26 @@
     "week": "周六",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "AI模型",
+        "title": "研究：Grok倾向推荐共和党，OpenAI的GPT倾向民主党",
+        "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+        "summary": "一项新研究发现，在近500次被迫二选一的测试中，Grok压倒性推荐共和党候选人，OpenAI的GPT则偏向民主党，两者分歧超过90%。",
+        "comment": "模型政治偏好差异明显，凸显训练数据与对齐策略影响。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI智能体",
+        "title": "盘点可驻留短信的AI智能体",
+        "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "summary": "TechCrunch梳理了多款可驻留短信的AI智能体，涵盖通用助手及面向家庭、旅行和工作的专用代理。",
+        "comment": "短信入口成AI代理新战场，场景细分是看点。",
+        "image": "",
+        "score": 98
+      },
+      {
         "category": "游戏影视",
         "tag": "黎明杀机",
         "title": "《黎明杀机》将下架恰吉内容，此前刚失去迈克尔·迈尔斯",
@@ -17,8 +37,8 @@
         "tag": "漫威",
         "title": "漫威《复仇者联盟：末日》借世界大赛推棒球主题预告",
         "link": "https://www.ign.com/articles/avengers-doomsday-promoted-with-baseball-themed-crossover-featuring-mlb-players-during-world-series",
-        "summary": "漫威影业在2026年世界大赛首战期间投放《复仇者联盟：末日》特别预告，联合MLB球员打造棒球主题跨界宣传，借体育赛事扩大曝光。",
-        "comment": "影视借体育赛事营销，跨界曝光思路清晰。",
+        "summary": "漫威影业在2026年世界大赛首战期间投放《复仇者联盟：末日》特别预告，由MLB球员出演棒球主题联动广告，福克斯转播。",
+        "comment": "借体育大赛破圈营销，漫威在押注跨圈层曝光。",
         "image": "https://assets-prd.ignimgs.com/2026/10/24/image-3-1792801727507.png",
         "score": 92
       },
@@ -27,30 +47,50 @@
         "tag": "DC",
         "title": "亚伦·保尔客串DC新片《泥面人》",
         "link": "https://www.ign.com/articles/aaron-paul-clayface-cameo-dc",
-        "summary": "艾美奖三冠得主亚伦·保尔在DC新片《泥面人》中短暂客串，导演詹姆斯·沃特金斯解释选用这位《绝命毒师》演员的原因。",
+        "summary": "三届艾美奖得主亚伦·保尔在DC新片《泥面人》中短暂客串，导演詹姆斯·瓦特金斯解释选用原因。",
         "comment": "彩蛋式客串，为DC新片添话题。",
         "image": "https://assets-prd.ignimgs.com/2026/10/22/blogroll-2-6-1792673659287.png",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "iPhone Duo",
+        "tag": "微信",
         "title": "iPhone Duo 支持微信平板登录，可与手机电脑同时在线",
         "link": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，iPhone Duo 已支持微信平板登录，用户可在该设备上与手机、电脑同时保持在线，多端并行使用更便利。",
-        "comment": "多端在线补齐体验，但需确认稳定性和覆盖范围。",
+        "summary": "爱范儿报道，iPhone Duo 已支持微信平板登录，可与手机、电脑同时在线，多设备登录体验进一步打通。",
+        "comment": "多端同时在线是微信生态的关键一步。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "Kimi",
-        "title": "实测Kimi K3.1 Pro：国产大模型继续卷旗舰",
+        "title": "实测Kimi K3.1 Pro：国产模型再卷旗舰",
         "link": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测Kimi K3.1 Pro，认为这款国产旗舰模型延续了Kimi大而美的特点，显示国产大模型仍在旗舰层面持续竞争。",
-        "comment": "国产大模型旗舰竞争未停，实测比参数更有说服力。",
+        "summary": "爱范儿实测Kimi K3.1 Pro，认为国产大模型重新发力旗舰级竞争，Kimi回归大而美路线。",
+        "comment": "国产大模型旗舰竞争重启，实测比口号更有说服力。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "动漫",
+        "title": "IGN推荐今秋值得观看的12部动漫",
+        "link": "https://www.ign.com/articles/new-anime-to-watch-in-fall-2006",
+        "summary": "IGN盘点今秋新番与回归动画，涵盖重返夜之城、传奇铁匠及奇异竞速等题材，列出值得关注的12部作品。",
+        "comment": "片单覆盖多元题材，可作为秋季追番参考。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/22/newanimefall26-oo-1792630117402.jpg",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "宾利",
+        "title": "史上最快宾利竟是一辆SUV",
+        "link": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "宾利推出史上最快车型，却是一辆SUV，被形容为精装版纯电卡宴，凸显豪华品牌电动化与性能化趋势。",
+        "comment": "豪华品牌电动化提速，性能标签正被SUV重新定义。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "数码科技",
@@ -67,8 +107,18 @@
         "tag": "微信",
         "title": "早报：微信初步适配iPhone Duo，全球PC出货下降21%",
         "link": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微信初步适配iPhone Duo但仍不能平板登录；全球PC出货下降21%；何刚出任华为董事。另有黄仁勋谈长鑫合作、沃尔沃拟裁员等消息。",
-        "comment": "微信适配新设备却留功能缺口，PC市场寒意明显。",
+        "summary": "微信初步适配iPhone Duo但仍不能平板登录；全球PC出货下降21%；何刚出任华为董事。另有黄仁勋谈长鑫合作、沃尔沃拟裁员约2500人、华为Pura90 Plus开启预订。",
+        "comment": "多线消息密集，PC下滑与人事变动更值得关注。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "核周报10.24：使命召唤新作口碑创十年新高",
+        "link": "https://www.gcores.com/radios/221016",
+        "summary": "本期核周报盘点本周游戏影视要闻：《使命召唤：现代战争4》战役提前解锁，Steam好评率创系列十年新高；GTA6最终预告48小时播放超4600万；EA关闭BioWare，育碧拟关闭RedLynx；《黎明行者之血》将推1.1版本；《赛博朋克：边缘行者2》上线。",
+        "comment": "一周资讯密集，大厂收缩与爆款口碑并存。",
         "image": "",
         "score": 90
       },
@@ -77,8 +127,8 @@
         "tag": "独立游戏",
         "title": "机核专访《无比坚硬：荒原骑士》制作人",
         "link": "https://www.gcores.com/articles/221426",
-        "summary": "独立游戏《无比坚硬：荒原骑士》凭抽象预告片在B站走红，机核专访制作人，聊其癫狂视效、解构风格与创作思路。",
-        "comment": "抽象外壳下藏着独立表达的倔强，值得一读。",
+        "summary": "独立游戏《无比坚硬：荒原骑士》凭抽象预告片在B站走红，机核专访制作人，聊视效风格、创作理念与开发幕后。",
+        "comment": "抽象风格是流量入口，能否撑起完整作品仍待验证。",
         "image": "",
         "score": 89
       },
@@ -87,28 +137,28 @@
         "tag": "核聚变",
         "title": "核聚变游戏节北京站Steam线上展示会开启",
         "link": "https://www.gcores.com/articles/221408",
-        "summary": "机核核聚变游戏嘉年华北京站开幕，同步在Steam开启线上展示会，可在家了解超140款参展游戏，部分作品公布发售日期。",
-        "comment": "线上补位线下，独立游戏曝光多一条路。",
+        "summary": "机核核聚变游戏嘉年华北京站开幕，同步在Steam开启线上展示会，可在家了解超140款参展游戏阵容，部分作品公布发售日期。",
+        "comment": "线上补位线下，展会影响力借Steam放大。",
         "image": "",
         "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "3D动作肉鸽新游《零境·入侵》亮相2026核聚变北京站",
+        "link": "https://www.gcores.com/articles/221436",
+        "summary": "绿洲工作室旗下Streetlamp Studio研发的3D横版动作肉鸽游戏《零境·入侵》确认参展2026核聚变北京站，展位位于TapTap独立游戏区D09，玩家可现场试玩并添加愿望单。",
+        "comment": "独立动作肉鸽参展，试玩是检验手感的关键窗口。",
+        "image": "",
+        "score": 88
       },
       {
         "category": "游戏影视",
         "tag": "古墓丽影",
         "title": "八位堂推《古墓丽影》三十周年联名手柄",
         "link": "https://www.gcores.com/articles/221429",
-        "summary": "八位堂发布两款《古墓丽影》三十周年联名纪念手柄，全球上市，致敬劳拉三十年探索历程。",
-        "comment": "联名手柄卖的是情怀，设计诚意决定玩家买不买账。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏活动",
-        "title": "GGG游戏节奏联欢夜入场指引发布",
-        "link": "https://www.gcores.com/articles/221424",
-        "summary": "GGG游戏节奏联欢夜将于10月24日、25日晚7点在首钢园瓦肆VAS举行，主办方发布从核聚变现场步行前往的交通导览图。",
-        "comment": "活动与核聚变同园区联动，动线设计贴心。",
+        "summary": "八位堂推出两款《古墓丽影》三十周年联名纪念手柄，10月24日全球上市，致敬劳拉三十年探索历程。",
+        "comment": "情怀联名，设计还原度决定玩家买不买账。",
         "image": "",
         "score": 88
       },
@@ -117,28 +167,48 @@
         "tag": "核聚变",
         "title": "核聚变2026北京站云逛展指南发布",
         "link": "https://www.gcores.com/articles/221398",
-        "summary": "机核发布核聚变2026北京站云逛展指南，为无法到场的玩家提供线上参与方式，舞台活动由核电波主持并在B站直播。",
-        "comment": "线上逛展降低参与门槛，但现场体验仍难替代。",
+        "summary": "机核发布核聚变游戏嘉年华2026北京站云逛展指南，无法到场的玩家可通过B站核电波、机核GCORES账号观看舞台直播，线上感受现场氛围。",
+        "comment": "线上直播补位，让展会不再受地域限制。",
         "image": "",
         "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏活动",
+        "title": "GGG游戏节奏联欢夜入场指引发布",
+        "link": "https://www.gcores.com/articles/221424",
+        "summary": "GGG游戏节奏联欢夜将于10月24日、25日晚7点在北京首钢园瓦肆VAS举行，主办方发布从核聚变现场步行前往的交通导览图，方便观众晚间到场。",
+        "comment": "活动衔接核聚变，导览图实用但信息偏服务性。",
+        "image": "",
+        "score": 87
       },
       {
         "category": "时事热点",
         "tag": "埃博拉",
         "title": "肯尼亚出现第二例埃博拉死亡病例",
         "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-        "summary": "一名65岁女性因埃博拉去世，她是首例患者的近亲；首例患者曾从刚果民主共和国旅行至肯尼亚。",
-        "comment": "家庭传播链显现，肯尼亚输入防控压力上升。",
+        "summary": "一名65岁女性死于埃博拉，她是首例患者的近亲；首例患者曾从刚果民主共和国旅行至肯尼亚。",
+        "comment": "家庭传播链已现，肯尼亚输入防控承压。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "美国关税",
-        "title": "白宫中期选举前调整对加拿大商品关税",
-        "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-        "summary": "白宫宣布自10月30日起放宽部分加拿大商品关税，涉及特定机械，同时对地毯等商品加征关税。",
-        "comment": "选举临近，关税调整更像政治操作而非贸易逻辑。",
+        "tag": "星链",
+        "title": "乌克兰称星链连接在限速后已恢复稳定",
+        "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+        "summary": "乌克兰表示，此前持续一周的星链限速已影响其军事和无人机行动，目前连接已恢复稳定。",
+        "comment": "星链稳定性直接关系乌军作战能力，值得持续关注。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "德国",
+        "title": "希特勒山顶鹰巢发生火灾 一人被捕",
+        "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+        "summary": "德国纳粹独裁者希特勒的阿尔卑斯山鹰巢发生火灾，约200名应急人员参与灭火，警方已逮捕一名嫌疑人。",
+        "comment": "历史敏感地标失火，调查需透明以回应公众关切。",
         "image": "",
         "score": 86
       },
@@ -148,49 +218,49 @@
         "title": "澳大利亚议员疑遭汽车袭击后伤情好转",
         "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
         "summary": "墨尔本医院称，这名独立议员目前伤势严重但情况稳定，此前疑似遭遇汽车袭击。",
-        "comment": "政治人物遇袭需警惕安全风险外溢。",
+        "comment": "政治人物遇袭须彻查，安全风险不容低估。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "乌克兰",
-        "title": "白宫称梅拉尼娅促成乌克兰城市停火",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰与俄罗斯确认在俄占奥列什基达成停火，当地居民此前靠吃野菜维生，白宫称梅拉尼娅参与斡旋。",
-        "comment": "第一夫人介入战地停火，象征意义大于实质。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "德国",
-        "title": "希特勒山顶鹰巢发生火灾 一人被捕",
-        "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-        "summary": "德国纳粹独裁者希特勒的阿尔卑斯山鹰巢发生火灾，约200名应急人员参与灭火，警方已逮捕一人。",
-        "comment": "历史敏感地标失火，调查需透明以回应关注。",
+        "tag": "美加贸易",
+        "title": "白宫中期选举前调整对加拿大商品关税",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "summary": "白宫宣布自10月30日起放宽部分加拿大商品关税，涉及特定机械，同时对地毯等商品加征关税。",
+        "comment": "中期选举临近，关税调整更像政治操作而非贸易考量。",
         "image": "",
         "score": 85
       },
       {
         "category": "时事热点",
-        "tag": "肯尼亚",
-        "title": "肯尼亚首都一在建多层建筑倒塌，七人失踪",
-        "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-        "summary": "肯尼亚首都内罗毕一栋在建多层建筑发生倒塌，救援人员正在搜寻被困人员，目前有七人失踪。",
-        "comment": "在建建筑倒塌再敲施工安全警钟。",
+        "tag": "巴哈马",
+        "title": "英国女子在巴哈马为救被海浪卷走的儿子身亡",
+        "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+        "summary": "巴哈马警方称，一名英国女子试图营救被海浪卷走的儿子时不幸身亡，孩子们随后被救起。",
+        "comment": "母爱本能令人动容，海边安全警示不可忽视。",
         "image": "",
-        "score": 85
+        "score": 84
       },
       {
         "category": "时事热点",
-        "tag": "美国移民执法",
-        "title": "特朗普前边境巡逻主管称明尼阿波利斯撤军是投降",
-        "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
-        "summary": "特朗普政府时期边境巡逻主管博维诺向BBC表示，明尼阿波利斯撤出移民执法行动等同于投降，他此前是该争议行动公众代表。",
-        "comment": "执法强硬派公开批评撤军，暴露移民政策内部分歧。",
+        "tag": "爱尔兰",
+        "title": "爱尔兰致命纵火案三人获释",
+        "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+        "summary": "爱尔兰警方称，致命纵火袭击后，两名女性和一名男性已被释放且未遭起诉，另有一人仍被拘留。",
+        "comment": "案件仍在侦办，释放不等于排除嫌疑。",
         "image": "",
-        "score": 85
+        "score": 83
+      },
+      {
+        "category": "时事热点",
+        "tag": "健康",
+        "title": "凡妮莎·特朗普宣布癌症康复",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+        "summary": "小唐纳德·特朗普前妻凡妮莎今年5月公开确诊乳腺癌，近日表示经过治疗已无癌，她与男方育有五名子女。",
+        "comment": "名人抗癌进展受关注，但公共价值有限。",
+        "image": "",
+        "score": 82
       }
     ]
   }

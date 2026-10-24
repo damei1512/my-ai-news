@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI拟在IPO前融资300亿美元，估值达1.25万亿美元",
+        "title": "OpenAI拟IPO前融资300亿美元，估值1.25万亿",
         "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-        "summary": "OpenAI正筹备新一轮300亿美元融资，估值或达1.25万亿美元，并计划在IPO前完成。若成行，将刷新纪录，成为史上估值最高的私营公司。",
-        "comment": "天量估值叠加IPO预期，AI资本泡沫争议再起。",
+        "summary": "OpenAI正筹备新一轮300亿美元融资，估值达1.25万亿美元，并计划在IPO前完成。若成真，将刷新纪录，成为史上估值最高的私营公司。",
+        "comment": "万亿估值押注IPO，AI泡沫与野心同高。",
         "image": "",
         "score": 100
       },
@@ -18,7 +18,7 @@
         "title": "OpenAI推出Decisions API，提升应用响应速度",
         "link": "https://openai.com/index/decisions-api",
         "summary": "OpenAI发布Decisions API，为各类应用提供快速、专注且低成本的决策能力，帮助开发者构建响应更快的应用。",
-        "comment": "API化决策能力，降低AI应用门槛，但实际效果待验证。",
+        "comment": "决策API降低AI集成门槛，但实际效果待验证。",
         "image": "",
         "score": 100
       },
@@ -28,7 +28,7 @@
         "title": "OpenAI解读FDE：前沿部署工程的含义",
         "link": "https://openai.com/index/forward-deployed-engineering-means",
         "summary": "OpenAI发文解释前沿部署工程（FDE）在公司的具体含义，涉及工程团队如何贴近客户与业务场景落地AI能力。",
-        "comment": "OpenAI借FDE强调落地能力，AI竞争正转向交付。",
+        "comment": "大模型公司正把交付能力当作竞争壁垒。",
         "image": "",
         "score": 100
       },
@@ -37,88 +37,58 @@
         "tag": "ChatGPT",
         "title": "Uber向3万员工全面部署ChatGPT Work",
         "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-        "summary": "Uber在OpenAI支持下向超3万名员工推广ChatGPT Work，用于研究、数据分析、制作演示文稿及完成复杂工作流。",
-        "comment": "企业级AI落地从试点走向全员，信号意义强。",
+        "summary": "Uber与OpenAI合作，向超3万名员工推广ChatGPT Work，用于研究、数据分析、制作演示文稿及完成复杂工作流程。",
+        "comment": "企业级AI落地从试点走向全员，示范效应明显。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "1Password",
-        "title": "1Password推出AI代理代登录功能，无需查看密码",
+        "title": "1Password推出AI代理代登录功能，无需查看用户密码",
         "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-        "summary": "1Password新功能允许AI代理代替用户登录个人账户，同时不暴露账户密码等私密凭证，兼顾自动化与安全。",
-        "comment": "AI代登录的关键一步，但权限边界仍需验证。",
+        "summary": "1Password新功能允许AI代理登录用户个人账户，同时保护账户凭证不被代理看到，兼顾自动化与密码安全。",
+        "comment": "AI代理代登录的关键一步，权限隔离思路值得关注。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI开放决策模型，与Jev竞争升温",
+        "title": "OpenAI向全球开放决策模型，与Jev展开竞争",
         "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-        "summary": "OpenAI将其决策模型向全球开放，直接对标Jev。决策模型赛道竞争加剧，OpenAI能否后来居上成为关注焦点。",
-        "comment": "决策模型竞争进入正面交锋，开放策略意在抢生态。",
+        "summary": "OpenAI将其决策模型向全球开放，直接对标Jev，决策模型赛道竞争升温。",
+        "comment": "决策模型竞争进入正面交锋阶段。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "微软AI疑难病例诊断表现超普通医生",
-        "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-        "summary": "微软新AI诊断系统在《科学》研究中于疑难病例上胜过普通医生，但提升主要来自底层AI模型。",
-        "comment": "模型能力提升不等于临床落地，需谨慎看待。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Canva",
-        "title": "Canva发布首个图像生成模型",
-        "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-        "summary": "Canva推出自研图像生成模型并向所有用户开放，主打更高质量、更强可定制性与更低成本。",
-        "comment": "设计工具自研模型，意在降低对第三方依赖。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "数码科技",
-        "tag": "PHP",
-        "title": "OpenAI发现PHP世纪漏洞，全球70%网站面临风险",
-        "link": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "OpenAI披露PHP存在被称“世纪漏洞”的高危安全问题，可能影响全球约70%的网站，具体细节与修复进展仍待披露。",
-        "comment": "影响面极大，关键看漏洞细节与修复速度。",
-        "image": "",
-        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "PHP",
         "title": "PHP爆雷引发全球紧急拔网线",
         "link": "https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "PHP安全漏洞遭大规模利用，网站被攻破后数据、密码和令牌均可能泄露，全球紧急应对。",
-        "comment": "基础组件出事，AI救不了互联网。",
+        "summary": "PHP安全漏洞致网站被攻破，数据、密码和令牌可能泄露，全球紧急应对，AI难解根本问题。",
+        "comment": "基础软件漏洞比AI更致命，安全债迟早要还。",
         "image": "",
         "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "PHP",
+        "title": "OpenAI发现PHP世纪漏洞，全球70%网站受影响",
+        "link": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道称OpenAI发现PHP存在被称为世纪漏洞的安全问题，可能影响全球约70%的网站，具体细节尚未在摘要中展开。",
+        "comment": "标题耸动，需核实漏洞细节与影响范围。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "仰望",
         "title": "仰望旗舰轿车将发布：对开门设计，或配固态电池",
         "link": "https://www.ifanr.com/1685489?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "仰望全新旗舰轿车即将发布，采用类似劳斯莱斯的对开门设计，并可能搭载固态电池，定位高端豪华市场。",
+        "summary": "仰望旗舰轿车即将发布，采用类似劳斯莱斯的对开门设计，并可能搭载固态电池，定位高端豪华市场。",
         "comment": "对开门加固态电池，仰望高端化再进一步。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "iPhone Duo",
-        "title": "首发体验：一周使用iPhone Duo全记录",
-        "link": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿用一周时间体验iPhone Duo，从实际使用出发，呈现这款产品在创新设计与日常实用之间的平衡。",
-        "comment": "首发体验有参考价值，但需更多实测数据支撑。",
         "image": "",
         "score": 91
       }
