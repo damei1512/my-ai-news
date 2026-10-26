@@ -4,11 +4,21 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "AI项目",
+        "title": "AI坟场：未能兑现的AI项目与初创公司清单",
+        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "summary": "TechCrunch汇总了已关停或未达预期的AI项目，包括苹果多次延期的Siri AI和OpenAI混乱的“超级应用”发布。",
+        "comment": "失败案例比成功故事更能揭示AI行业的真实风险。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
         "tag": "语音模型",
         "title": "Block发布新语音模型，可在MacBook本地运行",
         "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-        "summary": "Block推出新语音模型，据称声音高度逼真，且能在MacBook M4 Max上本地运行，无需依赖云端。",
-        "comment": "本地运行加拟真语音，隐私与体验兼得。",
+        "summary": "Block称其新语音模型音色逼真，接近真人，并能在MacBook M4 Max上本地运行，无需依赖云端。",
+        "comment": "本地运行是亮点，但逼真语音也带来滥用风险。",
         "image": "",
         "score": 99
       },
@@ -17,28 +27,18 @@
         "tag": "AI模型",
         "title": "研究：Grok倾向推荐共和党，OpenAI GPT倾向民主党",
         "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "summary": "一项新研究发现，在近500场对比中，Grok压倒性推荐共和党候选人，OpenAI的GPT则偏向民主党，两者分歧超过90%。",
-        "comment": "模型政治倾向差异被量化，AI中立性再受质疑。",
+        "summary": "一项新研究发现，在近500次被迫二选一的测试中，Grok压倒性推荐共和党候选人，OpenAI的GPT则偏向民主党，两者分歧超过90%。",
+        "comment": "模型政治偏好差异被量化，AI中立性再受质疑。",
         "image": "",
         "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI项目",
-        "title": "AI墓地：未能成功的AI项目与初创公司清单",
-        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "summary": "TechCrunch汇总了从苹果多次延期的Siri AI到OpenAI混乱的“超级应用”发布等已关停或未达预期的AI项目与初创公司。",
-        "comment": "失败案例比成功故事更能揭示AI行业的真实风险。",
-        "image": "",
-        "score": 98
       },
       {
         "category": "人工智能",
         "tag": "AI智能体",
         "title": "可驻留短信的AI智能体盘点",
         "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "summary": "TechCrunch梳理了多款可驻留短信的AI智能体，覆盖通用助手、家庭、旅行和工作场景，展示短信入口的AI应用趋势。",
-        "comment": "短信正成为AI智能体的新入口，值得关注。",
+        "summary": "TechCrunch梳理了能直接在短信中运行的AI智能体，涵盖通用助手及面向家庭、旅行和工作的专用代理。",
+        "comment": "短信入口争夺战升温，AI代理正从App转向原生通信。",
         "image": "",
         "score": 98
       },
@@ -47,8 +47,8 @@
         "tag": "微信",
         "title": "iPhone Duo 支持微信平板登录，可与手机电脑同时在线",
         "link": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，iPhone Duo 已支持微信平板登录，可与手机、电脑同时在线，多设备使用更灵活。",
-        "comment": "多端同时在线是微信生态的重要一步。",
+        "summary": "爱范儿报道，iPhone Duo 支持微信平板登录，可与手机、电脑同时在线，微信多设备在线能力进一步扩展。",
+        "comment": "多端同时在线是微信生态的关键一步，值得关注。",
         "image": "",
         "score": 91
       },
@@ -57,8 +57,8 @@
         "tag": "Kimi",
         "title": "实测Kimi K3.1 Pro：国产模型再卷旗舰",
         "link": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测Kimi K3.1 Pro，认为国产大模型重回旗舰竞争，Kimi延续大而美路线，性能表现值得关注。",
-        "comment": "国产大模型旗舰竞争重启，实测比参数更有说服力。",
+        "summary": "爱范儿实测Kimi K3.1 Pro，认为国产大模型继续在旗舰级产品上发力，Kimi回归大而美的路线。",
+        "comment": "国产大模型旗舰竞争仍未降温，实测比参数更有说服力。",
         "image": "",
         "score": 91
       },
@@ -67,38 +67,8 @@
         "tag": "宾利",
         "title": "史上最快宾利竟是一辆SUV",
         "link": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "宾利推出史上最快车型，却是一辆SUV，被形容为精装版纯电卡宴，凸显豪华品牌电动化与性能化趋势。",
-        "comment": "豪华品牌电动化，性能标签正被SUV重新定义。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "微信",
-        "title": "微信初步适配iPhone Duo，全球PC出货下降21%",
-        "link": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微信初步适配iPhone Duo但仍不能平板登录；全球PC出货下降21%；何刚出任华为董事。另有黄仁勋谈长鑫合作、沃尔沃拟裁员、华为Pura90 Plus开启预订。",
-        "comment": "微信适配新设备却留功能缺口，PC市场寒意明显。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "机核杂谈：AI统治游戏与行业动荡",
-        "link": "https://www.gcores.com/radios/221447",
-        "summary": "机核杂谈盘点《全境封锁2》国服停服、Xbox新客户端及BioWare关闭等消息，并围绕AI对游戏的影响展开激烈争论。",
-        "comment": "行业变动密集，AI议题争议大但讨论易失焦。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏资讯",
-        "title": "核周报10.24：使命召唤新作战役提前解锁",
-        "link": "https://www.gcores.com/radios/221016",
-        "summary": "本周要闻：使命召唤现代战争4战役提前解锁，Steam好评率创系列十年新高；GTA6最终预告48小时播放超4600万；EA关闭BioWare，育碧拟关闭RedLynx；黎明行者之血将推1.1版本。",
-        "comment": "一周游戏业大事密集，喜忧参半。",
+        "summary": "宾利推出史上最快车型，却是一辆SUV，被称精装版纯电卡宴，凸显豪华品牌电动化转型。",
+        "comment": "豪华品牌电动化，性能标签先给SUV。",
         "image": "",
         "score": 90
       },
@@ -107,30 +77,10 @@
         "tag": "Claude",
         "title": "开发者用Claude改造电视系统",
         "link": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "一位开发者将Claude接入电视系统，展示改造后系统发生的变化，并称进入大逆向时代。",
-        "comment": "AI改造硬件系统的探索值得关注。",
+        "summary": "一位开发者将Claude接入电视系统，展示AI改造传统设备的逆向实践，引发对智能电视系统可玩性的讨论。",
+        "comment": "AI改造硬件的民间探索值得关注。",
         "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "动作肉鸽",
-        "title": "3D动作肉鸽新游《零境·入侵》亮相核聚变北京站",
-        "link": "https://www.gcores.com/articles/221436",
-        "summary": "绿洲工作室旗下Streetlamp Studio研发的3D横版动作肉鸽游戏《零境·入侵》确认出展2026核聚变北京站，展位位于TapTap独立游戏区D09，玩家可现场试玩并添加愿望单。",
-        "comment": "独立动作肉鸽持续升温，线下试玩是验证手感的关键一步。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏周边",
-        "title": "八位堂推《古墓丽影》三十周年联名手柄",
-        "link": "https://www.gcores.com/articles/221429",
-        "summary": "八位堂发布两款《古墓丽影》三十周年联名纪念手柄，全球上市，致敬劳拉三十年探索历程，10月24日开售。",
-        "comment": "情怀联名，设计还原度决定玩家是否买单。",
-        "image": "",
-        "score": 88
+        "score": 90
       }
     ]
   }
