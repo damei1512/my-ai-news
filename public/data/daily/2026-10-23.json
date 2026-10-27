@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI详解支撑10亿ChatGPT用户的存储扩展",
+        "title": "OpenAI详解支撑10亿ChatGPT用户的存储扩展方案",
         "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-        "summary": "OpenAI介绍Habitat存储系统如何通过多租户、全局缓存与Azure Cosmos DB实现扩展，使ChatGPT读取速度提升12倍。",
-        "comment": "存储架构是ChatGPT规模化的隐形底座。",
+        "summary": "OpenAI介绍如何通过可靠多租户、全局缓存和Azure Cosmos DB扩展Habitat存储系统，使ChatGPT读取速度提升12倍。",
+        "comment": "存储架构细节公开，对大规模AI服务有参考价值。",
         "image": "",
         "score": 100
       },
@@ -17,30 +17,20 @@
         "tag": "OpenAI",
         "title": "OpenAI强化前沿模型训练环境安全",
         "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "summary": "OpenAI介绍如何加强前沿模型训练与评估的隔离防护，包括离线环境和高算力红队测试，以降低模型失控与滥用风险。",
-        "comment": "前沿模型安全从训练环境隔离抓起，方向务实。",
+        "summary": "OpenAI说明如何加强前沿模型训练与评估的隔离防护，涵盖离线环境与高算力红队测试。",
+        "comment": "前沿模型安全从训练环境隔离抓起，方向对但细节仍有限。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI安全",
+        "tag": "OpenAI",
         "title": "OpenAI与波兰NASK合作推进AI安全",
         "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "summary": "OpenAI与波兰NASK达成合作，聚焦AI安全、安保与技术研究，以强化防护措施并支持更具韧性的数字生态。",
-        "comment": "政府机构与AI厂商共建安全护栏，欧洲监管合作再进一步。",
+        "summary": "OpenAI与波兰NASK宣布合作，聚焦AI安全、安保与技术研究，以强化防护措施并支持更具韧性的数字生态。",
+        "comment": "AI安全治理正从企业自律转向跨国机构协作。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "使命召唤：现代战争4首发DLC上线，致敬重伤士兵",
-        "link": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries/",
-        "summary": "《使命召唤：现代战争4》10月23日发售，首日DLC同步上线，内容致敬一位在服役中受重伤的真实士兵。",
-        "comment": "首日DLC加真实士兵致敬，商业与情怀并行。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/kyle.png?w=300",
-        "score": 90
       }
     ]
   }
