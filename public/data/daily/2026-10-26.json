@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "SpaceX",
-        "title": "SpaceX与Apollo达成400亿美元GPU融资协议",
-        "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-        "summary": "SpaceX通过Apollo获得400亿美元GPU融资，为其快速扩张的AI业务提供新资金来源，不再仅依赖传统债务市场。",
-        "comment": "算力融资创新高，AI基建竞赛进入资本杠杆阶段。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic正式提交IPO申请",
-        "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-        "summary": "Anthropic正式递交IPO申请，披露营收飙升、亏损扩大、企业采用度高，以及旨在保留创始人控制权的特殊治理结构。",
-        "comment": "AI巨头上市潮开启，治理结构成看点。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代码审查",
+        "tag": "人工智能",
         "title": "Greptile借助GPT-6 Astra将缺陷检测拓展至代码审查之外",
         "link": "https://openai.com/index/greptile-code-review-codex-astra",
-        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全，并通过Codex减少返工。",
-        "comment": "AI代码审查正从静态检查走向工作流级验证。",
+        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全，并用Codex减少返工。",
+        "comment": "AI编程工具从代码审查走向工作流测试，实用价值提升。",
         "image": "",
         "score": 100
       },
@@ -37,18 +17,18 @@
         "tag": "OpenAI",
         "title": "OpenAI与学术社区合作推进科学理解",
         "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-        "summary": "OpenAI公布在Kakeya猜想、指数时间假设和量子色动力学上的模型结果，并说明研究者如何验证和推进这些成果。",
-        "comment": "AI参与基础科学验证，合作机制比结果更值得关注。",
+        "summary": "OpenAI公布在Kakeya猜想、指数时间假设和量子色动力学上的模型结果，并说明研究人员如何验证和在此基础上继续研究。",
+        "comment": "AI参与基础数学与物理问题，关键在可验证性。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI：GPT-6.1 Sol助CodeRabbit强化代码安全",
+        "tag": "AI安全",
+        "title": "CodeRabbit用GPT-6.1 Sol强化代码库安全",
         "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "summary": "CodeRabbit利用GPT-6.1 Sol排查复杂代码库中的安全风险，其安全代理可帮助开发者审查发现的问题与修复建议。",
-        "comment": "AI代码安全代理正从辅助审查走向主动排险。",
+        "summary": "CodeRabbit借助GPT-6.1 Sol排查复杂代码库的安全风险，其安全代理可帮助开发者审查发现的问题与修复建议。",
+        "comment": "AI安全代理进入代码审查环节，实用价值高于概念演示。",
         "image": "",
         "score": 100
       },
@@ -57,8 +37,8 @@
         "tag": "ChatGPT",
         "title": "OpenAI发布ChatGPT全球工作使用数据",
         "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "summary": "OpenAI基于Signals数据，分析近100个国家165项工作活动中ChatGPT的使用情况，揭示人们如何用其辅助工作及使用方式随时间的变化。",
-        "comment": "数据揭示AI工作渗透的真实图景，值得关注。",
+        "summary": "OpenAI基于Signals数据，分析近100个国家165项工作活动中ChatGPT的使用情况，揭示其工作场景用途及随时间的变化趋势。",
+        "comment": "数据揭示AI落地真实图景，比宣传更有参考价值。",
         "image": "",
         "score": 100
       },
@@ -75,10 +55,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI用Codex Ultrafast将事件调查缩短至分钟级",
+        "title": "OpenAI用Codex Ultrafast将事故调查缩短至分钟级",
         "link": "https://openai.com/index/openai-cut-incident-investigation",
-        "summary": "OpenAI工程师借助Codex Ultrafast，将安全事件调查从数小时压缩到几分钟，并用于安全分析、代码重构和日常开发流程。",
-        "comment": "AI辅助安全运营正从演示走向真实生产流程。",
+        "summary": "OpenAI工程师借助Codex Ultrafast，将事故调查从数小时压缩到几分钟，并用于安全分析、代码重构和日常流程。",
+        "comment": "AI辅助运维正从演示走向真实生产场景。",
         "image": "",
         "score": 100
       },
@@ -87,8 +67,8 @@
         "tag": "OpenAI",
         "title": "OpenAI发布GPT-6.1 Terra",
         "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-        "summary": "OpenAI推出GPT-6.1 Terra，主打让所有人用上快速且强大的计算机操作能力，进一步降低AI操作电脑的门槛。",
-        "comment": "计算机操作能力普及化，AI入口之争再升级。",
+        "summary": "OpenAI推出GPT-6.1 Terra，主打让所有人用上快速且强大的计算机操作能力，进一步降低AI使用门槛。",
+        "comment": "计算机操作能力下放，AI助手竞争进入实操阶段。",
         "image": "",
         "score": 100
       },
@@ -97,119 +77,19 @@
         "tag": "Anthropic",
         "title": "Anthropic IPO文件披露企业客户留存策略",
         "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-        "summary": "Anthropic的S-1文件显示，其10万美元以上客户中过半同时使用Claude平台和第一方应用，这种交叉销售策略类似亚马逊。",
+        "summary": "Anthropic的S-1文件显示，其10万美元以上客户中过半同时使用Claude平台和第一方应用，形成类似亚马逊的交叉销售模式。",
         "comment": "交叉销售提升黏性，但企业客户是否买账仍待验证。",
         "image": "",
         "score": 99
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏线下体验",
-        "title": "东京咖啡厅可线下玩《恶魔轮盘》并饮主题鸡尾酒",
-        "link": "https://www.ign.com/articles/you-can-play-buckshot-roulette-in-real-life-at-this-tokyo-cafe-and-even-drink-an-arctic-eggs-cocktail",
-        "summary": "东京Ukiyo Game Bar & Cafe推出线下《恶魔轮盘》体验，顾客可参与类似游戏玩法，还能品尝以《北极蛋》为灵感的主题鸡尾酒，相关体验在社交平台走红。",
-        "comment": "游戏IP线下化正成为餐饮引流新玩法。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/26/buckshot-roulette-game-bar-japan-viral-1793058124830.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Arkane Lyon",
-        "title": "Arkane Lyon获延期寻找新买家以完成《漫威刀锋战士》",
-        "link": "https://www.gamespot.com/articles/arkane-lyon-gets-another-chance-to-find-a-new-home-and-finish-marvels-blade/",
-        "summary": "微软表示正探索让其他公司支持Arkane Lyon，该工作室寻找新买家的期限因此略微延后，以便继续开发《漫威刀锋战士》。",
-        "comment": "工作室命运未定，游戏能否完工仍存变数。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Marvel-Blade.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox Game Pass 被纳入手机套餐",
-        "link": "https://www.gamespot.com/articles/xbox-game-pass-is-now-included-with-a-phone-plan/",
-        "summary": "微软与 T-Mobile 合作推出 T-Mix 套餐，用户可通过手机资费订阅 Xbox Game Pass，为游戏订阅开辟新渠道。",
-        "comment": "订阅捆绑成趋势，游戏服务借运营商渠道下沉。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/gamepasstmobile.png?w=300",
-        "score": 92
-      },
-      {
         "category": "数码科技",
         "tag": "iPad mini",
-        "title": "新 iPad mini 发布：5499 元起，配备 OLED 屏但无高刷",
+        "title": "新 iPad mini 发布：5499 元起，配备 OLED 屏但仅 60Hz",
         "link": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果发布新款 iPad mini，起售价 5499 元，升级为 OLED 屏幕，但仍维持 60Hz 刷新率，未支持高刷。",
-        "comment": "OLED 升级到位，60Hz 成明显短板。",
+        "summary": "苹果发布新款 iPad mini，起售价 5499 元，升级为 OLED 屏幕，但刷新率仍为 60Hz，未支持高刷。",
+        "comment": "OLED 升级到位，60Hz 却拖了后腿，定价偏高。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "黎明杀机",
-        "title": "《黎明杀机》开发商解释恰吉下架原因",
-        "link": "https://www.ign.com/articles/dead-by-daylight-devs-explain-chuckys-exit-from-stores-and-says-horror-icons-removed-due-to-licenses-have-open-invitation-to-rejoin",
-        "summary": "Behaviour Interactive确认恰吉因授权问题从商店下架，并表示因授权移除的恐怖角色仍可回归。",
-        "comment": "授权到期是常态，开放回归姿态务实。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/26/chucky-dead-by-daylight-1793058562712.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "亚马逊",
-        "title": "亚马逊Audible秋季促销：每月0.99美元并获20美元抵扣",
-        "link": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
-        "summary": "亚马逊推出Audible秋季优惠，Prime与非Prime会员、新订阅者及多数老用户均可参与，每月仅0.99美元并获20美元抵扣。",
-        "comment": "低价拉新，有声书市场竞争加剧。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/15/amazonaudible-1792085241908.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "DC影业",
-        "title": "DC影业确认与艾伦·里奇森洽谈，尚未定角色",
-        "link": "https://www.ign.com/articles/dc-studios-boss-confirms-discussions-with-alan-ritchson-but-havent-found-a-role-for-him-yet",
-        "summary": "DC影业负责人彼得·萨弗兰确认已与艾伦·里奇森就多个角色进行过沟通，但目前仍未找到合适定位。",
-        "comment": "选角有接触无定论，DC仍在试探合适位置。",
-        "image": "https://assets-prd.ignimgs.com/2025/01/08/reacher-thumb-1736366327826.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "质量效应",
-        "title": "《质量效应5》再曝泄露内容",
-        "link": "https://www.gamespot.com/articles/heres-another-mass-effect-5-leak-to-break-your-heart/",
-        "summary": "BioWare突然关闭后，《质量效应5》又出现新的泄露内容，此前已有神秘的《质量效应：宇宙》预告片泄露。",
-        "comment": "接连泄露更像项目动荡的注脚，玩家难言期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/ME5-protagonist-1.png?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》上线前再调种族技能",
-        "link": "https://www.gamespot.com/articles/wow-forever-just-got-a-major-racial-ability-shakeup-just-before-launch/",
-        "summary": "《魔兽世界：永恒》临近上线，暴雪根据测试反馈对种族技能做最后一轮调整，涉及多个种族的能力平衡。",
-        "comment": "临门调整种族技能，平衡风险与玩家期待并存。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Changes-One-Last-Time.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "暗黑破坏神4",
-        "title": "暗黑破坏神4第16赛季战争计划系统大升级",
-        "link": "https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/",
-        "summary": "《暗黑破坏神4》第16赛季对战争计划系统进行重大升级，玩家对终局活动与奖励拥有更多控制权，暴雪已公布相关改动。",
-        "comment": "终局玩法优化方向正确，关键看奖励是否真香。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Diablo-4-Season-16-War-Plans-Upgrades.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "绝地潜兵",
-        "title": "《绝地潜兵》主创：短期内不会推出第三部",
-        "link": "https://www.gamespot.com/articles/why-there-wont-be-a-helldivers-3-anytime-soon-if-ever/",
-        "summary": "《绝地潜兵2》大获成功后，Arrowhead首席创意官Johan Pilestedt表示，系列短期内不会推出第三部，甚至可能永远不会有。",
-        "comment": "爆款之后不急于续作，是克制也是清醒。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/HD2-Large.jpeg?w=300",
         "score": 91
       },
       {
@@ -217,50 +97,10 @@
         "tag": "魏牌",
         "title": "魏牌高山8 HEV上市，25.98万元起",
         "link": "https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "魏牌高山8 HEV正式上市，起售价25.98万元，定位混动MPV，意在争夺燃油MPV市场份额。",
+        "summary": "魏牌高山8 HEV正式上市，起售价25.98万元，定位混动MPV，意在挑战燃油MPV市场份额。",
         "comment": "混动MPV价格下探，燃油MPV压力加大。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "赛博朋克2077",
-        "title": "《赛博朋克2077》Steam在线人数创《往日之影》后新高",
-        "link": "https://www.gamespot.com/articles/cyberpunk-2077-hits-its-biggest-steam-player-peak-since-phantom-liberty-and-you-can-guess-why/",
-        "summary": "《赛博朋克2077》发售近六年后仍保持活跃玩家基础，新动画衍生作品带动玩家回流夜之城，Steam同时在线人数创下《往日之影》资料片以来的最高纪录。",
-        "comment": "动画联动再次证明IP跨媒介反哺游戏的有效性。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Cyberpunk-Edgerunners.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6联名咖啡上市，游戏11月19日发售",
-        "link": "https://www.gamespot.com/articles/gta-6-coffee-is-here-to-keep-you-warm-until-the-game-releases/",
-        "summary": "Rockstar与迈阿密Vice City Bean合作推出GTA 6官方授权咖啡，在游戏11月19日发售前开卖。",
-        "comment": "联名咖啡是预热营销，难解玩家对游戏的等待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-Coffee.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国政治",
-        "title": "法官裁定特朗普政府非法解雇科米之女",
-        "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-        "summary": "法官认定，特朗普政府非法解雇了前FBI局长科米之女、联邦检察官莫琳·科米；她认为被解雇与其父身份有关。",
-        "comment": "司法独立性再受考验，政治干预疑云难消。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "年度词汇",
-        "title": "Dictionary.com年度词汇揭晓：'Maxxing'",
-        "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Dictionary.com将'maxxing'选为年度词汇，该词意为最大化，反映美国人凡事追求极致的心态。",
-        "comment": "年度词折射社会心态，追求极致已成流行文化。",
-        "image": "",
-        "score": 83
       }
     ]
   }
