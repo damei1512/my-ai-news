@@ -4,23 +4,13 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI项目",
-        "title": "AI坟场：未能成功的AI项目与初创公司清单",
-        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "summary": "TechCrunch汇总了已关停或未达预期的AI项目与初创公司，包括苹果多次延期的Siri AI和OpenAI混乱的“超级应用”发布。",
-        "comment": "失败案例比成功故事更能揭示AI行业的真实风险。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI",
+        "tag": "人工智能",
         "title": "AI会暴露互联网脆弱的基础设施吗？",
         "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-        "summary": "TechCrunch AI发文追问：当AI大规模抓取与调用网络资源，互联网长期靠补丁和临时方案维系的基础设施是否会被暴露并承压。",
-        "comment": "AI是压力测试，暴露的是旧账。",
+        "summary": "TechCrunch AI发文追问：当AI大规模抓取与调用网络资源，长期靠临时补丁维持的互联网基础设施是否会暴露脆弱性。",
+        "comment": "AI压力测试或倒逼互联网基础设施补课。",
         "image": "",
-        "score": 98
+        "score": 99
       }
     ]
   }
