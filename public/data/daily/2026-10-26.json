@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "AI代码审查",
         "title": "Greptile借助GPT-6 Astra将缺陷检测拓展至代码审查之外",
         "link": "https://openai.com/index/greptile-code-review-codex-astra",
-        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全，并用Codex减少返工。",
-        "comment": "AI编程工具从代码审查走向工作流测试，实用价值提升。",
+        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全性，并通过Codex减少返工。",
+        "comment": "AI代码审查正从静态检查走向工作流级验证。",
         "image": "",
         "score": 100
       },
@@ -18,17 +18,17 @@
         "title": "OpenAI与学术社区合作推进科学理解",
         "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
         "summary": "OpenAI公布在Kakeya猜想、指数时间假设和量子色动力学上的模型结果，并说明研究人员如何验证和在此基础上继续研究。",
-        "comment": "AI参与基础数学与物理问题，关键在可验证性。",
+        "comment": "AI进入数学与物理核心问题，验证机制比结果更关键。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI安全",
-        "title": "CodeRabbit用GPT-6.1 Sol强化代码库安全",
+        "tag": "AI编程",
+        "title": "CodeRabbit借助GPT-6.1 Sol强化复杂代码库安全",
         "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "summary": "CodeRabbit借助GPT-6.1 Sol排查复杂代码库的安全风险，其安全代理可帮助开发者审查发现的问题与修复建议。",
-        "comment": "AI安全代理进入代码审查环节，实用价值高于概念演示。",
+        "summary": "CodeRabbit使用GPT-6.1 Sol排查复杂代码库中的安全风险，其安全智能体帮助开发者审查发现的问题与修复建议。",
+        "comment": "AI代码安全审查正从辅助走向实战，落地价值明确。",
         "image": "",
         "score": 100
       },
@@ -57,8 +57,8 @@
         "tag": "OpenAI",
         "title": "OpenAI用Codex Ultrafast将事故调查缩短至分钟级",
         "link": "https://openai.com/index/openai-cut-incident-investigation",
-        "summary": "OpenAI工程师借助Codex Ultrafast，将事故调查从数小时压缩到几分钟，并用于安全分析、代码重构和日常流程。",
-        "comment": "AI辅助运维正从演示走向真实生产场景。",
+        "summary": "OpenAI工程师借助Codex Ultrafast，将事故调查从数小时压缩到几分钟，并用于安全分析、代码重构和日常工作流。",
+        "comment": "AI辅助运维正从演示走向核心生产流程。",
         "image": "",
         "score": 100
       },
@@ -67,28 +67,18 @@
         "tag": "OpenAI",
         "title": "OpenAI发布GPT-6.1 Terra",
         "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-        "summary": "OpenAI推出GPT-6.1 Terra，主打让所有人用上快速且强大的计算机操作能力，进一步降低AI使用门槛。",
-        "comment": "计算机操作能力下放，AI助手竞争进入实操阶段。",
+        "summary": "OpenAI推出GPT-6.1 Terra，主打让所有人用上快速且强大的计算机操作能力，进一步降低AI操作电脑的门槛。",
+        "comment": "计算机操作能力普及化，AI代理竞争再提速。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic IPO文件披露企业客户留存策略",
-        "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-        "summary": "Anthropic的S-1文件显示，其10万美元以上客户中过半同时使用Claude平台和第一方应用，形成类似亚马逊的交叉销售模式。",
-        "comment": "交叉销售提升黏性，但企业客户是否买账仍待验证。",
-        "image": "",
-        "score": 99
-      },
-      {
         "category": "数码科技",
         "tag": "iPad mini",
-        "title": "新 iPad mini 发布：5499 元起，配备 OLED 屏但仅 60Hz",
+        "title": "新iPad mini发布：5499元起，配备OLED但无高刷",
         "link": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果发布新款 iPad mini，起售价 5499 元，升级为 OLED 屏幕，但刷新率仍为 60Hz，未支持高刷。",
-        "comment": "OLED 升级到位，60Hz 却拖了后腿，定价偏高。",
+        "summary": "苹果发布新款iPad mini，起售价5499元，升级为OLED屏幕，但刷新率仍为60Hz，未支持高刷。",
+        "comment": "OLED升级到位，60Hz成最大短板。",
         "image": "",
         "score": 91
       },
@@ -97,7 +87,7 @@
         "tag": "魏牌",
         "title": "魏牌高山8 HEV上市，25.98万元起",
         "link": "https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "魏牌高山8 HEV正式上市，起售价25.98万元，定位混动MPV，意在挑战燃油MPV市场份额。",
+        "summary": "魏牌高山8 HEV正式上市，起售价25.98万元，定位混动MPV，意在争夺燃油MPV市场份额。",
         "comment": "混动MPV价格下探，燃油MPV压力加大。",
         "image": "",
         "score": 90
