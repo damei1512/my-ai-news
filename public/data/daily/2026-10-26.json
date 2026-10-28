@@ -4,31 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI代码审查",
+        "tag": "人工智能",
         "title": "Greptile借助GPT-6 Astra将缺陷检测拓展至代码审查之外",
         "link": "https://openai.com/index/greptile-code-review-codex-astra",
-        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全性，并通过Codex减少返工。",
-        "comment": "AI代码审查正从静态检查走向工作流级验证。",
+        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全，并用Codex减少返工。",
+        "comment": "AI编程工具正从代码审查走向全流程质量保障。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与学术社区合作推进科学理解",
+        "title": "OpenAI与学术界合作推进科学理解",
         "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-        "summary": "OpenAI公布在Kakeya猜想、指数时间假设和量子色动力学上的模型结果，并说明研究人员如何验证和在此基础上继续研究。",
-        "comment": "AI进入数学与物理核心问题，验证机制比结果更关键。",
+        "summary": "OpenAI公布在Kakeya猜想、指数时间假设和量子色动力学上的模型结果，并说明研究者如何验证和在此基础上继续研究。",
+        "comment": "AI参与基础数学与物理问题，验证机制比结果更关键。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI编程",
-        "title": "CodeRabbit借助GPT-6.1 Sol强化复杂代码库安全",
+        "tag": "AI代码安全",
+        "title": "CodeRabbit用GPT-6.1 Sol强化复杂代码库安全",
         "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "summary": "CodeRabbit使用GPT-6.1 Sol排查复杂代码库中的安全风险，其安全智能体帮助开发者审查发现的问题与修复建议。",
-        "comment": "AI代码安全审查正从辅助走向实战，落地价值明确。",
+        "summary": "CodeRabbit借助GPT-6.1 Sol排查复杂代码库安全风险，其安全智能体帮助开发者审查发现的问题与修复建议。",
+        "comment": "AI代码安全审查落地，关键在降低误报与人工复核成本。",
         "image": "",
         "score": 100
       },
@@ -37,7 +37,7 @@
         "tag": "ChatGPT",
         "title": "OpenAI发布ChatGPT全球工作使用数据",
         "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "summary": "OpenAI基于Signals数据，分析近100个国家165项工作活动中ChatGPT的使用情况，揭示其工作场景用途及随时间的变化趋势。",
+        "summary": "OpenAI基于Signals数据，分析近100个国家165项工作活动中ChatGPT的使用情况，揭示人们如何将其用于工作及使用方式随时间的变化。",
         "comment": "数据揭示AI落地真实图景，比宣传更有参考价值。",
         "image": "",
         "score": 100
@@ -47,18 +47,18 @@
         "tag": "OpenAI",
         "title": "Fanatics联手OpenAI优化球迷购物体验",
         "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-        "summary": "Fanatics利用OpenAI推出Shop the Look功能，帮助球迷搭配比赛日穿搭。在约3万件MLB商品上测试，互动率提升10%。",
-        "comment": "AI导购落地体育零售，转化提升可量化。",
+        "summary": "Fanatics利用OpenAI的Shop the Look功能帮助球迷搭配比赛日装备，在约3万件MLB商品上测试，互动率提升10%。",
+        "comment": "AI导购落地体育零售，效果可量化但幅度有限。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI用Codex Ultrafast将事故调查缩短至分钟级",
+        "title": "OpenAI用Codex Ultrafast将事件调查缩短至分钟级",
         "link": "https://openai.com/index/openai-cut-incident-investigation",
-        "summary": "OpenAI工程师借助Codex Ultrafast，将事故调查从数小时压缩到几分钟，并用于安全分析、代码重构和日常工作流。",
-        "comment": "AI辅助运维正从演示走向核心生产流程。",
+        "summary": "OpenAI工程师借助Codex Ultrafast，将安全事件调查从数小时压缩到几分钟，并用于安全分析、代码重构和日常工作流。",
+        "comment": "AI辅助安全运维正从演示走向真实生产流程。",
         "image": "",
         "score": 100
       },
@@ -68,29 +68,9 @@
         "title": "OpenAI发布GPT-6.1 Terra",
         "link": "https://openai.com/index/introducing-gpt-6-1-terra",
         "summary": "OpenAI推出GPT-6.1 Terra，主打让所有人用上快速且强大的计算机操作能力，进一步降低AI操作电脑的门槛。",
-        "comment": "计算机操作能力普及化，AI代理竞争再提速。",
+        "comment": "计算机操作能力下放，AI代理竞争再提速。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "iPad mini",
-        "title": "新iPad mini发布：5499元起，配备OLED但无高刷",
-        "link": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果发布新款iPad mini，起售价5499元，升级为OLED屏幕，但刷新率仍为60Hz，未支持高刷。",
-        "comment": "OLED升级到位，60Hz成最大短板。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "魏牌",
-        "title": "魏牌高山8 HEV上市，25.98万元起",
-        "link": "https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "魏牌高山8 HEV正式上市，起售价25.98万元，定位混动MPV，意在争夺燃油MPV市场份额。",
-        "comment": "混动MPV价格下探，燃油MPV压力加大。",
-        "image": "",
-        "score": 90
       }
     ]
   }
