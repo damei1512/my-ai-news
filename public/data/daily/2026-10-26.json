@@ -4,10 +4,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI编程",
+        "tag": "Greptile",
         "title": "Greptile借助GPT-6 Astra将缺陷检测拓展至代码审查之外",
         "link": "https://openai.com/index/greptile-code-review-codex-astra",
-        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全，并通过Codex减少返工，将缺陷检测从代码审查延伸至更广环节。",
+        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全，并通过Codex减少返工，将缺陷检测从代码审查延伸到更广环节。",
         "comment": "AI编程工具正从辅助写码转向全流程质量把控。",
         "image": "",
         "score": 100
@@ -15,20 +15,20 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI公布Kakeya猜想等模型研究结果",
+        "title": "OpenAI与学术社区合作推进科学理解",
         "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-        "summary": "OpenAI发布模型在Kakeya猜想、指数时间假设和量子色动力学上的结果，并说明研究人员如何验证与推进。",
-        "comment": "AI参与数学物理前沿，验证机制比结果更关键。",
+        "summary": "OpenAI公布在Kakeya猜想、指数时间假设和量子色动力学上的模型结果，并说明研究人员如何验证和扩展这些结果。",
+        "comment": "AI进入数学与物理核心问题，验证机制比结论更关键。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI编程",
-        "title": "CodeRabbit用GPT-6.1 Sol强化复杂代码库安全",
+        "tag": "OpenAI",
+        "title": "OpenAI：GPT-6.1 Sol助CodeRabbit强化代码库安全",
         "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "summary": "CodeRabbit借助GPT-6.1 Sol排查复杂代码库安全风险，其安全代理帮助开发者审查发现的问题与修复建议。",
-        "comment": "AI代码安全代理正从辅助审查走向主动排查。",
+        "summary": "CodeRabbit利用GPT-6.1 Sol排查复杂代码库中的安全风险，其安全智能体可协助开发者审查发现的问题与修复建议。",
+        "comment": "AI安全智能体正从辅助编码走向主动防御。",
         "image": "",
         "score": 100
       },
@@ -37,28 +37,8 @@
         "tag": "ChatGPT",
         "title": "OpenAI发布ChatGPT全球工作使用数据",
         "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "summary": "OpenAI基于Signals数据，分析近100个国家165项工作活动中ChatGPT的使用情况，揭示其工作场景及变化趋势。",
-        "comment": "数据揭示AI落地真实图景，比宣传更有参考价值。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "Fanatics联手OpenAI优化球迷购物体验",
-        "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-        "summary": "Fanatics利用OpenAI的Shop the Look功能帮助球迷搭配比赛日穿搭，在约3万件MLB商品上测试，互动率提升10%。",
-        "comment": "AI导购落地体育零售，转化提升可量化。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI用Codex Ultrafast将事故调查缩短至分钟级",
-        "link": "https://openai.com/index/openai-cut-incident-investigation",
-        "summary": "OpenAI工程师借助Codex Ultrafast，将事故调查从数小时压缩到几分钟，并用于安全分析、代码重构和日常工作流。",
-        "comment": "AI辅助运维正从演示走向真实生产流程。",
+        "summary": "OpenAI基于Signals数据，分析近100个国家165项工作活动中ChatGPT的使用情况，揭示人们如何用其工作及使用方式随时间的变化。",
+        "comment": "数据揭示真实工作场景，比宣传更有参考价值。",
         "image": "",
         "score": 100
       }
