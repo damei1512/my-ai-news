@@ -7,38 +7,8 @@
         "tag": "AI编程",
         "title": "Greptile借助GPT-6 Astra将缺陷检测拓展至代码审查之外",
         "link": "https://openai.com/index/greptile-code-review-codex-astra",
-        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak加强安全，并用Codex减少返工。",
-        "comment": "AI编程工具正从辅助写码走向全流程质量保障。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI与学术社区合作推进科学理解",
-        "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-        "summary": "OpenAI公布在Kakeya猜想、指数时间假设和量子色动力学上的模型结果，并说明研究人员如何验证和在此基础上继续研究。",
-        "comment": "AI进入数学与物理前沿验证阶段，合作比单方宣称更重要。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI：GPT-6.1 Sol助CodeRabbit强化代码库安全",
-        "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "summary": "CodeRabbit利用GPT-6.1 Sol排查复杂代码库安全风险，其安全智能体可协助开发者审查发现的问题与修复建议。",
-        "comment": "AI代码安全智能体正从辅助审查走向深度集成。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "ChatGPT",
-        "title": "OpenAI发布ChatGPT全球工作使用数据",
-        "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "summary": "OpenAI基于Signals数据，分析近100个国家165项工作活动中ChatGPT的使用情况，揭示人们如何将其用于工作及使用方式随时间的变化。",
-        "comment": "数据揭示真实工作场景，比宣传更有参考价值。",
+        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全，并用Codex减少返工，将缺陷检测从代码审查延伸到实际使用场景。",
+        "comment": "AI编程工具正从审查代码转向验证真实工作流。",
         "image": "",
         "score": 100
       }

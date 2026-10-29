@@ -4,46 +4,6 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "微软",
-        "title": "微软首次披露Azure季度营收：332亿美元",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-        "summary": "微软首次以美元公布Azure季度营收，达332亿美元，显示其与市场最大竞争对手的差距正在缩小。",
-        "comment": "云市场竞争更透明，微软亮出底牌。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "微软单季从OpenAI相关业务获100亿美元收入",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-        "summary": "微软披露截至9月30日季度从与OpenAI的商业安排中获得100亿美元收入，包括收入分成款项，显示双方合作已形成可观商业回报。",
-        "comment": "OpenAI合作已成微软实打实的收入引擎。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "网络安全",
-        "title": "Wiz CTO警告：互联网老化代码将迎漏洞末日",
-        "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-        "summary": "Wiz CTO指出，支撑约70%网站的开源PHP语言近期曝出两个严重漏洞，清理远未结束，互联网老化代码正面临系统性安全危机。",
-        "comment": "老旧开源代码的安全债，正在集中到期。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌向更多应用开放Gemini与搜索",
-        "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-        "summary": "谷歌推出新开发者平台，允许企业将服务接入其AI体验，可能改变消费者发现和使用应用的方式。",
-        "comment": "AI代理正重塑入口，谷歌抢先开放生态。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI与ServiceNow扩大企业工作流合作",
         "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
@@ -54,11 +14,11 @@
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "人工智能",
         "title": "OpenAI探讨AI如何进入企业组织架构",
         "link": "https://openai.com/index/the-future-of-the-firm",
-        "summary": "OpenAI发文讨论AI在企业中的角色：可能位于组织架构之下、之旁或之间，涉及AI与人类协作及管理方式的变化。",
-        "comment": "AI进组织图不只是工具升级，更是权责重排。",
+        "summary": "OpenAI发文讨论AI在企业组织中的角色，可能以底层工具、并列协作者或部门间连接者的方式融入组织架构。",
+        "comment": "AI进组织图不是加个部门，而是重写协作关系。",
         "image": "",
         "score": 100
       },
@@ -67,230 +27,40 @@
         "tag": "法律AI",
         "title": "Legora用OpenAI模型打造法律智能操作系统",
         "link": "https://openai.com/index/legora",
-        "summary": "Legora借助OpenAI模型、ChatGPT与Codex加速法律工作流，扩展合同分析能力，让律师专注于更高价值工作。",
+        "summary": "Legora利用OpenAI模型、ChatGPT和Codex加速法律工作流，扩展合同分析能力，让律师专注于更高价值的工作。",
         "comment": "法律AI从工具走向操作系统，垂直场景落地加速。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌全球扩展AI搜索广告，核心广告增长放缓",
-        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-        "summary": "谷歌宣布将AI搜索广告扩展至全球，此举伴随Alphabet第三季度财报发布，该季度营收同比增长25%至1276亿美元。",
-        "comment": "核心广告放缓，AI搜索广告成新增长点。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "微软",
-        "title": "微软连续10个季度营收创纪录",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-        "summary": "微软公布季度营收923亿美元再创新高，连续10个季度刷新纪录，显示AI热潮下其业务仍保持强劲增长。",
-        "comment": "AI投入正兑现为营收，微软增长韧性仍强。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic推出工具，让企业看清AI支出回报",
-        "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-        "summary": "Anthropic发布新工具，帮助企业追踪其模型使用与花费情况，在计划IPO前提升支出透明度。",
-        "comment": "AI支出透明化，是商业化与上市前的必要一步。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "PHP漏洞",
-        "title": "Wiz CTO谈PHP漏洞与即将到来的漏洞危机",
-        "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-        "summary": "PHP安全风波虽已淡出信息流，但清理远未结束。上周，支撑约70%网站的开源语言PHP出现两个严重漏洞，令众多机构受影响。",
-        "comment": "开源基础设施漏洞频发，企业修补速度决定风险大小。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Chrome",
-        "title": "Chrome AI自动填充可读取Gmail信息填表",
-        "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-        "summary": "Chrome自动填充功能更新后，经用户授权可从Gmail提取航班确认、物流跟踪、订单详情等信息，用于自动填写网页表单。",
-        "comment": "便利性提升明显，但邮箱数据授权边界值得警惕。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI高管",
-        "title": "AI高管或脱离大众，难为普通人造产品",
-        "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-        "summary": "TechCrunch评论指出，AI高管炫耀用AI维系家庭关系，暴露其与普通用户脱节，可能影响产品设计。",
-        "comment": "高管自嗨式AI叙事，离真实用户越来越远。",
-        "image": "",
-        "score": 97
-      },
-      {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "顶配11.26万，触屏MacBook Pro亮相",
+        "title": "顶配11.26万，触屏MacBook Pro发布",
         "link": "https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道称苹果推出触屏MacBook Pro，顶配售价11.26万元，并提到苹果标志会亮。",
-        "comment": "触屏MacBook若成真，将改写苹果交互路线。",
+        "summary": "爱范儿报道苹果推出触屏MacBook Pro，顶配售价11.26万元，并提及标志性苹果Logo回归。",
+        "comment": "触屏MacBook落地，价格与交互方式都值得关注。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6在线模式或2027年初推出",
-        "link": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
-        "summary": "投行称《GTA 6》在线模式可能2027年初上线，而本体预计今年11月发售。Take-Two股价今年已跌21%，本周跌破200美元。",
-        "comment": "本体未发，在线模式已被提前定价，市场信心承压。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_10_748567.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "EA创始人：GTA 6若感恩节档期胜过橄榄球就是胜利",
-        "link": "https://www.gamespot.com/articles/if-gta-6-beats-football-on-thanksgiving-thats-a-win-ea-founder-says/",
-        "summary": "EA创始人表示，Rockstar的GTA 6商业成功几无悬念，但开发十年后，真正的成功标准可能是感恩节档期热度能否压过橄榄球赛事。",
-        "comment": "用橄榄球做标尺，说明GTA 6已被视为文化现象级产品。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA6New-Large.jpeg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "MacBook Pro",
-        "title": "触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？",
+        "title": "触屏 MacBook Pro 上手体验：更轻更强会发光，售价 11 万",
         "link": "https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿上手触屏 MacBook Pro，称其更强更亮但价格高昂，并引导关注官方公众号获取更多内容。",
-        "comment": "高价触屏 MacBook 更像秀肌肉，实用性待验证。",
+        "summary": "爱范儿上手触屏 MacBook Pro，机身更轻、性能更强，屏幕会发光，但售价高达 11 万元，体验与价格形成强烈反差。",
+        "comment": "产品力亮眼，但 11 万定价注定只是少数人的玩具。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
-        "tag": "Gemini",
+        "tag": "Gemini 4 Carbon",
         "title": "Gemini 4 Carbon 正式发布，哈基米重回世界第一",
         "link": "https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，Gemini 4 Carbon 正式发布，哈基米借此重回世界第一，具体性能与评测细节待披露。",
-        "comment": "标题噱头足，关键参数和实测仍缺，先观望。",
+        "summary": "爱范儿报道，Gemini 4 Carbon 正式发布，哈基米借此重回世界第一，具体性能与评测信息有待披露。",
+        "comment": "标题噱头足，关键参数与实测仍缺失。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "理想汽车",
-        "title": "理想i6上市23.98万元起，补齐短板",
-        "link": "https://www.ifanr.com/1686458?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "理想i6正式上市，起售价23.98万元，针对此前车型短板进行补强，被视为理想在纯电市场的关键产品。",
-        "comment": "价格有诚意，能否复制增程车型的销量表现待观察。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》内容更新将每四个月一次",
-        "link": "https://www.gamespot.com/articles/wow-forever-content-updates-will-come-slower-than-you-might-expect/",
-        "summary": "暴雪新版MMORPG《魔兽世界：永恒》将每四个月更新一次内容，避开现代WoW部分争议做法，更新节奏慢于玩家预期。",
-        "comment": "慢节奏更新是取舍，关键看内容质量能否撑住等待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Content-Schedule-Frequency.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "iPad mini",
-        "title": "iPad mini 首发上手：体验无可替代，刀法无人能及",
-        "link": "https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿首发上手 iPad mini，认为其算力越级但缺少高刷屏，是一款让人爱恨交织的产品。",
-        "comment": "性能越级却砍高刷，苹果刀法依旧精准。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏拍卖",
-        "title": "标志性游戏艺术作品拍卖拍出高价",
-        "link": "https://www.gamespot.com/articles/an-iconic-piece-of-gaming-artwork-just-fetched-a-princely-sum-at-auction/",
-        "summary": "一幅45年前的游戏销售传单在拍卖会上以高价成交，该传单首次展示了后来改变游戏史的作品。",
-        "comment": "游戏文物正成为收藏市场新热点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Clipboard_10-28-2026_01.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《Backrooms》导演回应执导《传送门》电影传闻",
-        "link": "https://www.gamespot.com/articles/backrooms-director-wears-a-valve-hoodie-to-interview-and-people-think-hes-teasing-a-portal-movie/",
-        "summary": "Kane Parsons 因《Backrooms》成为2026年备受关注的新锐导演，外界猜测他将执导《传送门》电影，他在采访中穿 Valve 连帽衫进一步引发联想，本人已回应相关传闻。",
-        "comment": "穿件卫衣就被当成官宣，传闻热度盖过作品本身。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/portal2.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "任天堂",
-        "title": "任天堂独立游戏发布会内容紧凑",
-        "link": "https://www.gamespot.com/articles/nintendos-indie-world-presentation-was-pretty-packed-for-a-short-show/",
-        "summary": "最新Indie World展示会仅持续15分钟多，但任天堂仍展示了多款亮眼独立游戏，内容密度较高。",
-        "comment": "短小精悍，独立游戏阵容值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WindsofViridia.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "指环王OL",
-        "title": "《指环王OL》运营近20年推出新资料片",
-        "link": "https://www.gamespot.com/articles/lotros-latest-expansion-is-out-now-nearly-20-years-after-the-game-launched/",
-        "summary": "基于《指环王》的MMO《指环王Online》在2007年上线近20年后发布最新资料片，显示这款老游戏仍在持续更新内容。",
-        "comment": "长寿MMO靠资料片续命，情怀仍是核心资产。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/LOTRO.png?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏改编",
-        "title": "《热血无赖》电影导演解释改编为何耗时漫长",
-        "link": "https://www.gamespot.com/articles/sleeping-dogs-movie-director-explains-why-the-adaptation-is-taking-so-long/",
-        "summary": "《热血无赖》电影改编长期停滞，导演解释项目为何迟迟未能推进，这款邪典动作游戏的影视化仍陷开发困境。",
-        "comment": "游戏改编电影难产常见，关键在剧本与资金。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/536/5360430/2692529-sleeping-dogs-definitive-edition-review_1920_20141015.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PlayStation Plus",
-        "title": "PlayStation Plus 2026年11月免费游戏公布",
-        "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026/",
-        "summary": "PlayStation公布11月PS Plus会员免费游戏，所有会员自11月3日起可领取三款游戏，具体阵容已公开。",
-        "comment": "常规月度福利，对订阅用户有实用价值。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/PS-Plus-November-2026.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "普京",
-        "title": "普京称马斯克是“真正的天才”，透露双方保持密切接触",
-        "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-        "summary": "俄罗斯总统普京在与SpaceX创始人马斯克卫星会谈后称赞其为“真正的天才”，并表示双方保持“密切”联系。",
-        "comment": "政商互动引发关注，太空合作或成新变量。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国娱乐圈",
-        "title": "美国女演员海顿·潘妮蒂尔死因裁定为意外",
-        "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-        "summary": "曾主演《英雄》和《纳什维尔》的美国女演员海顿·潘妮蒂尔8月因芬太尼、赞安诺等多种药物毒性作用去世，当地警方调查结束，死因裁定为意外。",
-        "comment": "明星药物致死再添一例，芬太尼风险值得警惕。",
-        "image": "",
-        "score": 84
       }
     ]
   }
