@@ -4,10 +4,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Greptile",
+        "tag": "AI编程",
         "title": "Greptile借助GPT-6 Astra将缺陷检测拓展至代码审查之外",
         "link": "https://openai.com/index/greptile-code-review-codex-astra",
-        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全，并通过Codex减少返工，将缺陷检测从代码审查延伸到更广环节。",
+        "summary": "Greptile利用GPT-6 Astra测试用户工作流，借助Daybreak强化安全，并通过Codex减少返工，将缺陷检测从代码审查延伸至更广环节。",
         "comment": "AI编程工具正从辅助写码转向全流程质量把控。",
         "image": "",
         "score": 100
@@ -15,20 +15,20 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与学术社区合作推进科学理解",
+        "title": "OpenAI公布Kakeya猜想等模型结果并邀学界验证",
         "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-        "summary": "OpenAI公布在Kakeya猜想、指数时间假设和量子色动力学上的模型结果，并说明研究人员如何验证和扩展这些结果。",
-        "comment": "AI进入数学与物理核心问题，验证机制比结论更关键。",
+        "summary": "OpenAI发布模型在Kakeya猜想、指数时间假设和量子色动力学上的结果，并说明研究人员如何验证和在此基础上继续推进。",
+        "comment": "AI进入数学与物理核心问题，验证机制比结果更关键。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI：GPT-6.1 Sol助CodeRabbit强化代码库安全",
+        "tag": "AI安全",
+        "title": "CodeRabbit用GPT-6.1 Sol强化代码库安全",
         "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "summary": "CodeRabbit利用GPT-6.1 Sol排查复杂代码库中的安全风险，其安全智能体可协助开发者审查发现的问题与修复建议。",
-        "comment": "AI安全智能体正从辅助编码走向主动防御。",
+        "summary": "CodeRabbit利用GPT-6.1 Sol排查复杂代码库安全风险，其安全代理帮助开发者审查发现的问题与修复建议。",
+        "comment": "AI安全代理正从辅助工具走向代码审查核心环节。",
         "image": "",
         "score": 100
       },
@@ -37,8 +37,8 @@
         "tag": "ChatGPT",
         "title": "OpenAI发布ChatGPT全球工作使用数据",
         "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "summary": "OpenAI基于Signals数据，分析近100个国家165项工作活动中ChatGPT的使用情况，揭示人们如何用其工作及使用方式随时间的变化。",
-        "comment": "数据揭示真实工作场景，比宣传更有参考价值。",
+        "summary": "OpenAI基于Signals数据，分析近100个国家165项工作活动中ChatGPT的使用情况，揭示工作场景用法及随时间的变化趋势。",
+        "comment": "数据揭示真实工作渗透，比宣传更有参考价值。",
         "image": "",
         "score": 100
       }
