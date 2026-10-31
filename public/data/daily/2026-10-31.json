@@ -4,32 +4,52 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达考虑为Nscale西弗吉尼亚AI数据中心联署担保",
-        "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-        "summary": "英伟达正评估为Nscale在西弗吉尼亚州的AI数据中心贷款提供联署担保，以缓解投资者对AI基建支出的担忧，借助芯片供应方信用支撑融资。",
-        "comment": "芯片商为算力项目兜底，AI投资风险正向上游转移。",
+        "tag": "OpenAI",
+        "title": "OpenAI据报下调新一轮融资目标",
+        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "summary": "TechCrunch报道，OpenAI最新一轮融资未达预期，已下调融资目标，反映市场对其高估值与盈利前景趋于谨慎。",
+        "comment": "融资降温说明资本对AI高估值开始重新定价。",
         "image": "",
         "score": 99
       },
       {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《Stranger Than Heaven》放弃上世代主机，RGG全面释放本世代性能",
-        "link": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
-        "summary": "IGN报道，RGG Studio新作《Stranger Than Heaven》跳过上世代主机，专注本世代硬件，以充分释放主机性能。",
-        "comment": "舍弃旧平台换性能，方向对但需成品验证。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/16/strangerthumb-1792159745896.png",
+        "category": "人工智能",
+        "tag": "英伟达",
+        "title": "英伟达考虑为Nscale西弗吉尼亚AI数据中心联署担保",
+        "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "summary": "英伟达正评估为Nscale在西弗吉尼亚州的AI数据中心贷款提供联署担保。在投资者对AI支出趋于谨慎之际，由芯片供应商出面背书有助于增强融资信心。",
+        "comment": "芯片商下场担保，AI基建融资风险正向上游转移。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "iPhone国行AI官宣，千问接入Siri",
+        "link": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿早报：iPhone国行AI官宣，千问接入Siri；DeepSeek千亿融资曝光；特斯拉推5年零息方案；米哈游新作定档12月4日公测。",
+        "comment": "国行AI落地是iPhone在华关键一步，生态竞争加剧。",
+        "image": "",
         "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "怪物猎人",
-        "title": "《怪物猎人：旅者》移动版评测：保留核心玩法，但进度门槛推动微交易",
-        "link": "https://www.ign.com/articles/monster-hunter-outlanders-review",
-        "summary": "IGN评测指出，这款移动端衍生作延续了主机版的玩法循环与画面表现，但进度门槛设计推动微交易，成为主要隐患。",
-        "comment": "玩法还原到位，但付费门槛可能拖累体验。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/30/monsterhunteroutlanders-blogroll-1793403161038.jpg",
+        "tag": "任天堂",
+        "title": "任天堂突袭举办皮克敏日直面会",
+        "link": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct",
+        "summary": "任天堂在皮克敏日突然宣布并举办直面会，官方似乎已将这一日期视为固定活动，具体内容尚未披露。",
+        "comment": "突袭式发布已成任天堂常态，粉丝需随时待命。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/31/pikmin-day-direct-1793456725415.png",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《Stranger Than Heaven》放弃上世代，RGG全面发挥本世代主机性能",
+        "link": "https://www.ign.com/articles/by-skipping-last-gen-systems-stranger-than-heaven-is-allowing-rgg-studio-to-fully-leverage-the-power-of-current-gen-consoles-at-long-last",
+        "summary": "RGG Studio新作《Stranger Than Heaven》跳过上世代主机，专注本世代硬件，以充分释放主机性能。",
+        "comment": "舍弃旧平台换性能上限，方向正确但需看实际表现。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/16/strangerthumb-1792159745896.png",
         "score": 93
       },
       {
@@ -37,28 +57,38 @@
         "tag": "游戏开发",
         "title": "《Chronicles: Medieval》开发商资金断裂面临关闭",
         "link": "https://www.ign.com/articles/chronicles-medieval-developer-at-real-risk-of-closing-before-release-as-funding-no-longer-in-place",
-        "summary": "Raw Power Games警告，因资金不再到位，工作室可能在《Chronicles: Medieval》抢先体验版发布前面临关闭风险。",
-        "comment": "资金断裂让游戏未发先危，独立开发风险再显。",
+        "summary": "Raw Power Games在社交媒体警告，资金已不再到位，工作室可能在《Chronicles: Medieval》抢先体验版发布前关闭。",
+        "comment": "资金断裂暴露中小工作室抗风险能力薄弱。",
         "image": "https://assets-prd.ignimgs.com/2026/10/31/chronicles-1793407292181.jpg",
         "score": 93
       },
       {
         "category": "数码科技",
-        "tag": "iPhone",
-        "title": "iPhone国行AI官宣，千问接入Siri",
-        "link": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿早报：iPhone国行AI官宣，千问接入Siri；DeepSeek千亿融资曝光；特斯拉推5年零息方案；米哈游新游定档12月4日公测。",
-        "comment": "国行AI落地是苹果在华关键一步，生态竞争加剧。",
+        "tag": "DeepSeek",
+        "title": "DeepSeek发布全新Agent架构：AI指挥AI干活",
+        "link": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "DeepSeek推出全新Agent架构，让AI开始指挥其他AI执行任务，探索多智能体协作的新路径。",
+        "comment": "多智能体协作迈出关键一步，落地效果待验证。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
+        "tag": "降世神通",
+        "title": "《降世神通：七海》主创回应季终悬念",
+        "link": "https://www.ign.com/articles/avatar-seven-havens-finale-showrunners-ending-explained-biggest-questions",
+        "summary": "《降世神通：七海》联合创作者迈克尔·但丁·迪马蒂诺与剧集主管塞哈杰·塞西、伊桑·斯波尔丁接受IGN采访，回应本季季终留下的主要悬念，并谈及后续剧情走向。",
+        "comment": "主创亲自答疑，有助于稳定粉丝预期，但后续质量仍待观察。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/31/avatar-seven-havens-ending-explained-thumb-1793407315412.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
         "tag": "游戏外设",
-        "title": "Arkade外设让现代射击游戏变身光枪游戏",
+        "title": "Arkade外设让现代射击游戏变光枪游戏",
         "link": "https://www.ign.com/articles/arkade-is-a-pc-peripheral-that-transforms-every-modern-shooter-into-a-light-gun-game",
-        "summary": "IGN报道，Arkade是一款PC外设，可将现代射击游戏转化为光枪玩法，为玩家带来体感射击体验。",
-        "comment": "创意有趣，但实际适配和体验仍待验证。",
+        "summary": "IGN报道，Arkade是一款PC外设，可将现代射击游戏转化为光枪玩法，为玩家提供新的体感射击体验。",
+        "comment": "创意外设，能否普及取决于兼容性与价格。",
         "image": "https://assets-prd.ignimgs.com/2026/10/31/arkade-gaming-gun-motion-controls-for-any-pc-mac-shooter-mp4-00-00-01-35-still001-1793430116389.jpg",
         "score": 92
       },
@@ -74,12 +104,12 @@
       },
       {
         "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox裁员后，id Software与MachineGames合作更紧密",
-        "link": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
-        "summary": "IGN报道，Xbox“重置”裁员后，Doom开发商id Software与Wolfenstein开发商MachineGames合作比以往更紧密，双方均属Bethesda体系。",
-        "comment": "裁员重组反而促成工作室协同，效果待观察。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/31/doom-1793406375983.jpg",
+        "tag": "怪物猎人",
+        "title": "《怪物猎人：外传》手游评测：保留主机玩法，进度门槛引微交易担忧",
+        "link": "https://www.ign.com/articles/monster-hunter-outlanders-review",
+        "summary": "IGN上手评测指出，这款怪物猎人手游衍生作延续了主机版的玩法循环与画面表现，但进度门槛设计可能推动微交易消费。",
+        "comment": "玩法还原值得肯定，但进度付费设计需警惕。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/30/monsterhunteroutlanders-blogroll-1793403161038.jpg",
         "score": 92
       },
       {
@@ -87,19 +117,39 @@
         "tag": "苹果",
         "title": "国行Apple智能官宣，满血SiriAI仍需等待",
         "link": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果正式宣布国行Apple智能功能，但完整版Siri AI尚未同步上线，用户需继续等待。",
+        "summary": "苹果正式宣布国行Apple智能功能，但完整版SiriAI尚未同步上线，用户需继续等待。",
         "comment": "国行落地是进展，但核心AI能力缺席，诚意打折。",
         "image": "",
         "score": 91
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《白银之城》定档2026年12月14日全球公测",
-        "link": "https://www.gcores.com/articles/221736",
-        "summary": "乐元素虚幻引擎5大世界动作RPG《白银之城》宣布2026年12月14日全球公测，登陆PC、PS5、Android、iOS，全球预约已突破1500万。",
-        "comment": "1500万预约亮眼，但公测尚有一年，兑现品质是关键。",
+        "tag": "万智牌",
+        "title": "万智牌中文回归迈出第一步：大型赛事北京开赛",
+        "link": "https://www.gcores.com/articles/221748",
+        "summary": "10月31日，万智牌聚光灯系列赛在北京首都国际会展中心开赛，869位中外牌手参与竞技、指挥官对战及新手教学，中文语言初步回归。",
+        "comment": "中文回归是玩家争取的结果，但需持续兑现。",
         "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "《白银之城》定档12月14日全球公测",
+        "link": "https://www.gcores.com/articles/221736",
+        "summary": "乐元素虚幻引擎5动作RPG《白银之城》宣布2026年12月14日全球公测，登陆PC、PS5、安卓和iOS，全球预约已突破1500万。",
+        "comment": "1500万预约量可观，但跨平台同步上线考验优化能力。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "伪纪录片",
+        "title": "外星人、大脚怪与怪兽：回顾怪奇纪录片时代",
+        "link": "https://www.ign.com/articles/aliens-bigfoots-and-monsters-remembering-the-age-of-the-weirdumentary",
+        "summary": "在阴谋论盛行的1970年代，怪兽题材的伪纪录片在票房上大获成功，IGN回顾这一现象。",
+        "comment": "伪纪录片热潮折射出阴谋论时代的集体焦虑。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/31/age-of-the-weirdumentary-thumb-1793406602871.jpg",
         "score": 91
       },
       {
@@ -107,10 +157,20 @@
         "tag": "游戏",
         "title": "《Stranger Than Heaven》加入可选作弊降低战斗难度",
         "link": "https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
-        "summary": "IGN报道，《Stranger Than Heaven》提供可选作弊选项，玩家可借此降低战斗难度，兼顾不同水平玩家的体验。",
-        "comment": "降低门槛是明智之举，但别让作弊削弱战斗设计。",
+        "summary": "IGN报道，《Stranger Than Heaven》提供可选作弊选项，帮助玩家降低战斗难度，兼顾不同水平玩家的体验。",
+        "comment": "可选作弊是降低门槛的务实做法，关键在平衡。",
         "image": "https://assets-prd.ignimgs.com/2026/05/20/strangerthumb-1779284528353.png",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "核周报10.31：影之刃零发售掀热潮",
+        "link": "https://www.gcores.com/radios/221134",
+        "summary": "本期核周报聚焦《影之刃零》发售引发无暇热潮，《使命召唤：现代战争4》完整版反响良好，微软延长Arkane Lyon买家搜寻期，EA关闭BioWare遭玩家抵制，任天堂Indie World公布多款游戏消息。",
+        "comment": "一周游戏业喜忧参半，收购与关停折射行业洗牌。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "游戏影视",
@@ -123,42 +183,62 @@
         "score": 88
       },
       {
+        "category": "时事热点",
+        "tag": "币安",
+        "title": "币安63亿美元黑客事件后覆盖90%损失",
+        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "summary": "两家分析机构称有可靠情报指向朝鲜国家支持的黑客组织为此次63亿美元黑客攻击的幕后黑手，币安已覆盖90%损失。",
+        "comment": "巨额损失与朝鲜关联，凸显交易所安全与地缘风险交织。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "机核",
+        "title": "机核2026北京核聚变简短复盘节目上线",
+        "link": "https://www.gcores.com/radios/221747",
+        "summary": "机核发布2026年10月号会员节目，简短复盘北京核聚变活动，并继续向听众征集指名编辑提问，由编辑部挑选有趣问题录成节目分享。",
+        "comment": "会员向复盘节目，信息增量有限，适合核心听众。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "埃博拉",
+        "title": "刚果（金）埃博拉疫情致5000余人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+        "summary": "刚果（金）政府数据显示，此次埃博拉疫情已致5000多人死亡、逾1万人感染，是该国最严重的一次疫情。",
+        "comment": "疫情规模空前，防控与疫苗可及性仍是关键。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国",
+        "title": "美国批准向乌克兰出售500枚爱国者导弹",
+        "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国批准向乌克兰出售500枚爱国者拦截导弹，该美制武器是拦截俄罗斯弹道导弹的唯一有效手段。",
+        "comment": "军援升级，但交付与产能仍是关键变量。",
+        "image": "",
+        "score": 87
+      },
+      {
         "category": "游戏影视",
         "tag": "Costco",
         "title": "Costco公布2026年黑色星期五完整广告与促销日期",
         "link": "https://www.ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026",
-        "summary": "Costco发布2026年黑色星期五完整促销广告，并公布各阶段促销起止日期，涵盖会员关注的折扣品类与购买时间安排。",
-        "comment": "黑五信息提前放出，利于消费者规划，但实际折扣仍待验证。",
+        "summary": "Costco发布2026年黑色星期五广告，列出促销商品与活动起止日期，涵盖电子产品、游戏和影视相关优惠，为消费者提前规划购物提供参考。",
+        "comment": "黑五促销提前公布，游戏硬件折扣值得关注。",
         "image": "https://assets-prd.ignimgs.com/2023/10/24/costco-black-friday-1698188768103.jpg",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "美国批准向乌克兰出售500枚爱国者导弹",
-        "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国批准向乌克兰出售500枚爱国者拦截导弹，该美制武器是拦截俄罗斯弹道导弹的唯一有效手段。",
-        "comment": "军援升级，俄乌防空博弈将更激烈。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "朝鲜",
-        "title": "朝鲜精英黑客被指为币安重大黑客事件主要嫌疑人",
-        "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC报道称，若指控属实，这起创纪录的盗窃案显示疑似朝鲜黑客的实力已大幅提升。",
-        "comment": "黑客能力与地缘风险叠加，交易所安全再受拷问。",
-        "image": "",
-        "score": 87
+        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "乌克兰",
-        "title": "俄占奥列什基乌克兰居民撤离至白俄罗斯",
+        "title": "乌克兰撤离者与家人团聚",
         "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-        "summary": "当地停火期间，居民于周五从遭严重破坏的奥列什基市被转移，最终抵达白俄罗斯。",
-        "comment": "撤离路线绕开乌克兰控制区，人道通道背后仍是地缘博弈。",
+        "summary": "赫尔松州奥列什基居民在俄占区断水断粮断电多年，靠煮园中杂草维生，近日撤离后与亲人重逢。",
+        "comment": "战争人道代价具体而沉重，撤离只是重建的开始。",
         "image": "",
         "score": 86
       },
@@ -167,40 +247,40 @@
         "tag": "波兰",
         "title": "波兰最高法院控制权对峙 警方介入",
         "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-        "summary": "波兰政府暂停两名高级法官职务并拟对其提起刑事指控，引发最高法院控制权对峙，警方已部署介入。",
-        "comment": "司法独立争议升级，波兰法治面临考验。",
+        "summary": "波兰政府暂停两名高级法官职务并拟提起刑事指控，引发最高法院控制权对峙，警方已部署介入。",
+        "comment": "司法独立争议升级，波兰法治冲突再起。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "西班牙",
-        "title": "西班牙列车事故冲击桑切斯连任前景",
+        "title": "西班牙列车事故影响桑切斯连任前景",
         "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-        "summary": "西班牙首相桑切斯在提前大选前数周接连遭遇危机，列车事故进一步拖累其选情。",
-        "comment": "事故叠加危机，选情承压明显。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "关税",
-        "title": "特朗普关税致加拿大百年纸厂停摆",
-        "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国对加拿大纸品加征50%关税，魁北克Témiscaming百年纸厂无限期关闭，数百人失业，当地居民正努力挽救小镇。",
-        "comment": "关税战外溢效应显现，小镇经济首当其冲。",
+        "summary": "西班牙首相桑切斯在提前大选前数周接连遭遇危机，列车事故进一步冲击其选情。",
+        "comment": "事故叠加危机，选情承压但非定局。",
         "image": "",
         "score": 86
       },
       {
         "category": "时事热点",
         "tag": "自然保护",
-        "title": "全球自然谈判达成协议 资金问题仍存",
+        "title": "全球自然保护谈判达成协议，资金问题仍存",
         "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-        "summary": "各国努力推动停滞的全球自然保护协议重回正轨，最终达成一项协议，但资金安排仍是未解难题。",
-        "comment": "协议象征意义大于实质，资金分歧暴露执行难题。",
+        "summary": "各国努力推动停滞的全球自然保护协议重回正轨，最终达成一致，但资金落实仍是未解难题。",
+        "comment": "协议虽成，资金缺口不补则难落地。",
         "image": "",
         "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "埃塞俄比亚",
+        "title": "埃塞俄比亚总理让部长参加军事训练",
+        "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+        "summary": "埃塞俄比亚总理此前强调军事准备是其政府核心目标，此次安排部长参加军事训练，被视为强化纪律与战备姿态。",
+        "comment": "部长受训更像政治动员，反映安全压力上升。",
+        "image": "",
+        "score": 84
       }
     ]
   }
