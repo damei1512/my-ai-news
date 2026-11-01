@@ -4,30 +4,30 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "xAI",
+        "title": "法官允许NAACP就xAI数据中心污染诉讼继续推进",
+        "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "summary": "美国法官裁定，NAACP指控xAI违反《清洁空气法》的诉讼可继续审理。该诉讼针对xAI数据中心的污染问题，xAI为SpaceX旗下公司。",
+        "comment": "AI算力扩张的环境代价开始进入司法审查。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI据称下调新一轮融资目标",
         "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
         "summary": "TechCrunch报道称，OpenAI最新一轮融资未达预期，已下调融资目标，反映市场对其高估值和盈利前景趋于谨慎。",
-        "comment": "融资目标下调，说明资本对AI高估值开始收紧。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "xAI",
-        "title": "法官允许NAACP就xAI数据中心污染诉讼继续推进",
-        "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-        "summary": "美国法官裁定，NAACP针对SpaceX旗下xAI公司数据中心违反《清洁空气法》的诉讼可继续审理，xAI须面对污染指控。",
-        "comment": "AI算力扩张的环保代价开始进入司法审视。",
+        "comment": "融资降温说明资本对AI高估值开始重新定价。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "英伟达",
-        "title": "英伟达考虑为Nscale西弗吉尼亚AI数据中心贷款共同担保",
+        "title": "英伟达考虑为Nscale西弗吉尼亚AI数据中心联署担保",
         "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-        "summary": "英伟达正评估为Nscale在西弗吉尼亚州的AI数据中心贷款提供共同担保。在投资者对AI支出趋于谨慎之际，由芯片供应商出面背书有助于缓解融资压力。",
+        "summary": "英伟达正评估为Nscale在西弗吉尼亚州的AI数据中心贷款提供联署担保，以缓解投资者对AI支出的担忧。",
         "comment": "芯片商为算力项目兜底，AI投资风险正向上游集中。",
         "image": "",
         "score": 99
@@ -37,8 +37,8 @@
         "tag": "苹果",
         "title": "苹果CEO称公司不愿为AI而AI",
         "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-        "summary": "苹果新任CEO回应公司在AI领域的现状，强调不会为了推出AI而推出AI，暗示将坚持有实际价值的产品策略。",
-        "comment": "苹果在AI竞赛中刻意保持克制，但市场耐心有限。",
+        "summary": "苹果新任CEO回应外界对其AI进展的质疑，表示公司不会为了追赶潮流而推出AI功能，而是坚持有实际价值的产品落地。",
+        "comment": "苹果的克制是差异化，也可能是掉队的借口。",
         "image": "",
         "score": 98
       },
@@ -47,27 +47,17 @@
         "tag": "TechCrunch",
         "title": "TechCrunch创始人峰会4天后开幕，聚焦高效人脉拓展",
         "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-        "summary": "TechCrunch创始人峰会将于11月4日在波士顿SoWa Power Station举行，为期一天，主打高质量人脉对接、可落地洞察与有助于业务扩张的连接机会。",
-        "comment": "活动信息偏推广，实用价值取决于议程与嘉宾质量。",
+        "summary": "TechCrunch创始人峰会将于11月4日在波士顿SoWa Power Station举行，为期一天，主打高效人脉对接、可落地洞察与有助于业务扩张的连接机会。",
+        "comment": "活动推广信息，实用价值有限，但人脉主题对创业者有参考意义。",
         "image": "",
         "score": 95
       },
       {
         "category": "游戏影视",
-        "tag": "Anthropic",
-        "title": "Anthropic更新Claude Opus，封堵AI生成游戏克隆",
-        "link": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
-        "summary": "Anthropic为Claude Opus发布更新，阻止其生成充斥Steam等平台的AI游戏克隆，收紧模型在游戏内容生成上的边界。",
-        "comment": "AI克隆游戏泛滥后，平台方开始从工具端设限。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/31/claude-1793482027092.png",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "Switch 2版《使命召唤：现代战争4》输入延迟严重，玩家陷竞技劣势",
+        "tag": "Switch 2",
+        "title": "Switch 2版《现代战争4》输入延迟严重，玩家陷竞技劣势",
         "link": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
-        "summary": "IGN报道称，Switch 2版《使命召唤：现代战争4》输入延迟远高于其他平台，多人竞技中玩家因此处于明显劣势。",
+        "summary": "IGN报道，《使命召唤：现代战争4》在Switch 2上输入延迟远高于其他平台，多人竞技中玩家因此处于明显劣势。",
         "comment": "移植优化不到位，竞技体验先输一截。",
         "image": "https://assets-prd.ignimgs.com/2026/10/26/codmw4-1793039849361.jpg",
         "score": 93
@@ -77,19 +67,19 @@
         "tag": "质量效应",
         "title": "马德里EA大楼外墙出现“拯救质量效应”涂鸦",
         "link": "https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building",
-        "summary": "BioWare关闭数日后，马德里EA办公楼外墙被喷涂“Save Mass Effect”。事件反映玩家对系列前景的焦虑，也凸显工作室关闭引发的情绪反弹。",
-        "comment": "玩家情绪外溢，EA需回应品牌信任危机。",
+        "summary": "BioWare关闭数日后，马德里EA办公楼外墙被喷涂“Save Mass Effect”。此举反映玩家对系列前景的担忧，事件仍在发酵。",
+        "comment": "玩家情绪外溢，折射对BioWare命运的失望。",
         "image": "https://assets-prd.ignimgs.com/2026/04/04/ss-2358d92931529dba0cadecadca4137860e6304b1-1920x1080-1775300343877.jpg",
         "score": 93
       },
       {
         "category": "游戏影视",
-        "tag": "女神异闻录",
-        "title": "疑似《女神异闻录1》重制版实机画面泄露",
-        "link": "https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
-        "summary": "IGN报道，网络流传一段疑似未公布的《女神异闻录1》重制版实机画面，目前来源与真实性均未获官方确认。",
-        "comment": "泄露若属实，经典重制值得期待，但需等官方定论。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/10/persona-1-and-2-remakes-1786397745091.png",
+        "tag": "Anthropic",
+        "title": "Anthropic更新Claude Opus，封堵AI生成游戏克隆",
+        "link": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+        "summary": "Anthropic为Claude Opus发布更新，阻止其生成充斥Steam等平台的AI游戏克隆内容，收紧模型在游戏生成上的输出边界。",
+        "comment": "平台治理从生成端下手，比事后下架更有效。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/31/claude-1793482027092.png",
         "score": 93
       },
       {
@@ -97,37 +87,27 @@
         "tag": "DeepSeek",
         "title": "DeepSeek发布全新Agent架构：AI指挥AI干活",
         "link": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "DeepSeek推出全新Agent架构，让AI调度AI执行任务，指向多智能体协作的新方向，或改变现有工作流。",
-        "comment": "多智能体协作落地提速，关键看实际任务表现。",
+        "summary": "DeepSeek推出全新Agent架构，让AI能够指挥其他AI完成任务，探索多智能体协作的新路径。",
+        "comment": "多智能体协作迈出关键一步，落地效果待验证。",
         "image": "",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果AI",
-        "title": "iPhone国行AI官宣接入Siri，千问合作落地",
+        "title": "iPhone国行AI官宣，千问接入Siri",
         "link": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿早报称iPhone国行AI官宣、千问接入Siri，DeepSeek千亿融资曝光；另报特斯拉5年零息、Surface Duo 2跑iOS 27、米哈游新游定档。",
-        "comment": "国行AI落地是苹果在华关键一步，合作细节仍待验证。",
+        "summary": "爱范儿早报：iPhone国行AI官宣，千问接入Siri；DeepSeek千亿融资曝光；特斯拉推5年零息方案；米哈游新游定档12月4日公测。",
+        "comment": "国行AI落地是苹果在华关键一步，生态竞争加剧。",
         "image": "",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "小丑回魂",
-        "title": "《小丑回魂：欢迎来到德里》突袭上线万圣节特辑",
-        "link": "https://www.ign.com/articles/it-welcome-to-derry-drops-surprise-halloween-episode",
-        "summary": "HBO在万圣节当天无预告上线《小丑回魂：欢迎来到德里》特别集，以突袭式发布给订阅用户带来惊喜。",
-        "comment": "突袭式上线契合万圣节氛围，是流媒体制造话题的巧招。",
-        "image": "https://assets-prd.ignimgs.com/2025/10/21/it-welcometoderry-blogroll-1761090549798.jpg",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "国行Apple智能官宣，完整版Siri AI仍需等待",
+        "title": "国行Apple智能官宣，满血Siri AI仍需等待",
         "link": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果正式宣布国行Apple智能功能，但完整版Siri AI尚未同步上线，用户需继续等待。",
+        "summary": "苹果国行Apple智能正式官宣，但完整版Siri AI功能尚未同步上线，用户需继续等待。",
         "comment": "国行落地是进展，但核心AI能力缺席，体验仍不完整。",
         "image": "",
         "score": 91
@@ -144,21 +124,11 @@
       },
       {
         "category": "游戏影视",
-        "tag": "龙与地下城",
-        "title": "乔·曼根尼罗仍盼《龙枪》剧集复活",
-        "link": "https://www.ign.com/articles/joe-manganiello-says-he-will-never-give-up-hope-on-his-dd-dragonlance-tv-series",
-        "summary": "好莱坞知名《龙与地下城》玩家乔·曼根尼罗表示，尽管《龙枪》电视剧项目已被取消，他仍希望它能最终落地，并称自己永远不会放弃希望。",
-        "comment": "演员热情可嘉，但项目复活仍取决于平台与版权方。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/31/joe-manganiello-dd-1793467431534.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
         "tag": "万智牌",
         "title": "万智牌中文回归迈出第一步：大型赛事北京开赛",
         "link": "https://www.gcores.com/articles/221748",
         "summary": "10月31日，万智牌聚光灯系列赛在北京首都国际会展中心开赛，869位中外牌手参与竞技、指挥官对战及新手教学，中文语言初步回归。",
-        "comment": "中文回归是玩家争取的结果，但需持续兑现。",
+        "comment": "中文回归是玩家争取的结果，但落地仍需持续观察。",
         "image": "",
         "score": 90
       },
@@ -168,17 +138,7 @@
         "title": "刘慈欣《山》：三体诞生前的科幻神作",
         "link": "https://www.gcores.com/radios/221758",
         "summary": "平行小镇FM深度漫谈刘慈欣短篇《山》，解析泡世界机械文明设定与冯帆登顶水山的自我救赎，跳出黑暗森林叙事。",
-        "comment": "《山》的硬核设定与哲学野心，值得科幻迷重读。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《白银之城》定档12月14日全球公测",
-        "link": "https://www.gcores.com/articles/221736",
-        "summary": "乐元素虚幻引擎5大世界动作RPG《白银之城》宣布2026年12月14日全球公测，登陆PC、PS5、Android、iOS，全球预约已破1500万。",
-        "comment": "预约量亮眼，但跨端大世界能否兑现品质仍待检验。",
+        "comment": "《山》的硬核想象已显露大刘巅峰期锋芒。",
         "image": "",
         "score": 90
       },
@@ -188,14 +148,14 @@
         "title": "核周报10.31：影之刃零发售与多款游戏要闻",
         "link": "https://www.gcores.com/radios/221134",
         "summary": "本期核周报聚焦《影之刃零》发售热潮、《使命召唤：现代战争4》上线反响、微软延长Arkane Lyon买家搜寻期、EA关闭BioWare引发抵制，以及任天堂Indie World新游消息。",
-        "comment": "一周游戏动态密集，BioWare关闭最值得警惕。",
+        "comment": "一周游戏要闻密集，收购与关停风波比新作更抢眼。",
         "image": "",
         "score": 89
       },
       {
         "category": "游戏影视",
         "tag": "独立游戏",
-        "title": "《恶魔连结》Steam大型更新 新增中文支持",
+        "title": "《恶魔连结》Steam大型更新 新增简繁中文",
         "link": "https://www.gcores.com/articles/221737",
         "summary": "独立游戏《恶魔连结》Steam版推出大型更新，新增简体中文、繁体中文及英语支持，并开启一周年促销。",
         "comment": "小众调教题材靠中文化扩圈，促销时机精准。",
@@ -207,70 +167,10 @@
         "tag": "机核",
         "title": "机核2026北京核聚变简短复盘节目上线",
         "link": "https://www.gcores.com/radios/221747",
-        "summary": "机核发布2026年10月号会员节目，简短复盘北京核聚变活动，并延续每月向编辑提问、精选有趣问题录制的互动形式。",
-        "comment": "会员向复盘，信息量有限，适合核心听众。",
+        "summary": "机核发布2026北京核聚变简短复盘节目，属GPASS会员独享的《那我问你》栏目，每月一期，由编辑部挑选留言提问录制分享。",
+        "comment": "会员专属问答节目，复盘价值有限，粉丝向内容。",
         "image": "",
         "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "乌克兰",
-        "title": "乌克兰撤离者与家人团聚：多年困于俄占城市",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-        "summary": "赫尔松州奥列什基居民在俄占期间断粮断水断电，有人靠煮园中杂草维生，近日撤离后与家人重逢。",
-        "comment": "战争人道代价具体而沉重，撤离只是重建的开始。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "埃博拉",
-        "title": "刚果（金）埃博拉疫情致超5000人死亡",
-        "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-        "summary": "刚果（金）政府数据显示，此次埃博拉疫情已致5000多人死亡、逾1万人感染，是该国最严重的一次疫情。",
-        "comment": "疫情规模空前，防控与疫苗可及性仍是关键。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Apple TV",
-        "title": "Apple TV 11月新内容一览",
-        "link": "https://www.ign.com/articles/whats-new-on-apple-tv-november-2026",
-        "summary": "IGN 汇总 Apple TV 11 月上线的新片与剧集，涵盖本月平台新增内容，方便观众安排观看。",
-        "comment": "流媒体片单预告实用，但缺原创亮点难提兴趣。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/14/121212thumb-1791988596841.png",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏优惠",
-        "title": "今日最佳优惠：Apple Watch Ultra 4、塞尔达传说时之笛重制版、皮克敏4等",
-        "link": "https://www.ign.com/articles/best-deals-for-october-31-2026",
-        "summary": "IGN汇总10月31日当日优惠，涵盖Apple Watch Ultra 4、塞尔达传说时之笛重制版、皮克敏4等多款硬件与游戏。",
-        "comment": "促销汇总实用，但重制版消息更值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/applewatchultra-1781130805138.jpg",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "乌克兰",
-        "title": "乌克兰夫妇讲述俄占区前线城市逃生经历",
-        "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-        "summary": "一对撤离的乌克兰夫妇称，他们在俄占前线城市奥列什基穿越雷区寻找食物，最终逃离。",
-        "comment": "平民穿越雷区求生，凸显战区人道困境。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "红墙",
-        "title": "《红墙》系列小说阅读顺序指南",
-        "link": "https://www.ign.com/articles/how-to-read-the-redwall-books-in-order",
-        "summary": "IGN 梳理《红墙》系列小说的推荐阅读顺序，帮助读者按时间线或出版顺序进入这部以动物为主角的奇幻作品。",
-        "comment": "实用型阅读指南，适合新读者入门。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/31/3118-redwall-cover-page-1-530x2x-1793431182882.jpg",
-        "score": 85
       }
     ]
   }
