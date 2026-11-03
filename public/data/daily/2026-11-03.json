@@ -3,34 +3,404 @@
     "week": "周二",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Heimstaden用AI改造欧洲物业管理",
+        "link": "https://openai.com/index/heimstaden",
+        "summary": "Heimstaden借助OpenAI的ChatGPT Enterprise与Codex改造物业管理，降低成本并赋能欧洲员工。",
+        "comment": "AI落地房产管理，重在流程重构而非工具堆砌。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "Apple Watch",
+        "title": "Apple Watch 对话回溯与摘要 AI 功能开启测试",
+        "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+        "summary": "Apple Watch 新增 Audio Intelligence 功能进入测试，可回溯对话内容并生成摘要笔记，帮助用户记住他人说过的话。",
+        "comment": "可穿戴设备正从记录工具转向记忆助手，隐私边界值得关注。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "谷歌",
+        "title": "谷歌Dreambeans登陆印度，支持13种语言",
+        "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+        "summary": "谷歌AI实验产品Dreambeans进入印度市场，支持13种印度语言，旨在让AI生成的个人故事触达更广泛用户。",
+        "comment": "多语言本地化是AI产品下沉的关键一步。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "人工智能",
+        "tag": "苹果",
+        "title": "苹果或借第三方AI应用增收",
+        "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "summary": "苹果在财报电话会上暗示，可能通过第三方AI应用相关机会来增加收入，但未披露具体方案。",
+        "comment": "信号明确但细节缺失，关键看落地方式。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI代理",
+        "title": "YC掌门人坦承年耗20万美元AI代币",
+        "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "summary": "Y Combinator的Garry Tan称自己重度使用AI代理，年花最多20万美元买token，还自嘲出现“赛博精神病”、有时几乎不睡。",
+        "comment": "AI代理狂热已从工具变成高强度依赖。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "游戏影视",
+        "tag": "塞尔达传说",
+        "title": "塞尔达传说：时之笛重制版全球解锁时间公布",
+        "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-global-release-times",
+        "summary": "IGN公布《塞尔达传说：时之笛》重制版全球各时区解锁时间，游戏即将发售，玩家可据此规划游玩时间。",
+        "comment": "经典重制，解锁时间公布意味着发售临近，值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/03/thelegendofzeldaocarinaoftime-46-1793701805613.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Xbox",
+        "title": "《南方午夜》创意总监称Xbox资金模式不可持续",
+        "link": "https://www.ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
+        "summary": "《南方午夜》创意总监David Sears表示，他早就担心Xbox过去那种宽松的开发资金投入不可持续，并称自己会更早停止这种“资金水龙头”。",
+        "comment": "微软收购后遗症显现，工作室对资金依赖的反思值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2024/11/11/southofmidnight-preview-blogroll-1731361912780.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Netflix",
+        "title": "Netflix《Bass X Machina》第一集评测：蒸汽朋克版巴斯·里维斯起源故事",
+        "link": "https://www.ign.com/articles/bass-x-machina-episode-1-review-netflix",
+        "summary": "IGN评测Netflix新剧《Bass X Machina》第一集，该剧以蒸汽朋克风格重新演绎美国副法警巴斯·里维斯的传奇，本质上是这一版本角色的起源故事。",
+        "comment": "蒸汽朋克混搭西部传奇，创意亮眼但首集执行待观察。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/03/bass-x-machina-thumb-1793666648660.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影",
+        "title": "九寸钉成员为芬奇新片《克利夫·布斯的进一步不幸遭遇》配乐",
+        "link": "https://www.ign.com/articles/trent-reznor-and-atticus-ross-have-provided-the-score-to-david-finchers-the-further-mis-adventures-of-cliff-booth",
+        "summary": "Trent Reznor与Atticus Ross已为大卫·芬奇新片《克利夫·布斯的进一步不幸遭遇》完成配乐，这是两人与芬奇的又一次合作。",
+        "comment": "芬奇御用配乐组合再联手，影片音乐质感值得期待。",
+        "image": "https://assets-prd.ignimgs.com/2021/06/02/bradpittonceuponatimeinhollywood-1622671012760.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "调查显示部分GTA粉丝愿为提前玩GTA 6放弃宠物",
+        "link": "https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
+        "summary": "IGN报道，一项针对1300名美国玩家的调查显示，部分GTA粉丝为提前体验GTA 6，竟表示愿意放弃自己的宠物，反映出对该游戏的极端期待。",
+        "comment": "玩家热情可理解，但拿宠物做假设性牺牲，更多是话题性噱头。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/03/gta-6-fan-survey-shows-players-would-give-up-pets-1793666495225.jpg",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "GPT-6",
+        "title": "GPT-6 Astra 微调 Qwen 大脑：仅动 0.016% 参数，数学成绩大涨",
+        "link": "https://www.ifanr.com/1687285?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道，GPT-6 Astra 对 Qwen 模型进行极少量参数微调，仅改动 0.016% 参数，数学能力显著提升，展示高效模型改造思路。",
+        "comment": "极小改动撬动能力跃升，模型微调效率值得关注。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "苹果产品涨价背后：AI投入压力显现",
+        "link": "https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿分析称，苹果产品与服务价格上行，与AI研发和算力投入加大有关，成本压力正传导至消费者。",
+        "comment": "AI竞赛成本高企，苹果涨价或成常态。",
+        "image": "",
+        "score": 91
+      },
+      {
         "category": "数码科技",
         "tag": "苹果财报",
         "title": "苹果第四财季营收增12%，服务收入创新高",
         "link": "https://www.ifanr.com/1687189?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果第四财季营收同比增长12%，服务收入再创新高；《影之刃零》72小时销量破400万套；三星Fold9或回归屏下摄像头。",
-        "comment": "苹果服务业务成增长引擎，硬件创新压力仍在。",
+        "summary": "苹果第四财季营收同比增长12%，服务收入再创新高；《影之刃零》72小时销量破400万套；曝三星Fold9回归屏下摄像头，下一代触屏MacBook Pro将换新模具。",
+        "comment": "苹果靠服务撑增长，硬件创新节奏仍偏保守。",
         "image": "",
         "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "中国之星计划",
+        "title": "中国之星计划第四期升级：单项目获百万美元投资",
+        "link": "https://www.gcores.com/articles/221889",
+        "summary": "索尼互动娱乐宣布中国之星计划第四期升级，每个入选项目获价值100万美元投资，并新增電夢、S2G等战略合作伙伴，拓展全球网络。",
+        "comment": "加码投资与全球渠道，国产主机游戏出海提速。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Steam",
+        "title": "10月Steam新作近半数披露使用AI",
+        "link": "https://www.gcores.com/articles/221856",
+        "summary": "Reddit用户统计显示，10月Steam新发售游戏中49.9%标明使用生成式AI，较2024年1月披露制度启动时的1.7%大幅上升。",
+        "comment": "AI披露比例飙升，游戏业已难回避生成式AI。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "战争机器",
+        "title": "外媒证实《战争机器：事变日》5亿美元预算",
+        "link": "https://www.gcores.com/articles/221836",
+        "summary": "外媒证实《战争机器：事变日》约5亿美元预算属实，微软审计将《战争机器5》至本作期间预算划入The Coalition工作室，此前报道称游戏销量仅40万。",
+        "comment": "高预算低销量，微软这笔账不好算。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏文化",
+        "title": "Friendslop 入选柯林斯词典，年度词被 Mogging 击败",
+        "link": "https://www.ign.com/articles/friendslop-added-to-collins-dictionary",
+        "summary": "柯林斯词典收录 Friendslop，但年度词由 Mogging 获得。IGN 用网络俚语调侃这一结果，称 Friendslop 落败、Mogging 胜出。",
+        "comment": "词典收录网络俚语，反映游戏社群话语影响力上升。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/03/ss-84436aac3675c39a9e21a14a4a9a3a8a7d9dea26-1920x1080-1793706464744.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "电影",
+        "title": "约翰·古德曼称《Digger》影评在影片上映前就将其扼杀",
+        "link": "https://www.ign.com/articles/john-goodman-says-digger-reviews-killed-the-movie-before-it-was-released",
+        "summary": "约翰·古德曼认为，《Digger》上映前遭遇的负面影评直接扼杀了这部电影，使其未映先衰。",
+        "comment": "影评提前定调，确实可能左右小众影片命运。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/29/digger-thumb-1790694321517.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "无主之地",
+        "title": "无主之地系列销量突破1亿份，Gearbox暗示新作计划",
+        "link": "https://www.gamespot.com/articles/borderlands-2-is-still-the-best-selling-game-in-the-series-despite-borderlands-4-milestone/",
+        "summary": "Gearbox宣布《无主之地4》推动系列总销量突破1亿份，但《无主之地2》仍是系列最畅销作品，官方同时暗示后续计划。",
+        "comment": "1亿销量印证IP生命力，新作能否延续热度待观察。",
+        "image": "https://www.gamespot.com/wp-content/uploads/original/1837/18375603/4598238-borderlands4.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GOG",
+        "title": "GOG欲复兴PC实体游戏，但有关键限制",
+        "link": "https://www.gamespot.com/articles/gog-wants-to-bring-back-physical-pc-games-but-theres-a-catch/",
+        "summary": "GOG计划重新推出PC实体游戏，但附带条件。PC玩家已习惯全数字发行数十年，此举能否改变现状仍待观察。",
+        "comment": "实体回归有情怀，但数字习惯难逆转，关键看条件。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Flashback.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "AI版转转做旧衣生意，毛利达80%",
+        "link": "https://www.ifanr.com/1687274?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道一种AI版转转模式，用AI帮用户从大量旧衣中挑出合适衣物，文章称其毛利可达80%。",
+        "comment": "AI选衣切入二手流通，高毛利能否规模化待验证。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "苹果",
+        "title": "乔布斯祖训与触屏MacBook何以同时成立",
+        "link": "https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿硬哲学栏目分析苹果触屏MacBook传闻，探讨其与乔布斯产品理念如何并存，并关注特努斯主导新品的可能路径。",
+        "comment": "理念之争背后是苹果产品路线的现实转向。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "冰汽时代2",
+        "title": "《冰汽时代2》DLC3“激流”12月14日上线",
+        "link": "https://www.gcores.com/articles/221844",
+        "summary": "《冰汽时代2》DLC3“激流”将于12月14日登陆PC和主机平台，讲述人类在神秘山谷求生的宏大剧情，内含多重分支抉择。",
+        "comment": "大体量剧情DLC，分支抉择是系列核心卖点。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "音游",
+        "title": "硬核音游《韵律源点Arcaea》国服上线",
+        "link": "https://www.gcores.com/articles/221843",
+        "summary": "lowiro开发的硬核下落式音游《韵律源点Arcaea》国服现已上线，其独创双层立体式玩法与二次元曲风曾吸引大量玩家。",
+        "comment": "硬核音游入华，小众品类再添正版入口。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "独立游戏",
+        "title": "《卷尺人》定档11月11日登陆Steam",
+        "link": "https://www.gcores.com/articles/221862",
+        "summary": "TearBird开发、INDIENOVA发行的2D平台解谜游戏《卷尺人》将于2026年11月11日登陆Steam，国区定价34元，首发两周八五折28.9元，玩家用卷尺探索谜题迷宫。",
+        "comment": "卷尺机制有巧思，但定档尚远，先看后续试玩。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏音乐",
+        "title": "GGG游戏节奏联欢夜13分钟高光混剪回顾",
+        "link": "https://www.gcores.com/videos/221848",
+        "summary": "机核发布13分钟全场高光混剪，回顾GGG游戏节奏联欢夜两个夜晚，涵盖19个IP的现场演出，带玩家重温与两千多名观众共度的游戏音乐时刻。",
+        "comment": "线下游戏音乐会渐成玩家情感连接的新场景。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "合作游戏",
+        "title": "《哥布林女仆大扫除》海盗湾更新上线",
+        "link": "https://www.gcores.com/articles/221839",
+        "summary": "Team17与Crisalu Games宣布合作清洁游戏《哥布林女仆大扫除》推出海盗地牢更新，新增两座关卡，并在Steam上线含原声带的豪华版。",
+        "comment": "清洁玩法加海盗主题，更新节奏稳，适合联机尝鲜。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "联名键盘",
+        "title": "吉考斯工业与NuPhy联名键盘发售",
+        "link": "https://www.gcores.com/articles/221808",
+        "summary": "吉考斯工业与NuPhy推出Kick75联名矮轴键盘，80键布局，支持蓝牙、有线、2.4G三模，内置2500mAh电池，续航最长360小时，键帽与背板融入齿轮机械元素。",
+        "comment": "联名设计有主题感，但矮轴键盘受众偏窄。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "乌克兰称俄军轰炸援助中心致31人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "summary": "乌方称俄军向南部村庄投下至少九枚3000公斤航空炸弹，击中援助中心，造成31人死亡，总统称袭击极其骇人。",
+        "comment": "针对民用援助点的重弹袭击，战争残酷性再度升级。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "机核",
+        "title": "机核录音笔VOL.817聊女魔头为何让人上头",
+        "link": "https://www.gcores.com/radios/221847",
+        "summary": "机核会员专享节目录音笔第817期，围绕女魔头角色为何令人着迷展开碎碎念式讨论，内容来自办公室日常记录，时长约十几分钟。",
+        "comment": "标题吸睛但内容偏闲聊，适合粉丝解闷。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美伊关系",
+        "title": "美国中期选举前对伊朗格什姆岛发动打击",
+        "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+        "summary": "美方称对伊朗格什姆岛的袭击属有限防御性质，BBC美国合作方CBS报道。行动发生在中期选举前，时机敏感。",
+        "comment": "选举前动武，国内政治考量大于军事必要。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "网络安全",
+        "title": "欧洲九国超市冰柜遭网络攻击",
+        "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+        "summary": "从爱沙尼亚、瑞典到葡萄牙和意大利，多国超市报告冰柜系统遭网络攻击，部分零售商被迫丢弃食品，欧洲进入警戒状态。",
+        "comment": "攻击瞄准冷链基础设施，暴露零售业网络安全短板。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "亚洲杯",
+        "title": "沙特遭袭后2027亚洲杯延期",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+        "summary": "因沙特阿拉伯遭遇一系列致命袭击，原定在该国举办的2027年亚洲杯被推迟，赛事安排因此生变。",
+        "comment": "安全风险直接冲击大型赛事，延期是无奈但必要之举。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "生化危机",
+        "title": "《生化危机》票房大卖后上线数字平台",
+        "link": "https://www.ign.com/articles/resident-evil-lands-on-digital-after-monstrous-box-office-run",
+        "summary": "《生化危机》电影在院线取得亮眼票房后，现已登陆数字平台，IGN报道了这一发行进展。",
+        "comment": "票房成功后迅速转数字，是当下电影发行的常规节奏。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/16/residentevil-review-blogroll-1789573947783.jpg",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "足球",
+        "title": "特内里费前锋德米格尔球场碰撞后去世，年仅30岁",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+        "summary": "西班牙乙级联赛特内里费前锋赫苏斯·德米格尔在比赛中与对手碰撞后身亡，年仅30岁。俱乐部与联赛方面已确认这一消息。",
+        "comment": "赛场意外再敲运动员安全警钟，愿逝者安息。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "珠峰",
+        "title": "珠峰大本营附近两直升机相撞致印度游客死亡",
+        "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+        "summary": "两架直升机在珠峰大本营附近试图在同一地点降落时，于距地面仅数米处相撞，造成一名印度游客死亡。",
+        "comment": "高海拔观光飞行安全风险再次暴露，监管亟待加强。",
+        "image": "",
+        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "乌克兰",
         "title": "欧洲数千军人将演练乌克兰和平部署",
         "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-        "summary": "西方官员强调，若向乌克兰派遣部队，将不参与任何进攻行动，此次演练针对和平情境下的部署准备。",
-        "comment": "演练先行，意在威慑与安抚并重。",
+        "summary": "西方官员强调，派往乌克兰的部队不会参与任何进攻行动，此次演练针对和平协议达成后的部署预案。",
+        "comment": "演练和平部署，实为对俄威慑与预案准备。",
         "image": "",
-        "score": 87
+        "score": 86
       },
       {
         "category": "时事热点",
-        "tag": "航空安全",
-        "title": "调查：佛州致命坠机前飞机或已解体",
-        "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国国家运输安全委员会认为，佛州致命坠机发生前飞机可能已在空中解体，天气也可能是因素之一，但表示目前判定原因仍为时过早。",
-        "comment": "调查尚在早期，但“空中解体”指向结构性或极端工况问题。",
+        "tag": "佛州坠机",
+        "title": "佛州坠机或空中解体，一家四口遇难",
+        "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+        "summary": "美国佛州一架喷气机坠毁前可能已在空中解体，官方确认机上罗宾逊一家四口遇难，包括两名幼童。",
+        "comment": "空难细节待查，家庭悲剧令人痛心。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "美非贸易",
+        "title": "特朗普拟将卢旺达和南非移出美国贸易协定",
+        "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普计划把卢旺达和南非从美国贸易协定中移除，此举距美国财政部制裁卢旺达国防部仅约一周。",
+        "comment": "贸易工具与制裁联动，非洲政策更趋强硬。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "委内瑞拉",
+        "title": "美国敦促委内瑞拉释放剩余政治犯",
+        "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+        "summary": "美国国务卿就委内瑞拉释放剩余政治犯施压，并讨论为举行自由、公正、可信的选举奠定基础。",
+        "comment": "美方以选举为条件施压，委内瑞拉局势仍存变数。",
+        "image": "",
+        "score": 85
       }
     ]
   }
