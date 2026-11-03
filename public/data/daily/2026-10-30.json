@@ -7,8 +7,8 @@
         "tag": "OpenAI",
         "title": "OpenAI支持网站通过robots.txt表达AI训练偏好",
         "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-        "summary": "OpenAI将遵循共享的robots.txt信号，让网站运营者能向参与该机制的AI提供商传达其AI训练偏好。",
-        "comment": "把训练偏好纳入通用协议，是降低数据争议的务实一步。",
+        "summary": "OpenAI宣布将遵循共享的robots.txt信号，让网站运营者能向参与该机制的AI服务商传达其内容是否可用于AI训练的偏好。",
+        "comment": "把训练偏好纳入robots.txt，是行业自律的一步，但约束力仍有限。",
         "image": "",
         "score": 100
       },
@@ -17,70 +17,20 @@
         "tag": "OpenAI",
         "title": "OpenAI发布社区安全报告并加强对青少年的保护",
         "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-        "summary": "OpenAI在ChatGPT中强化暴力预防措施，扩大防护机制并提前介入，同时承诺定期发布公共安全报告。",
-        "comment": "安全治理从被动响应转向主动预防，值得关注。",
+        "summary": "OpenAI在ChatGPT中强化暴力预防措施，扩大安全防护、提前干预，并承诺定期公开安全报告。",
+        "comment": "AI安全从被动响应转向主动预防，值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发文力挺合理使用：AI训练与创新受益",
+        "title": "OpenAI发布多方陈述支持合理使用",
         "link": "https://openai.com/index/fair-use-benefits-everyone",
-        "summary": "OpenAI汇总创作者、学者、无障碍倡导者及法律专家法庭意见书节选，论证合理使用原则支撑AI训练与创新。",
-        "comment": "借多方声音为训练数据版权争议造势，意在争取法律与舆论空间。",
+        "summary": "OpenAI公开创作者、学者、无障碍倡导者及法律专家等提交的法庭陈述节选，说明合理使用原则如何支持AI训练与创新。",
+        "comment": "合理使用之争，实为AI训练数据版权边界的关键博弈。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI助手",
-        "title": "主打隐私保护的AI助手Ollie宣布一周内关停",
-        "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-        "summary": "AI助手市场竞争加剧，注重用户隐私的Ollie创始人宣布产品将在一周内停止运营，反映隐私型AI工具面临的生存压力。",
-        "comment": "隐私卖点难敌巨头规模，小众AI助手生存空间收窄。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "游戏影视",
-        "tag": "使命召唤",
-        "title": "《使命召唤：现代战争》因争议删除韩国真实惨案片段",
-        "link": "https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/",
-        "summary": "动视回应批评，宣布从《使命召唤：现代战争4》中移除涉及韩国真实惨案的关卡内容，此前该片段因消费悲剧引发玩家与舆论反弹。",
-        "comment": "拿真实惨案做游戏素材，删得对，但反思不该止于删。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/codmw4-image.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "EA",
-        "title": "EA搁置神秘《模拟人生》项目，对玩家或是好消息",
-        "link": "https://www.gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players/",
-        "summary": "EA叫停一个未公开的《模拟人生》项目。在行业裁员与项目取消频发的背景下，此举或意味着资源将集中到更成熟的产品线上。",
-        "comment": "砍掉边缘项目，未必是坏事，关键看资源流向。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/GrimReaper.png?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "影之刃零",
-        "title": "《影之刃零》主角配音疑临阵换人",
-        "link": "https://www.gamespot.com/articles/phantom-blade-zero-lead-voice-actor-was-seemingly-replaced-at-the-last-minute/",
-        "summary": "《影之刃零》主角Soul的配音演员似乎在最后阶段被替换，接任者为长期为索尼克配音的Roger Craig Smith。",
-        "comment": "临阵换将，成品表现与原因都值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Roger-has-had-too-much-coffee.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "刺客信条",
-        "title": "《刺客信条》新作发售，这次是桌游",
-        "link": "https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/",
-        "summary": "GameSpot报道，今年并非没有《刺客信条》新作，只是它并非电子游戏。名为《刺客信条：Animus》的桌游已于今日发售，将系列改编为桌面体验。",
-        "comment": "IP衍生到桌游，是低成本试水，也是粉丝向补充。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/10/AC-Animus.jpg?w=300",
-        "score": 89
       }
     ]
   }
