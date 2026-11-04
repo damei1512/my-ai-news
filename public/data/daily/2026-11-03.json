@@ -4,20 +4,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "AI推理",
-        "title": "AI推理初创公司Fal估值翻倍至160亿美元",
-        "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-        "summary": "成立五年的AI推理初创公司Fal完成13亿美元融资，由Bessemer领投，估值翻倍至160亿美元，反映市场对AI推理需求激增。",
-        "comment": "推理需求爆发，资本加速押注基础设施层。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI：ChatGPT与Codex加速实体工程研发",
+        "title": "OpenAI：ChatGPT与Codex加速物理世界工程",
         "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-        "summary": "OpenAI介绍ChatGPT与Codex如何帮助工程师加速CAD、PCB设计、仿真等实体世界工作流程，提升工程研发效率。",
+        "summary": "OpenAI介绍ChatGPT与Codex如何帮助工程师加速CAD、PCB设计、仿真等物理世界工作流，提升工程效率。",
         "comment": "AI正从写代码延伸到硬件工程全流程。",
         "image": "",
         "score": 100
@@ -25,20 +15,20 @@
       {
         "category": "人工智能",
         "tag": "网络安全",
-        "title": "思科借助OpenAI模型以机器速度防御网络威胁",
+        "title": "思科借助OpenAI模型以机器速度防御网络攻击",
         "link": "https://openai.com/index/cisco-cyber",
-        "summary": "思科将网络智能与OpenAI模型结合，强化企业安全防护，构建更具适应性的防御体系，以机器速度应对网络攻击。",
-        "comment": "AI与网络安全融合加速，防御自动化成为企业刚需。",
+        "summary": "思科将网络智能与OpenAI模型结合，强化企业安全防护，构建更具适应性的防御体系，以机器速度应对网络威胁。",
+        "comment": "AI与网络安全融合加速，防御自动化成企业刚需。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "Heimstaden用AI改造欧洲房产管理",
+        "title": "Heimstaden用AI改造欧洲物业管理",
         "link": "https://openai.com/index/heimstaden",
         "summary": "Heimstaden借助OpenAI的ChatGPT Enterprise与Codex改造物业管理，降低成本并赋能欧洲员工。",
-        "comment": "AI落地房产管理，重在流程重塑而非工具堆砌。",
+        "comment": "AI落地房产管理，关键在流程重构而非工具堆叠。",
         "image": "",
         "score": 100
       },
@@ -47,140 +37,10 @@
         "tag": "OpenAI",
         "title": "OpenAI任命Jill Hazelbaker为首席企业事务官",
         "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-        "summary": "OpenAI宣布Jill Hazelbaker出任首席企业事务官，负责全球传播与企业定位，显示其正加强对外沟通和公共事务布局。",
-        "comment": "AI巨头补强企业事务，意在应对监管与舆论压力。",
+        "summary": "OpenAI宣布Jill Hazelbaker出任首席企业事务官，负责全球传播与企业定位，显示其正加强对外沟通与公共事务布局。",
+        "comment": "AI巨头补强公关与政策沟通，为扩张铺路。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic研发FlashProve系统验证AI模型身份",
-        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-        "summary": "Anthropic正在开发名为FlashProve的系统，让任何人都能核验AI回复是否确实来自其声称的模型，以应对模型身份冒用问题。",
-        "comment": "模型身份可验证是信任基础设施的关键一步。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "数据中心",
-        "title": "数据中心因电网等待转向旧喷气发动机供电",
-        "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-        "summary": "数据中心接入电网和新涡轮机需等待数年，建设者转而采用旧喷气发动机发电，效率更低且更不环保。",
-        "comment": "AI算力扩张正以环境代价换取供电速度。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Palantir",
-        "title": "Palantir美国商业收入首超政府收入",
-        "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-        "summary": "Palantir季度业绩飙升，美国商业收入首次超过美国政府收入，但报道认为其中隐藏着一个不祥信号。",
-        "comment": "商业收入反超政府收入，增长结构变化值得警惕。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic算力经济性仍承压，利润率不升反降",
-        "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-        "summary": "TechCrunch指出，在算力利润率本应改善之际，Anthropic的算力经济性反而恶化，反映AI模型公司仍难平衡高昂算力成本与商业回报。",
-        "comment": "算力成本正成为大模型公司的核心经营难题。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌允许学校禁用AI工具，但须放弃搜索",
-        "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-        "summary": "谷歌允许学校完全禁用其AI工具，但因AI功能已整合进搜索引擎，选择限制AI的学校将无法使用谷歌搜索。",
-        "comment": "AI捆绑搜索，学校的选择权名存实亡。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "苹果",
-        "title": "苹果新规：约会应用与AI伴侣限18岁以上",
-        "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-        "summary": "苹果App Store新规要求，提供性或浪漫内容的约会应用及AI伴侣应用必须标注18+评级，限制未成年用户使用。",
-        "comment": "平台收紧年龄门槛，AI伴侣监管进入实操阶段。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "网络安全",
-        "title": "Ballistic Ventures拟募资4.9亿美元，押注AI网络安全热潮",
-        "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-        "summary": "专注网络安全的Ballistic Ventures计划为新旗舰基金募资3.6亿美元，另设1.3亿美元独立基金，借AI驱动安全需求升温扩张。",
-        "comment": "AI安全需求升温，风投募资节奏加快，但落地回报仍待验证。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "Netflix",
-        "title": "Netflix推出AI发现标签，按心情推荐内容",
-        "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-        "summary": "Netflix上线实验性AI Discover标签，用户可按当前心情获取影视推荐，这是该标签下的首个实验功能。",
-        "comment": "推荐从行为匹配转向情绪匹配，体验更自然。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6确认附赠实体地图，可免费或低价获取",
-        "link": "https://www.gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap/",
-        "summary": "Rockstar确认《GTA 6》将于11月19日发售，并公布实体赠品细节，玩家可免费或低价获得游戏实体地图。",
-        "comment": "实体赠品是Rockstar拉动预购的常规手段。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Leonida_Keys_05_76fdf9.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "微软用鳄鱼造型定制Xbox为GTA6造势",
-        "link": "https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/",
-        "summary": "索尼握有GTA6营销权，微软另辟蹊径，推出内嵌于鳄鱼造型的定制Xbox主机，作为该开放世界犯罪游戏的创意宣传。",
-        "comment": "营销权旁落，微软靠猎奇硬件刷存在感。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/gator-Large.jpeg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》萨满玩家抗议职业改动被忽视",
-        "link": "https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored/",
-        "summary": "《魔兽世界：永恒》上线前发布大规模职业平衡更新，整体提升职业强度，但萨满玩家认为自身诉求被完全忽视，正发起抗议。",
-        "comment": "平衡补丁难平众口，萨满抗议暴露沟通短板。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Shaman-Protest.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》短期内不再调整职业平衡",
-        "link": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/",
-        "summary": "《魔兽世界：永恒》上线前将进行大规模职业平衡调整，但至少一个月内不会再有新改动，官方已在首发补丁中说明。",
-        "comment": "首发平衡压力大，暂缓调整可理解，但玩家耐心有限。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-No-Balance-Changes-For-A-Month.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》上线前大幅提升全职业伤害",
-        "link": "https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch/",
-        "summary": "暴雪宣布《魔兽世界：永恒》上线时将整体提高各职业伤害输出，以解决设计问题并改善玩家体验。",
-        "comment": "上线前调数值是稳妥做法，但平衡性仍待实战检验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Class-Damage-Boost.jpg?w=300",
-        "score": 90
       }
     ]
   }

@@ -7,8 +7,8 @@
         "tag": "OpenAI",
         "title": "OpenAI 构建 Pando：为 Codex 规模扩展 Git",
         "link": "https://openai.com/index/scaling-git-at-openai",
-        "summary": "OpenAI 推出兼容 Git 的后端 Pando，用于支撑 Codex 带来的大规模开发需求，解决代码仓库规模增长下的性能问题。",
-        "comment": "AI 编程提速后，底层代码基础设施也得跟着重做。",
+        "summary": "OpenAI 介绍 Pando，一个兼容 Git 的后端，用于支撑 Codex 带来的大规模开发需求，解决代码仓库在超大规模下的性能与协作瓶颈。",
+        "comment": "AI 编程规模化倒逼基础设施自研，Git 后端成新战场。",
         "image": "",
         "score": 100
       },
@@ -17,60 +17,10 @@
         "tag": "OpenAI",
         "title": "OpenAI推出电网保护者计划",
         "link": "https://openai.com/index/grid-protectors-program",
-        "summary": "OpenAI宣布电网保护者计划，将与公用事业公司合作，帮助未来算力园区支持电网可靠性并保护消费者电费。",
-        "comment": "AI算力扩张开始主动对接电力基础设施，方向务实。",
+        "summary": "OpenAI启动Grid Protectors Program，将与公用事业公司合作，帮助未来算力园区支撑电网可靠性并保护消费者电费。",
+        "comment": "AI算力扩张正倒逼其主动承担能源责任。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI启动新一轮安全冲刺强化防御",
-        "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-        "summary": "OpenAI宣布与Cathedral Systems合作开展新一轮内部安全冲刺，利用AI测试并强化自身防御能力。",
-        "comment": "AI攻防进入自我对抗阶段，安全投入正成为模型公司核心竞争力。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI提高安全漏洞赏金并增设奖励",
-        "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-        "summary": "OpenAI提高安全漏洞赏金，并为独立安全研究员新增报告质量、忠诚度及优先活动奖金。",
-        "comment": "用奖金换安全，AI公司开始重视白帽生态。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI发布LifeVal基准，评估AI处理日常事务能力",
-        "link": "https://openai.com/index/lifeval",
-        "summary": "OpenAI推出LifeVal基准，衡量AI在托儿、理财、政府文书等日常任务中帮助人的效果，而非仅看答题准确率。",
-        "comment": "评测转向真实生活任务，更贴近AI实用价值。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代码审查",
-        "title": "Qodo为Codex注入上下文，强化AI代码审查",
-        "link": "https://openai.com/index/qodo-codex-plugin",
-        "summary": "Qodo将企业知识与编码规范引入Codex，帮助开发者在提交PR前跨仓库发现P0级问题。",
-        "comment": "AI代码审查正从通用模型转向企业上下文定制。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox Game Pass",
-        "title": "Xbox Game Pass 11月迎来多款首发游戏",
-        "link": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/",
-        "summary": "微软公布11月Game Pass新游戏阵容，月初上线多款首发作品，订阅用户可第一时间体验。",
-        "comment": "首发阵容密集，订阅价值短期提升。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Warhammer-Survivors.jpg?w=300",
-        "score": 91
       }
     ]
   }
