@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI自研Git后端Pando支撑Codex规模开发",
+        "title": "OpenAI自研Git后端Pando支撑Codex开发规模",
         "link": "https://openai.com/index/scaling-git-at-openai",
-        "summary": "OpenAI介绍其自研的Git兼容后端Pando，专为Codex带来的大规模开发场景设计，以应对现有Git在超大规模下的性能瓶颈。",
-        "comment": "AI编程工具倒逼基础设施自研，值得关注。",
+        "summary": "OpenAI介绍其构建的Git兼容后端Pando，专为Codex带来的大规模开发场景设计，以应对代码仓库与协作规模的增长。",
+        "comment": "AI写代码倒逼基础设施升级，Git也需重构。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,18 @@
         "tag": "OpenAI",
         "title": "OpenAI推出电网保护者计划",
         "link": "https://openai.com/index/grid-protectors-program",
-        "summary": "OpenAI启动Grid Protectors Program，将与公用事业公司合作，帮助未来算力园区支撑电网可靠性并保护消费者电费。",
-        "comment": "AI算力扩张正倒逼其主动承担电网责任。",
+        "summary": "OpenAI启动电网保护者计划，与公用事业公司合作，帮助未来算力园区支持电网可靠性并保护消费者电费。",
+        "comment": "AI算力扩张正倒逼能源协同，值得关注。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI提高安全漏洞赏金并增设奖励",
+        "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "summary": "OpenAI提高安全漏洞赏金，并为独立安全研究员新增报告质量、忠诚度及优先活动奖金。",
+        "comment": "用奖金换安全，AI公司开始为漏洞买单。",
         "image": "",
         "score": 100
       },
@@ -27,18 +37,8 @@
         "tag": "OpenAI",
         "title": "OpenAI筹备下一轮安全冲刺，强化自身防御",
         "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-        "summary": "OpenAI将与Cathedral Systems开展下一轮内部安全冲刺，利用AI测试并强化自身防御能力。",
-        "comment": "AI公司用AI加固自身安全，攻防节奏正在加快。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI提高安全漏洞赏金并新增奖励机制",
-        "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-        "summary": "OpenAI提高安全漏洞赏金金额，并为独立安全研究员新增报告质量、忠诚度及优先活动奖金。",
-        "comment": "用经济激励换取更高质量的安全报告，方向务实。",
+        "summary": "OpenAI宣布与Cathedral Systems合作开展新一轮内部安全冲刺，利用AI测试并强化自身防御能力。",
+        "comment": "AI公司用AI加固自身安全，攻防同源成趋势。",
         "image": "",
         "score": 100
       },
@@ -47,8 +47,8 @@
         "tag": "OpenAI",
         "title": "OpenAI推出LifeVal基准，评估AI完成日常任务能力",
         "link": "https://openai.com/index/lifeval",
-        "summary": "OpenAI发布LifeVal基准，衡量AI在托育查找、财务管理和政府文书等日常事务中帮助人们完成任务的效果。",
-        "comment": "评测转向真实生活任务，比刷榜更贴近用户价值。",
+        "summary": "OpenAI发布LifeVal基准，用于衡量AI在托育查找、财务管理和政府文书等日常事务中帮助人们完成任务的效果。",
+        "comment": "评测转向真实生活场景，比刷榜更有参考价值。",
         "image": "",
         "score": 100
       },
@@ -57,60 +57,20 @@
         "tag": "OpenAI",
         "title": "OpenAI任命Dan Driscoll为国家安全现代化高级顾问",
         "link": "https://openai.com/index/dan-driscoll-joins-openai",
-        "summary": "OpenAI宣布任命Dan Driscoll为高级顾问，负责就国家安全现代化、网络韧性及与盟友合作中的负责任AI提供建议。",
+        "summary": "OpenAI宣布任命Dan Driscoll为高级顾问，负责就国家安全现代化中的负责任AI应用、网络韧性及与盟友合作提供建议。",
         "comment": "AI巨头加速嵌入国家安全体系，合规与地缘博弈并进。",
         "image": "",
         "score": 100
       },
       {
-        "category": "数码科技",
-        "tag": "AI编程",
-        "title": "卡帕西用Claude两小时重做YouTube",
-        "link": "https://www.ifanr.com/1687094?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "卡帕西借助Claude在两小时内重建YouTube式产品，展示AI快速复刻软件与信息入口的能力，指向人人可拥有个人互联网。",
-        "comment": "AI复刻软件门槛骤降，产品护城河面临重估。",
-        "image": "",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "新能源汽车",
-        "title": "零跑破10万、小鹏小米跨5万，10月车市遇最冷银十",
-        "link": "https://www.ifanr.com/1687113?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "零跑月销破10万辆，小鹏、小米跨过5万辆关口，但10月车市整体遇冷，被称为最冷银十，内卷见顶后出海或成下一站。",
-        "comment": "销量分化加剧，车市内卷见顶，出海成必答题。",
-        "image": "",
-        "score": 91
-      },
-      {
         "category": "游戏影视",
         "tag": "Xbox Game Pass",
-        "title": "Xbox Game Pass 11月多款新作首发入库",
+        "title": "Xbox Game Pass 11月多款游戏首发入库",
         "link": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/",
-        "summary": "微软公布Xbox Game Pass 11月新增游戏阵容，月初即有多款作品首发上线，订阅用户可第一时间体验。",
-        "comment": "首发入库密度提升，Game Pass内容竞争力继续加码。",
+        "summary": "微软公布 Xbox Game Pass 11月新增游戏阵容，月初上线多款首发入库作品，订阅用户可第一时间体验。",
+        "comment": "首发入库增多，订阅价值继续抬升。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Warhammer-Survivors.jpg?w=300",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "奔驰",
-        "title": "奔驰新款长轴距E级发布，全面支持华为手机",
-        "link": "https://www.ifanr.com/1687178?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "奔驰发布新款长轴距E级，起售价42.38万元，并全面支持华为手机，补齐车机互联短板。",
-        "comment": "豪华品牌主动适配华为，车机生态竞争加剧。",
-        "image": "",
-        "score": 90
-      },
-      {
-        "category": "数码科技",
-        "tag": "演唱会",
-        "title": "500万人抽签看陈奕迅，AI能否终结抢票时代",
-        "link": "https://www.ifanr.com/1687130?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿探讨演唱会抽签购票模式，以500万人抽签看陈奕迅为例，分析AI能否解决抢票难题。",
-        "comment": "抽签只是权宜之计，AI治标难治本。",
-        "image": "",
-        "score": 90
       }
     ]
   }
