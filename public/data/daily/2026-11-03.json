@@ -4,20 +4,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic研发FlashProve系统验证AI模型身份",
-        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-        "summary": "Anthropic正在开发名为FlashProve的系统，让任何人都能核验AI回复是否确实来自其声称的模型，以应对模型身份冒用问题。",
-        "comment": "模型身份验证是AI信任基础设施的关键一步。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "AI推理",
         "title": "AI推理初创公司Fal估值翻倍至160亿美元",
         "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-        "summary": "成立五年的Fal完成13亿美元融资，由Bessemer领投，估值翻倍至160亿美元，反映AI推理需求激增。",
+        "summary": "成立五年的AI推理初创公司Fal完成13亿美元融资，由Bessemer领投，估值翻倍至160亿美元，反映市场对AI推理需求激增。",
         "comment": "推理需求爆发，资本加速押注基础设施层。",
         "image": "",
         "score": 100
@@ -27,7 +17,7 @@
         "tag": "OpenAI",
         "title": "OpenAI：ChatGPT与Codex加速实体工程研发",
         "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-        "summary": "OpenAI介绍ChatGPT和Codex如何帮助工程师加速CAD、PCB设计、仿真等实体工程工作流，提升研发效率。",
+        "summary": "OpenAI介绍ChatGPT与Codex如何帮助工程师加速CAD、PCB设计、仿真等实体世界工作流程，提升工程研发效率。",
         "comment": "AI正从写代码延伸到硬件工程全流程。",
         "image": "",
         "score": 100
@@ -35,10 +25,10 @@
       {
         "category": "人工智能",
         "tag": "网络安全",
-        "title": "思科借OpenAI模型以机器速度强化企业防御",
+        "title": "思科借助OpenAI模型以机器速度防御网络威胁",
         "link": "https://openai.com/index/cisco-cyber",
-        "summary": "思科将网络情报与OpenAI模型结合，提升企业安全防护，构建更具自适应能力的防御体系，以机器速度应对威胁。",
-        "comment": "安全防御进入模型驱动阶段，落地效果待验证。",
+        "summary": "思科将网络智能与OpenAI模型结合，强化企业安全防护，构建更具适应性的防御体系，以机器速度应对网络攻击。",
+        "comment": "AI与网络安全融合加速，防御自动化成为企业刚需。",
         "image": "",
         "score": 100
       },
@@ -48,7 +38,7 @@
         "title": "Heimstaden用AI改造欧洲房产管理",
         "link": "https://openai.com/index/heimstaden",
         "summary": "Heimstaden借助OpenAI的ChatGPT Enterprise与Codex改造物业管理，降低成本并赋能欧洲员工。",
-        "comment": "AI落地房产管理，降本增效路径清晰可鉴。",
+        "comment": "AI落地房产管理，重在流程重塑而非工具堆砌。",
         "image": "",
         "score": 100
       },
@@ -57,17 +47,27 @@
         "tag": "OpenAI",
         "title": "OpenAI任命Jill Hazelbaker为首席企业事务官",
         "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-        "summary": "OpenAI宣布Jill Hazelbaker出任首席企业事务官，负责领导公司全球传播与企业定位工作。",
-        "comment": "强化对外沟通，为监管与公众关系铺路。",
+        "summary": "OpenAI宣布Jill Hazelbaker出任首席企业事务官，负责全球传播与企业定位，显示其正加强对外沟通和公共事务布局。",
+        "comment": "AI巨头补强企业事务，意在应对监管与舆论压力。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
+        "tag": "Anthropic",
+        "title": "Anthropic研发FlashProve系统验证AI模型身份",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "summary": "Anthropic正在开发名为FlashProve的系统，让任何人都能核验AI回复是否确实来自其声称的模型，以应对模型身份冒用问题。",
+        "comment": "模型身份可验证是信任基础设施的关键一步。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
         "tag": "数据中心",
-        "title": "数据中心因电网接入等待转向退役喷气发动机供电",
+        "title": "数据中心因电网等待转向旧喷气发动机供电",
         "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-        "summary": "电网接入和新涡轮机交付周期长达数年，迫使数据中心建设者采用退役喷气发动机发电，效率更低且更不环保。",
+        "summary": "数据中心接入电网和新涡轮机需等待数年，建设者转而采用旧喷气发动机发电，效率更低且更不环保。",
         "comment": "AI算力扩张正以环境代价换取供电速度。",
         "image": "",
         "score": 99
@@ -77,8 +77,8 @@
         "tag": "Palantir",
         "title": "Palantir美国商业收入首超政府收入",
         "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-        "summary": "Palantir季度业绩亮眼，美国商业收入首次超过美国政府收入，但这一结构变化被视为潜在预警信号。",
-        "comment": "商业收入反超政府，增长质量待观察。",
+        "summary": "Palantir季度业绩飙升，美国商业收入首次超过美国政府收入，但报道认为其中隐藏着一个不祥信号。",
+        "comment": "商业收入反超政府收入，增长结构变化值得警惕。",
         "image": "",
         "score": 99
       },
@@ -87,18 +87,18 @@
         "tag": "Anthropic",
         "title": "Anthropic算力经济性仍承压，利润率不升反降",
         "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-        "summary": "TechCrunch指出，在算力利润率本应改善的节点，Anthropic的算力利润率反而恶化，反映其算力成本与经济模型仍面临压力。",
-        "comment": "模型越强，算力账越难算，商业化考验才刚开始。",
+        "summary": "TechCrunch指出，在算力利润率本应改善之际，Anthropic的算力经济性反而恶化，反映AI模型公司仍难平衡高昂算力成本与商业回报。",
+        "comment": "算力成本正成为大模型公司的核心经营难题。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "谷歌",
-        "title": "谷歌允许学校禁用AI工具但需放弃搜索",
+        "title": "谷歌允许学校禁用AI工具，但须放弃搜索",
         "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-        "summary": "谷歌表示学校若选择全面限制AI功能，将无法使用谷歌搜索，因为AI功能已整合进搜索引擎。",
-        "comment": "AI捆绑搜索，学校选择权被架空。",
+        "summary": "谷歌允许学校完全禁用其AI工具，但因AI功能已整合进搜索引擎，选择限制AI的学校将无法使用谷歌搜索。",
+        "comment": "AI捆绑搜索，学校的选择权名存实亡。",
         "image": "",
         "score": 99
       },
@@ -107,7 +107,7 @@
         "tag": "苹果",
         "title": "苹果新规：约会应用与AI伴侣限18岁以上",
         "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-        "summary": "苹果App Store新规要求，提供性或浪漫内容的约会应用及AI伴侣应用须标注18+评级，限制未成年用户使用。",
+        "summary": "苹果App Store新规要求，提供性或浪漫内容的约会应用及AI伴侣应用必须标注18+评级，限制未成年用户使用。",
         "comment": "平台收紧年龄门槛，AI伴侣监管进入实操阶段。",
         "image": "",
         "score": 99
@@ -117,8 +117,8 @@
         "tag": "网络安全",
         "title": "Ballistic Ventures拟募资4.9亿美元，押注AI网络安全热潮",
         "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-        "summary": "专注网络安全的Ballistic Ventures计划为新旗舰基金募资3.6亿美元，另设1.3亿美元独立投资工具，借AI驱动的网络安全需求扩张。",
-        "comment": "AI安全需求升温，风投正加速下注。",
+        "summary": "专注网络安全的Ballistic Ventures计划为新旗舰基金募资3.6亿美元，另设1.3亿美元独立基金，借AI驱动安全需求升温扩张。",
+        "comment": "AI安全需求升温，风投募资节奏加快，但落地回报仍待验证。",
         "image": "",
         "score": 98
       },
@@ -127,187 +127,27 @@
         "tag": "Netflix",
         "title": "Netflix推出AI发现标签，按心情推荐内容",
         "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-        "summary": "Netflix上线AI Discover实验标签，用户可按当前心情获取影视推荐，这是该标签下的首个实验功能。",
-        "comment": "推荐从行为数据转向情绪意图，体验更自然。",
+        "summary": "Netflix上线实验性AI Discover标签，用户可按当前心情获取影视推荐，这是该标签下的首个实验功能。",
+        "comment": "推荐从行为匹配转向情绪匹配，体验更自然。",
         "image": "",
         "score": 98
       },
       {
-        "category": "人工智能",
-        "tag": "TechCrunch",
-        "title": "TechCrunch创始人峰会11月4日波士顿举行",
-        "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-        "summary": "TechCrunch创始人峰会2026将于11月4日在波士顿SoWa Power Station举行，汇聚创始人与风投，提供实用见解与人脉连接，建议在涨价前注册。",
-        "comment": "活动信息为主，实用价值有限，偏商业推广。",
-        "image": "",
-        "score": 95
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏PC",
-        "title": "联想Legion RTX 5070 Ti游戏PC黑五降价超1000美元",
-        "link": "https://www.ign.com/articles/lenovo-legion-rtx-5070-ti-gaming-pc-deal-november-2026",
-        "summary": "联想Legion游戏PC配备RTX 5070 Ti显卡和32GB DDR5内存，黑五降价超过1000美元，是入夏以来该系列少见的好价。",
-        "comment": "高端显卡整机罕见大降，黑五换机可关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/03/lenovolegiontower5lc-1793744183960.jpg",
-        "score": 93
-      },
-      {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6确认11月19日发售 附实体地图获取方式",
+        "title": "GTA 6确认附赠实体地图，可免费或低价获取",
         "link": "https://www.gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap/",
-        "summary": "Rockstar确认《GTA 6》将于11月19日发售，并公布实体周边细节，玩家可免费或以低价获得实体地图。",
-        "comment": "发售日敲定，实体地图成营销抓手，玩家关注度再升温。",
+        "summary": "Rockstar确认《GTA 6》将于11月19日发售，并公布实体赠品细节，玩家可免费或低价获得游戏实体地图。",
+        "comment": "实体赠品是Rockstar拉动预购的常规手段。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Leonida_Keys_05_76fdf9.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "巫师3",
-        "title": "《巫师3》开发者谈《往昔之歌》DLC细节",
-        "link": "https://www.ign.com/articles/witcher-3-songs-of-the-past-dlc-details",
-        "summary": "IGN在卢卡漫画与游戏展采访CDPR关卡设计负责人Miles Tost与编剧Paula Meissner，谈《往昔之歌》DLC如何打造全新区域。",
-        "comment": "老游戏靠DLC续命，关键看新区域能否撑起独立叙事。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "存储卡",
-        "title": "SanDisk 512GB MicroSD Express卡新蛋降至91美元",
-        "link": "https://www.ign.com/articles/sandisk-microsd-express-card-deal-november-2026",
-        "summary": "SanDisk 512GB MicroSD Express卡在新蛋降至91美元，可将任天堂Switch 2存储扩展至三倍。IGN称无法保证黑五期间会有更优价格。",
-        "comment": "Switch 2扩容刚需，当前价位值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/02/sandiskswitch2card-1793650526574.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "索尼耳机",
-        "title": "索尼WH-1000XM5降噪耳机黑五前降至128美元",
-        "link": "https://www.ign.com/articles/sony-wh1000xm5-noise-canceling-wireless-headphone-deal-november-2026",
-        "summary": "IGN报道，索尼WH-1000XM5无线降噪耳机在黑五前降至128美元，被称为150美元以内最佳头戴式降噪耳机。",
-        "comment": "旗舰降噪耳机价格腰斩，值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/03/sonywh1000xm5-1793739776784.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "上古卷轴6",
-        "title": "《上古卷轴6》正式定名《Sentinel》",
-        "link": "https://www.gamespot.com/articles/the-elder-scrolls-6-is-officially-titled-sentinel/",
-        "summary": "Bethesda在40周年活动上确认，新作副标题为《The Elder Scrolls VI: Sentinel》，与此前报道一致。",
-        "comment": "定名只是开始，玩家更关心发售时间。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Celebrating-40-Years-of-Bethesda-Game-Studios-8-5-screenshot.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "iPad mini 8",
-        "title": "iPad mini 8 首发评测：屏幕帧率细节曝光",
-        "link": "https://www.ifanr.com/1687473?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿发布全网最细的 iPad mini 8 评测，重点核查屏幕是否锁帧，并披露多项实测细节，指出其本可成为一台完美平板。",
-        "comment": "评测抓准屏幕帧率这一关键疑点，信息密度高。",
-        "image": "",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI模型",
-        "title": "GPT-6 Astra微调Qwen大脑：仅动0.016%参数，数学成绩大涨",
-        "link": "https://www.ifanr.com/1687285?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "据爱范儿报道，GPT-6 Astra对Qwen模型进行极少量参数微调，仅改动0.016%参数便显著提升数学成绩，展示出高效定向优化的潜力。",
-        "comment": "极小改动撬动大幅提升，模型微调效率值得关注。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果产品全面涨价，AI投入成主因",
-        "link": "https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析指出，苹果产品与服务价格持续上涨，背后是其在AI领域投入巨大、成本压力加剧，尽管营收仍在增长。",
-        "comment": "AI军备竞赛的成本，正转嫁给苹果消费者。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "乔布斯祖训与触屏MacBook何以同时成立",
-        "link": "https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿硬哲学栏目分析苹果触屏MacBook传闻，探讨特努斯如何在新产品上延续乔布斯理念，并承担产品成败评价。",
-        "comment": "触屏MacBook若成真，是对乔布斯交互哲学的重新诠释。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "上古卷轴6",
-        "title": "《上古卷轴6》副标题定为“哨兵”",
-        "link": "https://www.gcores.com/articles/221895",
-        "summary": "Todd Howard在40年庆典视频中确认《上古卷轴6》副标题为“哨兵”，并坦言《上古卷轴》空白期过长，此前《星空》是全新尝试。",
-        "comment": "副标题揭晓，但发售仍遥远，玩家耐心继续受考验。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "SCUF",
-        "title": "SCUF游戏手柄黑五提前促销，Xbox与PC专业手柄最高降25%",
-        "link": "https://www.ign.com/articles/scuf-gaming-early-black-friday-sale-2026",
-        "summary": "SCUF Gaming提前开启黑五促销，旗下Xbox和PC专业级手柄最高降价25%，兼顾手感与功能，适合追求竞技体验的玩家。",
-        "comment": "专业手柄降价，硬核玩家可趁早入手。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/03/scufgamingcontrollersale-1793747718759.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "007",
-        "title": "007 First Light向部分PS Plus订阅者开放免费试玩",
-        "link": "https://www.ign.com/articles/007-first-light-gets-free-trial-for-select-playstation-plus-subscribers",
-        "summary": "部分PlayStation Plus订阅者可免费试玩007 First Light，该试玩通过PS Plus新试用渠道提供，具体资格与时长未在摘要中说明。",
-        "comment": "试玩是拉新手段，能否转化取决于品质。",
-        "image": "https://assets-prd.ignimgs.com/2026/05/24/007-first-light-1-1779638838516.png",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "电动自行车",
-        "title": "AliExpress黑五预热：36V 500W电动自行车210美元包邮",
-        "link": "https://www.ign.com/articles/5th-wheel-electric-bike-deal-november-2026",
-        "summary": "IGN报道，AliExpress黑五预热期间一款36V 500W峰值功率电动助力自行车售价210美元包邮，最高时速23英里，续航可达45英里。",
-        "comment": "低价电助力车促销，续航与价格是卖点，但品牌与售后需留意。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/03/5thwheel-1793741505096.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》上线前大幅提升全职业伤害",
-        "link": "https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch/",
-        "summary": "暴雪宣布《魔兽世界：永恒》上线时将整体提高各职业伤害输出，作为其设计调整的一部分，以改善玩家体验。",
-        "comment": "上线前调数值是稳妥做法，但平衡性仍待实战检验。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Class-Damage-Boost.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "AI版转转做旧衣生意，毛利达80%",
-        "link": "https://www.ifanr.com/1687274?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道AI版转转切入旧衣交易，用AI帮用户从海量旧衣中挑出合适单品，并称毛利可达80%。",
-        "comment": "旧衣非标品难定价，AI选品能否撑起高毛利待验证。",
-        "image": "",
-        "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "Xbox",
-        "title": "微软推出鳄鱼造型定制Xbox主机宣传GTA 6",
+        "title": "微软用鳄鱼造型定制Xbox为GTA6造势",
         "link": "https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/",
-        "summary": "索尼持有GTA 6营销权，微软另辟蹊径，推出内置Xbox的鳄鱼造型定制主机，作为该开放世界犯罪游戏的创意宣传。",
+        "summary": "索尼握有GTA6营销权，微软另辟蹊径，推出内嵌于鳄鱼造型的定制Xbox主机，作为该开放世界犯罪游戏的创意宣传。",
         "comment": "营销权旁落，微软靠猎奇硬件刷存在感。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/gator-Large.jpeg?w=300",
         "score": 90
@@ -318,7 +158,7 @@
         "title": "《魔兽世界：永恒》萨满玩家抗议职业改动被忽视",
         "link": "https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored/",
         "summary": "《魔兽世界：永恒》上线前发布大规模职业平衡更新，整体提升职业强度，但萨满玩家认为自身诉求被完全忽视，正发起抗议。",
-        "comment": "平衡补丁若只做加法，容易让被遗漏职业成为情绪出口。",
+        "comment": "平衡补丁难平众口，萨满抗议暴露沟通短板。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Shaman-Protest.jpg?w=300",
         "score": 90
       },
@@ -327,100 +167,20 @@
         "tag": "魔兽世界",
         "title": "《魔兽世界：永恒》短期内不再调整职业平衡",
         "link": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/",
-        "summary": "《魔兽世界：永恒》上线前将进行大规模职业平衡调整，但官方确认至少一个月内不会再做更多改动，相关细节已随上线补丁公布。",
-        "comment": "首发平衡一次到位，后续观望玩家反馈再动刀。",
+        "summary": "《魔兽世界：永恒》上线前将进行大规模职业平衡调整，但至少一个月内不会再有新改动，官方已在首发补丁中说明。",
+        "comment": "首发平衡压力大，暂缓调整可理解，但玩家耐心有限。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-No-Balance-Changes-For-A-Month.jpg?w=300",
         "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox推出25周年游戏捆绑包 25款游戏售价570美元",
-        "link": "https://www.gamespot.com/articles/25-years-of-xbox-bundle-includes-all-these-games-for-570/",
-        "summary": "微软为庆祝Xbox 25周年推出数字游戏捆绑包，包含25款游戏，售价570美元，平均每款约23美元。",
-        "comment": "纪念捆绑包定价偏高，折扣力度有限，吸引力一般。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Halo3.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "俄罗斯袭击乌克兰援助中心与医院，死亡人数升至38人",
-        "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰称俄军24小时内袭击援助中心、临终关怀机构和医院，至少38人死亡，泽连斯基警告仍有数十人可能被困废墟下。",
-        "comment": "袭击医疗与援助设施突破底线，平民伤亡持续扩大。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "西班牙",
-        "title": "西班牙交通部长在致命列车事故数日后辞职",
-        "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-        "summary": "西班牙首都马德里以南发生列车相撞事故，造成至少69人死亡、数十人受伤，交通部长在事故数日后宣布辞职。",
-        "comment": "重大伤亡事故迅速引发政治问责，辞职只是第一步。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "航空安全",
-        "title": "欧洲七架航班遭疑似炸弹威胁",
-        "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-        "summary": "波兰、西班牙、保加利亚和意大利的航班因分别收到威胁而接受爆炸物检查，涉及七架航班。",
-        "comment": "多国同步威胁，欧洲航空安保压力上升。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "币安",
-        "title": "币安披露假面试参与63亿美元加密黑客案",
-        "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-        "summary": "币安称，一名工程师通过正规求职平台被联系，并被邀请参加由假公司代表主持的虚假面试，该骗局是63亿美元加密黑客案的一部分。",
-        "comment": "求职平台成黑客入口，加密行业社工攻击升级。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "网络安全",
-        "title": "欧洲10国超市冰柜遭网络攻击",
-        "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-        "summary": "从爱沙尼亚、瑞典到葡萄牙、意大利，多国超市报告冰柜系统遭网络攻击，部分零售商被迫丢弃食品，欧洲已进入警戒状态。",
-        "comment": "攻击瞄准冷链基础设施，暴露零售业网络安全短板。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "培乐多",
-        "title": "培乐多推出首个浪漫奇幻联名，面向ACOTAR粉丝",
-        "link": "https://www.ign.com/articles/play-doh-reveals-its-first-romantasy-crossover-for-acotar-fans",
-        "summary": "培乐多宣布与畅销浪漫奇幻小说《荆棘与玫瑰的王庭》合作，推出首个浪漫奇幻主题联名产品，面向该系列粉丝。",
-        "comment": "玩具品牌借热门小说IP破圈，瞄准成年粉丝市场。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/03/blooms-by-play-doh-acotar-01-1793738491393.jpg",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "航空安全",
-        "title": "美NTSB：佛州坠机现场三英里外发现关键飞机部件",
-        "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-        "summary": "美国国家运输安全委员会称，因关键部件在距佛州坠机现场三英里外被发现，判断其在坠机前已脱落。",
-        "comment": "部件提前脱落，或指向机械故障而非操作失误。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "利比亚",
-        "title": "利比亚宗教机构裁定穿耐克服饰违反教义",
-        "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-        "summary": "利比亚最高宗教机构称耐克以希腊胜利女神命名，展示其标志不符合伊斯兰教义，裁定禁止穿着耐克服饰。",
-        "comment": "宗教裁决介入日常消费，折射符号政治化倾向。",
-        "image": "",
-        "score": 84
+        "tag": "魔兽世界",
+        "title": "《魔兽世界：永恒》上线前大幅提升全职业伤害",
+        "link": "https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch/",
+        "summary": "暴雪宣布《魔兽世界：永恒》上线时将整体提高各职业伤害输出，以解决设计问题并改善玩家体验。",
+        "comment": "上线前调数值是稳妥做法，但平衡性仍待实战检验。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Class-Damage-Boost.jpg?w=300",
+        "score": 90
       }
     ]
   }
