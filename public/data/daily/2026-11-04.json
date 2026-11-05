@@ -5,20 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI提前布局2028美国大选",
-        "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-        "summary": "OpenAI高管Chris Lehane提出新社会契约，欲让AI定义2028年大选，既宣称惠及美国人，也推进公司自身商业利益。",
-        "comment": "科技巨头提前介入选举议程，监管与利益边界值得警惕。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI宣布收购Pierre Computer公司",
+        "title": "OpenAI收购Pierre Computer，扩展Codex代码工具",
         "link": "https://openai.com/index/openai-to-acquire-pierre",
-        "summary": "OpenAI将收购Pierre Computer Company，以扩展Codex在代码构建、理解与审查方面的工具能力。",
-        "comment": "收购意在补强Codex的代码工具链，竞争加剧。",
+        "summary": "OpenAI宣布收购Pierre Computer Company，以扩展Codex在代码构建、理解与审查方面的工具能力。",
+        "comment": "收购补强Codex生态，AI编程工具竞争加剧。",
         "image": "",
         "score": 100
       },
@@ -27,28 +17,28 @@
         "tag": "OpenAI",
         "title": "OpenAI Daybreak Red上线AWS GovCloud",
         "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-        "summary": "Daybreak Red通过Amazon Bedrock在AWS GovCloud（美东）向获批客户提供GPT-5.6 Cyber，用于授权网络安全工作。",
-        "comment": "AI模型进入政府云，安全合规是卖点。",
+        "summary": "OpenAI宣布Daybreak Red在AWS GovCloud（美东）上线，通过Amazon Bedrock向获批客户提供GPT-5.6 Cyber，用于授权网络安全工作。",
+        "comment": "AI模型进入政府云，安全合规与能力边界同步收紧。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI自动化流水线发现Linux内核948个提权漏洞",
+        "title": "OpenAI自动化流水线发现948个Linux内核提权漏洞",
         "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-        "summary": "OpenAI构建自主流水线，在Linux内核中发现、验证并生成948个本地提权漏洞的修复补丁，展示AI自动化安全研究的实际能力。",
-        "comment": "AI从找漏洞走向自动修复，安全研究范式正在改变。",
+        "summary": "OpenAI构建自主流水线，在Linux内核中发现、验证并生成948个本地提权漏洞的补丁，展示AI自动化安全研究的实际能力。",
+        "comment": "AI从辅助工具走向漏洞挖掘主力，安全研究范式正在改变。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布Images 2.6：图像生成更快，支持GIF与精细编辑",
+        "title": "OpenAI发布Images 2.6图像模型",
         "link": "https://openai.com/index/introducing-images-2-6",
-        "summary": "OpenAI推出Images 2.6，图像生成速度提升，新增GIF创建、更精准编辑和API控制，覆盖ChatGPT、Codex及API。",
-        "comment": "图像生成竞争转向速度与可控性，API开放是关键一步。",
+        "summary": "Images 2.6支持更快的图像生成、GIF创建、更精准的编辑，并在ChatGPT、Codex和API中提供新的API控制能力。",
+        "comment": "图像生成提速并强化编辑控制，API开放利于生态扩展。",
         "image": "",
         "score": 100
       },
@@ -57,88 +47,18 @@
         "tag": "人工智能",
         "title": "DevRev用GPT-6.1 Sol实现自主自助服务",
         "link": "https://openai.com/index/devrev-enterprise-self-service",
-        "summary": "DevRev借助GPT-6.1 Sol驱动Computer与Operator，在企业服务中平衡推理、速度与成本。",
-        "comment": "企业服务自动化正从辅助走向自主执行。",
+        "summary": "DevRev基于GPT-6.1 Sol驱动Computer与Operator，在企业服务中平衡推理、速度与成本，实现自主自助服务。",
+        "comment": "企业服务智能体落地，关键在成本与推理的平衡。",
         "image": "",
         "score": 100
       },
       {
-        "category": "人工智能",
-        "tag": "AI政治",
-        "title": "AI政治行动委员会斥资数百万影响国会选举，结果喜忧参半",
-        "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-        "summary": "AI行业政治行动委员会在2026年中期选举中投入数百万美元，试图影响国会席位归属，实际效果参差不齐。相关政治团体已开始布局下一选举周期。",
-        "comment": "AI资本加速介入选举，监管博弈将更直接。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta收购AI编程初创公司Conductor",
-        "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-        "summary": "Conductor允许软件工程师部署多智能体团队，同时处理项目不同环节。Meta此次收购意在增强AI编程与多智能体协作能力。",
-        "comment": "Meta补齐AI编程拼图，多智能体协作成新战场。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "开源AI",
-        "title": "开源AI蓬勃发展，Hugging Face解析谁在获利",
-        "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-        "summary": "开源模型因成本低、可控性强、灵活性高而日益主流，企业、政府和初创公司纷纷采用。Hugging Face在访谈中分析开源AI生态中各方如何获利。",
-        "comment": "开源AI商业化路径渐清晰，但盈利分配仍是关键悬念。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Nothing",
-        "title": "Nothing CEO称公司神秘AI优先设备下月发布",
-        "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-        "summary": "Nothing CEO表示，这款尚未明确形态的AI优先设备将于下月发布，主打借助AI提升生产力，但产品细节仍未公布。",
-        "comment": "AI硬件噱头足，关键看落地体验。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Uber称几乎无人用AI代理叫车",
-        "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-        "summary": "Uber表示上季度最繁忙一周仅4人通过AI代理完成叫车，显示AI代理在真实出行场景中的使用率极低。",
-        "comment": "AI代理叫车仍是概念，真实需求尚未形成。",
-        "image": "",
-        "score": 97
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界》永恒服首把新传说武器揭晓",
-        "link": "https://www.gamespot.com/articles/what-might-be-a-brand-new-wow-forever-legendary-weapon-is-being-teased/",
-        "summary": "暴雪正式公布《魔兽世界》永恒服首把新传说武器“低语之木塔尔达米尔”，并联合维塔工作室制作了等比例实体复刻品。",
-        "comment": "新传说武器能提振老玩家热情，但实际获取方式更关键。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-New-Legendary-Weapon.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6实体版提前两天到店，但玩家仍无法立即游玩",
-        "link": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
-        "summary": "Rockstar宣布《GTA 6》实体版将比预期提前两天到店，但这仅涉及铺货时间，玩家实际可游玩的时间并未改变。",
-        "comment": "到店不等于能玩，实体版提前只是物流节奏，别误读为发售日提前。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA.jpg?w=300",
-        "score": 92
-      },
-      {
         "category": "数码科技",
         "tag": "iPhone",
-        "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
+        "title": "实测 iPhone 国行 AI：亮点槽点与惊喜并存",
         "link": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测国行 iPhone 的 Apple 智能功能，指出其有亮点也有槽点，并提到一个惊喜点，整体值得体验。",
-        "comment": "国行 AI 落地实测，亮点与短板并存，体验价值高于预期。",
+        "summary": "爱范儿实测国行 iPhone 的 Apple 智能功能，指出其既有亮点也有槽点，并发现一个惊喜之处，整体体验值得关注。",
+        "comment": "国行 AI 落地实测，体验优劣并存，惊喜点成关键变量。",
         "image": "",
         "score": 91
       },
@@ -147,8 +67,8 @@
         "tag": "中国车市",
         "title": "2026中国车市观察：合资承压与金九银十消失",
         "link": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章分析2026年中国车市，指出卷死合资并非胜利，传统金九银十旺季已消失，车市天花板可能低于预期。",
-        "comment": "价格战伤及行业生态，旺季失灵更值得警惕。",
+        "summary": "爱范儿分析2026年中国车市，指出自主品牌挤压合资并非终局，传统金九银十旺季已消失，市场天花板可能低于预期。",
+        "comment": "车市竞争进入存量博弈，旺季消失说明需求端承压。",
         "image": "",
         "score": 91
       },
@@ -157,60 +77,10 @@
         "tag": "Anthropic",
         "title": "Anthropic新动作或冲击AI中转站生态",
         "link": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析Anthropic最新动作对AI中转站的影响，类比邮件数字签名，指出中转服务模式可能面临冲击。",
-        "comment": "中转站靠信息差生存，模型方收紧接口即动摇根基。",
+        "summary": "爱范儿分析Anthropic最新动作对AI中转站的影响，类比邮件数字签名，指出中转服务模式可能面临调整。",
+        "comment": "模型厂商收紧接口，中转站灰色空间收窄。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "《魔兽世界：永恒》或提前泄露新职业种族组合",
-        "link": "https://www.gamespot.com/articles/wow-forever-may-have-just-sneakily-revealed-new-class-and-race-combos/",
-        "summary": "GameSpot报道，暴雪可能在《魔兽世界：永恒》上线前一天意外泄露了新的职业与种族组合，游戏本身已包含多项新内容。",
-        "comment": "上线前泄露若属实，或影响首发体验与玩家预期。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-More-New-Class-Race-Combos.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "乌克兰称随身摄像头视频显示俄军致命双连击轰炸",
-        "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-        "summary": "基辅称，周一乌克兰一村庄遭袭，至少40人死亡，另有30人可能仍被埋在废墟下；乌方称随身摄像头视频显示俄军实施双连击轰炸。",
-        "comment": "双连击战术针对救援者，平民伤亡惨重，需独立核实。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "厄尔尼诺",
-        "title": "厄尔尼诺加剧东亚台风肆虐",
-        "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC报道，厄尔尼诺使太平洋异常升温，东亚多国近月遭遇异常猛烈台风，即便对台风习以为常的地区也面临罕见极端天气。",
-        "comment": "气候异常正把常态灾害推向新极端，防灾须升级。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "美国政治",
-        "title": "民主党夺回国会后的权力边界",
-        "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-        "summary": "民主党可推动立法在国会通过，但特朗普仍握有否决权，实际施政空间受限。",
-        "comment": "夺回国会不等于掌握全部议程，否决权仍是关键制约。",
-        "image": "",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "加拿大",
-        "title": "加拿大母女疑遭灰熊袭击身亡",
-        "link": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-        "summary": "加拿大不列颠哥伦比亚省当局表示，有证据显示两名女性死亡可能与动物袭击有关，疑似灰熊所为，事件正在调查中。",
-        "comment": "野生动物袭击致命，凸显户外安全与预警机制的重要。",
-        "image": "",
-        "score": 85
       }
     ]
   }
