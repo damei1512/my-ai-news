@@ -5,52 +5,32 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI收购Pierre Computer，扩展Codex代码工具",
+        "title": "OpenAI收购Pierre Computer，强化Codex代码工具",
         "link": "https://openai.com/index/openai-to-acquire-pierre",
-        "summary": "OpenAI宣布收购Pierre Computer Company，以增强Codex在代码构建、理解与审查方面的工具能力。",
-        "comment": "收购补强Codex生态，AI编程工具竞争加剧。",
+        "summary": "OpenAI宣布收购Pierre Computer Company，以扩展Codex在代码构建、理解与审查方面的工具能力。",
+        "comment": "补齐代码工具链，OpenAI正把Codex做成开发入口。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI Daybreak Red上线AWS GovCloud",
+        "title": "OpenAI Daybreak Red 上线 AWS GovCloud",
         "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-        "summary": "Daybreak Red通过Amazon Bedrock在AWS GovCloud（美东）向获批客户提供GPT-5.6 Cyber，用于授权网络安全工作。",
-        "comment": "AI网络安全能力进入政府云，合规与能力边界值得关注。",
+        "summary": "OpenAI 宣布 Daybreak Red 通过 Amazon Bedrock 在 AWS GovCloud（美东）上线，向获批客户提供 GPT-5.6 Cyber，用于授权网络安全工作。",
+        "comment": "AI 安全能力进入政府云，合规与准入是门槛。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI自动化流水线发现并修复948个Linux内核提权漏洞",
+        "title": "OpenAI自动化流水线发现948个Linux内核提权漏洞",
         "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-        "summary": "OpenAI构建自主流水线，在Linux内核中发现、验证并生成948个本地提权漏洞的补丁，展示AI自动化漏洞挖掘与修复能力。",
-        "comment": "AI从找漏洞走向自动打补丁，安全攻防节奏将被改写。",
+        "summary": "OpenAI构建自主流水线，在Linux内核中发现、验证并生成948个本地提权漏洞的修复补丁，展示AI自动化安全审计能力。",
+        "comment": "AI从找漏洞走向自动修复，安全运维范式正在改变。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "iPhone",
-        "title": "实测 iPhone 国行 AI：亮点槽点与惊喜并存",
-        "link": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测国行 iPhone 的 Apple 智能功能，指出其既有实用亮点，也存在明显槽点，并发现一个意外惊喜。",
-        "comment": "国行 AI 落地体验喜忧参半，实际表现仍待完善。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "中国车市",
-        "title": "一文看懂2026中国车市：合资承压与金九银十消失",
-        "link": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "文章分析2026年中国车市，指出合资品牌承压并非行业胜利，传统“金九银十”销售旺季已消失，市场天花板可能低于预期。",
-        "comment": "车市竞争转向存量博弈，旺季消失折射需求疲软。",
-        "image": "",
-        "score": 91
       }
     ]
   }
