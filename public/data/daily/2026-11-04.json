@@ -7,7 +7,7 @@
         "tag": "OpenAI",
         "title": "OpenAI收购Pierre Computer，扩展Codex代码工具",
         "link": "https://openai.com/index/openai-to-acquire-pierre",
-        "summary": "OpenAI宣布收购Pierre Computer Company，以扩展Codex在代码构建、理解与审查方面的工具能力。",
+        "summary": "OpenAI宣布收购Pierre Computer Company，以增强Codex在代码构建、理解与审查方面的工具能力。",
         "comment": "收购补强Codex生态，AI编程工具竞争加剧。",
         "image": "",
         "score": 100
@@ -17,38 +17,18 @@
         "tag": "OpenAI",
         "title": "OpenAI Daybreak Red上线AWS GovCloud",
         "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-        "summary": "OpenAI宣布Daybreak Red在AWS GovCloud（美东）上线，通过Amazon Bedrock向获批客户提供GPT-5.6 Cyber，用于授权网络安全工作。",
-        "comment": "AI模型进入政府云，安全合规与能力边界同步收紧。",
+        "summary": "Daybreak Red通过Amazon Bedrock在AWS GovCloud（美东）向获批客户提供GPT-5.6 Cyber，用于授权网络安全工作。",
+        "comment": "AI网络安全能力进入政府云，合规与能力边界值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI自动化流水线发现948个Linux内核提权漏洞",
+        "title": "OpenAI自动化流水线发现并修复948个Linux内核提权漏洞",
         "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-        "summary": "OpenAI构建自主流水线，在Linux内核中发现、验证并生成948个本地提权漏洞的补丁，展示AI自动化安全研究的实际能力。",
-        "comment": "AI从辅助工具走向漏洞挖掘主力，安全研究范式正在改变。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI发布Images 2.6图像模型",
-        "link": "https://openai.com/index/introducing-images-2-6",
-        "summary": "Images 2.6支持更快的图像生成、GIF创建、更精准的编辑，并在ChatGPT、Codex和API中提供新的API控制能力。",
-        "comment": "图像生成提速并强化编辑控制，API开放利于生态扩展。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "DevRev用GPT-6.1 Sol实现自主自助服务",
-        "link": "https://openai.com/index/devrev-enterprise-self-service",
-        "summary": "DevRev基于GPT-6.1 Sol驱动Computer与Operator，在企业服务中平衡推理、速度与成本，实现自主自助服务。",
-        "comment": "企业服务智能体落地，关键在成本与推理的平衡。",
+        "summary": "OpenAI构建自主流水线，在Linux内核中发现、验证并生成948个本地提权漏洞的补丁，展示AI自动化漏洞挖掘与修复能力。",
+        "comment": "AI从找漏洞走向自动打补丁，安全攻防节奏将被改写。",
         "image": "",
         "score": 100
       },
@@ -57,28 +37,18 @@
         "tag": "iPhone",
         "title": "实测 iPhone 国行 AI：亮点槽点与惊喜并存",
         "link": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测国行 iPhone 的 Apple 智能功能，指出其既有亮点也有槽点，并发现一个惊喜之处，整体体验值得关注。",
-        "comment": "国行 AI 落地实测，体验优劣并存，惊喜点成关键变量。",
+        "summary": "爱范儿实测国行 iPhone 的 Apple 智能功能，指出其既有实用亮点，也存在明显槽点，并发现一个意外惊喜。",
+        "comment": "国行 AI 落地体验喜忧参半，实际表现仍待完善。",
         "image": "",
         "score": 91
       },
       {
         "category": "数码科技",
         "tag": "中国车市",
-        "title": "2026中国车市观察：合资承压与金九银十消失",
+        "title": "一文看懂2026中国车市：合资承压与金九银十消失",
         "link": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析2026年中国车市，指出自主品牌挤压合资并非终局，传统金九银十旺季已消失，市场天花板可能低于预期。",
-        "comment": "车市竞争进入存量博弈，旺季消失说明需求端承压。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "Anthropic",
-        "title": "Anthropic新动作或冲击AI中转站生态",
-        "link": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析Anthropic最新动作对AI中转站的影响，类比邮件数字签名，指出中转服务模式可能面临调整。",
-        "comment": "模型厂商收紧接口，中转站灰色空间收窄。",
+        "summary": "文章分析2026年中国车市，指出合资品牌承压并非行业胜利，传统“金九银十”销售旺季已消失，市场天花板可能低于预期。",
+        "comment": "车市竞争转向存量博弈，旺季消失折射需求疲软。",
         "image": "",
         "score": 91
       }
