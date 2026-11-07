@@ -4,73 +4,243 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "英伟达",
+        "title": "美情报备忘录称中国国安招募高管监视英伟达CEO",
+        "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "summary": "TechCrunch报道，一份今年流传的美国情报备忘录称，中国国家安全部招募了一名女性科技高管，用于监视英伟达CEO。",
+        "comment": "情报备忘录真伪待核，但已足以加剧AI芯片领域互疑。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
         "tag": "AI数据中心",
         "title": "Crusoe将怀俄明州问题数据中心项目出售给谷歌",
         "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-        "summary": "Crusoe把陷入困境的怀俄明州大型AI数据中心项目出售给谷歌，凸显超大规模AI基建在选址、能源与建设上的现实挑战。",
+        "summary": "Crusoe把陷入困境的怀俄明州大型AI数据中心项目出售给谷歌，凸显超大规模AI基建在选址、能源与成本上的现实挑战。",
         "comment": "AI算力扩张热，但落地难题正迫使项目转手。",
         "image": "",
         "score": 99
       },
       {
         "category": "游戏影视",
+        "tag": "游戏",
+        "title": "失踪少女在《Among Us》中求助获救",
+        "link": "https://www.ign.com/articles/missing-teen-saved-from-alleged-kidnapper-after-seeking-help-in-among-us",
+        "summary": "美国犹他州一名失踪少女通过游戏《Among Us》向另一名儿童求助，成功联系外界，最终在俄勒冈州一名男子家中被警方解救。",
+        "comment": "游戏社交意外成为求救通道，凸显虚拟空间现实价值。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/07/among-us-1794081958488.png",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "质量效应",
+        "title": "《质量效应》演员N7日发声呼吁粉丝拯救系列",
+        "link": "https://www.ign.com/articles/mass-effect-cast-celebrates-n7-day-with-video-asking-fans-to-help-save-the-franchise",
+        "summary": "BioWare缺席令今年N7日冷清，诺曼底号演员与主创联合发布视频，呼吁粉丝出手拯救《质量效应》系列。",
+        "comment": "演员自发救场，折射BioWare与系列处境艰难。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
         "tag": "007",
-        "title": "罗伯特·帕丁森据称为《007》新片试镜邦德",
+        "title": "罗伯特·帕丁森据报为《007》新片试镜邦德",
         "link": "https://www.ign.com/articles/robert-pattinson-bond-26-007-screen-test-nicholas-hoult",
-        "summary": "IGN报道，罗伯特·帕丁森据称为《007》新片试镜邦德一角，尼古拉斯·霍尔特也成为候选人。",
-        "comment": "选角传闻升温，但未官宣前仍存变数。",
+        "summary": "据IGN报道，罗伯特·帕丁森为第26部詹姆斯·邦德电影试镜007一角，尼古拉斯·霍尔特也成为邦德候选人。",
+        "comment": "选角传闻升温，帕丁森能否接棒邦德值得关注。",
         "image": "https://assets-prd.ignimgs.com/2026/10/30/the-batman-bruce-wayne-1793381868012.png",
         "score": 94
       },
       {
         "category": "游戏影视",
+        "tag": "索尼",
+        "title": "索尼无限期推迟Pulse Elevate无线音箱发售",
+        "link": "https://www.ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch",
+        "summary": "索尼在PlayStation Pulse Elevate无线音箱全球发售前几天宣布无限期推迟，未说明具体原因和新的发售时间。",
+        "comment": "临发售突然延期，索尼的供应链或品控问题值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/07/sony-playstation-pulse-elevate-wireless-speakers-1794075420373.png",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "AI",
+        "title": "质量效应3模组作者谈AI对模组圈冲击",
+        "link": "https://www.ign.com/articles/i-feel-like-modding-is-kind-of-dying-mass-effect-3-multiplayer-modder-on-ais-impact-on-the-scene",
+        "summary": "质量效应3多人模组作者称AI正大量涌入模组圈，从混搭模组到完整反编译，担忧传统模组生态走向衰落。",
+        "comment": "AI降低门槛，也可能稀释模组创作的原生动力。",
+        "image": "https://assets-prd.ignimgs.com/2026/10/29/me3-1793234529955.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
         "tag": "漫威",
-        "title": "《复仇者联盟：末日》汽车广告曝光夜行者新造型，引发未公布英雄猜测",
+        "title": "《复仇者联盟：末日》汽车广告曝光夜行者新造型",
         "link": "https://www.ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
-        "summary": "《复仇者联盟：末日》一支汽车广告首次展示艾伦·卡明饰演的夜行者动态画面，并可能暗示一位意外英雄的客串登场。",
-        "comment": "广告藏彩蛋，漫威营销的老套路依然奏效。",
+        "summary": "《复仇者联盟：末日》汽车广告首次展示艾伦·卡明饰演的夜行者动态画面，并可能暗示一位意外客串角色，引发外界对未公布英雄的猜测。",
+        "comment": "广告藏彩蛋，漫威预热节奏精准。",
         "image": "https://assets-prd.ignimgs.com/2026/11/07/avengers-doomsday-car-commercial-1794010987736.png",
         "score": 93
       },
       {
         "category": "游戏影视",
+        "tag": "质量效应",
+        "title": "玩家自制模组为《质量效应传奇版》恢复三代多人模式",
+        "link": "https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+        "summary": "BioWare前景不明之际，有模组作者将《质量效应3》多人模式移植进2021年推出的传奇版，弥补该合集仅含单人与DLC内容的缺失。",
+        "comment": "官方缺席，社区补位，老游戏靠玩家续命。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/06/masseffect-multiplayermod-interview-blogroll-1793999260678.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
         "tag": "魔兽世界",
-        "title": "《魔兽世界》永久服开服三天诞生首位满级角色",
+        "title": "《魔兽世界》永久服开服三天诞生首个满级角色",
         "link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
-        "summary": "IGN报道，《魔兽世界》永久服开服仅三天，全球首位玩家已将角色练至60级满级，速度引发关注。",
-        "comment": "三天满级，硬核玩家的极限竞速。",
+        "summary": "《魔兽世界》永久服上线仅三天，全球首个60级角色诞生，显示硬核玩家冲级速度极快。",
+        "comment": "永久服热度不减，硬核玩家竞速依旧疯狂。",
         "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "苹果",
-        "title": "触屏MacBook Pro开卖即缺货，仰望U9 Xtreme突破503kph",
-        "link": "https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果触屏MacBook Pro开售即缺货；仰望U9 Xtreme时速突破503公里；博世吴永桥称汽车不应被用来订咖啡机票。",
-        "comment": "硬件创新与性能突破并行，但汽车功能边界值得警惕。",
+        "tag": "比亚迪",
+        "title": "最贵比亚迪仰望鼎曜亮相中东，限量版定金30万元",
+        "link": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "比亚迪旗下仰望鼎曜在中东亮相，推出“山河鼎韵”限量版，定金30万元，主打性能与豪华，成为最贵比亚迪车型。",
+        "comment": "比亚迪借中东市场冲击超豪华，品牌向上野心明显。",
         "image": "",
         "score": 91
       },
       {
+        "category": "游戏影视",
+        "tag": "游戏销量",
+        "title": "核周报11.7：影之刃零72小时销量400万",
+        "link": "https://www.gcores.com/radios/221705",
+        "summary": "《影之刃零》72小时全平台销量400万份，Steam周销双榜登顶；SaveMassEffect请愿破30万签名；工会指控微软冻结招聘；Switch 2财年Q2销量267万台同比降41%。",
+        "comment": "国产单机销量爆发，但行业裁员与硬件下滑并存。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "哥斯拉",
+        "title": "《哥斯拉-0》为何缺席经典怪兽反派？",
+        "link": "https://www.ign.com/articles/godzilla-minus-zero-where-is-the-rest-of-godzillas-rogues-gallery",
+        "summary": "IGN 盘点哥斯拉系列经典怪兽反派，探讨《哥斯拉-0》为何未让更多老对手登场，并回顾怪兽岛人气角色。",
+        "comment": "怪兽宇宙扩张，反派缺席反成话题。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/06/godzillaminuszero-rogues-1794006924348.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "高达",
+        "title": "高达Assemble桌游试玩：机动战士微缩模型游戏",
+        "link": "https://www.ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
+        "summary": "IGN上手体验高达Assemble入门套装，介绍这款以机动战士高达为主题的微缩模型桌面游戏的具体玩法与套装内容。",
+        "comment": "高达IP切入微缩桌游，粉丝向明显，玩法深度待验证。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/06/gundamaoo-1793929453718.jpg",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "数码科技",
+        "title": "触屏MacBook Pro开卖即缺货，仰望U9 Xtreme突破503kph",
+        "link": "https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿早报：触屏MacBook Pro开售即缺货；仰望U9 Xtreme突破503kph；博世吴永桥称汽车不该用来订咖啡机票；另有苹果问卷、校招和特斯拉产能消息。",
+        "comment": "数码与汽车跨界消息密集，缺货与极速更值得关注。",
+        "image": "",
+        "score": 90
+      },
+      {
         "category": "时事热点",
-        "tag": "巴拉圭",
-        "title": "巴拉圭总统因银行倒闭遭弹劾并被软禁",
-        "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-        "summary": "巴拉圭总统培尼亚因银行业危机遭弹劾下台并被软禁，危机导致数百万人无法取回存款。",
-        "comment": "银行危机迅速演变为政治清算，拉美治理风险再现。",
+        "tag": "枪击案",
+        "title": "波兰克拉科夫枪击案致六死 枪手家中再发现三具遗体",
+        "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "summary": "克拉科夫主广场发生随机枪击致六人死亡，警方随后在枪手家中发现三具遗体，案件细节仍在调查中。",
+        "comment": "随机枪击叠加家中藏尸，案情严重，需关注后续调查。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美伊关系",
+        "title": "美国悬赏2000万美元征集伊朗核计划情报",
+        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+        "summary": "美国宣布悬赏2000万美元征集伊朗核计划相关信息，特朗普多次提出可能重启对伊朗核设施的打击。",
+        "comment": "悬赏加军事威胁，美伊核博弈再度升温。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "也门",
+        "title": "胡塞武装称沙特空袭致至少25人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+        "summary": "胡塞武装称沙特领导的多国联军空袭也门造成至少25人死亡，沙特方面尚未回应。",
+        "comment": "也门冲突伤亡再添新数字，沙特沉默令真相难辨。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "巴拉圭",
+        "title": "巴拉圭前总统因银行倒闭被起诉",
+        "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+        "summary": "巴拉圭前总统圣地亚哥·培尼亚因银行危机被起诉，该危机导致数百万人无法取款。",
+        "comment": "银行危机演变为刑责追究，政治问责正在落地。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "网络安全",
+        "title": "意大利外长称黑客泄露其个人数据",
+        "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+        "summary": "意大利外长表示个人数据遭黑客泄露，总理梅洛尼指责亲俄黑客将相关信息发布上网。",
+        "comment": "政要数据安全再响警钟，亲俄黑客成欧洲新威胁。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "俄军袭击致乌九人受伤并破坏电网，谈判前局势紧张",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+        "summary": "乌克兰方面称，俄罗斯在阿布扎比三方会谈前发动袭击，造成九人受伤并损坏电力网络。",
+        "comment": "谈判前动武，俄方意在施压。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "新西兰大选",
+        "title": "新西兰大选结果胶着，无明确赢家",
+        "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "summary": "初步结果显示新西兰议会高度分裂，无政党获明显优势，可能需数周联盟谈判才能组阁。",
+        "comment": "碎片化议会成常态，组阁拉锯考验政治耐心。",
+        "image": "",
+        "score": 85
       },
       {
         "category": "时事热点",
         "tag": "教皇",
         "title": "教皇术后三周启程拉美之行，首站乌拉圭",
         "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-        "summary": "教皇利奥在肺癌手术仅三周后出访乌拉圭，开启拉美之行，医疗团队称其健康状况良好。",
-        "comment": "术后三周即长途出访，健康风险与外交信号并存。",
+        "summary": "教皇利奥在肺癌手术仅三周后出访乌拉圭，开启拉美之旅，其健康状况被形容为“相当不错”。",
+        "comment": "术后三周即长途出访，健康信号与外交姿态并重。",
         "image": "",
-        "score": 86
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "英国脱欧",
+        "title": "巴尼耶：英国不能对欧盟单一市场挑肥拣瘦",
+        "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+        "summary": "前英国脱欧谈判代表巴尼耶对BBC表示，欧盟国家将拒绝英国试图按菜单式选择性遵守经济规则的做法。",
+        "comment": "脱欧后英欧关系仍受单一市场规则约束，谈判空间有限。",
+        "image": "",
+        "score": 84
       }
     ]
   }
