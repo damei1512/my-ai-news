@@ -4,63 +4,23 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "英伟达",
-        "title": "黄仁勋承认婚外情，英伟达启动调查",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-09-2",
-        "summary": "机器之心报道，黄仁勋承认婚外情，英伟达已启动调查。事件涉及公司高管个人行为，可能影响公司治理与市场信心。",
-        "comment": "高管私德风波，英伟达治理面临考验。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/6c42b63c-10b2-41e4-a548-2a4b3d91ee4a/Screenshot_2026-11-09_at_10(2).17.40.png?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "ChatGPT",
         "title": "ChatGPT企业版上线AWS市场",
         "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-        "summary": "OpenAI宣布ChatGPT企业版登陆AWS Marketplace，企业可借助现有AWS采购与账单关系完成购买，简化采购流程。",
-        "comment": "渠道扩张降低企业采购门槛，加速大模型商用落地。",
+        "summary": "OpenAI宣布ChatGPT企业版已在AWS Marketplace上架，企业可借助现有AWS采购与账单关系完成购买，简化采购流程。",
+        "comment": "渠道扩张降低企业采购门槛，加速AI办公落地。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI推出Control Room：追踪并叫停模型工作负载",
+        "title": "OpenAI推出控制室系统，可追踪并叫停模型工作负载",
         "link": "https://openai.com/index/control-room",
-        "summary": "OpenAI介绍Control Room系统，可追踪研究基础设施中的模型工作负载，并在出现安全或安保担忧时快速停止相关任务。",
-        "comment": "模型治理从训练后审查前移到运行时可干预。",
+        "summary": "OpenAI介绍Control Room系统，用于追踪研究基础设施中的模型工作负载，并在出现安全或安保问题时快速叫停。",
+        "comment": "模型治理从制度走向工程化，叫停能力成关键基础设施。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "CodeRabbit",
-        "title": "CodeRabbit借助OpenAI模型实现20倍软件交付",
-        "link": "https://openai.com/index/coderabbit-codex-daybreak",
-        "summary": "CodeRabbit利用OpenAI模型治理和信任AI生成代码，并借助Codex让同一工程团队交付量提升20倍。",
-        "comment": "AI代码治理正成为工程提效的关键环节。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI API助Kuken数分钟检索70年图纸",
-        "link": "https://openai.com/index/kuken",
-        "summary": "Kuken Industries利用OpenAI API检索70年冷却塔图纸，工程师查找维修图纸的时间从近一小时缩短至4.5分钟。",
-        "comment": "AI检索落地工业场景，效率提升显著，值得关注。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI模型",
-        "title": "Claude Fable 5.2登顶全球最强模型",
-        "link": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，Claude Fable 5.2一夜之间超越Opus 5.5，登顶全球最强模型，最强模型排名再次易主。",
-        "comment": "模型王座频繁更替，竞争已进入白热化阶段。",
-        "image": "",
-        "score": 92
       }
     ]
   }
