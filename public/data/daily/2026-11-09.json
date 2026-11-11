@@ -7,8 +7,8 @@
         "tag": "英伟达",
         "title": "黄仁勋承认婚外情，英伟达启动调查",
         "link": "https://www.jiqizhixin.com/articles/2026-11-09-2",
-        "summary": "英伟达CEO黄仁勋承认婚外情，公司已启动内部调查。事件或影响其个人声誉及公司治理形象，具体细节尚未披露。",
-        "comment": "高管私德风波，考验英伟达治理与公关。",
+        "summary": "机器之心报道，黄仁勋承认婚外情，英伟达已启动调查。事件涉及公司高管个人行为，可能影响公司治理与市场信心。",
+        "comment": "高管私德风波，英伟达治理面临考验。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/6c42b63c-10b2-41e4-a548-2a4b3d91ee4a/Screenshot_2026-11-09_at_10(2).17.40.png?imageView2/1/w/390/h/282",
         "score": 100
       },
@@ -17,80 +17,50 @@
         "tag": "OpenAI",
         "title": "ChatGPT企业版上线AWS市场",
         "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-        "summary": "OpenAI宣布ChatGPT企业版已在AWS Marketplace上架，企业可借助现有AWS采购与账单关系简化购买流程。",
-        "comment": "渠道扩张意在降低企业采购门槛，加速大客户渗透。",
+        "summary": "OpenAI宣布ChatGPT企业版登陆AWS Marketplace，企业可借助现有AWS采购与账单关系完成购买，简化采购流程。",
+        "comment": "渠道扩张降低企业采购门槛，加速大模型商用落地。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI推出Control Room追踪并叫停模型工作负载",
+        "title": "OpenAI推出Control Room：追踪并叫停模型工作负载",
         "link": "https://openai.com/index/control-room",
-        "summary": "OpenAI介绍Control Room系统，可追踪研究基础设施中的模型工作负载，并在出现安全或安保担忧时快速叫停。",
-        "comment": "模型治理从制度走向工程化，值得关注。",
+        "summary": "OpenAI介绍Control Room系统，可追踪研究基础设施中的模型工作负载，并在出现安全或安保担忧时快速停止相关任务。",
+        "comment": "模型治理从训练后审查前移到运行时可干预。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI编程",
+        "tag": "CodeRabbit",
         "title": "CodeRabbit借助OpenAI模型实现20倍软件交付",
         "link": "https://openai.com/index/coderabbit-codex-daybreak",
-        "summary": "CodeRabbit使用OpenAI模型治理和信任AI生成代码，并借助Codex让同一工程团队交付量提升20倍。",
-        "comment": "AI代码治理与生成结合，正放大工程团队产能。",
+        "summary": "CodeRabbit利用OpenAI模型治理和信任AI生成代码，并借助Codex让同一工程团队交付量提升20倍。",
+        "comment": "AI代码治理正成为工程提效的关键环节。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI API助Kuken秒查70年图纸",
+        "title": "OpenAI API助Kuken数分钟检索70年图纸",
         "link": "https://openai.com/index/kuken",
-        "summary": "Kuken Industries用OpenAI API检索70年冷却塔图纸，工程师找维修图纸从近1小时缩短至4.5分钟。",
-        "comment": "AI落地工业场景，效率提升近13倍，值得关注。",
+        "summary": "Kuken Industries利用OpenAI API检索70年冷却塔图纸，工程师查找维修图纸的时间从近一小时缩短至4.5分钟。",
+        "comment": "AI检索落地工业场景，效率提升显著，值得关注。",
         "image": "",
         "score": 100
       },
       {
         "category": "数码科技",
-        "tag": "玛莎拉蒂",
-        "title": "玛莎拉蒂与尊界联合造车，双门GT明年量产",
-        "link": "https://www.ifanr.com/1688586?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "玛莎拉蒂将与尊界联合造车，首发车型或为双门GT，计划明年正式量产，显示中国车企与豪华品牌合作模式出现新变化。",
-        "comment": "中国车企不再只买标，合作话语权正在转移。",
+        "tag": "AI模型",
+        "title": "Claude Fable 5.2登顶全球最强模型",
+        "link": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道，Claude Fable 5.2一夜之间超越Opus 5.5，登顶全球最强模型，最强模型排名再次易主。",
+        "comment": "模型王座频繁更替，竞争已进入白热化阶段。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "Claude",
-        "title": "Claude Fable 5.2 登顶全球最强模型",
-        "link": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，Claude Fable 5.2 一夜之间超越 Opus 5.5，登顶全球最强模型，最强模型席位再次易主。",
-        "comment": "模型排名频繁洗牌，真实能力仍需实测验证。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI作图",
-        "title": "实测 Seedream5.5：豆包想把 AI 作图接进整条工作流",
-        "link": "https://www.ifanr.com/1688447?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测 Seedream5.5，重点验证连续改图 100 轮后画质是否稳定，并观察豆包将 AI 作图嵌入完整工作流的思路。",
-        "comment": "比拼的不只是出图，更是能否融入真实生产流程。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI图像编辑",
-        "title": "Seedream 5.5 精准改造 iPhone Duo 界面",
-        "link": "https://www.ifanr.com/1688514?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道 Seedream 5.5 能按指令像素级修改 iPhone Duo 界面，展示 AI 图像编辑在界面设计上的精准控制力。",
-        "comment": "AI 图像编辑正从生成走向精准可控。",
-        "image": "",
-        "score": 91
       }
     ]
   }
