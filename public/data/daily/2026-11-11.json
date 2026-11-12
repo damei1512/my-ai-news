@@ -4,31 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达股价下跌，传董事会准备罢免CEO黄仁勋",
-        "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-        "summary": "据报道，英伟达董事会最早可能在周三晚间决定是否罢免创始人兼CEO黄仁勋，他执掌公司已33年。消息引发股价下跌。",
-        "comment": "若属实，将动摇英伟达治理根基，市场需警惕。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI芯片",
-        "title": "英国Fractile获7.2亿美元融资，加码AI芯片竞赛",
-        "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-        "summary": "英国AI芯片公司Fractile完成7.2亿美元融资，成为专用AI芯片赛道融资规模最大的玩家之一，将加速其定制化芯片研发与商业化。",
-        "comment": "巨额融资说明资本仍看好专用AI芯片的突围机会。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI向退伍军人提供一年免费ChatGPT Plus",
         "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-        "summary": "超过2万名退伍军人及过渡期服役人员已领取一年免费ChatGPT Plus，用于职业转型和民用就业准备。",
-        "comment": "AI福利向特定群体倾斜，意在拓展用户与品牌好感。",
+        "summary": "超2万名退伍及过渡期军人已领取一年免费ChatGPT Plus，用于求职准备与平民职业转型。",
+        "comment": "免费额度换真实用例，公益与市场教育双赢。",
         "image": "",
         "score": 100
       },
@@ -37,80 +17,10 @@
         "tag": "AI落地",
         "title": "JioStar首席架构师谈5亿用户规模AI发现",
         "link": "https://openai.com/index/jiostar-vijay-seshadri",
-        "summary": "JioStar的Vijay Seshadri分享在5亿用户规模下落地AI发现的经验，涵盖评估、护栏与生产化部署的实践教训。",
-        "comment": "超大规模AI落地经验稀缺，评估与护栏是关键。",
+        "summary": "JioStar的Vijay Seshadri分享在5亿用户规模下落地AI发现的经验，涵盖评估、护栏与生产部署要点。",
+        "comment": "大用户量AI落地经验稀缺，评估与护栏是关键。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "黄仁勋",
-        "title": "黄仁勋被指与英伟达高管有婚外情",
-        "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-        "summary": "黄仁勋此前承认与一名被指为中国情报人员的女子有婚外情，现又被指与一名英伟达高管存在另一段婚外情。",
-        "comment": "高管私德风波叠加安全疑云，英伟达治理承压。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "数据中心",
-        "title": "数据中心热潮遇阻：反对、审批与电力难题",
-        "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-        "summary": "数据中心建设热潮遭遇当地反对、审批延迟和电力短缺等现实障碍，部分项目可能根本无法建成。",
-        "comment": "AI算力扩张不只拼芯片，落地瓶颈在电网与民意。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta基础设施负责人Santosh Janardhan将离职",
-        "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-        "summary": "Meta长期基础设施负责人Santosh Janardhan即将卸任，他2009年加入公司，曾主导AI算力与数据中心建设。",
-        "comment": "AI军备竞赛关键期核心高管出走，Meta基建承压。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "数据中心",
-        "title": "反对声与审批繁文缛节拖慢数据中心建设",
-        "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-        "summary": "TechCrunch播客指出，数据中心热潮遭遇现实阻力：地方反对、审批延迟与电力争夺，挑战在落地前已显现。",
-        "comment": "算力扩张的瓶颈正从芯片转向土地、电网与民意。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "CoreWeave",
-        "title": "CoreWeave转向客户预付款与短约融资",
-        "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-        "summary": "CoreWeave increasingly asks customers to prepay, borrows against specific contracts and explores short-term deals that may push prices higher, as it funds AI growth.",
-        "comment": "AI算力扩张烧钱，融资条款趋紧或推高客户成本。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Steam",
-        "title": "Steam审核积压致又一游戏延期发售",
-        "link": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
-        "summary": "Steam游戏构建审核积压问题加剧，又一家工作室的游戏因卡在平台审核流程中而被迫推迟发售。",
-        "comment": "审核积压正从个案变成平台系统性风险。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Australia-Did-It.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "时事热点",
-        "tag": "西班牙",
-        "title": "西班牙大罢工后巴塞罗那爆发冲突",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-        "summary": "西班牙主要工会因住房和生活成本问题发起大罢工，数万人参与，巴塞罗那随后爆发冲突。",
-        "comment": "住房与生活成本压力正把西班牙劳资矛盾推向街头。",
-        "image": "",
-        "score": 86
       }
     ]
   }
