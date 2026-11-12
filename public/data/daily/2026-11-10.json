@@ -4,81 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人形机器人",
-        "title": "双足人形机器人首夺CES最高创新奖，银河星仔ET1登顶",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-10-10",
-        "summary": "银河星仔ET1双足人形机器人获得CES最高创新奖，成为首款获此奖项的双足人形机器人，引发行业关注。",
-        "comment": "人形机器人获CES最高奖，商业化信号增强。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/e593846d-ce5d-48fb-bba0-33dbc067c743/%E6%8D%95%E8%8E%B7(2).PNG?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "文心大模型",
-        "title": "百度披露文心5.5 Flash研发技术，引入RSI优化昆仑芯P800推理",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-10-4",
-        "summary": "百度公开文心5.5 Flash研发细节，引入全新RSI技术，并针对昆仑芯P800进行推理优化，展示国产芯片与大模型协同进展。",
-        "comment": "模型与国产芯片协同优化，是百度落地关键一步。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/074120c8-7dd9-4895-8393-8d9a1b26bfee/Screenshot_2026-11-10_at_11(2).10.52.png?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "触觉模型",
-        "title": "蚂蚁灵波发布LingBot-Touch触觉基础模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-10-3",
-        "summary": "蚂蚁灵波推出LingBot-Touch触觉基础模型，旨在提升机器人的通用触觉感知与操作能力，推动具身智能在真实场景中的应用。",
-        "comment": "触觉基础模型补齐具身智能感知短板，值得关注。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/92efedf7-b57b-40e2-8aff-4155cbb8658e/Screenshot_2026-11-10_at_10.27.54.png?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Claude Fable 5.2用30小时完成费马大定理形式化",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-10-2",
-        "summary": "机器之心报道，Claude Fable 5.2在30小时内完成费马大定理的形式化证明，展示AI在数学形式化领域的突破性进展。",
-        "comment": "AI攻克顶级数学形式化，效率惊人但需验证可靠性。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/d3141849-b2cc-4a36-b744-6621d2fa7908/Screenshot_2026-11-10_at_10(2).19.46.png?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI监管",
-        "title": "纽约AI安全法生效，OpenAI与Anthropic面临新监管",
-        "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-        "summary": "纽约州开始执行全面AI安全法，要求OpenAI、Anthropic等主要开发商注册、披露安全实践并报告重大事故。",
-        "comment": "州级强监管落地，AI巨头合规成本将上升。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI科研",
-        "title": "PSI用未发布Anthropic模型破解量子计算二十年难题",
-        "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-        "summary": "PSI利用未发布的Anthropic模型回答量子计算基础问题，该问题科学家已探索近二十年，公司试图将AI驱动科学发现商业化。",
-        "comment": "AI科研商业化迈出实质一步，但可复现性待验证。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达CEO黄仁勋被曝与疑似中国间谍有婚外情",
-        "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "summary": "报道梳理黄仁勋与一名疑似中国间谍的婚外情时间线，称此事可能在中美AI基础设施竞赛中影响国家安全。",
-        "comment": "高管私德被卷入大国技术竞争，风险外溢值得警惕。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI为护理人员提供免费ChatGPT实践培训",
+        "title": "OpenAI在五城为护理者提供免费ChatGPT培训",
         "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "summary": "OpenAI Academy在美国五座城市为护理人员举办免费ChatGPT实践工作坊，帮助其掌握日常AI实用技能。",
-        "comment": "AI普及从工具培训切入真实人群，务实但覆盖面仍有限。",
+        "summary": "OpenAI Academy在美国五座城市为护理者提供免费实操ChatGPT工作坊，帮助他们掌握日常AI技能。",
+        "comment": "AI普及从工具培训切入，护理者群体值得关注。",
         "image": "",
         "score": 100
       },
@@ -87,28 +17,28 @@
         "tag": "OpenAI",
         "title": "OpenAI在ChatGPT中推出企业功能",
         "link": "https://openai.com/index/introducing-businesses-chatgpt",
-        "summary": "OpenAI宣布在ChatGPT中引入企业功能，用户可管理企业信息、查看企业展示洞察，并将用户兴趣转化为行动。",
+        "summary": "OpenAI宣布在ChatGPT中引入企业功能，用户可管理企业信息、查看企业在ChatGPT中的展示洞察，并将用户兴趣转化为行动。",
         "comment": "ChatGPT正从对话工具转向商业入口，变现路径更清晰。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "教育AI",
-        "title": "OpenAI发布教育AI应用指南",
+        "tag": "OpenAI",
+        "title": "OpenAI发布教育领域AI指导缺口研究",
         "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-        "summary": "OpenAI联合ThinkYoung研究，基于EMEA教育合作经验，提出支持教师、提升AI素养和促进自主学习的教育AI应用建议。",
-        "comment": "教育AI落地关键在教师赋能，而非工具堆砌。",
+        "summary": "OpenAI援引ThinkYoung新研究与欧洲、中东和非洲教育合作经验，聚焦支持教师、AI素养和独立学习，提出弥合学校AI指导缺口的做法。",
+        "comment": "AI进校园，关键不在工具而在教师指导与素养。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "OpenAI",
         "title": "新加坡航空用OpenAI技术提升旅行与办公体验",
         "link": "https://openai.com/index/singapore-airlines-travel-work",
-        "summary": "新加坡航空借助OpenAI模型与API优化客服、旅行发现和员工效率，其Kris聊天机器人客户满意度提升一倍。",
-        "comment": "AI落地航空客服见效，关键在场景而非模型。",
+        "summary": "新加坡航空借助OpenAI模型与API优化客服、旅行发现和员工效率，其Kris聊天机器人客户满意度翻倍。",
+        "comment": "航司AI落地见效，客服满意度翻倍是硬指标。",
         "image": "",
         "score": 100
       },
@@ -117,97 +47,27 @@
         "tag": "人工智能",
         "title": "OpenAI与Upwork研究：AI对自由职业的影响",
         "link": "https://openai.com/index/ai-effect-on-freelance-work",
-        "summary": "OpenAI与Upwork联合研究显示，自由职业需求结构正在变化，AI相关项目预算更高、工时更长，并催生新的技能组合。",
-        "comment": "AI正重塑自由职业市场，技能组合与预算分配同步调整。",
+        "summary": "OpenAI与Upwork新研究显示，自由职业需求结构变化，技能组合更新，AI相关项目预算更高、工时更多。",
+        "comment": "AI正重塑自由职业市场，技能与预算同步分化。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "网络安全",
+        "tag": "人工智能",
         "title": "Cogent与OpenAI共建企业网络防御工厂",
         "link": "https://openai.com/index/cogent-security",
-        "summary": "Cogent将OpenAI模型与企业上下文结合，利用智能体自动修复安全漏洞，提升企业网络防御效率。",
+        "summary": "Cogent将OpenAI模型与企业上下文结合，借助智能体自动修复安全漏洞，提升企业网络防御效率。",
         "comment": "AI智能体切入漏洞修复，安全运维自动化再进一步。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI收购Sonder创始人创办的旅游初创公司Odessia",
-        "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-        "summary": "OpenAI收购由Sonder创始人Francis Davidson创办的旅游初创公司Odessia，但未透露未来在旅游领域的具体计划。",
-        "comment": "OpenAI借收购吸纳旅游行业人才，意图尚不明朗。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic七位联合创始人IPO各套现约2.5亿美元",
-        "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-        "summary": "TechCrunch报道，Anthropic七位联合创始人将在IPO中出售相同数量股份，按发行价区间中值计算，每人可套现约2.5亿美元。",
-        "comment": "创始人集体等额套现，既显财富兑现，也引治理关注。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Oura",
-        "title": "Oura以6.25亿美元收购AI原生初级保健初创公司Counsel Health",
-        "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-        "summary": "Oura宣布以6.25亿美元收购AI原生初级保健初创公司Counsel Health。此前数周，Oura以IPO市场不确定为由无限期推迟最高22亿美元上市计划。",
-        "comment": "硬件厂商借收购补齐医疗服务，上市受挫后转向并购突围。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI推出企业档案，ChatGPT更像谷歌",
-        "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-        "summary": "OpenAI为ChatGPT上线企业档案等新功能，意在将其打造成更强的消费发现引擎，帮助商家被用户找到。",
-        "comment": "ChatGPT正从聊天工具转向流量入口，搜索格局或生变。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic推出Claude Meetings，将会议讨论转为计划与任务",
-        "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-        "summary": "Anthropic发布Claude Meetings，可在会议中实时起草讨论方案、在白板绘制时间线、回答聊天提问，并连接工作应用调取信息。",
-        "comment": "会议助手竞争升温，关键在能否真正落地执行。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌推出两款专用芯片，扩展AI硬件组合",
-        "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-        "summary": "谷歌发布两款新TPU，分别面向机密模型训练和更大内存容量场景，进一步覆盖更多AI用例。",
-        "comment": "TPU细分场景，谷歌正把AI芯片推向专用化竞争。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6 成为 PlayStation 和 Xbox 史上预购量最高游戏",
-        "link": "https://www.gamespot.com/articles/gta-6-is-the-most-preordered-game-of-all-time-for-playstation-and-xbox/",
-        "summary": "Rockstar 的《GTA 6》将于 11 月 19 日登陆 PS5 和 Xbox Series X|S，索尼宣布该作未发售已创下 PlayStation 和 Xbox 平台史上最高预购纪录。",
-        "comment": "预购纪录印证 GTA 6 的跨平台统治力，发售日将成行业大事件。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_14.jpg?w=300",
-        "score": 94
       },
       {
         "category": "数码科技",
         "tag": "MiniMax",
         "title": "MiniMax H3 Image实测：开源图像模型兼具GPT效果与MJ审美",
         "link": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测MiniMax H3 Image，称其生成效果接近GPT、审美接近Midjourney，4K图像最快10秒生成，且模型已开源。",
+        "summary": "爱范儿实测MiniMax H3 Image，称其生成效果接近GPT、审美接近Midjourney，4K图像最快10秒生成，且已开源。",
         "comment": "开源图像模型在效果与审美上追近闭源头部，值得关注。",
         "image": "",
         "score": 92
@@ -225,41 +85,21 @@
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "《GTA 6》新预告展示赛车后空翻动画",
+        "title": "GTA 6新预告展示赛车后空翻动画",
         "link": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story/",
-        "summary": "《GTA 6》11月10日发布新预告，展示赛车手完成流畅后空翻动画，动作表现明显提升，但GameSpot指出背后可能还有更多故事。",
-        "comment": "动画进步值得肯定，但预告片不等于成品，仍需观望。",
+        "summary": "GameSpot报道，11月10日发布的新《GTA 6》预告展示了赛车手后空翻动作，动画流畅度明显提升，但背后可能还有更多细节值得关注。",
+        "comment": "动画进步明显，但预告片细节仍需正式版验证。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/backflip.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "PlayStation Plus",
-        "title": "《死亡搁浅2》领衔11月PS Plus游戏目录",
-        "link": "https://www.gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november/",
-        "summary": "PlayStation Plus游戏目录11月阵容公布，《死亡搁浅2》领衔，Essential与Premium会员本月共可领取10款游戏。",
-        "comment": "大作首发进订阅，索尼在拉新上继续加码。",
-        "image": "https://www.gamespot.com/wp-content/uploads/original/1816/18167535/4521342-death-stranding-2-best-weapons-gear-upgrades-early-game-.jpg?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
-        "title": "特努斯施压Siri掌门人，苹果AI不能再等",
+        "title": "特努斯施压Siri掌门人，苹果AI加速推进",
         "link": "https://www.ifanr.com/1688570?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道称，苹果硬件负责人特努斯向Siri负责人施压，要求加快AI进展，显示苹果在AI竞赛中已不容拖延。",
-        "comment": "苹果AI落后压力已传导至管理层，追赶节奏将加快。",
+        "summary": "爱范儿报道称，苹果硬件负责人特努斯向Siri负责人施压，要求加快AI进展，显示苹果在AI竞赛中已不能再等。",
+        "comment": "苹果AI落后压力显现，内部施压或加速追赶。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6评分竞猜赢500美元礼品卡",
-        "link": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/",
-        "summary": "GameSpot发起GTA 6评测分数竞猜活动，猜中者可赢500美元礼品卡。游戏定于11月19日发售，评测分数成为玩家关注焦点。",
-        "comment": "评分竞猜折射出玩家对GTA 6品质的高度期待。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_84120d.jpg?w=300",
         "score": 91
       },
       {
@@ -267,9 +107,19 @@
         "tag": "GTA 6",
         "title": "Take-Two CEO称GTA 6定价80美元是\"划算\"",
         "link": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
-        "summary": "面对油价和食品杂货价格上涨，Take-Two CEO Strauss Zelnick认为GTA 6售价80美元仍属\"划算\"，将游戏定价与生活成本对比。",
-        "comment": "用生活成本为游戏涨价辩护，话术巧妙但难服众。",
+        "summary": "面对油价和食品杂货价格上涨，Take-Two CEO Strauss Zelnick认为GTA 6定价80美元仍属\"划算\"，将游戏价格与生活成本对比。",
+        "comment": "用生活成本为游戏涨价辩护，话术巧妙但难消玩家疑虑。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_07.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Steam Deck",
+        "title": "Valve扩展Steam Deck游戏兼容性验证方式",
+        "link": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/",
+        "summary": "Valve改进Steam Deck验证计划，新增更多方式帮助玩家判断游戏在该掌机上的运行表现，弥补原有验证机制的不足。",
+        "comment": "验证机制补漏，掌机体验透明度提升。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/2e7f9079b6be9a3c99c5014fc1ee0eaede8d5edb.jpg?w=300",
         "score": 91
       },
       {
@@ -277,50 +127,50 @@
         "tag": "魔兽世界",
         "title": "《魔兽世界：永恒》上线后首次重大更新",
         "link": "https://www.gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes/",
-        "summary": "《魔兽世界：永恒》周末迎来上线后首批更新，调整地下城奖励以鼓励玩家重复挑战，并预告职业平衡改动。",
-        "comment": "首发更新聚焦重复可玩性，方向务实。",
+        "summary": "《魔兽世界：永恒》周末迎来上线后首批更新，调整地下城奖励以鼓励玩家重复挑战，并预告后续职业改动。",
+        "comment": "首发更新聚焦重复可玩性，职业平衡仍是关键考验。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-First-Post-Launch-Changes.jpg?w=300",
         "score": 91
       },
       {
-        "category": "数码科技",
-        "tag": "极星",
-        "title": "极星Formula 2030亮相，号称最帅极星车型",
-        "link": "https://www.ifanr.com/1688935?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "极星发布Formula 2030概念车，被称作品牌设计集大成之作，外观造型成为关注焦点。",
-        "comment": "设计出彩，但量产落地与市场表现仍待观察。",
-        "image": "",
-        "score": 90
-      },
-      {
         "category": "游戏影视",
-        "tag": "Steam Deck",
-        "title": "Valve扩展Steam Deck游戏兼容性验证方式",
-        "link": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck/",
-        "summary": "Valve改进Steam Deck验证计划，新增更多方式帮助玩家判断游戏在该掌机上运行是否良好，弥补原有验证机制的不足。",
-        "comment": "验证机制补漏，掌机体验更透明，但实际效果待观察。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/2e7f9079b6be9a3c99c5014fc1ee0eaede8d5edb.jpg?w=300",
-        "score": 90
+        "tag": "PlayStation Plus",
+        "title": "《死亡搁浅2》领衔11月PS Plus游戏目录",
+        "link": "https://www.gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november/",
+        "summary": "PlayStation Plus游戏目录11月新增游戏公布，Essential和Premium订阅用户本月共可领取10款游戏。",
+        "comment": "订阅阵容有分量，但关键看后续留存。",
+        "image": "https://www.gamespot.com/wp-content/uploads/original/1816/18167535/4521342-death-stranding-2-best-weapons-gear-upgrades-early-game-.jpg?w=300",
+        "score": 91
       },
       {
         "category": "数码科技",
         "tag": "领克",
         "title": "领克900L七座版亮相，等待市场时机",
         "link": "https://www.ifanr.com/1688954?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "领克推出七座大型SUV 900L，空间更大，但品牌需加快节奏以在竞争激烈的市场中站稳。",
-        "comment": "产品力不弱，关键看定价与上市时机。",
+        "summary": "领克900L以七座大空间切入市场，但品牌需加快节奏，在竞争激烈的新能源大型SUV领域争取一席之地。",
+        "comment": "大空间是卖点，但领克更缺的是速度。",
         "image": "",
-        "score": 89
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "极星",
+        "title": "极星Formula 2030亮相，号称最帅极星车型",
+        "link": "https://www.ifanr.com/1688935?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "极星发布Formula 2030概念车，官方称其为极星式设计的集大成之作，外观设计引发关注。",
+        "comment": "设计出彩，但量产落地与市场接受度仍待观察。",
+        "image": "",
+        "score": 90
       },
       {
         "category": "游戏影视",
-        "tag": "游戏",
-        "title": "Take-Two CEO 赞时之笛重制版出色 但难与GTA6竞争",
-        "link": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6/",
-        "summary": "Take-Two CEO 泽尔尼克评价 Switch 2 版《塞尔达传说：时之笛》重制版“非常出色”，但认为其与《GTA 6》不在同一竞争层面。",
-        "comment": "跨品类比较意义有限，两家公司各守赛道。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/ocarinaoftimeremake-1.png?w=300",
-        "score": 89
+        "tag": "GTA 6",
+        "title": "GTA 6评分竞猜赢500美元礼品卡",
+        "link": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right/",
+        "summary": "GameSpot发起GTA 6评测分数竞猜活动，猜中者可赢500美元礼品卡。该游戏定于11月19日发售，评测分数成为玩家关注焦点。",
+        "comment": "评分竞猜是营销噱头，也折射出玩家对GTA 6品质的高度期待。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_84120d.jpg?w=300",
+        "score": 90
       }
     ]
   }
