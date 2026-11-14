@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
+        "tag": "百度智能云",
         "title": "AI自进化不止刷榜，百度智能云将RSI带入产业一线",
         "link": "https://www.jiqizhixin.com/articles/2026-11-13-12",
-        "summary": "百度智能云把递归自我改进（RSI）从榜单评测推进到产业场景，强调AI自进化在真实业务中的落地价值。",
-        "comment": "自进化从刷榜走向产线，关键看能否稳定交付。",
+        "summary": "百度智能云把递归自我改进（RSI）从榜单评测推进到产业场景，强调AI自进化在真实业务中的落地价值，而非只追求刷榜成绩。",
+        "comment": "自进化走出实验室，关键看产业闭环能否跑通。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/8095541b-d3f0-4beb-a171-53930e5356e7/0__28_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
@@ -25,40 +25,30 @@
       {
         "category": "人工智能",
         "tag": "CAR-T",
-        "title": "合肥药企获5000万美元A轮融资，研发体内CAR-T",
+        "title": "合肥药企获5000万美元A轮首关，布局体内CAR-T",
         "link": "https://www.jiqizhixin.com/articles/2026-11-13-8",
-        "summary": "合肥一家药企完成5000万美元A轮首关融资，资金将用于推进体内CAR-T疗法研发，探索直接在患者体内生成CAR-T细胞的新路径。",
-        "comment": "体内CAR-T若走通，将大幅降低治疗门槛。",
+        "summary": "合肥一家药企完成5000万美元A轮融资首关，资金将用于推进体内CAR-T疗法研发，探索直接在患者体内生成CAR-T细胞的新路径。",
+        "comment": "体内CAR-T若走通，将大幅降低治疗成本与流程复杂度。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/5d292feb-8497-4fac-99c7-c02fd3b2eafd/0__24_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI4S",
-        "title": "AI4S大牛顾全全创业公司发布全原子结构预测新模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-13-7",
-        "summary": "顾全全创业公司推出全原子结构预测新模型，成功率高达79.07%，面向AI4S场景提升分子结构预测精度。",
-        "comment": "全原子预测成功率亮眼，但需看真实场景泛化。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/fbeb2d43-9685-4c74-b4c1-c7bf1872f661/0__23_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "英伟达",
-        "title": "黄仁勋离任冲击AI初创融资，风投与创始人称资金缺口巨大",
+        "title": "黄仁勋离任或重创AI初创融资",
         "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-        "summary": "英伟达在黄仁勋主导下向AI初创投入数百亿美元。其离任后，创始人与风投预计融资规模缩小、估值下调。",
-        "comment": "核心人物离场，AI融资生态短期难补缺口。",
+        "summary": "英伟达在黄仁勋主导下向AI初创投入数百亿美元。创始人与风投担心，他离任后融资规模缩小、估值走低。",
+        "comment": "巨头掌舵者变动，直接牵动AI资本链。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "英伟达",
-        "title": "研究称中国最强AI模型依赖被禁英伟达芯片",
+        "title": "研究称中国最强AI模型依赖被禁英伟达芯片训练",
         "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-        "summary": "新研究显示，中国最先进的人工智能模型是在被出口禁令限制的英伟达芯片上训练完成的，凸显管制与实际算力来源之间的落差。",
-        "comment": "出口管制难挡算力需求，漏洞值得警惕。",
+        "summary": "新研究显示，中国最先进的AI模型是在被出口禁令限制的英伟达芯片上训练完成的，凸显管制与实际算力之间的落差。",
+        "comment": "出口管制难挡算力现实，政策效果需重估。",
         "image": "",
         "score": 100
       },
@@ -67,8 +57,8 @@
         "tag": "ChatGPT",
         "title": "ChatGPT推出钱包功能，AI代理可代用户购物结账",
         "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-        "summary": "ChatGPT Wallet允许AI代理代用户购物并完成结账，首批面向美国Pro订阅用户限量开放。",
-        "comment": "AI代理从对话走向交易，支付授权与安全边界是关键。",
+        "summary": "ChatGPT Wallet允许AI代理代替用户购物并完成结账，首批面向美国Pro订阅用户限量开放。",
+        "comment": "AI代理从对话走向交易，支付安全与责任边界待解。",
         "image": "",
         "score": 100
       },
@@ -77,8 +67,8 @@
         "tag": "英伟达",
         "title": "黄仁勋因婚外情辞职，涉中国间谍传闻",
         "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "summary": "TechCrunch梳理黄仁勋因婚外情辞去英伟达职务的时间线，事件或影响中美AI基础设施竞争与国家安全。",
-        "comment": "高管私德牵动AI芯片巨头与国家安全，值得警惕。",
+        "summary": "TechCrunch梳理黄仁勋因婚外情辞去英伟达职务的时间线，事件或影响中美AI竞赛中的国家安全。",
+        "comment": "传闻未经证实，但英伟达权力交接风险已现。",
         "image": "",
         "score": 100
       },
@@ -87,48 +77,38 @@
         "tag": "OpenAI",
         "title": "OpenAI推出ChatGPT钱包，支持代理代购",
         "link": "https://openai.com/index/introducing-chatgpt-wallet",
-        "summary": "OpenAI发布ChatGPT Wallet，让ChatGPT Work、Codex和dots中的代理在用户批准下完成购买，并沿用现有银行卡保护机制。",
-        "comment": "支付入口落地，AI代理商业化迈出关键一步。",
+        "summary": "OpenAI发布ChatGPT钱包，让ChatGPT Work、Codex和dots中的代理在用户批准下完成购买，并沿用现有银行卡保护机制。",
+        "comment": "支付入口嵌入AI代理，安全与责任边界待检验。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Shield用OpenAI助IT技师交接旧系统工作",
+        "title": "Shield借助OpenAI帮技术员交接旧系统工作",
         "link": "https://openai.com/business/customer-stories/shield",
-        "summary": "Shield利用OpenAI让Forge代理自动操作旧系统门户，帮助IT技师交接工作，使其专注需要人工判断的问题。",
-        "comment": "AI代理切入旧系统运维，实用价值高于概念演示。",
+        "summary": "Shield利用OpenAI让IT技术员在旧门户中交接工作，其Forge代理可自动操作系统，使技术员专注需人工判断的问题。",
+        "comment": "AI代理切入遗留系统运维，实用价值明确。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "LangChain",
-        "title": "LangChain估值达30亿美元，智能体管理工具受关注",
+        "title": "LangChain估值达30亿美元",
         "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-        "summary": "AI智能体创业公司LangChain估值达30亿美元，其模型与平台无关的智能体管理工具LangSmith已拥有7000家客户。",
-        "comment": "智能体工具层竞争升温，商业化验证是关键。",
+        "summary": "AI智能体初创公司LangChain估值达30亿美元，其模型与平台无关的智能体管理工具LangSmith已拥有7000家客户。",
+        "comment": "智能体工具层竞争升温，商业化验证初显。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "ElevenLabs",
-        "title": "ElevenLabs推出团队会议记录与听写应用",
+        "title": "ElevenLabs推出团队会议记录与听写新应用",
         "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-        "summary": "ElevenLabs发布ElevenAI，整合会议记录与听写功能，面向团队和企业用户，进一步扩展其语音AI产品线。",
-        "comment": "语音AI从工具走向企业协作场景，竞争加剧。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "黄仁勋",
-        "title": "报道称黄仁勋对继任者缺乏信心",
-        "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-        "summary": "TechCrunch报道，黄仁勋今夏一次会议上用“被车灯照到的鹿”形容继任者克雷斯，显示其对接班安排信心不足。",
-        "comment": "继任者被当众贬低，英伟达权力交接添变数。",
+        "summary": "ElevenLabs发布ElevenAI，整合会议记录与听写功能，面向团队和企业用户，拓展语音AI应用场景。",
+        "comment": "语音AI从工具走向团队协作入口。",
         "image": "",
         "score": 99
       },
@@ -137,39 +117,29 @@
         "tag": "英伟达",
         "title": "以色列风投：英伟达动荡中看到挑战者机会",
         "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-        "summary": "英伟达在AI领域的主导地位对以色列至关重要，当地创投圈担忧其变动带来的冲击，同时视其为挑战者切入的机会。",
-        "comment": "英伟达的动荡，正被以色列风投当作窗口期。",
+        "summary": "英伟达在AI领域的主导地位对以色列初创生态影响重大，当地风投担忧其变动带来的冲击，同时视其为挑战者的机会。",
+        "comment": "英伟达一家独大，反而给区域玩家留出突围空间。",
         "image": "",
         "score": 98
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "IGN：GTA 6画面惊艳，30帧也无妨",
-        "link": "https://www.ign.com/articles/some-of-these-gta-6-clips-look-so-good-that-i-dont-care-if-its-running-at-30-fps",
-        "summary": "Rockstar确认GTA 6在所有主机（含PS5 Pro）上以30帧运行。IGN作者表示，尽管帧率不高，但已公布的片段画面足够出色，让人不再在意帧率限制。",
-        "comment": "画面优先还是帧率优先，GTA 6再次点燃争论。",
-        "image": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-jason-and-lucia-drive-by-1793234705694.jpg",
-        "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "银翼杀手",
         "title": "银翼杀手2099制片人确认洽谈AAA游戏改编",
         "link": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
-        "summary": "Alcon Entertainment联合CEO兼《银翼杀手2099》执行制片人证实，正就打造《银翼杀手》AAA级游戏改编进行洽谈。",
-        "comment": "影视IP进军3A游戏，关键看能否还原原作气质。",
+        "summary": "《银翼杀手2099》执行制片人兼Alcon联合CEO确认，正就打造AAA级《银翼杀手》游戏进行洽谈，具体细节尚未公布。",
+        "comment": "经典IP进军3A游戏，成败取决于能否还原原作氛围。",
         "image": "https://assets-prd.ignimgs.com/2022/09/15/blade-runner-2099-1663254300147.jpg",
-        "score": 93
+        "score": 94
       },
       {
         "category": "游戏影视",
-        "tag": "PS5",
-        "title": "PS5多款游戏获QSSR更新支持",
-        "link": "https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
-        "summary": "索尼确认《漫威蜘蛛侠2》《Arc Raiders》等六款游戏将在基础版PS5上获得QSSR支持，画质或性能有望提升。",
-        "comment": "基础版PS5补强技术，老玩家也能受益。",
-        "image": "https://assets-prd.ignimgs.com/2025/01/30/pc-first-mins-br-1738277933414.jpg",
+        "tag": "英伟达",
+        "title": "黄仁勋宣布辞去英伟达CEO等职务",
+        "link": "https://www.gcores.com/radios/222295",
+        "summary": "2026年11月12日，黄仁勋宣布辞去英伟达总裁、CEO和董事职务，离开创立33年的公司。机核电台梳理其72小时内经历与背后风暴。",
+        "comment": "重大人事变动，需核实信源与后续影响。",
+        "image": "",
         "score": 93
       },
       {
@@ -177,19 +147,9 @@
         "tag": "GTA 6",
         "title": "报告称GTA 6明年初或售5500万份，均价或达90美元",
         "link": "https://www.gamespot.com/articles/gta-6-could-sell-55-million-copies-by-early-next-year-report-says-and-average-selling-price-could-be-90/",
-        "summary": "Rockstar《GTA 6》将于11月19日发售。投资者商业日报汇总预测称，该作到明年初可能卖出5500万份，平均售价或达90美元，商业规模惊人。",
-        "comment": "销量与定价预期双高，显示市场对GTA 6极度乐观。",
+        "summary": "Rockstar的《GTA 6》将于11月19日发售，投资者商业日报汇总预测称其明年初销量或达5500万份，平均售价可能为90美元。",
+        "comment": "销量与定价预期双高，显示市场对GTA 6信心极强。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Ambrosia_06_6fdec7.jpg?w=300",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "专家称GTA 6等游戏可支撑80美元定价",
-        "link": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/",
-        "summary": "Rockstar的《GTA 6》将于11月19日发售，售价至少80美元，比2013年《GTA 5》贵20美元，比多数新作贵10美元。专家认为其内容规模足以支撑涨价。",
-        "comment": "涨价争议背后，是3A大作成本与玩家预期的博弈。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_03.jpg?w=300",
         "score": 93
       },
       {
@@ -197,38 +157,18 @@
         "tag": "世界模型",
         "title": "李飞飞世界模型开放，一句话生成重庆山城",
         "link": "https://www.ifanr.com/1689379?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "李飞飞团队的世界模型正式开放使用，作者用一句话生成重庆山城场景，展示其空间生成能力，也引发对世界模型竞争格局的关注。",
-        "comment": "世界模型从演示走向可用，竞争才真正开始。",
+        "summary": "李飞飞团队的世界模型正式开放使用，作者通过一句话指令生成了重庆山城场景，展示其在三维场景生成上的能力。",
+        "comment": "世界模型从论文走向可用，竞争才刚开始。",
         "image": "",
         "score": 92
       },
       {
         "category": "游戏影视",
-        "tag": "斯皮尔伯格",
-        "title": "斯皮尔伯格曾差点执导外星恐怖片《夜空》",
-        "link": "https://www.ign.com/articles/steven-spielberg-night-skies-et-almost-made-an-alien-horror-movie-instead",
-        "summary": "在执导《E.T.》前，斯皮尔伯格曾计划拍摄外星恐怖片《夜空》，该项目最终未成行。",
-        "comment": "未拍成的《夜空》反而成就了《E.T.》的温情经典。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/13/steven-spielberg-filming-1280-1794609786087.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威",
-        "title": "凯文·费奇不让旺达现身《幻视探索》怕分散主线",
-        "link": "https://www.ign.com/articles/kevin-feige-didnt-want-wanda-in-visionquest-because-he-was-worried-she-would-distract-from-the-core-show",
-        "summary": "保罗·贝坦尼透露，凯文·费奇担心伊丽莎白·奥尔森饰演的旺达出现在《幻视探索》中会分散观众对剧集核心的注意力。",
-        "comment": "漫威有意让衍生剧独立成篇，避免依赖大牌客串。",
-        "image": "https://assets-prd.ignimgs.com/2023/08/03/wandavision-1691088299084.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6实体版或存漏洞：盒装仅含数字码",
+        "title": "GTA 6实体版或存兑换码漏洞",
         "link": "https://www.gamespot.com/articles/physical-gta-6-copies-might-be-vulnerable-to-a-very-stupid-but-serious-trick/",
-        "summary": "《GTA 6》实体版改为盒装数字码，本周起在零售商开售。报道称这种形式可能存在一个看似愚蠢却严重的漏洞，涉及兑换码安全。",
-        "comment": "实体版变数字码，安全风险随之转移。",
+        "summary": "GTA 6实体版改为盒装数字兑换码发售，外媒指出该形式可能存在简单却严重的漏洞，玩家需留意兑换码安全。",
+        "comment": "盒装码省成本，却把风险转嫁给玩家。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6-1.webp?w=300",
         "score": 92
       },
@@ -237,9 +177,19 @@
         "tag": "游戏行业",
         "title": "EA 550亿美元私有化后 Take-Two 无意出售",
         "link": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-itself-after-ea-goes-private-for-55-billion/",
-        "summary": "EA以550亿美元被沙特公共投资基金牵头财团私有化后，GTA 6母公司Take-Two表示无意出售自身，继续独立运营。",
-        "comment": "巨头私有化潮起，Take-Two选择按兵不动。",
+        "summary": "EA以550亿美元被沙特公共投资基金牵头财团私有化，GTA 6母公司Take-Two回应称无意出售自身，凸显游戏巨头资本格局分化。",
+        "comment": "EA卖身，Take-Two守独立，行业资本分化加剧。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2-1.jpg?w=300",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "专家称GTA 6等游戏可支撑80美元定价",
+        "link": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/",
+        "summary": "Rockstar的《GTA 6》将于11月19日发售，售价至少80美元，比2013年的《GTA 5》贵20美元。有专家认为，部分游戏具备支撑这一涨价的能力。",
+        "comment": "涨价能否被接受，最终取决于内容厚度而非品牌光环。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_03.jpg?w=300",
         "score": 92
       },
       {
@@ -247,15 +197,15 @@
         "tag": "GTA 6",
         "title": "GTA 6游戏内电视节目Macca & Friends首曝",
         "link": "https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way/",
-        "summary": "Rockstar公布GTA 6游戏内电视节目《Macca & Friends》首段画面，主角是戴墨镜的粉色鳄鱼及其湿地伙伴，风格荒诞有趣。",
-        "comment": "用荒诞节目填充世界，延续GTA式讽刺传统。",
+        "summary": "Rockstar公布GTA 6游戏内电视节目《Macca & Friends》首段画面，主角是戴墨镜的粉色鳄鱼及其在Leon湿地的伙伴，风格荒诞有趣。",
+        "comment": "游戏内电视节目延续GTA式荒诞幽默，细节见功力。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6NewImage.png?w=300",
         "score": 92
       },
       {
         "category": "数码科技",
-        "tag": "华为",
-        "title": "余承东公布华为问界新合作模式，新M8起售价37.98万元",
+        "tag": "华为问界",
+        "title": "余承东公布华为问界新合作模式，新M8上市37.98万起",
         "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "余承东公布华为问界新合作模式，新M8同步上市，起售价37.98万元，升级主打实用主义。",
         "comment": "合作模式调整叠加新车上市，问界进入新阶段。",
@@ -263,72 +213,52 @@
         "score": 91
       },
       {
-        "category": "数码科技",
-        "tag": "iPhone 20",
-        "title": "iPhone 20爆料汇总：一整块玻璃设计",
-        "link": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿汇总iPhone 20爆料，称其采用一整块玻璃设计，被视为苹果下一个十年的关键产品。",
-        "comment": "爆料虽多，落地仍待验证。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "AI时代企业如何重建智能组织新厂房",
-        "link": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿探讨AI时代企业竞争力，认为未来十年身位取决于谁先动手重建名为智能组织的新厂房，强调组织变革而非单纯技术引入。",
-        "comment": "AI落地关键在组织重构，非工具堆砌。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "英伟达",
-        "title": "黄仁勋宣布辞任英伟达CEO",
-        "link": "https://www.gcores.com/radios/222295",
-        "summary": "2026年11月12日，黄仁勋宣布辞去英伟达总裁、CEO及董事职务，彻底离开创立33年的公司。机核电台梳理其72小时内经历与背后风暴。",
-        "comment": "播客推测性讨论，事件本身尚待核实。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "塞尔达",
-        "title": "塞尔达官网误标3DS游戏可在Switch游玩",
-        "link": "https://www.gamespot.com/articles/official-zelda-website-raises-eyebrows-by-labeling-3ds-game-as-playable-on-switch/",
-        "summary": "任天堂塞尔达40周年官网将一款3DS游戏标注为Switch可玩，引发玩家困惑与猜测，官方尚未回应。",
-        "comment": "官网标注失误或暗示移植计划，值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Nintendo-3DS-and-2DS-The-Legend-of-Zelda_-A-Link-Between-Worlds-Trailer-0-1-48.jpeg?w=300",
-        "score": 91
-      },
-      {
         "category": "游戏影视",
         "tag": "PS5",
         "title": "PS5新图形升频技术扩展至更多游戏",
         "link": "https://www.gamespot.com/articles/the-ps5s-new-graphics-upscaling-trick-is-spreading-to-more-games/",
-        "summary": "索尼宣布更多PS5游戏将获得QSSR升级。该AI引导的升频技术于9月推出，可提升画面分辨率与性能表现。",
-        "comment": "AI升频普及有助延长PS5生命周期。",
+        "summary": "索尼宣布多款游戏将在PS5上获得QSSR升级。该AI引导的升频技术于9月推出，可提升画面表现。",
+        "comment": "AI升频普及，PS5画质红利扩大。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Control-Resonant-1.jpg?w=300",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "Xbox",
-        "title": "Xbox称游戏内广告虽不受欢迎但可拯救游戏业",
+        "title": "Xbox称游戏内广告虽不受欢迎但或能拯救游戏业",
         "link": "https://www.gamespot.com/articles/xbox-says-putting-ads-in-games-something-no-one-likes-could-help-save-gaming/",
-        "summary": "Xbox云游戏推出免费广告支持版本，微软正推动在Xbox生态中引入更多广告。曾任职动视的高管称，广告有助于扩大用户覆盖。",
-        "comment": "广告换免费是商业逻辑，但玩家体验仍是底线。",
+        "summary": "Xbox云游戏推出免费广告支持版本，微软正推动在Xbox生态中引入更多广告，称此举有助于扩大用户覆盖并支撑游戏业务。",
+        "comment": "广告换免费是商业现实，但用户体验仍是底线。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Xbox-1.png?w=300",
         "score": 91
       },
       {
         "category": "数码科技",
+        "tag": "iPhone 20",
+        "title": "iPhone 20爆料汇总：一整块玻璃设计，藏着苹果下一个十年",
+        "link": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿汇总iPhone 20爆料，称其采用一整块玻璃设计，被视为苹果下一个十年的关键产品，并引导关注官方公众号获取更多内容。",
+        "comment": "爆料虽多，但苹果十年愿景仍需真机验证。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
         "tag": "英伟达",
-        "title": "黄仁勋自嘲人渣，英伟达员工喊话求回归",
+        "title": "黄仁勋自嘲“人渣”，英伟达员工喊话求回归",
         "link": "https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道黄仁勋自嘲是「人渣」，英伟达员工集体喊话希望其回归，讨论没有黄仁勋的英伟达会怎样。",
-        "comment": "创始人个人IP与公司命运深度绑定，值得关注。",
+        "summary": "爱范儿报道，黄仁勋自嘲是“人渣”，英伟达员工集体喊话希望其回归，讨论没有黄仁勋的英伟达会怎样。",
+        "comment": "创始人符号化过强，公司治理风险值得关注。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI",
+        "title": "AI时代企业如何重建智能组织新厂房",
+        "link": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿探讨AI时代企业竞争力，认为决定未来十年身位的关键在于谁先动手重建名为智能组织的新厂房。",
+        "comment": "组织变革比工具采购更决定AI成败。",
         "image": "",
         "score": 90
       },
@@ -338,17 +268,17 @@
         "title": "早报：黄仁勋仍为英伟达最大个人股东",
         "link": "https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "爱范儿早报：黄仁勋仍为英伟达最大个人股东；豆包工作接入多款第三方模型；微信「看一看」测试短剧入口；腾讯否认裁员50%传闻。",
-        "comment": "AI入口争夺加剧，平台生态加速整合。",
+        "comment": "AI入口争夺加剧，大厂转型进入实操阶段。",
         "image": "",
         "score": 90
       },
       {
         "category": "游戏影视",
         "tag": "影之刃零",
-        "title": "《影之刃零》能否接棒国产3A？",
+        "title": "《影之刃零》：国产3A的武指与策划之争",
         "link": "https://www.gcores.com/radios/222351",
-        "summary": "机核播客讨论《影之刃零》在《黑神话：悟空》后能否接棒国产3A，肯定其武器动作设计，也指出庞镇内容体量过大等问题。",
-        "comment": "武指亮眼，策划拖后腿，国产3A仍需补短板。",
+        "summary": "机核播客讨论《影之刃零》能否接棒《黑神话：悟空》，聚焦其功夫朋克风格、武器动作设计与庞镇关卡体量，探讨国产3A在动作与策划上的得失。",
+        "comment": "动作亮眼，策划能否撑住大体量仍是关键。",
         "image": "",
         "score": 90
       },
@@ -357,7 +287,7 @@
         "tag": "影之刃零",
         "title": "《影之刃零》斗地主Mod爆火，ModCraft大赛同步开启",
         "link": "https://www.gcores.com/articles/222331",
-        "summary": "UP主用ModCraft发布《影之刃零》斗地主Mod，一天内B站播放破百万；一周前ModCraft主办的MOD创作大赛开始报名。",
+        "summary": "UP主用ModCraft发布《影之刃零》斗地主MOD，一天B站播放破百万；一周前ModCraft主办的MOD创作大赛开始报名。",
         "comment": "玩家整活比官方更新更能带热度，Mod生态正成游戏长尾关键。",
         "image": "",
         "score": 90
@@ -367,9 +297,19 @@
         "tag": "魔兽世界",
         "title": "《魔兽世界：永恒》开服一周热门种族职业阵营数据出炉",
         "link": "https://www.gamespot.com/articles/you-can-probably-guess-wow-forevers-most-popular-race-class-and-faction/",
-        "summary": "《魔兽世界：永恒》上线一周，GameSpot汇总最受欢迎种族、职业与阵营统计，玩家选择倾向已现轮廓。",
-        "comment": "数据印证玩家偏好固化，新作难改经典选择。",
+        "summary": "《魔兽世界：永恒》上线一周，GameSpot汇总玩家数据，揭示最受欢迎的种族、职业与阵营分布，反映玩家偏好。",
+        "comment": "数据揭示玩家选择惯性，经典设定仍主导。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Launch-Stats-Undead-Paladin.jpg?w=300",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "任天堂",
+        "title": "塞尔达官网将3DS游戏标为Switch可玩引猜测",
+        "link": "https://www.gamespot.com/articles/official-zelda-website-raises-eyebrows-by-labeling-3ds-game-as-playable-on-switch/",
+        "summary": "任天堂庆祝塞尔达传说40周年，官网却将一款3DS游戏标注为Switch可玩，引发玩家困惑与猜测。",
+        "comment": "官方标注失误还是新作预告，任天堂需要给个说法。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Nintendo-3DS-and-2DS-The-Legend-of-Zelda_-A-Link-Between-Worlds-Trailer-0-1-48.jpeg?w=300",
         "score": 90
       },
       {
@@ -387,8 +327,8 @@
         "tag": "影之刃零",
         "title": "《影之刃零》茶话会：通关惊喜与槽点",
         "link": "https://www.gcores.com/radios/222023",
-        "summary": "机核编辑回顾《影之刃零》通关体验，分享适应期的受苦、挑战强敌的顿悟与结局带来的情绪冲击，游戏过瘾但槽点不少。",
-        "comment": "播客闲聊形式，真实体验比评测更有参考价值。",
+        "summary": "机核编辑回顾《影之刃零》通关体验，分享适应期的受苦、挑战强敌的顿悟与结局带来的情绪冲击，也吐槽游戏槽点。",
+        "comment": "播客式复盘，真实体验比评测更有参考价值。",
         "image": "",
         "score": 88
       },
@@ -397,70 +337,10 @@
         "tag": "机核",
         "title": "机核机事本11.7-11.13：编辑小作文周更",
         "link": "https://www.gcores.com/articles/222337",
-        "summary": "机核文章区栏目机事本每周五更新，收集编辑的随性小作文。本周四十二、柏亚舟、鼠鼠出场，四十二谈及博尔赫斯《巴别图书馆》节目海报。",
-        "comment": "编辑随笔栏目，内容松散，适合机核读者消遣。",
+        "summary": "机核栏目机事本每周五更新，本周四十二、柏亚舟、鼠鼠三位编辑撰写小作文，题材随意，含博尔赫斯《巴别图书馆》节目海报等内容。",
+        "comment": "编辑随笔合集，偏栏目日常，资讯价值有限。",
         "image": "",
         "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "播客",
-        "title": "机核录音笔VOL.825：办公室日常碎碎念",
-        "link": "https://www.gcores.com/radios/222308",
-        "summary": "机核GPASS会员专享节目录音笔第825期，收录办公室生活与工作中的短小记录，内容为碎碎念、暴言或偷录的日常对话，时长约十几分钟。",
-        "comment": "会员向闲聊节目，信息价值低，适合粉丝消遣。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "游戏影视",
-        "tag": "芭比",
-        "title": "《芭比回溯》评测：IGN发布游戏评测",
-        "link": "https://www.ign.com/articles/barbie-rewind-review",
-        "summary": "IGN发布《芭比回溯》评测，对这款以芭比IP为基础的游戏进行评价，具体评分与优缺点分析见原文。",
-        "comment": "IP改编游戏，评测价值取决于实际品质。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/13/untitled-november-13-2026-at-15-23-38-1794605074548.png",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌",
-        "title": "普京提高对乌和平条件，立场强硬",
-        "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC记者称，莫斯科将欧洲安全问题被纳入讨论视为胜利，普京借此提高对乌克兰的和平条件。",
-        "comment": "俄方把议题扩大当筹码，谈判难度上升。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "英伟达",
-        "title": "英伟达芯片出口风波扩大 美财长指责同僚",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-        "summary": "美财长贝森特称，卢特尼克领导的商务部未能禁止英伟达向一家疑与中国有关联的企业出口芯片，英伟达事件余波扩大。",
-        "comment": "出口管制漏洞暴露，美内阁互相甩锅。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "游轮事故",
-        "title": "新奥尔良游轮相撞 全员获救",
-        "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-        "summary": "新奥尔良密西西比河游轮相撞，32人送医但均为非危重伤，无人员失踪，全员获救。",
-        "comment": "全员生还是不幸中的万幸，事故原因仍待查明。",
-        "image": "",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "爱沙尼亚",
-        "title": "爱沙尼亚禁止俄白运动员参赛",
-        "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-        "summary": "爱沙尼亚宣布禁止俄罗斯和白俄罗斯运动员在其境内参赛，成为因俄乌战争而采取此类措施的最新国家。",
-        "comment": "体育制裁持续扩散，地缘裂痕加深。",
-        "image": "",
-        "score": 85
       }
     ]
   }
