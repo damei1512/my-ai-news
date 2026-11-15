@@ -4,61 +4,151 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "具身智能",
+        "title": "韩松团队开源Qwen3.8-27B机械臂方案，逼近GPT-6 Astra",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-15-7",
+        "summary": "韩松团队将Qwen3.8-27B部署在5090显卡上驱动机器人机械臂，性能逼近GPT-6 Astra，相关代码与模型已开源。",
+        "comment": "小模型加消费级显卡做机器人控制，开源降低具身智能门槛。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/35a67aa9-673c-49d8-8b1b-44fb978875f7/0__44_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "李沐",
+        "title": "李沐加入Aimotion出任联合创始人兼CTO",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-15-5",
+        "summary": "据机器之心报道，前亚马逊首席科学家李沐已加入Aimotion，出任联合创始人兼CTO，负责技术方向与研发工作。",
+        "comment": "顶尖AI研究者转向创业，技术落地值得关注。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/75126875-829b-47b1-9033-9798f8156c05/0__42_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "SpaceX",
+        "title": "SpaceX星舰首次被发射塔捕获",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-15-4",
+        "summary": "SpaceX星舰飞船在试飞中首次被发射塔机械臂捕获，马斯克称创造历史，标志可重复使用火箭技术取得关键突破。",
+        "comment": "可复用火箭再进一步，太空成本有望继续下探。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/19f87e3e-d02e-4093-8b10-b663664c91e6/0__41_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "黄仁勋",
+        "title": "黄仁勋回归请愿书签名者突破12万",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-15-2",
+        "summary": "机器之心报道，要求黄仁勋回归的请愿书签名人数已突破12万，反映外界对其动向的高度关注。",
+        "comment": "签名规模显示市场对核心人物的依赖与焦虑。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/d1e79088-d343-42e0-b664-821922b8afc5/0__39_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
         "tag": "英伟达",
-        "title": "英伟达安全团队何在？安全主管与CEO相继离职",
+        "title": "英伟达安全团队何在？安全主管8月悄然离职",
         "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-        "summary": "英伟达安全主管8月悄然离职，CEO黄仁勋因与一家涉嫌欺诈公司高管的关系等问题卸任，安全团队缺位引发质疑。",
-        "comment": "高管接连离职暴露治理与安全漏洞，英伟达需正视。",
+        "summary": "英伟达安全主管8月悄然离职，CEO黄仁勋因与一家涉嫌欺诈公司高管的关系而辞职，引发外界对安全团队缺位的质疑。",
+        "comment": "高管接连出事，安全与治理漏洞值得警惕。",
         "image": "",
         "score": 100
       },
       {
+        "category": "数码科技",
+        "tag": "SpaceX",
+        "title": "马斯克再创历史：人类首次用“筷子”夹住星舰飞船",
+        "link": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "SpaceX星舰试飞中，发射塔机械臂首次成功夹住返回的超重型助推器，实现火箭回收新突破。",
+        "comment": "火箭回收从着陆腿转向塔臂捕获，成本再降。",
+        "image": "",
+        "score": 94
+      },
+      {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6定档11月19日，被称罕见文化时刻",
+        "title": "GTA 6定档11月19日，被比作奥运会级文化事件",
         "link": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
-        "summary": "历经多年开发与多次延期，Rockstar的《GTA 6》将于11月19日发售，被视为堪比奥运会的罕见文化事件，将产生巨大连锁影响。",
-        "comment": "GTA 6发售已是行业级事件，影响远超游戏本身。",
+        "summary": "历经多年开发与多次延期，Rockstar的《GTA 6》将于11月19日发售，被视为制作预算空前的行业盛事，将产生巨大涟漪效应。",
+        "comment": "GTA 6已超越游戏本身，成为一场文化事件。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17_338c4e.jpg?w=300",
         "score": 94
       },
       {
-        "category": "数码科技",
-        "tag": "SpaceX",
-        "title": "马斯克再创历史：人类首次用筷子夹住星舰飞船",
-        "link": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "SpaceX星舰试飞中，发射塔机械臂首次成功夹住返回的超重型助推器，实现火箭回收新突破。",
-        "comment": "机械臂回收成功，星舰复用迈出关键一步。",
+        "category": "游戏影视",
+        "tag": "英雄联盟",
+        "title": "BLG 3比1击败Gen.G首夺《英雄联盟》S16全球总决赛冠军",
+        "link": "https://www.gcores.com/articles/222372",
+        "summary": "BLG在纽约巴克莱中心以3比1战胜Gen.G，首夺《英雄联盟》全球总决赛冠军，Knight获FMVP；半决赛曾3比1淘汰卫冕冠军T1。",
+        "comment": "LPL新王登基，终结T1王朝，含金量十足。",
         "image": "",
         "score": 93
       },
       {
-        "category": "游戏影视",
-        "tag": "英雄联盟",
-        "title": "BLG首夺《英雄联盟》S16全球总决赛冠军",
-        "link": "https://www.gcores.com/articles/222372",
-        "summary": "BLG在纽约巴克莱中心3比1击败Gen.G，首夺《英雄联盟》全球总决赛冠军，Knight获FMVP；半决赛曾3比1淘汰卫冕冠军T1。",
-        "comment": "LPL新王登顶，终结T1王朝，含金量十足。",
+        "category": "数码科技",
+        "tag": "HomePod mini 2",
+        "title": "HomePod mini 2 体验：六年打磨，好听好看但好贵",
+        "link": "https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿体验 HomePod mini 2，评价其小身材大嗓门，音质与外观有提升，但价格偏高，时隔六年更新。",
+        "comment": "小体积音质升级明显，定价仍是最大门槛。",
         "image": "",
-        "score": 93
+        "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "真人互动游戏",
-        "title": "《东北往事》真人互动游戏登陆主机平台",
+        "title": "真人互动游戏《东北往事》登陆主机平台",
         "link": "https://www.gcores.com/articles/222316",
-        "summary": "由NiuGamer发行、二狗科技开发的真人互动影视作品《东北往事》已登陆Xbox与PS5，Switch版11月26日发售，玩家扮演赵红兵体验80、90年代东北街头故事。",
-        "comment": "真人互动游戏借怀旧IP登陆主机，能否突围仍待观察。",
+        "summary": "NiuGamer发行、二狗科技开发的真人互动影视作品《东北往事》已登陆Xbox与PS5，Switch版11月26日发售，玩家扮演赵红兵体验80、90年代东北街头。",
+        "comment": "真人互动游戏借怀旧IP试水主机，成败看叙事深度。",
         "image": "",
         "score": 89
       },
       {
         "category": "时事热点",
+        "tag": "巴以冲突",
+        "title": "以色列空袭加沙营地 击毙哈马斯指挥官",
+        "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+        "summary": "哈马斯与以军均证实，拉法旅指挥官萨米尔·阿布·尤尼斯在加沙营地空袭中身亡。",
+        "comment": "定点清除升级，停火前景更趋黯淡。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "约旦",
+        "title": "约旦教堂枪击案三名嫌犯被判死刑",
+        "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+        "summary": "约旦法院判处三名男子死刑，他们上月在一座希腊东正教教堂葬礼上发动枪击，造成9人死亡、34人受伤。",
+        "comment": "重刑回应恶性袭击，但宗教场所安全漏洞仍待补。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "加拿大",
+        "title": "加拿大军事基地大火致第五名士兵死亡",
+        "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+        "summary": "加拿大士兵威廉·道格拉斯·达尔·比安科因CFB Wainwright基地大火受伤，于周五不治身亡，成为该火灾第五名死者。",
+        "comment": "军事基地安全漏洞酿成连环伤亡，需彻查问责。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国航空",
+        "title": "美交通部长称铜线升级致航班停飞",
+        "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "summary": "美国交通部长表示，航班暂停与铜线升级有关，政府正调查此次混乱是人为失职还是设备故障所致。",
+        "comment": "设备升级酿成大乱，暴露航空系统脆弱。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
         "tag": "教皇利奥",
-        "title": "教皇利奥访问安第斯偏远小镇谈社区苦难",
+        "title": "教皇利奥探访安第斯偏远小镇，谈及社区苦难",
         "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-        "summary": "教皇利奥到访秘鲁安第斯偏远小镇圣克鲁斯-德苏查班巴，谈及当地社区苦难。该镇属奇克拉约教区，他曾于2015至2023年任该教区主教。",
-        "comment": "重返旧教区，苦难叙事比外交辞令更有分量。",
+        "summary": "教皇利奥访问秘鲁安第斯偏远小镇圣克鲁斯-德苏查班巴，该地属奇克拉约教区，他曾于2015至2023年任该教区主教。此行他谈及当地社区所受苦难。",
+        "comment": "重返旧教区，宗教关怀与地方困境形成呼应。",
         "image": "",
         "score": 84
       },
@@ -67,10 +157,10 @@
         "tag": "特朗普",
         "title": "法官暂时阻止特朗普关闭华盛顿高尔夫球场进行改造",
         "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-        "summary": "美国法官暂时阻止特朗普关闭华盛顿DC的东波托马克高尔夫球场进行改造，这是对总统相关计划持续数月挑战的最新进展。",
-        "comment": "总统改造计划再遇司法阻力，权力边界之争延续。",
+        "summary": "美国法官暂时阻止特朗普关闭华盛顿DC的东波托马克高尔夫球场进行改造，这是针对该计划数月法律挑战的最新进展。",
+        "comment": "总统改造球场受阻，司法制衡再显。",
         "image": "",
-        "score": 84
+        "score": 83
       }
     ]
   }
