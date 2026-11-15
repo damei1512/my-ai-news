@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Amplitude借助OpenAI实现1-2天产品迭代",
+        "title": "Amplitude借助OpenAI实现1至2天产品迭代",
         "link": "https://openai.com/business/customer-stories/amplitude",
-        "summary": "Amplitude基于OpenAI模型构建主动式产品智能体Wave，可识别开发需求、协助团队用编码智能体交付改动并衡量影响。",
-        "comment": "AI正从辅助编码延伸至产品决策闭环。",
+        "summary": "Amplitude基于OpenAI模型打造主动式产品代理Wave，可识别开发需求、协助团队用编码代理交付改动并衡量影响。",
+        "comment": "AI代理正把产品迭代周期压缩到以天计。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "OpenAI",
         "title": "Gondola借助Codex实现营收翻倍",
         "link": "https://openai.com/business/customer-stories/gondola",
-        "summary": "OpenAI客户案例显示，Gondola用Codex将首席工程师产出提升50%，并用ChatGPT简化日常工作，公司营收实现翻倍。",
-        "comment": "AI编程工具正从提效走向直接拉动营收。",
+        "summary": "OpenAI客户案例显示，Gondola用Codex将首席工程师产出提升50%，并用ChatGPT简化日常工作，公司营收随之翻倍。",
+        "comment": "AI工具正从辅助编码走向直接拉动营收。",
         "image": "",
         "score": 100
       },
@@ -27,8 +27,8 @@
         "tag": "Codex",
         "title": "Holiday Extras借助Codex重塑应用开发",
         "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "summary": "Holiday Extras利用OpenAI Codex将客户专业知识转化为更优应用，提升预订转化率，并开拓新的增长空间。",
-        "comment": "Codex落地企业场景，价值在业务转化而非炫技。",
+        "summary": "Holiday Extras利用OpenAI Codex将客户专业知识转化为更优质应用，提升预订转化率，并开拓新的增长空间。",
+        "comment": "AI编程工具正从演示走向企业核心业务场景。",
         "image": "",
         "score": 100
       },
@@ -37,17 +37,17 @@
         "tag": "OpenAI",
         "title": "OpenAI投入200万美元研究AI与儿童安全",
         "link": "https://openai.com/index/children-first-declaration",
-        "summary": "OpenAI承诺投入200万美元，资助AI与儿童安全研究，支持共享工具以衡量青少年面临的风险与机会。",
-        "comment": "资金不大，但儿童AI安全标准缺位，方向值得肯定。",
+        "summary": "OpenAI承诺投入200万美元，用于研究AI与儿童安全，支持共享工具以衡量青少年面临的风险与机会。",
+        "comment": "资金不大，但把儿童安全纳入AI风险度量是必要一步。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "法律科技",
-        "title": "OpenAI对话Gilbert + Tobin CEO：用AI重塑法律业务",
+        "tag": "人工智能",
+        "title": "OpenAI对话Gilbert+Tobin CEO谈AI重塑法律业务",
         "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "summary": "OpenAI发布与Gilbert + Tobin合伙人兼CEO Sam Nickless的对话，讨论律所如何借助AI重新思考法律业务模式与工作方式。",
+        "summary": "OpenAI发布与澳大利亚律所Gilbert+Tobin合伙人兼CEO Sam Nickless的对话，讨论该律所如何借助AI重新思考法律业务模式与工作方式。",
         "comment": "律所高层亲自谈AI落地，法律行业变革信号明确。",
         "image": "",
         "score": 100
@@ -57,30 +57,20 @@
         "tag": "英伟达",
         "title": "黄仁勋辞任英伟达CEO，公司迎来历史性换帅",
         "link": "https://www.ifanr.com/1689249?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道称黄仁勋已辞任英伟达CEO，英伟达迎来历史性换帅，但原文未披露继任者与生效时间等细节。",
-        "comment": "消息若属实，将深刻影响全球AI芯片格局。",
+        "summary": "爱范儿突发消息称，黄仁勋已辞任英伟达CEO，英伟达由此迎来历史性换帅，标志着一个时代的结束。",
+        "comment": "若属实，将重塑全球AI芯片格局。",
         "image": "",
-        "score": 94
+        "score": 95
       },
       {
         "category": "数码科技",
         "tag": "Gemini 4",
-        "title": "Gemini 4 新模型发布，终于人人可用",
+        "title": "Gemini 4 新模型发布，人人可用",
         "link": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "谷歌发布 Gemini 4 新模型，主打更快、更便宜、更聪明，并首次向所有用户开放使用。",
-        "comment": "模型迭代提速，价格与可及性成竞争焦点。",
+        "summary": "谷歌推出 Gemini 4 新模型，主打更快、更便宜、更聪明，并已向所有用户开放使用。",
+        "comment": "模型迭代提速，价格与可用性成竞争焦点。",
         "image": "",
         "score": 92
-      },
-      {
-        "category": "数码科技",
-        "tag": "腾势N8",
-        "title": "26.99万元起，腾势N8上市",
-        "link": "https://www.ifanr.com/1689232?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "腾势N8正式上市，起售价26.99万元，内饰设计被评为此前比亚迪车型中最美，引发关注。",
-        "comment": "腾势用内饰设计补短板，价格仍有竞争力。",
-        "image": "",
-        "score": 90
       }
     ]
   }
