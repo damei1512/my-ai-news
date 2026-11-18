@@ -4,33 +4,583 @@
     "articles": [
       {
         "category": "人工智能",
+        "tag": "AI制药",
+        "title": "Isomorphic Labs获50亿美元推进AI制药临床验证",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-18-12",
+        "summary": "机器之心报道，Isomorphic Labs融资50亿美元，计划将AI药物研发推进至临床验证阶段，检验AI制药的实际效果。",
+        "comment": "巨额融资后，AI制药仍需临床数据证明价值。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/59c50bbf-599b-4f84-9c45-9773ec819dfd/0__68_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "医疗AI",
+        "title": "全球首个医疗健康AI独立评测平台InclusionMed上线",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-18-11",
+        "summary": "InclusionMed正式上线，定位为全球首个医疗健康AI独立评测与分析平台，旨在为该领域AI产品提供第三方评估与分析服务。",
+        "comment": "医疗AI亟需独立评测，但公信力仍待验证。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/23814572-42a9-4090-9a69-2fd09f2c54f4/Screenshot_2026-11-18_at_15(2).47.22.png?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "天基算力",
+        "title": "辰光、SpaceView：合肥中科星云天基算力距国家算力网多远",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-18-10",
+        "summary": "机器之心分析合肥中科星云的辰光与SpaceView天基算力方案，评估其接入国家算力网的现实距离与关键瓶颈。",
+        "comment": "天基算力概念热，落地仍需跨过组网与调度门槛。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/5cebef0e-e597-444f-9dfa-69f869cfc7ae/0__67_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI人才",
+        "title": "思维链之父Jason Wei离开Meta，加盟200亿美元AI独角兽",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-18-7",
+        "summary": "思维链提出者Jason Wei从Meta离职，加入估值200亿美元的AI独角兽，具体去向未披露，引发业界对顶尖AI人才流动的关注。",
+        "comment": "顶尖AI人才争夺战持续升温，独角兽吸引力增强。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/d808a7cd-ecea-48f6-ab33-fb5b05a27f13/Screenshot_2026-11-18_at_14(2).24.39.png?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "Anthropic",
+        "title": "Anthropic收购一人药企，MSRA医学博士用Agent做临床",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-18-4",
+        "summary": "Anthropic收购由MSRA医学博士创办的一人药企，探索个人借助AI Agent完成临床研发，显示AI在医药研发环节的落地加速。",
+        "comment": "AI Agent切入临床研发，小团队模式值得关注。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/f96de04a-496c-46ac-96fd-1064634a1dbe/Screenshot_2026-11-18_at_10(2).18.35.png?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI发布GPT-6.2 Astra和Sol",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-18-2",
+        "summary": "OpenAI推出GPT-6.2版本，包含Astra和Sol两个模型，具体能力与差异尚未披露，发布细节来自机器之心报道。",
+        "comment": "版本号跳跃频繁，需看实测能力而非命名。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/2bbf9228-7c39-4588-97f6-e33f35a59416/Screenshot_2026-11-18_at_10(2).13.23.png?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "英伟达",
+        "title": "英伟达初创投资增至650亿美元，黄仁勋退出令未来交易存疑",
+        "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+        "summary": "英伟达私募投资价值九个月内近三倍增至650亿美元，得益于黄仁勋积极交易及投资组合估值上涨，但其退出使后续交易前景不明。",
+        "comment": "投资版图膨胀快，关键人物退出添变数。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "费加罗报业集团与OpenAI合作，将新闻引入ChatGPT",
+        "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "summary": "费加罗报业集团与OpenAI达成合作，将通过摘要和节选形式把《费加罗报》的新闻内容引入ChatGPT，并附原文链接。",
+        "comment": "传统媒体借AI平台分发内容，版权合作模式再进一步。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "英伟达",
+        "title": "英伟达明确新云融资支持条件",
+        "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+        "summary": "英伟达澄清为新云数据中心贷款提供支持的前提：新云须有独立融资、完成建设并安装英伟达设备，否则英伟达不承担相关责任。",
+        "comment": "融资背书设门槛，风险边界更清晰。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "机器人数据",
+        "title": "印度Humyn Labs融资4700万美元，为美国机器人公司提供训练数据",
+        "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+        "summary": "成立于今年2月的Humyn Labs完成4700万美元融资，约90%收入来自美国，与Mecka AI、XDOF等竞争机器人训练数据市场。",
+        "comment": "机器人数据供应链正成为新赛道，印度团队切入美国市场值得关注。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
         "tag": "英伟达",
         "title": "英伟达承诺营收将继续飙升",
         "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-        "summary": "英伟达在创始人兼CEO黄仁勋离职后的动荡中，仍预计创纪录的营收增长势头不会停止。",
-        "comment": "管理层变动未改短期预期，但长期执行力待观察。",
+        "summary": "英伟达创始人兼CEO黄仁勋离职引发动荡，但公司预计创纪录营收势头短期内不会中断。",
+        "comment": "高管动荡下仍敢承诺增长，考验执行力。",
         "image": "",
         "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI文档处理",
+        "title": "Felicis领投Unsiloed AI 750万美元融资",
+        "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+        "summary": "Unsiloed AI获Felicis领投750万美元，团队仅7人，目标是把企业文档转化为AI代理可用的数据，切入拥挤的文档处理市场。",
+        "comment": "小团队挑战巨头，关键看文档解析精度与落地速度。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "《GTA 6》首个任务15分钟实机演示公开",
+        "link": "https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay",
+        "summary": "IGN发布《GTA 6》首个任务15分钟实机演示，画面在PS5 Pro上录制，展示实际游玩内容。",
+        "comment": "实机演示终于落地，玩家期待值再被拉高。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/18/first-mission-blog-1794991763105.jpg",
+        "score": 97
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6成为史上评分最高游戏之一",
+        "link": "https://www.ign.com/articles/gta-6-is-now-the-joint-highest-rated-game-of-all-time",
+        "summary": "随着多家媒体评测解禁，GTA 6成为史上并列评分最高的游戏，与最高分作品持平。",
+        "comment": "评分神话再添一员，但玩家体验才是最终裁判。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-37-1795002431431.jpg",
+        "score": 96
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6正式发售，媒体评价称超越Rockstar承诺",
+        "link": "https://www.gamespot.com/articles/gta-6-is-apparently-everything-rockstar-promised-and-then-some/",
+        "summary": "GTA 6全球解锁，首批媒体评测同步解禁。GameSpot称其不仅兑现Rockstar全部承诺，甚至超出预期，被视为年度最重要游戏发布。",
+        "comment": "发售即封神，但玩家实测才是最终裁判。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-13.jpg?w=300",
+        "score": 95
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "IGN：PS5 Pro性能不足，GTA 6无法实现60帧",
+        "link": "https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
+        "summary": "IGN报道称，GTA 6在PlayStation 5 Pro上永远不会有60fps更新，原因是该主机性能不够强大，令期待高帧率的玩家失望。",
+        "comment": "性能瓶颈直接封死高帧可能，玩家期待需降温。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-18-1795006209352.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6在Xbox Series S上用FSR 4.1将720p升至1080p",
+        "link": "https://www.ign.com/articles/gta-6-uses-fsr-41-on-xbox-series-s-to-upscale-from-720p-to-1080p",
+        "summary": "IGN报道，GTA 6在Xbox Series S上通过FSR 4.1将720p画面超分至1080p，游戏在各主机上均展现出技术水准，Series S能运行本作尤为难得。",
+        "comment": "低配主机靠超分撑起大作，优化功力值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-41-1795004610502.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6在Xbox Series S上的性能表现",
+        "link": "https://www.ign.com/articles/gta-6-xbox-series-s-performance",
+        "summary": "IGN实测GTA 6在性能最弱的Xbox Series S上的运行表现，回应玩家对这款大作能否在该主机上流畅运行的疑问。",
+        "comment": "最弱主机跑最强游戏，实测结果值得关注。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-missions-1794996224895.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6发售引发\"GTA流感\"，员工请病假玩游戏",
+        "link": "https://www.ign.com/articles/gta-flu-trends-online-as-reports-suggest-thousands-will-skip-school-and-call-in-sick-at-work-with-a-measurable-hit-to-countrys-economies",
+        "summary": "GTA 6全球发售，大量员工请病假、学生逃课玩游戏，形成\"GTA流感\"现象，对多国经济造成可测量的冲击。",
+        "comment": "游戏热度转化为经济影响，娱乐与现实的边界愈发模糊。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-18-1794995659098.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA6",
+        "title": "GTA 6评分创历史第二高",
+        "link": "https://www.gamespot.com/articles/gta-6-has-a-metacritic-score-so-high-its-only-happened-once-before/",
+        "summary": "《GTA 6》正式发售并获媒体一致好评，Metacritic评分极高，历史上仅出现过一次同等水平。",
+        "comment": "评分神话能否兑现玩家体验，仍需观察。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-9.jpg?w=300",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA6",
+        "title": "《GTA6》媒体均分99分",
+        "link": "https://www.gcores.com/articles/222493",
+        "summary": "《GTA6》媒体评分汇总出炉，均分99。游戏由Rockstar开发，背景设在罪恶城，围绕杰森与露西娅展开犯罪故事，将于11月19日发售。",
+        "comment": "均分99若属实，将刷新开放世界游戏评分天花板。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA6",
+        "title": "机核通关《GTA6》：游戏工业顶点名不虚传",
+        "link": "https://www.gcores.com/radios/222501",
+        "summary": "机核称已获Rockstar Games邀请体验并通关《GTA6》，在电台节目中分享无剧透通关感受，并同步发布视频播客版评价。",
+        "comment": "通关体验抢先释出，但无剧透难判实际品质。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA6",
+        "title": "机核提前体验《GTA6》：称其为游戏史新里程碑",
+        "link": "https://www.gcores.com/articles/222499",
+        "summary": "机核受邀提前体验《GTA6》完整内容，全文约14500字无剧透。文章认为在前作发售十余年后，该作有望成为电子游戏史上的又一座里程碑。",
+        "comment": "提前体验背书分量足，但里程碑之说仍需玩家检验。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA6",
+        "title": "肯德基澳洲为GTA6办假葬礼请假活动",
+        "link": "https://www.ign.com/articles/kfc-australia-fake-funeral-gta-6",
+        "summary": "肯德基澳大利亚为《GTA6》发售策划假葬礼活动，虚构人物Ann Alibi，让玩家借此请假一天。",
+        "comment": "营销脑洞贴合玩家请假刚需，传播力强。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/18/kfc-1795001065563.jpg",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "《GTA 6》地图规模惊人庞大",
+        "link": "https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/",
+        "summary": "《GTA 6》已在新西兰和澳大利亚上线，玩家抢先体验后发现游戏地图规模极其庞大，引发广泛讨论。",
+        "comment": "地图规模成卖点，但内容密度才是关键。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6Map.jpg?w=300",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6高分评价推动Take-Two股价大涨，但年内仍大幅下跌",
+        "link": "https://www.gamespot.com/articles/gta-6-owner-take-twos-stock-explodes-after-high-review-scores-but-its-still-down-massively-this-year/",
+        "summary": "苦等十余年后，GTA 6终于在新西兰和澳大利亚上线。高评分带动母公司Take-Two股价飙升，但该股今年累计跌幅依然巨大。",
+        "comment": "评分利好难掩年内颓势，市场仍在观望销量。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_19.jpg?w=300",
+        "score": 93
+      },
+      {
+        "category": "数码科技",
+        "tag": "AI视频",
+        "title": "即梦 Seedance 2.5 升级，AI 视频生成进入 4K 生产线",
+        "link": "https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "即梦 Seedance 2.5 大版本升级，主打 4K 视频生成能力，从单条 AI 出片转向可交付的 AI 交片流程，提升成片可用性。",
+        "comment": "AI 视频竞争从效果转向交付效率，4K 是实用化关键一步。",
+        "image": "",
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "英伟达",
         "title": "黄仁勋称愿重返英伟达，李飞飞加入AMD",
         "link": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "英伟达季度营收首破千亿美元，数据中心收入增110%；李飞飞加入AMD向苏姿丰汇报；TGA 2026提名公布，《GTA 6》领跑。",
-        "comment": "AI芯片竞争加剧，人才与算力双线角力。",
+        "summary": "英伟达季度营收首破千亿美元，数据中心收入增长110%；李飞飞加入AMD向苏姿丰汇报；TGA 2026提名公布，《GTA 6》领跑。",
+        "comment": "AI芯片竞争升温，人才与算力同步争夺。",
         "image": "",
         "score": 92
       },
       {
-        "category": "时事热点",
+        "category": "游戏影视",
+        "tag": "游戏",
+        "title": "MindsEye开发商起诉第三方以偿还巨额债务",
+        "link": "https://www.ign.com/articles/build-a-rocket-boy-legal-action-against-mindseye-saboteurs-debts",
+        "summary": "MindsEye发行惨败后，开发商Build a Rocket Boy试图通过对所谓“破坏者”提起法律诉讼来偿还巨额债务。",
+        "comment": "甩锅诉讼难解产品失败的根本问题。",
+        "image": "https://assets-prd.ignimgs.com/2025/06/07/mindseye10minutesofgameplay-1749327075674.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6 终于更改 Rockstar 游戏默认操控方式",
+        "link": "https://www.gamespot.com/articles/gta-6-finally-changed-the-default-rockstar-game-controls/",
+        "summary": "GameSpot 报道，GTA 6 调整了 Rockstar 沿用数十年的默认操控方案，长期习惯 GTA 与荒野大镖客系列的玩家将面对按键布局变化。",
+        "comment": "操控革新虽小，却可能重塑系列手感。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-28.jpg?w=300",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6订阅GTA+送免费超跑与折扣",
+        "link": "https://www.gamespot.com/articles/gta-6-gta-subscription-includes-a-free-supercar-discounts-and-more/",
+        "summary": "Rockstar公布GTA 6的GTA+订阅权益，包括免费超级跑车、游戏内折扣等额外奖励，订阅玩家可在罪恶都市获得更多内容。",
+        "comment": "订阅制绑定大作福利，是Rockstar提高用户黏性的常规打法。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-23.jpg?w=300",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "GPT-6.2",
+        "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+        "link": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿深度实测 GPT-6.2，认为其能力确实强劲，但实际使用体验不佳，并期待国产模型尽快跟进。",
+        "comment": "能力与易用性脱节，是当前大模型落地的典型痛点。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "Rimac",
+        "title": "Rimac Nevera 停产，CEO 转向布加迪 16 缸新旗舰",
+        "link": "https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "纯电超跑 Rimac Nevera 宣布停产，CEO 马特·里马克将重心转向布加迪，主导开发 16 缸新旗舰车型，标志其业务战略重大调整。",
+        "comment": "电动超跑先行者转向混动豪车，路线选择耐人寻味。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "GPT-6.2",
+        "title": "GPT-6.2 Astra发布即遭差评，实测体验另有说法",
+        "link": "https://www.ifanr.com/1690103?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "GPT-6.2 Astra发布后差评集中，但实测显示其表现并非评价所述。文章讨论最聪明与最好用模型的错位，认为部分差评有失公允。",
+        "comment": "差评未必客观，模型好用比聪明更重要。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
         "tag": "英伟达",
-        "title": "英伟达称不会让黄仁勋复职，公司业绩强劲",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-        "summary": "英伟达公布强劲季度财报，但明确表示不会让此前戏剧性离职的黄仁勋回归公司。",
-        "comment": "业绩亮眼却拒回旧将，英伟达意在稳定治理预期。",
+        "title": "黄仁勋称愿回归，英伟达董事会明确拒绝",
+        "link": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "黄仁勋公开表示愿意回归，但英伟达董事会回应称不予考虑，双方表态形成直接反差，事件走向仍待观察。",
+        "comment": "创始人意愿与董事会决策正面冲突，回归前景不明。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA6",
+        "title": "《GTA6》发售在即，索尼推送PS5强制固件更新",
+        "link": "https://www.gcores.com/articles/222495",
+        "summary": "为迎接《GTA6》发售，索尼向PS5推送14.23强制固件更新，玩家须升级才能游玩。官方建议11月19日午夜前完成安装，确保解锁后即可畅玩。",
+        "comment": "强制更新既保体验，也防破解，索尼两手抓。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏促销",
+        "title": "亚马逊黑五提前促销：《控制 共振》降至历史最低价",
+        "link": "https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet",
+        "summary": "PS5和Xbox Series X版《控制 共振》在亚马逊黑五提前促销中降至50美元，比原价低10美元，为目前最低价。",
+        "comment": "黑五提前开跑，玩家可趁低价入手。",
+        "image": "https://assets-prd.ignimgs.com/2026/09/18/controlresonant-review-blogroll-1789695360175.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6利用PS5手柄提醒玩家遵守限速",
+        "link": "https://www.gamespot.com/articles/gta-6-has-a-clever-ps5-dualsense-trick-for-keeping-you-under-the-speed-limit/",
+        "summary": "GameSpot报道，GTA 6借助PS5 DualSense手柄的触觉反馈，在玩家超速时给出提示，帮助玩家在任务间隙遵守限速。",
+        "comment": "手柄触觉反馈被用于交通规则提示，细节设计有新意。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-15.jpg?w=300",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "谍战",
+        "title": "上海谍战风云录第九期：信仰无声",
+        "link": "https://www.gcores.com/radios/220613",
+        "summary": "1933年后党中央撤离上海，特务渗透致红队锄奸失手、行动科几近覆没；地下党员隐于民居守护数万份早期档案，断联挨饿亦不撒手。",
+        "comment": "以档案守护切入隐蔽战线，视角独特，细节扎实。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "鸿蒙",
+        "title": "高校学生为何选择用鸿蒙创新？",
+        "link": "https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿关注高校学生选择鸿蒙进行创新的现象，探讨其背后的原因与吸引力。",
+        "comment": "鸿蒙正从课堂走进学生项目，生态培养初见成效。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6不值得为它购买高端手柄",
+        "link": "https://www.gamespot.com/articles/gta-6-isnt-worth-buying-a-fancy-controller-for/",
+        "summary": "GameSpot指出，尽管GTA 6备受期待，但玩家不必为此升级手柄等外设，普通手柄已足够获得良好体验。",
+        "comment": "外设升级应看实际需求，别被大作热度带节奏。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/gta-cal.jpeg?w=300",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "想获定制版GTA 6 PS5 Pro？先打进NBA",
+        "link": "https://www.gamespot.com/articles/want-a-custom-gta-6-ps5-pro-just-play-in-the-nba/",
+        "summary": "PS5 Pro近期一机难求，但有一条获取途径：具备顶尖篮球水平并加入所在州的NBA球队，即可获得定制版GTA 6主题PS5 Pro。",
+        "comment": "游戏联名硬件借体育明星破圈，营销噱头大于实际。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/NBA-PS5-Pro.jpg?w=300",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "模拟游戏",
+        "title": "《护林员之路：国家公园模拟器》登陆PC与主机",
+        "link": "https://www.gcores.com/articles/222490",
+        "summary": "《护林员之路：国家公园模拟器》现已登陆PC、PS5和Xbox Series X|S，PC抢先体验版同步新增双人合作模式与神秘新任务。",
+        "comment": "模拟题材再添新作，双人合作或成差异化卖点。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏更新",
+        "title": "《黎明行者之血》1.2版更新上线新游戏+模式",
+        "link": "https://www.gcores.com/articles/222489",
+        "summary": "万代南梦宫与Rebel Wolves为《黎明行者之血》推出1.2版本更新，全平台上线新游戏+模式，通关后可解锁，敌人更强、遗物更优。",
+        "comment": "新游戏+补足长线体验，但更新节奏偏慢。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "索尼克赛车",
+        "title": "《索尼克赛车 交叉世界》免费更新迈凯伦联动上线",
+        "link": "https://www.gcores.com/articles/222484",
+        "summary": "世嘉宣布《索尼克赛车 交叉世界》免费更新“索尼克（迈凯伦车队）”于11月18日上线，限时联动活动11月20日起举办，玩家收集活动点数可获限定道具，宣传片已公开。",
+        "comment": "免费联动更新能拉回流，但活动限时考验运营节奏。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "中美俄",
+        "title": "特朗普在中国与普京、习近平握手，历史性会谈前",
+        "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+        "summary": "特朗普、普京与习近平将于周四首次共同会晤，此次峰会备受关注，三人会前已握手。",
+        "comment": "三方同台罕见，象征意义大于实质突破。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "美伊冲突",
+        "title": "科威特称击退两个月来首次伊朗袭击",
+        "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+        "summary": "美国空袭伊朗格什姆岛后，科威特称击退两个月来首次伊朗袭击，巴林也表示遭到伊朗攻击，海湾局势骤然升级。",
+        "comment": "美伊冲突外溢海湾，地区安全风险陡增。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "游戏影视",
+        "tag": "众筹",
+        "title": "「养一只黄油猫」周边众筹感谢名单公布",
+        "link": "https://www.gcores.com/articles/222503",
+        "summary": "「养一只黄油猫」周边众筹感谢视频已制作完成并发布，同时上线其他社媒平台官方账号，官方感谢支持者关注与耐心等待。",
+        "comment": "众筹收尾靠感谢视频维系社群，后续交付才是真考验。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "机核",
+        "title": "机核会员节目录音笔VOL.828上线",
+        "link": "https://www.gcores.com/radios/222491",
+        "summary": "机核GPASS会员专享节目录音笔更新至VOL.828，本期以冬日囤粮为主题，内容为办公室日常碎念与真实对话录音，时长约十几分钟。",
+        "comment": "会员向轻量音频，靠日常趣味维系听众黏性。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "自动驾驶",
+        "title": "Waymo因安全事件暂停全美自动驾驶出租车高速运营",
+        "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+        "summary": "加州因多起交通事件禁止Waymo无人驾驶车辆在州内高速运营，Waymo随后宣布暂停全美所有高速公路的自动驾驶出租车服务。",
+        "comment": "安全事件倒逼监管收紧，自动驾驶商业化再遇挫折。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "美伊关系",
+        "title": "巴基斯坦男子因伊朗支持暗杀特朗普计划获刑27年",
+        "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+        "summary": "巴基斯坦男子阿西夫· merchant因试图雇佣FBI卧底暗杀包括特朗普在内的美国官员，被判27年监禁。",
+        "comment": "伊朗代理人网络渗透美国本土，安全威胁升级。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA6",
+        "title": "GTA 6终极版PS5/Xbox预购优惠即将截止",
+        "link": "https://www.ign.com/articles/last-chance-to-save-10-off-gta-6-ultimate-edition-on-ps5-and-xbox-ahead-of-launch",
+        "summary": "IGN提醒，GTA 6终极版在PS5和Xbox平台预购可省10美元，优惠临近发售即将结束，玩家需抓紧下单。",
+        "comment": "预购折扣是营销手段，玩家按需购买即可。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/18/untitled-design-2-1795010196084.png",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "网络安全",
+        "title": "英国黑客短信诈骗1100万美元在美获刑六年",
+        "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+        "summary": "苏格兰邓迪的泰勒·布坎南是知名黑客组织Scattered Spider成员，少年时期开始黑客行为，因短信诈骗1100万美元在美国被判六年监禁。",
+        "comment": "青少年黑客产业化犯罪，判刑具警示意义。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "板球",
+        "title": "班克罗夫特称全队知情砂纸门 康明斯承压",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+        "summary": "班克罗夫特爆料称2018年砂纸作弊事件全队知情，这一爆炸性言论令现任澳大利亚队长康明斯面临更大压力。",
+        "comment": "旧案重提，澳大利亚板球诚信再受拷问。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "英伟达",
+        "title": "英伟达称不会让黄仁勋回归，季度销售飙升",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "summary": "英伟达在黄仁勋戏剧性离职后公布强劲季度财报，并明确表示不会让黄仁勋回归公司。",
+        "comment": "业绩强劲与人事表态并行，市场更关注治理稳定性。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "加纳",
+        "title": "加纳6000万美元总统专机引发民众不满",
+        "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+        "summary": "加纳政府斥资6000万美元购买新总统专机，引发民众强烈不满。许多人正承受生活成本上涨压力，质疑这笔开支的合理性。",
+        "comment": "民生艰难时买专机，民意反弹在所难免。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "美国中期选举",
+        "title": "民主党赢得阿拉斯加参议院席位",
+        "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+        "summary": "中期选举计票开始两周后，玛丽·佩尔托拉的胜选得到确认，民主党在参议院选举中大胜共和党。",
+        "comment": "计票虽慢，结果仍巩固民主党参议院优势。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "英国王室",
+        "title": "威廉与凯特在新德里会见印度总理莫迪",
+        "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+        "summary": "威廉与凯特在新德里会见印度总理莫迪，此行程为印度之行的临时新增安排，二人此前还出席了年度Earthshot奖活动。",
+        "comment": "王室外交叠加环保议题，象征意义大于实质成果。",
+        "image": "",
+        "score": 83
       }
     ]
   },
@@ -40,10 +590,10 @@
       {
         "category": "人工智能",
         "tag": "视觉推理",
-        "title": "最强GPT-6 Astra仅26.7%，Einsia发布Visual Cipher Bench难住顶级AI",
+        "title": "Einsia AI发布Visual Cipher Bench，最强GPT-6 Astra准确率仅26.7%",
         "link": "https://www.jiqizhixin.com/articles/2026-11-17-12",
-        "summary": "Einsia AI推出视觉密码基准Visual Cipher Bench，最强模型GPT-6 Astra准确率仅26.7%，显示顶级AI在视觉推理任务上仍有明显短板。",
-        "comment": "高分模型集体失手，视觉推理仍是AI硬伤。",
+        "summary": "Einsia AI推出视觉密码基准Visual Cipher Bench，测试显示最强模型GPT-6 Astra准确率仅26.7%，暴露顶级AI在视觉推理上的明显短板。",
+        "comment": "高分模型在视觉密码题上集体失手，说明多模态推理仍有硬伤。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/83db8e8f-6d38-44b6-ab4f-d08fb4a830db/0__66_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
@@ -52,8 +602,8 @@
         "tag": "闲鱼",
         "title": "闲鱼亮相联合国气候变化大会：AI加速闲置流转",
         "link": "https://www.jiqizhixin.com/articles/2026-11-17-10",
-        "summary": "闲鱼在联合国气候变化大会展示AI如何加速闲置物品流转，推动低碳理念融入日常生活，体现二手交易平台的绿色价值。",
-        "comment": "AI赋能二手交易，低碳叙事有了落地场景。",
+        "summary": "闲鱼在联合国气候变化大会上展示AI技术如何加速闲置物品流转，推动低碳理念融入日常生活，体现二手交易平台的环保价值。",
+        "comment": "AI赋能二手交易，让低碳从口号变成日常行动。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/62b1e5fb-e9a0-4425-8879-7af56ddca7e9/6b4e9110-cc84-4669-9005-84f85f4e3d42(2).png?imageView2/1/w/390/h/282",
         "score": 100
       },
@@ -62,8 +612,8 @@
         "tag": "世界模型",
         "title": "全新世界模型Duo v1实现实时交互",
         "link": "https://www.jiqizhixin.com/articles/2026-11-17-9",
-        "summary": "机器之心报道，全新世界模型Duo v1发布，主打实时交互能力，宣称让两个世界彻底连上，具体技术细节与效果尚未在输入中展开。",
-        "comment": "实时交互是世界模型落地关键，需看实测效果。",
+        "summary": "机器之心报道，全新世界模型Duo v1发布，主打实时交互能力，让两个世界实现连接，具体技术细节与效果尚未在摘要中展开。",
+        "comment": "实时交互是世界模型落地的关键一步，值得关注。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/5cb6d610-9d54-4bea-82a9-7843fd65b90c/0__64_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
@@ -72,58 +622,28 @@
         "tag": "OpenAI",
         "title": "OpenAI进入医疗工作流，拓展Healthcare应用边界",
         "link": "https://www.jiqizhixin.com/articles/2026-11-17-7",
-        "summary": "OpenAI将AI能力嵌入医疗工作流，拓展Healthcare应用场景，推动医疗流程智能化与效率提升。",
-        "comment": "医疗AI从工具走向流程嵌入，落地价值更实。",
+        "summary": "OpenAI将AI能力接入医疗工作流，拓展Healthcare应用场景，推动医疗流程智能化与效率提升。",
+        "comment": "AI落地医疗关键在合规与临床验证。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/49bb4b61-742f-4e2d-abe3-c2cebc8d4a55/0__62_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "稀疏注意力",
-        "title": "千万token下，比DeepSeek式稀疏注意力再快22倍",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-17-5",
-        "summary": "机器之心报道，一项新方法在千万token场景下，比DeepSeek式稀疏注意力再快22倍，指向超长上下文推理效率的进一步提升。",
-        "comment": "长上下文竞争从能处理转向更快更省，效率优化正成为关键。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/72c59a97-713d-4eec-b53d-29da7d004928/0__60_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "卫星",
-        "title": "先导极星专访：卫星平权时代，载荷选择像选显卡一样简单",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-17-3",
-        "summary": "先导极星接受专访，介绍卫星平权理念：通过标准化和模块化设计，让卫星载荷选择像选显卡一样简单，降低卫星应用门槛。",
-        "comment": "卫星载荷模块化是降低航天门槛的关键一步，值得关注。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/f21b5574-fab9-497d-bd70-db9f8e55bd53/0__58_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "陈丹琦",
-        "title": "陈丹琦兼职加入Noeri，押注AI自进化",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-17-2",
-        "summary": "陈丹琦官宣兼职加入新公司Noeri，该公司聚焦AI自进化方向，显示顶尖学者对自主进化AI路线的关注与投入。",
-        "comment": "AI自进化成新创业热点，学者兼职模式值得关注。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/9d8a461e-da3d-4032-b7a4-b9729f0967a5/0__57_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "英伟达",
-        "title": "英伟达宣布停止对华售芯，黄仁勋离任后战略转向",
+        "title": "英伟达宣布停止对华销售芯片",
         "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-        "summary": "英伟达临时CEO表示公司将不再向中国销售芯片，此举发生在黄仁勋离任之后，外界关注其财务与市场影响。",
-        "comment": "地缘政治正重塑AI芯片格局，英伟达退出中国代价不小。",
+        "summary": "英伟达临时CEO表示公司将不再向中国销售芯片，此举发生在黄仁勋离任之后，外界关注其财务影响。",
+        "comment": "地缘政治正重塑芯片巨头战略，代价待估。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "英伟达",
-        "title": "英伟达临时CEO重申开源AI战略不变",
+        "title": "英伟达临时CEO重申开源AI战略不变，并计划收购Hugging Face",
         "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-        "summary": "黄仁勋突然离职后，英伟达临时CEO重申开源AI战略不变，并确认计划收购Hugging Face。",
-        "comment": "高层变动不改战略，收购能否落地才是关键。",
+        "summary": "黄仁勋突然离职后，英伟达临时CEO重申开源AI战略不变，并计划收购Hugging Face，以稳定外界预期。",
+        "comment": "高层变动未改路线，收购若成行将重塑开源AI格局。",
         "image": "",
         "score": 100
       },
@@ -133,17 +653,17 @@
         "title": "英伟达称不计划重新任命黄仁勋为CEO",
         "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
         "summary": "英伟达表示不打算重新任命黄仁勋为CEO。此前黄仁勋辞去该职位，并提出愿意回归。",
-        "comment": "人事变动信号敏感，需关注治理与战略连续性。",
+        "comment": "人事变动信号敏感，需关注后续治理与战略影响。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "Anthropic",
-        "title": "Anthropic上市后亚马逊谷歌合计持股近30%",
+        "title": "Anthropic IPO后亚马逊谷歌合计持股近30%",
         "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-        "summary": "Anthropic IPO后，亚马逊将持股略低于15%并可选增持，谷歌以近14%紧随其后，两家合计近30%。",
-        "comment": "巨头深度绑定，AI竞争格局更集中。",
+        "summary": "Anthropic上市后，亚马逊将持股略低于15%并有权大幅增持，谷歌以近14%紧随其后，两家合计接近30%。",
+        "comment": "两大云巨头深度绑定，Anthropic独立性存疑。",
         "image": "",
         "score": 100
       },
@@ -152,18 +672,8 @@
         "tag": "英伟达",
         "title": "SEC据报调查英伟达，黄仁勋离职",
         "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-        "summary": "据《华尔街日报》报道，英伟达CEO黄仁勋承认与一名疑似中国间谍有婚外情后离职，SEC正对英伟达展开调查。",
-        "comment": "高管丑闻叠加监管调查，英伟达面临治理与信任双重考验。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Gemini",
-        "title": "谷歌扩大Gemini Tasks访问权限，可代打电话和购物",
-        "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-        "summary": "谷歌扩大Gemini Tasks功能开放范围，该模式可帮用户协调通话、登录网站，甚至代为完成购买。",
-        "comment": "AI代理从助手走向代办，权限与安全边界待明确。",
+        "summary": "据《华尔街日报》报道，英伟达CEO黄仁勋离职后，SEC对其展开调查。黄仁勋承认与一名疑似中国间谍有婚外情。",
+        "comment": "高管丑闻叠加监管调查，英伟达治理风险陡增。",
         "image": "",
         "score": 100
       },
@@ -172,18 +682,18 @@
         "tag": "OpenAI",
         "title": "OpenAI发布GPT-6.2 Astra与Sol",
         "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-        "summary": "OpenAI推出GPT-6.2 Astra和Sol，在专业输出、编程、电脑操作和效率上提升，并降低ChatGPT Work、Codex及API的成本。",
-        "comment": "模型迭代聚焦专业场景与降本，竞争重心转向落地效率。",
+        "summary": "OpenAI推出GPT-6.2 Astra和Sol，在专业输出、编程、电脑操作与效率上提升，并以更低成本覆盖ChatGPT Work、Codex和API。",
+        "comment": "模型迭代转向降本增效，企业级落地意图明显。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI与北约合作，用AI强化网络防御",
+        "title": "OpenAI与北约合作强化网络防御",
         "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-        "summary": "OpenAI宣布与北约及盟国网络机构合作，帮助可信防御方发现漏洞、测试修复方案并保护关键系统。",
-        "comment": "AI攻防能力外溢，安全合作正成为大模型竞争新战线。",
+        "summary": "OpenAI与北约及盟国网络机构合作，利用AI帮助可信防御者发现漏洞、测试修复方案并保护关键系统。",
+        "comment": "AI攻防能力外溢，联盟协作是必要一步。",
         "image": "",
         "score": 100
       },
@@ -193,7 +703,7 @@
         "title": "OpenAI推出ChatGPT销售插件",
         "link": "https://openai.com/index/introducing-chatgpt-for-sales",
         "summary": "OpenAI发布ChatGPT销售插件及30余款合作插件，支持调研潜在客户、准备推介、更新CRM并推进交易。",
-        "comment": "AI深入销售流程，CRM生态竞争加剧。",
+        "comment": "AI正从对话工具切入企业销售核心流程。",
         "image": "",
         "score": 100
       },
@@ -202,8 +712,8 @@
         "tag": "OpenAI",
         "title": "OpenAI推出Astra for Law法律智能工具",
         "link": "https://openai.com/index/astra-law-6-2",
-        "summary": "Astra for Law在覆盖24个法律领域的发布评估中排名第一，所有ChatGPT Enterprise客户现可申请使用。",
-        "comment": "法律AI竞争加剧，OpenAI借企业渠道加速落地。",
+        "summary": "Astra for Law在覆盖24个法律领域的发布评估中排名第一，ChatGPT Enterprise客户现可申请使用。",
+        "comment": "法律AI竞争加剧，OpenAI以评测第一切入企业市场。",
         "image": "",
         "score": 100
       },
@@ -212,259 +722,19 @@
         "tag": "OpenAI",
         "title": "OpenAI与智利政府合作推动负责任AI应用",
         "link": "https://openai.com/index/introducing-openai-for-chile",
-        "summary": "OpenAI与智利政府达成合作，推动负责任AI应用，培养公共部门技能，并帮助本地初创企业开发AI应用。",
-        "comment": "AI企业正以政府合作方式加速公共部门落地。",
+        "summary": "OpenAI与智利政府达成合作，支持负责任的人工智能应用，培养公共部门技能，并帮助本地初创企业开发AI应用。",
+        "comment": "政府级AI合作落地拉美，示范效应值得关注。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "Model ML融资2.5亿美元，用AI代理自动化投行基础工作",
-        "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-        "summary": "Model ML称其AI代理能理解投行与咨询项目的完整交易背景，在数据变动时自动更新财务模型和演示文稿，本轮融资2.5亿美元。",
-        "comment": "AI切入投行高价值流程，关键在准确性与合规。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌Gemini聊天记录保留期延长至两个月",
-        "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-        "summary": "谷歌将Gemini聊天记录保留期从72小时延长至两个月，即使关闭历史记录也适用，未来几周全球上线。",
-        "comment": "隐私默认值再收紧，用户需留意数据留存变化。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "英伟达",
-        "title": "英伟达董事会被曝尚未考虑黄仁勋回归",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-17",
-        "summary": "据机器之心报道，英伟达董事会目前尚未讨论黄仁勋回归相关事宜，消息未披露更多细节与背景。",
-        "comment": "传闻先行、董事会未动，信息价值有限，需等官方回应。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/c93b7a14-95b6-4018-8f80-79dc1fae6bee/0__56_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌反向操作：宣布Gmail未发生故障",
-        "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-        "summary": "在科技平台故障频发之际，谷歌罕见发声，称Gmail运行正常，以幽默方式回应行业宕机潮。",
-        "comment": "反向公关，凸显行业故障焦虑。",
-        "image": "",
-        "score": 96
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "近半IGN读者为玩GTA 6请假",
-        "link": "https://www.ign.com/articles/nearly-half-of-polled-ign-readers-are-taking-time-off-to-play-gta-6",
-        "summary": "IGN民调显示，近半数受访读者表示为玩《GTA 6》会请假。该结果反映玩家对这款游戏期待极高。",
-        "comment": "玩家热情惊人，GTA 6或再创发售盛况。",
-        "image": "https://assets-prd.ignimgs.com/2026/09/29/9245b6dd45a143b26a7877ec5a29bb5c3fc00eda-1790721291674.webp",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "影之刃零",
-        "title": "《影之刃零》获TGA五项提名创国产游戏纪录",
-        "link": "https://www.gcores.com/articles/222465",
-        "summary": "TGA 2026提名公布，灵游坊国产3A武侠动作游戏《影之刃零》获年度最佳游戏、最佳游戏导演等五项提名，成为TGA史上提名最多的国产单机游戏。",
-        "comment": "五项提名是国产单机国际认可度的实质突破。",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "007",
-        "title": "弗洛伦丝·皮尤想在新007电影中演反派",
-        "link": "https://www.ign.com/articles/florence-pugh-wants-to-be-a-bond-villain-in-denis-villeneuves-007-movie-with-robert-pattinson",
-        "summary": "弗洛伦丝·皮尤表示希望在丹尼斯·维伦纽瓦执导、罗伯特·帕丁森主演的新007电影中出演反派，此前帕丁森选角消息在社交媒体引发热议。",
-        "comment": "演员主动喊话，选角悬念提前升温。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/17/florence-pugh-wants-to-be-a-bond-villain-1794945264230.jpg",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "亚马逊",
-        "title": "亚马逊黑五Audible优惠上线：每月0.99美元另赠20美元",
-        "link": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
-        "summary": "亚马逊黑五Audible促销上线，Prime与非Prime会员、新老订阅用户均可参与，每月0.99美元并获20美元抵扣。",
-        "comment": "低价拉新，老用户也能薅，音频订阅战升温。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/03/amazonaudible-1793740919087.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏耳机",
-        "title": "PlayStation Pulse Explore耳机黑五降价40%",
-        "link": "https://www.ign.com/articles/sony-pulse-playstation-gaming-earbuds-deal-november-2026",
-        "summary": "IGN报道，索尼PlayStation Pulse Explore平面磁驱动游戏耳机黑五期间降价40%，适合深夜玩游戏不打扰他人。",
-        "comment": "平面磁单元加折扣，PS玩家值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/17/pspulseexploreblack-1794947790301.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "Alienware Aurora RTX 5080游戏PC黑五降至2800美元",
-        "link": "https://www.ign.com/articles/the-alienware-aurora-rtx-5080-gaming-pc-drops-to-2800-at-amazon-for-black-friday",
-        "summary": "亚马逊黑五期间，Alienware Aurora RTX 5080游戏PC降至2800美元，IGN称这是数月来最优惠的Alienware电脑交易。",
-        "comment": "高端显卡整机降价，黑五促销力度值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/17/alienwareaurorar162-1794948510149.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "饥饿游戏",
-        "title": "《饥饿游戏》新作《收割日出》观影前必读指南",
-        "link": "https://www.ign.com/articles/the-hunger-games-what-you-need-to-know-before-sunrise-on-the-reaping",
-        "summary": "IGN梳理《饥饿游戏》新作《收割日出》前需了解的角色、剧情连贯性与国会区设定，帮助观众快速回顾系列背景。",
-        "comment": "系列前传再启，补课指南比预告更实用。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/14/solstice-final-trailer-grab-00004rc-1794681765912.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏主机",
-        "title": "CyberPowerPC RTX 5070游戏主机黑五降至2000美元以下",
-        "link": "https://www.ign.com/articles/cyberpowerpc-rtx-5070-gaming-pc-deal-november-2026",
-        "summary": "该预装机配备32GB内存和2TB SSD，适合1080p与1440p游戏，也能胜任4K运行，黑五价格跌破2000美元。",
-        "comment": "配置均衡，黑五价对中高端预装机有吸引力。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/17/cyberpowerpc6-1794944403445.jpg",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏行业",
-        "title": "《文明》开发商裁员三分之一，新《XCOM》开发遇困",
-        "link": "https://www.gamespot.com/articles/civilization-dev-lays-off-1-3-of-staff-new-xcom-game-facing-development-struggles-report/",
-        "summary": "Take-Two旗下2K证实，《文明》与《XCOM》开发商Firaxis Games裁员约三分之一，同时新《XCOM》项目被曝开发受阻，行业困境持续。",
-        "comment": "老牌策略工作室遭重创，新作前景堪忧。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/civ7.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6未发售即领跑TGA提名",
-        "link": "https://www.gamespot.com/articles/gta-6-leads-tga-nominations-and-reviews-arent-even-live-yet/",
-        "summary": "TGA主持人Geoff Keighley公布各奖项提名，《GTA 6》在游戏尚未发售、媒体评测未解禁的情况下成为提名领跑者，颁奖礼将于12月10日举行。",
-        "comment": "未发售先提名，TGA更像话题营销而非评奖。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/gta6-image.jpg?w=300",
-        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "苹果",
         "title": "Mac收紧权限，苹果开始防着AI了",
         "link": "https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道称，Mac系统正收紧权限，苹果开始对AI能力加以限制，反映出AI越自由、人越麻烦的治理思路。",
-        "comment": "苹果在AI权限上先行设限，安全与开放需再平衡。",
+        "summary": "苹果在Mac上收紧系统权限，限制AI工具对系统资源的访问，反映其在AI能力扩张与用户安全之间加强管控。",
+        "comment": "AI越自由，系统越需设边界。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "汽车出海",
-        "title": "12.69万「穷人版卫士」成中国汽车出海隐忧",
-        "link": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿分析一款售价12.69万元的国产车型，因个别问题被指拖累中国汽车整体出海口碑，引发对低价出海策略的反思。",
-        "comment": "低价出海若失控，个别产品会反噬整体品牌。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "微软宕机",
-        "title": "微软全球大宕机，AI 再成背锅侠",
-        "link": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "微软发生全球宕机并关联美国航班停飞，文章追问事故是否真由 AI 失控导致，并分析 AI 被当作替罪羊的现象。",
-        "comment": "事故归因需证据，别让 AI 成万能背锅侠。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "大模型",
-        "title": "爱范儿早报：iPhone Duo外屏人脸解锁、英伟达与华为新动态",
-        "link": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "阿里发布Qwen4-Max，缓存命中价格低至每百万Token 0.5元；腾讯混元推出Hy4 flash并限时免费开放WorkBuddy；腾讯要求核心业务团队面向AI再创业。",
-        "comment": "大模型价格战与AI再创业并行，行业竞争进入深水区。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "TGA",
-        "title": "2026年TGA提名公布，《GTA6》获八项提名",
-        "link": "https://www.gcores.com/articles/222464",
-        "summary": "2026年TGA大奖提名名单公布，《GTA6》获包括年度最佳游戏在内共八项提名，成为最大黑马；任天堂是提名最多的游戏厂商。",
-        "comment": "《GTA6》八项提名领跑，但任天堂厂商数量占优，竞争仍有悬念。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏联动",
-        "title": "《NBA 2K27》×《GTA 6》联动宣传视频公开",
-        "link": "https://www.gcores.com/articles/222447",
-        "summary": "《NBA 2K27》与《GTA 6》官宣联动，第3季起为期七周，罪恶城元素将融入篮球之城与梦幻球队，带来主题奖励与福利。",
-        "comment": "跨IP联动噱头足，实际内容深度待观察。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Gabe Newell",
-        "title": "Gabe Newell因善待5亿美元游艇船员获粉丝称赞",
-        "link": "https://www.ign.com/articles/gabe-newell-praised-by-fans-for-special-way-he-treats-the-crew-on-his-500-million-superyacht",
-        "summary": "Valve联合创始人兼CEO Gabe Newell因游艇专家参观其5亿美元超级游艇后称赞他对待船员的特殊方式，获得粉丝好评。",
-        "comment": "富豪善待员工成新闻，侧面反映行业常态堪忧。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/17/gabe-newell-superyacht-reactions-1794950231881.jpg",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "BioWare已死？《质量效应》精神续作《Exodus》曝光浪漫剧情",
-        "link": "https://www.gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance/",
-        "summary": "《Exodus》在2023年TGA公布后首次展示女性主角形象，这款科幻RPG被视为《质量效应》精神续作，此次还透露了浪漫关系内容。",
-        "comment": "借BioWare衰落之势，《Exodus》能否真正接棒仍待验证。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Exodus-romance.png?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "TGA",
-        "title": "格斗游戏开发停摆仍获TGA提名",
-        "link": "https://www.gamespot.com/articles/this-fighting-game-is-nominated-for-a-tga-despite-development-shutting-down/",
-        "summary": "Geoff Keighley公布2026年TGA提名名单，一款已停止开发的格斗游戏仍获提名，与《GTA》等热门作品同列，引发关注。",
-        "comment": "停摆项目仍入围，TGA提名标准值得追问。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/2xko.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "007",
-        "title": "007新作或终结邦德经典腕表传统",
-        "link": "https://www.gamespot.com/articles/007-first-light-might-be-the-end-of-the-line-for-james-bonds-favorite-watch/",
-        "summary": "随着罗伯特·帕丁森被选为下一任詹姆斯·邦德，外界关注其知名度是否过高，同时007新作可能让邦德标志性腕表传统走向终结。",
-        "comment": "选角与腕表传统同时生变，邦德IP进入重塑期。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/omega-seamaster-diver-300m-chronograph-007-first-light-lead.webp?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏大奖",
-        "title": "2026年TGA提名公布，多款大作意外落选",
-        "link": "https://www.gamespot.com/articles/these-are-some-of-the-biggest-snubs-at-the-game-awards-2026/",
-        "summary": "2026年游戏大奖提名名单已公布，GTA 6等未发售游戏入围，但多款热门作品意外落选，引发玩家讨论。",
-        "comment": "提名争议年年有，今年落选名单格外扎眼。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/tbod-image.jpg?w=300",
         "score": 91
       },
       {
@@ -472,220 +742,20 @@
         "tag": "DeepSeek",
         "title": "DeepSeek 不限额用法指南",
         "link": "https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿介绍 DeepSeek 不限额使用的具体方法，包括付费接入 API、导入历史记录等操作，并附上使用指南。",
+        "summary": "爱范儿介绍 DeepSeek 不限额的使用方法，包括付费接入 API 和导入历史记录等操作，并附上使用指南。",
         "comment": "实用教程，但需留意 API 成本与数据隐私。",
         "image": "",
         "score": 90
       },
       {
-        "category": "游戏影视",
-        "tag": "WePlay",
-        "title": "Serenity Forge确认参展WePlay 2026，《心跳文学部！》首度来华",
-        "link": "https://www.gcores.com/articles/222446",
-        "summary": "Serenity Forge官宣参展WePlay 2026，这是其首次亮相中国展会，《心跳文学部！》也首次在中国出展。展会于2026年11月21日至22日在上海国家会展中心举办，展位C31。",
-        "comment": "小众神作首次来华，对国内玩家是难得的线下机会。",
+        "category": "数码科技",
+        "tag": "iPhone",
+        "title": "iPhone Duo 2 升级盘点：人脸解锁之外还有哪些变化",
+        "link": "https://www.ifanr.com/1690009?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿梳理 iPhone Duo 2 除人脸解锁外的多项升级，并提及实体 SIM 卡缺失引发用户关注。",
+        "comment": "升级点不少，但实体 SIM 卡取舍仍是争议焦点。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界为何无缘TGA提名？",
-        "link": "https://www.gamespot.com/articles/what-does-it-take-for-world-of-warcraft-to-be-nominated-at-the-game-awards/",
-        "summary": "2026年TGA提名公布，最佳持续运营游戏类别再次缺少《魔兽世界》，GameSpot分析其多年未获提名原因。",
-        "comment": "长青网游与评奖机制之间存在结构性错位。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Game-Awards-Snub.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6露西亚配音演员确认，正是玩家长期猜测之人",
-        "link": "https://www.gamespot.com/articles/gta-6s-lucia-actor-revealed-and-its-the-person-everyone-already-guessed/",
-        "summary": "《GTA 6》中露西亚的演员确认为Manni L. Perez，与玩家长期猜测一致。粉丝此前已通过线索发现这一人选。",
-        "comment": "玩家猜测成真，但选角本身缺乏惊喜。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/lucianew.png?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Roguelike",
-        "title": "谁能告诉我，Roguelike到底是什么：详解柏林诠释",
-        "link": "https://www.gcores.com/radios/222327",
-        "summary": "机核节目探讨Roguelike定义，追溯现代化浪潮开端，介绍爱好者提出的“柏林诠释”及其对理解肉鸽概念的意义。",
-        "comment": "定义虽过时，却是理解肉鸽演化的关键坐标。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "自走棋",
-        "title": "《王国棋境》新PV公开 Demo 11月17日登Steam",
-        "link": "https://www.gcores.com/articles/222457",
-        "summary": "卡牌建造加空间管理的异步自走棋《王国棋境》公布新PV，Demo将于11月17日至23日登陆Steam自走棋游戏节，并参展11月21日上海Weplay B65展位。",
-        "comment": "玩法融合有想法，Demo节点踩准自走棋热度。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏发售",
-        "title": "Spry Fox新作《灵渡之境》发售，支持中文",
-        "link": "https://www.gcores.com/articles/222444",
-        "summary": "曾开发《Cozy Grove》的Spry Fox推出奇幻治愈系MMO《灵渡之境》，已登陆Switch、Switch 2及PC平台，售价68元，支持中文。",
-        "comment": "治愈系MMO赛道小众，工作室口碑是主要卖点。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "猫娘乐园",
-        "title": "《猫娘乐园 SEKAI CONNECT》Steam版11月18日上线",
-        "link": "https://www.gcores.com/articles/222442",
-        "summary": "GOOD SMILE COMPANY宣布，《猫娘乐园》系列新作《猫娘乐园 SEKAI CONNECT》Steam版将于2026年11月18日上线，支持简体中文，采用基本免费加内购模式。",
-        "comment": "系列IP延续，免费加内购模式能否留住玩家待观察。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "疯狂出租车",
-        "title": "《疯狂出租车：极速环游》公布印度地图",
-        "link": "https://www.gcores.com/articles/222441",
-        "summary": "世嘉公布《疯狂出租车：极速环游》第五张地图“印度”，宣传片以旅行指南风格展示其魅力，玩家可在剧情等多种模式体验。本作预计2027年登陆Xbox Series X|S、PC、PS5及Switch 2。",
-        "comment": "新地图节奏稳健，但2027年发售仍显遥远。",
-        "image": "",
-        "score": 89
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6主题键帽套装亮相，PC版等待期添趣味",
-        "link": "https://www.gamespot.com/articles/this-gta-6-inspired-keycap-set-will-make-the-wait-for-a-pc-version-slightly-easier/",
-        "summary": "GameSpot报道一款受GTA 6启发的键帽套装，面向等待PC版的玩家。主机版即将上线，PC版仍无期，这款周边为玩家提供趣味替代。",
-        "comment": "周边先行，PC玩家只能靠键帽解馋。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/W1AT_CloseUp_NeonVice-withoutNovelties_Edited_81fbc700-72cd-4e5f-99e7-3106364ba0fe.jpg?w=300",
-        "score": 89
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "克里米亚大桥部分坍塌，泽连斯基称乌袭击前所未有",
-        "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰称对俄控克里米亚战略大桥的导弹与无人机袭击筹划数周，泽连斯基称此次行动前所未有。",
-        "comment": "大桥再遭重创，冲突升级风险上升。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "克里米亚大桥",
-        "title": "克里米亚大桥遭袭事件全过程解析",
-        "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-        "summary": "乌克兰对克里米亚大桥发动七阶段袭击，这座俄罗斯占领乌克兰的关键象征严重受损。",
-        "comment": "大桥再遭重创，俄方后勤与象征意义双双受挫。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "游戏影视",
-        "tag": "乐高",
-        "title": "亚马逊乐高黑五促销正式开启",
-        "link": "https://www.ign.com/articles/best-lego-early-black-friday-deals-2026",
-        "summary": "亚马逊正式启动乐高黑五促销，多款套装降价，涵盖热门IP与经典系列，适合提前入手节日礼物。",
-        "comment": "黑五提前开跑，乐高玩家可关注折扣窗口。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/17/lego-black-friday-1794944270642.jpg",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Xbox",
-        "title": "Xbox公布黑色星期五数字游戏与配件促销，不含主机",
-        "link": "https://www.ign.com/articles/xbox-announces-black-friday-sale-for-2026",
-        "summary": "Xbox宣布2026年黑色星期五促销，覆盖数字游戏与配件，但官方明确不包含主机，玩家需另寻渠道购买硬件。",
-        "comment": "促销不含主机，硬件缺位削弱吸引力。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/17/xboxblackfridaysale-1794946009012.jpg",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "约旦河西岸",
-        "title": "巴勒斯坦72岁妇女在约旦河西岸遭以色列定居者枪杀",
-        "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-        "summary": "巴方称以色列定居者在约旦河西岸袭击并枪杀一名72岁巴勒斯坦妇女，以军则称定居者是在遭袭后开枪，双方说法不一。",
-        "comment": "定居者暴力再酿命案，双方叙事对立，真相待查。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "麻疹",
-        "title": "美国失去麻疹消除状态，病例数创纪录",
-        "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-        "summary": "美国各州报告超5400例麻疹病例和10例相关死亡，为上世纪90年代初以来首次，美国因此失去维持26年的麻疹消除状态。",
-        "comment": "疫苗接种下滑让可防疾病卷土重来，公共卫生警钟。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "间谍案",
-        "title": "涉间谍嫌疑被捕美士兵被美军接管",
-        "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-        "summary": "伦敦警察厅称，一名因涉嫌间谍活动被英国警方逮捕的美国士兵，已交由美国军方羁押，涉及国家安全与间谍指控。",
-        "comment": "盟友间抓人又交人，情报暗战浮出水面。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "播客",
-        "title": "机核录音笔VOL.827：办公室日常碎碎念",
-        "link": "https://www.gcores.com/radios/222448",
-        "summary": "机核会员专享节目《录音笔》第827期，收录办公室生活与工作中的短小记录，内容为碎碎念、突发暴言或偷录的日常对话，时长约十几分钟。",
-        "comment": "会员向闲聊节目，信息价值低，适合粉丝消遣。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "基辅桥梁遭俄军袭击 母亲讲述避难经历",
-        "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-        "summary": "莫斯科 targeting 基辅桥梁，乌克兰则重创连接俄罗斯与克里米亚的关键桥梁，一名母亲描述避难时的恐惧。",
-        "comment": "双方互袭基础设施，冲突烈度未见缓和。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄罗斯",
-        "title": "俄军机坠毁致19人遇难",
-        "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-        "summary": "俄罗斯国防部称，一架军用飞机在克麦罗沃地区坠毁，机上19人全部遇难，初步判断原因为技术故障。",
-        "comment": "军机事故频发，俄军装备维护问题再受关注。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "托马斯·马克尔",
-        "title": "托马斯·马克尔在菲律宾因儿童性虐待材料被起诉",
-        "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-        "summary": "托马斯·马克尔因一项指控在美国被拘留，此前他一直否认所有相关指控。",
-        "comment": "名人亲属涉案，司法程序值得关注。",
-        "image": "",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "英国王室",
-        "title": "威廉与凯特在孟买出席地球奋斗奖颁奖礼",
-        "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-        "summary": "威尔士亲王与王妃在孟买参加年度地球奋斗奖颁奖典礼，体育和演艺明星一同出席，表彰环保创新项目。",
-        "comment": "王室出访叠加环保议题，象征意义大于实质突破。",
-        "image": "",
-        "score": 83
       }
     ]
   },
@@ -694,30 +764,10 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-16-14",
-        "summary": "机器之心报道，书生-S2.1 Flash在机器学习工程基准中登顶，展示AI自主进化并承担科研任务的能力。",
-        "comment": "AI自主科研从概念走向基准验证，值得关注。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/a785ba6d-821f-405e-96e3-3c6734496813/0__55_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "物理AI",
-        "title": "物理AI破解装车自动化盲区，安徽擎天智能完成数千万元Pre-A轮融资",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-16-12",
-        "summary": "安徽擎天智能完成数千万元Pre-A轮融资，其物理AI技术针对装车自动化盲区，提升工业场景自动化水平。",
-        "comment": "物理AI落地工业场景，装车自动化是务实切入点。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/b9e8af11-cda8-4198-9f0e-40bd1457609b/0__53_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI向全球20万科研人员免费开放前沿模型",
         "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-        "summary": "OpenAI扩大ChatGPT学术研究者计划，为全球20万名科研人员免费提供前沿模型访问权限，降低AI科研门槛。",
+        "summary": "OpenAI扩大ChatGPT学术研究者计划，向全球20万名科研人员免费提供前沿模型访问权限，降低AI科研门槛。",
         "comment": "免费开放前沿模型，意在抢占学术生态入口。",
         "image": "",
         "score": 100
@@ -727,95 +777,45 @@
         "tag": "OpenAI",
         "title": "OpenAI推新工具打击网络儿童性虐待",
         "link": "https://openai.com/index/strengthening-online-child-safety",
-        "summary": "OpenAI发布新工具、实用指南与合作计划，帮助预防、检测和应对网络儿童性剥削与虐待内容。",
-        "comment": "平台主动加码儿童安全治理，方向值得肯定。",
+        "summary": "OpenAI发布新工具、实用指南与合作计划，用于预防、检测和应对网络儿童性剥削与虐待内容。",
+        "comment": "技术向善的落地举措，关键看执行与透明度。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "ChatGPT",
-        "title": "OpenAI发布科学家使用ChatGPT研究调查",
+        "title": "OpenAI：超1800名科学家如何用ChatGPT做研究",
         "link": "https://openai.com/index/science-at-the-frontier",
-        "summary": "OpenAI调查超1800名科学家，了解他们在日常科研流程中使用ChatGPT的情况、自报生产力变化及对科学发现的预期。",
-        "comment": "AI进科研已成常态，关键在可复现与责任边界。",
+        "summary": "OpenAI梳理逾1800名科学家的使用情况，涵盖日常工作流、自报生产力提升及对科研发现的预期。",
+        "comment": "AI进实验室已从尝鲜转向日常工具，但需警惕夸大生产力。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "Revolut用OpenAI模型将编码时间缩短30%至60%",
+        "title": "Revolut 用 OpenAI 模型将编码时间缩短30-60%",
         "link": "https://openai.com/business/customer-stories/revolut",
-        "summary": "OpenAI客户案例显示，Revolut借助OpenAI模型与Codex将编码时间缩短30%至60%，并扩展金融犯罪调查能力，同时不牺牲安全。",
-        "comment": "AI提效已进入金融核心业务，安全与效率可兼得。",
+        "summary": "OpenAI 客户案例显示，Revolut 借助 OpenAI 模型与 Codex 将编码时间缩短30-60%，并扩展金融犯罪调查能力，同时不牺牲安全。",
+        "comment": "AI 提效已进入金融核心场景，安全与效率可兼得。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "LVMH媒体部门与OpenAI达成战略合作",
-        "link": "https://openai.com/index/lvmh-media-division-partnership",
-        "summary": "LVMH媒体部门与OpenAI宣布合作，借助AI支持新闻业，并通过ChatGPT提升其出版物的可访问性。",
-        "comment": "奢侈品媒体借AI扩渠道，内容生态竞争加剧。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "苹果眼镜明年见：无屏幕，靠Siri撑场？",
-        "link": "https://www.ifanr.com/1689712?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿称苹果眼镜或于明年推出，产品没有屏幕，主要依赖Siri交互，并质疑这并非苹果真正想给时代的答案。",
-        "comment": "无屏眼镜更像过渡试探，成败系于Siri。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "新能源汽车",
-        "title": "国产新能源营销「6人12箱」被指违法",
-        "link": "https://www.ifanr.com/1689701?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿指出，多家国产新能源车企宣传的「6人12箱」装载能力涉嫌违反法规，营销不应凌驾于安全之上。",
-        "comment": "营销话术踩红线，安全底线不能让位。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "腾讯Hy4",
-        "title": "实测腾讯Hy4 flash：两毛钱让AI从零做3D交互网页",
-        "link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿实测腾讯Hy4 flash，称花两毛钱即可让AI从零生成3D交互网页，性价比高于DeepSeek V4.1 Flash。",
-        "comment": "低价模型正把AI建站从演示推向可用。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "影石",
-        "title": "影石推出魔法相纸，让相册不再吃灰",
-        "link": "https://www.ifanr.com/1689594?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "影石发布魔法相纸产品，将生活闪光时刻以纸面流转形式呈现，试图解决数字相册长期闲置问题。",
-        "comment": "硬件创新切入情感场景，能否真正激活相册待验证。",
-        "image": "",
-        "score": 90
       }
     ]
   },
-  "2026-10-15": {
-    "week": "周四",
+  "2026-11-04": {
+    "week": "周三",
     "articles": [
       {
         "category": "游戏影视",
         "tag": "GTA 6",
-        "title": "GTA 6确认符合今年TGA评选资格",
-        "link": "https://www.gamespot.com/articles/put-down-your-pitchforks-gta-vi-was-always-eligible-for-the-game-awards-this-year/",
-        "summary": "GameSpot报道，2026年TGA提名公布后确认，《GTA 6》符合本届评选资格，此前外界对其参评资格存在疑问。",
-        "comment": "资格争议落定，真正悬念是它能否横扫奖项。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Lucia_Caminos_10_262d89.jpg?w=300",
-        "score": 92
+        "title": "GTA 6发售前销量破1700万份 收入16亿美元",
+        "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+        "summary": "据Sensor Tower更新数据，GTA 6在发售前夕非官方统计销量已超1700万份，收入达16亿美元，PS5平台销量占比领先。",
+        "comment": "发售前即创纪录，GTA 6商业势能罕见。",
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2.jpg?w=300",
+        "score": 94
       }
     ]
   }
