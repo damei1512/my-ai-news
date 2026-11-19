@@ -4,51 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "视觉推理",
-        "title": "Einsia AI发布Visual Cipher Bench，最强GPT-6 Astra仅得26.7%",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-17-12",
-        "summary": "Einsia AI推出视觉密码基准Visual Cipher Bench，用于测试AI视觉推理能力。最强模型GPT-6 Astra准确率仅26.7%，显示顶级AI在该类任务上仍有明显短板。",
-        "comment": "视觉推理仍是顶级模型的明显短板，基准设计值得关注。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/83db8e8f-6d38-44b6-ab4f-d08fb4a830db/0__66_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "闲鱼",
-        "title": "闲鱼亮相联合国气候变化大会：AI加速闲置流转",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-17-10",
-        "summary": "闲鱼在联合国气候变化大会展示用AI提升闲置物品匹配与流转效率，让低碳行为融入日常消费场景。",
-        "comment": "AI落地二手交易，减碳叙事有了具体抓手。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/62b1e5fb-e9a0-4425-8879-7af56ddca7e9/6b4e9110-cc84-4669-9005-84f85f4e3d42(2).png?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "世界模型",
-        "title": "机器之心：全新世界模型Duo v1实现实时交互",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-17-9",
-        "summary": "机器之心报道，全新世界模型Duo v1发布，主打实时交互能力，宣称让两个世界彻底连上，具体技术细节与效果尚未在摘要中展开。",
-        "comment": "实时交互是世界模型落地关键，需看实测效果。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/5cb6d610-9d54-4bea-82a9-7843fd65b90c/0__64_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI进入医疗工作流，拓展Healthcare应用边界",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-17-7",
-        "summary": "OpenAI将AI能力嵌入医疗工作流，拓展Healthcare应用场景，推动医疗流程智能化与效率提升。",
-        "comment": "医疗AI从工具走向流程嵌入，落地价值更实。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/49bb4b61-742f-4e2d-abe3-c2cebc8d4a55/0__62_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI发布GPT-6.2 Astra与Sol",
         "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-        "summary": "OpenAI推出GPT-6.2 Astra和Sol，在专业输出、编程、电脑操作与效率上提升，并降低ChatGPT Work、Codex和API成本。",
-        "comment": "模型迭代继续压低成本，专业场景竞争加剧。",
+        "summary": "OpenAI推出GPT-6.2 Astra和Sol，在专业输出、编程、电脑操作和效率上提升，并降低ChatGPT Work、Codex及API的成本。",
+        "comment": "模型迭代聚焦专业场景与降本，竞争压力继续上升。",
         "image": "",
         "score": 100
       },
@@ -58,7 +18,7 @@
         "title": "OpenAI与北约合作，用AI强化网络防御",
         "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
         "summary": "OpenAI与北约及盟国网络机构合作，帮助可信防御者发现漏洞、测试修复方案并保护关键系统。",
-        "comment": "AI攻防能力外溢，联盟化协作成网络安全新常态。",
+        "comment": "AI攻防能力正被纳入军事同盟体系，值得关注。",
         "image": "",
         "score": 100
       },
@@ -67,40 +27,10 @@
         "tag": "OpenAI",
         "title": "OpenAI推出ChatGPT销售插件",
         "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-        "summary": "OpenAI发布ChatGPT销售插件及30余款合作插件，可研究潜在客户、准备推销材料、更新CRM并推进交易。",
-        "comment": "AI正从聊天工具深入企业销售核心流程。",
+        "summary": "OpenAI发布ChatGPT销售插件及30多个合作伙伴插件，可研究潜在客户、准备推销材料、更新CRM并推进交易。",
+        "comment": "AI正从聊天工具切入企业销售核心流程。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI与智利政府合作推动负责任AI应用",
-        "link": "https://openai.com/index/introducing-openai-for-chile",
-        "summary": "OpenAI与智利政府达成合作，推动负责任AI应用，培养公共部门技能，并帮助本地初创企业开发AI应用。",
-        "comment": "AI巨头加速布局拉美公共部门市场。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果",
-        "title": "Mac收紧权限，苹果开始防着AI了",
-        "link": "https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "苹果在Mac上收紧权限，限制AI工具对系统资源的访问，反映其对AI自由扩张的警惕。",
-        "comment": "苹果以安全之名收紧AI权限，生态控制再进一步。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "DeepSeek",
-        "title": "DeepSeek 不限额使用指南汇总",
-        "link": "https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿整理 DeepSeek 不限额用法，包括付费接入 API、导入历史记录等操作，并附使用指南。",
-        "comment": "实用教程，帮用户绕开额度限制。",
-        "image": "",
-        "score": 90
       }
     ]
   }
