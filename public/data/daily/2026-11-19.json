@@ -7,48 +7,18 @@
         "tag": "人工智能",
         "title": "Claude生成两篇黑洞物理学论文，突破数十年难题",
         "link": "https://www.jiqizhixin.com/articles/2026-11-19-12",
-        "summary": "机器之心报道，Claude产出两篇黑洞物理学论文，声称突破该领域数十年未解难题，引发对AI科研能力的关注。",
-        "comment": "AI直接产出物理论文，需同行评议验证真伪。",
+        "summary": "机器之心报道，Claude产出两篇黑洞物理学论文，声称突破该领域数十年未解难题，具体方法与结论尚待核实。",
+        "comment": "AI生成科研论文值得关注，但突破性结论仍需同行验证。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/c70e6446-15ff-4a12-9bf4-eed085d89f20/0__79_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "AI代理",
-        "title": "近期多起系统宕机被指与AI代理有关",
-        "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-        "summary": "航空订票、银行及生产力平台近期接连宕机，TechCrunch认为并非巧合，背后可能与AI代理的深层问题相关。",
-        "comment": "AI代理失控风险正从理论走向现实。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "英伟达",
-        "title": "黄仁勋因婚外情辞职，或波及美国AI国家安全",
+        "title": "黄仁勋丑闻时间线：涉婚外情辞职",
         "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "summary": "TechCrunch梳理黄仁勋因婚外情辞去英伟达职务的时间线，事件涉及疑似中国间谍，可能影响中美AI基础设施竞赛与国家安全。",
-        "comment": "高管私德事件被安全化，英伟达治理风险陡增。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Gemini",
-        "title": "谷歌Gemini新增Mac代理功能，可自动整理文件与填表",
-        "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-        "summary": "谷歌更新Gemini，为Mac引入AI代理，可整理文件、填写表单并执行多步骤工作流，进一步向桌面自动化延伸。",
-        "comment": "桌面代理落地Mac，AI从对话走向代操作，权限与安全边界待明确。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta AI代理Muse被曝混淆对话或泄露隐私",
-        "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-        "summary": "据报道，Meta的AI代理Muse出现对话混淆，员工称其展示了从未发过的育儿请求、职业建议和商品订单等私人信息。",
-        "comment": "AI代理越权读取隐私，信任危机比技术缺陷更致命。",
+        "summary": "黄仁勋因婚外情辞去英伟达职务，事件涉及疑似中国间谍，可能影响中美AI竞赛中的美国国家安全。",
+        "comment": "高管私德牵动国安，AI竞赛再添变数。",
         "image": "",
         "score": 100
       },
@@ -57,28 +27,8 @@
         "tag": "OpenAI",
         "title": "OpenAI用性能工厂保持ChatGPT高速运行",
         "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "summary": "OpenAI介绍其性能工厂系统，利用Codex驱动的工作流自动发现并修复性能问题，从而维持ChatGPT的快速响应。",
-        "comment": "自动化性能治理正成为大模型产品化的关键基建。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI发布Daybreak Red安全调查部署架构",
-        "link": "https://openai.com/business/learn/deploying-daybreak-red",
-        "summary": "OpenAI介绍Daybreak Red参考架构，用于受监督的安全调查，涵盖安全控制、部署配置与监控方案。",
-        "comment": "AI进入安全调查流程，合规与可控性是落地关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI演示PR扫描功能",
-        "link": "https://openai.com/business/learn/pr-scans-demo",
-        "summary": "OpenAI发布演示视频，展示在拉取请求工作流中查看和审阅PR扫描结果的操作流程。",
-        "comment": "演示偏工具教学，实际价值取决于扫描准确率。",
+        "summary": "OpenAI介绍其Performance Factory系统，利用Codex驱动的工作流自动发现并修复性能问题，从而维持ChatGPT的响应速度。",
+        "comment": "工程化性能治理值得关注，但细节披露有限。",
         "image": "",
         "score": 100
       },
@@ -87,8 +37,18 @@
         "tag": "OpenAI",
         "title": "OpenAI演示Codex安全插件工作流",
         "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-        "summary": "OpenAI发布Codex安全插件演示视频，展示从入门配置到结果审查的完整工作流程，帮助用户了解该插件在实际场景中的使用方式。",
-        "comment": "演示偏入门，实际防护效果仍需独立验证。",
+        "summary": "OpenAI发布Codex安全插件演示视频，展示从入门配置到结果审查的完整工作流程。",
+        "comment": "安全插件落地演示，有助开发者评估实际可用性。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI演示PR扫描功能",
+        "link": "https://openai.com/business/learn/pr-scans-demo",
+        "summary": "OpenAI发布演示视频，展示在拉取请求工作流中如何查看和审阅PR扫描结果。",
+        "comment": "演示偏功能展示，实际效果仍需开发者验证。",
         "image": "",
         "score": 100
       },
@@ -97,30 +57,40 @@
         "tag": "OpenAI",
         "title": "OpenAI发布Daybreak Blue入门演示",
         "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-        "summary": "OpenAI发布Daybreak Blue入门演示视频，展示产品设置流程与上手方式，帮助用户了解如何开始使用该服务。",
-        "comment": "演示偏入门，实际价值待产品细节披露。",
+        "summary": "OpenAI发布Daybreak Blue入门演示视频，展示产品设置流程与上手方式，帮助用户快速了解如何开始使用。",
+        "comment": "演示偏入门，实际价值待产品细节验证。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic IPO或向慈善机构捐赠1560亿美元",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-        "summary": "按每股95美元计算，Anthropic的公共利益基金会、员工捐赠及公司配捐合计可达1560亿美元。",
-        "comment": "AI巨头上市财富外溢，慈善承诺需看兑现机制。",
+        "tag": "OpenAI",
+        "title": "OpenAI发布Daybreak Red部署参考架构",
+        "link": "https://openai.com/business/learn/deploying-daybreak-red",
+        "summary": "OpenAI介绍Daybreak Red在监督式安全调查中的参考架构，涵盖安全控制、部署配置与监控方案。",
+        "comment": "安全调查自动化落地，关键在可控与可审计。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "Meta",
+        "title": "Meta新款AI可穿戴设备Muse Charm或定价300美元",
+        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+        "summary": "据报道，Meta即将推出的AI可穿戴设备Muse Charm售价可能为300美元。Meta未否认该报道，仅表示很快会公布更多信息。",
+        "comment": "300美元定价若属实，Meta意在用低价抢占AI硬件入口。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "Meta",
-        "title": "Meta新款AI穿戴设备Muse Charm或售300美元",
-        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-        "summary": "The Information报道称Meta新款AI穿戴设备Muse Charm售价可能为300美元，Meta未否认，仅表示即将公布更多信息。",
-        "comment": "300美元定价将考验AI穿戴设备的市场接受度。",
+        "tag": "AI代理",
+        "title": "近期系统故障频发，AI代理被指为深层诱因",
+        "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+        "summary": "航空订票、银行与生产力平台近期接连宕机，TechCrunch认为并非巧合，背后可能与AI代理大规模自主操作有关。",
+        "comment": "AI代理失控风险正从理论走向现实。",
         "image": "",
-        "score": 98
+        "score": 99
       },
       {
         "category": "数码科技",
@@ -133,124 +103,34 @@
         "score": 93
       },
       {
-        "category": "游戏影视",
-        "tag": "育碧",
-        "title": "育碧再裁员166人，波及两大工作室",
-        "link": "https://www.gamespot.com/articles/more-mass-layoffs-at-ubisoft-underway-affecting-two-of-its-biggest-studios/",
-        "summary": "育碧启动新一轮裁员，涉及166个岗位，波及两家最大工作室，系其持续削减成本计划的一部分。",
-        "comment": "成本削减持续，育碧组织收缩未见终点。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/AC_e6f7cd.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA6",
-        "title": "玩家用复杂方法让《GTA6》主机版跑60帧",
-        "link": "https://www.gamespot.com/articles/you-can-play-grand-theft-auto-6-at-60fps-using-this-absurdly-complicated-method/",
-        "summary": "《GTA6》主机版已发售，画面表现达到本世代展示水准，但默认帧率有限。有玩家通过一套极其复杂的设置方法，成功让游戏以60fps运行。",
-        "comment": "折腾60帧折射出主机性能与画质野心间的落差。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Grand-Theft-Auto-VI-Trailer-1-1-16-screenshot-Large.jpeg?w=300",
-        "score": 92
-      },
-      {
         "category": "数码科技",
         "tag": "比亚迪",
         "title": "比亚迪发布折叠方向盘，首搭方程豹钛9，27.99万元起",
         "link": "https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪推出折叠方向盘技术，首次搭载于方程豹钛9，起售价27.99万元，官方称将改变百年汽车空间格局。",
-        "comment": "方向盘折叠是形态创新，实际体验与安全性待验证。",
+        "summary": "比亚迪推出折叠方向盘技术，首次搭载于方程豹钛9，起售价27.99万元，号称推翻百年汽车空间格局。",
+        "comment": "方向盘折叠是座舱创新的关键一步，量产落地值得关注。",
         "image": "",
-        "score": 91
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "英伟达",
-        "title": "英伟达官宣全员加薪，热门接班人曝光",
+        "title": "英伟达拒绝黄仁勋回归并全员加薪，热门接班人曝光",
         "link": "https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "英伟达拒绝黄仁勋回归后宣布全员加薪，并曝光热门接班人，公司未来走向引发关注。",
-        "comment": "加薪稳军心，接班人悬念更值得关注。",
+        "summary": "英伟达官宣全员加薪，此前刚拒绝黄仁勋回归，同时曝光热门接班人，公司未来走向引发关注。",
+        "comment": "加薪稳军心，接班人悬念才是关键。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界：永恆想摆脱“BiS”装备理念",
-        "link": "https://www.gamespot.com/articles/wow-forever-wants-to-get-rid-of-the-idea-of-bis-gear/",
-        "summary": "《魔兽世界：永恆》调整装备设计，暴雪希望玩家更多依据Boss或生态区域选择装备，而非追求统一的“最佳装备”。",
-        "comment": "削弱BiS导向，或让配装更看场景而非唯一答案。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-No-BIS-1.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "魔兽世界",
-        "title": "魔兽世界：永恒重做经典服PvP荣誉系统",
-        "link": "https://www.gamespot.com/articles/how-wow-forever-is-overhauling-classic-wows-infamous-pvp-honor-grind/",
-        "summary": "暴雪公布《魔兽世界：永恒》的PvP系统将大幅调整，与旧版经典服玩法明显不同，重点改革玩家诟病的荣誉刷取机制。",
-        "comment": "经典服荣誉痛点终于被正视，改动方向值得关注。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-PvP-System-Explained.jpg?w=300",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6 意外客串角色曝光",
-        "link": "https://www.gamespot.com/articles/gta-6-has-a-surprise-cameo-from-someone-you-probably-didnt-expect/",
-        "summary": "GameSpot 盘点《GTA 6》配音阵容，Bobby Moynihan 饰演话痨好友，Weird Al Yankovic 担任电台主持人，另有意外名人客串。",
-        "comment": "明星客串是噱头，关键仍看成品质量。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-Cameo_b53f6a.jpg?w=300",
-        "score": 91
+        "score": 92
       },
       {
         "category": "数码科技",
         "tag": "阔屏手机",
-        "title": "爱范儿：阔屏成手机新趋势，称今年是阔屏元年",
+        "title": "阔屏成手机新趋势：今年是阔屏元年",
         "link": "https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿发文称今年是阔屏手机元年，认为阔屏比例将引领未来十年，面向新中产与新潮流人群。",
-        "comment": "阔屏能否成主流，还需销量与生态验证。",
+        "summary": "爱范儿称今年为阔屏元年，认为新比例屏幕将成新中产潮流，并主导手机今后十年设计方向。",
+        "comment": "阔屏能否成主流，仍需市场与体验验证。",
         "image": "",
         "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6救生狗原型疑为现实酷狗",
-        "link": "https://www.gamespot.com/articles/gta-6-dog-who-saves-you-is-seemingly-based-on-a-very-cool-real-life-dog/",
-        "summary": "玩家发现《GTA 6》中若游向深海，会有骑水上摩托的狗引导返回岸边；GameSpot称该设定疑似取材于现实中的一只酷狗。",
-        "comment": "细节彩蛋比宣传片更能体现制作组的幽默感。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA_862f42.png?w=300",
-        "score": 90
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "想高效健身？GTA 6 是个好老师",
-        "link": "https://www.gamespot.com/articles/want-to-start-lifting-effectively-gta-6-is-a-good-teacher/",
-        "summary": "《GTA 6》发售后，玩家发现游戏中大量细节体现开发团队对真实感的投入，其中健身举重机制被认为能教人高效锻炼。",
-        "comment": "游戏细节逼真到能当健身教材，Rockstar的执念可见一斑。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261101163230_.jpg?w=300",
-        "score": 90
-      },
-      {
-        "category": "时事热点",
-        "tag": "Anthropic",
-        "title": "Anthropic上市成全球市值最高上市公司之一",
-        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-        "summary": "Anthropic成为首家纯AI上市公司，其上市表现将成为检验整个AI行业估值与前景的重要试金石。",
-        "comment": "AI公司上市首秀，行业估值迎来真实检验。",
-        "image": "",
-        "score": 88
-      },
-      {
-        "category": "时事热点",
-        "tag": "中美俄",
-        "title": "特朗普、普京与习近平历史性会晤后发布和平宣言",
-        "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-        "summary": "三位总统此前曾分别举行双边会晤，此次为首度三方会谈，会后共同发布和平宣言。",
-        "comment": "三方同台罕见，宣言落实程度待观察。",
-        "image": "",
-        "score": 88
       }
     ]
   }

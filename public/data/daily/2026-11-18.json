@@ -5,50 +5,20 @@
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI高管探讨更强AI如何重塑社会",
+        "title": "OpenAI高管谈更强AI如何重塑社会",
         "link": "https://openai.com/index/the-silent-consensus",
-        "summary": "OpenAI战略未来负责人Dean Ball撰文，分析能力更强的AI可能如何重塑社会，以及人们如何保持对自身机构的控制。",
-        "comment": "AI治理讨论正从技术圈转向制度设计层面。",
+        "summary": "OpenAI战略未来负责人Dean Ball撰文，探讨能力更强的AI将如何重塑社会，以及人们如何保持对自身机构的控制。",
+        "comment": "AI治理讨论正从技术圈转向制度层面。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI研究：编程智能体加速AI研究但能力不均",
-        "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-        "summary": "OpenAI评估编程智能体对AI研究的加速效果，指出其表现参差不齐，并探讨这对递归自我改进的启示。",
-        "comment": "智能体提效真实存在，但能力断层决定其尚难自主推进研究。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "ChatGPT Enterprise",
+        "tag": "ChatGPT",
         "title": "住友生命高管带头推动ChatGPT Enterprise落地",
         "link": "https://openai.com/business/customer-stories/sumitomo-life",
-        "summary": "住友生命利用ChatGPT Enterprise调研保险公司、准备提案并编写投资分析代码，高管的早期使用推动了全员采用。",
-        "comment": "高管示范是企业AI落地的有效催化剂。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI详解Codex沙箱机制",
-        "link": "https://openai.com/index/inside-the-codex-sandbox",
-        "summary": "OpenAI介绍Codex如何在macOS、Linux和Windows上执行命令，同时按用户设定的文件系统与网络限制进行约束。",
-        "comment": "沙箱透明度提升，但权限边界仍需实测验证。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI详解前沿AI风险管理：从训练到部署",
-        "link": "https://openai.com/index/managing-frontier-ai-risk",
-        "summary": "OpenAI说明其从前沿模型训练到部署的风险管理方式，包括模型对齐、沙箱隔离、阻断式防护和持续监控。",
-        "comment": "头部厂商公开安全流程，意在回应监管与信任压力。",
+        "summary": "住友生命用ChatGPT Enterprise调研保险公司、准备提案并编写投资分析代码，高管的早期使用带动了全员采用。",
+        "comment": "高管先用起来，是企业AI落地的有效路径。",
         "image": "",
         "score": 100
       }
