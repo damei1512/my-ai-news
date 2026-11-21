@@ -3,43 +3,183 @@
     "week": "周六",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Flagship布局伦敦，打造AI原生科学创业平台",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-21-9",
+        "summary": "Flagship在伦敦设立据点，搭建以AI为核心的科学创业平台，推动AI原生科研与创业项目孵化。",
+        "comment": "AI原生科研创业正从概念走向实体孵化。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/3a02fe79-cefa-4dce-9fcc-461f91776450/0__8_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "数学",
+        "title": "人类数学家紧急公开广义黎曼猜想证明",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-21-6",
+        "summary": "一位数学家历时12年、未借助AI完成广义黎曼猜想的证明并紧急公开，成果有待同行评审验证。",
+        "comment": "纯人力攻坚重大猜想，价值高但仍需严格验证。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/555a3006-7591-4549-a5ff-f4b15d7ecd45/0__5_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "开源模型",
+        "title": "TML开源循环Transformer模型，笔记本可运行",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-21-5",
+        "summary": "机器之心报道，TML开源新模型采用循环Transformer架构，可在笔记本上运行，降低大模型使用门槛。",
+        "comment": "循环架构加轻量化，端侧AI又进一步。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/111b73c6-8f1b-4972-8871-9c2de6830577/0__4_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Anthropic数学家称用Claude证明黎曼猜想",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-21-2",
+        "summary": "机器之心报道，Anthropic数学家宣称借助Claude完成黎曼猜想的证明，消息突发，具体证明细节与验证情况尚未披露。",
+        "comment": "若属实将改写数学史，但需等待同行验证。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/844a8da4-e697-4d7b-ae98-2b514c3161d4/0__1_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "Rockstar如何让《GTA 6》每个NPC都鲜活",
+        "link": "https://www.ign.com/articles/how-rockstar-made-every-npc-feel-alive-in-gta-6",
+        "summary": "IGN报道，Rockstar为《GTA 6》中几乎一切内容建立深厚背景故事，使莱昂尼达州的NPC显得真实鲜活。",
+        "comment": "NPC深度或成《GTA 6》沉浸感关键差异化优势。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/19/illegal-ops1-1795093051042.jpg",
+        "score": 95
+      },
+      {
+        "category": "数码科技",
+        "tag": "黎曼猜想",
+        "title": "曝黎曼猜想被证明，Claude 立大功",
+        "link": "https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿报道称黎曼猜想已被证明，AI Claude 在其中发挥关键作用，消息尚待数学界核实。",
+        "comment": "重大数学突破若属实，AI 角色值得关注。",
+        "image": "",
+        "score": 93
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6玩家遭遇强力反击NPC，最好别惹",
+        "link": "https://www.ign.com/articles/gta-6-players-are-running-into-npcs-who-fight-back-so-hard-you-probably-should-just-leave-them-alone",
+        "summary": "IGN报道称，GTA 6中部分NPC会猛烈反击玩家，且外表难以分辨，提醒玩家谨慎挑衅。",
+        "comment": "NPC反击机制增强，让开放世界更真实也更具风险。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/21/gtavi-56-1795263173286.jpg",
+        "score": 93
+      },
+      {
         "category": "数码科技",
         "tag": "AI",
-        "title": "早报：曝Claude证明黎曼猜想，陶哲轩回应",
+        "title": "曝Claude证明黎曼猜想，陶哲轩回应",
         "link": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿早报：曝Claude证明黎曼猜想引陶哲轩回应；余承东更正发布会表述称开车不能睡觉；五月天公布Vision Pro演唱会，Apple Store可预约体验。",
-        "comment": "AI数学突破传闻需谨慎，跨界体验更值得关注。",
+        "summary": "爱范儿早报：传Claude证明黎曼猜想，陶哲轩回应；余承东更正发布会表述称开车不能睡觉；五月天公布Vision Pro演唱会，Apple Store可预约。",
+        "comment": "黎曼猜想传闻需谨慎，AI数学突破待验证。",
+        "image": "",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "美股",
+        "title": "美股一夜崩盘，AI泡沫真要破了？",
+        "link": "https://www.ifanr.com/1690789?utm_source=rss&utm_medium=rss&utm_campaign=",
+        "summary": "爱范儿分析美股单夜大跌与AI概念估值压力，讨论AI泡沫是否面临破裂风险，并引导关注其公众号。",
+        "comment": "标题吸睛，但需数据与基本面支撑判断。",
         "image": "",
         "score": 91
       },
       {
+        "category": "游戏影视",
+        "tag": "明日方舟终末地",
+        "title": "《明日方舟：终末地》2.0版本11月25日上线",
+        "link": "https://www.gcores.com/articles/222631",
+        "summary": "《明日方舟：终末地》前瞻节目公布2.0版本PV，新版本11月25日上线，新干员小刻登场，全新区域旧水坝开放。",
+        "comment": "2.0版本节点关键，内容量将决定玩家留存。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6中6美元啤酒引发犯罪与焦虑",
+        "link": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
+        "summary": "IGN编辑体验《GTA 6》时，因一杯6美元啤酒触发连锁犯罪与焦虑，展现游戏经济系统对玩家行为的深层影响。",
+        "comment": "价格设计巧妙放大了沉浸感与道德张力。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/20/1a1f9e1ef3b55-screenshoturl-1-1795194452766.jpg",
+        "score": 89
+      },
+      {
         "category": "时事热点",
-        "tag": "山火",
-        "title": "洛杉矶帕利塞兹山火纵火案嫌疑人被定罪",
-        "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-        "summary": "洛杉矶一名30岁居民被判纵火罪成立，其引发的山火造成12人死亡、逾6800栋建筑被毁。",
-        "comment": "致灾后果极重，定罪只是追责第一步。",
+        "tag": "FBI",
+        "title": "FBI据报调查犯罪数据库疑似遭黑客入侵",
+        "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "summary": "据报道，FBI正调查其国家犯罪信息中心数据库疑似遭黑客入侵一事。该数据库供联邦和地方执法机构共享信息。",
+        "comment": "执法核心数据库若失守，后果不容低估。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "俄乌冲突",
+        "title": "泽连斯基称克里米亚大桥遇袭是公平回应",
+        "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "summary": "泽连斯基与英国官员会面时称，乌克兰对克里米亚大桥的打击是对俄方109次空袭乌桥梁的公平回应。",
+        "comment": "乌方以对等反击定调，冲突升级风险仍高。",
         "image": "",
         "score": 87
       },
       {
         "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "泽连斯基称普京是“杀手”，回应特朗普称普京为朋友",
-        "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-        "summary": "特朗普称普京为朋友后，泽连斯基以“杀手”回击；此前俄罗斯对乌克兰发动今年最大规模袭击。",
-        "comment": "美俄领导人互动与战场升级叠加，乌克兰危机更趋复杂。",
+        "tag": "洛杉矶山火",
+        "title": "洛杉矶帕利塞兹山火纵火者被判有罪",
+        "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+        "summary": "洛杉矶一名30岁居民被判纵火罪，其引发的山火造成12人死亡、逾6800栋建筑被毁。",
+        "comment": "灾难性山火背后的人为纵火，司法追责只是第一步。",
         "image": "",
         "score": 87
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Switch 2",
+        "title": "Nitro Deck 2 手柄亚马逊黑五促销",
+        "link": "https://www.ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026",
+        "summary": "IGN 报道，适用于 Nintendo Switch 2 的 Nitro Deck 2 手柄在亚马逊迎来黑五折扣，具体价格与优惠幅度未在标题中披露。",
+        "comment": "配件先于主机促销，Switch 2 生态预热信号明显。",
+        "image": "https://assets-prd.ignimgs.com/2026/08/20/untitled-design-3-1787246765494.png",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "气候变化",
+        "title": "化石燃料争议致COP31气候谈判陷入僵局",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+        "summary": "近200个国家在COP31气候大会上就化石燃料问题争执不下，新的全球气候协议谈判陷入僵局，各方未能达成共识。",
+        "comment": "化石燃料分歧仍是全球气候治理的核心障碍。",
+        "image": "",
+        "score": 86
       },
       {
         "category": "游戏影视",
         "tag": "指环王",
         "title": "《指环王》官方披萨刀亚马逊降价至新低",
         "link": "https://www.ign.com/articles/the-official-lord-of-the-rings-pizza-cutter-drops-to-a-new-low-price-at-amazon-black-friday-2026",
-        "summary": "IGN报道，《指环王》官方主题披萨刀在亚马逊降至历史新低价，属于黑五促销中的周边商品折扣。",
-        "comment": "魔戒周边降价，收藏党可留意，实用性一般。",
+        "summary": "IGN报道，《指环王》官方主题披萨刀在亚马逊降至历史新低，属于黑五促销周边商品。",
+        "comment": "魔戒周边降价，粉丝向消费，实用价值有限。",
         "image": "https://assets-prd.ignimgs.com/2026/11/20/81eje-yy66l-ac-sl1500-1795216849076.jpg",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "英欧关系",
+        "title": "米利班德称与欧盟协议不取决于学费问题",
+        "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+        "summary": "英国部长米利班德表示，与欧盟达成的更广泛协议不依赖学费安排；此前布鲁塞尔消息称，欧盟或要求先降低欧盟学生在英学费。",
+        "comment": "英欧博弈中，学费被当作筹码，但双方都想先锁定大局。",
+        "image": "",
         "score": 85
       },
       {
@@ -47,10 +187,20 @@
         "tag": "纽约",
         "title": "曼达尼宣布2032年前关闭纽约里克斯岛监狱",
         "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-        "summary": "纽约市长曼达尼公布计划，拟于2032年前关闭问题频发的里克斯岛监狱。该监狱关闭方案早在2019年已获市议会投票通过，但因囚犯安置地点争议而拖延。",
-        "comment": "关闭承诺再定时间表，安置方案仍是成败关键。",
+        "summary": "纽约市长曼达尼公布计划，拟在2032年前关闭问题重重的里克斯岛监狱。该监狱关闭方案早在2019年已获市议会投票通过，但因囚犯安置地点争议而拖延。",
+        "comment": "关闭承诺再定新期限，安置难题仍是关键考验。",
         "image": "",
-        "score": 84
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "国际",
+        "title": "挪威砍伐特拉法加广场圣诞树",
+        "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+        "summary": "挪威奥斯陆砍伐一棵21米高的云杉，作为对英国二战支持的年度感谢，将运往伦敦特拉法加广场。",
+        "comment": "传统外交礼物，象征意义大于新闻价值。",
+        "image": "",
+        "score": 82
       }
     ]
   }

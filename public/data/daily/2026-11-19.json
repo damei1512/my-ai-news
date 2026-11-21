@@ -4,31 +4,31 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Claude生成两篇黑洞物理学论文，突破数十年难题",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-19-12",
-        "summary": "机器之心报道，Claude产出两篇黑洞物理学论文，声称突破领域内数十年未解难题，具体方法与结论尚待核验。",
-        "comment": "AI科研能力再进一步，但结论仍需同行评审验证。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/c70e6446-15ff-4a12-9bf4-eed085d89f20/0__79_(2).jpg?imageView2/1/w/390/h/282",
+        "tag": "AI代理",
+        "title": "近期系统故障频发，AI代理被指为深层原因",
+        "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+        "summary": "航空订票、银行及生产力平台近期接连宕机，TechCrunch认为并非巧合，背后或与AI代理大规模自主操作有关。",
+        "comment": "AI代理失控风险正从理论走向现实。",
+        "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "英伟达",
-        "title": "黄仁勋因婚外情辞职，涉中国间谍传闻",
+        "title": "黄仁勋因婚外情辞职 英伟达卷入国安风波",
         "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "summary": "TechCrunch梳理黄仁勋因婚外情辞去英伟达职务的时间线，事件或影响美国对华AI竞争中的国家安全。",
-        "comment": "CEO丑闻叠加间谍疑云，英伟达面临治理与安全双重考验。",
+        "summary": "黄仁勋因与疑似中国间谍的婚外情辞去英伟达职务，事件或影响中美AI竞赛中的美国国家安全。",
+        "comment": "CEO丑闻叠加间谍疑云，英伟达面临治理与国安双重冲击。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI用性能工厂保持ChatGPT快速响应",
+        "title": "OpenAI用性能工厂保持ChatGPT高速运行",
         "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "summary": "OpenAI介绍其Performance Factory系统，利用Codex驱动的工作流自动发现并修复性能问题，以维持ChatGPT的响应速度。",
-        "comment": "性能工程自动化正成为大模型产品竞争的关键环节。",
+        "summary": "OpenAI介绍其Performance Factory系统，利用Codex驱动的工作流自动发现并修复性能问题，从而保障ChatGPT的响应速度。",
+        "comment": "工程化性能治理值得关注，但细节披露有限。",
         "image": "",
         "score": 100
       },
@@ -37,8 +37,8 @@
         "tag": "OpenAI",
         "title": "OpenAI演示Codex安全插件工作流",
         "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-        "summary": "OpenAI发布Codex安全插件演示视频，展示从入门配置到查看扫描结果的完整工作流程。",
-        "comment": "安全插件落地演示，有助于开发者理解实际用法。",
+        "summary": "OpenAI发布Codex安全插件演示视频，展示从入门配置到查看审查结果的完整工作流程。",
+        "comment": "安全插件落地演示，有助开发者评估实际可用性。",
         "image": "",
         "score": 100
       },
@@ -47,8 +47,8 @@
         "tag": "OpenAI",
         "title": "OpenAI演示PR扫描功能",
         "link": "https://openai.com/business/learn/pr-scans-demo",
-        "summary": "OpenAI发布演示视频，展示在拉取请求工作流中查看PR扫描结果的操作流程。",
-        "comment": "演示偏操作说明，实用但缺技术细节。",
+        "summary": "OpenAI发布演示视频，展示PR扫描在拉取请求工作流中的使用方式，以及演示者如何查看和审阅扫描结果。",
+        "comment": "AI代码审查工具正加速融入开发流程。",
         "image": "",
         "score": 100
       },
@@ -57,8 +57,8 @@
         "tag": "OpenAI",
         "title": "OpenAI发布Daybreak Blue入门演示",
         "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-        "summary": "OpenAI发布Daybreak Blue入门演示视频，展示产品设置流程与上手方式，帮助用户快速了解该企业级AI工具的初始配置体验。",
-        "comment": "演示偏重上手流程，产品实际能力仍需更多信息。",
+        "summary": "OpenAI发布Daybreak Blue入门演示视频，展示产品设置流程与上手方式，帮助用户快速了解如何开始使用。",
+        "comment": "演示偏入门，实际能力仍需更多细节验证。",
         "image": "",
         "score": 100
       },
@@ -67,8 +67,8 @@
         "tag": "OpenAI",
         "title": "OpenAI发布Daybreak Red部署参考架构",
         "link": "https://openai.com/business/learn/deploying-daybreak-red",
-        "summary": "OpenAI介绍Daybreak Red的参考架构，用于受监督的安全调查，涵盖安全控制、部署配置与监控方案。",
-        "comment": "安全调查工具落地，关键在可控与可审计。",
+        "summary": "OpenAI介绍Daybreak Red在监督式安全调查中的参考架构，涵盖安全控制、部署配置与监控方案。",
+        "comment": "安全调查AI落地，关键在可控与可审计。",
         "image": "",
         "score": 100
       },
@@ -77,50 +77,20 @@
         "tag": "Meta",
         "title": "Meta新款AI穿戴设备Muse Charm或定价300美元",
         "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-        "summary": "Meta未否认The Information关于其新款AI穿戴设备Muse Charm售价300美元的报道，仅表示即将公布更多信息。",
-        "comment": "定价若属实，AI穿戴设备将进入主流价格带。",
+        "summary": "Meta未否认The Information关于其新款AI穿戴设备Muse Charm售价约300美元的报道，仅表示即将公布更多信息。",
+        "comment": "300美元定价试探市场，Meta在AI硬件上仍处摸索期。",
         "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI代理",
-        "title": "近期系统故障频发，AI代理被指为幕后推手",
-        "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-        "summary": "航空订票、银行及生产力平台近期接连宕机，TechCrunch分析认为并非巧合，背后或与AI代理的自动化行为有关。",
-        "comment": "AI代理失控风险正从理论走向现实，需警惕。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "数码科技",
-        "tag": "Anthropic",
-        "title": "Anthropic 敲钟上市，史上最大IPO引硅谷争议",
-        "link": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "Anthropic 正式上市，成为史上最大IPO，但其严格的封号政策引发硅谷广泛争议与讨论。",
-        "comment": "最大IPO光环下，封号争议暴露AI治理难题。",
-        "image": "",
-        "score": 93
+        "score": 98
       },
       {
         "category": "数码科技",
         "tag": "比亚迪",
         "title": "比亚迪发布折叠方向盘，首搭方程豹钛9，27.99万元起",
         "link": "https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "比亚迪推出折叠方向盘技术，首次搭载于方程豹钛9，起售价27.99万元，号称推翻百年汽车空间格局。",
-        "comment": "方向盘折叠是形态创新，实用性与安全性待验证。",
+        "summary": "比亚迪推出可折叠方向盘，首次搭载于方程豹钛9，起售价27.99万元，改变传统车内空间布局。",
+        "comment": "折叠方向盘量产上车，座舱空间创新迈出实质一步。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "阔屏手机",
-        "title": "阔屏成手机新趋势：今年是阔屏元年",
-        "link": "https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿文章认为阔屏是手机未来十年方向，提出新中产、新比例、新潮流三个观察角度，指向屏幕形态与用户需求的变化。",
-        "comment": "阔屏能否成主流，关键看应用生态是否跟上。",
-        "image": "",
-        "score": 90
+        "score": 92
       }
     ]
   }
