@@ -7,8 +7,8 @@
         "tag": "人工智能",
         "title": "Flagship布局伦敦，打造AI原生科学创业平台",
         "link": "https://www.jiqizhixin.com/articles/2026-11-21-9",
-        "summary": "Flagship在伦敦设立AI原生科学创业平台，聚焦以人工智能驱动科学发现与创业孵化，拓展其生物科技与深度科技投资版图。",
-        "comment": "AI与科学创业结合，伦敦争夺硬科技话语权。",
+        "summary": "Flagship将在伦敦设立据点，搭建以AI为核心的科学创业平台，推动AI原生科研项目孵化与落地。",
+        "comment": "AI驱动科研创业正从概念走向机构化落地。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/3a02fe79-cefa-4dce-9fcc-461f91776450/0__8_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "数学",
         "title": "人类数学家紧急公开广义黎曼猜想证明",
         "link": "https://www.jiqizhixin.com/articles/2026-11-21-6",
-        "summary": "一位数学家历时12年、未借助AI完成广义黎曼猜想证明并紧急公开，成果有待同行评审验证。",
-        "comment": "纯人力攻坚的数学突破，价值需时间检验。",
+        "summary": "机器之心报道，一位数学家历时12年、未借助AI，独立完成广义黎曼猜想的证明并紧急公开，引发数学界关注。",
+        "comment": "纯人脑攻坚顶级难题，AI时代更显珍贵。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/555a3006-7591-4549-a5ff-f4b15d7ecd45/0__5_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
@@ -28,7 +28,7 @@
         "title": "TML开源循环Transformer模型，笔记本可运行",
         "link": "https://www.jiqizhixin.com/articles/2026-11-21-5",
         "summary": "机器之心报道，TML开源新模型采用循环Transformer架构，可在笔记本上运行，降低大模型使用门槛。",
-        "comment": "循环架构加轻量化，开源模型正把大模型拉下云端。",
+        "comment": "循环架构降低算力门槛，开源利于生态验证。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/111b73c6-8f1b-4972-8871-9c2de6830577/0__4_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
@@ -37,108 +37,78 @@
         "tag": "人工智能",
         "title": "Anthropic数学家称用Claude证明黎曼猜想",
         "link": "https://www.jiqizhixin.com/articles/2026-11-21-2",
-        "summary": "机器之心报道，Anthropic数学家宣称借助Claude完成黎曼猜想的证明，消息突发，具体证明细节与验证情况尚未披露。",
-        "comment": "重大数学声明需同行验证，先别急着下结论。",
+        "summary": "机器之心报道，Anthropic数学家宣称借助Claude完成黎曼猜想的证明，消息突发，具体论证与验证细节尚未披露。",
+        "comment": "重磅若属实将改写数学史，但需严格同行验证。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/844a8da4-e697-4d7b-ae98-2b514c3161d4/0__1_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "Signal",
-        "title": "Signal限制手机截图功能，应对AI监控威胁",
+        "title": "Signal限制手机截图以应对AI监控威胁",
         "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-        "summary": "Signal在安卓和iOS应用中限制用户截图功能，以应对AI监控带来的生存威胁。",
-        "comment": "隐私与便利的博弈，Signal选择了前者。",
+        "summary": "Signal在安卓和iOS应用中限制用户截图功能，称此举旨在应对AI监控带来的生存威胁，保护用户隐私安全。",
+        "comment": "隐私与便利的博弈，Signal选择前者。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "英伟达",
-        "title": "英伟达的两副面孔：财报与高管呼声",
+        "title": "英伟达的两面：财报与高管呼声",
         "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-        "summary": "英伟达最新财报与科技高管呼吁黄仁勋回归形成两种截然不同的叙事，折射出市场对这家AI芯片巨头的复杂预期。",
-        "comment": "财报与舆论各说各话，英伟达的AI光环正被重新审视。",
+        "summary": "英伟达最新财报与科技高管呼吁黄仁勋回归形成两种截然不同的叙事，折射市场对其前景的分歧。",
+        "comment": "财报看数据，呼声看情绪，英伟达被两种叙事拉扯。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
-        "tag": "AI授权",
-        "title": "演员向微短剧公司出售AI面部授权，或成好莱坞新趋势",
+        "tag": "AI换脸",
+        "title": "演员向微短剧公司出售AI面部授权，好莱坞未来引争议",
         "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-        "summary": "一名演员将面部授权给微短剧初创公司，此类模式在中国已流行。专家担忧若在好莱坞普及，长期后果值得警惕。",
-        "comment": "AI换脸授权短期变现，长期恐冲击演员议价权。",
+        "summary": "一名演员将面部授权给微短剧初创公司，此类做法在中国已流行。专家担忧若在好莱坞成趋势，长期后果待观察。",
+        "comment": "AI换脸授权若成常态，演员权益与行业伦理需先立规矩。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "AI智能体",
-        "title": "盘点可驻留短信的AI智能体",
+        "title": "可驻留短信的AI智能体盘点",
         "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "summary": "TechCrunch梳理了多款可驻留短信的AI智能体，覆盖通用助手、家庭、旅行和工作场景。",
-        "comment": "短信入口成AI智能体新战场，场景细分是看点。",
+        "summary": "TechCrunch梳理了多款可驻留短信的AI智能体，覆盖通用助手及面向家庭、旅行和工作的专用代理。",
+        "comment": "短信入口成AI代理新战场，场景化竞争加剧。",
         "image": "",
-        "score": 97
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6玩家报告PS5崩溃错误CE-108255-1",
-        "link": "https://www.ign.com/articles/gta-6-players-report-crashes-on-ps5-with-error-ce-108255-1",
-        "summary": "IGN报道，PS5版GTA 6玩家频繁遭遇CE-108255-1错误导致游戏崩溃，影响剧情推进。",
-        "comment": "首发崩溃问题若属实，将严重拖累口碑。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/27/exclusivelookbr-gtfm-1787873244868.png",
-        "score": 95
+        "score": 98
       },
       {
         "category": "数码科技",
         "tag": "黎曼猜想",
         "title": "曝黎曼猜想被证明，Claude 立大功",
         "link": "https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道称黎曼猜想已被证明，Claude 在其中发挥关键作用，消息尚待核实。",
-        "comment": "重大数学突破若属实，AI辅助科研将迎新节点。",
+        "summary": "爱范儿报道称黎曼猜想已被证明，AI 助手 Claude 在其中发挥关键作用，但消息尚待数学界核实。",
+        "comment": "重大数学突破若属实，AI 辅助科研将进入新阶段。",
         "image": "",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏",
-        "title": "《以撒的结合》开发商移除未披露AI音乐",
-        "link": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
-        "summary": "《以撒的结合》开发商Nicalis在玩家差评轰炸及原作者回应后，移除了《忏悔+》中未披露的AI生成音乐。",
-        "comment": "隐瞒AI参与终遭反噬，透明才是底线。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/21/the-binding-of-isaac-repentance-ai-1795303836559.png",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "漫威",
-        "title": "海莉·阿特维尔暗示《复仇者联盟：末日》新预告周一发布",
-        "link": "https://www.ign.com/articles/avengers-doomsday-star-hayley-atwell-teases-new-trailer-for-monday",
-        "summary": "《复仇者联盟：末日》主演海莉·阿特维尔疑似透露，该片新预告将于周一首播，引发影迷关注。",
-        "comment": "演员无意剧透，反而成了最有效的预告营销。",
-        "image": "https://assets-prd.ignimgs.com/2026/08/14/marvel-doomsday-poster-revealed-countdown-stream-change-1786726801531.jpg",
         "score": 94
       },
       {
         "category": "游戏影视",
         "tag": "GTA6",
-        "title": "核周报11.21：GTA6评分99分追平时之笛",
+        "title": "核周报11.21：《GTA6》评分99分追平时之笛",
         "link": "https://www.gcores.com/radios/222330",
-        "summary": "本期核周报要点：《GTA6》MC媒体评分99分追平《时之笛》，预购超1700万份破纪录；TGA提名公布，《GTA6》未发售先获8项提名领跑，《影之刃零》获五项提名；BLG 3:1击败GEN夺S16冠军。",
-        "comment": "GTA6未发售已封神，TGA提名更像提前加冕。",
+        "summary": "本期要闻：《GTA6》MC媒体评分99分追平《时之笛》，预购超1700万份破纪录；TGA提名公布，《GTA6》未发售先获8项提名领跑，《影之刃零》获五项提名；BLG 3:1击败GEN夺S16冠军。",
+        "comment": "《GTA6》未发售已封神，但评分与销量仍需正式发售检验。",
         "image": "",
-        "score": 92
+        "score": 93
       },
       {
         "category": "数码科技",
         "tag": "美股",
         "title": "美股一夜崩盘，AI泡沫真要破了？",
         "link": "https://www.ifanr.com/1690789?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿讨论美股单夜大跌与AI泡沫是否破裂，聚焦市场对AI高估值的担忧及行情波动。",
-        "comment": "标题吸睛，但需数据与基本面支撑判断。",
+        "summary": "爱范儿分析美股单夜大跌与AI概念股回调，讨论AI泡沫是否面临破裂风险，并引导关注其公众号获取更多内容。",
+        "comment": "市场情绪转向，但泡沫判断仍需看业绩兑现。",
         "image": "",
         "score": 91
       },
@@ -148,7 +118,7 @@
         "title": "曝Claude证明黎曼猜想，陶哲轩回应",
         "link": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "爱范儿早报：传Claude证明黎曼猜想，陶哲轩回应；余承东更正发布会表述称开车不能睡觉；五月天公布Vision Pro演唱会，Apple Store可预约体验。",
-        "comment": "黎曼猜想传闻需谨慎，AI数学能力仍待验证。",
+        "comment": "AI数学传闻需谨慎，别把营销当突破。",
         "image": "",
         "score": 91
       },
@@ -157,70 +127,10 @@
         "tag": "明日方舟终末地",
         "title": "《明日方舟：终末地》2.0版本11月25日上线",
         "link": "https://www.gcores.com/articles/222631",
-        "summary": "《明日方舟：终末地》前瞻节目公布2.0版本PV，新版本11月25日上线，新干员小刻登场，全新区域旧水坝开放。",
-        "comment": "蘑菇主题版本加2.0揭幕，内容量值得期待。",
+        "summary": "《明日方舟：终末地》前瞻节目公布2.0版本PV，新版本11月25日上线，新增干员小刻与区域旧水坝，并启动蘑菇追人事件调查。",
+        "comment": "版本更新节奏稳定，蘑菇主题能否撑起2.0热度待观察。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "扫地机器人",
-        "title": "科沃斯Deebot T90 Pro Omni黑五549美元",
-        "link": "https://www.ign.com/articles/the-ecovacs-deebot-t90-pro-omni-robot-vacuum-delivers-incredible-30000pa-suction-and-more-high-end-features-for-549-during-black-friday",
-        "summary": "IGN报道，科沃斯Deebot T90 Pro Omni扫地机器人黑五售价549美元，具备30000Pa吸力等高端功能，适合作为清洁礼品。",
-        "comment": "吸力参数亮眼，黑五价是主要卖点。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/13/untitled-design-23-1794613345772.png",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "俄乌冲突",
-        "title": "泽连斯基称克里米亚大桥遇袭是“公平回应”",
-        "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-        "summary": "泽连斯基在会见英国官员斯特里廷时表示，乌克兰对克里米亚大桥的打击是对俄方109次空袭乌桥梁的回应。",
-        "comment": "乌方以对等反击定调，冲突升级风险仍高。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "洛杉矶山火",
-        "title": "洛杉矶帕利塞兹山火纵火案嫌疑人被定罪",
-        "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-        "summary": "洛杉矶一名30岁居民被判纵火罪成立，其引发的山火造成12人死亡、逾6800栋建筑被毁。",
-        "comment": "灾情惨重，定罪只是追责第一步。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏优惠",
-        "title": "IGN今日游戏优惠：寂静岭Townfall、时之笛重制版等",
-        "link": "https://www.ign.com/articles/best-deals-for-november-21-2026",
-        "summary": "IGN汇总11月21日游戏优惠，涵盖《寂静岭Townfall》《塞尔达传说：时之笛》重制版及《Control Resonant》等作品。",
-        "comment": "优惠信息实用，但重制版消息更值得关注。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/21/daily-deals-ign-11-21-1795297067073.png",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "英欧关系",
-        "title": "米利班德：与欧盟协议不取决于学费问题",
-        "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-        "summary": "英国部长米利班德表示，与欧盟达成的整体协议不依赖学费安排；此前布鲁塞尔消息称，欧盟或暂缓执行协议，直到英国下调欧盟学生学费。",
-        "comment": "英欧博弈把学生学费当筹码，谈判互信仍脆弱。",
-        "image": "",
-        "score": 85
-      },
-      {
-        "category": "时事热点",
-        "tag": "华盛顿",
-        "title": "华盛顿头发拍出4000美元",
-        "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-        "summary": "美国前总统乔治·华盛顿的一缕头发以4000美元售出。据原持有者后代称，这缕头发是1799年华盛顿去世前不久作为友谊象征赠出的。",
-        "comment": "历史遗物有市场，但价格更多来自符号价值。",
-        "image": "",
-        "score": 82
+        "score": 90
       }
     ]
   }
