@@ -7,18 +7,18 @@
         "tag": "OpenAI",
         "title": "OpenAI用性能工厂保持ChatGPT高速运行",
         "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "summary": "OpenAI介绍Performance Factory系统，利用Codex驱动的工作流自动发现并修复性能问题，从而维持ChatGPT的快速响应。",
-        "comment": "工程化性能治理值得关注，但细节披露有限。",
+        "summary": "OpenAI介绍其Performance Factory系统，借助Codex驱动的工作流自动发现并修复性能问题，从而维持ChatGPT的响应速度。",
+        "comment": "性能工程正从人工调优转向自动化闭环。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI演示Codex安全插件工作流程",
+        "title": "OpenAI演示Codex安全插件工作流",
         "link": "https://openai.com/business/learn/codex-security-plugin-demo",
         "summary": "OpenAI发布Codex安全插件演示视频，展示从入门配置到结果审查的完整工作流程。",
-        "comment": "安全插件补齐Codex企业落地短板，值得关注。",
+        "comment": "安全插件落地演示，有助于开发者理解实际用法。",
         "image": "",
         "score": 100
       },
@@ -27,8 +27,8 @@
         "tag": "OpenAI",
         "title": "OpenAI演示PR扫描功能",
         "link": "https://openai.com/business/learn/pr-scans-demo",
-        "summary": "OpenAI发布演示视频，展示在拉取请求工作流中查看和审阅PR扫描结果的操作流程。",
-        "comment": "AI代码审查工具正加速融入开发流程。",
+        "summary": "OpenAI发布演示视频，展示在拉取请求工作流中如何查看和审阅PR扫描结果，帮助理解代码审查流程。",
+        "comment": "演示实用，但信息增量有限。",
         "image": "",
         "score": 100
       },
@@ -37,8 +37,8 @@
         "tag": "OpenAI",
         "title": "OpenAI发布Daybreak Blue入门演示",
         "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-        "summary": "OpenAI发布Daybreak Blue入门演示视频，展示初始设置流程与上手方式，帮助用户快速了解该产品的配置体验。",
-        "comment": "演示偏入门，信息量有限，价值在于降低上手门槛。",
+        "summary": "OpenAI发布Daybreak Blue上手演示视频，展示初始设置流程与入门操作，帮助用户快速了解该产品的配置体验。",
+        "comment": "演示偏基础，实际价值待产品落地验证。",
         "image": "",
         "score": 100
       },
@@ -47,8 +47,8 @@
         "tag": "OpenAI",
         "title": "OpenAI发布Daybreak Red部署参考架构",
         "link": "https://openai.com/business/learn/deploying-daybreak-red",
-        "summary": "OpenAI介绍Daybreak Red监督式安全调查参考架构，涵盖安全控制、部署配置与监控方案，面向企业安全团队落地使用。",
-        "comment": "AI安全调查走向工程化，参考架构降低企业落地门槛。",
+        "summary": "OpenAI介绍Daybreak Red在监督式安全调查中的参考架构，涵盖安全控制、部署配置与监控方案。",
+        "comment": "安全调查自动化落地，关键在可控与可审计。",
         "image": "",
         "score": 100
       }
