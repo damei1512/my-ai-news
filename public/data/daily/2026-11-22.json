@@ -4,93 +4,43 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "机器人",
+        "tag": "人工智能",
         "title": "BioMARS 2.0：让机器人从实验执行走向科学决策",
         "link": "https://www.jiqizhixin.com/articles/2026-11-22-6",
-        "summary": "机器之心报道，BioMARS 2.0 定位新一代机器人生物学家，核心是让机器人从单纯执行实验转向参与科学决策，推动生物实验自动化升级。",
-        "comment": "从执行工具到决策主体，机器人科研的关键一步。",
+        "summary": "机器之心报道，BioMARS 2.0 打造新一代机器人生物学家，推动机器人从实验执行转向科学决策。",
+        "comment": "从动手到动脑，科研自动化迈出关键一步。",
         "image": "https://image.jiqizhixin.com/uploads/article/cover_image/ee81ca60-fbcc-4c37-a4d6-fde0628dbc65/0__14_(2).jpg?imageView2/1/w/390/h/282",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "具身智能",
-        "title": "Mind2Act World发布通用基准 评估具身模型进化",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-22-5",
-        "summary": "机器之心报道，Mind2Act World提出通用基准，以知行合一视角诊断VLA与WAM等具身模型，为进化方向提供评估依据。",
-        "comment": "具身智能需要统一标尺，基准之争才刚开始。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/45b2745f-431f-4dc3-93f7-3972c86bc56f/0__13_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Claude参与证明黎曼猜想并通过独立验证",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-22-2",
-        "summary": "机器之心报道，Claude参与黎曼猜想的证明工作，相关结果已通过独立验证，若属实将是数学与AI交叉领域的重大事件。",
-        "comment": "AI介入顶级数学证明，需等待学界正式确认。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/5fa77e1c-69ad-4ac4-82e4-a09359ff1efd/0__10_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI 探讨困惑度与智能评估",
+        "title": "OpenAI探讨困惑度与AI模型能力评估",
         "link": "https://openai.com/index/perplexity-and-intelligence",
-        "summary": "OpenAI 发文解释困惑度如何衡量 AI 模型进展，以及为何它能帮助开发者建立评估新兴能力的共享方法。",
-        "comment": "困惑度只是代理指标，统一评估仍需多维标准。",
+        "summary": "OpenAI发文解释困惑度如何衡量AI模型进展，以及为何它有助于开发者建立评估新兴能力的共同方法。",
+        "comment": "困惑度只是评估维度之一，难覆盖真实能力。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "数据中心",
-        "title": "数据中心为何成为大科技反弹焦点",
-        "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-        "summary": "记者Paris Marx在新书《Hyperscale》中剖析数据中心如何成为大科技公司遭遇反弹的核心，揭示超大规模基础设施背后的争议。",
-        "comment": "数据中心争议折射AI扩张的社会成本。",
-        "image": "",
-        "score": 99
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI首席科学家谈如何限制AI开发速度",
         "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-        "summary": "OpenAI首席科学家提出，要为AI开发设定速度上限，前提是各方先就如何衡量开发速度达成一致。",
-        "comment": "限速之争，先卡在度量标准上。",
+        "summary": "OpenAI首席科学家提出，要为AI开发设定速度上限，首先需就如何衡量开发速度达成共识。",
+        "comment": "限速AI的前提是先统一度量标准，否则难以落地。",
         "image": "",
-        "score": 98
+        "score": 99
       },
       {
-        "category": "数码科技",
-        "tag": "Claude",
-        "title": "Claude 黎曼猜想证明获 Lean 官方认证，马斯克称惊人成就",
-        "link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，Claude 对黎曼猜想的证明已获 Lean 官方认证，马斯克对此评价为惊人成就，引发对 AI 数学能力的关注。",
-        "comment": "若认证属实，AI 攻克顶级数学难题将成里程碑。",
+        "category": "人工智能",
+        "tag": "数据中心",
+        "title": "数据中心为何成为大科技反弹焦点",
+        "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+        "summary": "记者Paris Marx在新书《Hyperscale》中剖析数据中心如何成为大科技公司遭反弹的核心，揭示超大规模基础设施背后的争议。",
+        "comment": "数据中心争议折射AI扩张的社会成本。",
         "image": "",
-        "score": 94
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6开发者以游戏内纪念地悼念亡母",
-        "link": "https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit",
-        "summary": "一名GTA 6开发者在游戏里的Leonida地区设置了一处纪念地，用以悼念已故母亲，玩家可以自行找到并前往。",
-        "comment": "私人情感融入开放世界，让虚拟空间多了一层真实温度。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/22/gta-6-memorial-1795389611043.png",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "游戏硬件",
-        "title": "Alienware Aurora RTX 5070游戏PC黑五降至1899美元",
-        "link": "https://www.ign.com/articles/alienware-aurora-rtx-5070-gaming-pc-deal-november-2026",
-        "summary": "亚马逊黑五期间，Alienware Aurora RTX 5070游戏PC售价1899美元；戴尔/Alienware官网同配置标价2660美元。",
-        "comment": "同款价差近三成，亚马逊黑五折扣力度可观。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/22/alienwareaurorar162-1795388084075.jpg",
-        "score": 92
+        "score": 99
       },
       {
         "category": "数码科技",
@@ -98,77 +48,17 @@
         "title": "iPhone 18大更新明年春见，苹果挑战才刚开始",
         "link": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=",
         "summary": "爱范儿称iPhone 18将迎大更新并于明年春季发布，但更多新品难掩苹果在AI领域的焦虑。",
-        "comment": "硬件更新易，AI短板难补，苹果压力在后头。",
+        "comment": "硬件更新易，AI短板难补，苹果需加速追赶。",
         "image": "",
         "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "GTA 6",
-        "title": "伟大的GTA 6，「不好玩」的GTA 6",
-        "link": "https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿讨论GTA 6在追求真实与守法体验后，是否还保留GTA系列标志性的自由与乐趣。",
-        "comment": "真实感与自由度如何平衡，是GTA 6的关键考验。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "游戏影视",
-        "tag": "Bose",
-        "title": "Bose QuietComfort降噪耳机粉色版黑五降至125美元",
-        "link": "https://www.ign.com/articles/pink-bose-quietcomfort-noise-canceling-headphone-deal-november-2026",
-        "summary": "Bose QuietComfort降噪耳机花瓣粉配色黑五促销价125美元，比此前最低价再低近25%。",
-        "comment": "降噪耳机好价，粉色版折扣力度罕见。",
-        "image": "https://assets-prd.ignimgs.com/2026/11/22/bosequietcomfortpink-1795387147603.jpg",
-        "score": 91
-      },
-      {
-        "category": "时事热点",
-        "tag": "芬兰湾",
-        "title": "芬兰湾一驶往俄罗斯船只遭袭后被拖离",
-        "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-        "summary": "芬兰国防军称，周六针对一艘驶往俄罗斯船只的无人机袭击很可能由乌克兰实施，基辅方面尚未回应。",
-        "comment": "波罗的海航运安全风险上升，各方表态仍待观察。",
-        "image": "",
-        "score": 87
-      },
-      {
-        "category": "时事热点",
-        "tag": "英国",
-        "title": "伯纳姆将向议员称欧盟协议可让未来十年更好",
-        "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-        "summary": "英国首相将向议员表示，周五达成的协议是在“破碎的现状或改变”之间做选择，并称其为“里程碑式”协议。",
-        "comment": "脱欧后关系再校准，关键看议会能否买单。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "印尼",
-        "title": "印尼糖果厂火灾致3死数十人失踪",
-        "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-        "summary": "印尼一家糖果厂发生火灾，至少3人死亡，数十人失踪，恐有更多遇难者。",
-        "comment": "工厂安全漏洞再次以生命为代价暴露。",
-        "image": "",
-        "score": 86
-      },
-      {
-        "category": "时事热点",
-        "tag": "韩国",
-        "title": "韩国教育部长因高考作弊丑闻辞职",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-        "summary": "韩国教育部长官崔教镇因大学入学考试中防范AI作弊的临场措施引发混乱而辞职。",
-        "comment": "防AI作弊反致混乱，暴露考试治理短板。",
-        "image": "",
-        "score": 86
       },
       {
         "category": "时事热点",
         "tag": "娱乐",
-        "title": "麦莉·赛勒斯在加州与马克斯·莫兰多结婚",
+        "title": "麦莉·赛勒斯与马克斯·莫兰多加州完婚",
         "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-        "summary": "两人交往四年，2025年订婚，近日在加州举行婚礼。BBC报道了这场婚礼。",
-        "comment": "明星婚讯属娱乐八卦，公共信息价值有限。",
+        "summary": "据BBC报道，麦莉·赛勒斯与交往四年的马克斯·莫兰多在加州举行婚礼，两人于2025年订婚。",
+        "comment": "娱乐新闻，公众关注度有限。",
         "image": "",
         "score": 81
       }
