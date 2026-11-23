@@ -7,18 +7,18 @@
         "tag": "OpenAI",
         "title": "OpenAI用性能工厂保持ChatGPT高速运行",
         "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "summary": "OpenAI介绍其Performance Factory系统，借助Codex驱动的工作流自动发现并修复性能问题，从而维持ChatGPT的响应速度。",
-        "comment": "性能工程自动化正成为大模型产品竞争的关键一环。",
+        "summary": "OpenAI介绍其性能工厂系统，利用Codex驱动的工作流自动发现并修复性能问题，从而持续保障ChatGPT的响应速度。",
+        "comment": "性能优化工程化，是模型产品化的关键一环。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布Daybreak Red安全调查部署架构",
+        "title": "OpenAI发布Daybreak Red部署参考架构",
         "link": "https://openai.com/business/learn/deploying-daybreak-red",
-        "summary": "OpenAI介绍Daybreak Red参考架构，用于受监督的安全调查，涵盖安全控制、部署配置与监控方案。",
-        "comment": "AI安全调查落地，关键在可控与可审计。",
+        "summary": "OpenAI介绍Daybreak Red的参考架构，用于受监督的安全调查，涵盖安全控制、部署配置与监控方案。",
+        "comment": "安全调查工具落地，关键在可控与可审计。",
         "image": "",
         "score": 100
       },
@@ -35,10 +35,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布Daybreak Blue入门指南",
+        "title": "OpenAI发布Daybreak Blue入门演示",
         "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-        "summary": "OpenAI发布Daybreak Blue入门演示，展示产品设置流程与上手方式，帮助用户快速了解并开始使用该服务。",
-        "comment": "演示偏基础，实际价值取决于产品能力。",
+        "summary": "OpenAI发布Daybreak Blue入门演示视频，展示产品设置流程与上手方式，帮助用户了解如何开始使用。",
+        "comment": "演示偏操作指引，信息增量有限。",
         "image": "",
         "score": 100
       },
@@ -47,8 +47,8 @@
         "tag": "OpenAI",
         "title": "OpenAI演示Codex安全插件工作流",
         "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-        "summary": "OpenAI发布Codex安全插件演示视频，展示从入门配置到结果审查的完整工作流程。",
-        "comment": "安全插件落地演示，AI编程工具向企业合规迈进。",
+        "summary": "OpenAI发布Codex安全插件演示视频，展示从初始配置到结果审查的完整工作流程，帮助用户了解该插件在实际场景中的使用方式。",
+        "comment": "安全插件补齐Codex企业落地短板，演示比文档更直观。",
         "image": "",
         "score": 100
       }
