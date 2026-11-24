@@ -4,11 +4,11 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "人工智能",
-        "title": "OpenAI 多层策略应对对抗性蒸馏",
+        "tag": "OpenAI",
+        "title": "OpenAI发布对抗蒸馏防护多层策略",
         "link": "https://openai.com/index/combatting-adversarial-distillation",
-        "summary": "OpenAI 介绍对抗性蒸馏的分层防护方案，结合模型训练、安全措施、检测与执法，防止模型能力被非法提取。",
-        "comment": "模型能力保护正从训练延伸到检测与执法。",
+        "summary": "OpenAI提出分层对抗蒸馏防护方案，结合模型训练、安全防护、检测与执法，防止模型能力被非法提取。",
+        "comment": "能力提取攻防升级，模型安全需多层协同。",
         "image": "",
         "score": 100
       },
@@ -17,18 +17,18 @@
         "tag": "GPT-6",
         "title": "Hebbia测试GPT-6 Astra：金融研究能力提升",
         "link": "https://openai.com/business/customer-stories/hebbia",
-        "summary": "Hebbia对预发布版GPT-6 Astra进行金融研究测试，发现其在来源覆盖、引用相关性和呈现质量上均有提升。",
-        "comment": "金融研究场景验证GPT-6实用价值，但需警惕预发布评估偏差。",
+        "summary": "Hebbia对预发布版GPT-6 Astra进行金融研究测试，在来源覆盖、引用相关性和呈现质量上均见提升。",
+        "comment": "金融研究场景验证了模型实用性，但预发布数据仍需独立复核。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
-        "tag": "OpenAI",
+        "tag": "AI制药",
         "title": "OpenAI发布MedChemBench评估AI药物发现能力",
         "link": "https://openai.com/index/introducing-medchembench",
         "summary": "MedChemBench用于评估AI模型解读分子结构、基于实验证据推理及筛选早期药物发现化合物的能力。",
-        "comment": "基准测试推动AI药物发现从概念走向可量化评估。",
+        "comment": "基准测试补上AI制药评估一环，但离真实研发仍有距离。",
         "image": "",
         "score": 100
       }
