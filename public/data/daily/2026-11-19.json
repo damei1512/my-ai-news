@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI用Codex打造性能工厂保持ChatGPT高速运行",
+        "title": "OpenAI用性能工厂保持ChatGPT高速运行",
         "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "summary": "OpenAI介绍其Performance Factory系统，通过Codex驱动的工作流自动发现并修复性能问题，从而保障ChatGPT的响应速度。",
-        "comment": "自动化性能治理正成为大模型产品化的关键基建。",
+        "summary": "OpenAI介绍Performance Factory系统，利用Codex驱动的工作流自动发现并修复性能问题，从而维持ChatGPT的快速响应。",
+        "comment": "性能工程自动化正成为大模型产品竞争的关键一环。",
         "image": "",
         "score": 100
       },
@@ -17,8 +17,8 @@
         "tag": "OpenAI",
         "title": "OpenAI演示PR扫描功能",
         "link": "https://openai.com/business/learn/pr-scans-demo",
-        "summary": "OpenAI发布演示视频，展示PR扫描功能在拉取请求工作流中的实际应用，演示者逐步讲解如何查看和审阅扫描结果。",
-        "comment": "AI辅助代码审查落地，但实际效果仍需开发者验证。",
+        "summary": "OpenAI发布演示视频，展示在拉取请求工作流中查看和审阅PR扫描结果的操作流程。",
+        "comment": "演示偏工具教学，实用但缺技术突破。",
         "image": "",
         "score": 100
       },
@@ -27,8 +27,8 @@
         "tag": "OpenAI",
         "title": "OpenAI发布Daybreak Blue入门演示",
         "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-        "summary": "OpenAI发布Daybreak Blue入门演示视频，展示初始设置流程与上手方式，帮助用户快速了解该产品的配置体验。",
-        "comment": "演示偏重上手流程，产品能力细节仍有限。",
+        "summary": "OpenAI发布Daybreak Blue入门演示视频，展示产品设置流程与上手方式，帮助用户了解如何开始使用该服务。",
+        "comment": "演示偏入门，信息增量有限，重在降低上手门槛。",
         "image": "",
         "score": 100
       }

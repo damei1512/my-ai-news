@@ -1,12 +1,12 @@
 {
   "run_id": 1,
-  "generated_at": "2026-11-24T03:52:26Z",
+  "generated_at": "2026-11-24T17:02:28Z",
   "source_health_path": "/home/runner/work/my-ai-news/my-ai-news/public/data/source-health.json",
   "summary": {
     "total_sources": 9,
-    "healthy_sources": 7,
+    "healthy_sources": 8,
     "degraded_sources": 0,
-    "unhealthy_sources": 2
+    "unhealthy_sources": 1
   },
   "sources": [
     {
@@ -66,15 +66,15 @@
     {
       "source_id": "ifanr",
       "source_name": "爱范儿",
-      "status": "parse_error",
-      "items_fetched": 0,
-      "active_url": null,
+      "status": "success",
+      "items_fetched": 10,
+      "active_url": "https://www.ifanr.com/feed",
       "attempted_urls": [
         "https://www.ifanr.com/feed"
       ],
       "backup_urls": [],
       "fallback_used": false,
-      "error_message": "bozo parse error: text/html is not an XML media type"
+      "error_message": null
     },
     {
       "source_id": "gcores",
