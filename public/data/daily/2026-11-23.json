@@ -4,143 +4,43 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic推出Claude Ship，AI代理可审查修复并批准代码变更",
-        "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-        "summary": "随着AI生成代码激增，Anthropic推出开发者工具Claude Ship，让AI代理处理常规代码审查、修复与批准，以减少人工审批瓶颈。",
-        "comment": "AI代理进入代码审批环节，效率提升与风险控制需同步权衡。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "人工智能",
-        "title": "Megaspeed或将被列入美国黑名单",
-        "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-        "summary": "处于黄仁勋丑闻中心的Megaspeed，此前由Alice Huang领导，或将被禁止与美国公司交易，除非获得联邦政府特别许可。",
-        "comment": "AI芯片供应链的合规风险正在外溢。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "OpenAI",
         "title": "OpenAI与思科推出开源Linux运行时Shirudo",
         "link": "https://openai.com/index/introducing-shirudo",
-        "summary": "OpenAI与思科发布开源Linux运行时Shirudo，帮助团队在推送补丁期间保护正在运行的系统。",
-        "comment": "安全补丁窗口期的防护缺口值得关注。",
+        "summary": "OpenAI与思科发布开源Linux运行时Shirudo，帮助团队在推送补丁期间保护运行中的系统，降低更新风险。",
+        "comment": "补丁窗口期的安全防护是刚需，开源利于推广。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "OpenAI探讨AI赋能企业内部法务团队",
+        "title": "OpenAI探讨AI赋能企业法务团队",
         "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-        "summary": "OpenAI与LECG、Cooley专家探讨AI如何帮助内部法务团队连接业务背景、构建可复用工具，提升法务工作效率。",
-        "comment": "AI落地法务场景，关键在业务上下文而非模型本身。",
+        "summary": "OpenAI与LECG、Cooley专家讨论AI如何帮助内部法务团队连接业务背景、构建可复用工具，提升法务工作效率。",
+        "comment": "AI落地垂直场景，法务知识管理是值得关注的切口。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "AI客服",
-        "title": "Richpanel借助OpenAI模型30天自动化50%客服",
+        "title": "Richpanel借助GPT-6系列30天自动化50%客服",
         "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-        "summary": "Richpanel使用GPT-6 Astra和GPT-6.1 Sol为AI客服代理配置工具与流程，并用GPT-6 Luna处理对话，30天内自动化50%客服工作。",
-        "comment": "客服自动化进入规模化落地阶段，模型分工是关键。",
+        "summary": "Richpanel使用GPT-6 Astra与GPT-6.1 Sol为AI客服代理配备工具和流程，并用GPT-6 Luna处理对话，30天内自动化50%的客服工作。",
+        "comment": "客服自动化进入规模化落地阶段，效率提升显著。",
         "image": "",
         "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "英伟达",
-        "title": "黄仁勋在英伟达丑闻后复职，马斯克等人表示欢迎",
-        "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-        "summary": "英伟达在丑闻后将黄仁勋复职，马斯克称“错误已纠正”。事件引发科技界关注，但报道未披露丑闻细节。",
-        "comment": "人事反转折射治理争议，信息仍不完整。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "谷歌",
-        "title": "谷歌搜索AI模式接入Drive和Wallet",
-        "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-        "summary": "谷歌将个人智能功能扩展至Drive、Wallet和Gemini应用，使AI模式能调用用户生态内数据，提供更个性化回答。",
-        "comment": "谷歌用数据闭环强化AI搜索护城河，隐私边界待观察。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI投资",
-        "title": "Supertake融资2000万美元，用AI代理将市场预测转为股票组合",
-        "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-        "summary": "Supertake获2000万美元融资，用户无需选股，只需表达市场判断，AI代理即可据此构建股票投资组合。",
-        "comment": "AI代理切入投资组合构建，降低选股门槛但风险仍需警惕。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "英伟达",
-        "title": "黄仁勋重返英伟达总部 员工英雄式迎接",
-        "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-        "summary": "英伟达CEO黄仁勋返回公司总部，受到员工英雄式欢迎。他对员工表示，自己第二次担任CEO会做得更好。",
-        "comment": "领袖魅力难掩市场对英伟达高预期的审视。",
-        "image": "",
-        "score": 97
       },
       {
         "category": "数码科技",
         "tag": "英伟达",
         "title": "黄仁勋重返英伟达，董事会全票通过，盘前大涨30%",
         "link": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "英伟达董事会全票通过黄仁勋重返公司，消息公布后盘前股价大涨30%，市场反应强烈。",
-        "comment": "核心人物回归提振信心，但涨幅需警惕情绪过热。",
+        "summary": "英伟达董事会全票通过黄仁勋重返公司，消息公布后其盘前股价大涨30%，引发市场高度关注。",
+        "comment": "核心人物回归叠加股价异动，信号意义强。",
         "image": "",
         "score": 93
-      },
-      {
-        "category": "数码科技",
-        "tag": "英伟达",
-        "title": "黄仁勋恢复英伟达CEO职位，董事会全票通过",
-        "link": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=",
-        "summary": "爱范儿报道，英伟达董事会全票通过，黄仁勋恢复CEO职位。该消息为突发，具体背景与生效时间未在摘要中说明。",
-        "comment": "人事反转突发，需核实细节与官方口径。",
-        "image": "",
-        "score": 93
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "GTA 6故障险些毁掉标志性场景",
-        "link": "https://www.gamespot.com/articles/this-gta-6-glitch-almost-ruined-the-games-most-iconic-scene/",
-        "summary": "GameSpot报道称，GTA 6第二章关键任务中出现故障，几乎破坏了游戏最具标志性的场景，该片段正成为玩家最爱之一。",
-        "comment": "技术故障暴露品控隐忧，标志性场景不容闪失。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-glitch.jpg?w=300",
-        "score": 92
-      },
-      {
-        "category": "游戏影视",
-        "tag": "GTA 6",
-        "title": "美银分析师：GTA 6在线模式或超越堡垒之夜",
-        "link": "https://www.gamespot.com/articles/gta-6-online-could-be-bigger-than-fortnite-bank-of-america-stock-analyst-says/",
-        "summary": "美银证券分析师称，GTA 6在线模式有望比堡垒之夜更庞大。Rockstar母公司Take-Two目前势头强劲，GTA 6据报已售4500万份、收入40亿美元。",
-        "comment": "分析师看好GTA 6在线模式的长期吸金能力。",
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6Online.png?w=300",
-        "score": 92
-      },
-      {
-        "category": "时事热点",
-        "tag": "吉赛尔·佩利科特",
-        "title": "吉赛尔·佩利科特裸照被发给媒体用于宣传新书，本人称遭羞辱",
-        "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-        "summary": "一本关于强制控制的文集出版方将吉赛尔·佩利科特的裸照发给媒体用于宣传，出版方已为此道歉，佩利科特称此事令她感到羞辱。",
-        "comment": "以受害者裸照做宣传，道歉之外更应追问责任。",
-        "image": "",
-        "score": 86
       }
     ]
   }

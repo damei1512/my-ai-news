@@ -5,30 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布对抗蒸馏防护分层方案",
+        "title": "OpenAI发布对抗蒸馏防护方案",
         "link": "https://openai.com/index/combatting-adversarial-distillation",
-        "summary": "OpenAI提出分层对抗蒸馏防护，结合模型训练、安全措施、检测与执法，防止模型能力被非法提取。",
-        "comment": "能力防提取正成为大模型安全新战线。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "GPT-6",
-        "title": "Hebbia测试GPT-6 Astra：金融研究能力提升",
-        "link": "https://openai.com/business/customer-stories/hebbia",
-        "summary": "Hebbia对预发布版GPT-6 Astra进行金融研究测试，发现其在来源覆盖、引用相关性和呈现质量上均有提升。",
-        "comment": "金融研究场景的实测反馈，比跑分更有参考价值。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "AI制药",
-        "title": "OpenAI发布MedChemBench评估AI药物发现能力",
-        "link": "https://openai.com/index/introducing-medchembench",
-        "summary": "MedChemBench用于评估AI模型在早期药物发现中解读分子结构、基于实验证据推理及筛选化合物的能力。",
-        "comment": "基准测试推动AI制药从概念走向可验证。",
+        "summary": "OpenAI提出分层对抗蒸馏防护方案，结合模型训练、安全措施、检测与执法，防止模型能力被非法提取。",
+        "comment": "能力防提取成模型安全新战场，落地效果待观察。",
         "image": "",
         "score": 100
       }
