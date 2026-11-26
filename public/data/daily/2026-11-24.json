@@ -4,123 +4,53 @@
     "articles": [
       {
         "category": "人工智能",
-        "tag": "具身智能",
-        "title": "网易灵动与柳工达成战略合作，具身智能商业化提速",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-24-11",
-        "summary": "网易灵动与柳工达成战略合作，推动具身智能落地工程机械场景，单季作业量已超去年全年，商业化进程明显加快。",
-        "comment": "具身智能正从演示走向真实产线，工程机械或是率先跑通的场景。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/f5239e13-9ce1-40bf-a882-c6214a50b9fb/%E5%9B%BE%E7%89%871(2).png?imageView2/1/w/390/h/282",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
         "tag": "GPT-6",
-        "title": "OpenAI称GPT-6展现内在蛋白质设计能力",
+        "title": "GPT-6展现内在蛋白质设计能力",
         "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-        "summary": "OpenAI表示，GPT-6通过推理与代码设计蛋白质结构和序列，实验室测试在五个靶点上发现结合证据。",
-        "comment": "AI从生成文本走向设计分子，验证仍待同行评审。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI展示Astra助业余天文学家搜寻系外行星",
-        "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
-        "summary": "OpenAI介绍两名业余天文学家利用Codex与Astra，在NASA开普勒和TESS望远镜公开数据中寻找潜在系外行星。",
-        "comment": "AI工具正把专业级天文分析下放给业余爱好者。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI案例：Intentful用dots智能体提升效率",
-        "link": "https://openai.com/business/customer-stories/intentful-dots",
-        "summary": "OpenAI发布客户案例，介绍Intentful的dot Aria可自动调研网站、生成方案，并主动标记消息、解决问题，为团队腾出增长时间。",
-        "comment": "智能体落地企业流程，价值在省时而非炫技。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "编码代理",
-        "title": "iFood如何将编码代理扩展至1.5万个代码库",
-        "link": "https://openai.com/business/customer-stories/ifood",
-        "summary": "OpenAI发布iFood案例，介绍其如何在1.5万个代码库中规模化部署编码代理，提升开发效率。",
-        "comment": "编码代理规模化落地，工程化能力是关键。",
-        "image": "",
-        "score": 100
-      },
-      {
-        "category": "人工智能",
-        "tag": "OpenAI",
-        "title": "OpenAI：Clay借助Codex与ChatGPT提升销售效率",
-        "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
-        "summary": "Clay集成ChatGPT与Codex，帮助用户研究交易并将数据转化为市场策略，由GPT-6模型负责推理。",
-        "comment": "AI正从辅助工具变为销售流程的核心引擎。",
+        "summary": "GPT-6通过推理与代码设计蛋白质结构和序列，实验室测试在五个靶点上发现结合证据。",
+        "comment": "AI从语言走向分子设计，实验验证是关键一步。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "人工智能",
-        "title": "机器之心：看一遍就会，60ms出手，最强生产力模型来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-11-24-13",
-        "summary": "机器之心报道一款新模型，称其看一遍就能学会任务，响应仅60毫秒，并冠以最强生产力模型。",
-        "comment": "标题夸张，需看实测与可复现性。",
-        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/7700abe9-cf91-47a4-abaf-2930cd8097d3/0__61_(2).jpg?imageView2/1/w/390/h/282",
-        "score": 99
+        "title": "OpenAI展示Astra辅助发现系外行星",
+        "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "summary": "两名业余天文学家借助Codex与Astra，在NASA开普勒和TESS望远镜公开数据中寻找潜在系外行星。",
+        "comment": "AI正降低天文科研门槛，但发现仍需专业验证。",
+        "image": "",
+        "score": 100
       },
       {
-        "category": "数码科技",
-        "tag": "华为",
-        "title": "华为发布大折叠手机与小折叠电脑，鸿蒙设备破亿成焦点",
-        "link": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign",
-        "summary": "华为推出大折叠手机和小折叠电脑，但鸿蒙设备突破1亿台才是核心亮点，显示其生态规模加速扩张。",
-        "comment": "硬件是表象，鸿蒙生态破亿才是华为真正的底牌。",
+        "category": "人工智能",
+        "tag": "AI智能体",
+        "title": "OpenAI案例：Intentful用dots智能体提效增长",
+        "link": "https://openai.com/business/customer-stories/intentful-dots",
+        "summary": "Marina Petrova的dot Aria可研究网站、生成提案，并主动标记消息、解决问题，为团队腾出增长时间。",
+        "comment": "AI智能体正从工具变为主动协作伙伴。",
         "image": "",
-        "score": 92
+        "score": 100
       },
       {
-        "category": "数码科技",
-        "tag": "比亚迪",
-        "title": "18.79万元起，比亚迪唐EV上市，续航850km",
-        "link": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign",
-        "summary": "比亚迪唐EV正式上市，起售价18.79万元，取消七座布局，续航提升至850公里，并配备线控底盘。",
-        "comment": "砍掉第三排换续航，唐EV的取舍很务实。",
+        "category": "人工智能",
+        "tag": "编码智能体",
+        "title": "iFood如何跨1.5万仓库扩展编码智能体",
+        "link": "https://openai.com/business/customer-stories/ifood",
+        "summary": "OpenAI发布iFood案例，介绍其如何在1.5万个代码仓库中规模化部署编码智能体，提升开发效率与自动化水平。",
+        "comment": "编码智能体从单点试用走向大规模工程化，值得关注。",
         "image": "",
-        "score": 91
+        "score": 100
       },
       {
-        "category": "数码科技",
-        "tag": "AI Agent",
-        "title": "实测小豆：AI主动办事，Personal Agent走向大众",
-        "link": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign",
-        "summary": "爱范儿实测小豆，指出Personal Agent下半场竞争焦点是主动办事能力，AI正从被动响应转向主动服务，并加速走向普通用户。",
-        "comment": "主动办事是Agent落地的关键分水岭。",
+        "category": "人工智能",
+        "tag": "人工智能",
+        "title": "Clay借助Codex与ChatGPT提升销售效率",
+        "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+        "summary": "Clay集成ChatGPT与Codex，帮助用户研究交易并将数据转化为市场策略，GPT-6模型负责推理。",
+        "comment": "AI正从辅助工具变为销售流程的核心引擎。",
         "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "AI",
-        "title": "AI动摇考试信任：技术平权降低作弊门槛",
-        "link": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign",
-        "summary": "AI技术平权降低了作弊门槛，在长期相信考试改变命运的社会中，人们对成绩的信任正被动摇。",
-        "comment": "AI冲击考试公平，信任危机比技术本身更值得警惕。",
-        "image": "",
-        "score": 91
-      },
-      {
-        "category": "数码科技",
-        "tag": "苹果AI",
-        "title": "苹果AI试用期结束，开始收费",
-        "link": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign",
-        "summary": "苹果AI服务两年试用期已到，开始向用户收费，标志其AI商业化进入新阶段。",
-        "comment": "AI免费时代渐远，付费模式考验用户接受度。",
-        "image": "",
-        "score": 91
+        "score": 100
       }
     ]
   }
