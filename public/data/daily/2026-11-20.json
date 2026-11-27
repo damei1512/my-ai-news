@@ -5,10 +5,10 @@
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI发布对抗蒸馏防护方案",
+        "title": "OpenAI 多层防御对抗性蒸馏，防止能力被提取",
         "link": "https://openai.com/index/combatting-adversarial-distillation",
-        "summary": "OpenAI提出分层对抗蒸馏防护，结合模型训练、安全措施、检测与执法，防止能力被提取。",
-        "comment": "能力提取攻防升级，模型安全需多层协同。",
+        "summary": "OpenAI 介绍对抗性蒸馏的分层防御方案，结合模型训练、安全防护、检测与执法，防止模型能力被非法提取。",
+        "comment": "模型能力外泄风险上升，防御需贯穿训练到执法。",
         "image": "",
         "score": 100
       }
