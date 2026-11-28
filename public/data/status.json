@@ -1,7 +1,7 @@
 {
   "run_id": 1,
   "status": "success",
-  "finished_at": "2026-11-28T01:10:26Z",
+  "finished_at": "2026-11-28T15:08:06Z",
   "sources": 9,
   "raw_items": 80,
   "stories": 79,
@@ -36,7 +36,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/elonmusk"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "realdonaldtrump",
@@ -48,7 +48,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/realDonaldTrump"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "sama",
@@ -60,7 +60,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/sama"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "gdb",
@@ -72,7 +72,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/gdb"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "openai",
@@ -84,7 +84,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/OpenAI"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "karpathy",
@@ -96,7 +96,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/karpathy"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "anthropicai",
@@ -108,7 +108,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/AnthropicAI"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "googledeepmind",
@@ -120,7 +120,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/GoogleDeepMind"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "ylecun",
@@ -132,7 +132,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/ylecun"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "demishassabis",
@@ -144,7 +144,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/demishassabis"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "satyanadella",
@@ -156,7 +156,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/satyanadella"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "pmarca",
@@ -168,7 +168,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/pmarca"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "bindureddy",
@@ -180,7 +180,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/bindureddy"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "rauchg",
@@ -192,7 +192,7 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/rauchg"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       },
       {
         "account_id": "perplexity_ai",
@@ -204,12 +204,12 @@
         "attempted_urls": [
           "https://rsshub-boost.23751.net/twitter/user/perplexity_ai"
         ],
-        "error_message": "empty feed"
+        "error_message": "<unknown>:2:0: syntax error"
       }
     ],
     "stale": true,
     "stale_reason": "X feeds returned no new items; preserved previous digest.",
-    "generated_at": "2026-11-28T01:10:26Z",
+    "generated_at": "2026-11-28T15:08:06Z",
     "last_success_at": "2026-05-17T08:25:41Z"
   },
   "source_statuses": [

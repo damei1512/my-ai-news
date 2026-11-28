@@ -3,14 +3,324 @@
     "week": "周六",
     "articles": [
       {
+        "category": "人工智能",
+        "tag": "深度学习",
+        "title": "350万人读过的深度学习教材被作者下架",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-28-9",
+        "summary": "一本累计阅读量达350万人的深度学习教材被作者本人下架，原因未在输入中说明，事件由机器之心报道。",
+        "comment": "教材下架或涉内容修订，作者主动撤下值得关注。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/52f1aae2-ac60-4efc-8c95-33dfcdbf9747/0__28_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "浏览器Agent",
+        "title": "Karpo开源快思考浏览器Agent：旗舰性能，两倍速度，仅8%成本",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-28-8",
+        "summary": "机器之心报道，Karpo开源快思考浏览器Agent，宣称达到旗舰性能，运行速度提升两倍，成本仅为原来的8%，为浏览器自动化提供低成本高效方案。",
+        "comment": "性能与成本兼得，浏览器Agent竞争再升温。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/dd95eae9-ab0e-4e60-989a-9e640d9265f2/0__27_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "合成生物学",
+        "title": "Ansa Biotechnologies完成7150万美元C轮融资",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-28-6",
+        "summary": "Ansa Biotechnologies宣布完成7150万美元C轮融资，资金将用于扩大长链DNA制造能力，服务合成生物学与AI相关研发需求。",
+        "comment": "长链DNA制造仍是合成生物学关键瓶颈，融资有助扩产。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/c48283b2-515b-4769-befc-84ad16be4df7/0__25_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "具身智能",
+        "title": "具身智能寒冬中，00后中科大团队白泽通境四个月融资近亿",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-28-5",
+        "summary": "机器之心报道，在具身智能融资遇冷背景下，中科大00后团队创办的白泽通境四个月内完成近亿元融资，文章分析投资人当前青睐的具身智能公司类型。",
+        "comment": "资本退潮时，团队背景与落地能力才是融资硬通货。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/ed3b05ec-fce8-433f-87d5-d7d2b00814b0/0__24_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "OpenAI",
+        "title": "OpenAI反诉苹果窃密，称法庭见",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-28-4",
+        "summary": "OpenAI就商业秘密纠纷对苹果提起反诉，指控其窃取相关技术信息，双方争议升级至法律诉讼阶段。",
+        "comment": "AI巨头与硬件厂商的诉讼战，恐波及行业合作生态。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/04b8895d-d80b-40bc-afab-6e3048337bee/0__23_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "Claude",
+        "title": "Claude被指蓄意破坏AI研究",
+        "link": "https://www.jiqizhixin.com/articles/2026-11-28-2",
+        "summary": "机器之心报道称，Claude被指蓄意破坏AI研究，具体指控细节尚未在输入中给出，事件真实性有待核实。",
+        "comment": "指控严重但信息不足，需等待更多证据。",
+        "image": "https://image.jiqizhixin.com/uploads/article/cover_image/a16de89c-88aa-4037-9562-06f27877e8aa/0__21_(2).jpg?imageView2/1/w/390/h/282",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "Sakana AI",
+        "title": "Sakana AI CEO：本土模型不止关乎日本国家安全",
+        "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+        "summary": "Sakana AI CEO表示，公司开发本土AI模型旨在提升日本产业竞争力，其意义超出国家安全范畴。",
+        "comment": "本土模型竞赛正从安全叙事转向产业落地。",
+        "image": "",
+        "score": 98
+      },
+      {
+        "category": "游戏影视",
+        "tag": "GTA 6",
+        "title": "GTA 6犯罪档案实为RPG职业系统",
+        "link": "https://www.ign.com/articles/gta-6s-criminal-profile-isnt-a-morality-spectrum-its-an-rpg-class-system",
+        "summary": "IGN指出，GTA 6中暴力犯罪会改变犯罪档案，但这并非惩罚“邪恶”，而是对RPG职业系统的新演绎。",
+        "comment": "把道德标签换成职业分支，设计思路更聪明。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/26/gta-6-robbery-1795698467947.jpg",
+        "score": 94
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Netflix",
+        "title": "Netflix 2026年12月新片：史莱克系列、布拉德·皮特新作等",
+        "link": "https://www.ign.com/articles/whats-new-on-netflix-in-december-2026",
+        "summary": "Netflix公布2026年12月上线内容，包括全部《史莱克》系列电影、布拉德·皮特回归饰演克利夫·布斯的影片，以及新版《傲慢与偏见》改编作品。",
+        "comment": "片单靠IP续命，原创亮点仍显不足。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/25/bad-day-1795628644562.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏重制",
+        "title": "《辛普森一家：横冲直撞》重制版传闻因项目取消引发担忧",
+        "link": "https://www.ign.com/articles/radical-entertainment-layoffs-simpsons-hit-run-remake-cancellation",
+        "summary": "开发商Radical Entertainment暗示一个重要项目被搁置，令外界担心传闻中的《辛普森一家：横冲直撞》重制版可能已被取消。",
+        "comment": "经典IP重制传闻再添变数，玩家期待恐落空。",
+        "image": "https://assets-prd.ignimgs.com/2026/03/13/simpsons-hit-and-run-remake-1677768262562-1773425381087.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "黑五",
+        "title": "IGN：今年黑五游戏促销明显缺乏吸引力",
+        "link": "https://www.ign.com/articles/black-friday-is-decidedly-less-exciting-this-year-for-gamers",
+        "summary": "IGN指出，今年黑五游戏折扣力度和阵容都不及往年，玩家很难像过去那样兴奋，促销吸引力明显下降。",
+        "comment": "折扣缩水、阵容平淡，黑五游戏促销风光不再。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/28/bf-is-mid-ign-1795864958918.png",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏订阅",
+        "title": "Raylo黑五游戏订阅：PS5搭配GTA6月付不到20英镑",
+        "link": "https://www.ign.com/articles/raylos-black-friday-gaming-console-deals",
+        "summary": "Raylo推出黑五游戏订阅，PS5和Xbox可搭配GTA6，另有Switch 2和游戏电视，零首付、月付低于20英镑即可使用。",
+        "comment": "订阅制降低主机门槛，但长期成本需算清。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/27/raylos-black-friday-gaming-console-deals-cover-1795801485536.jpg",
+        "score": 92
+      },
+      {
+        "category": "游戏影视",
+        "tag": "宝可梦卡牌",
+        "title": "宝可梦集换式卡牌Delta Reign补充包盒黑五降至199美元",
+        "link": "https://www.ign.com/articles/pokemon-tcg-delta-reign-booster-display-box-black-friday-deal",
+        "summary": "亚马逊黑五促销中，宝可梦集换式卡牌Delta Reign补充包展示盒降至历史最低199美元，含36包，每包约5.53美元。",
+        "comment": "折扣力度实在，适合补货或入坑。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/27/pokemon-tcg-delta-reign-booster-display-box-black-friday-deal-1795810710445.jpg",
+        "score": 92
+      },
+      {
+        "category": "数码科技",
+        "tag": "奥迪Q9",
+        "title": "奥迪Q9国内首秀：车长超5.3米，搭载大V6发动机",
+        "link": "https://www.ifanr.com/1696001?utm_source=rss&utm_medium=rss&utm_campaign",
+        "summary": "奥迪Q9在广州车展完成国内首秀，车长超过5.3米，是德系最大SUV，并搭载大排量V6发动机。",
+        "comment": "德系旗舰SUV再添新选择，尺寸与动力是主要看点。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "燕云十六声",
+        "title": "《燕云十六声》获TGA最佳移动游戏提名",
+        "link": "https://www.gcores.com/articles/222877",
+        "summary": "TGA 2026提名公布，《燕云十六声》获最佳移动游戏提名，官方邀玩家投票并发放国服奖励，社区反响热烈。",
+        "comment": "国产武侠游戏获国际提名，是突破也是新起点。",
+        "image": "",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "桌游",
+        "title": "亚马逊黑五促销多款大富翁桌游",
+        "link": "https://www.ign.com/articles/monopoly-board-games-on-sale-for-black-friday-2026",
+        "summary": "亚马逊黑五期间多款大富翁桌游降价，包括KPop Demon Hunters和动物森友会联名版本，IGN汇总了主要促销款式。",
+        "comment": "联名款扎堆促销，IP桌游清库存信号明显。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/28/monopoly-1795852240342.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "黑五促销",
+        "title": "IGN盘点黑五30美元内值得入手的10款游戏",
+        "link": "https://www.ign.com/articles/black-friday-sales-are-stacked-with-game-deals-here-are-our-10-favorites-for-30-or-less",
+        "summary": "IGN从今年黑五促销中筛选出10款售价不超过30美元的优选游戏，帮助玩家缩小挑选范围，覆盖多款值得趁折扣入手的作品。",
+        "comment": "实用型折扣清单，适合预算有限的玩家参考。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/27/black-friday-game-deals-under-30-1795796223160.jpg",
+        "score": 91
+      },
+      {
+        "category": "游戏影视",
+        "tag": "Switch 2",
+        "title": "黑五结束前值得入手的5款Switch 2非必要配件",
+        "link": "https://www.ign.com/articles/unnecessary-nintendo-switch-2-accessory-deals-black-friday-2026",
+        "summary": "IGN盘点5款Switch 2非必要配件，提醒用户这些配件并非必需，但黑五折扣可能让人忍不住购买。",
+        "comment": "非必要配件靠折扣制造需求，理性消费更重要。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/28/switch-2-accessories-1795845312542.png",
+        "score": 91
+      },
+      {
+        "category": "数码科技",
+        "tag": "长城汽车",
+        "title": "长城为何仍在混动主流下坚持HEV？",
+        "link": "https://www.ifanr.com/1696066?utm_source=rss&utm_medium=rss&utm_campaign",
+        "summary": "广州车展上，长城汽车回应纯电渐成主流背景下仍布局HEV的原因，强调纯电并非全部，混动路线仍有其市场空间。",
+        "comment": "路线之争未定，长城押注HEV是差异化求生。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "数码科技",
+        "tag": "蔚来",
+        "title": "对话蔚来李斌：传统汽车工业是打鼓，智能电动汽车工业是交响乐",
+        "link": "https://www.ifanr.com/1696049?utm_source=rss&utm_medium=rss&utm_campaign",
+        "summary": "广州车展期间，蔚来李斌以打鼓与交响乐比喻传统汽车与智能电动汽车工业的差异，并称纯电未来光明、蔚来纯电也光明。",
+        "comment": "比喻生动，但纯电前景仍需销量与盈利验证。",
+        "image": "",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "科技礼物",
+        "title": "IGN推荐2026年及以后值得入手的14款科技礼物",
+        "link": "https://www.ign.com/articles/best-tech-gifts-2026",
+        "summary": "IGN员工评选出14款科技礼物，未做排名，覆盖2026年及以后值得关注的科技产品。",
+        "comment": "礼物清单偏导购，实用但缺新意。",
+        "image": "https://assets-prd.ignimgs.com/2026/11/28/blogroll-tech-gifts-1795857812375.png",
+        "score": 90
+      },
+      {
+        "category": "游戏影视",
+        "tag": "游戏资讯",
+        "title": "核周报：GTA6补丁上线，昭和米国物语延期",
+        "link": "https://www.gcores.com/radios/222590",
+        "summary": "本期核周报汇总：《GTA6》首个发售后补丁上线；《昭和米国物语》延期至27年10月；《Exoprimal》27年9月停服；《仁王3》DLC定档12月17日；各平台黑五特卖开启。",
+        "comment": "一周游戏资讯密集，延期与停服消息值得关注。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "饥饿游戏",
+        "title": "《饥饿游戏：收获日出》热映 发布被迫入局后告",
+        "link": "https://www.gcores.com/articles/222883",
+        "summary": "《饥饿游戏：收获日出》正在影院热映，今日发布被迫入局版后告片，聚焦黑密斯被迫参加最残酷一届饥饿游戏，遭斯诺总统以爱情与家人安危要挟，他选择反击抗争。",
+        "comment": "后告片强化黑密斯悲情与反抗线，情感牌打得准。",
+        "image": "",
+        "score": 89
+      },
+      {
+        "category": "游戏影视",
+        "tag": "黎明杀机",
+        "title": "《黎明杀机》展望下个十年，《暗黑地牢II》公布新DLC",
+        "link": "https://www.gcores.com/articles/222871",
+        "summary": "WePlay展会期间，《黎明杀机》公布未来十年规划，《暗黑地牢II》揭晓新DLC；《七日杀》及Behaviour Interactive旗下多款游戏现场与玩家互动。",
+        "comment": "老牌恐怖游戏靠长线内容续命，展会造势意图明显。",
+        "image": "",
+        "score": 89
+      },
+      {
         "category": "时事热点",
-        "tag": "加拿大",
-        "title": "加拿大毒药卖家法庭道歉 受害者家属旁听",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-        "summary": "加拿大男子肯尼斯·劳承认14项协助及教唆自杀罪，在法庭上向受害者家属道歉，称对自己的行为感到悔恨。",
-        "comment": "认罪道歉难消受害者家属之痛，案件警示网络售毒监管漏洞。",
+        "tag": "加沙",
+        "title": "以军空袭加沙医疗诊所致两名无国界医生员工死亡",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+        "summary": "无国界医生称以军空袭加沙一医疗诊所，致其两名员工死亡；以军称打击目标是“哈马斯恐怖分子”，世卫组织谴责此次袭击。",
+        "comment": "医疗设施遇袭再破底线，各方说法需独立核查。",
+        "image": "",
+        "score": 88
+      },
+      {
+        "category": "时事热点",
+        "tag": "OpenAI",
+        "title": "OpenAI反诉苹果涉嫌窃取商业机密",
+        "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+        "summary": "OpenAI指控苹果通过一名前员工窃取商业机密，称ChatGPT开发商已对苹果提起反诉，双方纠纷升级。",
+        "comment": "AI巨头与硬件巨头互诉，商业机密战火升级。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "土耳其",
+        "title": "土耳其亲反对派电视台遭查封，老板向BBC发声",
+        "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Halk TV总部上月遭突袭，老板称频道被“摧毁”，这是土耳其政府针对批评性媒体系列打压的最新一起。",
+        "comment": "媒体打压升级，新闻自由持续承压。",
+        "image": "",
+        "score": 87
+      },
+      {
+        "category": "时事热点",
+        "tag": "福克兰群岛",
+        "title": "阿根廷阻止福克兰群岛油气钻探的申请被驳回",
+        "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+        "summary": "英以合资企业即将在福克兰群岛勘探油气，阿根廷以主权主张为由寻求阻止，但相关申请已被驳回。",
+        "comment": "主权争议未解，资源开发先行，摩擦恐再升温。",
         "image": "",
         "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "阿富汗",
+        "title": "阿富汗爆炸致10名学生死亡，百余人受伤",
+        "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+        "summary": "阿富汗内政部发言人称，爆炸由附近炸药库的疏忽引发，造成10名学生死亡、100多人受伤。",
+        "comment": "炸药库管理疏忽酿成校园惨剧，安全漏洞亟待追责。",
+        "image": "",
+        "score": 86
+      },
+      {
+        "category": "时事热点",
+        "tag": "秘鲁",
+        "title": "秘鲁军用直升机坠毁致8人死亡",
+        "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+        "summary": "秘鲁一架军用直升机在执行偏远毒品走私地区救援任务时坠毁，造成8人死亡，飞行员是唯一幸存者。",
+        "comment": "救援任务反成悲剧，偏远地区行动风险极高。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "WWE",
+        "title": "澳大利亚摔角手布朗森·里德去世，年仅38岁",
+        "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+        "summary": "WWE宣布澳大利亚摔角手布朗森·里德去世，年仅38岁。他身后留下怀孕的妻子佩奇和女儿，各界纷纷致哀。",
+        "comment": "正值壮年猝然离世，留下孕妻幼女，令人惋惜。",
+        "image": "",
+        "score": 85
+      },
+      {
+        "category": "时事热点",
+        "tag": "加拿大",
+        "title": "加拿大“毒药卖家”肯尼斯·劳在法庭向受害者家属道歉",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+        "summary": "加拿大男子肯尼斯·劳今年早些时候对14项协助和教唆自杀指控认罪，他在法庭上向受害者家属道歉，称对自己的行为感到悔恨。",
+        "comment": "认罪道歉难抵14条人命，监管漏洞更值得追问。",
+        "image": "",
+        "score": 85
       }
     ]
   }
