@@ -7,8 +7,8 @@
         "tag": "AI玩具",
         "title": "纽约州禁售AI聊天玩具五年",
         "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-        "summary": "纽约州禁止AI聊天玩具五年，Common Sense Media研究揭示其安全缺陷，包括暴露不当内容及风险。",
-        "comment": "监管先行，儿童AI安全不能再靠厂商自觉。",
+        "summary": "纽约州禁止AI聊天玩具五年，Common Sense Media研究揭示安全缺陷，包括不当内容暴露等风险。",
+        "comment": "监管先行，安全争议倒逼AI玩具合规。",
         "image": "",
         "score": 100
       },
@@ -17,28 +17,48 @@
         "tag": "Character.AI",
         "title": "多州总检察长反对Character.AI拍卖用户私聊",
         "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-        "summary": "多州总检察长反对Character.AI破产出售方案，指其拟拍卖超2100万美国账户的敏感个人数据，其中210万注册者为未成年人。",
-        "comment": "用户私聊被当资产拍卖，监管红线不容试探。",
+        "summary": "多州总检察长反对Character.AI破产出售方案，该方案涉及超2100万美国账户的敏感个人数据，其中210万为未成年人注册。",
+        "comment": "用户私聊被当作破产资产拍卖，隐私保护底线受考验。",
+        "image": "",
+        "score": 100
+      },
+      {
+        "category": "人工智能",
+        "tag": "AI代理",
+        "title": "亚马逊与Meta据报洽谈解除AI代理Muse封锁",
+        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "summary": "亚马逊与Meta正就一项潜在协议进行讨论，拟结束对AI代理Muse长达两个月的封锁，具体条款尚未披露。",
+        "comment": "巨头博弈转向谈判，AI代理生态规则或生变。",
         "image": "",
         "score": 100
       },
       {
         "category": "人工智能",
         "tag": "英伟达",
-        "title": "标普考虑因治理与关键人风险下调英伟达评级",
+        "title": "标普考虑因治理与关键人风险下调英伟达信用评级",
         "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-        "summary": "标普全球评级考虑将英伟达信用评级下调至AA-，即第四高评级，理由涉及公司治理和关键人风险。",
-        "comment": "AI龙头治理风险被评级机构摆上台面，值得警惕。",
+        "summary": "标普可能将英伟达信用评级下调至AA-，即第四高评级，理由涉及公司治理和关键人风险。",
+        "comment": "AI龙头也难逃治理审视，关键人风险成估值隐忧。",
         "image": "",
         "score": 99
       },
       {
         "category": "人工智能",
         "tag": "OpenAI",
-        "title": "OpenAI合并Chat与Work，重度用户或更早触限",
+        "title": "OpenAI合并Chat与Work，重度用户或更早触达限额",
         "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-        "summary": "OpenAI将Chat与Work体验合并，并在ChatGPT中引入统一用量计量，重度用户可能更早触及使用上限。",
-        "comment": "合并体验便于统一管理，但重度用户成本上升。",
+        "summary": "OpenAI将Chat与Work体验合并，并在ChatGPT中启用统一用量计量，重度用户可能更快触及使用上限。",
+        "comment": "合并体验统一计费，重度用户成本与限制更敏感。",
+        "image": "",
+        "score": 99
+      },
+      {
+        "category": "人工智能",
+        "tag": "Anthropic",
+        "title": "Anthropic CEO驳斥向AI让渡人类控制权指控",
+        "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "summary": "Anthropic CEO Dario Amodei回应竞争对手指控，否认主张将人类自主权让渡给AI，称相关说法荒谬；与此同时，头部AI公司正加速推进自身研发自动化。",
+        "comment": "争议背后是AI自动化边界与人类控制权的真实分歧。",
         "image": "",
         "score": 99
       },
@@ -54,31 +74,11 @@
       },
       {
         "category": "人工智能",
-        "tag": "AI代理",
-        "title": "亚马逊与Meta据报洽谈解除AI代理Muse封锁",
-        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-        "summary": "亚马逊与Meta正讨论一项潜在协议，拟结束对AI代理Muse长达两个月的封锁，具体条款尚未披露。",
-        "comment": "巨头谈判松动，AI代理生态或迎转机。",
-        "image": "",
-        "score": 99
-      },
-      {
-        "category": "人工智能",
         "tag": "英伟达",
         "title": "黄仁勋违反英伟达行为准则，员工或难释怀",
         "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-        "summary": "TechCrunch指出，英伟达行为准则本应体现企业文化，但黄仁勋的违规可能带来后果，员工未必会轻易忘记。",
-        "comment": "CEO带头破规，企业文化承诺面临信任考验。",
-        "image": "",
-        "score": 98
-      },
-      {
-        "category": "人工智能",
-        "tag": "Anthropic",
-        "title": "Anthropic CEO Amodei 驳斥向AI让渡人类控制权指控",
-        "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-        "summary": "Anthropic CEO Dario Amodei 回应竞争对手指控，否认自己主张将人类自主权让渡给AI，尽管各大AI公司正加速自动化自身研究。",
-        "comment": "争议核心是AI自主边界，表态难消外界疑虑。",
+        "summary": "TechCrunch指出，英伟达行为准则本应体现企业文化，但黄仁勋此次违反准则，可能影响员工信任与内部文化。",
+        "comment": "创始人破例，文化代价常被低估。",
         "image": "",
         "score": 98
       },
@@ -87,18 +87,18 @@
         "tag": "空洞骑士",
         "title": "《空洞骑士：丝之歌》首个扩展包详情周五公布",
         "link": "https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch/",
-        "summary": "GameSpot报道，《空洞骑士：丝之歌》首个扩展包详情将于周五公布，官方同时说明了观看方式。该作发售后玩家持续关注后续内容。",
-        "comment": "扩展包消息来得快，能否兑现期待是关键。",
+        "summary": "GameSpot报道，《空洞骑士：丝之歌》首个扩展包详情将于周五公布，官方同时说明了观看方式。该作发售前因长期等待成为网络梗，发售后玩家已开始期待后续内容。",
+        "comment": "热度未退就推扩展，Team Cherry趁势稳住玩家期待。",
         "image": "https://www.gamespot.com/wp-content/uploads/original/1752/17528202/4665483-12.silksong.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "EA",
-        "title": "EA在FC 27中用AI复刻已故解说员莫特森声音",
+        "title": "EA在FC 27中用AI复现已故解说员莫特森声音",
         "link": "https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27/",
-        "summary": "EA Sports FC 27将首次引入AI生成解说员，用合成语音重现已故英国名嘴约翰·莫特森的声音，用于足球游戏解说。",
-        "comment": "技术致敬还是消费逝者，边界值得追问。",
+        "summary": "EA Sports FC 27将首次引入AI生成解说员，用合成语音重现已故英国名嘴约翰·莫特森的解说，距其去世已三年。",
+        "comment": "AI复现逝者声音，技术与伦理边界再受考验。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/ea-sports-fc-26.jpg?w=300",
         "score": 92
       },
@@ -107,30 +107,30 @@
         "tag": "GTA 6",
         "title": "GTA 6取消任务重玩功能，称其感觉疏离脱节",
         "link": "https://www.gamespot.com/articles/why-gta-6-doesnt-let-you-replay-missions-it-felt-alien-and-disconnected/",
-        "summary": "GTA 6不再提供简单直接的任务重玩选项，与GTA 5不同。开发者称该机制让人感觉疏离脱节，因此做出调整。",
-        "comment": "重玩功能被砍，是叙事优先还是体验倒退？",
+        "summary": "GTA 6不再提供像GTA 5那样直接的任务重玩选项，开发者称该机制让人感到陌生且与游戏体验脱节。",
+        "comment": "移除便利功能未必是退步，关键看设计能否自洽。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_242d72.jpg?w=300",
         "score": 92
       },
       {
         "category": "游戏影视",
         "tag": "暗黑破坏神4",
-        "title": "暗黑4最怀旧赛季将大部分永久保留",
+        "title": "暗黑4最怀旧赛季将基本永久保留",
         "link": "https://www.gamespot.com/articles/diablo-4s-most-nostalgic-season-is-becoming-mostly-permanent/",
-        "summary": "暴雪宣布《暗黑破坏神4》第16赛季上线后，上一人气赛季的大部分内容将永久保留，而非完全移除。",
-        "comment": "保留怀旧机制是稳住老玩家的务实选择。",
+        "summary": "暴雪确认《暗黑破坏神4》第16赛季上线后，上一热门赛季的大部分内容不会移除，将转为常驻机制。",
+        "comment": "怀旧内容常驻，是留住老玩家的务实选择。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Hells-Legacy-Season-Becoming-Permanent.jpg?w=300",
         "score": 91
       },
       {
         "category": "游戏影视",
         "tag": "卡普空",
-        "title": "卡普空《Exoprimal》明年停服，服务型游戏再添败例",
+        "title": "卡普空恐龙射击游戏Exoprimal明年停服",
         "link": "https://www.gamespot.com/articles/another-live-service-game-is-going-extinct-and-this-one-has-dinosaurs/",
-        "summary": "卡普空宣布恐龙题材多人射击游戏《Exoprimal》将于明年停止服务器运营，这款被视作“恐龙版守望先锋”的作品未能延续公司今年的成功势头。",
-        "comment": "服务型游戏赛道拥挤，缺乏持续内容难逃停服。",
+        "summary": "卡普空今年成绩亮眼，但其恐龙题材多人射击游戏《Exoprimal》宣布将于明年停服，加入服务型游戏停运名单。",
+        "comment": "服务型游戏竞争残酷，停运已成常态。",
         "image": "https://www.gamespot.com/wp-content/uploads/2026/11/Exoprimal.jpg?w=300",
-        "score": 91
+        "score": 90
       }
     ]
   }
